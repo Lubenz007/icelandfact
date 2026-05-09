@@ -35,7 +35,8 @@ body = json.dumps({
     "generationConfig": {
         "temperature": 0.8,
         "maxOutputTokens": 1024,
-        "responseMimeType": "application/json"
+        "responseMimeType": "application/json",
+        "thinkingConfig": {"thinkingBudget": 0}
     }
 }).encode()
 
