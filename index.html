@@ -5,258 +5,398 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Í dag í sögunni – alit.is</title>
   <meta name="description" content="Söguleg staðreynd um hvern dag á árinu frá íslenskri og heimssögu." />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400&display=swap" rel="stylesheet" />
   <style>
-    :root {
-      --bg:       #f5f3ee;
-      --card:     #ffffff;
-      --text:     #1a1a18;
-      --muted:    #6b6960;
-      --hint:     #9c998f;
-      --accent:   #1a5c96;
-      --pill-bg:  #e4e1d9;
-      --divider:  #eeece7;
-      --radius:   18px;
-    }
-
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
-      background: var(--bg);
+      background: #ccc9bc;
+      font-family: Georgia, 'Times New Roman', serif;
+      color: #0c0c0a;
       min-height: 100svh;
       display: flex;
       flex-direction: column;
       align-items: center;
-      padding: 2.5rem 1.25rem 3rem;
-      color: var(--text);
+      padding: 1.5rem 1rem 3rem;
     }
 
-    header {
-      text-align: center;
-      margin-bottom: 1.75rem;
-    }
-
-    header h1 {
-      font-size: 1.05rem;
-      font-weight: 600;
-      letter-spacing: -0.01em;
-      color: var(--text);
-    }
-
-    .date-pill {
-      display: inline-block;
-      margin-top: 8px;
-      font-size: 0.82rem;
-      color: var(--muted);
-      background: var(--pill-bg);
-      padding: 5px 14px;
-      border-radius: 99px;
-      letter-spacing: 0.01em;
-    }
-
-    .card {
-      background: var(--card);
-      border-radius: var(--radius);
-      padding: 1.75rem 1.5rem;
-      max-width: 430px;
+    /* ── PAPER ── */
+    .paper {
+      background: #f8f6ee;
       width: 100%;
+      max-width: 660px;
+      padding: 1.75rem 1.5rem 2rem;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.28), 0 1px 4px rgba(0,0,0,0.1);
     }
 
-    /* ── Loading state ── */
-    .loading {
+    /* ── MASTHEAD ── */
+    .masthead {
+      text-align: center;
+      border-bottom: 3px double #0c0c0a;
+      padding-bottom: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .masthead-title {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(2rem, 7vw, 3rem);
+      font-weight: 900;
+      line-height: 1;
+      letter-spacing: -0.015em;
+    }
+    .masthead-sub {
+      font-size: 0.62rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: #666;
+      margin-top: 0.35rem;
+    }
+
+    /* ── DATE BAND ── */
+    .date-band {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      border-bottom: 2px solid #0c0c0a;
+      margin-bottom: 0.8rem;
+    }
+    .date-left {
+      padding: 0.5rem 0.75rem 0.5rem 0;
+      border-right: 1px solid #0c0c0a;
+    }
+    .date-big {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(1.5rem, 5vw, 2.1rem);
+      font-weight: 700;
+      line-height: 1.15;
+    }
+    .date-year {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(3.2rem, 11vw, 5.2rem);
+      font-weight: 900;
+      line-height: 0.88;
+      letter-spacing: -0.03em;
+    }
+    .date-right {
+      padding: 0.5rem 0 0.5rem 0.75rem;
       display: flex;
       flex-direction: column;
-      align-items: center;
-      gap: 14px;
-      padding: 2.5rem 0;
+      justify-content: center;
+      gap: 0.45rem;
     }
-
-    .spinner {
-      width: 26px;
-      height: 26px;
-      border: 2.5px solid var(--divider);
-      border-top-color: var(--hint);
-      border-radius: 50%;
-      animation: spin 0.75s linear infinite;
-    }
-
-    @keyframes spin { to { transform: rotate(360deg); } }
-
-    .loading p {
-      font-size: 0.88rem;
-      color: var(--hint);
-    }
-
-    /* ── Fact content ── */
-    .label {
-      font-size: 0.68rem;
-      font-weight: 600;
-      letter-spacing: 0.09em;
+    .info-label {
+      font-size: 0.56rem;
+      letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: var(--hint);
-      margin-bottom: 0.75rem;
+      color: #777;
+      line-height: 1;
+    }
+    .info-value {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-weight: 700;
+      font-size: clamp(0.78rem, 2.5vw, 0.95rem);
+      letter-spacing: 0.06em;
+      text-transform: uppercase;
+      line-height: 1.2;
+    }
+    .info-rows {
+      font-size: clamp(0.7rem, 2vw, 0.8rem);
+      line-height: 1.9;
+      color: #333;
     }
 
-    .fact-main {
-      font-size: 1.13rem;
-      line-height: 1.65;
-      color: var(--text);
-    }
-
-    .divider {
-      height: 1px;
-      background: var(--divider);
-      margin: 1.25rem 0;
-    }
-
-    .fact-detail {
-      font-size: 0.91rem;
-      line-height: 1.65;
-      color: var(--muted);
-    }
-
-    .fact-year {
-      display: inline-block;
-      margin-top: 1rem;
-      font-size: 0.78rem;
-      font-weight: 600;
-      color: var(--accent);
-      letter-spacing: 0.04em;
-    }
-
-    /* ── Buttons ── */
-    .btn {
+    /* ── SECTION HEADER ── */
+    .sec-head {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(1.1rem, 4vw, 1.45rem);
+      font-weight: 700;
       display: flex;
       align-items: center;
-      justify-content: center;
-      gap: 7px;
-      width: 100%;
-      margin-top: 1.4rem;
-      padding: 0.72rem 1rem;
-      border-radius: 12px;
-      border: 1px solid var(--divider);
-      background: transparent;
-      font-size: 0.88rem;
-      color: var(--muted);
-      cursor: pointer;
-      transition: background 0.15s;
-      font-family: inherit;
+      gap: 0.5rem;
+      border-bottom: 1px solid #0c0c0a;
+      padding-bottom: 0.2rem;
+      margin-bottom: 0.55rem;
+    }
+    .sec-head-dots {
+      flex: 1;
+      border-bottom: 1px dotted #aaa;
+      margin-bottom: 0.1rem;
     }
 
-    .btn:active { background: var(--bg); }
+    /* ── EVENTS ── */
+    .events-wrap {
+      border-bottom: 1px solid #0c0c0a;
+      margin-bottom: 0.8rem;
+      padding-bottom: 0.8rem;
+    }
+    .event-row {
+      display: grid;
+      grid-template-columns: 2.8rem 1fr;
+      gap: 0.4rem;
+      align-items: baseline;
+      padding: 0.16rem 0;
+      font-size: clamp(0.76rem, 2.2vw, 0.87rem);
+      line-height: 1.55;
+    }
+    .event-year {
+      font-weight: 700;
+      font-variant-numeric: tabular-nums;
+    }
+    .event-text { color: #111; }
 
-    /* ── Error state ── */
-    .error-box {
-      text-align: center;
-      padding: 1.5rem 0;
+    /* ── BOTTOM TWO-COL ── */
+    .bottom-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0 1.25rem;
     }
 
-    .error-box p {
-      font-size: 0.9rem;
-      color: #b84040;
+    /* ── BIRTHDAYS ── */
+    .bd-item {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 0.25rem;
+      align-items: start;
+      padding: 0.2rem 0;
+      border-bottom: 1px dotted #ccc;
+      font-size: clamp(0.7rem, 2vw, 0.8rem);
       line-height: 1.5;
     }
+    .bd-name { font-weight: 700; }
+    .bd-role { color: #555; font-style: italic; font-size: 0.85em; }
+    .bd-year { font-weight: 700; white-space: nowrap; padding-left: 0.3rem; }
 
-    /* ── Footer ── */
-    footer {
-      margin-top: 1.75rem;
-      font-size: 0.72rem;
-      color: var(--hint);
+    /* ── MUSIC / MOVIE ── */
+    .media-item {
+      padding: 0.25rem 0;
+      border-bottom: 1px dotted #ccc;
+      font-size: clamp(0.7rem, 2vw, 0.8rem);
+      line-height: 1.5;
+    }
+    .media-label {
+      font-size: 0.58rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: #777;
+    }
+    .media-text { font-weight: 700; }
+
+    /* ── LOADING / ERROR ── */
+    .state-box {
       text-align: center;
-      line-height: 1.7;
+      padding: 3rem 0;
+    }
+    .spinner {
+      width: 22px; height: 22px;
+      border: 2px solid #ccc;
+      border-top-color: #555;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin: 0 auto 1rem;
+    }
+    @keyframes spin { to { transform: rotate(360deg); } }
+    .state-box p { font-size: 0.85rem; color: #666; line-height: 1.6; }
+    .retry-btn {
+      margin-top: 1rem;
+      padding: 0.45rem 1.1rem;
+      border: 1px solid #555;
+      background: transparent;
+      font-family: inherit;
+      font-size: 0.8rem;
+      cursor: pointer;
+      letter-spacing: 0.04em;
+    }
+    #error-detail {
+      font-size: 0.72rem;
+      color: #b84040;
+      margin-top: 0.4rem;
+      word-break: break-word;
     }
 
-    footer a { color: var(--hint); text-decoration: none; }
+    /* ── FOOTER ── */
+    .paper-footer {
+      text-align: center;
+      margin-top: 1.25rem;
+      padding-top: 0.6rem;
+      border-top: 1px solid #0c0c0a;
+      font-size: 0.6rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: #888;
+    }
+
+    @media (max-width: 380px) {
+      .paper { padding: 1.25rem 1rem 1.5rem; }
+      .bottom-grid { grid-template-columns: 1fr; }
+      .bottom-grid > div + div {
+        border-top: 1px solid #ccc;
+        margin-top: 0.75rem;
+        padding-top: 0.75rem;
+      }
+    }
   </style>
 </head>
 <body>
 
-  <header>
-    <h1>📅 Í dag í sögunni</h1>
-    <span class="date-pill" id="date-display">…</span>
-  </header>
+<div class="paper">
 
-  <div class="card" id="card">
+  <div class="masthead">
+    <div class="masthead-title">Í dag í sögunni</div>
+    <div class="masthead-sub" id="dateline">alit.is</div>
+  </div>
 
-    <div class="loading" id="state-loading">
-      <div class="spinner"></div>
-      <p>Leita að sögulegri staðreynd…</p>
+  <!-- Loading -->
+  <div class="state-box" id="state-loading">
+    <div class="spinner"></div>
+    <p>Leita að sögulegri staðreynd…</p>
+  </div>
+
+  <!-- Error -->
+  <div class="state-box" id="state-error" style="display:none">
+    <p>Ekki tókst að sækja gögn.</p>
+    <p id="error-detail"></p>
+    <button class="retry-btn" onclick="loadFact(true)">Reyna aftur</button>
+  </div>
+
+  <!-- Content -->
+  <div id="state-content" style="display:none">
+
+    <div class="date-band">
+      <div class="date-left">
+        <div class="date-big" id="date-daymonth"></div>
+        <div class="date-year" id="date-year"></div>
+      </div>
+      <div class="date-right">
+        <div>
+          <div class="info-label">Vikudagur</div>
+          <div class="info-value" id="vikudagur"></div>
+        </div>
+        <div class="info-rows" id="info-rows"></div>
+      </div>
     </div>
 
-    <div id="state-content" style="display:none">
-      <p class="label">Í dag í sögunni</p>
-      <p class="fact-main" id="fact-main"></p>
-      <span class="fact-year" id="fact-year"></span>
-      <div class="divider"></div>
-      <p class="fact-detail" id="fact-detail"></p>
+    <div class="events-wrap">
+      <div class="sec-head">Á þessum degi <span class="sec-head-dots"></span></div>
+      <div id="events"></div>
     </div>
 
-    <div id="state-error" style="display:none">
-      <div class="error-box">
-        <p>Ekki tókst að sækja staðreynd. Reyndu aftur.</p>
-        <p id="error-detail" style="font-size:0.78rem;color:#b84040;margin-top:0.5rem;word-break:break-word;"></p>
-        <button class="btn" style="margin-top:1rem" onclick="loadFact(true)">Reyna aftur</button>
+    <div class="bottom-grid">
+      <div>
+        <div class="sec-head">Afmælisdagar <span class="sec-head-dots"></span></div>
+        <div id="birthdays"></div>
+      </div>
+      <div>
+        <div class="sec-head">Tónlist &amp; Kvikmynd <span class="sec-head-dots"></span></div>
+        <div id="media"></div>
       </div>
     </div>
 
   </div>
 
-  <footer>
-    <span>Knúið af Gemini AI · alit.is</span>
-  </footer>
+  <div class="paper-footer">Knúið af Gemini AI · alit.is</div>
 
-  <script>
-    const MONTHS_IS = [
-      "janúar","febrúar","mars","apríl","maí","júní",
-      "júlí","ágúst","september","október","nóvember","desember"
-    ];
+</div>
 
-    const now   = new Date();
-    const month = MONTHS_IS[now.getMonth()];
-    const day   = now.getDate();
+<script>
+  const MONTHS_IS = [
+    "janúar","febrúar","mars","apríl","maí","júní",
+    "júlí","ágúst","september","október","nóvember","desember"
+  ];
 
-    document.getElementById("date-display").textContent = `${day}. ${month}`;
+  const now   = new Date();
+  const day   = now.getDate();
+  const month = MONTHS_IS[now.getMonth()];
+  const year  = now.getFullYear();
 
-    function setState(name) {
-      ["loading","content","error"].forEach(s => {
-        document.getElementById("state-" + s).style.display =
-          s === name ? "block" : "none";
-      });
+  document.getElementById("dateline").textContent =
+    `${day}. ${month} ${year}  ·  alit.is`;
+
+  function setState(s) {
+    ["loading","content","error"].forEach(n => {
+      document.getElementById("state-" + n).style.display = n === s ? "block" : "none";
+    });
+  }
+
+  function el(tag, cls, html) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (html !== undefined) e.innerHTML = html;
+    return e;
+  }
+
+  function showFact(f) {
+    document.getElementById("date-daymonth").textContent = `${day}. ${month}`;
+    document.getElementById("date-year").textContent = year;
+    document.getElementById("vikudagur").textContent = f.vikudagur || "";
+
+    const rows = [];
+    if (f.dagurArsins) rows.push(`${f.dagurArsins}. dagur ársins`);
+    if (f.sunrise)     rows.push(`Sólarupprás kl. ${f.sunrise}`);
+    if (f.sunset)      rows.push(`Sólarlag kl. ${f.sunset}`);
+    document.getElementById("info-rows").textContent = rows.join("\n");
+
+    // Events
+    const evEl = document.getElementById("events");
+    evEl.innerHTML = "";
+    (f.atburdir || []).forEach(e => {
+      const row = el("div", "event-row");
+      row.appendChild(el("span", "event-year", e.ar));
+      row.appendChild(el("span", "event-text", e.texti));
+      evEl.appendChild(row);
+    });
+
+    // Birthdays
+    const bdEl = document.getElementById("birthdays");
+    bdEl.innerHTML = "";
+    (f.afmaeli || []).forEach(p => {
+      const item = el("div", "bd-item",
+        `<div><div class="bd-name">${p.nafn}</div><div class="bd-role">${p.starfsgrein}</div></div>` +
+        `<div class="bd-year">${p.ar}</div>`
+      );
+      bdEl.appendChild(item);
+    });
+
+    // Media
+    const mdEl = document.getElementById("media");
+    mdEl.innerHTML = "";
+    [
+      { label: "Lag #1 – USA",        val: f.tonlistUSA },
+      { label: "Lag #1 – UK",         val: f.tonlistUK  },
+      { label: "Kvikmynd #1 – USA",   val: f.bio        },
+    ].forEach(({ label, val }) => {
+      if (!val) return;
+      mdEl.appendChild(el("div", "media-item",
+        `<div class="media-label">${label}</div><div class="media-text">${val}</div>`
+      ));
+    });
+
+    setState("content");
+  }
+
+  async function loadFact(force = false) {
+    const today    = `${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
+    const cacheKey = `alit_fact_${today}`;
+
+    if (!force) {
+      const cached = localStorage.getItem(cacheKey);
+      if (cached) { showFact(JSON.parse(cached)); return; }
     }
 
-    function showFact(fact) {
-      document.getElementById("fact-main").textContent   = fact.fyrirsogn  || "";
-      document.getElementById("fact-detail").textContent = fact.smaaatridi || "";
-      document.getElementById("fact-year").textContent   = fact.ar ? `Árið ${fact.ar}` : "";
-      setState("content");
+    setState("loading");
+
+    try {
+      const res = await fetch(`./fact.json?d=${today}`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const fact = await res.json();
+      localStorage.setItem(cacheKey, JSON.stringify(fact));
+      showFact(fact);
+    } catch (err) {
+      console.error("Villa:", err);
+      document.getElementById("error-detail").textContent = err.message || String(err);
+      setState("error");
     }
+  }
 
-    async function loadFact(force = false) {
-      const today    = `${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
-      const cacheKey = `alit_fact_${today}`;
-
-      if (!force) {
-        const cached = localStorage.getItem(cacheKey);
-        if (cached) { showFact(JSON.parse(cached)); return; }
-      }
-
-      setState("loading");
-
-      try {
-        const res = await fetch(`./fact.json?d=${today}`);
-        if (!res.ok) throw new Error(`HTTP ${res.status}`);
-        const fact = await res.json();
-        localStorage.setItem(cacheKey, JSON.stringify(fact));
-        showFact(fact);
-      } catch (err) {
-        console.error("Villa:", err);
-        document.getElementById("error-detail").textContent = err.message || String(err);
-        setState("error");
-      }
-    }
-
-    loadFact();
-  </script>
+  loadFact();
+</script>
 
 </body>
 </html>

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+  <meta charset="UTF-8" />
+  <title>QR kóði – icelandfact.alit.is</title>
+  <style>
+    body {
+      background: #f5f3ee;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      gap: 1.5rem;
+      padding: 2rem;
+      margin: 0;
+    }
+    h1 { font-size: 1rem; color: #6b6960; letter-spacing: 0.02em; }
+    #qr-wrap {
+      background: white;
+      padding: 28px;
+      border-radius: 18px;
+      box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+    }
+    #qr-wrap canvas { display: block; width: 280px; height: 280px; }
+    .btn {
+      padding: 0.75rem 1.75rem;
+      background: #1a5c96;
+      color: white;
+      border: none;
+      border-radius: 12px;
+      font-size: 0.9rem;
+      cursor: pointer;
+      font-family: inherit;
+    }
+    .btn:hover { opacity: 0.88; }
+    .note { font-size: 0.75rem; color: #9c998f; text-align: center; line-height: 1.6; }
+  </style>
+</head>
+<body>
+
+  <h1>icelandfact.alit.is</h1>
+
+  <div id="qr-wrap">
+    <div id="qrcode"></div>
+  </div>
+
+  <button class="btn" onclick="download()">Hlaða niður PNG (1024 × 1024)</button>
+  <p class="note">
+    Error correction: H (30%) — best for 3D printing<br>
+    Notaðu PNG beint í QR-to-STL tól eða slicer
+  </p>
+
+  <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
+  <script>
+    new QRCode(document.getElementById("qrcode"), {
+      text: "https://icelandfact.alit.is",
+      width: 1024,
+      height: 1024,
+      correctLevel: QRCode.CorrectLevel.H
+    });
+
+    function download() {
+      const canvas = document.querySelector("#qrcode canvas");
+      const a = document.createElement("a");
+      a.download = "icelandfact-qr.png";
+      a.href = canvas.toDataURL("image/png");
+      a.click();
+    }
+  </script>
+
+</body>
+</html>

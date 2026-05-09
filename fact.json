@@ -1,6 +1,24 @@
 {
-  "ar": "1945",
-  "fyrirsogn": "Seinni heimsstyrjöldinni lauk formlega í Evrópu með uppgjöf Þýskalands.",
-  "smaaatridi": "Þann 8. maí 1945 var lokaskjalið um skilyrðislausa uppgjöf Þýskalands undirritað í Reims, Frakklandi, sem tók gildi klukkan 23:01 CET þann 8. maí. Vegna tímamismunar var það þegar orðið 9. maí í Moskvu, og því fagna Rússar og margar fyrrum Sovétlýðveldir enn sigurdeginum þann 9. maí.",
-  "date": "2026-05-09"
+  "date": "2026-05-09",
+  "dagur": 9,
+  "manudur": "maí",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 129,
+  "sunrise": "05:04",
+  "sunset": "22:32",
+  "atburdir": [
+    { "ar": "1945", "texti": "Þýskaland kapitulerar formlega og lýkur þar með seinni heimsstyrjöldinni í Evrópu." },
+    { "ar": "1671", "texti": "Henry Morgan er skipaður aðalstjóri Jamaíku af breska konunginum." },
+    { "ar": "1386", "texti": "Ewigkeit-bandalagið er stofnað í Sviss, undanfari nútíma Svissneska ríkisins." },
+    { "ar": "1960", "texti": "Frakkland verður að fjórða ríkinu til að gera tilraun með kjarnorkusprengju." },
+    { "ar": "2001", "texti": "Vesturhluti Makedóníu er vígstur af uppreisnarmönnum." }
+  ],
+  "afmaeli": [
+    { "nafn": "Billy Joel", "starfsgrein": "Tónlistarmaður", "ar": "1949" },
+    { "nafn": "Candice Bergen", "starfsgrein": "Leikari", "ar": "1946" },
+    { "nafn": "Glenda Jackson", "starfsgrein": "Leikari & stjórnmálamaður", "ar": "1936" }
+  ],
+  "tonlistUSA": "Call Me – Blondie (1980)",
+  "tonlistUK": "Geno – Dexys Midnight Runners (1980)",
+  "bio": "The Empire Strikes Back (1980)"
 }
