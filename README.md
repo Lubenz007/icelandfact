@@ -18,10 +18,10 @@ A QR-code-friendly webpage that shows an AI-generated Icelandic historical fact 
 Open `index.html` and find this line near the bottom:
 
 ```js
-const GEMINI_API_KEY = "AIzaSyC9DH471uHfYO0GqCXlYU2-E1q73z7E9Mg";
+const GEMINI_API_KEY = "";
 ```
 
-Replace `AIzaSyC9DH471uHfYO0GqCXlYU2-E1q73z7E9Mg` with your actual key.
+Replace `` with your actual key.
 
 > ⚠️ The key is visible in the page source. This is fine for a personal/low-traffic
 > project. If you want to hide it, see the "Securing the key" section below.
