@@ -206,16 +206,6 @@
   </footer>
 
   <script>
-    // ─────────────────────────────────────────────────────────────────────────
-    // CONFIGURATION
-    // Replace the value below with your Gemini API key from aistudio.google.com
-    // ─────────────────────────────────────────────────────────────────────────
-    const GEMINI_API_KEY = "AIzaSyCDUY6e6FLmPykNcQ3XxaE893pvpqQtSRI";
-    // ─────────────────────────────────────────────────────────────────────────
-
-    const GEMINI_URL =
-      "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent";
-
     const MONTHS_IS = [
       "janúar","febrúar","mars","apríl","maí","júní",
       "júlí","ágúst","september","október","nóvember","desember"
@@ -225,8 +215,7 @@
     const month = MONTHS_IS[now.getMonth()];
     const day   = now.getDate();
 
-    document.getElementById("date-display").textContent =
-      `${day}. ${month}`;
+    document.getElementById("date-display").textContent = `${day}. ${month}`;
 
     function setState(name) {
       ["loading","content","error"].forEach(s => {
@@ -243,60 +232,24 @@
     }
 
     async function loadFact(force = false) {
-      const cacheKey = `alit_fact_${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
+      const today    = `${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
+      const cacheKey = `alit_fact_${today}`;
+
       if (!force) {
         const cached = localStorage.getItem(cacheKey);
-        if (cached) {
-          showFact(JSON.parse(cached));
-          return;
-        }
+        if (cached) { showFact(JSON.parse(cached)); return; }
       }
 
       setState("loading");
 
-      const prompt = `Þú ert íslenskur sagnfræðingur. Dagurinn í dag er ${day}. ${month}.
-
-Segðu mér eina áhugaverða og nákvæma söguleg staðreynd sem tengist þessum degi (${day}. ${month}) á hvaða ári sem er.
-Gefðu forgang íslenskri sögu (Ísland, Norðurlönd, Víkingar), en heimssaga er líka í lagi ef hún er sérstaklega áhugaverð.
-
-Svaraðu EINGÖNGU með JSON hlut á þessu nákvæma formi (engar markdown merkingar, ekkert annað):
-{
-  "ar": "Ártal atburðarins (t.d. 1944)",
-  "fyrirsogn": "Ein setnig sem lýsir atburðinum á íslensku.",
-  "smaaatridi": "Tvær eða þrjár setningar með áhugaverðum bakgrunni eða eftirmálum á íslensku."
-}`;
-
       try {
-        const res = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({
-            contents: [{ parts: [{ text: prompt }] }],
-            generationConfig: {
-              temperature: 0.8,
-              maxOutputTokens: 400,
-              responseMimeType: "application/json"
-            }
-          })
-        });
-
-        if (!res.ok) {
-          const err = await res.json().catch(() => ({}));
-          throw new Error(err?.error?.message || `HTTP ${res.status}`);
-        }
-
-        const data = await res.json();
-        const raw  = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
-        if (!raw) throw new Error("Tómt svar");
-
-        const clean = raw.replace(/```json|```/g, "").trim();
-        const fact  = JSON.parse(clean);
-
+        const res = await fetch(`./fact.json?d=${today}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const fact = await res.json();
         localStorage.setItem(cacheKey, JSON.stringify(fact));
         showFact(fact);
-
       } catch (err) {
-        console.error("Gemini villa:", err);
+        console.error("Villa:", err);
         document.getElementById("error-detail").textContent = err.message || String(err);
         setState("error");
       }
