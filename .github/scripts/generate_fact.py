@@ -15,7 +15,7 @@ day = now.day
 api_key = os.environ["GEMINI_API_KEY"]
 url = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
-    f"gemini-1.5-flash:generateContent?key={api_key}"
+    f"gemini-2.5-flash:generateContent?key={api_key}"
 )
 
 prompt = f"""Þú ert íslenskur sagnfræðingur. Dagurinn í dag er {day}. {month}.
@@ -42,8 +42,13 @@ body = json.dumps({
 req = urllib.request.Request(
     url, data=body, headers={"Content-Type": "application/json"}
 )
-with urllib.request.urlopen(req) as resp:
-    data = json.loads(resp.read())
+try:
+    with urllib.request.urlopen(req) as resp:
+        data = json.loads(resp.read())
+except urllib.error.HTTPError as e:
+    print(f"HTTP {e.code}: {e.reason}")
+    print(e.read().decode())
+    raise
 
 raw = data["candidates"][0]["content"]["parts"][0]["text"].strip()
 raw = raw.replace("```json", "").replace("```", "").strip()
