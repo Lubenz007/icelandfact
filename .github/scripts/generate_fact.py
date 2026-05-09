@@ -34,7 +34,7 @@ body = json.dumps({
     "contents": [{"parts": [{"text": prompt}]}],
     "generationConfig": {
         "temperature": 0.8,
-        "maxOutputTokens": 400,
+        "maxOutputTokens": 1024,
         "responseMimeType": "application/json"
     }
 }).encode()
@@ -52,6 +52,7 @@ except urllib.error.HTTPError as e:
 
 raw = data["candidates"][0]["content"]["parts"][0]["text"].strip()
 raw = raw.replace("```json", "").replace("```", "").strip()
+print(f"Raw response: {raw}")
 fact = json.loads(raw)
 fact["date"] = now.strftime("%Y-%m-%d")
 
