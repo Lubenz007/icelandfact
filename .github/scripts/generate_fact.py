@@ -1,14 +1,14 @@
 import json
 import urllib.request
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 MONTHS_IS = [
     "janúar", "febrúar", "mars", "apríl", "maí", "júní",
     "júlí", "ágúst", "september", "október", "nóvember", "desember"
 ]
 
-now = datetime.utcnow()
+now = datetime.now(timezone.utc)
 month = MONTHS_IS[now.month - 1]
 day = now.day
 
