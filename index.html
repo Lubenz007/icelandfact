@@ -197,6 +197,7 @@
     <div id="state-error" style="display:none">
       <div class="error-box">
         <p>Ekki tókst að sækja staðreynd. Reyndu aftur.</p>
+        <p id="error-detail" style="font-size:0.78rem;color:#b84040;margin-top:0.5rem;word-break:break-word;"></p>
         <button class="btn" style="margin-top:1rem" onclick="loadFact()">Reyna aftur</button>
       </div>
     </div>
@@ -212,7 +213,7 @@
     // CONFIGURATION
     // Replace the value below with your Gemini API key from aistudio.google.com
     // ─────────────────────────────────────────────────────────────────────────
-    const GEMINI_API_KEY = "AIzaSyC9DH471uHfYO0GqCXlYU2-E1q73z7E9Mg";
+    const GEMINI_API_KEY = "AIzaSyDUrCvn4eY_SCccFBanhyT006XIe8IcUAY";
     // ─────────────────────────────────────────────────────────────────────────
 
     const GEMINI_URL =
@@ -286,6 +287,7 @@ Svaraðu EINGÖNGU með JSON hlut á þessu nákvæma formi (engar markdown merk
 
       } catch (err) {
         console.error("Gemini villa:", err);
+        document.getElementById("error-detail").textContent = err.message || String(err);
         setState("error");
       }
     }
