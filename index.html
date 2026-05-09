@@ -195,7 +195,7 @@
       <div class="error-box">
         <p>Ekki tókst að sækja staðreynd. Reyndu aftur.</p>
         <p id="error-detail" style="font-size:0.78rem;color:#b84040;margin-top:0.5rem;word-break:break-word;"></p>
-        <button class="btn" style="margin-top:1rem" onclick="loadFact()">Reyna aftur</button>
+        <button class="btn" style="margin-top:1rem" onclick="loadFact(true)">Reyna aftur</button>
       </div>
     </div>
 
@@ -242,12 +242,14 @@
       setState("content");
     }
 
-    async function loadFact() {
+    async function loadFact(force = false) {
       const cacheKey = `alit_fact_${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
-      const cached = localStorage.getItem(cacheKey);
-      if (cached) {
-        showFact(JSON.parse(cached));
-        return;
+      if (!force) {
+        const cached = localStorage.getItem(cacheKey);
+        if (cached) {
+          showFact(JSON.parse(cached));
+          return;
+        }
       }
 
       setState("loading");
