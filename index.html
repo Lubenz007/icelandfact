@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="is">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Í dag í sögunni – alit.is</title>
+  <meta name="description" content="Söguleg staðreynd um hvern dag á árinu frá íslenskri og heimssögu." />
+  <style>
+    :root {
+      --bg:       #f5f3ee;
+      --card:     #ffffff;
+      --text:     #1a1a18;
+      --muted:    #6b6960;
+      --hint:     #9c998f;
+      --accent:   #1a5c96;
+      --pill-bg:  #e4e1d9;
+      --divider:  #eeece7;
+      --radius:   18px;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+      background: var(--bg);
+      min-height: 100svh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2.5rem 1.25rem 3rem;
+      color: var(--text);
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 1.75rem;
+    }
+
+    header h1 {
+      font-size: 1.05rem;
+      font-weight: 600;
+      letter-spacing: -0.01em;
+      color: var(--text);
+    }
+
+    .date-pill {
+      display: inline-block;
+      margin-top: 8px;
+      font-size: 0.82rem;
+      color: var(--muted);
+      background: var(--pill-bg);
+      padding: 5px 14px;
+      border-radius: 99px;
+      letter-spacing: 0.01em;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      padding: 1.75rem 1.5rem;
+      max-width: 430px;
+      width: 100%;
+    }
+
+    /* ── Loading state ── */
+    .loading {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+      padding: 2.5rem 0;
+    }
+
+    .spinner {
+      width: 26px;
+      height: 26px;
+      border: 2.5px solid var(--divider);
+      border-top-color: var(--hint);
+      border-radius: 50%;
+      animation: spin 0.75s linear infinite;
+    }
+
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .loading p {
+      font-size: 0.88rem;
+      color: var(--hint);
+    }
+
+    /* ── Fact content ── */
+    .label {
+      font-size: 0.68rem;
+      font-weight: 600;
+      letter-spacing: 0.09em;
+      text-transform: uppercase;
+      color: var(--hint);
+      margin-bottom: 0.75rem;
+    }
+
+    .fact-main {
+      font-size: 1.13rem;
+      line-height: 1.65;
+      color: var(--text);
+    }
+
+    .divider {
+      height: 1px;
+      background: var(--divider);
+      margin: 1.25rem 0;
+    }
+
+    .fact-detail {
+      font-size: 0.91rem;
+      line-height: 1.65;
+      color: var(--muted);
+    }
+
+    .fact-year {
+      display: inline-block;
+      margin-top: 1rem;
+      font-size: 0.78rem;
+      font-weight: 600;
+      color: var(--accent);
+      letter-spacing: 0.04em;
+    }
+
+    /* ── Buttons ── */
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      width: 100%;
+      margin-top: 1.4rem;
+      padding: 0.72rem 1rem;
+      border-radius: 12px;
+      border: 1px solid var(--divider);
+      background: transparent;
+      font-size: 0.88rem;
+      color: var(--muted);
+      cursor: pointer;
+      transition: background 0.15s;
+      font-family: inherit;
+    }
+
+    .btn:active { background: var(--bg); }
+
+    /* ── Error state ── */
+    .error-box {
+      text-align: center;
+      padding: 1.5rem 0;
+    }
+
+    .error-box p {
+      font-size: 0.9rem;
+      color: #b84040;
+      line-height: 1.5;
+    }
+
+    /* ── Footer ── */
+    footer {
+      margin-top: 1.75rem;
+      font-size: 0.72rem;
+      color: var(--hint);
+      text-align: center;
+      line-height: 1.7;
+    }
+
+    footer a { color: var(--hint); text-decoration: none; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>📅 Í dag í sögunni</h1>
+    <span class="date-pill" id="date-display">…</span>
+  </header>
+
+  <div class="card" id="card">
+
+    <div class="loading" id="state-loading">
+      <div class="spinner"></div>
+      <p>Leita að sögulegri staðreynd…</p>
+    </div>
+
+    <div id="state-content" style="display:none">
+      <p class="label">Í dag í sögunni</p>
+      <p class="fact-main" id="fact-main"></p>
+      <span class="fact-year" id="fact-year"></span>
+      <div class="divider"></div>
+      <p class="fact-detail" id="fact-detail"></p>
+      <button class="btn" onclick="loadFact()">
+        ↻ Önnur staðreynd
+      </button>
+    </div>
+
+    <div id="state-error" style="display:none">
+      <div class="error-box">
+        <p>Ekki tókst að sækja staðreynd. Reyndu aftur.</p>
+        <button class="btn" style="margin-top:1rem" onclick="loadFact()">Reyna aftur</button>
+      </div>
+    </div>
+
+  </div>
+
+  <footer>
+    <span>Knúið af Gemini AI · alit.is</span>
+  </footer>
+
+  <script>
+    // ─────────────────────────────────────────────────────────────────────────
+    // CONFIGURATION
+    // Replace the value below with your Gemini API key from aistudio.google.com
+    // ─────────────────────────────────────────────────────────────────────────
+    const GEMINI_API_KEY = "AIzaSyC9DH471uHfYO0GqCXlYU2-E1q73z7E9Mg";
+    // ─────────────────────────────────────────────────────────────────────────
+
+    const GEMINI_URL =
+      "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite-preview-06-17:generateContent";
+
+    const MONTHS_IS = [
+      "janúar","febrúar","mars","apríl","maí","júní",
+      "júlí","ágúst","september","október","nóvember","desember"
+    ];
+
+    const now   = new Date();
+    const month = MONTHS_IS[now.getMonth()];
+    const day   = now.getDate();
+
+    document.getElementById("date-display").textContent =
+      `${day}. ${month}`;
+
+    function setState(name) {
+      ["loading","content","error"].forEach(s => {
+        document.getElementById("state-" + s).style.display =
+          s === name ? "block" : "none";
+      });
+    }
+
+    async function loadFact() {
+      setState("loading");
+
+      const prompt = `Þú ert íslenskur sagnfræðingur. Dagurinn í dag er ${day}. ${month}.
+
+Segðu mér eina áhugaverða og nákvæma söguleg staðreynd sem tengist þessum degi (${day}. ${month}) á hvaða ári sem er. 
+Gefðu forgang íslenskri sögu (Ísland, Norðurlönd, Víkingar), en heimssaga er líka í lagi ef hún er sérstaklega áhugaverð.
+
+Svaraðu EINGÖNGU með JSON hlut á þessu nákvæma formi (engar markdown merkingar, ekkert annað):
+{
+  "ar": "Ártal atburðarins (t.d. 1944)",
+  "fyrirsogn": "Ein setnig sem lýsir atburðinum á íslensku.",
+  "smaaatridi": "Tvær eða þrjár setningar með áhugaverðum bakgrunni eða eftirmálum á íslensku."
+}`;
+
+      try {
+        const res = await fetch(`${GEMINI_URL}?key=${GEMINI_API_KEY}`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            contents: [{ parts: [{ text: prompt }] }],
+            generationConfig: {
+              temperature: 0.8,
+              maxOutputTokens: 400,
+              responseMimeType: "application/json"
+            }
+          })
+        });
+
+        if (!res.ok) {
+          const err = await res.json().catch(() => ({}));
+          throw new Error(err?.error?.message || `HTTP ${res.status}`);
+        }
+
+        const data = await res.json();
+        const raw  = data?.candidates?.[0]?.content?.parts?.[0]?.text?.trim();
+        if (!raw) throw new Error("Tómt svar");
+
+        const clean = raw.replace(/```json|```/g, "").trim();
+        const fact  = JSON.parse(clean);
+
+        document.getElementById("fact-main").textContent   = fact.fyrirsogn  || "";
+        document.getElementById("fact-detail").textContent = fact.smaaatridi || "";
+        document.getElementById("fact-year").textContent   = fact.ar ? `Árið ${fact.ar}` : "";
+
+        setState("content");
+
+      } catch (err) {
+        console.error("Gemini villa:", err);
+        setState("error");
+      }
+    }
+
+    loadFact();
+  </script>
+
+</body>
+</html>
