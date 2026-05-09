@@ -189,9 +189,6 @@
       <span class="fact-year" id="fact-year"></span>
       <div class="divider"></div>
       <p class="fact-detail" id="fact-detail"></p>
-      <button class="btn" onclick="loadFact()">
-        ↻ Önnur staðreynd
-      </button>
     </div>
 
     <div id="state-error" style="display:none">
@@ -213,7 +210,7 @@
     // CONFIGURATION
     // Replace the value below with your Gemini API key from aistudio.google.com
     // ─────────────────────────────────────────────────────────────────────────
-    const GEMINI_API_KEY = "AIzaSyDUrCvn4eY_SCccFBanhyT006XIe8IcUAY";
+    const GEMINI_API_KEY = "AIzaSyCDUY6e6FLmPykNcQ3XxaE893pvpqQtSRI";
     // ─────────────────────────────────────────────────────────────────────────
 
     const GEMINI_URL =
@@ -238,12 +235,26 @@
       });
     }
 
+    function showFact(fact) {
+      document.getElementById("fact-main").textContent   = fact.fyrirsogn  || "";
+      document.getElementById("fact-detail").textContent = fact.smaaatridi || "";
+      document.getElementById("fact-year").textContent   = fact.ar ? `Árið ${fact.ar}` : "";
+      setState("content");
+    }
+
     async function loadFact() {
+      const cacheKey = `alit_fact_${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
+      const cached = localStorage.getItem(cacheKey);
+      if (cached) {
+        showFact(JSON.parse(cached));
+        return;
+      }
+
       setState("loading");
 
       const prompt = `Þú ert íslenskur sagnfræðingur. Dagurinn í dag er ${day}. ${month}.
 
-Segðu mér eina áhugaverða og nákvæma söguleg staðreynd sem tengist þessum degi (${day}. ${month}) á hvaða ári sem er. 
+Segðu mér eina áhugaverða og nákvæma söguleg staðreynd sem tengist þessum degi (${day}. ${month}) á hvaða ári sem er.
 Gefðu forgang íslenskri sögu (Ísland, Norðurlönd, Víkingar), en heimssaga er líka í lagi ef hún er sérstaklega áhugaverð.
 
 Svaraðu EINGÖNGU með JSON hlut á þessu nákvæma formi (engar markdown merkingar, ekkert annað):
@@ -279,11 +290,8 @@ Svaraðu EINGÖNGU með JSON hlut á þessu nákvæma formi (engar markdown merk
         const clean = raw.replace(/```json|```/g, "").trim();
         const fact  = JSON.parse(clean);
 
-        document.getElementById("fact-main").textContent   = fact.fyrirsogn  || "";
-        document.getElementById("fact-detail").textContent = fact.smaaatridi || "";
-        document.getElementById("fact-year").textContent   = fact.ar ? `Árið ${fact.ar}` : "";
-
-        setState("content");
+        localStorage.setItem(cacheKey, JSON.stringify(fact));
+        showFact(fact);
 
       } catch (err) {
         console.error("Gemini villa:", err);
