@@ -1,24 +1,38 @@
 {
-  "date": "2026-05-09",
-  "dagur": 9,
+  "date": "2026-05-10",
+  "dagur": 10,
   "manudur": "maí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 129,
-  "sunrise": "05:04",
-  "sunset": "22:32",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 130,
+  "sunrise": "05:02",
+  "sunset": "22:34",
+  "stjornumerki": "Naut",
+  "nafnadagur": "Vigdís",
   "atburdir": [
-    { "ar": "1945", "texti": "Þýskaland kapitulerar formlega og lýkur þar með seinni heimsstyrjöldinni í Evrópu." },
-    { "ar": "1671", "texti": "Henry Morgan er skipaður aðalstjóri Jamaíku af breska konunginum." },
-    { "ar": "1386", "texti": "Ewigkeit-bandalagið er stofnað í Sviss, undanfari nútíma Svissneska ríkisins." },
-    { "ar": "1960", "texti": "Frakkland verður að fjórða ríkinu til að gera tilraun með kjarnorkusprengju." },
-    { "ar": "2001", "texti": "Vesturhluti Makedóníu er vígstur af uppreisnarmönnum." }
+    { "ar": "1940", "texti": "Winston Churchill verður forsætisráðherra Bretlands." },
+    { "ar": "1994", "texti": "Nelson Mandela er settur í embætti sem fyrsti svartur forseti Suður-Afríku." },
+    { "ar": "1863", "texti": "Vestur-Virginía verður stað í Bandaríkjunum." },
+    { "ar": "1774", "texti": "Lúðvík XVI verður konungur Frakklands, aðeins 19 ára." },
+    { "ar": "1933", "texti": "Nasistar brenna bækur þýðanlegra höfunda opinberlega í Berlín." }
+  ],
+  "atburdir_island": [
+    { "ar": "1980", "texti": "Vigdís Finnbogadóttir er kosin fyrsta konan til forseta Íslands." },
+    { "ar": "1944", "texti": "Undirbúningur að stofnun lýðveldisins er í fullum gangi á Þingvöllum." },
+    { "ar": "2010", "texti": "Eyjafjallajökull heldur áfram gjósa og truflar flugsamgöngur í Evrópu." }
   ],
   "afmaeli": [
-    { "nafn": "Billy Joel", "starfsgrein": "Tónlistarmaður", "ar": "1949" },
-    { "nafn": "Candice Bergen", "starfsgrein": "Leikari", "ar": "1946" },
-    { "nafn": "Glenda Jackson", "starfsgrein": "Leikari & stjórnmálamaður", "ar": "1936" }
+    { "nafn": "Bono", "starfsgrein": "Tónlistarmaður (U2)", "ar": "1960" },
+    { "nafn": "Fred Astaire", "starfsgrein": "Leikari og dansari", "ar": "1899" },
+    { "nafn": "Sid Vicious", "starfsgrein": "Tónlistarmaður (Sex Pistols)", "ar": "1957" }
   ],
   "tonlistUSA": "Call Me – Blondie (1980)",
-  "tonlistUK": "Geno – Dexys Midnight Runners (1980)",
-  "bio": "The Empire Strikes Back (1980)"
+  "tonlistUK": "What Is Love – Howard Jones (1983)",
+  "bio": "The Empire Strikes Back (1980)",
+  "ord_dagsins": {
+    "ord": "glaðbær",
+    "skyring": "Lýsir einhverjum sem er alltaf kátur og glaður í lund, án sérstaks tilefnis."
+  },
+  "vissir_thu": "Íslenska er eitt af fáum tungumálum í heiminum þar sem hægt er að lesa miðaldalegar bókmenntir án mikils vandræða — málfarsbreytingin á 800 árum er lítil sem engin.",
+  "verdlag": "Árið 1985 kostaði mjólkurlítrinn 26 kr. og brauðhleifur 38 kr. á Íslandi.",
+  "stjornuspa": "Naut á góðan dag til að hugsa um fjármál og heimili. Hugsaðu vel um þá sem þér þykir vænt um."
 }

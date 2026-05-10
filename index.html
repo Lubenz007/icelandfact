@@ -10,7 +10,7 @@
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
     body {
-      background: #ccc9bc;
+      background: #bfbcb0;
       font-family: Georgia, 'Times New Roman', serif;
       color: #0c0c0a;
       min-height: 100svh;
@@ -24,9 +24,9 @@
     .paper {
       background: #f8f6ee;
       width: 100%;
-      max-width: 660px;
+      max-width: 680px;
       padding: 1.75rem 1.5rem 2rem;
-      box-shadow: 0 8px 40px rgba(0,0,0,0.28), 0 1px 4px rgba(0,0,0,0.1);
+      box-shadow: 0 8px 40px rgba(0,0,0,0.3), 0 1px 4px rgba(0,0,0,0.1);
     }
 
     /* ── MASTHEAD ── */
@@ -34,20 +34,20 @@
       text-align: center;
       border-bottom: 3px double #0c0c0a;
       padding-bottom: 0.6rem;
-      margin-bottom: 0.6rem;
+      margin-bottom: 0.65rem;
     }
     .masthead-title {
       font-family: 'Playfair Display', Georgia, serif;
-      font-size: clamp(2rem, 7vw, 3rem);
+      font-size: clamp(2rem, 7vw, 3.2rem);
       font-weight: 900;
       line-height: 1;
       letter-spacing: -0.015em;
     }
     .masthead-sub {
-      font-size: 0.62rem;
-      letter-spacing: 0.2em;
+      font-size: 0.6rem;
+      letter-spacing: 0.22em;
       text-transform: uppercase;
-      color: #666;
+      color: #777;
       margin-top: 0.35rem;
     }
 
@@ -56,7 +56,7 @@
       display: grid;
       grid-template-columns: 1fr 1fr;
       border-bottom: 2px solid #0c0c0a;
-      margin-bottom: 0.8rem;
+      margin-bottom: 0.85rem;
     }
     .date-left {
       padding: 0.5rem 0.75rem 0.5rem 0;
@@ -70,7 +70,7 @@
     }
     .date-year {
       font-family: 'Playfair Display', Georgia, serif;
-      font-size: clamp(3.2rem, 11vw, 5.2rem);
+      font-size: clamp(3.2rem, 11vw, 5.5rem);
       font-weight: 900;
       line-height: 0.88;
       letter-spacing: -0.03em;
@@ -80,110 +80,146 @@
       display: flex;
       flex-direction: column;
       justify-content: center;
-      gap: 0.45rem;
+      gap: 0.4rem;
     }
     .info-label {
-      font-size: 0.56rem;
+      font-size: 0.54rem;
       letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: #777;
+      color: #888;
       line-height: 1;
     }
     .info-value {
       font-family: 'Playfair Display', Georgia, serif;
       font-weight: 700;
-      font-size: clamp(0.78rem, 2.5vw, 0.95rem);
+      font-size: clamp(0.8rem, 2.5vw, 1rem);
       letter-spacing: 0.06em;
       text-transform: uppercase;
       line-height: 1.2;
     }
     .info-rows {
-      font-size: clamp(0.7rem, 2vw, 0.8rem);
-      line-height: 1.9;
+      font-size: clamp(0.68rem, 2vw, 0.79rem);
+      line-height: 2;
       color: #333;
+    }
+    .info-nafnadagur {
+      margin-top: 0.3rem;
+      font-size: clamp(0.68rem, 2vw, 0.79rem);
+      color: #333;
+    }
+    .nafnadagur-val {
+      font-weight: 700;
+      font-style: italic;
     }
 
     /* ── SECTION HEADER ── */
     .sec-head {
       font-family: 'Playfair Display', Georgia, serif;
-      font-size: clamp(1.1rem, 4vw, 1.45rem);
+      font-size: clamp(1rem, 3.5vw, 1.35rem);
       font-weight: 700;
       display: flex;
       align-items: center;
       gap: 0.5rem;
       border-bottom: 1px solid #0c0c0a;
       padding-bottom: 0.2rem;
-      margin-bottom: 0.55rem;
+      margin-bottom: 0.5rem;
     }
-    .sec-head-dots {
-      flex: 1;
-      border-bottom: 1px dotted #aaa;
-      margin-bottom: 0.1rem;
+    .sec-dots { flex: 1; border-bottom: 1px dotted #bbb; margin-bottom: 0.08rem; }
+
+    /* ── DIVIDER BETWEEN ROWS ── */
+    .row-divider {
+      border: none;
+      border-top: 1px solid #0c0c0a;
+      margin: 0.85rem 0;
     }
 
     /* ── EVENTS ── */
-    .events-wrap {
-      border-bottom: 1px solid #0c0c0a;
-      margin-bottom: 0.8rem;
-      padding-bottom: 0.8rem;
-    }
     .event-row {
       display: grid;
       grid-template-columns: 2.8rem 1fr;
       gap: 0.4rem;
       align-items: baseline;
-      padding: 0.16rem 0;
-      font-size: clamp(0.76rem, 2.2vw, 0.87rem);
+      padding: 0.15rem 0;
+      font-size: clamp(0.74rem, 2.2vw, 0.86rem);
       line-height: 1.55;
     }
-    .event-year {
-      font-weight: 700;
-      font-variant-numeric: tabular-nums;
-    }
+    .event-year { font-weight: 700; font-variant-numeric: tabular-nums; }
     .event-text { color: #111; }
 
-    /* ── BOTTOM TWO-COL ── */
-    .bottom-grid {
+    /* ── TWO-COL GRID ── */
+    .two-col {
       display: grid;
       grid-template-columns: 1fr 1fr;
       gap: 0 1.25rem;
     }
+    .two-col-full { grid-column: 1 / -1; }
 
     /* ── BIRTHDAYS ── */
     .bd-item {
       display: grid;
       grid-template-columns: 1fr auto;
-      gap: 0.25rem;
+      gap: 0.2rem;
       align-items: start;
-      padding: 0.2rem 0;
+      padding: 0.18rem 0;
       border-bottom: 1px dotted #ccc;
-      font-size: clamp(0.7rem, 2vw, 0.8rem);
+      font-size: clamp(0.68rem, 2vw, 0.79rem);
       line-height: 1.5;
     }
     .bd-name { font-weight: 700; }
-    .bd-role { color: #555; font-style: italic; font-size: 0.85em; }
-    .bd-year { font-weight: 700; white-space: nowrap; padding-left: 0.3rem; }
+    .bd-role { color: #666; font-style: italic; font-size: 0.88em; }
+    .bd-year { font-weight: 700; white-space: nowrap; padding-left: 0.25rem; }
 
     /* ── MUSIC / MOVIE ── */
     .media-item {
-      padding: 0.25rem 0;
+      padding: 0.22rem 0;
       border-bottom: 1px dotted #ccc;
-      font-size: clamp(0.7rem, 2vw, 0.8rem);
+      font-size: clamp(0.68rem, 2vw, 0.79rem);
       line-height: 1.5;
     }
     .media-label {
-      font-size: 0.58rem;
+      font-size: 0.56rem;
       letter-spacing: 0.12em;
       text-transform: uppercase;
-      color: #777;
+      color: #888;
     }
     .media-text { font-weight: 700; }
+    .media-link {
+      display: inline-block;
+      margin-top: 0.15rem;
+      font-size: 0.62rem;
+      color: #c00;
+      text-decoration: none;
+      letter-spacing: 0.04em;
+    }
+    .media-link:hover { text-decoration: underline; }
+
+    /* ── ORÐ DAGSINS ── */
+    .word-item { font-size: clamp(0.72rem, 2vw, 0.82rem); line-height: 1.65; }
+    .word-main {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(1rem, 3vw, 1.2rem);
+      font-weight: 700;
+      font-style: italic;
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+
+    /* ── VISSIR ÞÚ / VERÐLAG / STJÖRNUSPÁ ── */
+    .prose-item {
+      font-size: clamp(0.72rem, 2vw, 0.82rem);
+      line-height: 1.7;
+      color: #222;
+    }
+    .stjornumerki {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(0.9rem, 2.5vw, 1.05rem);
+      font-weight: 700;
+      display: block;
+      margin-bottom: 0.2rem;
+    }
 
     /* ── LOADING / ERROR ── */
-    .state-box {
-      text-align: center;
-      padding: 3rem 0;
-    }
+    .state-box { text-align: center; padding: 3rem 0; }
     .spinner {
       width: 22px; height: 22px;
       border: 2px solid #ccc;
@@ -202,40 +238,29 @@
       font-family: inherit;
       font-size: 0.8rem;
       cursor: pointer;
-      letter-spacing: 0.04em;
     }
-    #error-detail {
-      font-size: 0.72rem;
-      color: #b84040;
-      margin-top: 0.4rem;
-      word-break: break-word;
-    }
+    #error-detail { font-size: 0.72rem; color: #b84040; margin-top: 0.4rem; word-break: break-word; }
 
     /* ── FOOTER ── */
     .paper-footer {
       text-align: center;
       margin-top: 1.25rem;
-      padding-top: 0.6rem;
+      padding-top: 0.55rem;
       border-top: 1px solid #0c0c0a;
-      font-size: 0.6rem;
-      letter-spacing: 0.16em;
+      font-size: 0.58rem;
+      letter-spacing: 0.18em;
       text-transform: uppercase;
-      color: #888;
+      color: #999;
     }
 
-    @media (max-width: 380px) {
-      .paper { padding: 1.25rem 1rem 1.5rem; }
-      .bottom-grid { grid-template-columns: 1fr; }
-      .bottom-grid > div + div {
-        border-top: 1px solid #ccc;
-        margin-top: 0.75rem;
-        padding-top: 0.75rem;
-      }
+    @media (max-width: 400px) {
+      .paper { padding: 1.2rem 1rem 1.5rem; }
+      .two-col { grid-template-columns: 1fr; }
+      .two-col > div + div { border-top: 1px solid #ddd; margin-top: 0.75rem; padding-top: 0.75rem; }
     }
   </style>
 </head>
 <body>
-
 <div class="paper">
 
   <div class="masthead">
@@ -259,6 +284,7 @@
   <!-- Content -->
   <div id="state-content" style="display:none">
 
+    <!-- Date band -->
     <div class="date-band">
       <div class="date-left">
         <div class="date-big" id="date-daymonth"></div>
@@ -270,22 +296,67 @@
           <div class="info-value" id="vikudagur"></div>
         </div>
         <div class="info-rows" id="info-rows"></div>
+        <div class="info-nafnadagur" id="nafnadagur-wrap" style="display:none">
+          <span class="info-label">Nafnadagur</span><br>
+          <span class="nafnadagur-val" id="nafnadagur"></span>
+        </div>
       </div>
     </div>
 
-    <div class="events-wrap">
-      <div class="sec-head">Á þessum degi <span class="sec-head-dots"></span></div>
-      <div id="events"></div>
+    <!-- Row 1: World events | Icelandic events -->
+    <div class="two-col">
+      <div>
+        <div class="sec-head">Á þessum degi <span class="sec-dots"></span></div>
+        <div id="events"></div>
+      </div>
+      <div>
+        <div class="sec-head">Gerðist á Íslandi <span class="sec-dots"></span></div>
+        <div id="events-island"></div>
+      </div>
     </div>
 
-    <div class="bottom-grid">
+    <hr class="row-divider">
+
+    <!-- Row 2: Birthdays | Music & Movie -->
+    <div class="two-col">
       <div>
-        <div class="sec-head">Afmælisdagar <span class="sec-head-dots"></span></div>
+        <div class="sec-head">Afmælisdagar <span class="sec-dots"></span></div>
         <div id="birthdays"></div>
       </div>
       <div>
-        <div class="sec-head">Tónlist &amp; Kvikmynd <span class="sec-head-dots"></span></div>
+        <div class="sec-head">Tónlist &amp; Kvikmynd <span class="sec-dots"></span></div>
         <div id="media"></div>
+      </div>
+    </div>
+
+    <hr class="row-divider">
+
+    <!-- Row 3: Orð dagsins | Vissir þú? -->
+    <div class="two-col">
+      <div>
+        <div class="sec-head">Orð dagsins <span class="sec-dots"></span></div>
+        <div class="word-item" id="ord-dagsins"></div>
+      </div>
+      <div>
+        <div class="sec-head">Vissir þú? <span class="sec-dots"></span></div>
+        <div class="prose-item" id="vissir-thu"></div>
+      </div>
+    </div>
+
+    <hr class="row-divider">
+
+    <!-- Row 4: Verðlagið þá | Stjörnuspá -->
+    <div class="two-col">
+      <div>
+        <div class="sec-head">Verðlagið þá <span class="sec-dots"></span></div>
+        <div class="prose-item" id="verdlag"></div>
+      </div>
+      <div>
+        <div class="sec-head">Stjörnuspá <span class="sec-dots"></span></div>
+        <div class="prose-item" id="stjornuspa">
+          <span class="stjornumerki" id="stjornumerki"></span>
+          <span id="stjornuspa-text"></span>
+        </div>
       </div>
     </div>
 
@@ -322,7 +393,13 @@
     return e;
   }
 
+  function ytLink(query) {
+    const q = encodeURIComponent(query + " official");
+    return `<a class="media-link" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">▶ Hlusta á YouTube</a>`;
+  }
+
   function showFact(f) {
+    // Date band
     document.getElementById("date-daymonth").textContent = `${day}. ${month}`;
     document.getElementById("date-year").textContent = year;
     document.getElementById("vikudagur").textContent = f.vikudagur || "";
@@ -333,7 +410,12 @@
     if (f.sunset)      rows.push(`Sólarlag kl. ${f.sunset}`);
     document.getElementById("info-rows").textContent = rows.join("\n");
 
-    // Events
+    if (f.nafnadagur) {
+      document.getElementById("nafnadagur").textContent = f.nafnadagur;
+      document.getElementById("nafnadagur-wrap").style.display = "block";
+    }
+
+    // World events
     const evEl = document.getElementById("events");
     evEl.innerHTML = "";
     (f.atburdir || []).forEach(e => {
@@ -343,30 +425,66 @@
       evEl.appendChild(row);
     });
 
+    // Icelandic events
+    const isEl = document.getElementById("events-island");
+    isEl.innerHTML = "";
+    (f.atburdir_island || []).forEach(e => {
+      const row = el("div", "event-row");
+      row.appendChild(el("span", "event-year", e.ar));
+      row.appendChild(el("span", "event-text", e.texti));
+      isEl.appendChild(row);
+    });
+
     // Birthdays
     const bdEl = document.getElementById("birthdays");
     bdEl.innerHTML = "";
     (f.afmaeli || []).forEach(p => {
-      const item = el("div", "bd-item",
+      bdEl.appendChild(el("div", "bd-item",
         `<div><div class="bd-name">${p.nafn}</div><div class="bd-role">${p.starfsgrein}</div></div>` +
         `<div class="bd-year">${p.ar}</div>`
-      );
-      bdEl.appendChild(item);
-    });
-
-    // Media
-    const mdEl = document.getElementById("media");
-    mdEl.innerHTML = "";
-    [
-      { label: "Lag #1 – USA",        val: f.tonlistUSA },
-      { label: "Lag #1 – UK",         val: f.tonlistUK  },
-      { label: "Kvikmynd #1 – USA",   val: f.bio        },
-    ].forEach(({ label, val }) => {
-      if (!val) return;
-      mdEl.appendChild(el("div", "media-item",
-        `<div class="media-label">${label}</div><div class="media-text">${val}</div>`
       ));
     });
+
+    // Music & Movie
+    const mdEl = document.getElementById("media");
+    mdEl.innerHTML = "";
+    if (f.tonlistUSA) {
+      mdEl.appendChild(el("div", "media-item",
+        `<div class="media-label">Lag #1 – USA</div>` +
+        `<div class="media-text">${f.tonlistUSA}</div>` +
+        ytLink(f.tonlistUSA)
+      ));
+    }
+    if (f.tonlistUK) {
+      mdEl.appendChild(el("div", "media-item",
+        `<div class="media-label">Lag #1 – UK</div>` +
+        `<div class="media-text">${f.tonlistUK}</div>` +
+        ytLink(f.tonlistUK)
+      ));
+    }
+    if (f.bio) {
+      mdEl.appendChild(el("div", "media-item",
+        `<div class="media-label">Kvikmynd #1 – USA</div>` +
+        `<div class="media-text">${f.bio}</div>`
+      ));
+    }
+
+    // Orð dagsins
+    if (f.ord_dagsins) {
+      document.getElementById("ord-dagsins").innerHTML =
+        `<span class="word-main">${f.ord_dagsins.ord}</span>${f.ord_dagsins.skyring}`;
+    }
+
+    // Vissir þú?
+    document.getElementById("vissir-thu").textContent = f.vissir_thu || "";
+
+    // Verðlagið þá
+    document.getElementById("verdlag").textContent = f.verdlag || "";
+
+    // Stjörnuspá
+    document.getElementById("stjornumerki").textContent =
+      (f.stjornumerki || "") + (f.stjornumerki ? " ·" : "");
+    document.getElementById("stjornuspa-text").textContent = f.stjornuspa || "";
 
     setState("content");
   }
@@ -397,6 +515,5 @@
 
   loadFact();
 </script>
-
 </body>
 </html>
