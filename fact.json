@@ -11,43 +11,31 @@
   "atburdir": [
     {
       "ar": "1869",
-      "texti": "Fyrsta transkontinentala járnbrautin í Bandaríkjunum var kláruð við Promontory Summit, Utah."
+      "texti": "Fyrsta meginlandsjárnbrautin í Bandaríkjunum var fullgerð við Promontory Summit í Utah."
     },
     {
       "ar": "1940",
-      "texti": "Þýskaland réðst inn í Holland, Belgíu, Lúxemborg og Frakkland, sem markaði upphaf orrustunnar um Frakkland."
+      "texti": "Þýskaland réðst inn í Belgíu, Holland og Lúxemborg, sem markaði upphaf orrustunnar um Frakkland í síðari heimsstyrjöldinni."
     },
     {
       "ar": "1994",
       "texti": "Nelson Mandela var settur í embætti sem fyrsti forseti Suður-Afríku eftir lok aðskilnaðarstefnunnar."
     },
     {
-      "ar": "2000",
-      "texti": "Dot-com kúlan sprakk formlega þegar NASDAQ vísitalan lækkaði um 9,07% á einum degi."
-    },
-    {
-      "ar": "2013",
-      "texti": "Eclipsa (Solar Eclipse) hringlaga sólmyrkvi sást yfir hluta af Ástralíu og Kyrrahafi."
+      "ar": "2002",
+      "texti": "FBI handtók Sami Al-Arian, prófessor við Háskólann í Suður-Flórída, grunaðan um tengsl við hryðjuverkasamtök."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1940",
-      "texti": "Breskar hersveitir réðust inn í Ísland í aðgerð sem kallast 'Operation Fork', til að koma í veg fyrir innrás Þjóðverja."
-    },
-    {
-      "ar": "1986",
-      "texti": "Geirfuglinn, fyrsta íslenska rokksöngleikurinn, var frumsýndur í Þjóðleikhúsinu."
-    },
-    {
-      "ar": "2008",
-      "texti": "Fyrsti íslenski Eurovision-klúbburinn, FÁSES, var stofnaður í Reykjavík."
+      "texti": "Breskar hersveitir hernámu Ísland í seinni heimsstyrjöldinni."
     }
   ],
   "afmaeli": [
     {
       "nafn": "Fred Astaire",
-      "starfsgrein": "dansari / leikari",
+      "starfsgrein": "leikari og dansari",
       "ar": "1899"
     },
     {
@@ -56,19 +44,19 @@
       "ar": "1960"
     },
     {
-      "nafn": "Linda Evangelista",
-      "starfsgrein": "fyrirsæta",
-      "ar": "1965"
+      "nafn": "Kenan Thompson",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1978"
     }
   ],
-  "tonlistUSA": "All By Myself – Eric Carmen (1976)",
-  "tonlistUK": "Don't Stop Believin' – Journey (1981)",
-  "bio": "Twister (1996)",
+  "tonlistUSA": "All I Have to Do Is Dream – The Everly Brothers (1958)",
+  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
+  "bio": "The Great Gatsby (1974)",
   "ord_dagsins": {
-    "ord": "kyrrþeyr",
-    "skyring": "Hljóðlátur og rólegur þeyr eða gola, oft tengt við friðsæld."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Ríkið San Marino er elsta lýðveldi heims, stofnað árið 301 e.Kr.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 7 kr. á Íslandi.",
-  "stjornuspa": "Naut, dagurinn í dag færir þér tækifæri til að sýna fram á þína staðfestu og þrautseigju. Vertu opinn fyrir nýjum hugmyndum og leyfðu þér að njóta þess sem lífið hefur upp á að bjóða."
+  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag gætir þú fundið fyrir óvæntum tækifærum til að sýna fram á hæfileika þína. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáhindranir draga þig niður."
 }
