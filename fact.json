@@ -4,35 +4,71 @@
   "manudur": "maí",
   "vikudagur": "Sunnudagur",
   "dagurArsins": 130,
-  "sunrise": "05:02",
-  "sunset": "22:34",
+  "sunrise": "",
+  "sunset": "",
   "stjornumerki": "Naut",
-  "nafnadagur": "Vigdís",
+  "nafnadagur": "Alda",
   "atburdir": [
-    { "ar": "1774", "texti": "Loðvík XVI varð konungur Frakklands." },
-    { "ar": "1869", "texti": "Fyrsta transkontinentallestin í Bandaríkjunum var fullgerð." },
-    { "ar": "1940", "texti": "Winston Churchill varð forsætisráðherra Bretlands. Þýskaland réðst inn í Belgíu, Holland og Lúxemborg." },
-    { "ar": "1941", "texti": "Rudolf Hess flaug til Skotlands í þeirri trú að hann gæti samið um frið við Bretland." },
-    { "ar": "1994", "texti": "Nelson Mandela varð fyrsti forseti Suður-Afríku eftir lok Apartheid." }
+    {
+      "ar": "1869",
+      "texti": "Fyrsta transkontinentala járnbrautin í Bandaríkjunum var kláruð við Promontory Summit, Utah."
+    },
+    {
+      "ar": "1940",
+      "texti": "Þýskaland réðst inn í Holland, Belgíu, Lúxemborg og Frakkland, sem markaði upphaf orrustunnar um Frakkland."
+    },
+    {
+      "ar": "1994",
+      "texti": "Nelson Mandela var settur í embætti sem fyrsti forseti Suður-Afríku eftir lok aðskilnaðarstefnunnar."
+    },
+    {
+      "ar": "2000",
+      "texti": "Dot-com kúlan sprakk formlega þegar NASDAQ vísitalan lækkaði um 9,07% á einum degi."
+    },
+    {
+      "ar": "2013",
+      "texti": "Eclipsa (Solar Eclipse) hringlaga sólmyrkvi sást yfir hluta af Ástralíu og Kyrrahafi."
+    }
   ],
   "atburdir_island": [
-    { "ar": "1980", "texti": "Vigdís Finnbogadóttir er kosin fyrsta konan til forseta Íslands." },
-    { "ar": "1944", "texti": "Undirbúningur að stofnun lýðveldisins er í fullum gangi á Þingvöllum." },
-    { "ar": "2010", "texti": "Eyjafjallajökull heldur áfram gjósa og truflar flugsamgöngur í Evrópu." }
+    {
+      "ar": "1940",
+      "texti": "Breskar hersveitir réðust inn í Ísland í aðgerð sem kallast 'Operation Fork', til að koma í veg fyrir innrás Þjóðverja."
+    },
+    {
+      "ar": "1986",
+      "texti": "Geirfuglinn, fyrsta íslenska rokksöngleikurinn, var frumsýndur í Þjóðleikhúsinu."
+    },
+    {
+      "ar": "2008",
+      "texti": "Fyrsti íslenski Eurovision-klúbburinn, FÁSES, var stofnaður í Reykjavík."
+    }
   ],
   "afmaeli": [
-    { "nafn": "Bono", "starfsgrein": "tónlistarmaður", "ar": "1960" },
-    { "nafn": "Fred Astaire", "starfsgrein": "dansari / leikari", "ar": "1899" },
-    { "nafn": "Kenan Thompson", "starfsgrein": "leikari / grínisti", "ar": "1978" }
+    {
+      "nafn": "Fred Astaire",
+      "starfsgrein": "dansari / leikari",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Bono",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Linda Evangelista",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1965"
+    }
   ],
-  "tonlistUSA": "Can't Buy Me Love – The Beatles (1964)",
-  "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
-  "bio": "Gladiator (2000)",
+  "tonlistUSA": "All By Myself – Eric Carmen (1976)",
+  "tonlistUK": "Don't Stop Believin' – Journey (1981)",
+  "bio": "Twister (1996)",
   "ord_dagsins": {
-    "ord": "glaðbær",
-    "skyring": "Lýsir einhverjum sem er alltaf kátur og glaður í lund, án sérstaks tilefnis."
+    "ord": "kyrrþeyr",
+    "skyring": "Hljóðlátur og rólegur þeyr eða gola, oft tengt við friðsæld."
   },
-  "vissir_thu": "Íslenska er eitt af fáum tungumálum í heiminum þar sem hægt er að lesa miðaldalegar bókmenntir án mikils vandræða — málfarsbreytingin á 800 árum er lítil sem engin.",
-  "verdlag": "Árið 1985 kostaði mjólkurlítrinn 26 kr. og brauðhleifur 38 kr. á Íslandi.",
-  "stjornuspa": "Naut á góðan dag til að hugsa um fjármál og heimili. Hugsaðu vel um þá sem þér þykir vænt um."
+  "vissir_thu": "Ríkið San Marino er elsta lýðveldi heims, stofnað árið 301 e.Kr.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 7 kr. á Íslandi.",
+  "stjornuspa": "Naut, dagurinn í dag færir þér tækifæri til að sýna fram á þína staðfestu og þrautseigju. Vertu opinn fyrir nýjum hugmyndum og leyfðu þér að njóta þess sem lífið hefur upp á að bjóða."
 }
