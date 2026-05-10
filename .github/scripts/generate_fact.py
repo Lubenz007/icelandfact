@@ -56,39 +56,45 @@ url = (
 
 prompt = f"""Þú ert íslenskur sagnfræðingur og dagblaðamaður. Dagurinn í dag er {day}. {month}. Stjörnumerki dagsins er {zodiac}.
 
+MIKILVÆGT: Notaðu AÐEINS staðfesta og vel þekkta staðreyndir. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum. Betra er að hafa færri en ranga staðreyndi.
+
 Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 {{
-  "nafnadagur": "Nafn þess sem á nafnadag á Íslandi í dag (eitt nafn)",
+  "nafnadagur": "Nafn þess sem á nafnadag á Íslandi í dag samkvæmt íslenska nafnadagatalinu (eitt nafn)",
   "atburdir": [
-    {{"ar": "ártal", "texti": "stuttur lýsing á heimsatburði þennan dag"}},
+    {{"ar": "ártal", "texti": "stuttur lýsing á vel þekktum og staðfestum heimsatburði þennan dag"}},
     {{"ar": "ártal", "texti": "lýsing"}},
     {{"ar": "ártal", "texti": "lýsing"}},
     {{"ar": "ártal", "texti": "lýsing"}},
     {{"ar": "ártal", "texti": "lýsing"}}
   ],
   "atburdir_island": [
-    {{"ar": "ártal", "texti": "atburður sem gerðist á Íslandi þennan dag"}},
-    {{"ar": "ártal", "texti": "atburður á Íslandi"}},
-    {{"ar": "ártal", "texti": "atburður á Íslandi"}}
+    {{"ar": "ártal", "texti": "staðfestur og vel þekktur atburður á Íslandi þennan dag"}},
+    {{"ar": "ártal", "texti": "staðfestur íslenskur atburður"}}
   ],
   "afmaeli": [
     {{"nafn": "fullt nafn", "starfsgrein": "leikari / tónlistarmaður / o.fl.", "ar": "fæðingarár"}},
     {{"nafn": "fullt nafn", "starfsgrein": "starfsgrein", "ar": "fæðingarár"}},
     {{"nafn": "fullt nafn", "starfsgrein": "starfsgrein", "ar": "fæðingarár"}}
   ],
-  "tonlistUSA": "Nafn lags – Flytjandi (ár)",
-  "tonlistUK": "Nafn lags – Flytjandi (ár)",
-  "bio": "Nafn kvikmyndar (ár)",
+  "tonlistUSA": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss",
+  "tonlistUK": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss",
+  "bio": "Nafn kvikmyndar (ár) — aðeins ef þú ert viss",
   "ord_dagsins": {{"ord": "sjaldgæft íslenskt orð", "skyring": "skýring á íslensku í einni setningu"}},
-  "vissir_thu": "Skemmtileg staðreynd sem flestir vita ekki, óháð ártali, á íslensku.",
+  "vissir_thu": "Skemmtileg en SÖNN staðreynd sem flestir vita ekki, á íslensku.",
   "verdlag": "Árið [X] kostaði [hlutur] [upphæð] kr. á Íslandi.",
   "stjornuspa": "Stutt og skemmtileg retro-stjörnuspá fyrir {zodiac} í dag, tvær setningar á íslensku."
-}}"""
+}}
+
+Leiðbeiningar:
+- atburdir_island: einungis stór og vel skjalfestar staðreyndir — ef þú ert ekki viss, settu bara einn atburð
+- Afmælisfólk: aðeins alþjóðlega þekkt nöfn með staðfest fæðingarár
+- Forðastu að finna upp atburði eða blanda saman árum"""
 
 body = json.dumps({
     "contents": [{"parts": [{"text": prompt}]}],
     "generationConfig": {
-        "temperature": 0.8,
+        "temperature": 0.3,
         "maxOutputTokens": 2048,
         "responseMimeType": "application/json",
         "thinkingConfig": {"thinkingBudget": 0}
