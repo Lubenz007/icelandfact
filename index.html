@@ -490,22 +490,11 @@
   }
 
   async function loadFact(force = false) {
-    const today    = `${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`;
-    const cacheKey = `alit_fact_${today}`;
-
-    if (!force) {
-      const cached = localStorage.getItem(cacheKey);
-      if (cached) { showFact(JSON.parse(cached)); return; }
-    }
-
     setState("loading");
-
     try {
-      const res = await fetch(`./fact.json?d=${today}`);
+      const res = await fetch(`./fact.json?d=${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const fact = await res.json();
-      localStorage.setItem(cacheKey, JSON.stringify(fact));
-      showFact(fact);
+      showFact(await res.json());
     } catch (err) {
       console.error("Villa:", err);
       document.getElementById("error-detail").textContent = err.message || String(err);
