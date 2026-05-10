@@ -4,18 +4,18 @@
   "manudur": "maí",
   "vikudagur": "Sunnudagur",
   "dagurArsins": 130,
-  "sunrise": "",
-  "sunset": "",
+  "sunrise": "04:28",
+  "sunset": "22:19",
   "stjornumerki": "Naut",
   "nafnadagur": "Alda",
   "atburdir": [
     {
       "ar": "1869",
-      "texti": "Fyrsta meginlandsjárnbrautin í Bandaríkjunum var fullgerð við Promontory Summit í Utah."
+      "texti": "Fyrsta meginlandsjárnbrautin í Bandaríkjunum var fullgerð þegar tvær járnbrautarlínur mættust í Promontory Summit, Utah."
     },
     {
       "ar": "1940",
-      "texti": "Þýskaland réðst inn í Belgíu, Holland og Lúxemborg, sem markaði upphaf orrustunnar um Frakkland í síðari heimsstyrjöldinni."
+      "texti": "Þýskaland réðst inn í Frakkland, Belgíu, Holland og Lúxemborg, sem markaði upphaf orrustunnar um Frakkland í seinni heimsstyrjöldinni."
     },
     {
       "ar": "1994",
@@ -23,19 +23,23 @@
     },
     {
       "ar": "2002",
-      "texti": "FBI handtók Sami Al-Arian, prófessor við Háskólann í Suður-Flórída, grunaðan um tengsl við hryðjuverkasamtök."
+      "texti": "FBI handtók Sami Al-Arian, prófessor við háskólann í Suður-Flórída, grunaðan um tengsl við hryðjuverkasamtök."
+    },
+    {
+      "ar": "2013",
+      "texti": "One World Trade Center varð hæsta bygging vesturhvelsins."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1940",
-      "texti": "Breskar hersveitir hernámu Ísland í seinni heimsstyrjöldinni."
+      "texti": "Bretar hernámu Ísland í seinni heimsstyrjöldinni til að koma í veg fyrir að Þjóðverjar gerðu það."
     }
   ],
   "afmaeli": [
     {
       "nafn": "Fred Astaire",
-      "starfsgrein": "leikari og dansari",
+      "starfsgrein": "leikari, dansari",
       "ar": "1899"
     },
     {
@@ -45,18 +49,18 @@
     },
     {
       "nafn": "Kenan Thompson",
-      "starfsgrein": "leikari og grínisti",
+      "starfsgrein": "leikari, grínisti",
       "ar": "1978"
     }
   ],
-  "tonlistUSA": "All I Have to Do Is Dream – The Everly Brothers (1958)",
-  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "The Great Gatsby (1974)",
+  "tonlistUSA": "All Star – Smash Mouth (1999)",
+  "tonlistUK": "Crazy in Love – Beyoncé featuring Jay-Z (2003)",
+  "bio": "Gladiator (2000)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
+    "ord": "þrándur",
+    "skyring": "Sá sem er þrándur í götu er hindrun eða tálmi."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag gætir þú fundið fyrir óvæntum tækifærum til að sýna fram á hæfileika þína. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáhindranir draga þig niður."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Hvíti mávurinn', var frumsýnd árið 1983.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítri um 25 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að taka ákvarðanir sem tengjast fjármálum. Vertu opinn fyrir nýjum hugmyndum og tækifærum."
 }
