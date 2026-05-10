@@ -34,16 +34,17 @@ weekday    = WEEKDAYS_IS[now.weekday()]
 day_of_year = now.timetuple().tm_yday
 zodiac     = get_zodiac(now.month, now.day)
 
-# Sunrise/sunset for Reykjavik (UTC = Iceland time, no DST)
+# Sunrise/sunset for Reykjavik via Open-Meteo (free, no auth)
 sun_url = (
-    f"https://api.sunrise-sunset.org/json"
-    f"?lat=64.1355&lng=-21.8954&date={now.strftime('%Y-%m-%d')}&formatted=0"
+    "https://api.open-meteo.com/v1/forecast"
+    "?latitude=64.1355&longitude=-21.8954"
+    "&daily=sunrise,sunset&timezone=UTC&forecast_days=1"
 )
 try:
     with urllib.request.urlopen(sun_url) as r:
-        sun = json.loads(r.read())["results"]
-    sunrise = datetime.fromisoformat(sun["sunrise"]).strftime("%H:%M")
-    sunset  = datetime.fromisoformat(sun["sunset"]).strftime("%H:%M")
+        sun = json.loads(r.read())["daily"]
+    sunrise = sun["sunrise"][0].split("T")[1]
+    sunset  = sun["sunset"][0].split("T")[1]
 except Exception as e:
     print(f"Sunrise API villa: {e}")
     sunrise = sunset = ""
