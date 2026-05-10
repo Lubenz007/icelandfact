@@ -1,24 +1,51 @@
 {
-  "date": "2026-05-09",
-  "dagur": 9,
+  "date": "2026-05-10",
+  "dagur": 10,
   "manudur": "maí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 129,
-  "sunrise": "05:04",
-  "sunset": "22:32",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 130,
+  "sunrise": "",
+  "sunset": "",
   "atburdir": [
-    { "ar": "1945", "texti": "Þýskaland kapitulerar formlega og lýkur þar með seinni heimsstyrjöldinni í Evrópu." },
-    { "ar": "1671", "texti": "Henry Morgan er skipaður aðalstjóri Jamaíku af breska konunginum." },
-    { "ar": "1386", "texti": "Ewigkeit-bandalagið er stofnað í Sviss, undanfari nútíma Svissneska ríkisins." },
-    { "ar": "1960", "texti": "Frakkland verður að fjórða ríkinu til að gera tilraun með kjarnorkusprengju." },
-    { "ar": "2001", "texti": "Vesturhluti Makedóníu er vígstur af uppreisnarmönnum." }
+    {
+      "ar": "1774",
+      "texti": "Loðvík XVI varð konungur Frakklands."
+    },
+    {
+      "ar": "1869",
+      "texti": "Fyrsta transkontinentallestin í Bandaríkjunum var fullgerð."
+    },
+    {
+      "ar": "1940",
+      "texti": "Winston Churchill varð forsætisráðherra Bretlands. Þýskaland réðst inn í Belgíu, Holland og Lúxemborg."
+    },
+    {
+      "ar": "1941",
+      "texti": "Rudolf Hess flaug til Skotlands í þeirri trú að hann gæti samið um frið við Bretland."
+    },
+    {
+      "ar": "1994",
+      "texti": "Nelson Mandela varð fyrsti forseti Suður-Afríku eftir lok Apartheid."
+    }
   ],
   "afmaeli": [
-    { "nafn": "Billy Joel", "starfsgrein": "Tónlistarmaður", "ar": "1949" },
-    { "nafn": "Candice Bergen", "starfsgrein": "Leikari", "ar": "1946" },
-    { "nafn": "Glenda Jackson", "starfsgrein": "Leikari & stjórnmálamaður", "ar": "1936" }
+    {
+      "nafn": "Bono",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Fred Astaire",
+      "starfsgrein": "dansari / leikari",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Kenan Thompson",
+      "starfsgrein": "leikari / grínisti",
+      "ar": "1978"
+    }
   ],
-  "tonlistUSA": "Call Me – Blondie (1980)",
-  "tonlistUK": "Geno – Dexys Midnight Runners (1980)",
-  "bio": "The Empire Strikes Back (1980)"
+  "tonlistUSA": "Can't Buy Me Love – The Beatles (#1 á Billboard 10. maí 1964)",
+  "tonlistUK": "Crazy Little Thing Called Love – Queen (#1 á UK listanum 10. maí 1979)",
+  "bio": "Gladiator (#1 í Bandaríkjunum 10. maí 2000)"
 }
