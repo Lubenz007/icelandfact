@@ -1,66 +1,62 @@
 {
-  "date": "2026-05-10",
-  "dagur": 10,
+  "date": "2026-05-11",
+  "dagur": 11,
   "manudur": "maí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 130,
-  "sunrise": "04:28",
-  "sunset": "22:19",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 131,
+  "sunrise": "04:25",
+  "sunset": "22:22",
   "stjornumerki": "Naut",
-  "nafnadagur": "Alda",
+  "nafnadagur": "Mikael",
   "atburdir": [
     {
-      "ar": "1869",
-      "texti": "Fyrsta meginlandsjárnbrautin í Bandaríkjunum var fullgerð þegar tvær járnbrautarlínur mættust í Promontory Summit, Utah."
+      "ar": "1949",
+      "texti": "Síam breytir nafni sínu í Tæland."
     },
     {
-      "ar": "1940",
-      "texti": "Þýskaland réðst inn í Frakkland, Belgíu, Holland og Lúxemborg, sem markaði upphaf orrustunnar um Frakkland í seinni heimsstyrjöldinni."
+      "ar": "1960",
+      "texti": "Ísrael tekur Adolf Eichmann höndum í Argentínu."
     },
     {
-      "ar": "1994",
-      "texti": "Nelson Mandela var settur í embætti sem fyrsti forseti Suður-Afríku eftir lok aðskilnaðarstefnunnar."
-    },
-    {
-      "ar": "2002",
-      "texti": "FBI handtók Sami Al-Arian, prófessor við háskólann í Suður-Flórída, grunaðan um tengsl við hryðjuverkasamtök."
-    },
-    {
-      "ar": "2013",
-      "texti": "One World Trade Center varð hæsta bygging vesturhvelsins."
+      "ar": "1997",
+      "texti": "Deep Blue, ofurtölva frá IBM, sigrar heimsmeistara í skák, Garry Kasparov."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Bretar hernámu Ísland í seinni heimsstyrjöldinni til að koma í veg fyrir að Þjóðverjar gerðu það."
+      "ar": "1904",
+      "texti": "Fyrsta bílferðin á Íslandi fór fram þegar D. Th. Scheving ók bifreið sinni um götur Reykjavíkur."
+    },
+    {
+      "ar": "1968",
+      "texti": "Fyrsta Eurovision söngvakeppnin sem sýnd var í lit á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Fred Astaire",
-      "starfsgrein": "leikari, dansari",
-      "ar": "1899"
+      "nafn": "Salvador Dalí",
+      "starfsgrein": "listmálari",
+      "ar": "1904"
     },
     {
-      "nafn": "Bono",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1960"
+      "nafn": "Irving Berlin",
+      "starfsgrein": "tónskáld",
+      "ar": "1888"
     },
     {
-      "nafn": "Kenan Thompson",
-      "starfsgrein": "leikari, grínisti",
-      "ar": "1978"
+      "nafn": "Richard Feynman",
+      "starfsgrein": "eðlisfræðingur",
+      "ar": "1918"
     }
   ],
-  "tonlistUSA": "All Star – Smash Mouth (1999)",
-  "tonlistUK": "Crazy in Love – Beyoncé featuring Jay-Z (2003)",
-  "bio": "Gladiator (2000)",
+  "tonlistUSA": "Love Me Tender – Elvis Presley (1956)",
+  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
+  "bio": "The Great Gatsby (1974)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Sá sem er þrándur í götu er hindrun eða tálmi."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í miklum hrakförum eða óhöppum."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Hvíti mávurinn', var frumsýnd árið 1983.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítri um 25 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að taka ákvarðanir sem tengjast fjármálum. Vertu opinn fyrir nýjum hugmyndum og tækifærum."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin sem var sýnd í fullri lengd var 'Húsið' árið 1983.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag gæti óvænt tækifæri bankað á dyrnar hjá þér. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáhindranir draga þig niður."
 }
