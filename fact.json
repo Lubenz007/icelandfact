@@ -1,62 +1,58 @@
 {
-  "date": "2026-05-11",
-  "dagur": 11,
+  "date": "2026-05-12",
+  "dagur": 12,
   "manudur": "maí",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 131,
-  "sunrise": "04:25",
-  "sunset": "22:22",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 132,
+  "sunrise": "04:21",
+  "sunset": "22:26",
   "stjornumerki": "Naut",
-  "nafnadagur": "Mikael",
+  "nafnadagur": "Pankras",
   "atburdir": [
     {
       "ar": "1949",
-      "texti": "Síam breytir nafni sínu í Tæland."
+      "texti": "Sovétmenn afléttu Berlínarblokkuninni."
     },
     {
-      "ar": "1960",
-      "texti": "Ísrael tekur Adolf Eichmann höndum í Argentínu."
+      "ar": "1965",
+      "texti": "Vestur-Þýskaland og Ísrael tóku upp stjórnmálasamband."
     },
     {
-      "ar": "1997",
-      "texti": "Deep Blue, ofurtölva frá IBM, sigrar heimsmeistara í skák, Garry Kasparov."
+      "ar": "2008",
+      "texti": "Jarðskjálfti upp á 7,9 á Richter skók Sichuan hérað í Kína og olli dauða tugþúsunda."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1904",
-      "texti": "Fyrsta bílferðin á Íslandi fór fram þegar D. Th. Scheving ók bifreið sinni um götur Reykjavíkur."
-    },
-    {
-      "ar": "1968",
-      "texti": "Fyrsta Eurovision söngvakeppnin sem sýnd var í lit á Íslandi."
+      "ar": "1926",
+      "texti": "Fyrsta íslenska kvikmyndin, „Borgarstjórinn“, var frumsýnd í Reykjavík."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Salvador Dalí",
-      "starfsgrein": "listmálari",
-      "ar": "1904"
+      "nafn": "Florence Nightingale",
+      "starfsgrein": "hjúkrunarfræðingur",
+      "ar": "1820"
     },
     {
-      "nafn": "Irving Berlin",
-      "starfsgrein": "tónskáld",
-      "ar": "1888"
+      "nafn": "Katharine Hepburn",
+      "starfsgrein": "leikkona",
+      "ar": "1907"
     },
     {
-      "nafn": "Richard Feynman",
-      "starfsgrein": "eðlisfræðingur",
-      "ar": "1918"
+      "nafn": "George Carlin",
+      "starfsgrein": "grínisti",
+      "ar": "1937"
     }
   ],
-  "tonlistUSA": "Love Me Tender – Elvis Presley (1956)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
   "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "The Great Gatsby (1974)",
+  "bio": "Gladiator (2000)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í miklum hrakförum eða óhöppum."
+    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin sem var sýnd í fullri lengd var 'Húsið' árið 1983.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag gæti óvænt tækifæri bankað á dyrnar hjá þér. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáhindranir draga þig niður."
+  "vissir_thu": "Fyrsta þekkta notkun orðsins „OK“ var árið 1839 í Boston Morning Post.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 20 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum og skipulagningu. Mundu að þolinmæði er dyggð og árangur kemur þeim sem bíða."
 }
