@@ -1,58 +1,70 @@
 {
-  "date": "2026-05-12",
-  "dagur": 12,
+  "date": "2026-05-13",
+  "dagur": 13,
   "manudur": "maí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 132,
-  "sunrise": "04:21",
-  "sunset": "22:26",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 133,
+  "sunrise": "04:18",
+  "sunset": "22:29",
   "stjornumerki": "Naut",
-  "nafnadagur": "Pankras",
+  "nafnadagur": "Hallbera",
   "atburdir": [
     {
-      "ar": "1949",
-      "texti": "Sovétmenn afléttu Berlínarblokkuninni."
+      "ar": "1888",
+      "texti": "Brasilía afnam þrælahald."
     },
     {
-      "ar": "1965",
-      "texti": "Vestur-Þýskaland og Ísrael tóku upp stjórnmálasamband."
+      "ar": "1940",
+      "texti": "Winston Churchill hélt fræga ræðu sína „Blóð, erfiði, tár og sviti“ fyrir breska þinginu."
     },
     {
-      "ar": "2008",
-      "texti": "Jarðskjálfti upp á 7,9 á Richter skók Sichuan hérað í Kína og olli dauða tugþúsunda."
+      "ar": "1950",
+      "texti": "Fyrsta Formúlu 1 kappaksturskeppnin fór fram á Silverstone brautinni í Bretlandi."
+    },
+    {
+      "ar": "1981",
+      "texti": "Tilræði var gert við Jóhannes Pál II páfa á Péturstorginu í Róm."
+    },
+    {
+      "ar": "2000",
+      "texti": "Sprengjuárás var gerð á verslunarmiðstöð í Manila á Filippseyjum, sem varð mörgum að bana."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1926",
-      "texti": "Fyrsta íslenska kvikmyndin, „Borgarstjórinn“, var frumsýnd í Reykjavík."
+      "ar": "1940",
+      "texti": "Breskar hersveitir hernámu Ísland í seinni heimsstyrjöldinni."
+    },
+    {
+      "ar": "1994",
+      "texti": "Alþingi samþykkti lög um stofnun Háskólans á Akureyri."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Florence Nightingale",
-      "starfsgrein": "hjúkrunarfræðingur",
-      "ar": "1820"
+      "nafn": "Stevie Wonder",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1950"
     },
     {
-      "nafn": "Katharine Hepburn",
-      "starfsgrein": "leikkona",
-      "ar": "1907"
+      "nafn": "Harvey Keitel",
+      "starfsgrein": "leikari",
+      "ar": "1939"
     },
     {
-      "nafn": "George Carlin",
-      "starfsgrein": "grínisti",
-      "ar": "1937"
+      "nafn": "Robert Pattinson",
+      "starfsgrein": "leikari",
+      "ar": "1986"
     }
   ],
   "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
   "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "Gladiator (2000)",
+  "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta þekkta notkun orðsins „OK“ var árið 1839 í Boston Morning Post.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 20 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum og skipulagningu. Mundu að þolinmæði er dyggð og árangur kemur þeim sem bíða."
+  "vissir_thu": "Þrátt fyrir að vera eyja, er Ísland ekki með neina innfædda skóga sem ná yfir stór svæði, heldur aðallega birkikjarr.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum. Vertu jarðbundinn og taktu skynsamlegar ákvarðanir."
 }
