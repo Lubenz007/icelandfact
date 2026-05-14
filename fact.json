@@ -1,70 +1,66 @@
 {
-  "date": "2026-05-13",
-  "dagur": 13,
+  "date": "2026-05-14",
+  "dagur": 14,
   "manudur": "maí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 133,
-  "sunrise": "04:18",
-  "sunset": "22:29",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 134,
+  "sunrise": "04:15",
+  "sunset": "22:32",
   "stjornumerki": "Naut",
   "nafnadagur": "Hallbera",
   "atburdir": [
     {
-      "ar": "1888",
-      "texti": "Brasilía afnam þrælahald."
+      "ar": "1643",
+      "texti": "Roger Williams fær konunglegt skjal til að stofna Rhode Island."
+    },
+    {
+      "ar": "1796",
+      "texti": "Edward Jenner framkvæmir fyrstu bólusetninguna gegn bólusótt."
     },
     {
       "ar": "1940",
-      "texti": "Winston Churchill hélt fræga ræðu sína „Blóð, erfiði, tár og sviti“ fyrir breska þinginu."
+      "texti": "Holland gefst upp fyrir Þýskalandi í seinni heimsstyrjöldinni."
     },
     {
-      "ar": "1950",
-      "texti": "Fyrsta Formúlu 1 kappaksturskeppnin fór fram á Silverstone brautinni í Bretlandi."
+      "ar": "1948",
+      "texti": "Ísrael lýsir yfir sjálfstæði."
     },
     {
-      "ar": "1981",
-      "texti": "Tilræði var gert við Jóhannes Pál II páfa á Péturstorginu í Róm."
-    },
-    {
-      "ar": "2000",
-      "texti": "Sprengjuárás var gerð á verslunarmiðstöð í Manila á Filippseyjum, sem varð mörgum að bana."
+      "ar": "1955",
+      "texti": "Varsjárbandalagið er stofnað."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1940",
-      "texti": "Breskar hersveitir hernámu Ísland í seinni heimsstyrjöldinni."
-    },
-    {
-      "ar": "1994",
-      "texti": "Alþingi samþykkti lög um stofnun Háskólans á Akureyri."
+      "texti": "Breskir hermenn hernámu Ísland."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Stevie Wonder",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1950"
+      "nafn": "Mark Zuckerberg",
+      "starfsgrein": "frumkvöðull",
+      "ar": "1984"
     },
     {
-      "nafn": "Harvey Keitel",
-      "starfsgrein": "leikari",
-      "ar": "1939"
+      "nafn": "Cate Blanchett",
+      "starfsgrein": "leikkona",
+      "ar": "1969"
     },
     {
-      "nafn": "Robert Pattinson",
-      "starfsgrein": "leikari",
-      "ar": "1986"
+      "nafn": "George Lucas",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1944"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
-  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "Apocalypse Now (1979)",
+  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
+  "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Þrátt fyrir að vera eyja, er Ísland ekki með neina innfædda skóga sem ná yfir stór svæði, heldur aðallega birkikjarr.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum. Vertu jarðbundinn og taktu skynsamlegar ákvarðanir."
+  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 og var úr tré.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 20 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum. Ekki vera hræddur við að taka áhættu, en vertu skynsamur."
 }
