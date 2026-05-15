@@ -1,66 +1,70 @@
 {
-  "date": "2026-05-14",
-  "dagur": 14,
+  "date": "2026-05-15",
+  "dagur": 15,
   "manudur": "maí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 134,
-  "sunrise": "04:15",
-  "sunset": "22:32",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 135,
+  "sunrise": "04:11",
+  "sunset": "22:36",
   "stjornumerki": "Naut",
-  "nafnadagur": "Hallbera",
+  "nafnadagur": "Ísól",
   "atburdir": [
     {
-      "ar": "1643",
-      "texti": "Roger Williams fær konunglegt skjal til að stofna Rhode Island."
+      "ar": "1891",
+      "texti": "Páll VI páfi, fæddur Giovanni Battista Enrico Antonio Maria Montini, fæddist."
     },
     {
-      "ar": "1796",
-      "texti": "Edward Jenner framkvæmir fyrstu bólusetninguna gegn bólusótt."
+      "ar": "1935",
+      "texti": "Fyrsta neðanjarðarlestarkerfið í Moskvu, Sovétríkjunum, var opnað."
     },
     {
       "ar": "1940",
-      "texti": "Holland gefst upp fyrir Þýskalandi í seinni heimsstyrjöldinni."
+      "texti": "McDonald's opnaði sinn fyrsta veitingastað í San Bernardino, Kaliforníu."
     },
     {
-      "ar": "1948",
-      "texti": "Ísrael lýsir yfir sjálfstæði."
+      "ar": "1957",
+      "texti": "Bretland framkvæmdi sína fyrstu vetnissprengjutilraun á Kyrrahafi."
     },
     {
-      "ar": "1955",
-      "texti": "Varsjárbandalagið er stofnað."
+      "ar": "1990",
+      "texti": "Myndin „Pretty Woman“ var frumsýnd í Bandaríkjunum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Breskir hermenn hernámu Ísland."
+      "ar": "1928",
+      "texti": "Fyrsta flugvél Loftleiða, „Leifur Eiríksson“, lenti á Íslandi."
+    },
+    {
+      "ar": "1986",
+      "texti": "Ísland og Bandaríkin skrifuðu undir samning um varnarsamstarf."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Mark Zuckerberg",
-      "starfsgrein": "frumkvöðull",
-      "ar": "1984"
+      "nafn": "James Mason",
+      "starfsgrein": "leikari",
+      "ar": "1909"
     },
     {
-      "nafn": "Cate Blanchett",
-      "starfsgrein": "leikkona",
-      "ar": "1969"
+      "nafn": "Madeleine Albright",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1937"
     },
     {
-      "nafn": "George Lucas",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1944"
+      "nafn": "Ray Stevenson",
+      "starfsgrein": "leikari",
+      "ar": "1964"
     }
   ],
-  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
-  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
-  "bio": "Star Wars: Episode IV – A New Hope (1977)",
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
+  "bio": "Star Wars: Episode I – The Phantom Menace (1999)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 og var úr tré.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 20 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum. Ekki vera hræddur við að taka áhættu, en vertu skynsamur."
+  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum og skipuleggja framtíðina. Mundu að njóta augnabliksins og slaka á."
 }
