@@ -1,70 +1,70 @@
 {
-  "date": "2026-05-15",
-  "dagur": 15,
+  "date": "2026-05-16",
+  "dagur": 16,
   "manudur": "maí",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 135,
-  "sunrise": "04:11",
-  "sunset": "22:36",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 136,
+  "sunrise": "04:08",
+  "sunset": "22:39",
   "stjornumerki": "Naut",
-  "nafnadagur": "Ísól",
+  "nafnadagur": "Mikael",
   "atburdir": [
     {
-      "ar": "1891",
-      "texti": "Páll VI páfi, fæddur Giovanni Battista Enrico Antonio Maria Montini, fæddist."
+      "ar": "1929",
+      "texti": "Fyrsta Óskarsverðlaunahátíðin var haldin í Hollywood Roosevelt hótelinu."
     },
     {
-      "ar": "1935",
-      "texti": "Fyrsta neðanjarðarlestarkerfið í Moskvu, Sovétríkjunum, var opnað."
+      "ar": "1943",
+      "texti": "Uppreisnin í gyðingahverfinu í Varsjá var endanlega brotin á bak aftur af þýska hernum."
     },
     {
-      "ar": "1940",
-      "texti": "McDonald's opnaði sinn fyrsta veitingastað í San Bernardino, Kaliforníu."
+      "ar": "1966",
+      "texti": "Bob Dylan gaf út plötuna „Blonde on Blonde“."
     },
     {
-      "ar": "1957",
-      "texti": "Bretland framkvæmdi sína fyrstu vetnissprengjutilraun á Kyrrahafi."
+      "ar": "1969",
+      "texti": "Sovétríkin sendu geimfarið Venera 5 til Venusar."
     },
     {
-      "ar": "1990",
-      "texti": "Myndin „Pretty Woman“ var frumsýnd í Bandaríkjunum."
+      "ar": "1997",
+      "texti": "Mobutu Sese Seko, forseti Zaire, flúði land eftir að uppreisnarmenn náðu höfuðborginni Kinshasa."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1928",
-      "texti": "Fyrsta flugvél Loftleiða, „Leifur Eiríksson“, lenti á Íslandi."
+      "ar": "1944",
+      "texti": "Þjóðaratkvæðagreiðsla um sambandsslit við Danmörku og lýðveldisstjórnarlag var haldin á Íslandi."
     },
     {
-      "ar": "1986",
-      "texti": "Ísland og Bandaríkin skrifuðu undir samning um varnarsamstarf."
+      "ar": "1911",
+      "texti": "Fyrsti íslenski togarinn, Coot, kom til landsins."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "James Mason",
+      "nafn": "Henry Fonda",
       "starfsgrein": "leikari",
-      "ar": "1909"
+      "ar": "1905"
     },
     {
-      "nafn": "Madeleine Albright",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1937"
+      "nafn": "Liberace",
+      "starfsgrein": "píanóleikari",
+      "ar": "1919"
     },
     {
-      "nafn": "Ray Stevenson",
-      "starfsgrein": "leikari",
-      "ar": "1964"
+      "nafn": "Janet Jackson",
+      "starfsgrein": "söngkona",
+      "ar": "1966"
     }
   ],
-  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
-  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
-  "bio": "Star Wars: Episode I – The Phantom Menace (1999)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
+  "tonlistUK": "Get It On – T. Rex (1971)",
+  "bio": "Star Wars: Episode II – Attack of the Clones (2002)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum og skipuleggja framtíðina. Mundu að njóta augnabliksins og slaka á."
+  "vissir_thu": "Fyrsta kvikmyndin sem sýnd var á Íslandi var árið 1903 í Fjalakettinum í Reykjavík.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag gæti verið góður dagur til að einbeita þér að fjárhagslegum markmiðum þínum. Vertu opinn fyrir nýjum hugmyndum sem gætu bætt stöðu þína."
 }
