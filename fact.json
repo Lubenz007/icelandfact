@@ -1,70 +1,58 @@
 {
-  "date": "2026-05-16",
-  "dagur": 16,
+  "date": "2026-05-17",
+  "dagur": 17,
   "manudur": "maí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 136,
-  "sunrise": "04:08",
-  "sunset": "22:39",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 137,
+  "sunrise": "04:05",
+  "sunset": "22:42",
   "stjornumerki": "Naut",
-  "nafnadagur": "Mikael",
+  "nafnadagur": "Þorleifur",
   "atburdir": [
     {
-      "ar": "1929",
-      "texti": "Fyrsta Óskarsverðlaunahátíðin var haldin í Hollywood Roosevelt hótelinu."
+      "ar": "1940",
+      "texti": "Þýskaland hertekur Brussel í Belgíu."
     },
     {
-      "ar": "1943",
-      "texti": "Uppreisnin í gyðingahverfinu í Varsjá var endanlega brotin á bak aftur af þýska hernum."
+      "ar": "1954",
+      "texti": "Hæstiréttur Bandaríkjanna úrskurðar að kynþáttaaðskilnaður í skólum sé ólöglegur í málinu Brown gegn fræðsluráði."
     },
     {
-      "ar": "1966",
-      "texti": "Bob Dylan gaf út plötuna „Blonde on Blonde“."
-    },
-    {
-      "ar": "1969",
-      "texti": "Sovétríkin sendu geimfarið Venera 5 til Venusar."
-    },
-    {
-      "ar": "1997",
-      "texti": "Mobutu Sese Seko, forseti Zaire, flúði land eftir að uppreisnarmenn náðu höfuðborginni Kinshasa."
+      "ar": "1973",
+      "texti": "Watergate-hneykslið: Bandaríkjaþing hefur formlega rannsókn á ásökunum um að Richard Nixon forseti hafi hindrað framgang réttvísinnar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Þjóðaratkvæðagreiðsla um sambandsslit við Danmörku og lýðveldisstjórnarlag var haldin á Íslandi."
-    },
-    {
-      "ar": "1911",
-      "texti": "Fyrsti íslenski togarinn, Coot, kom til landsins."
+      "ar": "1904",
+      "texti": "Fyrsta kvikmyndasýning á Íslandi fór fram í Reykjavík."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Henry Fonda",
-      "starfsgrein": "leikari",
-      "ar": "1905"
+      "nafn": "Dennis Hopper",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1936"
     },
     {
-      "nafn": "Liberace",
-      "starfsgrein": "píanóleikari",
-      "ar": "1919"
+      "nafn": "Sugar Ray Leonard",
+      "starfsgrein": "boxari",
+      "ar": "1956"
     },
     {
-      "nafn": "Janet Jackson",
-      "starfsgrein": "söngkona",
-      "ar": "1966"
+      "nafn": "Enya",
+      "starfsgrein": "tónlistarkona",
+      "ar": "1961"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
-  "tonlistUK": "Get It On – T. Rex (1971)",
-  "bio": "Star Wars: Episode II – Attack of the Clones (2002)",
+  "tonlistUSA": "Love Me Tender – Elvis Presley (1956)",
+  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
+  "bio": "Mad Max 2 (1981)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
   },
-  "vissir_thu": "Fyrsta kvikmyndin sem sýnd var á Íslandi var árið 1903 í Fjalakettinum í Reykjavík.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag gæti verið góður dagur til að einbeita þér að fjárhagslegum markmiðum þínum. Vertu opinn fyrir nýjum hugmyndum sem gætu bætt stöðu þína."
+  "vissir_thu": "Fyrsta íslenska dagblaðið, Íslandsspósturinn, kom út árið 1848.",
+  "verdlag": "Árið 1980 kostaði lítra af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag gætir þú fundið fyrir óvæntri orku sem knýr þig áfram. Vertu opinn fyrir nýjum hugmyndum og tækifærum sem kunna að birtast."
 }
