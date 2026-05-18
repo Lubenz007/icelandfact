@@ -1,58 +1,58 @@
 {
-  "date": "2026-05-17",
-  "dagur": 17,
+  "date": "2026-05-18",
+  "dagur": 18,
   "manudur": "maí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 137,
-  "sunrise": "04:05",
-  "sunset": "22:42",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 138,
+  "sunrise": "04:02",
+  "sunset": "22:45",
   "stjornumerki": "Naut",
-  "nafnadagur": "Þorleifur",
+  "nafnadagur": "Eiríkur",
   "atburdir": [
     {
-      "ar": "1940",
-      "texti": "Þýskaland hertekur Brussel í Belgíu."
+      "ar": "1804",
+      "texti": "Napóleon Bónaparte var lýstur keisari Frakklands."
     },
     {
-      "ar": "1954",
-      "texti": "Hæstiréttur Bandaríkjanna úrskurðar að kynþáttaaðskilnaður í skólum sé ólöglegur í málinu Brown gegn fræðsluráði."
+      "ar": "1980",
+      "texti": "Mount St. Helens gaus í Washingtonfylki í Bandaríkjunum."
     },
     {
-      "ar": "1973",
-      "texti": "Watergate-hneykslið: Bandaríkjaþing hefur formlega rannsókn á ásökunum um að Richard Nixon forseti hafi hindrað framgang réttvísinnar."
+      "ar": "1991",
+      "texti": "Somalíland lýsti yfir sjálfstæði frá Sómalíu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1904",
-      "texti": "Fyrsta kvikmyndasýning á Íslandi fór fram í Reykjavík."
+      "ar": "1944",
+      "texti": "Alþingi samþykkti lög um stofnun lýðveldis á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Dennis Hopper",
-      "starfsgrein": "leikari og leikstjóri",
-      "ar": "1936"
+      "nafn": "Frank Capra",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1897"
     },
     {
-      "nafn": "Sugar Ray Leonard",
-      "starfsgrein": "boxari",
-      "ar": "1956"
+      "nafn": "Pope John Paul II",
+      "starfsgrein": "páfi",
+      "ar": "1920"
     },
     {
-      "nafn": "Enya",
-      "starfsgrein": "tónlistarkona",
-      "ar": "1961"
+      "nafn": "Tina Fey",
+      "starfsgrein": "leikkona/grínisti",
+      "ar": "1970"
     }
   ],
-  "tonlistUSA": "Love Me Tender – Elvis Presley (1956)",
-  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "Mad Max 2 (1981)",
+  "tonlistUSA": "Vogue – Madonna (1990)",
+  "tonlistUK": "Goodnight Girl – Wet Wet Wet (1992)",
+  "bio": "Star Wars: Episode I – The Phantom Menace (1999)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta íslenska dagblaðið, Íslandsspósturinn, kom út árið 1848.",
-  "verdlag": "Árið 1980 kostaði lítra af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag gætir þú fundið fyrir óvæntri orku sem knýr þig áfram. Vertu opinn fyrir nýjum hugmyndum og tækifærum sem kunna að birtast."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsið“, var frumsýnd árið 1983.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum. Vertu opinn fyrir nýjum hugmyndum sem gætu bætt stöðu þína."
 }
