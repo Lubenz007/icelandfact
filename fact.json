@@ -1,25 +1,25 @@
 {
-  "date": "2026-05-18",
-  "dagur": 18,
+  "date": "2026-05-19",
+  "dagur": 19,
   "manudur": "maí",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 138,
-  "sunrise": "04:02",
-  "sunset": "22:45",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 139,
+  "sunrise": "03:59",
+  "sunset": "22:49",
   "stjornumerki": "Naut",
-  "nafnadagur": "Eiríkur",
+  "nafnadagur": "Björgvin",
   "atburdir": [
     {
-      "ar": "1804",
-      "texti": "Napóleon Bónaparte var lýstur keisari Frakklands."
+      "ar": "1536",
+      "texti": "Anna Boleyn, önnur eiginkona Hinriks VIII Englandskonungs, var tekin af lífi fyrir landráð í Lundúnum."
     },
     {
-      "ar": "1980",
-      "texti": "Mount St. Helens gaus í Washingtonfylki í Bandaríkjunum."
+      "ar": "1962",
+      "texti": "Marilyn Monroe söng fræga afmælissönginn „Happy Birthday, Mr. President“ fyrir John F. Kennedy forseta."
     },
     {
-      "ar": "1991",
-      "texti": "Somalíland lýsti yfir sjálfstæði frá Sómalíu."
+      "ar": "1995",
+      "texti": "Fyrsta útgáfa af Java forritunarmálinu var gefin út."
     }
   ],
   "atburdir_island": [
@@ -30,29 +30,24 @@
   ],
   "afmaeli": [
     {
-      "nafn": "Frank Capra",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1897"
+      "nafn": "Malcolm X",
+      "starfsgrein": "mannréttindafrömuður",
+      "ar": "1925"
     },
     {
-      "nafn": "Pope John Paul II",
-      "starfsgrein": "páfi",
-      "ar": "1920"
-    },
-    {
-      "nafn": "Tina Fey",
-      "starfsgrein": "leikkona/grínisti",
-      "ar": "1970"
+      "nafn": "Grace Jones",
+      "starfsgrein": "söngkona/leikkona",
+      "ar": "1948"
     }
   ],
-  "tonlistUSA": "Vogue – Madonna (1990)",
-  "tonlistUK": "Goodnight Girl – Wet Wet Wet (1992)",
+  "tonlistUSA": "Love Me Do – The Beatles (1964)",
+  "tonlistUK": "Get Back – The Beatles (1969)",
   "bio": "Star Wars: Episode I – The Phantom Menace (1999)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
   "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsið“, var frumsýnd árið 1983.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum. Vertu opinn fyrir nýjum hugmyndum sem gætu bætt stöðu þína."
+  "verdlag": "Árið 1980 kostaði lítri af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjárhagslegri stöðugleika. Mundu að þolinmæði er dyggð og árangur kemur þeim sem bíða."
 }
