@@ -1,53 +1,62 @@
 {
-  "date": "2026-05-19",
-  "dagur": 19,
+  "date": "2026-05-20",
+  "dagur": 20,
   "manudur": "maí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 139,
-  "sunrise": "03:59",
-  "sunset": "22:49",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 140,
+  "sunrise": "03:55",
+  "sunset": "22:52",
   "stjornumerki": "Naut",
-  "nafnadagur": "Björgvin",
+  "nafnadagur": "Bóas",
   "atburdir": [
     {
-      "ar": "1536",
-      "texti": "Anna Boleyn, önnur eiginkona Hinriks VIII Englandskonungs, var tekin af lífi fyrir landráð í Lundúnum."
+      "ar": "1498",
+      "texti": "Vasco da Gama kemur til Calicut á Indlandi og opnar þar með sjóleiðina frá Evrópu til Asíu."
     },
     {
-      "ar": "1962",
-      "texti": "Marilyn Monroe söng fræga afmælissönginn „Happy Birthday, Mr. President“ fyrir John F. Kennedy forseta."
+      "ar": "1873",
+      "texti": "Levi Strauss og Jacob Davis fá einkaleyfi á bláum gallabuxum með koparhnoðum."
     },
     {
-      "ar": "1995",
-      "texti": "Fyrsta útgáfa af Java forritunarmálinu var gefin út."
+      "ar": "1927",
+      "texti": "Charles Lindbergh leggur af stað í fyrsta flug sitt yfir Atlantshafið án viðkomu."
+    },
+    {
+      "ar": "2002",
+      "texti": "Austur-Tímor verður sjálfstætt ríki eftir að hafa verið undir stjórn Indónesíu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Alþingi samþykkti lög um stofnun lýðveldis á Íslandi."
+      "ar": "1940",
+      "texti": "Breskir hermenn hernámu Ísland."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Malcolm X",
-      "starfsgrein": "mannréttindafrömuður",
-      "ar": "1925"
+      "nafn": "Honoré de Balzac",
+      "starfsgrein": "rithöfundur",
+      "ar": "1799"
     },
     {
-      "nafn": "Grace Jones",
-      "starfsgrein": "söngkona/leikkona",
-      "ar": "1948"
+      "nafn": "James Stewart",
+      "starfsgrein": "leikari",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Cher",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "1946"
     }
   ],
-  "tonlistUSA": "Love Me Do – The Beatles (1964)",
-  "tonlistUK": "Get Back – The Beatles (1969)",
-  "bio": "Star Wars: Episode I – The Phantom Menace (1999)",
+  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
+  "bio": "Star Wars: Episode II – Attack of the Clones (2002)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísan til nákvæmni og smekkvísi."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsið“, var frumsýnd árið 1983.",
-  "verdlag": "Árið 1980 kostaði lítri af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjárhagslegri stöðugleika. Mundu að þolinmæði er dyggð og árangur kemur þeim sem bíða."
+  "vissir_thu": "Fyrsta kvikmyndasýning á Íslandi fór fram árið 1903 í Reykjavík.",
+  "verdlag": "Árið 1970 kostaði ein lítra af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum og skipuleggja framtíðina. Mundu að þolinmæði er dyggð."
 }
