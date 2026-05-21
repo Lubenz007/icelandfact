@@ -1,62 +1,62 @@
 {
-  "date": "2026-05-20",
-  "dagur": 20,
+  "date": "2026-05-21",
+  "dagur": 21,
   "manudur": "maí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 140,
-  "sunrise": "03:55",
-  "sunset": "22:52",
-  "stjornumerki": "Naut",
-  "nafnadagur": "Bóas",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 141,
+  "sunrise": "03:52",
+  "sunset": "22:55",
+  "stjornumerki": "Tvíburar",
+  "nafnadagur": "Hallgerður",
   "atburdir": [
     {
-      "ar": "1498",
-      "texti": "Vasco da Gama kemur til Calicut á Indlandi og opnar þar með sjóleiðina frá Evrópu til Asíu."
-    },
-    {
-      "ar": "1873",
-      "texti": "Levi Strauss og Jacob Davis fá einkaleyfi á bláum gallabuxum með koparhnoðum."
+      "ar": "1881",
+      "texti": "Ameríski Rauði krossinn var stofnaður af Clara Barton."
     },
     {
       "ar": "1927",
-      "texti": "Charles Lindbergh leggur af stað í fyrsta flug sitt yfir Atlantshafið án viðkomu."
+      "texti": "Charles Lindbergh lenti í París og lauk þar með fyrsta flugi yfir Atlantshafið án viðkomu."
     },
     {
-      "ar": "2002",
-      "texti": "Austur-Tímor verður sjálfstætt ríki eftir að hafa verið undir stjórn Indónesíu."
+      "ar": "1932",
+      "texti": "Amelia Earhart varð fyrsta konan til að fljúga ein yfir Atlantshafið."
+    },
+    {
+      "ar": "1991",
+      "texti": "Fyrrum forsætisráðherra Indlands, Rajiv Gandhi, var myrtur."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Breskir hermenn hernámu Ísland."
+      "ar": "1944",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Honoré de Balzac",
+      "nafn": "Andrei Sakharov",
+      "starfsgrein": "eðlisfræðingur og mannréttindafrömuður",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Harold Robbins",
       "starfsgrein": "rithöfundur",
-      "ar": "1799"
+      "ar": "1916"
     },
     {
-      "nafn": "James Stewart",
-      "starfsgrein": "leikari",
-      "ar": "1908"
-    },
-    {
-      "nafn": "Cher",
-      "starfsgrein": "söngkona og leikkona",
-      "ar": "1946"
+      "nafn": "The Notorious B.I.G.",
+      "starfsgrein": "rappari",
+      "ar": "1972"
     }
   ],
-  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
-  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
-  "bio": "Star Wars: Episode II – Attack of the Clones (2002)",
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "Star Wars: Episode V – The Empire Strikes Back (1980)",
   "ord_dagsins": {
     "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísan til nákvæmni og smekkvísi."
+    "skyring": "Hagleikur er færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
   },
-  "vissir_thu": "Fyrsta kvikmyndasýning á Íslandi fór fram árið 1903 í Reykjavík.",
-  "verdlag": "Árið 1970 kostaði ein lítra af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Naut, í dag er góður dagur til að einbeita þér að fjármálum og skipuleggja framtíðina. Mundu að þolinmæði er dyggð."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Borgin brennur', var frumsýnd árið 1969.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu í samskiptum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig."
 }
