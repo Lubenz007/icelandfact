@@ -1,62 +1,58 @@
 {
-  "date": "2026-05-21",
-  "dagur": 21,
+  "date": "2026-05-23",
+  "dagur": 23,
   "manudur": "maí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 141,
-  "sunrise": "03:52",
-  "sunset": "22:55",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 143,
+  "sunrise": "03:46",
+  "sunset": "23:01",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Hallgerður",
+  "nafnadagur": "Pétur",
   "atburdir": [
     {
-      "ar": "1881",
-      "texti": "Ameríski Rauði krossinn var stofnaður af Clara Barton."
+      "ar": "1949",
+      "texti": "Grundvallarlög Sambandslýðveldisins Þýskalands voru samþykkt, sem markaði stofnun Vestur-Þýskalands."
     },
     {
-      "ar": "1927",
-      "texti": "Charles Lindbergh lenti í París og lauk þar með fyrsta flugi yfir Atlantshafið án viðkomu."
+      "ar": "1995",
+      "texti": "Fyrsta útgáfa af forritunarmálinu Java var gefin út."
     },
     {
-      "ar": "1932",
-      "texti": "Amelia Earhart varð fyrsta konan til að fljúga ein yfir Atlantshafið."
-    },
-    {
-      "ar": "1991",
-      "texti": "Fyrrum forsætisráðherra Indlands, Rajiv Gandhi, var myrtur."
+      "ar": "2002",
+      "texti": "Austur-Tímor varð sjálfstætt ríki."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Alþingiskosningar voru haldnar á Íslandi."
+      "ar": "1940",
+      "texti": "Breskir hermenn hernámu Færeyjar, sem var hluti af aðgerðum til að tryggja öryggi Norður-Atlantshafsins í síðari heimsstyrjöldinni."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Andrei Sakharov",
-      "starfsgrein": "eðlisfræðingur og mannréttindafrömuður",
-      "ar": "1921"
+      "nafn": "Joan Collins",
+      "starfsgrein": "leikkona",
+      "ar": "1933"
     },
     {
-      "nafn": "Harold Robbins",
-      "starfsgrein": "rithöfundur",
-      "ar": "1916"
+      "nafn": "Drew Carey",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1958"
     },
     {
-      "nafn": "The Notorious B.I.G.",
-      "starfsgrein": "rappari",
+      "nafn": "Rubens Barrichello",
+      "starfsgrein": "kappakstursmaður",
       "ar": "1972"
     }
   ],
-  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
-  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
-  "bio": "Star Wars: Episode V – The Empire Strikes Back (1980)",
+  "tonlistUSA": "Love Rollercoaster – Ohio Players (1975)",
+  "tonlistUK": "Get Up (I Feel Like Being a Sex Machine) – James Brown (1970)",
+  "bio": "Star Wars: Episode III – Revenge of the Sith (2005)",
   "ord_dagsins": {
     "ord": "hagleikur",
-    "skyring": "Hagleikur er færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
+    "skyring": "Hagleikur er færni eða kunnátta í að gera eitthvað vel, oftast með höndunum eða á listrænan hátt."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Borgin brennur', var frumsýnd árið 1969.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu í samskiptum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig."
+  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var úr tré.",
+  "verdlag": "Árið 1980 kostaði kíló af kaffi um 250 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri birst, vertu opinn fyrir nýjum hugmyndum. Mundu að jafnvægi er lykillinn að árangri, bæði í starfi og einkalífi."
 }
