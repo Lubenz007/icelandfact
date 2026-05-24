@@ -1,58 +1,58 @@
 {
-  "date": "2026-05-23",
-  "dagur": 23,
+  "date": "2026-05-24",
+  "dagur": 24,
   "manudur": "maí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 143,
-  "sunrise": "03:46",
-  "sunset": "23:01",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 144,
+  "sunrise": "03:44",
+  "sunset": "23:04",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Pétur",
+  "nafnadagur": "Ester",
   "atburdir": [
     {
-      "ar": "1949",
-      "texti": "Grundvallarlög Sambandslýðveldisins Þýskalands voru samþykkt, sem markaði stofnun Vestur-Þýskalands."
+      "ar": "1844",
+      "texti": "Samuel Morse sendi fyrsta símskeytið opinberlega frá Washington D.C. til Baltimore."
     },
     {
-      "ar": "1995",
-      "texti": "Fyrsta útgáfa af forritunarmálinu Java var gefin út."
+      "ar": "1941",
+      "texti": "Breska herskipið HMS Hood var sökkt af þýska herskipinu Bismarck í Norður-Atlantshafi."
     },
     {
-      "ar": "2002",
-      "texti": "Austur-Tímor varð sjálfstætt ríki."
+      "ar": "1993",
+      "texti": "Eritrea hlaut sjálfstæði frá Eþíópíu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1940",
-      "texti": "Breskir hermenn hernámu Færeyjar, sem var hluti af aðgerðum til að tryggja öryggi Norður-Atlantshafsins í síðari heimsstyrjöldinni."
+      "texti": "Fyrstu bresku hermennirnir sem komu til Íslands í seinni heimsstyrjöldinni yfirgáfu landið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Joan Collins",
+      "nafn": "Bob Dylan",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Patti LaBelle",
+      "starfsgrein": "söngkona",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Kristin Scott Thomas",
       "starfsgrein": "leikkona",
-      "ar": "1933"
-    },
-    {
-      "nafn": "Drew Carey",
-      "starfsgrein": "leikari og grínisti",
-      "ar": "1958"
-    },
-    {
-      "nafn": "Rubens Barrichello",
-      "starfsgrein": "kappakstursmaður",
-      "ar": "1972"
+      "ar": "1960"
     }
   ],
-  "tonlistUSA": "Love Rollercoaster – Ohio Players (1975)",
-  "tonlistUK": "Get Up (I Feel Like Being a Sex Machine) – James Brown (1970)",
-  "bio": "Star Wars: Episode III – Revenge of the Sith (2005)",
+  "tonlistUSA": "Love Shack – The B-52's (1989)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Hagleikur er færni eða kunnátta í að gera eitthvað vel, oftast með höndunum eða á listrænan hátt."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var úr tré.",
-  "verdlag": "Árið 1980 kostaði kíló af kaffi um 250 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri birst, vertu opinn fyrir nýjum hugmyndum. Mundu að jafnvægi er lykillinn að árangri, bæði í starfi og einkalífi."
+  "vissir_thu": "Fyrsta sjónvarpsútsendingin á Íslandi fór fram árið 1966.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að tengjast gömlum vinum. Óvænt tækifæri gætu skotið upp kollinum, vertu opinn fyrir nýjum hugmyndum."
 }
