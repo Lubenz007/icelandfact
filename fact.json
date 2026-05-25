@@ -1,58 +1,70 @@
 {
-  "date": "2026-05-24",
-  "dagur": 24,
+  "date": "2026-05-25",
+  "dagur": 25,
   "manudur": "maí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 144,
-  "sunrise": "03:44",
-  "sunset": "23:04",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 145,
+  "sunrise": "03:41",
+  "sunset": "23:07",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Ester",
+  "nafnadagur": "Hallgrímur",
   "atburdir": [
     {
-      "ar": "1844",
-      "texti": "Samuel Morse sendi fyrsta símskeytið opinberlega frá Washington D.C. til Baltimore."
+      "ar": "1961",
+      "texti": "John F. Kennedy Bandaríkjaforseti tilkynnti um áform Bandaríkjanna um að senda mann til tunglsins fyrir lok áratugarins."
     },
     {
-      "ar": "1941",
-      "texti": "Breska herskipið HMS Hood var sökkt af þýska herskipinu Bismarck í Norður-Atlantshafi."
+      "ar": "1977",
+      "texti": "Fyrsta Star Wars myndin, A New Hope, var frumsýnd í Bandaríkjunum."
     },
     {
-      "ar": "1993",
-      "texti": "Eritrea hlaut sjálfstæði frá Eþíópíu."
+      "ar": "1963",
+      "texti": "Afríkusambandið var stofnað í Addis Ababa, Eþíópíu."
+    },
+    {
+      "ar": "1810",
+      "texti": "Maíbyltingin hófst í Buenos Aires, sem leiddi til sjálfstæðis Argentínu."
+    },
+    {
+      "ar": "1953",
+      "texti": "Fyrsta sjónvarpsstöðin í Kanada, CBFT, hóf útsendingar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Fyrstu bresku hermennirnir sem komu til Íslands í seinni heimsstyrjöldinni yfirgáfu landið."
+      "ar": "1944",
+      "texti": "Alþingi samþykkti lög um stofnun lýðveldis á Íslandi."
+    },
+    {
+      "ar": "1928",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, Hvítir mávar, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Bob Dylan",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1941"
+      "nafn": "Ian McKellen",
+      "starfsgrein": "leikari",
+      "ar": "1939"
     },
     {
-      "nafn": "Patti LaBelle",
-      "starfsgrein": "söngkona",
-      "ar": "1944"
+      "nafn": "Cillian Murphy",
+      "starfsgrein": "leikari",
+      "ar": "1976"
     },
     {
-      "nafn": "Kristin Scott Thomas",
-      "starfsgrein": "leikkona",
-      "ar": "1960"
+      "nafn": "Mike Myers",
+      "starfsgrein": "leikari / grínisti",
+      "ar": "1963"
     }
   ],
-  "tonlistUSA": "Love Shack – The B-52's (1989)",
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
   "tonlistUK": "Karma Chameleon – Culture Club (1983)",
-  "bio": "Indiana Jones and the Kingdom of the Crystal Skull (2008)",
+  "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "glópagull",
+    "skyring": "Efni sem líkist gulli en er verðlaust, oft notað um eitthvað sem virðist verðmætt en er það ekki."
   },
-  "vissir_thu": "Fyrsta sjónvarpsútsendingin á Íslandi fór fram árið 1966.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að tengjast gömlum vinum. Óvænt tækifæri gætu skotið upp kollinum, vertu opinn fyrir nýjum hugmyndum."
+  "vissir_thu": "Fyrsta íslenska dagblaðið, Íslendingur, kom út árið 1843.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gætu óvænt tækifæri birst á sjóndeildarhringnum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
