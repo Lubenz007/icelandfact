@@ -1,70 +1,62 @@
 {
-  "date": "2026-05-25",
-  "dagur": 25,
+  "date": "2026-05-26",
+  "dagur": 26,
   "manudur": "maí",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 145,
-  "sunrise": "03:41",
-  "sunset": "23:07",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 146,
+  "sunrise": "03:38",
+  "sunset": "23:10",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Hallgrímur",
+  "nafnadagur": "Nanna",
   "atburdir": [
     {
-      "ar": "1961",
-      "texti": "John F. Kennedy Bandaríkjaforseti tilkynnti um áform Bandaríkjanna um að senda mann til tunglsins fyrir lok áratugarins."
+      "ar": "1926",
+      "texti": "Fyrsta almenna útvarpsútsendingin í Bretlandi fór fram."
     },
     {
-      "ar": "1977",
-      "texti": "Fyrsta Star Wars myndin, A New Hope, var frumsýnd í Bandaríkjunum."
+      "ar": "1966",
+      "texti": "Gvæjana hlaut sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1963",
-      "texti": "Afríkusambandið var stofnað í Addis Ababa, Eþíópíu."
+      "ar": "1972",
+      "texti": "Nixon Bandaríkjaforseti og Brezhnev Sovétleiðtogi undirrituðu SALT I samkomulagið um takmörkun á kjarnavopnum."
     },
     {
-      "ar": "1810",
-      "texti": "Maíbyltingin hófst í Buenos Aires, sem leiddi til sjálfstæðis Argentínu."
-    },
-    {
-      "ar": "1953",
-      "texti": "Fyrsta sjónvarpsstöðin í Kanada, CBFT, hóf útsendingar."
+      "ar": "2002",
+      "texti": "Jarðskjálfti upp á 7,6 á Richter skók norðurhluta Afganistan og kostaði yfir 1.000 manns lífið."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Alþingi samþykkti lög um stofnun lýðveldis á Íslandi."
-    },
-    {
-      "ar": "1928",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, Hvítir mávar, var frumsýnd."
+      "texti": "Þjóðaratkvæðagreiðsla um sambandsslit við Danmörku og stofnun lýðveldis hófst á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ian McKellen",
+      "nafn": "John Wayne",
       "starfsgrein": "leikari",
-      "ar": "1939"
+      "ar": "1907"
     },
     {
-      "nafn": "Cillian Murphy",
-      "starfsgrein": "leikari",
-      "ar": "1976"
+      "nafn": "Miles Davis",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1926"
     },
     {
-      "nafn": "Mike Myers",
-      "starfsgrein": "leikari / grínisti",
-      "ar": "1963"
+      "nafn": "Lenny Kravitz",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1964"
     }
   ],
-  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
-  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "tonlistUSA": "Love Child – Diana Ross & The Supremes (1968)",
+  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
   "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
-    "ord": "glópagull",
-    "skyring": "Efni sem líkist gulli en er verðlaust, oft notað um eitthvað sem virðist verðmætt en er það ekki."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða listgrein."
   },
-  "vissir_thu": "Fyrsta íslenska dagblaðið, Íslendingur, kom út árið 1843.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gætu óvænt tækifæri birst á sjóndeildarhringnum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Búkolla“, var frumsýnd árið 1950.",
+  "verdlag": "Árið 1970 kostaði lítri af bensíni um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að læra eitthvað nýtt eða hefja spennandi verkefni. Vertu opinn fyrir óvæntum tækifærum."
 }
