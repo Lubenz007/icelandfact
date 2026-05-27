@@ -1,62 +1,62 @@
 {
-  "date": "2026-05-26",
-  "dagur": 26,
+  "date": "2026-05-27",
+  "dagur": 27,
   "manudur": "maí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 146,
-  "sunrise": "03:38",
-  "sunset": "23:10",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 147,
+  "sunrise": "03:35",
+  "sunset": "23:13",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Nanna",
+  "nafnadagur": "Beda",
   "atburdir": [
     {
-      "ar": "1926",
-      "texti": "Fyrsta almenna útvarpsútsendingin í Bretlandi fór fram."
+      "ar": "1703",
+      "texti": "Pétur mikli stofnar borgina Sankti Pétursborg í Rússlandi."
     },
     {
-      "ar": "1966",
-      "texti": "Gvæjana hlaut sjálfstæði frá Bretlandi."
+      "ar": "1937",
+      "texti": "Golden Gate brúin í San Francisco er opnuð fyrir umferð."
     },
     {
-      "ar": "1972",
-      "texti": "Nixon Bandaríkjaforseti og Brezhnev Sovétleiðtogi undirrituðu SALT I samkomulagið um takmörkun á kjarnavopnum."
+      "ar": "1941",
+      "texti": "Breski flotinn sekkur þýska orrustuskipinu Bismarck í Norður-Atlantshafi."
     },
     {
-      "ar": "2002",
-      "texti": "Jarðskjálfti upp á 7,6 á Richter skók norðurhluta Afganistan og kostaði yfir 1.000 manns lífið."
+      "ar": "1999",
+      "texti": "Alþjóðlegi stríðsglæpadómstóllinn ákærir Slobodan Milošević fyrir stríðsglæpi og glæpi gegn mannkyni."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Þjóðaratkvæðagreiðsla um sambandsslit við Danmörku og stofnun lýðveldis hófst á Íslandi."
+      "texti": "Alþingiskosningar fóru fram á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "John Wayne",
+      "nafn": "Vincent Price",
       "starfsgrein": "leikari",
-      "ar": "1907"
+      "ar": "1911"
     },
     {
-      "nafn": "Miles Davis",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1926"
+      "nafn": "Christopher Lee",
+      "starfsgrein": "leikari",
+      "ar": "1922"
     },
     {
-      "nafn": "Lenny Kravitz",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1964"
+      "nafn": "Henry Kissinger",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1923"
     }
   ],
-  "tonlistUSA": "Love Child – Diana Ross & The Supremes (1968)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
   "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
   "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða listgrein."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er staður þar sem menn hafa orðið fyrir óhöppum eða ógæfu."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Búkolla“, var frumsýnd árið 1950.",
-  "verdlag": "Árið 1970 kostaði lítri af bensíni um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að læra eitthvað nýtt eða hefja spennandi verkefni. Vertu opinn fyrir óvæntum tækifærum."
+  "vissir_thu": "Vissir þú að Golden Gate brúin var einu sinni lengsta hengibrú heims?",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem gætu birst."
 }
