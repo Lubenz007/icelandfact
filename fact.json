@@ -1,62 +1,62 @@
 {
-  "date": "2026-05-27",
-  "dagur": 27,
+  "date": "2026-05-28",
+  "dagur": 28,
   "manudur": "maí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 147,
-  "sunrise": "03:35",
-  "sunset": "23:13",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 148,
+  "sunrise": "03:32",
+  "sunset": "23:16",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Beda",
+  "nafnadagur": "Emil",
   "atburdir": [
     {
-      "ar": "1703",
-      "texti": "Pétur mikli stofnar borgina Sankti Pétursborg í Rússlandi."
+      "ar": "1830",
+      "texti": "Andrew Jackson Bandaríkjaforseti undirritaði lög um brottvísun indíána."
     },
     {
       "ar": "1937",
-      "texti": "Golden Gate brúin í San Francisco er opnuð fyrir umferð."
+      "texti": "Volkswagen var stofnað í Þýskalandi."
     },
     {
-      "ar": "1941",
-      "texti": "Breski flotinn sekkur þýska orrustuskipinu Bismarck í Norður-Atlantshafi."
+      "ar": "1959",
+      "texti": "Tvær apakonur, Able og Baker, urðu fyrstu dýrin til að snúa aftur lifandi úr geimferð."
     },
     {
-      "ar": "1999",
-      "texti": "Alþjóðlegi stríðsglæpadómstóllinn ákærir Slobodan Milošević fyrir stríðsglæpi og glæpi gegn mannkyni."
+      "ar": "1987",
+      "texti": "Vestur-þýski flugmaðurinn Mathias Rust lenti smáflugvél sinni á Rauða torginu í Moskvu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Alþingiskosningar fóru fram á Íslandi."
+      "ar": "1952",
+      "texti": "Fyrsta sjónvarpsútsendingin á Íslandi fór fram í tilraunaskyni."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Vincent Price",
-      "starfsgrein": "leikari",
-      "ar": "1911"
+      "nafn": "Ian Fleming",
+      "starfsgrein": "rithöfundur",
+      "ar": "1908"
     },
     {
-      "nafn": "Christopher Lee",
-      "starfsgrein": "leikari",
-      "ar": "1922"
+      "nafn": "Kylie Minogue",
+      "starfsgrein": "söngkona",
+      "ar": "1968"
     },
     {
-      "nafn": "Henry Kissinger",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1923"
+      "nafn": "Gladys Knight",
+      "starfsgrein": "söngkona",
+      "ar": "1944"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
+  "tonlistUSA": "Love Child – Diana Ross & The Supremes (1968)",
   "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "Star Wars: Episode IV – A New Hope (1977)",
+  "bio": "Star Wars (1977)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem menn hafa orðið fyrir óhöppum eða ógæfu."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
   },
-  "vissir_thu": "Vissir þú að Golden Gate brúin var einu sinni lengsta hengibrú heims?",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem gætu birst."
+  "vissir_thu": "Árið 1888 var fyrsta Coca-Cola flaskan seld í Vicksburg, Mississippi.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að láta hugmyndir fljúga og deila þeim með öðrum. Vertu opinn fyrir nýjum tækifærum sem kunna að banka á dyrnar."
 }
