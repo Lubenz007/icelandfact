@@ -1,62 +1,62 @@
 {
-  "date": "2026-05-28",
-  "dagur": 28,
+  "date": "2026-05-29",
+  "dagur": 29,
   "manudur": "maí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 148,
-  "sunrise": "03:32",
-  "sunset": "23:16",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 149,
+  "sunrise": "03:29",
+  "sunset": "23:19",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Emil",
+  "nafnadagur": "Alda",
   "atburdir": [
     {
-      "ar": "1830",
-      "texti": "Andrew Jackson Bandaríkjaforseti undirritaði lög um brottvísun indíána."
+      "ar": "1453",
+      "texti": "Konstantínópel féll í hendur Ottómana, sem markaði endalok Býsansveldisins."
     },
     {
-      "ar": "1937",
-      "texti": "Volkswagen var stofnað í Þýskalandi."
+      "ar": "1919",
+      "texti": "Arthur Eddington staðfesti afstæðiskenningu Einsteins með athugunum á sólmyrkva."
     },
     {
-      "ar": "1959",
-      "texti": "Tvær apakonur, Able og Baker, urðu fyrstu dýrin til að snúa aftur lifandi úr geimferð."
+      "ar": "1953",
+      "texti": "Edmund Hillary og Tenzing Norgay urðu fyrstir til að ná tindi Everestfjalls."
     },
     {
-      "ar": "1987",
-      "texti": "Vestur-þýski flugmaðurinn Mathias Rust lenti smáflugvél sinni á Rauða torginu í Moskvu."
+      "ar": "1985",
+      "texti": "Heysel-harmleikurinn átti sér stað á Heysel-leikvanginum í Brussel, þar sem 39 manns létust."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1952",
-      "texti": "Fyrsta sjónvarpsútsendingin á Íslandi fór fram í tilraunaskyni."
+      "ar": "1944",
+      "texti": "Þjóðaratkvæðagreiðsla um sambandsslit við Danmörku og stofnun lýðveldis fór fram á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ian Fleming",
-      "starfsgrein": "rithöfundur",
-      "ar": "1908"
+      "nafn": "John F. Kennedy",
+      "starfsgrein": "forseti Bandaríkjanna",
+      "ar": "1917"
     },
     {
-      "nafn": "Kylie Minogue",
-      "starfsgrein": "söngkona",
-      "ar": "1968"
+      "nafn": "Bob Hope",
+      "starfsgrein": "grínisti og leikari",
+      "ar": "1903"
     },
     {
-      "nafn": "Gladys Knight",
-      "starfsgrein": "söngkona",
-      "ar": "1944"
+      "nafn": "Danny Elfman",
+      "starfsgrein": "tónskáld",
+      "ar": "1953"
     }
   ],
-  "tonlistUSA": "Love Child – Diana Ross & The Supremes (1968)",
-  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "Star Wars (1977)",
+  "tonlistUSA": "Love Rollercoaster – Ohio Players (1976)",
+  "tonlistUK": "Get Up (I Feel Like Being a Sex Machine) – James Brown (1970)",
+  "bio": "Up (2009)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1888 var fyrsta Coca-Cola flaskan seld í Vicksburg, Mississippi.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að láta hugmyndir fljúga og deila þeim með öðrum. Vertu opinn fyrir nýjum tækifærum sem kunna að banka á dyrnar."
+  "vissir_thu": "Fyrsta kvenkyns forsætisráðherra heims, Sirimavo Bandaranaike, var frá Srí Lanka og tók við embætti árið 1960.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 5 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gætu óvæntar uppákomur glatt þig. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
