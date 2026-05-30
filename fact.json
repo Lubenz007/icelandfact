@@ -1,62 +1,66 @@
 {
-  "date": "2026-05-29",
-  "dagur": 29,
+  "date": "2026-05-30",
+  "dagur": 30,
   "manudur": "maí",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 149,
-  "sunrise": "03:29",
-  "sunset": "23:19",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 150,
+  "sunrise": "03:27",
+  "sunset": "23:22",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Alda",
+  "nafnadagur": "Pétur",
   "atburdir": [
     {
-      "ar": "1453",
-      "texti": "Konstantínópel féll í hendur Ottómana, sem markaði endalok Býsansveldisins."
+      "ar": "1431",
+      "texti": "Jeanne d'Arc var brennd á báli fyrir villutrú í Rouen í Frakklandi."
     },
     {
-      "ar": "1919",
-      "texti": "Arthur Eddington staðfesti afstæðiskenningu Einsteins með athugunum á sólmyrkva."
+      "ar": "1913",
+      "texti": "Fyrri Balkanskagastríðinu lauk með Lundúnasamningnum."
     },
     {
-      "ar": "1953",
-      "texti": "Edmund Hillary og Tenzing Norgay urðu fyrstir til að ná tindi Everestfjalls."
+      "ar": "1922",
+      "texti": "Lincoln Memorial var vígt í Washington D.C."
     },
     {
-      "ar": "1985",
-      "texti": "Heysel-harmleikurinn átti sér stað á Heysel-leikvanginum í Brussel, þar sem 39 manns létust."
+      "ar": "1971",
+      "texti": "Mariner 9 var skotið á loft af NASA, fyrsta geimfarið til að fara á braut um aðra plánetu (Mars)."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Þjóðaratkvæðagreiðsla um sambandsslit við Danmörku og stofnun lýðveldis fór fram á Íslandi."
+      "texti": "Alþingiskosningar fóru fram á Íslandi."
+    },
+    {
+      "ar": "1970",
+      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "John F. Kennedy",
-      "starfsgrein": "forseti Bandaríkjanna",
-      "ar": "1917"
+      "nafn": "Benny Goodman",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1909"
     },
     {
-      "nafn": "Bob Hope",
-      "starfsgrein": "grínisti og leikari",
-      "ar": "1903"
+      "nafn": "Clint Eastwood",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1930"
     },
     {
-      "nafn": "Danny Elfman",
-      "starfsgrein": "tónskáld",
-      "ar": "1953"
+      "nafn": "Tom Morello",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1964"
     }
   ],
-  "tonlistUSA": "Love Rollercoaster – Ohio Players (1976)",
-  "tonlistUK": "Get Up (I Feel Like Being a Sex Machine) – James Brown (1970)",
-  "bio": "Up (2009)",
+  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
+  "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list."
   },
-  "vissir_thu": "Fyrsta kvenkyns forsætisráðherra heims, Sirimavo Bandaranaike, var frá Srí Lanka og tók við embætti árið 1960.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 5 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gætu óvæntar uppákomur glatt þig. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Árið 1883 var fyrsta Coca-Cola drykkurinn seldur í Atlanta, Georgíu.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka ákvarðanir sem varða framtíðina. Vertu opinn fyrir nýjum hugmyndum og tækifærum sem kunna að koma upp."
 }
