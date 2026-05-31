@@ -1,66 +1,62 @@
 {
-  "date": "2026-05-30",
-  "dagur": 30,
+  "date": "2026-05-31",
+  "dagur": 31,
   "manudur": "maí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 150,
-  "sunrise": "03:27",
-  "sunset": "23:22",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 151,
+  "sunrise": "03:24",
+  "sunset": "23:25",
   "stjornumerki": "Tvíburar",
   "nafnadagur": "Pétur",
   "atburdir": [
     {
-      "ar": "1431",
-      "texti": "Jeanne d'Arc var brennd á báli fyrir villutrú í Rouen í Frakklandi."
+      "ar": "1910",
+      "texti": "Stofnun Suður-Afríkusambandsins."
     },
     {
-      "ar": "1913",
-      "texti": "Fyrri Balkanskagastríðinu lauk með Lundúnasamningnum."
+      "ar": "1961",
+      "texti": "Suður-Afríka verður lýðveldi og yfirgefur Breska samveldið."
     },
     {
-      "ar": "1922",
-      "texti": "Lincoln Memorial var vígt í Washington D.C."
+      "ar": "1970",
+      "texti": "Jarðskjálfti í Ancash í Perú veldur mikilli eyðileggingu og manntjóni."
     },
     {
-      "ar": "1971",
-      "texti": "Mariner 9 var skotið á loft af NASA, fyrsta geimfarið til að fara á braut um aðra plánetu (Mars)."
+      "ar": "2002",
+      "texti": "Heimsmeistaramótið í knattspyrnu hefst í Suður-Kóreu og Japan."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
       "texti": "Alþingiskosningar fóru fram á Íslandi."
-    },
-    {
-      "ar": "1970",
-      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Benny Goodman",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1909"
-    },
-    {
       "nafn": "Clint Eastwood",
-      "starfsgrein": "leikari og leikstjóri",
+      "starfsgrein": "leikari / leikstjóri",
       "ar": "1930"
     },
     {
-      "nafn": "Tom Morello",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1964"
+      "nafn": "Brooke Shields",
+      "starfsgrein": "leikkona",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Colin Farrell",
+      "starfsgrein": "leikari",
+      "ar": "1976"
     }
   ],
-  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
-  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
-  "bio": "Star Wars: Episode IV – A New Hope (1977)",
+  "tonlistUSA": "Ekki staðfest",
+  "tonlistUK": "Ekki staðfest",
+  "bio": "Ekki staðfest",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
   },
-  "vissir_thu": "Árið 1883 var fyrsta Coca-Cola drykkurinn seldur í Atlanta, Georgíu.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka ákvarðanir sem varða framtíðina. Vertu opinn fyrir nýjum hugmyndum og tækifærum sem kunna að koma upp."
+  "vissir_thu": "Íslenska hestakynið er eitt það hreinræktaðasta í heimi og hefur verið einangrað í yfir 1000 ár.",
+  "verdlag": "Árið 1980 kostaði einn líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri birst á sjóndeildarhringnum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
