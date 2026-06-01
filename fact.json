@@ -1,62 +1,58 @@
 {
-  "date": "2026-05-31",
-  "dagur": 31,
-  "manudur": "maí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 151,
-  "sunrise": "03:24",
-  "sunset": "23:25",
+  "date": "2026-06-01",
+  "dagur": 1,
+  "manudur": "júní",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 152,
+  "sunrise": "03:22",
+  "sunset": "23:28",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Pétur",
+  "nafnadagur": "Hólmfríður",
   "atburdir": [
     {
-      "ar": "1910",
-      "texti": "Stofnun Suður-Afríkusambandsins."
+      "ar": "1935",
+      "texti": "Fyrstu ökuprófin voru tekin í Bretlandi."
     },
     {
-      "ar": "1961",
-      "texti": "Suður-Afríka verður lýðveldi og yfirgefur Breska samveldið."
+      "ar": "1967",
+      "texti": "Bítlarnir gáfu út plötuna Sgt. Pepper's Lonely Hearts Club Band."
     },
     {
-      "ar": "1970",
-      "texti": "Jarðskjálfti í Ancash í Perú veldur mikilli eyðileggingu og manntjóni."
-    },
-    {
-      "ar": "2002",
-      "texti": "Heimsmeistaramótið í knattspyrnu hefst í Suður-Kóreu og Japan."
+      "ar": "1980",
+      "texti": "CNN fréttastöðin hóf útsendingar í Bandaríkjunum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Alþingiskosningar fóru fram á Íslandi."
+      "ar": "1924",
+      "texti": "Fyrsta íslenska kvikmyndin, Húsbóndinn, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Clint Eastwood",
-      "starfsgrein": "leikari / leikstjóri",
-      "ar": "1930"
-    },
-    {
-      "nafn": "Brooke Shields",
+      "nafn": "Marilyn Monroe",
       "starfsgrein": "leikkona",
-      "ar": "1965"
+      "ar": "1926"
     },
     {
-      "nafn": "Colin Farrell",
+      "nafn": "Morgan Freeman",
       "starfsgrein": "leikari",
-      "ar": "1976"
+      "ar": "1937"
+    },
+    {
+      "nafn": "Heidi Klum",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1973"
     }
   ],
-  "tonlistUSA": "Ekki staðfest",
-  "tonlistUK": "Ekki staðfest",
-  "bio": "Ekki staðfest",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "A Whiter Shade of Pale – Procol Harum (1967)",
+  "bio": "The Sound of Music (1965)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta til að gera eitthvað vel, sérstaklega handverk eða list."
   },
-  "vissir_thu": "Íslenska hestakynið er eitt það hreinræktaðasta í heimi og hefur verið einangrað í yfir 1000 ár.",
-  "verdlag": "Árið 1980 kostaði einn líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri birst á sjóndeildarhringnum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Árið 1971 var fyrsta tölvumúsin fundin upp af Douglas Engelbart.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að láta hugmyndaflugið ráða ríkjum og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem kunna að koma upp."
 }
