@@ -1,58 +1,62 @@
 {
-  "date": "2026-06-02",
-  "dagur": 2,
+  "date": "2026-06-04",
+  "dagur": 4,
   "manudur": "júní",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 153,
-  "sunrise": "03:19",
-  "sunset": "23:31",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 155,
+  "sunrise": "03:14",
+  "sunset": "23:36",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Íris",
+  "nafnadagur": "Hulda",
   "atburdir": [
     {
-      "ar": "1953",
-      "texti": "Elísabet II var krýnd drottning Bretlands í Westminster Abbey."
+      "ar": "1989",
+      "texti": "Kínverski herinn bældi niður mótmæli á Torgi hins himneska friðar í Beijing."
     },
     {
-      "ar": "1946",
-      "texti": "Ítalía varð lýðveldi eftir þjóðaratkvæðagreiðslu þar sem kjósendur völdu að afnema konungsveldið."
+      "ar": "1944",
+      "texti": "Bandamenn frelsuðu Róm frá hernámi Þjóðverja í seinni heimsstyrjöldinni."
     },
     {
-      "ar": "1882",
-      "texti": "Thomas Edison kveikti á fyrsta varanlega rafmagnsneti heims í Pearl Street í New York borg."
+      "ar": "1917",
+      "texti": "Fyrstu Pulitzer-verðlaunin voru veitt."
+    },
+    {
+      "ar": "1989",
+      "texti": "Lech Wałęsa leiddi Samstöðu til sigurs í fyrstu frjálsu kosningunum í Póllandi eftir seinni heimsstyrjöldina."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Þjóðaratkvæðagreiðsla fór fram á Íslandi um stofnun lýðveldis og nýja stjórnarskrá."
+      "texti": "Ísland varð lýðveldi þann 17. júní, en þann 4. júní var samþykkt á Alþingi að slíta sambandinu við Danmörku."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Wentworth Miller",
+      "nafn": "Angelina Jolie",
+      "starfsgrein": "leikkona",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Russell Brand",
+      "starfsgrein": "grínisti / leikari",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Noah Wyle",
       "starfsgrein": "leikari",
-      "ar": "1972"
-    },
-    {
-      "nafn": "Serge Gainsbourg",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1928"
-    },
-    {
-      "nafn": "Martha Washington",
-      "starfsgrein": "fyrsta forsetafrú Bandaríkjanna",
-      "ar": "1731"
+      "ar": "1971"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1964)",
-  "bio": "The Seven Year Itch (1955)",
+  "tonlistUSA": "I Wanna Be Where You Are – Michael Jackson (1972)",
+  "tonlistUK": "I Feel Love – Donna Summer (1977)",
+  "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oft með áherslu á nákvæmni og smekkvísi."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Borgin okkar“, var frumsýnd árið 1962.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka ákvarðanir sem þú hefur frestað. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd var Sögur úr Borginni frá árinu 1949.",
+  "verdlag": "Árið 1970 kostaði ein lítra af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem gætu birst."
 }
