@@ -1,62 +1,70 @@
 {
-  "date": "2026-06-04",
-  "dagur": 4,
+  "date": "2026-06-05",
+  "dagur": 5,
   "manudur": "júní",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 155,
-  "sunrise": "03:14",
-  "sunset": "23:36",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 156,
+  "sunrise": "03:12",
+  "sunset": "23:39",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Hulda",
+  "nafnadagur": "Íris",
   "atburdir": [
     {
-      "ar": "1989",
-      "texti": "Kínverski herinn bældi niður mótmæli á Torgi hins himneska friðar í Beijing."
+      "ar": "1967",
+      "texti": "Sex daga stríðið hófst milli Ísraels og bandalags arabískra ríkja."
     },
     {
-      "ar": "1944",
-      "texti": "Bandamenn frelsuðu Róm frá hernámi Þjóðverja í seinni heimsstyrjöldinni."
+      "ar": "1968",
+      "texti": "Robert F. Kennedy var skotinn í Los Angeles eftir að hafa unnið forvalið í Kaliforníu."
     },
     {
-      "ar": "1917",
-      "texti": "Fyrstu Pulitzer-verðlaunin voru veitt."
+      "ar": "1981",
+      "texti": "Fyrstu tilfellin af alnæmi voru formlega tilkynnt af Centers for Disease Control and Prevention (CDC) í Bandaríkjunum."
     },
     {
-      "ar": "1989",
-      "texti": "Lech Wałęsa leiddi Samstöðu til sigurs í fyrstu frjálsu kosningunum í Póllandi eftir seinni heimsstyrjöldina."
+      "ar": "1975",
+      "texti": "Suez-skurðurinn var opnaður aftur fyrir siglingar eftir að hafa verið lokaður í átta ár."
+    },
+    {
+      "ar": "2006",
+      "texti": "Serbía lýsti yfir sjálfstæði frá Serbíu og Svartfjallalandi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Ísland varð lýðveldi þann 17. júní, en þann 4. júní var samþykkt á Alþingi að slíta sambandinu við Danmörku."
+      "texti": "Ísland varð lýðveldi á Þingvöllum."
+    },
+    {
+      "ar": "1911",
+      "texti": "Háskóli Íslands var stofnaður."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Angelina Jolie",
-      "starfsgrein": "leikkona",
-      "ar": "1975"
-    },
-    {
-      "nafn": "Russell Brand",
-      "starfsgrein": "grínisti / leikari",
-      "ar": "1975"
-    },
-    {
-      "nafn": "Noah Wyle",
+      "nafn": "Mark Wahlberg",
       "starfsgrein": "leikari",
       "ar": "1971"
+    },
+    {
+      "nafn": "Kenny G",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Brian McKnight",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1969"
     }
   ],
-  "tonlistUSA": "I Wanna Be Where You Are – Michael Jackson (1972)",
-  "tonlistUK": "I Feel Love – Donna Summer (1977)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Love Me Do – The Beatles (1962)",
   "bio": "Star Wars: Episode IV – A New Hope (1977)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd var Sögur úr Borginni frá árinu 1949.",
-  "verdlag": "Árið 1970 kostaði ein lítra af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem gætu birst."
+  "vissir_thu": "Árið 1944 var Ísland eina landið í heiminum sem lýsti yfir sjálfstæði á meðan seinni heimsstyrjöldin stóð yfir.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 15 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á hjá þér. Vertu opinn fyrir nýjum hugmyndum og láttu forvitni þína leiða þig áfram."
 }
