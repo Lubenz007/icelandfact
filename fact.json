@@ -1,70 +1,53 @@
 {
-  "date": "2026-06-05",
-  "dagur": 5,
+  "date": "2026-06-06",
+  "dagur": 6,
   "manudur": "júní",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 156,
-  "sunrise": "03:12",
-  "sunset": "23:39",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 157,
+  "sunrise": "03:10",
+  "sunset": "23:42",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Íris",
+  "nafnadagur": "Árni",
   "atburdir": [
     {
-      "ar": "1967",
-      "texti": "Sex daga stríðið hófst milli Ísraels og bandalags arabískra ríkja."
+      "ar": "1944",
+      "texti": "D-dagurinn: Bandamenn hefja innrás í Normandí í Frakklandi, stærsta sjóhernaðaraðgerð sögunnar."
     },
     {
-      "ar": "1968",
-      "texti": "Robert F. Kennedy var skotinn í Los Angeles eftir að hafa unnið forvalið í Kaliforníu."
+      "ar": "1984",
+      "texti": "Tetris tölvuleikurinn er gefinn út í Sovétríkjunum."
     },
     {
-      "ar": "1981",
-      "texti": "Fyrstu tilfellin af alnæmi voru formlega tilkynnt af Centers for Disease Control and Prevention (CDC) í Bandaríkjunum."
-    },
-    {
-      "ar": "1975",
-      "texti": "Suez-skurðurinn var opnaður aftur fyrir siglingar eftir að hafa verið lokaður í átta ár."
-    },
-    {
-      "ar": "2006",
-      "texti": "Serbía lýsti yfir sjálfstæði frá Serbíu og Svartfjallalandi."
+      "ar": "2002",
+      "texti": "Jarðskjálfti upp á 6,5 á Richter skekur vesturhluta Afganistan og drepur yfir 1000 manns."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
       "texti": "Ísland varð lýðveldi á Þingvöllum."
-    },
-    {
-      "ar": "1911",
-      "texti": "Háskóli Íslands var stofnaður."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Mark Wahlberg",
-      "starfsgrein": "leikari",
-      "ar": "1971"
-    },
-    {
-      "nafn": "Kenny G",
-      "starfsgrein": "tónlistarmaður",
+      "nafn": "Björn Borg",
+      "starfsgrein": "tennisleikari",
       "ar": "1956"
     },
     {
-      "nafn": "Brian McKnight",
+      "nafn": "Tom Walker",
       "starfsgrein": "tónlistarmaður",
-      "ar": "1969"
+      "ar": "1991"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Love Me Do – The Beatles (1962)",
-  "bio": "Star Wars: Episode IV – A New Hope (1977)",
+  "tonlistUSA": "I Wanna Be Free – The Monkees (1966)",
+  "tonlistUK": "I Wanna Be Free – The Monkees (1966)",
+  "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "þinglýsa",
+    "skyring": "Að skrá opinberlega skjöl eða samninga í opinbera bók til að veita þeim réttarvernd."
   },
-  "vissir_thu": "Árið 1944 var Ísland eina landið í heiminum sem lýsti yfir sjálfstæði á meðan seinni heimsstyrjöldin stóð yfir.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 15 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á hjá þér. Vertu opinn fyrir nýjum hugmyndum og láttu forvitni þína leiða þig áfram."
+  "vissir_thu": "Fyrsta lýðveldið sem stofnað var á Íslandi var árið 930 með stofnun Alþingis.",
+  "verdlag": "Árið 1980 kostaði 1 lítri af mjólk um 20 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
