@@ -1,53 +1,62 @@
 {
-  "date": "2026-06-06",
-  "dagur": 6,
+  "date": "2026-06-07",
+  "dagur": 7,
   "manudur": "júní",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 157,
-  "sunrise": "03:10",
-  "sunset": "23:42",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 158,
+  "sunrise": "03:08",
+  "sunset": "23:44",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Árni",
+  "nafnadagur": "Salómon",
   "atburdir": [
     {
-      "ar": "1944",
-      "texti": "D-dagurinn: Bandamenn hefja innrás í Normandí í Frakklandi, stærsta sjóhernaðaraðgerð sögunnar."
+      "ar": "1494",
+      "texti": "Spánn og Portúgal undirrituðu Tordesillas-sáttmálann og skiptu nýjum löndum heimsins á milli sín."
     },
     {
-      "ar": "1984",
-      "texti": "Tetris tölvuleikurinn er gefinn út í Sovétríkjunum."
+      "ar": "1942",
+      "texti": "Orrustunni um Midway lauk með afgerandi sigri Bandaríkjamanna á Japönum í seinni heimsstyrjöldinni."
     },
     {
-      "ar": "2002",
-      "texti": "Jarðskjálfti upp á 6,5 á Richter skekur vesturhluta Afganistan og drepur yfir 1000 manns."
+      "ar": "1981",
+      "texti": "Ísraelski flugherinn eyðilagði kjarnorkuver í Írak í Operation Opera."
+    },
+    {
+      "ar": "1999",
+      "texti": "Kosovóstríðinu lauk formlega þegar Serbía samþykkti að draga herlið sitt frá Kósovó."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Ísland varð lýðveldi á Þingvöllum."
+      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýstu yfir stofnun lýðveldis á Þingvöllum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Björn Borg",
-      "starfsgrein": "tennisleikari",
-      "ar": "1956"
+      "nafn": "Prince",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1958"
     },
     {
-      "nafn": "Tom Walker",
+      "nafn": "Liam Neeson",
+      "starfsgrein": "leikari",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Tom Jones",
       "starfsgrein": "tónlistarmaður",
-      "ar": "1991"
+      "ar": "1940"
     }
   ],
-  "tonlistUSA": "I Wanna Be Free – The Monkees (1966)",
-  "tonlistUK": "I Wanna Be Free – The Monkees (1966)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
   "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "þinglýsa",
-    "skyring": "Að skrá opinberlega skjöl eða samninga í opinbera bók til að veita þeim réttarvernd."
+    "ord": "glópagull",
+    "skyring": "Eitthvað sem virðist verðmætt en reynist vera einskis virði."
   },
-  "vissir_thu": "Fyrsta lýðveldið sem stofnað var á Íslandi var árið 930 með stofnun Alþingis.",
-  "verdlag": "Árið 1980 kostaði 1 lítri af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Íslenski hesturinn er eina hestakyn í heiminum sem getur tölt og skeiðað, auk venjulegra gangtegunda.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítri um 15 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gætirðu fundið óvæntan innblástur í daglegu amstri. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
