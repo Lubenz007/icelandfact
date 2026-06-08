@@ -1,62 +1,70 @@
 {
-  "date": "2026-06-07",
-  "dagur": 7,
+  "date": "2026-06-08",
+  "dagur": 8,
   "manudur": "júní",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 158,
-  "sunrise": "03:08",
-  "sunset": "23:44",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 159,
+  "sunrise": "03:06",
+  "sunset": "23:46",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Salómon",
+  "nafnadagur": "Salóme",
   "atburdir": [
     {
-      "ar": "1494",
-      "texti": "Spánn og Portúgal undirrituðu Tordesillas-sáttmálann og skiptu nýjum löndum heimsins á milli sín."
+      "ar": "1949",
+      "texti": "Skáldsagan Nítján fjórir og áttatíu og fjórir eftir George Orwell kom út."
     },
     {
-      "ar": "1942",
-      "texti": "Orrustunni um Midway lauk með afgerandi sigri Bandaríkjamanna á Japönum í seinni heimsstyrjöldinni."
+      "ar": "1967",
+      "texti": "Sex daga stríðinu lauk með vopnahléi milli Ísraels og Sýrlands."
     },
     {
-      "ar": "1981",
-      "texti": "Ísraelski flugherinn eyðilagði kjarnorkuver í Írak í Operation Opera."
+      "ar": "1995",
+      "texti": "Rasmus Lerdorf gaf út fyrstu útgáfu af forritunarmálinu PHP."
     },
     {
-      "ar": "1999",
-      "texti": "Kosovóstríðinu lauk formlega þegar Serbía samþykkti að draga herlið sitt frá Kósovó."
+      "ar": "2004",
+      "texti": "Fyrsta yfirferð Venusar á 243 árum átti sér stað."
+    },
+    {
+      "ar": "2009",
+      "texti": "Fjórir breskir hermenn voru drepnir í Afganistan, sem gerði júní að mannskæðasta mánuði Breta í stríðinu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýstu yfir stofnun lýðveldis á Þingvöllum."
+      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýðveldi var stofnað."
+    },
+    {
+      "ar": "1974",
+      "texti": "Heimsmeistaramótið í handbolta fór fram á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Prince",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1958"
+      "nafn": "Frank Lloyd Wright",
+      "starfsgrein": "arkitekt",
+      "ar": "1867"
     },
     {
-      "nafn": "Liam Neeson",
-      "starfsgrein": "leikari",
-      "ar": "1952"
-    },
-    {
-      "nafn": "Tom Jones",
-      "starfsgrein": "tónlistarmaður",
+      "nafn": "Nancy Sinatra",
+      "starfsgrein": "söngkona",
       "ar": "1940"
+    },
+    {
+      "nafn": "Kanye West",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1977"
     }
   ],
-  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
-  "bio": "Grease (1978)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1964)",
+  "bio": "Ghostbusters (1984)",
   "ord_dagsins": {
-    "ord": "glópagull",
-    "skyring": "Eitthvað sem virðist verðmætt en reynist vera einskis virði."
+    "ord": "hjallur",
+    "skyring": "Hjallur er lítil bygging eða skúr, oft notuð til að geyma mat eða verkfæri."
   },
-  "vissir_thu": "Íslenski hesturinn er eina hestakyn í heiminum sem getur tölt og skeiðað, auk venjulegra gangtegunda.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítri um 15 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gætirðu fundið óvæntan innblástur í daglegu amstri. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Árið 1944, þegar Ísland varð lýðveldi, var það gert á Þingvöllum, sama stað og Alþingi var stofnað árið 930.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gætir þú fundið fyrir auknum sköpunarkrafti og löngun til að tjá þig. Vertu opinn fyrir nýjum hugmyndum og tækifærum sem kunna að koma upp."
 }
