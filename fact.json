@@ -1,66 +1,58 @@
 {
-  "date": "2026-06-09",
-  "dagur": 9,
+  "date": "2026-06-10",
+  "dagur": 10,
   "manudur": "júní",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 160,
-  "sunrise": "03:04",
-  "sunset": "23:48",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 161,
+  "sunrise": "03:03",
+  "sunset": "23:50",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Fjóla",
+  "nafnadagur": "Bára",
   "atburdir": [
     {
-      "ar": "1815",
-      "texti": "Vínarfundinum lýkur, þar sem landamæri Evrópu voru endurskipulögð eftir Napóleonstríðin."
-    },
-    {
-      "ar": "1934",
-      "texti": "Fyrsta teiknimyndin með Andrési Önd, The Wise Little Hen, er frumsýnd."
-    },
-    {
-      "ar": "1959",
-      "texti": "Fyrsti kafbáturinn sem gengur fyrir kjarnorku og ber ballískar eldflaugar, USS George Washington, er sjósettur."
+      "ar": "1940",
+      "texti": "Ítalía lýsir yfir stríði á hendur Frakklandi og Bretlandi í seinni heimsstyrjöldinni."
     },
     {
       "ar": "1967",
       "texti": "Sex daga stríðinu lýkur með vopnahléi milli Ísraels og Sýrlands."
     },
     {
-      "ar": "1999",
-      "texti": "Kosovóstríðinu lýkur formlega með undirritun Kumanovo tæknisamningsins."
+      "ar": "2003",
+      "texti": "Geimkönnunarfarið Spirit er skotið á loft af NASA í átt að Mars."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Íslenska lýðveldið var stofnað á Þingvöllum."
+      "texti": "Ísland verður lýðveldi á Þingvöllum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Johnny Depp",
-      "starfsgrein": "leikari",
-      "ar": "1963"
+      "nafn": "Judy Garland",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1922"
     },
     {
-      "nafn": "Natalie Portman",
-      "starfsgrein": "leikkona",
-      "ar": "1981"
+      "nafn": "Elizabeth Hurley",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1965"
     },
     {
-      "nafn": "Michael J. Fox",
-      "starfsgrein": "leikari",
-      "ar": "1961"
+      "nafn": "Kate Upton",
+      "starfsgrein": "fyrirsæta og leikkona",
+      "ar": "1992"
     }
   ],
   "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Feel Fine – The Beatles (1964)",
-  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "bio": "The French Connection (1971)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem menn hafa orðið fyrir óhöppum eða ógæfu."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Vissir þú að Ísland er eina landið í heiminum sem hefur ekki her?",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem gætu birst þér."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, Milljónamæringurinn, var frumsýnd árið 1913.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka ákvarðanir sem þú hefur frestað. Vertu opinn fyrir nýjum hugmyndum og láttu forvitni þína leiða þig áfram."
 }
