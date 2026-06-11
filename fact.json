@@ -1,58 +1,66 @@
 {
-  "date": "2026-06-10",
-  "dagur": 10,
+  "date": "2026-06-11",
+  "dagur": 11,
   "manudur": "júní",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 161,
-  "sunrise": "03:03",
-  "sunset": "23:50",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 162,
+  "sunrise": "03:01",
+  "sunset": "23:52",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Bára",
+  "nafnadagur": "Barnabas",
   "atburdir": [
     {
-      "ar": "1940",
-      "texti": "Ítalía lýsir yfir stríði á hendur Frakklandi og Bretlandi í seinni heimsstyrjöldinni."
+      "ar": "1770",
+      "texti": "James Cook skipstjóri strandaði á Great Barrier Reef í Ástralíu."
     },
     {
-      "ar": "1967",
-      "texti": "Sex daga stríðinu lýkur með vopnahléi milli Ísraels og Sýrlands."
+      "ar": "1955",
+      "texti": "Yfir 80 manns létust í Le Mans bílakeppninni í Frakklandi þegar bíll flaug upp í áhorfendaskara."
     },
     {
-      "ar": "2003",
-      "texti": "Geimkönnunarfarið Spirit er skotið á loft af NASA í átt að Mars."
+      "ar": "1962",
+      "texti": "Frank Morris, John Anglin og Clarence Anglin flúðu úr Alcatraz fangelsinu. Þeir sáust aldrei aftur."
+    },
+    {
+      "ar": "2002",
+      "texti": "Antony Worrall Thompson, breskur sjónvarpskokkur, opnaði veitingastaðinn 'Worrall Thompson's' í London."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Ísland verður lýðveldi á Þingvöllum."
+      "texti": "Íslendingar samþykktu nýja stjórnarskrá í þjóðaratkvæðagreiðslu sem gerði Ísland að lýðveldi."
+    },
+    {
+      "ar": "1983",
+      "texti": "Alþingiskosningar fóru fram á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Judy Garland",
-      "starfsgrein": "leikkona og söngkona",
-      "ar": "1922"
+      "nafn": "Jacques Cousteau",
+      "starfsgrein": "sjókönnuður",
+      "ar": "1910"
     },
     {
-      "nafn": "Elizabeth Hurley",
-      "starfsgrein": "leikkona og fyrirsæta",
-      "ar": "1965"
+      "nafn": "Gene Wilder",
+      "starfsgrein": "leikari",
+      "ar": "1933"
     },
     {
-      "nafn": "Kate Upton",
-      "starfsgrein": "fyrirsæta og leikkona",
-      "ar": "1992"
+      "nafn": "Hugh Laurie",
+      "starfsgrein": "leikari",
+      "ar": "1959"
     }
   ],
   "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
-  "bio": "The French Connection (1971)",
+  "tonlistUK": "I Feel Fine – The Beatles (1964)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er staður þar sem eitthvað hefur farið úrskeiðis eða mistekist."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, Milljónamæringurinn, var frumsýnd árið 1913.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka ákvarðanir sem þú hefur frestað. Vertu opinn fyrir nýjum hugmyndum og láttu forvitni þína leiða þig áfram."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Borgin', var frumsýnd árið 1949.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 30 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað á dyrnar, vertu opinn fyrir nýjum hugmyndum. Mundu að jafnvægi er lykillinn að velgengni."
 }
