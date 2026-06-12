@@ -1,66 +1,62 @@
 {
-  "date": "2026-06-11",
-  "dagur": 11,
+  "date": "2026-06-12",
+  "dagur": 12,
   "manudur": "júní",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 162,
-  "sunrise": "03:01",
-  "sunset": "23:52",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 163,
+  "sunrise": "03:00",
+  "sunset": "23:54",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Barnabas",
+  "nafnadagur": "Gísli",
   "atburdir": [
     {
-      "ar": "1770",
-      "texti": "James Cook skipstjóri strandaði á Great Barrier Reef í Ástralíu."
+      "ar": "1964",
+      "texti": "Nelson Mandela var dæmdur í lífstíðarfangelsi í Suður-Afríku."
     },
     {
-      "ar": "1955",
-      "texti": "Yfir 80 manns létust í Le Mans bílakeppninni í Frakklandi þegar bíll flaug upp í áhorfendaskara."
+      "ar": "1991",
+      "texti": "Boris Jeltsín var kjörinn forseti Rússlands í fyrstu beinu forsetakosningunum í sögu Rússlands."
     },
     {
-      "ar": "1962",
-      "texti": "Frank Morris, John Anglin og Clarence Anglin flúðu úr Alcatraz fangelsinu. Þeir sáust aldrei aftur."
+      "ar": "1987",
+      "texti": "Ronald Reagan, þáverandi forseti Bandaríkjanna, hélt fræga ræðu við Berlínarmúrinn þar sem hann hvatti Míkhaíl Gorbatsjov til að rífa niður múrinn."
     },
     {
-      "ar": "2002",
-      "texti": "Antony Worrall Thompson, breskur sjónvarpskokkur, opnaði veitingastaðinn 'Worrall Thompson's' í London."
+      "ar": "1979",
+      "texti": "Fyrsta mannaða flugferðin með Gossamer Albatross yfir Ermarsundið fór fram."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Íslendingar samþykktu nýja stjórnarskrá í þjóðaratkvæðagreiðslu sem gerði Ísland að lýðveldi."
-    },
-    {
-      "ar": "1983",
-      "texti": "Alþingiskosningar fóru fram á Íslandi."
+      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýðveldi var stofnað á Þingvöllum þann 17. júní, fimm dögum síðar."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Jacques Cousteau",
-      "starfsgrein": "sjókönnuður",
-      "ar": "1910"
+      "nafn": "George H.W. Bush",
+      "starfsgrein": "forseti Bandaríkjanna",
+      "ar": "1924"
     },
     {
-      "nafn": "Gene Wilder",
-      "starfsgrein": "leikari",
-      "ar": "1933"
+      "nafn": "Anne Frank",
+      "starfsgrein": "dagbókarhöfundur",
+      "ar": "1929"
     },
     {
-      "nafn": "Hugh Laurie",
-      "starfsgrein": "leikari",
-      "ar": "1959"
+      "nafn": "Chick Corea",
+      "starfsgrein": "jazzpíanisti og tónskáld",
+      "ar": "1941"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Feel Fine – The Beatles (1964)",
-  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "tonlistUSA": "I Will Survive – Gloria Gaynor (1979)",
+  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
+  "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem eitthvað hefur farið úrskeiðis eða mistekist."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða erfiður í skapi."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Borgin', var frumsýnd árið 1949.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 30 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað á dyrnar, vertu opinn fyrir nýjum hugmyndum. Mundu að jafnvægi er lykillinn að velgengni."
+  "vissir_thu": "Vissir þú að árið 1944, þegar Ísland varð lýðveldi, var það enn undir konunglegri stjórn Danmerkur, en Danmörk var þá hernumin af Þjóðverjum?",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 60 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er kjörið tækifæri til að láta forvitnina ráða för. Nýjar hugmyndir flæða og samskipti eru í hávegum höfð."
 }
