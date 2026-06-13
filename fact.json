@@ -1,62 +1,70 @@
 {
-  "date": "2026-06-12",
-  "dagur": 12,
+  "date": "2026-06-13",
+  "dagur": 13,
   "manudur": "júní",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 163,
-  "sunrise": "03:00",
-  "sunset": "23:54",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 164,
+  "sunrise": "02:59",
+  "sunset": "23:55",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Gísli",
+  "nafnadagur": "Þórhildur",
   "atburdir": [
     {
-      "ar": "1964",
-      "texti": "Nelson Mandela var dæmdur í lífstíðarfangelsi í Suður-Afríku."
+      "ar": "1983",
+      "texti": "Geimkönnunarfarið Pioneer 10 fór út fyrir sporbaug Neptúnusar og varð fyrsta manngerða fyrirbærið til að yfirgefa helkerfið."
     },
     {
-      "ar": "1991",
-      "texti": "Boris Jeltsín var kjörinn forseti Rússlands í fyrstu beinu forsetakosningunum í sögu Rússlands."
+      "ar": "1944",
+      "texti": "V-1 flugskeyti Þjóðverja var skotið á London í fyrsta sinn í seinni heimsstyrjöldinni."
     },
     {
-      "ar": "1987",
-      "texti": "Ronald Reagan, þáverandi forseti Bandaríkjanna, hélt fræga ræðu við Berlínarmúrinn þar sem hann hvatti Míkhaíl Gorbatsjov til að rífa niður múrinn."
+      "ar": "1927",
+      "texti": "Orrustuflugmaðurinn Charles Lindbergh fékk heiðursverðlaun fyrir fyrsta flugið yfir Atlantshafið án áningar."
     },
     {
-      "ar": "1979",
-      "texti": "Fyrsta mannaða flugferðin með Gossamer Albatross yfir Ermarsundið fór fram."
+      "ar": "1898",
+      "texti": "Kanadíska Yukon-svæðið var stofnað."
+    },
+    {
+      "ar": "1777",
+      "texti": "Markúsarkirkjan í Feneyjum brann."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýðveldi var stofnað á Þingvöllum þann 17. júní, fimm dögum síðar."
+      "ar": "1987",
+      "texti": "Kvikmyndin Skytturnar eftir Friðrik Þór Friðriksson var frumsýnd."
+    },
+    {
+      "ar": "1971",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "George H.W. Bush",
-      "starfsgrein": "forseti Bandaríkjanna",
-      "ar": "1924"
+      "nafn": "Mary-Kate Olsen",
+      "starfsgrein": "leikkona, fatahönnuður",
+      "ar": "1986"
     },
     {
-      "nafn": "Anne Frank",
-      "starfsgrein": "dagbókarhöfundur",
-      "ar": "1929"
+      "nafn": "Ashley Olsen",
+      "starfsgrein": "leikkona, fatahönnuður",
+      "ar": "1986"
     },
     {
-      "nafn": "Chick Corea",
-      "starfsgrein": "jazzpíanisti og tónskáld",
-      "ar": "1941"
+      "nafn": "Chris Evans",
+      "starfsgrein": "leikari",
+      "ar": "1981"
     }
   ],
-  "tonlistUSA": "I Will Survive – Gloria Gaynor (1979)",
-  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
+  "tonlistUSA": "I Want To Know What Love Is – Foreigner (1984)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
   "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða erfiður í skapi."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
   },
-  "vissir_thu": "Vissir þú að árið 1944, þegar Ísland varð lýðveldi, var það enn undir konunglegri stjórn Danmerkur, en Danmörk var þá hernumin af Þjóðverjum?",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 60 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er kjörið tækifæri til að láta forvitnina ráða för. Nýjar hugmyndir flæða og samskipti eru í hávegum höfð."
+  "vissir_thu": "Árið 1947 var fyrsti farsíminn kynntur, en hann var svo stór að hann þurfti að vera í bíl.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 27 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu, sérstaklega í samskiptum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig."
 }
