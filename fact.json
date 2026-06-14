@@ -1,70 +1,62 @@
 {
-  "date": "2026-06-13",
-  "dagur": 13,
+  "date": "2026-06-14",
+  "dagur": 14,
   "manudur": "júní",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 164,
-  "sunrise": "02:59",
-  "sunset": "23:55",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 165,
+  "sunrise": "02:58",
+  "sunset": "23:57",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Þórhildur",
+  "nafnadagur": "Árni",
   "atburdir": [
     {
-      "ar": "1983",
-      "texti": "Geimkönnunarfarið Pioneer 10 fór út fyrir sporbaug Neptúnusar og varð fyrsta manngerða fyrirbærið til að yfirgefa helkerfið."
-    },
-    {
-      "ar": "1944",
-      "texti": "V-1 flugskeyti Þjóðverja var skotið á London í fyrsta sinn í seinni heimsstyrjöldinni."
-    },
-    {
-      "ar": "1927",
-      "texti": "Orrustuflugmaðurinn Charles Lindbergh fékk heiðursverðlaun fyrir fyrsta flugið yfir Atlantshafið án áningar."
-    },
-    {
-      "ar": "1898",
-      "texti": "Kanadíska Yukon-svæðið var stofnað."
-    },
-    {
       "ar": "1777",
-      "texti": "Markúsarkirkjan í Feneyjum brann."
+      "texti": "Annað meginlandsþing Bandaríkjanna samþykkti fána Bandaríkjanna með 13 röndum og 13 stjörnum."
+    },
+    {
+      "ar": "1789",
+      "texti": "Whiskey framleitt úr maís var fyrst eimað af klerknum Elijah Craig."
+    },
+    {
+      "ar": "1940",
+      "texti": "París féll í hendur Þjóðverja í seinni heimsstyrjöldinni."
+    },
+    {
+      "ar": "1985",
+      "texti": "Schengen-samkomulagið var undirritað af fimm Evrópuríkjum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1987",
-      "texti": "Kvikmyndin Skytturnar eftir Friðrik Þór Friðriksson var frumsýnd."
-    },
-    {
-      "ar": "1971",
-      "texti": "Alþingiskosningar voru haldnar á Íslandi."
+      "ar": "1944",
+      "texti": "Ísland varð lýðveldi á Þingvöllum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Mary-Kate Olsen",
-      "starfsgrein": "leikkona, fatahönnuður",
-      "ar": "1986"
+      "nafn": "Donald Trump",
+      "starfsgrein": "fyrrverandi forseti Bandaríkjanna",
+      "ar": "1946"
     },
     {
-      "nafn": "Ashley Olsen",
-      "starfsgrein": "leikkona, fatahönnuður",
-      "ar": "1986"
+      "nafn": "Boy George",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1961"
     },
     {
-      "nafn": "Chris Evans",
-      "starfsgrein": "leikari",
-      "ar": "1981"
+      "nafn": "Lucy Hale",
+      "starfsgrein": "leikkona",
+      "ar": "1989"
     }
   ],
-  "tonlistUSA": "I Want To Know What Love Is – Foreigner (1984)",
-  "tonlistUK": "Careless Whisper – George Michael (1984)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "I Feel Fine – The Beatles (1964)",
   "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1947 var fyrsti farsíminn kynntur, en hann var svo stór að hann þurfti að vera í bíl.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 27 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu, sérstaklega í samskiptum. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig."
+  "vissir_thu": "Fyrsta opinbera kvikmyndasýningin á Íslandi fór fram árið 1903 í Reykjavík.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á hjá þér. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
