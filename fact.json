@@ -1,62 +1,66 @@
 {
-  "date": "2026-06-14",
-  "dagur": 14,
+  "date": "2026-06-15",
+  "dagur": 15,
   "manudur": "júní",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 165,
-  "sunrise": "02:58",
-  "sunset": "23:57",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 166,
+  "sunrise": "02:57",
+  "sunset": "23:58",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Árni",
+  "nafnadagur": "Jóel",
   "atburdir": [
     {
-      "ar": "1777",
-      "texti": "Annað meginlandsþing Bandaríkjanna samþykkti fána Bandaríkjanna með 13 röndum og 13 stjörnum."
+      "ar": "1215",
+      "texti": "Jóhannes konungur Englands innsiglar Magna Carta, sem takmarkar völd konungs og tryggir réttindi borgara."
     },
     {
-      "ar": "1789",
-      "texti": "Whiskey framleitt úr maís var fyrst eimað af klerknum Elijah Craig."
+      "ar": "1752",
+      "texti": "Benjamin Franklin sýnir fram á að eldingar séu rafmagn með því að fljúga flugdreka í þrumuveðri."
     },
     {
-      "ar": "1940",
-      "texti": "París féll í hendur Þjóðverja í seinni heimsstyrjöldinni."
+      "ar": "1843",
+      "texti": "Fæðingardagur Edvard Grieg, norsks tónskálds."
     },
     {
-      "ar": "1985",
-      "texti": "Schengen-samkomulagið var undirritað af fimm Evrópuríkjum."
+      "ar": "1919",
+      "texti": "John Alcock og Arthur Brown ljúka fyrsta stanslausa fluginu yfir Atlantshafið."
+    },
+    {
+      "ar": "1991",
+      "texti": "Fjallið Pinatubo á Filippseyjum gýs, ein stærsta eldgos 20. aldarinnar."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Ísland varð lýðveldi á Þingvöllum."
+      "texti": "Ísland verður lýðveldi á Þingvöllum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Donald Trump",
-      "starfsgrein": "fyrrverandi forseti Bandaríkjanna",
-      "ar": "1946"
-    },
-    {
-      "nafn": "Boy George",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1961"
-    },
-    {
-      "nafn": "Lucy Hale",
+      "nafn": "Helen Hunt",
       "starfsgrein": "leikkona",
-      "ar": "1989"
+      "ar": "1963"
+    },
+    {
+      "nafn": "Ice Cube",
+      "starfsgrein": "rappari / leikari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Courteney Cox",
+      "starfsgrein": "leikkona",
+      "ar": "1964"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
   "tonlistUK": "I Feel Fine – The Beatles (1964)",
-  "bio": "Grease (1978)",
+  "bio": "The Lion King (1994)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hjallur",
+    "skyring": "Lítil geymsla eða skemma, oft notuð til að þurrka fisk."
   },
-  "vissir_thu": "Fyrsta opinbera kvikmyndasýningin á Íslandi fór fram árið 1903 í Reykjavík.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á hjá þér. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Árið 1944 var Ísland fyrsta landið í heiminum til að kjósa konu sem þjóðhöfðingja, þótt hún tæki ekki við embætti fyrr en 1980.",
+  "verdlag": "Árið 1944 kostaði mjólk um 0,50 kr. lítrinn á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa nýja hluti. Vertu opinn fyrir óvæntum tækifærum sem gætu birst þér."
 }
