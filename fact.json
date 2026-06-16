@@ -1,66 +1,66 @@
 {
-  "date": "2026-06-15",
-  "dagur": 15,
+  "date": "2026-06-16",
+  "dagur": 16,
   "manudur": "júní",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 166,
-  "sunrise": "02:57",
-  "sunset": "23:58",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 167,
+  "sunrise": "02:56",
+  "sunset": "23:59",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Jóel",
+  "nafnadagur": "Björn",
   "atburdir": [
     {
-      "ar": "1215",
-      "texti": "Jóhannes konungur Englands innsiglar Magna Carta, sem takmarkar völd konungs og tryggir réttindi borgara."
+      "ar": "1815",
+      "texti": "Orrustan við Ligny, síðasta orrusta Napóleons þar sem hann vann afgerandi sigur."
     },
     {
-      "ar": "1752",
-      "texti": "Benjamin Franklin sýnir fram á að eldingar séu rafmagn með því að fljúga flugdreka í þrumuveðri."
+      "ar": "1903",
+      "texti": "Ford Motor Company var stofnað af Henry Ford."
     },
     {
-      "ar": "1843",
-      "texti": "Fæðingardagur Edvard Grieg, norsks tónskálds."
+      "ar": "1963",
+      "texti": "Valentina Tereshkova varð fyrsta konan til að ferðast út í geim um borð í Vostok 6."
     },
     {
-      "ar": "1919",
-      "texti": "John Alcock og Arthur Brown ljúka fyrsta stanslausa fluginu yfir Atlantshafið."
-    },
-    {
-      "ar": "1991",
-      "texti": "Fjallið Pinatubo á Filippseyjum gýs, ein stærsta eldgos 20. aldarinnar."
+      "ar": "1976",
+      "texti": "Soweto uppreisnin hófst í Suður-Afríku þegar nemendur mótmæltu kennslu á afríkönsku."
     }
   ],
   "atburdir_island": [
     {
+      "ar": "1907",
+      "texti": "Knattspyrnufélagið Fram var stofnað í Reykjavík."
+    },
+    {
       "ar": "1944",
-      "texti": "Ísland verður lýðveldi á Þingvöllum."
+      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýðveldið var formlega stofnað daginn eftir."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Helen Hunt",
-      "starfsgrein": "leikkona",
-      "ar": "1963"
+      "nafn": "Stan Laurel",
+      "starfsgrein": "leikari",
+      "ar": "1890"
     },
     {
-      "nafn": "Ice Cube",
-      "starfsgrein": "rappari / leikari",
-      "ar": "1969"
+      "nafn": "Tupac Shakur",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1971"
     },
     {
-      "nafn": "Courteney Cox",
-      "starfsgrein": "leikkona",
-      "ar": "1964"
+      "nafn": "Daniel Brühl",
+      "starfsgrein": "leikari",
+      "ar": "1978"
     }
   ],
-  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Feel Fine – The Beatles (1964)",
-  "bio": "The Lion King (1994)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Puppet on a String – Sandie Shaw (1967)",
+  "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "hjallur",
-    "skyring": "Lítil geymsla eða skemma, oft notuð til að þurrka fisk."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast handverk eða list."
   },
-  "vissir_thu": "Árið 1944 var Ísland fyrsta landið í heiminum til að kjósa konu sem þjóðhöfðingja, þótt hún tæki ekki við embætti fyrr en 1980.",
-  "verdlag": "Árið 1944 kostaði mjólk um 0,50 kr. lítrinn á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa nýja hluti. Vertu opinn fyrir óvæntum tækifærum sem gætu birst þér."
+  "vissir_thu": "Árið 1944 var 17. júní valið sem þjóðhátíðardagur Íslands til að heiðra fæðingardag Jóns Sigurðssonar.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
 }
