@@ -1,66 +1,58 @@
 {
-  "date": "2026-06-16",
-  "dagur": 16,
+  "date": "2026-06-17",
+  "dagur": 17,
   "manudur": "júní",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 167,
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 168,
   "sunrise": "02:56",
-  "sunset": "23:59",
+  "sunset": "00:00",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Björn",
+  "nafnadagur": "Ísleifur",
   "atburdir": [
     {
-      "ar": "1815",
-      "texti": "Orrustan við Ligny, síðasta orrusta Napóleons þar sem hann vann afgerandi sigur."
+      "ar": "1885",
+      "texti": "Frelsisstyttan kom til New York hafnar um borð í franska skipinu Isère."
     },
     {
-      "ar": "1903",
-      "texti": "Ford Motor Company var stofnað af Henry Ford."
+      "ar": "1972",
+      "texti": "Watergate-inbrotið átti sér stað í höfuðstöðvum Demókrataflokksins í Washington D.C."
     },
     {
-      "ar": "1963",
-      "texti": "Valentina Tereshkova varð fyrsta konan til að ferðast út í geim um borð í Vostok 6."
-    },
-    {
-      "ar": "1976",
-      "texti": "Soweto uppreisnin hófst í Suður-Afríku þegar nemendur mótmæltu kennslu á afríkönsku."
+      "ar": "1994",
+      "texti": "O.J. Simpson var eltur af lögreglu í hvítum Ford Bronco eftir að hafa verið ákærður fyrir morð."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1907",
-      "texti": "Knattspyrnufélagið Fram var stofnað í Reykjavík."
-    },
-    {
       "ar": "1944",
-      "texti": "Íslendingar samþykktu nýja stjórnarskrá og lýðveldið var formlega stofnað daginn eftir."
+      "texti": "Lýðveldið Ísland var stofnað á Þingvöllum og Sveinn Björnsson varð fyrsti forseti Íslands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Stan Laurel",
-      "starfsgrein": "leikari",
-      "ar": "1890"
+      "nafn": "Barry Manilow",
+      "starfsgrein": "söngvari",
+      "ar": "1943"
     },
     {
-      "nafn": "Tupac Shakur",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1971"
+      "nafn": "Ken Loach",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1936"
     },
     {
-      "nafn": "Daniel Brühl",
-      "starfsgrein": "leikari",
-      "ar": "1978"
+      "nafn": "Venus Williams",
+      "starfsgrein": "tennisleikari",
+      "ar": "1980"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Puppet on a String – Sandie Shaw (1967)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1964)",
   "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast handverk eða list."
+    "ord": "þjóðhátíðardagur",
+    "skyring": "Dagur sem er haldinn hátíðlegur til að minnast mikilvægs atburðar í sögu þjóðar."
   },
-  "vissir_thu": "Árið 1944 var 17. júní valið sem þjóðhátíðardagur Íslands til að heiðra fæðingardag Jóns Sigurðssonar.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri bankað upp á. Vertu opinn fyrir nýjum hugmyndum og láttu forvitnina leiða þig áfram."
+  "vissir_thu": "Þjóðhátíðardagur Íslands er haldinn 17. júní til heiðurs Jóni Sigurðssyni, sem fæddist þann dag árið 1811.",
+  "verdlag": "Árið 1944 kostaði kaffibolli um 1,50 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er kjörinn dagur til að fagna frelsi og nýjum upphafspunktum. Vertu opinn fyrir óvæntum tækifærum sem gætu birst í kringum þig."
 }
