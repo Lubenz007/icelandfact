@@ -1,58 +1,70 @@
 {
-  "date": "2026-06-17",
-  "dagur": 17,
+  "date": "2026-06-18",
+  "dagur": 18,
   "manudur": "júní",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 168,
-  "sunrise": "02:56",
-  "sunset": "00:00",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 169,
+  "sunrise": "02:55",
+  "sunset": "00:01",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Ísleifur",
+  "nafnadagur": "Björgvin",
   "atburdir": [
     {
-      "ar": "1885",
-      "texti": "Frelsisstyttan kom til New York hafnar um borð í franska skipinu Isère."
+      "ar": "1815",
+      "texti": "Orrustan við Waterloo á sér stað, þar sem Napóleon Bónaparte var sigraður."
     },
     {
-      "ar": "1972",
-      "texti": "Watergate-inbrotið átti sér stað í höfuðstöðvum Demókrataflokksins í Washington D.C."
+      "ar": "1983",
+      "texti": "Sally Ride verður fyrsta bandaríska konan til að fara út í geim um borð í geimskutlunni Challenger."
     },
     {
-      "ar": "1994",
-      "texti": "O.J. Simpson var eltur af lögreglu í hvítum Ford Bronco eftir að hafa verið ákærður fyrir morð."
+      "ar": "1979",
+      "texti": "SALT II samningurinn um takmörkun á kjarnorkuvopnum er undirritaður af Bandaríkjunum og Sovétríkjunum."
+    },
+    {
+      "ar": "1940",
+      "texti": "Charles de Gaulle flytur fræga ræðu sína „Kall til vopna“ frá London og hvetur Frakka til að halda áfram baráttunni gegn Þjóðverjum."
+    },
+    {
+      "ar": "1953",
+      "texti": "Egyptaland er lýst lýðveldi og Muhammad Naguib verður fyrsti forseti þess."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Lýðveldið Ísland var stofnað á Þingvöllum og Sveinn Björnsson varð fyrsti forseti Íslands."
+      "texti": "Ísland verður sjálfstætt lýðveldi á Þingvöllum."
+    },
+    {
+      "ar": "1971",
+      "texti": "Fyrsta Reykjavíkurmaraþonið er haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Barry Manilow",
-      "starfsgrein": "söngvari",
-      "ar": "1943"
+      "nafn": "Paul McCartney",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1942"
     },
     {
-      "nafn": "Ken Loach",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1936"
+      "nafn": "Isabella Rossellini",
+      "starfsgrein": "leikkona",
+      "ar": "1952"
     },
     {
-      "nafn": "Venus Williams",
-      "starfsgrein": "tennisleikari",
-      "ar": "1980"
+      "nafn": "Roger Ebert",
+      "starfsgrein": "kvikmyndagagnrýnandi",
+      "ar": "1942"
     }
   ],
-  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Hey Jude – The Beatles (1968)",
   "bio": "Grease (1978)",
   "ord_dagsins": {
-    "ord": "þjóðhátíðardagur",
-    "skyring": "Dagur sem er haldinn hátíðlegur til að minnast mikilvægs atburðar í sögu þjóðar."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er lítill hóll eða hæð sem er illa gróinn eða hrjóstrugur."
   },
-  "vissir_thu": "Þjóðhátíðardagur Íslands er haldinn 17. júní til heiðurs Jóni Sigurðssyni, sem fæddist þann dag árið 1811.",
-  "verdlag": "Árið 1944 kostaði kaffibolli um 1,50 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er kjörinn dagur til að fagna frelsi og nýjum upphafspunktum. Vertu opinn fyrir óvæntum tækifærum sem gætu birst í kringum þig."
+  "vissir_thu": "Árið 1944 var lýðveldið Ísland stofnað á Þingvöllum, en það var ekki fyrsti staðurinn sem kom til greina fyrir athöfnina.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem kunna að koma upp."
 }
