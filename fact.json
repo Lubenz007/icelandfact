@@ -1,70 +1,70 @@
 {
-  "date": "2026-06-18",
-  "dagur": 18,
+  "date": "2026-06-19",
+  "dagur": 19,
   "manudur": "júní",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 169,
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 170,
   "sunrise": "02:55",
-  "sunset": "00:01",
+  "sunset": "00:02",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Björgvin",
+  "nafnadagur": "Gísli",
   "atburdir": [
     {
-      "ar": "1815",
-      "texti": "Orrustan við Waterloo á sér stað, þar sem Napóleon Bónaparte var sigraður."
+      "ar": "1865",
+      "texti": "Orrustan við Galveston átti sér stað, síðasta stóra orrusta bandaríska borgarastríðsins."
     },
     {
-      "ar": "1983",
-      "texti": "Sally Ride verður fyrsta bandaríska konan til að fara út í geim um borð í geimskutlunni Challenger."
+      "ar": "1912",
+      "texti": "Átta stunda vinnudagur var lögfestur í Bandaríkjunum."
     },
     {
-      "ar": "1979",
-      "texti": "SALT II samningurinn um takmörkun á kjarnorkuvopnum er undirritaður af Bandaríkjunum og Sovétríkjunum."
+      "ar": "1961",
+      "texti": "Kúveit fékk fullt sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1940",
-      "texti": "Charles de Gaulle flytur fræga ræðu sína „Kall til vopna“ frá London og hvetur Frakka til að halda áfram baráttunni gegn Þjóðverjum."
+      "ar": "1978",
+      "texti": "Teiknimyndin Gísli á Uppsölum var frumsýnd."
     },
     {
-      "ar": "1953",
-      "texti": "Egyptaland er lýst lýðveldi og Muhammad Naguib verður fyrsti forseti þess."
+      "ar": "1987",
+      "texti": "Hljómsveitin U2 spilaði á tónleikum í Dublin sem hluti af The Joshua Tree tónleikaferðinni."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Ísland verður sjálfstætt lýðveldi á Þingvöllum."
+      "ar": "1915",
+      "texti": "Konur á Íslandi fengu kosningarétt og kjörgengi til Alþingis."
     },
     {
-      "ar": "1971",
-      "texti": "Fyrsta Reykjavíkurmaraþonið er haldið."
+      "ar": "1944",
+      "texti": "Ísland varð lýðveldi á Þingvöllum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Paul McCartney",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1942"
+      "nafn": "Blaise Pascal",
+      "starfsgrein": "stærðfræðingur / eðlisfræðingur",
+      "ar": "1623"
     },
     {
-      "nafn": "Isabella Rossellini",
-      "starfsgrein": "leikkona",
-      "ar": "1952"
+      "nafn": "Salman Rushdie",
+      "starfsgrein": "rithöfundur",
+      "ar": "1947"
     },
     {
-      "nafn": "Roger Ebert",
-      "starfsgrein": "kvikmyndagagnrýnandi",
-      "ar": "1942"
+      "nafn": "Paula Abdul",
+      "starfsgrein": "söngkona / dansari",
+      "ar": "1962"
     }
   ],
   "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Hey Jude – The Beatles (1968)",
-  "bio": "Grease (1978)",
+  "tonlistUK": "I Feel Fine – The Beatles (1964)",
+  "bio": "The Lion King (1994)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er lítill hóll eða hæð sem er illa gróinn eða hrjóstrugur."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1944 var lýðveldið Ísland stofnað á Þingvöllum, en það var ekki fyrsti staðurinn sem kom til greina fyrir athöfnina.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er góður dagur til að taka áhættu og prófa eitthvað nýtt. Vertu opinn fyrir óvæntum tækifærum sem kunna að koma upp."
+  "vissir_thu": "Árið 1915, þegar konur fengu kosningarétt á Íslandi, var kosið um breytingu á stjórnarskrá sem takmarkaði kosningarétt við konur 40 ára og eldri, en því var breytt árið 1920.",
+  "verdlag": "Árið 1970 kostaði lítri af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag er kjörinn dagur til að láta hugmyndaflugið ráða ferðinni og kanna nýjar leiðir. Vertu opinn fyrir óvæntum tækifærum sem gætu birst þér."
 }
