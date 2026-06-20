@@ -1,70 +1,70 @@
 {
-  "date": "2026-06-19",
-  "dagur": 19,
+  "date": "2026-06-20",
+  "dagur": 20,
   "manudur": "júní",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 170,
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 171,
   "sunrise": "02:55",
   "sunset": "00:02",
   "stjornumerki": "Tvíburar",
-  "nafnadagur": "Gísli",
+  "nafnadagur": "Sólveig",
   "atburdir": [
     {
-      "ar": "1865",
-      "texti": "Orrustan við Galveston átti sér stað, síðasta stóra orrusta bandaríska borgarastríðsins."
+      "ar": "1789",
+      "texti": "Eiðurinn á tennisvellinum var sýndur í Versölum, mikilvægur atburður í frönsku byltingunni."
     },
     {
-      "ar": "1912",
-      "texti": "Átta stunda vinnudagur var lögfestur í Bandaríkjunum."
+      "ar": "1837",
+      "texti": "Viktoría varð drottning Bretlands."
     },
     {
-      "ar": "1961",
-      "texti": "Kúveit fékk fullt sjálfstæði frá Bretlandi."
+      "ar": "1840",
+      "texti": "Samuel Morse fékk einkaleyfi á símskeyti sínu."
     },
     {
-      "ar": "1978",
-      "texti": "Teiknimyndin Gísli á Uppsölum var frumsýnd."
+      "ar": "1944",
+      "texti": "Orrustan um Filippseyjahaf lauk í seinni heimsstyrjöldinni."
     },
     {
-      "ar": "1987",
-      "texti": "Hljómsveitin U2 spilaði á tónleikum í Dublin sem hluti af The Joshua Tree tónleikaferðinni."
+      "ar": "1991",
+      "texti": "Þýska þingið ákvað að flytja höfuðborgina frá Bonn til Berlínar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1915",
-      "texti": "Konur á Íslandi fengu kosningarétt og kjörgengi til Alþingis."
+      "ar": "1944",
+      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
     },
     {
-      "ar": "1944",
-      "texti": "Ísland varð lýðveldi á Þingvöllum."
+      "ar": "1971",
+      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Blaise Pascal",
-      "starfsgrein": "stærðfræðingur / eðlisfræðingur",
-      "ar": "1623"
+      "nafn": "Nicole Kidman",
+      "starfsgrein": "leikkona",
+      "ar": "1967"
     },
     {
-      "nafn": "Salman Rushdie",
-      "starfsgrein": "rithöfundur",
-      "ar": "1947"
+      "nafn": "Lionel Richie",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1949"
     },
     {
-      "nafn": "Paula Abdul",
-      "starfsgrein": "söngkona / dansari",
-      "ar": "1962"
+      "nafn": "John Goodman",
+      "starfsgrein": "leikari",
+      "ar": "1952"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
   "tonlistUK": "I Feel Fine – The Beatles (1964)",
-  "bio": "The Lion King (1994)",
+  "bio": "Jaws (1975)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "skyring": "Þrándur er gamalt orð yfir naut eða tarf."
   },
-  "vissir_thu": "Árið 1915, þegar konur fengu kosningarétt á Íslandi, var kosið um breytingu á stjórnarskrá sem takmarkaði kosningarétt við konur 40 ára og eldri, en því var breytt árið 1920.",
-  "verdlag": "Árið 1970 kostaði lítri af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag er kjörinn dagur til að láta hugmyndaflugið ráða ferðinni og kanna nýjar leiðir. Vertu opinn fyrir óvæntum tækifærum sem gætu birst þér."
+  "vissir_thu": "Íslenska hestakynið er eitt það elsta og hreinræktaðasta í heimi, þar sem engum öðrum hestum hefur verið leyft að koma til landsins í yfir 1000 ár.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri birst á sjóndeildarhringnum. Vertu opinn fyrir nýjum hugmyndum og ekki hika við að stökkva á þær."
 }
