@@ -1,70 +1,70 @@
 {
-  "date": "2026-06-20",
-  "dagur": 20,
+  "date": "2026-06-21",
+  "dagur": 21,
   "manudur": "júní",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 171,
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 172,
   "sunrise": "02:55",
-  "sunset": "00:02",
-  "stjornumerki": "Tvíburar",
-  "nafnadagur": "Sólveig",
+  "sunset": "00:03",
+  "stjornumerki": "Krabbi",
+  "nafnadagur": "Álfheiður",
   "atburdir": [
     {
-      "ar": "1789",
-      "texti": "Eiðurinn á tennisvellinum var sýndur í Versölum, mikilvægur atburður í frönsku byltingunni."
+      "ar": "1788",
+      "texti": "New Hampshire varð 9. ríkið til að fullgilda stjórnarskrá Bandaríkjanna."
     },
     {
-      "ar": "1837",
-      "texti": "Viktoría varð drottning Bretlands."
+      "ar": "1890",
+      "texti": "Fyrsta útgáfa af „The Picture of Dorian Gray“ eftir Oscar Wilde kom út."
     },
     {
-      "ar": "1840",
-      "texti": "Samuel Morse fékk einkaleyfi á símskeyti sínu."
+      "ar": "1948",
+      "texti": "Columbia Records kynnti fyrstu langspilunarplötuna (LP)."
     },
     {
-      "ar": "1944",
-      "texti": "Orrustan um Filippseyjahaf lauk í seinni heimsstyrjöldinni."
+      "ar": "1964",
+      "texti": "Þrír borgararéttindafrömuðir hurfu í Mississippi, sem leiddi til mikillar leit."
     },
     {
-      "ar": "1991",
-      "texti": "Þýska þingið ákvað að flytja höfuðborgina frá Bonn til Berlínar."
+      "ar": "2004",
+      "texti": "SpaceShipOne varð fyrsta einkarekna geimfarið til að ná út í geim."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
+      "ar": "1915",
+      "texti": "Konur á Íslandi fengu kosningarétt og kjörgengi til Alþingis."
     },
     {
-      "ar": "1971",
-      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
+      "ar": "1930",
+      "texti": "Alþingishátíðin var haldin á Þingvöllum til að minnast 1000 ára afmælis Alþingis."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Nicole Kidman",
-      "starfsgrein": "leikkona",
-      "ar": "1967"
+      "nafn": "Jean-Paul Sartre",
+      "starfsgrein": "rithöfundur og heimspekingur",
+      "ar": "1905"
     },
     {
-      "nafn": "Lionel Richie",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1949"
+      "nafn": "Prince William",
+      "starfsgrein": "prins af Wales",
+      "ar": "1982"
     },
     {
-      "nafn": "John Goodman",
-      "starfsgrein": "leikari",
-      "ar": "1952"
+      "nafn": "Lana Del Rey",
+      "starfsgrein": "söngkona",
+      "ar": "1985"
     }
   ],
-  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Feel Fine – The Beatles (1964)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "You'll Never Walk Alone – Gerry and the Pacemakers (1963)",
   "bio": "Jaws (1975)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða tarf."
+    "ord": "rökkur",
+    "skyring": "Tíminn rétt eftir sólsetur eða rétt fyrir sólarupprás þegar birtan er lítil."
   },
-  "vissir_thu": "Íslenska hestakynið er eitt það elsta og hreinræktaðasta í heimi, þar sem engum öðrum hestum hefur verið leyft að koma til landsins í yfir 1000 ár.",
+  "vissir_thu": "Sumarsólstöður eru oftast 21. júní á norðurhveli jarðar, sem er lengsti dagur ársins.",
   "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Tvíburar, í dag gæti óvænt tækifæri birst á sjóndeildarhringnum. Vertu opinn fyrir nýjum hugmyndum og ekki hika við að stökkva á þær."
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að ofhugsa ekki smáatriði."
 }
