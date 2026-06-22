@@ -1,70 +1,66 @@
 {
-  "date": "2026-06-21",
-  "dagur": 21,
+  "date": "2026-06-22",
+  "dagur": 22,
   "manudur": "júní",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 172,
-  "sunrise": "02:55",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 173,
+  "sunrise": "02:56",
   "sunset": "00:03",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Álfheiður",
+  "nafnadagur": "Jón",
   "atburdir": [
     {
-      "ar": "1788",
-      "texti": "New Hampshire varð 9. ríkið til að fullgilda stjórnarskrá Bandaríkjanna."
+      "ar": "1633",
+      "texti": "Galileo Galilei neyðist til að afneita kenningu Kóperníkusar um sólmiðjukenninguna fyrir rannsóknarrétti kaþólsku kirkjunnar."
     },
     {
-      "ar": "1890",
-      "texti": "Fyrsta útgáfa af „The Picture of Dorian Gray“ eftir Oscar Wilde kom út."
+      "ar": "1941",
+      "texti": "Síðari heimsstyrjöldin: Þýskaland ræðst á Sovétríkin í Operation Barbarossa."
     },
     {
-      "ar": "1948",
-      "texti": "Columbia Records kynnti fyrstu langspilunarplötuna (LP)."
+      "ar": "1978",
+      "texti": "Charon, stærsta tungl Plútós, uppgötvast."
     },
     {
-      "ar": "1964",
-      "texti": "Þrír borgararéttindafrömuðir hurfu í Mississippi, sem leiddi til mikillar leit."
-    },
-    {
-      "ar": "2004",
-      "texti": "SpaceShipOne varð fyrsta einkarekna geimfarið til að ná út í geim."
+      "ar": "1986",
+      "texti": "Diego Maradona skorar „hönd Guðs“ markið og „mark aldarinnar“ gegn Englandi á HM í fótbolta."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1915",
-      "texti": "Konur á Íslandi fengu kosningarétt og kjörgengi til Alþingis."
+      "ar": "1944",
+      "texti": "Sveinn Björnsson er kjörinn fyrsti forseti Íslands."
     },
     {
-      "ar": "1930",
-      "texti": "Alþingishátíðin var haldin á Þingvöllum til að minnast 1000 ára afmælis Alþingis."
+      "ar": "1973",
+      "texti": "Eldgosinu á Heimaey lýkur formlega."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Jean-Paul Sartre",
-      "starfsgrein": "rithöfundur og heimspekingur",
-      "ar": "1905"
+      "nafn": "Meryl Streep",
+      "starfsgrein": "leikkona",
+      "ar": "1949"
     },
     {
-      "nafn": "Prince William",
-      "starfsgrein": "prins af Wales",
-      "ar": "1982"
+      "nafn": "Bruce Campbell",
+      "starfsgrein": "leikari",
+      "ar": "1958"
     },
     {
-      "nafn": "Lana Del Rey",
-      "starfsgrein": "söngkona",
-      "ar": "1985"
+      "nafn": "Cyndi Lauper",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1953"
     }
   ],
   "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "You'll Never Walk Alone – Gerry and the Pacemakers (1963)",
-  "bio": "Jaws (1975)",
+  "tonlistUK": "Gimme! Gimme! Gimme! (A Man After Midnight) – ABBA (1979)",
+  "bio": "Blade Runner (1982)",
   "ord_dagsins": {
-    "ord": "rökkur",
-    "skyring": "Tíminn rétt eftir sólsetur eða rétt fyrir sólarupprás þegar birtan er lítil."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Sumarsólstöður eru oftast 21. júní á norðurhveli jarðar, sem er lengsti dagur ársins.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að ofhugsa ekki smáatriði."
+  "vissir_thu": "Árið 1969 var fyrsta íslenska sjónvarpsauglýsingin sýnd í Ríkissjónvarpinu.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig og vertu opinn fyrir nýjum tækifærum."
 }
