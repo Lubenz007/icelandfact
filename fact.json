@@ -1,66 +1,62 @@
 {
-  "date": "2026-06-22",
-  "dagur": 22,
+  "date": "2026-06-23",
+  "dagur": 23,
   "manudur": "júní",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 173,
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 174,
   "sunrise": "02:56",
   "sunset": "00:03",
   "stjornumerki": "Krabbi",
   "nafnadagur": "Jón",
   "atburdir": [
     {
-      "ar": "1633",
-      "texti": "Galileo Galilei neyðist til að afneita kenningu Kóperníkusar um sólmiðjukenninguna fyrir rannsóknarrétti kaþólsku kirkjunnar."
+      "ar": "1894",
+      "texti": "Alþjóðaólympíunefndin (IOC) var stofnuð í París."
     },
     {
-      "ar": "1941",
-      "texti": "Síðari heimsstyrjöldin: Þýskaland ræðst á Sovétríkin í Operation Barbarossa."
+      "ar": "1996",
+      "texti": "Nintendo 64 leikjatölvan kom út í Japan."
     },
     {
-      "ar": "1978",
-      "texti": "Charon, stærsta tungl Plútós, uppgötvast."
-    },
-    {
-      "ar": "1986",
-      "texti": "Diego Maradona skorar „hönd Guðs“ markið og „mark aldarinnar“ gegn Englandi á HM í fótbolta."
+      "ar": "1961",
+      "texti": "Alþjóðasamningur um Suðurskautslandið tók gildi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Sveinn Björnsson er kjörinn fyrsti forseti Íslands."
+      "texti": "Jónsmessunótt, daginn fyrir lýðveldisstofnun, var haldin hátíðleg um allt land."
     },
     {
-      "ar": "1973",
-      "texti": "Eldgosinu á Heimaey lýkur formlega."
+      "ar": "1972",
+      "texti": "Heimsmeistaramót í skák hófst í Reykjavík milli Bobby Fischer og Boris Spassky."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Meryl Streep",
+      "nafn": "Alan Turing",
+      "starfsgrein": "stærðfræðingur",
+      "ar": "1912"
+    },
+    {
+      "nafn": "Frances McDormand",
       "starfsgrein": "leikkona",
-      "ar": "1949"
+      "ar": "1957"
     },
     {
-      "nafn": "Bruce Campbell",
-      "starfsgrein": "leikari",
-      "ar": "1958"
-    },
-    {
-      "nafn": "Cyndi Lauper",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1953"
+      "nafn": "Zinedine Zidane",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1972"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Gimme! Gimme! Gimme! (A Man After Midnight) – ABBA (1979)",
-  "bio": "Blade Runner (1982)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
+  "bio": "The Lion King (1994)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða óstýrilátur."
   },
-  "vissir_thu": "Árið 1969 var fyrsta íslenska sjónvarpsauglýsingin sýnd í Ríkissjónvarpinu.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig og vertu opinn fyrir nýjum tækifærum."
+  "vissir_thu": "Jónsmessa er ein af fjórum stórum messudögum í fornu íslensku tímatali, kennd við Jóhannes skírara.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 20 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og minningum. Leyfðu tilfinningunum að leiða þig en gættu þess að missa ekki sjónar á raunveruleikanum."
 }
