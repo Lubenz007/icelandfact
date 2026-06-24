@@ -1,62 +1,62 @@
 {
-  "date": "2026-06-23",
-  "dagur": 23,
+  "date": "2026-06-24",
+  "dagur": 24,
   "manudur": "júní",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 174,
-  "sunrise": "02:56",
-  "sunset": "00:03",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 175,
+  "sunrise": "02:57",
+  "sunset": "00:02",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Jón",
+  "nafnadagur": "Jóhannes",
   "atburdir": [
     {
-      "ar": "1894",
-      "texti": "Alþjóðaólympíunefndin (IOC) var stofnuð í París."
+      "ar": "1314",
+      "texti": "Orrustan við Bannockburn hófst, þar sem Skotar undir forystu Róberts I unnu sigur á Englendingum."
     },
     {
-      "ar": "1996",
-      "texti": "Nintendo 64 leikjatölvan kom út í Japan."
+      "ar": "1901",
+      "texti": "Fyrsta sýning á verkum Pablo Picasso fór fram í París."
     },
     {
-      "ar": "1961",
-      "texti": "Alþjóðasamningur um Suðurskautslandið tók gildi."
+      "ar": "1948",
+      "texti": "Sovétríkin hófu Berlínarblokkunina, sem lokaði öllum landleiðum til Vestur-Berlínar."
+    },
+    {
+      "ar": "1997",
+      "texti": "Air Force One, forsetaflugvél Bandaríkjanna, lenti í fyrsta sinn á Íslandi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Jónsmessunótt, daginn fyrir lýðveldisstofnun, var haldin hátíðleg um allt land."
-    },
-    {
-      "ar": "1972",
-      "texti": "Heimsmeistaramót í skák hófst í Reykjavík milli Bobby Fischer og Boris Spassky."
+      "texti": "Jón Sigurðsson, forseti Íslands, fæddist."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Alan Turing",
-      "starfsgrein": "stærðfræðingur",
-      "ar": "1912"
-    },
-    {
-      "nafn": "Frances McDormand",
-      "starfsgrein": "leikkona",
-      "ar": "1957"
-    },
-    {
-      "nafn": "Zinedine Zidane",
+      "nafn": "Lionel Messi",
       "starfsgrein": "knattspyrnumaður",
-      "ar": "1972"
+      "ar": "1987"
+    },
+    {
+      "nafn": "Jeff Beck",
+      "starfsgrein": "gítarleikari",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Mick Fleetwood",
+      "starfsgrein": "trommari",
+      "ar": "1947"
     }
   ],
-  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
-  "bio": "The Lion King (1994)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Love Is All Around – Wet Wet Wet (1994)",
+  "bio": "Blade Runner (1982)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða óstýrilátur."
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Jónsmessa er ein af fjórum stórum messudögum í fornu íslensku tímatali, kennd við Jóhannes skírara.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 20 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og minningum. Leyfðu tilfinningunum að leiða þig en gættu þess að missa ekki sjónar á raunveruleikanum."
+  "vissir_thu": "Jónsmessa, sem er 24. júní, er ein af fjórum stórum messudögum í fornum íslenskum sið og er kennd við Jóhannes skírara.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 15 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
 }
