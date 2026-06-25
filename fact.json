@@ -1,62 +1,58 @@
 {
-  "date": "2026-06-24",
-  "dagur": 24,
+  "date": "2026-06-25",
+  "dagur": 25,
   "manudur": "júní",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 175,
-  "sunrise": "02:57",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 176,
+  "sunrise": "02:58",
   "sunset": "00:02",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Jóhannes",
+  "nafnadagur": "Baldvin",
   "atburdir": [
     {
-      "ar": "1314",
-      "texti": "Orrustan við Bannockburn hófst, þar sem Skotar undir forystu Róberts I unnu sigur á Englendingum."
+      "ar": "1950",
+      "texti": "Kóreustríðið hófst þegar Norður-Kórea réðst inn í Suður-Kóreu."
     },
     {
-      "ar": "1901",
-      "texti": "Fyrsta sýning á verkum Pablo Picasso fór fram í París."
+      "ar": "1975",
+      "texti": "Mósambík hlaut sjálfstæði frá Portúgal."
     },
     {
-      "ar": "1948",
-      "texti": "Sovétríkin hófu Berlínarblokkunina, sem lokaði öllum landleiðum til Vestur-Berlínar."
-    },
-    {
-      "ar": "1997",
-      "texti": "Air Force One, forsetaflugvél Bandaríkjanna, lenti í fyrsta sinn á Íslandi."
+      "ar": "1991",
+      "texti": "Slóvenía og Króatía lýstu yfir sjálfstæði frá Júgóslavíu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Jón Sigurðsson, forseti Íslands, fæddist."
+      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tók við völdum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Lionel Messi",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1987"
+      "nafn": "George Michael",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1963"
     },
     {
-      "nafn": "Jeff Beck",
-      "starfsgrein": "gítarleikari",
-      "ar": "1944"
+      "nafn": "Ricky Gervais",
+      "starfsgrein": "grínisti, leikari",
+      "ar": "1961"
     },
     {
-      "nafn": "Mick Fleetwood",
-      "starfsgrein": "trommari",
-      "ar": "1947"
+      "nafn": "Anthony Bourdain",
+      "starfsgrein": "kokkur, sjónvarpsmaður",
+      "ar": "1956"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Love Is All Around – Wet Wet Wet (1994)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
+  "tonlistUK": "Gimme! Gimme! Gimme! (A Man After Midnight) – ABBA (1979)",
   "bio": "Blade Runner (1982)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Jónsmessa, sem er 24. júní, er ein af fjórum stórum messudögum í fornum íslenskum sið og er kennd við Jóhannes skírara.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 15 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
+  "vissir_thu": "Árið 1978 var fyrsta barnið getið með glasafrjóvgun, Louise Brown, fædd í Bretlandi.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskyldu og heimili. Mundu að gefa þér tíma til að njóta smáatriðanna í lífinu."
 }
