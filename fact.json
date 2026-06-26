@@ -1,58 +1,58 @@
 {
-  "date": "2026-06-25",
-  "dagur": 25,
+  "date": "2026-06-26",
+  "dagur": 26,
   "manudur": "júní",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 176,
-  "sunrise": "02:58",
-  "sunset": "00:02",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 177,
+  "sunrise": "02:59",
+  "sunset": "00:01",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Baldvin",
+  "nafnadagur": "Eygló",
   "atburdir": [
     {
-      "ar": "1950",
-      "texti": "Kóreustríðið hófst þegar Norður-Kórea réðst inn í Suður-Kóreu."
+      "ar": "1945",
+      "texti": "Sáttmáli Sameinuðu þjóðanna var undirritaður í San Francisco."
     },
     {
-      "ar": "1975",
-      "texti": "Mósambík hlaut sjálfstæði frá Portúgal."
+      "ar": "1960",
+      "texti": "Madagaskar hlaut fullt sjálfstæði frá Frakklandi."
     },
     {
-      "ar": "1991",
-      "texti": "Slóvenía og Króatía lýstu yfir sjálfstæði frá Júgóslavíu."
+      "ar": "1977",
+      "texti": "Elvis Presley hélt sína síðustu tónleika í Indianapolis."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tók við völdum."
+      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "George Michael",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1963"
+      "nafn": "Pearl S. Buck",
+      "starfsgrein": "rithöfundur",
+      "ar": "1892"
     },
     {
-      "nafn": "Ricky Gervais",
-      "starfsgrein": "grínisti, leikari",
-      "ar": "1961"
+      "nafn": "George Orwell",
+      "starfsgrein": "rithöfundur",
+      "ar": "1903"
     },
     {
-      "nafn": "Anthony Bourdain",
-      "starfsgrein": "kokkur, sjónvarpsmaður",
-      "ar": "1956"
+      "nafn": "Ariana Grande",
+      "starfsgrein": "söngkona",
+      "ar": "1993"
     }
   ],
   "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
-  "tonlistUK": "Gimme! Gimme! Gimme! (A Man After Midnight) – ABBA (1979)",
+  "tonlistUK": "Gimme Gimme Gimme (A Man After Midnight) – ABBA (1979)",
   "bio": "Blade Runner (1982)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1978 var fyrsta barnið getið með glasafrjóvgun, Louise Brown, fædd í Bretlandi.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskyldu og heimili. Mundu að gefa þér tíma til að njóta smáatriðanna í lífinu."
+  "vissir_thu": "Fyrsta opinbera útvarpsútsendingin á Íslandi fór fram árið 1926.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskyldu og vinum. Mundu að litlu hlutirnir skipta mestu máli."
 }
