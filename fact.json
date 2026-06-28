@@ -1,66 +1,62 @@
 {
-  "date": "2026-06-27",
-  "dagur": 27,
+  "date": "2026-06-28",
+  "dagur": 28,
   "manudur": "júní",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 178,
-  "sunrise": "03:00",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 179,
+  "sunrise": "03:01",
   "sunset": "00:00",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Sara",
+  "nafnadagur": "Valdimar",
   "atburdir": [
     {
-      "ar": "1950",
-      "texti": "Öryggisráð Sameinuðu þjóðanna samþykkir ályktun 83, sem kallar eftir hernaðaraðstoð við Suður-Kóreu eftir innrás Norður-Kóreu."
+      "ar": "1914",
+      "texti": "Erkihertoginn Franz Ferdinand af Austurríki og eiginkona hans, Sophie, voru myrt í Sarajevó, sem varð kveikjan að fyrri heimsstyrjöldinni."
     },
     {
-      "ar": "1954",
-      "texti": "Fyrsta kjarnorkuverið í heiminum, Obninsk kjarnorkuverið, hefur starfsemi í Sovétríkjunum."
+      "ar": "1919",
+      "texti": "Versalasamningurinn var undirritaður í Versölum í Frakklandi og batt formlega enda á fyrri heimsstyrjöldina."
     },
     {
-      "ar": "1976",
-      "texti": "Palestínskir hryðjuverkamenn ræna Air France flugi 139 á leið frá Tel Aviv til Parísar og neyða það til að lenda í Entebbe í Úganda."
+      "ar": "1969",
+      "texti": "Stonevallauppþotin hófust í New York borg, sem markaði upphaf nútíma réttindabaráttu hinsegin fólks."
     },
     {
-      "ar": "1977",
-      "texti": "Djibouti lýsir yfir sjálfstæði frá Frakklandi."
-    },
-    {
-      "ar": "1991",
-      "texti": "Tíu daga stríðið hefst í Slóveníu eftir að Júgóslavía reynir að koma í veg fyrir sjálfstæðisyfirlýsingu landsins."
+      "ar": "2007",
+      "texti": "Fyrsti iPhone síminn var settur á markað af Apple."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1966",
-      "texti": "Fyrsta sjónvarpsútsending Ríkisútvarpsins fer fram."
+      "ar": "1944",
+      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Helen Keller",
-      "starfsgrein": "rithöfundur og fyrirlesari",
-      "ar": "1880"
+      "nafn": "Elon Musk",
+      "starfsgrein": "frumkvöðull",
+      "ar": "1971"
     },
     {
-      "nafn": "Vera Wang",
-      "starfsgrein": "fatahönnuður",
-      "ar": "1949"
-    },
-    {
-      "nafn": "Tobey Maguire",
+      "nafn": "John Cusack",
       "starfsgrein": "leikari",
-      "ar": "1975"
+      "ar": "1966"
+    },
+    {
+      "nafn": "Mel Brooks",
+      "starfsgrein": "leikstjóri",
+      "ar": "1926"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
-  "tonlistUK": "I'm Not In Love – 10cc (1975)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
+  "tonlistUK": "Gimme! Gimme! Gimme! (A Man After Midnight) – ABBA (1979)",
   "bio": "Blade Runner (1982)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var úr tré.",
+  "vissir_thu": "Íslenska hestakynið er eitt það hreinræktaðasta í heimi og hefur verið einangrað í yfir 1000 ár.",
   "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að vera ekki of viðkvæmur fyrir utanaðkomandi áhrifum."
+  "stjornuspa": "Krabbi, í dag gætir þú fundið fyrir sterkri löngun til að vernda þá sem þér þykir vænt um. Treystu innsæinu þínu, það mun leiða þig rétta leið."
 }
