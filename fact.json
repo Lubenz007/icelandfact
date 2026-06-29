@@ -1,62 +1,62 @@
 {
-  "date": "2026-06-28",
-  "dagur": 28,
+  "date": "2026-06-29",
+  "dagur": 29,
   "manudur": "júní",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 179,
-  "sunrise": "03:01",
-  "sunset": "00:00",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 180,
+  "sunrise": "03:03",
+  "sunset": "23:58",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Valdimar",
+  "nafnadagur": "Pétur",
   "atburdir": [
     {
-      "ar": "1914",
-      "texti": "Erkihertoginn Franz Ferdinand af Austurríki og eiginkona hans, Sophie, voru myrt í Sarajevó, sem varð kveikjan að fyrri heimsstyrjöldinni."
+      "ar": "1613",
+      "texti": "Shakespeare's Globe leikhúsið í London brann til grunna."
     },
     {
-      "ar": "1919",
-      "texti": "Versalasamningurinn var undirritaður í Versölum í Frakklandi og batt formlega enda á fyrri heimsstyrjöldina."
+      "ar": "1956",
+      "texti": "Marilyn Monroe giftist Arthur Miller."
     },
     {
-      "ar": "1969",
-      "texti": "Stonevallauppþotin hófust í New York borg, sem markaði upphaf nútíma réttindabaráttu hinsegin fólks."
+      "ar": "1976",
+      "texti": "Seychelles-eyjar fengu sjálfstæði frá Bretlandi."
     },
     {
       "ar": "2007",
-      "texti": "Fyrsti iPhone síminn var settur á markað af Apple."
+      "texti": "Fyrsti iPhone var settur á markað."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1944",
-      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
+      "texti": "Fyrsti forseti Íslands, Sveinn Björnsson, tók við embætti."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Elon Musk",
-      "starfsgrein": "frumkvöðull",
-      "ar": "1971"
+      "nafn": "Antoine de Saint-Exupéry",
+      "starfsgrein": "rithöfundur",
+      "ar": "1900"
     },
     {
-      "nafn": "John Cusack",
-      "starfsgrein": "leikari",
-      "ar": "1966"
+      "nafn": "Richard Rodgers",
+      "starfsgrein": "tónskáld",
+      "ar": "1902"
     },
     {
-      "nafn": "Mel Brooks",
-      "starfsgrein": "leikstjóri",
-      "ar": "1926"
+      "nafn": "George Orwell",
+      "starfsgrein": "rithöfundur",
+      "ar": "1903"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
-  "tonlistUK": "Gimme! Gimme! Gimme! (A Man After Midnight) – ABBA (1979)",
-  "bio": "Blade Runner (1982)",
+  "tonlistUSA": "Engar upplýsingar",
+  "tonlistUK": "Engar upplýsingar",
+  "bio": "Engar upplýsingar",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Íslenska hestakynið er eitt það hreinræktaðasta í heimi og hefur verið einangrað í yfir 1000 ár.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag gætir þú fundið fyrir sterkri löngun til að vernda þá sem þér þykir vænt um. Treystu innsæinu þínu, það mun leiða þig rétta leið."
+  "vissir_thu": "Vissir þú að stærsta bókasafn heims, Library of Congress í Bandaríkjunum, inniheldur yfir 170 milljónir hluta?",
+  "verdlag": "Engar upplýsingar",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig og mundu að hlusta á innsæi þitt."
 }
