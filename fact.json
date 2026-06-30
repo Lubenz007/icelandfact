@@ -1,62 +1,62 @@
 {
-  "date": "2026-06-29",
-  "dagur": 29,
+  "date": "2026-06-30",
+  "dagur": 30,
   "manudur": "júní",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 180,
-  "sunrise": "03:03",
-  "sunset": "23:58",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 181,
+  "sunrise": "03:04",
+  "sunset": "23:57",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Pétur",
+  "nafnadagur": "Valgerður",
   "atburdir": [
     {
-      "ar": "1613",
-      "texti": "Shakespeare's Globe leikhúsið í London brann til grunna."
+      "ar": "1908",
+      "texti": "Tunguska atvikið átti sér stað í Síberíu, Rússlandi, þar sem gríðarleg sprenging varð."
     },
     {
-      "ar": "1956",
-      "texti": "Marilyn Monroe giftist Arthur Miller."
+      "ar": "1934",
+      "texti": "Nótt hinna löngu hnífa hófst í Þýskalandi, þar sem Adolf Hitler lét hreinsa til í SA-flokknum."
     },
     {
-      "ar": "1976",
-      "texti": "Seychelles-eyjar fengu sjálfstæði frá Bretlandi."
+      "ar": "1960",
+      "texti": "Belgíska Kongó (nú Lýðveldið Kongó) fékk sjálfstæði frá Belgíu."
     },
     {
-      "ar": "2007",
-      "texti": "Fyrsti iPhone var settur á markað."
+      "ar": "1971",
+      "texti": "Geimfararnir um borð í Sojuz 11 létust þegar loftþrýstingur í geimfarinu féll við endurkomu til jarðar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Fyrsti forseti Íslands, Sveinn Björnsson, tók við embætti."
+      "ar": "1989",
+      "texti": "Fyrsta McDonald's veitingastaðnum á Íslandi var lokað."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Antoine de Saint-Exupéry",
-      "starfsgrein": "rithöfundur",
-      "ar": "1900"
+      "nafn": "Mike Tyson",
+      "starfsgrein": "boxari",
+      "ar": "1966"
     },
     {
-      "nafn": "Richard Rodgers",
-      "starfsgrein": "tónskáld",
-      "ar": "1902"
+      "nafn": "Michael Phelps",
+      "starfsgrein": "sundmaður",
+      "ar": "1985"
     },
     {
-      "nafn": "George Orwell",
-      "starfsgrein": "rithöfundur",
-      "ar": "1903"
+      "nafn": "Lena Horne",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "1917"
     }
   ],
-  "tonlistUSA": "Engar upplýsingar",
-  "tonlistUK": "Engar upplýsingar",
-  "bio": "Engar upplýsingar",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
+  "tonlistUK": "I'm Not In Love – 10cc (1975)",
+  "bio": "The Twilight Saga: Eclipse (2010)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í óláni eða er óheppinn."
   },
-  "vissir_thu": "Vissir þú að stærsta bókasafn heims, Library of Congress í Bandaríkjunum, inniheldur yfir 170 milljónir hluta?",
-  "verdlag": "Engar upplýsingar",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig og mundu að hlusta á innsæi þitt."
+  "vissir_thu": "Íslenski fálkinn getur lifað í allt að 20 ár í náttúrunni.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og finna ró í heimilinu. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
 }
