@@ -1,62 +1,66 @@
 {
-  "date": "2026-06-30",
-  "dagur": 30,
-  "manudur": "júní",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 181,
-  "sunrise": "03:04",
-  "sunset": "23:57",
+  "date": "2026-07-01",
+  "dagur": 1,
+  "manudur": "júlí",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 182,
+  "sunrise": "03:06",
+  "sunset": "23:56",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Valgerður",
+  "nafnadagur": "Kristján",
   "atburdir": [
     {
-      "ar": "1908",
-      "texti": "Tunguska atvikið átti sér stað í Síberíu, Rússlandi, þar sem gríðarleg sprenging varð."
+      "ar": "1863",
+      "texti": "Orrustan við Gettysburg, ein mikilvægasta orrusta bandaríska borgarastríðsins, hófst."
     },
     {
-      "ar": "1934",
-      "texti": "Nótt hinna löngu hnífa hófst í Þýskalandi, þar sem Adolf Hitler lét hreinsa til í SA-flokknum."
+      "ar": "1916",
+      "texti": "Orrustan við Somme hófst í Fyrri heimsstyrjöldinni, ein blóðugasta orrusta mannkynssögunnar."
     },
     {
-      "ar": "1960",
-      "texti": "Belgíska Kongó (nú Lýðveldið Kongó) fékk sjálfstæði frá Belgíu."
+      "ar": "1962",
+      "texti": "Rúanda og Búrúndí öðluðust sjálfstæði frá Belgíu."
     },
     {
-      "ar": "1971",
-      "texti": "Geimfararnir um borð í Sojuz 11 létust þegar loftþrýstingur í geimfarinu féll við endurkomu til jarðar."
+      "ar": "1997",
+      "texti": "Hong Kong var afhent Kína af Bretlandi."
+    },
+    {
+      "ar": "2013",
+      "texti": "Króatía gerðist aðili að Evrópusambandinu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1989",
-      "texti": "Fyrsta McDonald's veitingastaðnum á Íslandi var lokað."
+      "ar": "1944",
+      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Mike Tyson",
-      "starfsgrein": "boxari",
-      "ar": "1966"
+      "nafn": "Lady Diana Spencer",
+      "starfsgrein": "prinsessa af Wales",
+      "ar": "1961"
     },
     {
-      "nafn": "Michael Phelps",
-      "starfsgrein": "sundmaður",
-      "ar": "1985"
+      "nafn": "Carl Lewis",
+      "starfsgrein": "frjálsíþróttamaður",
+      "ar": "1961"
     },
     {
-      "nafn": "Lena Horne",
-      "starfsgrein": "söngkona og leikkona",
-      "ar": "1917"
+      "nafn": "Liv Tyler",
+      "starfsgrein": "leikkona",
+      "ar": "1977"
     }
   ],
   "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
-  "tonlistUK": "I'm Not In Love – 10cc (1975)",
-  "bio": "The Twilight Saga: Eclipse (2010)",
+  "tonlistUK": "I Want To Break Free – Queen (1984)",
+  "bio": "Terminator 2: Judgment Day (1991)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í óláni eða er óheppinn."
+    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Íslenski fálkinn getur lifað í allt að 20 ár í náttúrunni.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og finna ró í heimilinu. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
+  "vissir_thu": "Íslenska er eitt fárra tungumála sem hefur sérstakt orð yfir 'að týna' (að missa eitthvað) og 'að týnast' (að villast).",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 5 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Treystu innsæi þínu, það mun leiða þig rétta leið."
 }
