@@ -1,66 +1,62 @@
 {
-  "date": "2026-07-01",
-  "dagur": 1,
+  "date": "2026-07-02",
+  "dagur": 2,
   "manudur": "júlí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 182,
-  "sunrise": "03:06",
-  "sunset": "23:56",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 183,
+  "sunrise": "03:08",
+  "sunset": "23:54",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Kristján",
+  "nafnadagur": "Hjalti",
   "atburdir": [
     {
-      "ar": "1863",
-      "texti": "Orrustan við Gettysburg, ein mikilvægasta orrusta bandaríska borgarastríðsins, hófst."
-    },
-    {
-      "ar": "1916",
-      "texti": "Orrustan við Somme hófst í Fyrri heimsstyrjöldinni, ein blóðugasta orrusta mannkynssögunnar."
+      "ar": "1776",
+      "texti": "Annar meginlandsþingið samþykkti sjálfstæðisyfirlýsingu Bandaríkjanna."
     },
     {
       "ar": "1962",
-      "texti": "Rúanda og Búrúndí öðluðust sjálfstæði frá Belgíu."
+      "texti": "Walmart opnaði sína fyrstu verslun í Rogers, Arkansas."
     },
     {
-      "ar": "1997",
-      "texti": "Hong Kong var afhent Kína af Bretlandi."
+      "ar": "1964",
+      "texti": "Bandaríkjaforseti Lyndon B. Johnson undirritaði lög um borgaraleg réttindi."
     },
     {
-      "ar": "2013",
-      "texti": "Króatía gerðist aðili að Evrópusambandinu."
+      "ar": "2008",
+      "texti": "Ingrid Betancourt, kólumbískur stjórnmálamaður, var bjargað úr haldi FARC eftir sex ár."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Sveinn Björnsson var kjörinn fyrsti forseti Íslands."
+      "ar": "1980",
+      "texti": "Vigdís Finnbogadóttir var kjörin forseti Íslands, fyrst kvenna í heiminum til að verða lýðræðislega kjörinn þjóðhöfðingi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Lady Diana Spencer",
-      "starfsgrein": "prinsessa af Wales",
-      "ar": "1961"
-    },
-    {
-      "nafn": "Carl Lewis",
-      "starfsgrein": "frjálsíþróttamaður",
-      "ar": "1961"
-    },
-    {
-      "nafn": "Liv Tyler",
+      "nafn": "Margot Robbie",
       "starfsgrein": "leikkona",
-      "ar": "1977"
+      "ar": "1990"
+    },
+    {
+      "nafn": "Lindsay Lohan",
+      "starfsgrein": "leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Larry David",
+      "starfsgrein": "grínisti / handritshöfundur",
+      "ar": "1947"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
-  "tonlistUK": "I Want To Break Free – Queen (1984)",
-  "bio": "Terminator 2: Judgment Day (1991)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
+  "tonlistUK": "I Want You Back – The Jackson 5 (1970)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Íslenska er eitt fárra tungumála sem hefur sérstakt orð yfir 'að týna' (að missa eitthvað) og 'að týnast' (að villast).",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 5 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Treystu innsæi þínu, það mun leiða þig rétta leið."
+  "vissir_thu": "Árið 1908 var fyrsta bílnúmerið gefið út á Íslandi, en það var númerið „R-1“ og var á bíl sem var í eigu Reykjavíkurbæjar.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að láta ekki fortíðina draga þig niður."
 }
