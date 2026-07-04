@@ -1,62 +1,66 @@
 {
-  "date": "2026-07-02",
-  "dagur": 2,
+  "date": "2026-07-04",
+  "dagur": 4,
   "manudur": "júlí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 183,
-  "sunrise": "03:08",
-  "sunset": "23:54",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 185,
+  "sunrise": "03:12",
+  "sunset": "23:51",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Hjalti",
+  "nafnadagur": "Arna",
   "atburdir": [
     {
       "ar": "1776",
-      "texti": "Annar meginlandsþingið samþykkti sjálfstæðisyfirlýsingu Bandaríkjanna."
+      "texti": "Bandaríkin lýsa yfir sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1962",
-      "texti": "Walmart opnaði sína fyrstu verslun í Rogers, Arkansas."
+      "ar": "1826",
+      "texti": "Tveir af stofnfeðrum Bandaríkjanna, John Adams og Thomas Jefferson, létust á sama degi."
     },
     {
-      "ar": "1964",
-      "texti": "Bandaríkjaforseti Lyndon B. Johnson undirritaði lög um borgaraleg réttindi."
+      "ar": "1946",
+      "texti": "Filippseyjar fengu fullt sjálfstæði frá Bandaríkjunum."
     },
     {
-      "ar": "2008",
-      "texti": "Ingrid Betancourt, kólumbískur stjórnmálamaður, var bjargað úr haldi FARC eftir sex ár."
+      "ar": "1960",
+      "texti": "Fáni 50 stjarna var formlega tekinn í notkun í Bandaríkjunum."
+    },
+    {
+      "ar": "1997",
+      "texti": "Mars Pathfinder geimfarið lenti á Mars."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1980",
-      "texti": "Vigdís Finnbogadóttir var kjörin forseti Íslands, fyrst kvenna í heiminum til að verða lýðræðislega kjörinn þjóðhöfðingi."
+      "ar": "1930",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Ísland í dag“, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Margot Robbie",
-      "starfsgrein": "leikkona",
-      "ar": "1990"
+      "nafn": "Louis Armstrong",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1901"
     },
     {
-      "nafn": "Lindsay Lohan",
+      "nafn": "Gina Lollobrigida",
       "starfsgrein": "leikkona",
-      "ar": "1986"
+      "ar": "1927"
     },
     {
-      "nafn": "Larry David",
-      "starfsgrein": "grínisti / handritshöfundur",
-      "ar": "1947"
+      "nafn": "Bill Withers",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1938"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1970)",
-  "tonlistUK": "I Want You Back – The Jackson 5 (1970)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "Born in the U.S.A. – Bruce Springsteen (1984)",
+  "tonlistUK": "Don't Stop Believin' – Journey (1981)",
+  "bio": "Independence Day (1996)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "þjóðhátíð",
+    "skyring": "Hátíð sem haldin er til að minnast mikilvægs atburðar í sögu þjóðar."
   },
-  "vissir_thu": "Árið 1908 var fyrsta bílnúmerið gefið út á Íslandi, en það var númerið „R-1“ og var á bíl sem var í eigu Reykjavíkurbæjar.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að láta ekki fortíðina draga þig niður."
+  "vissir_thu": "Bandaríkin lýstu yfir sjálfstæði 2. júlí, en sjálfstæðisyfirlýsingin var samþykkt og undirrituð 4. júlí.",
+  "verdlag": "Árið 1970 kostaði mjólk um 10 kr. lítrinn á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Njóttu þess að skapa notalega stund með ástvinum þínum."
 }
