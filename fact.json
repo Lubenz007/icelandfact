@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-04",
-  "dagur": 4,
+  "date": "2026-07-05",
+  "dagur": 5,
   "manudur": "júlí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 185,
-  "sunrise": "03:12",
-  "sunset": "23:51",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 186,
+  "sunrise": "03:15",
+  "sunset": "23:49",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Arna",
+  "nafnadagur": "Hulda",
   "atburdir": [
     {
-      "ar": "1776",
-      "texti": "Bandaríkin lýsa yfir sjálfstæði frá Bretlandi."
+      "ar": "1811",
+      "texti": "Venesúela lýsir yfir sjálfstæði frá Spáni."
     },
     {
-      "ar": "1826",
-      "texti": "Tveir af stofnfeðrum Bandaríkjanna, John Adams og Thomas Jefferson, létust á sama degi."
+      "ar": "1865",
+      "texti": "Fyrstu takmörkin á hraða ökutækja voru sett í Bretlandi, 2 mílur á klukkustund í þéttbýli."
     },
     {
       "ar": "1946",
-      "texti": "Filippseyjar fengu fullt sjálfstæði frá Bandaríkjunum."
+      "texti": "Bikíníið var kynnt til sögunnar í París."
     },
     {
-      "ar": "1960",
-      "texti": "Fáni 50 stjarna var formlega tekinn í notkun í Bandaríkjunum."
+      "ar": "1950",
+      "texti": "Kóreustríðið: Fyrsta bardaga milli bandarískra og norður-kóreskra hersveita átti sér stað."
     },
     {
-      "ar": "1997",
-      "texti": "Mars Pathfinder geimfarið lenti á Mars."
+      "ar": "1975",
+      "texti": "Grænhöfðaeyjar öðlast sjálfstæði frá Portúgal."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1930",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Ísland í dag“, var frumsýnd."
+      "texti": "Alþingishátíðin á Þingvöllum hófst, í tilefni af 1000 ára afmæli Alþingis."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Louis Armstrong",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1901"
+      "nafn": "P. T. Barnum",
+      "starfsgrein": "sirkusstjóri",
+      "ar": "1810"
     },
     {
-      "nafn": "Gina Lollobrigida",
+      "nafn": "Jean Cocteau",
+      "starfsgrein": "rithöfundur og kvikmyndagerðarmaður",
+      "ar": "1889"
+    },
+    {
+      "nafn": "Eva Green",
       "starfsgrein": "leikkona",
-      "ar": "1927"
-    },
-    {
-      "nafn": "Bill Withers",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1938"
+      "ar": "1980"
     }
   ],
-  "tonlistUSA": "Born in the U.S.A. – Bruce Springsteen (1984)",
-  "tonlistUK": "Don't Stop Believin' – Journey (1981)",
-  "bio": "Independence Day (1996)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
+  "tonlistUK": "I'm Not In Love – 10cc (1975)",
+  "bio": "Terminator 2: Judgment Day (1991)",
   "ord_dagsins": {
-    "ord": "þjóðhátíð",
-    "skyring": "Hátíð sem haldin er til að minnast mikilvægs atburðar í sögu þjóðar."
+    "ord": "fimbulfamb",
+    "skyring": "Merkingarlaust eða óskiljanlegt tal; bull eða vitleysa."
   },
-  "vissir_thu": "Bandaríkin lýstu yfir sjálfstæði 2. júlí, en sjálfstæðisyfirlýsingin var samþykkt og undirrituð 4. júlí.",
-  "verdlag": "Árið 1970 kostaði mjólk um 10 kr. lítrinn á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Njóttu þess að skapa notalega stund með ástvinum þínum."
+  "vissir_thu": "Árið 1996 var fyrsta klónaða spendýrið, kindin Dolly, fædd í Skotlandi þennan dag.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 7 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að heimilinu og þeim sem þér þykir vænt um. Mundu að smá dekur getur gert kraftaverk fyrir sálina."
 }
