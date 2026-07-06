@@ -1,66 +1,66 @@
 {
-  "date": "2026-07-05",
-  "dagur": 5,
+  "date": "2026-07-06",
+  "dagur": 6,
   "manudur": "júlí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 186,
-  "sunrise": "03:15",
-  "sunset": "23:49",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 187,
+  "sunrise": "03:17",
+  "sunset": "23:47",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Hulda",
+  "nafnadagur": "Tómas",
   "atburdir": [
     {
-      "ar": "1811",
-      "texti": "Venesúela lýsir yfir sjálfstæði frá Spáni."
+      "ar": "1415",
+      "texti": "Tékkneski siðbótarklerkurinn Jan Hus var brenndur á báli fyrir villutrú."
     },
     {
-      "ar": "1865",
-      "texti": "Fyrstu takmörkin á hraða ökutækja voru sett í Bretlandi, 2 mílur á klukkustund í þéttbýli."
+      "ar": "1885",
+      "texti": "Louis Pasteur prófaði bóluefni sitt gegn hundaæði á Joseph Meister, níu ára dreng sem hafði verið bitinn af hundaæðum hundi."
     },
     {
-      "ar": "1946",
-      "texti": "Bikíníið var kynnt til sögunnar í París."
+      "ar": "1957",
+      "texti": "Althea Gibson varð fyrsti svarti tennisleikarinn til að vinna Wimbledon-mótið."
     },
     {
-      "ar": "1950",
-      "texti": "Kóreustríðið: Fyrsta bardaga milli bandarískra og norður-kóreskra hersveita átti sér stað."
+      "ar": "1964",
+      "texti": "Malaví lýsti yfir sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1975",
-      "texti": "Grænhöfðaeyjar öðlast sjálfstæði frá Portúgal."
+      "ar": "1990",
+      "texti": "Evrópusambandið afnam vegabréfaeftirlit á milli landa sinna."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1930",
-      "texti": "Alþingishátíðin á Þingvöllum hófst, í tilefni af 1000 ára afmæli Alþingis."
+      "ar": "1963",
+      "texti": "Fyrsta sjónvarpsútsending Ríkisútvarpsins fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "P. T. Barnum",
-      "starfsgrein": "sirkusstjóri",
-      "ar": "1810"
+      "nafn": "Frida Kahlo",
+      "starfsgrein": "listmálari",
+      "ar": "1907"
     },
     {
-      "nafn": "Jean Cocteau",
-      "starfsgrein": "rithöfundur og kvikmyndagerðarmaður",
-      "ar": "1889"
+      "nafn": "George W. Bush",
+      "starfsgrein": "fyrrverandi forseti Bandaríkjanna",
+      "ar": "1946"
     },
     {
-      "nafn": "Eva Green",
-      "starfsgrein": "leikkona",
-      "ar": "1980"
+      "nafn": "Sylvester Stallone",
+      "starfsgrein": "leikari",
+      "ar": "1946"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
-  "tonlistUK": "I'm Not In Love – 10cc (1975)",
-  "bio": "Terminator 2: Judgment Day (1991)",
+  "tonlistUSA": "Love Is Blue – Paul Mauriat (1968)",
+  "tonlistUK": "I'm a Believer – The Monkees (1967)",
+  "bio": "Forrest Gump (1994)",
   "ord_dagsins": {
-    "ord": "fimbulfamb",
-    "skyring": "Merkingarlaust eða óskiljanlegt tal; bull eða vitleysa."
+    "ord": "glópagull",
+    "skyring": "Eitthvað sem virðist verðmætt en reynist vera einskis virði."
   },
-  "vissir_thu": "Árið 1996 var fyrsta klónaða spendýrið, kindin Dolly, fædd í Skotlandi þennan dag.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 7 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að heimilinu og þeim sem þér þykir vænt um. Mundu að smá dekur getur gert kraftaverk fyrir sálina."
+  "vissir_thu": "Árið 1888 var fyrsta opinbera knattspyrnudeildin stofnuð í Englandi, The Football League.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 24 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig í mikilvægum ákvörðunum."
 }
