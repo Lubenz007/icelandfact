@@ -1,66 +1,62 @@
 {
-  "date": "2026-07-06",
-  "dagur": 6,
+  "date": "2026-07-07",
+  "dagur": 7,
   "manudur": "júlí",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 187,
-  "sunrise": "03:17",
-  "sunset": "23:47",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 188,
+  "sunrise": "03:19",
+  "sunset": "23:44",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Tómas",
+  "nafnadagur": "Anton",
   "atburdir": [
     {
-      "ar": "1415",
-      "texti": "Tékkneski siðbótarklerkurinn Jan Hus var brenndur á báli fyrir villutrú."
+      "ar": "1807",
+      "texti": "Friðarsamningarnir í Tilsit voru undirritaðir milli Frakklands og Rússlands."
     },
     {
-      "ar": "1885",
-      "texti": "Louis Pasteur prófaði bóluefni sitt gegn hundaæði á Joseph Meister, níu ára dreng sem hafði verið bitinn af hundaæðum hundi."
+      "ar": "1937",
+      "texti": "Atvikið við Marco Polo brúna markar upphaf seinna stríðs Kína og Japans."
     },
     {
-      "ar": "1957",
-      "texti": "Althea Gibson varð fyrsti svarti tennisleikarinn til að vinna Wimbledon-mótið."
+      "ar": "1978",
+      "texti": "Salómonseyjar fengu sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1964",
-      "texti": "Malaví lýsti yfir sjálfstæði frá Bretlandi."
-    },
-    {
-      "ar": "1990",
-      "texti": "Evrópusambandið afnam vegabréfaeftirlit á milli landa sinna."
+      "ar": "1991",
+      "texti": "Brionsamkomulagið var undirritað, sem batt enda á tíu daga stríðið í Slóveníu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1963",
-      "texti": "Fyrsta sjónvarpsútsending Ríkisútvarpsins fór fram."
+      "ar": "1968",
+      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Frida Kahlo",
-      "starfsgrein": "listmálari",
-      "ar": "1907"
+      "nafn": "Ringo Starr",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1940"
     },
     {
-      "nafn": "George W. Bush",
-      "starfsgrein": "fyrrverandi forseti Bandaríkjanna",
-      "ar": "1946"
+      "nafn": "Michelle Kwan",
+      "starfsgrein": "listskautari",
+      "ar": "1980"
     },
     {
-      "nafn": "Sylvester Stallone",
-      "starfsgrein": "leikari",
-      "ar": "1946"
+      "nafn": "Sofía Vergara",
+      "starfsgrein": "leikkona",
+      "ar": "1972"
     }
   ],
   "tonlistUSA": "Love Is Blue – Paul Mauriat (1968)",
   "tonlistUK": "I'm a Believer – The Monkees (1967)",
-  "bio": "Forrest Gump (1994)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "glópagull",
-    "skyring": "Eitthvað sem virðist verðmætt en reynist vera einskis virði."
+    "ord": "hjallur",
+    "skyring": "Hjallur er lítil geymsla eða skemma, oft notuð til að þurrka fisk."
   },
-  "vissir_thu": "Árið 1888 var fyrsta opinbera knattspyrnudeildin stofnuð í Englandi, The Football League.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 24 kr. á Íslandi.",
+  "vissir_thu": "Vissir þú að elsta starfandi þing heims, Alþingi, var stofnað á Þingvöllum árið 930?",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
   "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig í mikilvægum ákvörðunum."
 }
