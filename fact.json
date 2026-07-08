@@ -1,62 +1,58 @@
 {
-  "date": "2026-07-07",
-  "dagur": 7,
+  "date": "2026-07-08",
+  "dagur": 8,
   "manudur": "júlí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 188,
-  "sunrise": "03:19",
-  "sunset": "23:44",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 189,
+  "sunrise": "03:22",
+  "sunset": "23:42",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Anton",
+  "nafnadagur": "Edgar",
   "atburdir": [
     {
-      "ar": "1807",
-      "texti": "Friðarsamningarnir í Tilsit voru undirritaðir milli Frakklands og Rússlands."
+      "ar": "1889",
+      "texti": "Wall Street Journal hóf útgáfu í New York."
     },
     {
-      "ar": "1937",
-      "texti": "Atvikið við Marco Polo brúna markar upphaf seinna stríðs Kína og Japans."
+      "ar": "1994",
+      "texti": "Kim Il-sung, leiðtogi Norður-Kóreu, lést."
     },
     {
-      "ar": "1978",
-      "texti": "Salómonseyjar fengu sjálfstæði frá Bretlandi."
-    },
-    {
-      "ar": "1991",
-      "texti": "Brionsamkomulagið var undirritað, sem batt enda á tíu daga stríðið í Slóveníu."
+      "ar": "2011",
+      "texti": "Geimferjan Atlantis var skotin á loft í síðasta sinn."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1968",
-      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
+      "ar": "1912",
+      "texti": "Fyrsta kvikmyndasýningin fór fram á Akureyri."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ringo Starr",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1940"
-    },
-    {
-      "nafn": "Michelle Kwan",
-      "starfsgrein": "listskautari",
-      "ar": "1980"
-    },
-    {
-      "nafn": "Sofía Vergara",
+      "nafn": "Anjelica Huston",
       "starfsgrein": "leikkona",
-      "ar": "1972"
+      "ar": "1951"
+    },
+    {
+      "nafn": "Kevin Bacon",
+      "starfsgrein": "leikari",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Jaden Smith",
+      "starfsgrein": "leikari / tónlistarmaður",
+      "ar": "1998"
     }
   ],
-  "tonlistUSA": "Love Is Blue – Paul Mauriat (1968)",
-  "tonlistUK": "I'm a Believer – The Monkees (1967)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "Rock Around the Clock – Bill Haley & His Comets (1955)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "bio": "Ghostbusters (1984)",
   "ord_dagsins": {
-    "ord": "hjallur",
-    "skyring": "Hjallur er lítil geymsla eða skemma, oft notuð til að þurrka fisk."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast handverk eða list."
   },
-  "vissir_thu": "Vissir þú að elsta starfandi þing heims, Alþingi, var stofnað á Þingvöllum árið 930?",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig í mikilvægum ákvörðunum."
+  "vissir_thu": "Árið 1889 var Eiffelturninn opnaður almenningi í París.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að heimili og fjölskyldu. Mundu að smáatriðin skipta máli og gefðu þér tíma til að njóta augnabliksins."
 }
