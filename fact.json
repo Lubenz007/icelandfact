@@ -1,58 +1,58 @@
 {
-  "date": "2026-07-08",
-  "dagur": 8,
+  "date": "2026-07-09",
+  "dagur": 9,
   "manudur": "júlí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 189,
-  "sunrise": "03:22",
-  "sunset": "23:42",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 190,
+  "sunrise": "03:25",
+  "sunset": "23:40",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Edgar",
+  "nafnadagur": "Jóna",
   "atburdir": [
     {
-      "ar": "1889",
-      "texti": "Wall Street Journal hóf útgáfu í New York."
+      "ar": "1816",
+      "texti": "Argentína lýsir yfir sjálfstæði frá Spáni."
     },
     {
-      "ar": "1994",
-      "texti": "Kim Il-sung, leiðtogi Norður-Kóreu, lést."
+      "ar": "1955",
+      "texti": "Manifestið frá Russell-Einstein er gefið út, þar sem varað er við hættum kjarnorkuvopna."
     },
     {
       "ar": "2011",
-      "texti": "Geimferjan Atlantis var skotin á loft í síðasta sinn."
+      "texti": "Suður-Súdan lýsir yfir sjálfstæði frá Súdan."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1912",
-      "texti": "Fyrsta kvikmyndasýningin fór fram á Akureyri."
+      "ar": "1940",
+      "texti": "Breskir hermenn hernámu Færeyjar."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Anjelica Huston",
-      "starfsgrein": "leikkona",
-      "ar": "1951"
-    },
-    {
-      "nafn": "Kevin Bacon",
+      "nafn": "Tom Hanks",
       "starfsgrein": "leikari",
-      "ar": "1958"
+      "ar": "1956"
     },
     {
-      "nafn": "Jaden Smith",
-      "starfsgrein": "leikari / tónlistarmaður",
-      "ar": "1998"
+      "nafn": "Courtney Love",
+      "starfsgrein": "tónlistarmaður / leikari",
+      "ar": "1964"
+    },
+    {
+      "nafn": "O. J. Simpson",
+      "starfsgrein": "ruglíþróttamaður / leikari",
+      "ar": "1947"
     }
   ],
   "tonlistUSA": "Rock Around the Clock – Bill Haley & His Comets (1955)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
-  "bio": "Ghostbusters (1984)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
+  "bio": "A Clockwork Orange (1971)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í að gera eitthvað vel, oftast handverk eða list."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1889 var Eiffelturninn opnaður almenningi í París.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að heimili og fjölskyldu. Mundu að smáatriðin skipta máli og gefðu þér tíma til að njóta augnabliksins."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd var Sögur úr Borginni, frumsýnd árið 1949.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að sjálfum þér og þeim sem þér þykir vænt um. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
 }
