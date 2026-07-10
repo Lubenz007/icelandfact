@@ -1,58 +1,66 @@
 {
-  "date": "2026-07-09",
-  "dagur": 9,
+  "date": "2026-07-10",
+  "dagur": 10,
   "manudur": "júlí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 190,
-  "sunrise": "03:25",
-  "sunset": "23:40",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 191,
+  "sunrise": "03:27",
+  "sunset": "23:37",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Jóna",
+  "nafnadagur": "Amalía",
   "atburdir": [
     {
-      "ar": "1816",
-      "texti": "Argentína lýsir yfir sjálfstæði frá Spáni."
+      "ar": "1940",
+      "texti": "Orrustan um Bretland hófst með árásum Luftwaffe á skipaflutninga og flugvelli í Bretlandi."
     },
     {
-      "ar": "1955",
-      "texti": "Manifestið frá Russell-Einstein er gefið út, þar sem varað er við hættum kjarnorkuvopna."
+      "ar": "1962",
+      "texti": "Fyrsti samskiptagervihnötturinn, Telstar, var skotið á loft."
     },
     {
-      "ar": "2011",
-      "texti": "Suður-Súdan lýsir yfir sjálfstæði frá Súdan."
+      "ar": "1985",
+      "texti": "Frönsku leyniþjónustunni var kennt um að sökkva skipinu Rainbow Warrior í höfninni í Auckland á Nýja-Sjálandi."
+    },
+    {
+      "ar": "1991",
+      "texti": "Boris Jeltsín var kjörinn fyrsti forseti Rússlands."
+    },
+    {
+      "ar": "1997",
+      "texti": "Vísindamenn í Bretlandi tilkynntu að þeir hefðu klónað sauðfé, Dolly, úr fullorðinni frumu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Breskir hermenn hernámu Færeyjar."
+      "ar": "1925",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsbóndinn á Stokkum“, var frumsýnd í Reykjavík."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Tom Hanks",
-      "starfsgrein": "leikari",
-      "ar": "1956"
+      "nafn": "Nikola Tesla",
+      "starfsgrein": "uppfinningamaður",
+      "ar": "1856"
     },
     {
-      "nafn": "Courtney Love",
-      "starfsgrein": "tónlistarmaður / leikari",
-      "ar": "1964"
+      "nafn": "Marcel Proust",
+      "starfsgrein": "rithöfundur",
+      "ar": "1871"
     },
     {
-      "nafn": "O. J. Simpson",
-      "starfsgrein": "ruglíþróttamaður / leikari",
-      "ar": "1947"
+      "nafn": "Sofia Vergara",
+      "starfsgrein": "leikkona",
+      "ar": "1972"
     }
   ],
-  "tonlistUSA": "Rock Around the Clock – Bill Haley & His Comets (1955)",
-  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
-  "bio": "A Clockwork Orange (1971)",
+  "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
+  "tonlistUK": "Don't Go Breaking My Heart – Elton John & Kiki Dee (1976)",
+  "bio": "Forrest Gump (1994)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd var Sögur úr Borginni, frumsýnd árið 1949.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að sjálfum þér og þeim sem þér þykir vænt um. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
+  "vissir_thu": "Árið 1889 var Eiffelturninn opnaður almenningi í París.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 2,50 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Leyfðu tilfinningunum að leiða þig og vertu opinn fyrir nýjum hugmyndum."
 }
