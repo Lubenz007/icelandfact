@@ -1,66 +1,58 @@
 {
-  "date": "2026-07-10",
-  "dagur": 10,
+  "date": "2026-07-11",
+  "dagur": 11,
   "manudur": "júlí",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 191,
-  "sunrise": "03:27",
-  "sunset": "23:37",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 192,
+  "sunrise": "03:30",
+  "sunset": "23:35",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Amalía",
+  "nafnadagur": "Búi",
   "atburdir": [
     {
-      "ar": "1940",
-      "texti": "Orrustan um Bretland hófst með árásum Luftwaffe á skipaflutninga og flugvelli í Bretlandi."
+      "ar": "1789",
+      "texti": "Borgaraleg ólga byrjar í París, Frakklandi, sem leiðir til árásar á Bastilluna þremur dögum síðar."
     },
     {
-      "ar": "1962",
-      "texti": "Fyrsti samskiptagervihnötturinn, Telstar, var skotið á loft."
+      "ar": "1960",
+      "texti": "Harper Lee gefur út skáldsöguna sína „To Kill a Mockingbird“."
     },
     {
-      "ar": "1985",
-      "texti": "Frönsku leyniþjónustunni var kennt um að sökkva skipinu Rainbow Warrior í höfninni í Auckland á Nýja-Sjálandi."
-    },
-    {
-      "ar": "1991",
-      "texti": "Boris Jeltsín var kjörinn fyrsti forseti Rússlands."
-    },
-    {
-      "ar": "1997",
-      "texti": "Vísindamenn í Bretlandi tilkynntu að þeir hefðu klónað sauðfé, Dolly, úr fullorðinni frumu."
+      "ar": "1979",
+      "texti": "Fyrsta geimstöð NASA, Skylab, fellur til jarðar yfir Indlandshafi og Vestur-Ástralíu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1925",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsbóndinn á Stokkum“, var frumsýnd í Reykjavík."
+      "ar": "1944",
+      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tekur við völdum, undir forsæti Björns Þórðarsonar."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Nikola Tesla",
-      "starfsgrein": "uppfinningamaður",
-      "ar": "1856"
+      "nafn": "Yul Brynner",
+      "starfsgrein": "leikari",
+      "ar": "1920"
     },
     {
-      "nafn": "Marcel Proust",
-      "starfsgrein": "rithöfundur",
-      "ar": "1871"
+      "nafn": "Giorgio Armani",
+      "starfsgrein": "fatahönnuður",
+      "ar": "1934"
     },
     {
-      "nafn": "Sofia Vergara",
-      "starfsgrein": "leikkona",
-      "ar": "1972"
+      "nafn": "Richie Sambora",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1959"
     }
   ],
   "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
   "tonlistUK": "Don't Go Breaking My Heart – Elton John & Kiki Dee (1976)",
-  "bio": "Forrest Gump (1994)",
+  "bio": "The Godfather (1972)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til trékarls eða tréútskurðar."
   },
-  "vissir_thu": "Árið 1889 var Eiffelturninn opnaður almenningi í París.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 2,50 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Leyfðu tilfinningunum að leiða þig og vertu opinn fyrir nýjum hugmyndum."
+  "vissir_thu": "Fyrsta myndin sem var sýnd í geimnum var „2001: A Space Odyssey“ árið 1968, um borð í Apollo 8 geimfarinu.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 15 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að samböndum og heimili. Leyfðu innsæinu að leiða þig og vertu opinn fyrir óvæntum tækifærum."
 }
