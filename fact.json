@@ -1,58 +1,54 @@
 {
-  "date": "2026-07-11",
-  "dagur": 11,
+  "date": "2026-07-12",
+  "dagur": 12,
   "manudur": "júlí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 192,
-  "sunrise": "03:30",
-  "sunset": "23:35",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 193,
+  "sunrise": "03:33",
+  "sunset": "23:32",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Búi",
+  "nafnadagur": "Hermundur",
   "atburdir": [
     {
-      "ar": "1789",
-      "texti": "Borgaraleg ólga byrjar í París, Frakklandi, sem leiðir til árásar á Bastilluna þremur dögum síðar."
+      "ar": "1962",
+      "texti": "Fyrsta gervihnattasjónvarpssendingin fór fram yfir Atlantshafið með Telstar gervihnöttnum."
     },
     {
-      "ar": "1960",
-      "texti": "Harper Lee gefur út skáldsöguna sína „To Kill a Mockingbird“."
-    },
-    {
-      "ar": "1979",
-      "texti": "Fyrsta geimstöð NASA, Skylab, fellur til jarðar yfir Indlandshafi og Vestur-Ástralíu."
+      "ar": "1998",
+      "texti": "Frakkar unnu Heimsmeistaramótið í knattspyrnu á heimavelli eftir 3-0 sigur á Brasilíu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tekur við völdum, undir forsæti Björns Þórðarsonar."
+      "ar": "1986",
+      "texti": "Hafnarfjarðargangan, ein stærsta friðarganga á Íslandi, fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Yul Brynner",
-      "starfsgrein": "leikari",
-      "ar": "1920"
+      "nafn": "Bill Cosby",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1937"
     },
     {
-      "nafn": "Giorgio Armani",
-      "starfsgrein": "fatahönnuður",
-      "ar": "1934"
+      "nafn": "George W. Bush",
+      "starfsgrein": "fyrrverandi Bandaríkjaforseti",
+      "ar": "1946"
     },
     {
-      "nafn": "Richie Sambora",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1959"
+      "nafn": "Malala Yousafzai",
+      "starfsgrein": "aðgerðasinni og Nóbelsverðlaunahafi",
+      "ar": "1997"
     }
   ],
   "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
-  "tonlistUK": "Don't Go Breaking My Heart – Elton John & Kiki Dee (1976)",
-  "bio": "The Godfather (1972)",
+  "tonlistUK": "Don't Stop Believin' – Journey (1981)",
+  "bio": "Die Hard (1988)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til trékarls eða tréútskurðar."
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta myndin sem var sýnd í geimnum var „2001: A Space Odyssey“ árið 1968, um borð í Apollo 8 geimfarinu.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 15 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að samböndum og heimili. Leyfðu innsæinu að leiða þig og vertu opinn fyrir óvæntum tækifærum."
+  "vissir_thu": "Rússland er stærra en Plútó að flatarmáli.",
+  "verdlag": "Árið 1980 kostaði einn líter af mjólk um 20 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningunum að leiða þig og finndu frið í kunnuglegu umhverfi."
 }
