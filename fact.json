@@ -1,54 +1,58 @@
 {
-  "date": "2026-07-12",
-  "dagur": 12,
+  "date": "2026-07-13",
+  "dagur": 13,
   "manudur": "júlí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 193,
-  "sunrise": "03:33",
-  "sunset": "23:32",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 194,
+  "sunrise": "03:36",
+  "sunset": "23:30",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Hermundur",
+  "nafnadagur": "Maríanna",
   "atburdir": [
     {
-      "ar": "1962",
-      "texti": "Fyrsta gervihnattasjónvarpssendingin fór fram yfir Atlantshafið með Telstar gervihnöttnum."
+      "ar": "1793",
+      "texti": "Franska byltingarkonan Charlotte Corday myrðir Jean-Paul Marat í baðkari sínu."
     },
     {
-      "ar": "1998",
-      "texti": "Frakkar unnu Heimsmeistaramótið í knattspyrnu á heimavelli eftir 3-0 sigur á Brasilíu."
+      "ar": "1930",
+      "texti": "Fyrsta heimsmeistarakeppnin í knattspyrnu hefst í Úrúgvæ."
+    },
+    {
+      "ar": "1985",
+      "texti": "Live Aid tónleikarnir fara fram í London og Fíladelfíu til styrktar hungursneyðinni í Eþíópíu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1986",
-      "texti": "Hafnarfjarðargangan, ein stærsta friðarganga á Íslandi, fór fram."
+      "ar": "1939",
+      "texti": "Fyrsta flugvél Loftleiða, Stígur, kemur til landsins."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Bill Cosby",
-      "starfsgrein": "leikari og grínisti",
-      "ar": "1937"
+      "nafn": "Harrison Ford",
+      "starfsgrein": "leikari",
+      "ar": "1942"
     },
     {
-      "nafn": "George W. Bush",
-      "starfsgrein": "fyrrverandi Bandaríkjaforseti",
-      "ar": "1946"
+      "nafn": "Patrick Stewart",
+      "starfsgrein": "leikari",
+      "ar": "1940"
     },
     {
-      "nafn": "Malala Yousafzai",
-      "starfsgrein": "aðgerðasinni og Nóbelsverðlaunahafi",
-      "ar": "1997"
+      "nafn": "Ernő Rubik",
+      "starfsgrein": "uppfinningamaður",
+      "ar": "1944"
     }
   ],
-  "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
-  "tonlistUK": "Don't Stop Believin' – Journey (1981)",
-  "bio": "Die Hard (1988)",
+  "tonlistUSA": "Enginn staðfestur atburður",
+  "tonlistUK": "Enginn staðfestur atburður",
+  "bio": "Enginn staðfestur atburður",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "skyring": "Þrándur er gamalt íslenskt orð sem merkir trébolur eða trjástofn."
   },
-  "vissir_thu": "Rússland er stærra en Plútó að flatarmáli.",
-  "verdlag": "Árið 1980 kostaði einn líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningunum að leiða þig og finndu frið í kunnuglegu umhverfi."
+  "vissir_thu": "Vissir þú að elsta starfandi þing heims, Alþingi, var stofnað á Þingvöllum árið 930?",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig og vertu opinn fyrir óvæntum tækifærum."
 }
