@@ -1,58 +1,70 @@
 {
-  "date": "2026-07-13",
-  "dagur": 13,
+  "date": "2026-07-14",
+  "dagur": 14,
   "manudur": "júlí",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 194,
-  "sunrise": "03:36",
-  "sunset": "23:30",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 195,
+  "sunrise": "03:39",
+  "sunset": "23:27",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Maríanna",
+  "nafnadagur": "Hermína",
   "atburdir": [
     {
-      "ar": "1793",
-      "texti": "Franska byltingarkonan Charlotte Corday myrðir Jean-Paul Marat í baðkari sínu."
+      "ar": "1789",
+      "texti": "Frakkar réðust á Bastilluna í París, sem markar upphaf frönsku byltingarinnar."
     },
     {
-      "ar": "1930",
-      "texti": "Fyrsta heimsmeistarakeppnin í knattspyrnu hefst í Úrúgvæ."
+      "ar": "1933",
+      "texti": "Allir stjórnmálaflokkar nema Nasistaflokkurinn voru bannaðir í Þýskalandi."
     },
     {
-      "ar": "1985",
-      "texti": "Live Aid tónleikarnir fara fram í London og Fíladelfíu til styrktar hungursneyðinni í Eþíópíu."
+      "ar": "1958",
+      "texti": "Byltingin í Írak: Konungsfjölskyldan var steypt af stóli og Írak var lýst lýðveldi."
+    },
+    {
+      "ar": "1969",
+      "texti": "Bandaríkin gáfu út nýja 50 senta mynt með mynd af Neil Armstrong."
+    },
+    {
+      "ar": "2015",
+      "texti": "Geimfarið New Horizons flaug framhjá Plútó og sendi fyrstu nærmyndir af dvergplánetunni."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1939",
-      "texti": "Fyrsta flugvél Loftleiða, Stígur, kemur til landsins."
+      "ar": "1930",
+      "texti": "Alþingi samþykkti lög um stofnun Háskóla Íslands."
+    },
+    {
+      "ar": "1960",
+      "texti": "Fyrsta íslenska sjónvarpsútsendingin fór fram á vegum Ríkisútvarpsins."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Harrison Ford",
-      "starfsgrein": "leikari",
-      "ar": "1942"
+      "nafn": "Gustav Klimt",
+      "starfsgrein": "listmálari",
+      "ar": "1862"
     },
     {
-      "nafn": "Patrick Stewart",
-      "starfsgrein": "leikari",
-      "ar": "1940"
+      "nafn": "Woody Guthrie",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1912"
     },
     {
-      "nafn": "Ernő Rubik",
-      "starfsgrein": "uppfinningamaður",
-      "ar": "1944"
+      "nafn": "Ingmar Bergman",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1918"
     }
   ],
-  "tonlistUSA": "Enginn staðfestur atburður",
-  "tonlistUK": "Enginn staðfestur atburður",
-  "bio": "Enginn staðfestur atburður",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
+  "bio": "Die Hard (1988)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem merkir trébolur eða trjástofn."
+    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til trébols eða trjádrumb."
   },
-  "vissir_thu": "Vissir þú að elsta starfandi þing heims, Alþingi, var stofnað á Þingvöllum árið 930?",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu innsæinu að leiða þig og vertu opinn fyrir óvæntum tækifærum."
+  "vissir_thu": "Bastillan var upphaflega byggð sem virki til að verja París en varð síðar fangelsi.",
+  "verdlag": "Árið 1970 kostaði lítri af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Leyfðu innsæinu að leiða þig í mikilvægum ákvörðunum."
 }
