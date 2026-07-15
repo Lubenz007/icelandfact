@@ -1,70 +1,62 @@
 {
-  "date": "2026-07-14",
-  "dagur": 14,
+  "date": "2026-07-15",
+  "dagur": 15,
   "manudur": "júlí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 195,
-  "sunrise": "03:39",
-  "sunset": "23:27",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 196,
+  "sunrise": "03:42",
+  "sunset": "23:24",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Hermína",
+  "nafnadagur": "Hulda",
   "atburdir": [
     {
-      "ar": "1789",
-      "texti": "Frakkar réðust á Bastilluna í París, sem markar upphaf frönsku byltingarinnar."
+      "ar": "1099",
+      "texti": "Fyrsta krossferðin: Krossfarar náðu Jerúsalem eftir umsátur."
     },
     {
-      "ar": "1933",
-      "texti": "Allir stjórnmálaflokkar nema Nasistaflokkurinn voru bannaðir í Þýskalandi."
+      "ar": "1799",
+      "texti": "Rosettasteinninn fannst af frönskum hermönnum í Egyptalandi."
     },
     {
-      "ar": "1958",
-      "texti": "Byltingin í Írak: Konungsfjölskyldan var steypt af stóli og Írak var lýst lýðveldi."
+      "ar": "1918",
+      "texti": "Önnur orrustan við Marne hófst, síðasta stóra sókn Þjóðverja í fyrri heimsstyrjöldinni."
     },
     {
-      "ar": "1969",
-      "texti": "Bandaríkin gáfu út nýja 50 senta mynt með mynd af Neil Armstrong."
-    },
-    {
-      "ar": "2015",
-      "texti": "Geimfarið New Horizons flaug framhjá Plútó og sendi fyrstu nærmyndir af dvergplánetunni."
+      "ar": "1997",
+      "texti": "Tískufrömuðurinn Gianni Versace var myrtur fyrir utan heimili sitt í Miami Beach."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1930",
-      "texti": "Alþingi samþykkti lög um stofnun Háskóla Íslands."
-    },
-    {
-      "ar": "1960",
-      "texti": "Fyrsta íslenska sjónvarpsútsendingin fór fram á vegum Ríkisútvarpsins."
+      "texti": "Alþingishátíðin á Þingvöllum hófst, í tilefni af 1000 ára afmæli Alþingis."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Gustav Klimt",
+      "nafn": "Rembrandt van Rijn",
       "starfsgrein": "listmálari",
-      "ar": "1862"
+      "ar": "1606"
     },
     {
-      "nafn": "Woody Guthrie",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1912"
+      "nafn": "Iris Murdoch",
+      "starfsgrein": "rithöfundur",
+      "ar": "1919"
     },
     {
-      "nafn": "Ingmar Bergman",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1918"
+      "nafn": "Linda Ronstadt",
+      "starfsgrein": "söngkona",
+      "ar": "1946"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
   "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
   "bio": "Die Hard (1988)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til trébols eða trjádrumb."
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Bastillan var upphaflega byggð sem virki til að verja París en varð síðar fangelsi.",
-  "verdlag": "Árið 1970 kostaði lítri af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Leyfðu innsæinu að leiða þig í mikilvægum ákvörðunum."
+  "vissir_thu": "Rosettasteinninn var lykillinn að því að ráða egypska híeróglýfur.",
+  "verdlag": "Árið 1970 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
 }
