@@ -1,62 +1,44 @@
 {
-  "date": "2026-07-15",
-  "dagur": 15,
+  "date": "2026-07-16",
+  "dagur": 16,
   "manudur": "júlí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 196,
-  "sunrise": "03:42",
-  "sunset": "23:24",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 197,
+  "sunrise": "03:45",
+  "sunset": "23:21",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Hulda",
+  "nafnadagur": "Hannes",
   "atburdir": [
     {
-      "ar": "1099",
-      "texti": "Fyrsta krossferðin: Krossfarar náðu Jerúsalem eftir umsátur."
+      "ar": "1945",
+      "texti": "Fyrsta tilraunasprenging kjarnorkusprengju, Trinity-prófið, fór fram í Nýju Mexíkó."
     },
     {
-      "ar": "1799",
-      "texti": "Rosettasteinninn fannst af frönskum hermönnum í Egyptalandi."
-    },
-    {
-      "ar": "1918",
-      "texti": "Önnur orrustan við Marne hófst, síðasta stóra sókn Þjóðverja í fyrri heimsstyrjöldinni."
-    },
-    {
-      "ar": "1997",
-      "texti": "Tískufrömuðurinn Gianni Versace var myrtur fyrir utan heimili sitt í Miami Beach."
+      "ar": "1969",
+      "texti": "Apollo 11 geimfarið var skotið á loft frá Kennedy geimferðamiðstöðinni í Flórída."
     }
   ],
-  "atburdir_island": [
-    {
-      "ar": "1930",
-      "texti": "Alþingishátíðin á Þingvöllum hófst, í tilefni af 1000 ára afmæli Alþingis."
-    }
-  ],
+  "atburdir_island": [],
   "afmaeli": [
     {
-      "nafn": "Rembrandt van Rijn",
-      "starfsgrein": "listmálari",
-      "ar": "1606"
+      "nafn": "Will Ferrell",
+      "starfsgrein": "leikari",
+      "ar": "1967"
     },
     {
-      "nafn": "Iris Murdoch",
-      "starfsgrein": "rithöfundur",
-      "ar": "1919"
-    },
-    {
-      "nafn": "Linda Ronstadt",
-      "starfsgrein": "söngkona",
-      "ar": "1946"
+      "nafn": "Katrina Kaif",
+      "starfsgrein": "leikkona",
+      "ar": "1983"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
-  "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
+  "tonlistUSA": "I'll Be There – The Jackson 5 (1970)",
+  "tonlistUK": "I'm Still Standing – Elton John (1983)",
   "bio": "Die Hard (1988)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Rosettasteinninn var lykillinn að því að ráða egypska híeróglýfur.",
-  "verdlag": "Árið 1970 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
+  "vissir_thu": "Árið 1969, þegar Apollo 11 var skotið á loft, var tölvukrafturinn um borð minni en í nútíma snjallsímum.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
 }
