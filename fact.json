@@ -1,44 +1,66 @@
 {
-  "date": "2026-07-16",
-  "dagur": 16,
+  "date": "2026-07-17",
+  "dagur": 17,
   "manudur": "júlí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 197,
-  "sunrise": "03:45",
-  "sunset": "23:21",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 198,
+  "sunrise": "03:48",
+  "sunset": "23:19",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Hannes",
+  "nafnadagur": "Valdimar",
   "atburdir": [
     {
-      "ar": "1945",
-      "texti": "Fyrsta tilraunasprenging kjarnorkusprengju, Trinity-prófið, fór fram í Nýju Mexíkó."
+      "ar": "1918",
+      "texti": "Rússneska keisarafjölskyldan, Romanov-fjölskyldan, var tekin af lífi af bolsévikum."
     },
     {
-      "ar": "1969",
-      "texti": "Apollo 11 geimfarið var skotið á loft frá Kennedy geimferðamiðstöðinni í Flórída."
+      "ar": "1945",
+      "texti": "Potsdamráðstefnan hófst, þar sem leiðtogar bandamanna ræddu framtíð Þýskalands eftir seinni heimsstyrjöldina."
+    },
+    {
+      "ar": "1955",
+      "texti": "Disneyland opnaði dyr sínar í Anaheim, Kaliforníu."
+    },
+    {
+      "ar": "1975",
+      "texti": "Apollo-Soyuz verkefnið hófst, fyrsta sameiginlega geimferð Bandaríkjanna og Sovétríkjanna."
+    },
+    {
+      "ar": "1996",
+      "texti": "TWA flug 800 sprakk í lofti yfir Atlantshafi skömmu eftir flugtak frá New York og allir um borð fórust."
     }
   ],
-  "atburdir_island": [],
+  "atburdir_island": [
+    {
+      "ar": "1930",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hvítur mávur“, var frumsýnd."
+    }
+  ],
   "afmaeli": [
     {
-      "nafn": "Will Ferrell",
+      "nafn": "Donald Sutherland",
       "starfsgrein": "leikari",
-      "ar": "1967"
+      "ar": "1935"
     },
     {
-      "nafn": "Katrina Kaif",
-      "starfsgrein": "leikkona",
-      "ar": "1983"
+      "nafn": "Angela Merkel",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Camilla, drottning Bretlands",
+      "starfsgrein": "drottning",
+      "ar": "1947"
     }
   ],
-  "tonlistUSA": "I'll Be There – The Jackson 5 (1970)",
-  "tonlistUK": "I'm Still Standing – Elton John (1983)",
-  "bio": "Die Hard (1988)",
+  "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
+  "tonlistUK": "Don't Go Breaking My Heart – Elton John & Kiki Dee (1976)",
+  "bio": "The Dark Knight Rises (2012)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hjallur",
+    "skyring": "Lítill kofi eða skúr, oft notaður til geymslu eða sem vinnustaður."
   },
-  "vissir_thu": "Árið 1969, þegar Apollo 11 var skotið á loft, var tölvukrafturinn um borð minni en í nútíma snjallsímum.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að einbeita þér að fjölskyldu og heimili. Mundu að hlusta á innsæi þitt, það mun leiða þig rétta leið."
+  "vissir_thu": "Árið 1955 var fyrsti McDonald's veitingastaðurinn opnaður af Ray Kroc í Des Plaines, Illinois, en bræðurnir McDonald höfðu þó opnað sinn fyrsta veitingastað árið 1940.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Treystu innsæi þínu, það mun leiða þig á rétta braut."
 }
