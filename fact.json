@@ -1,66 +1,62 @@
 {
-  "date": "2026-07-17",
-  "dagur": 17,
+  "date": "2026-07-18",
+  "dagur": 18,
   "manudur": "júlí",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 198,
-  "sunrise": "03:48",
-  "sunset": "23:19",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 199,
+  "sunrise": "03:51",
+  "sunset": "23:16",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Valdimar",
+  "nafnadagur": "Friðrik",
   "atburdir": [
     {
-      "ar": "1918",
-      "texti": "Rússneska keisarafjölskyldan, Romanov-fjölskyldan, var tekin af lífi af bolsévikum."
+      "ar": "64",
+      "texti": "Mikill eldur braust út í Róm og stóð í sex daga, eyðilagði stóran hluta borgarinnar."
     },
     {
-      "ar": "1945",
-      "texti": "Potsdamráðstefnan hófst, þar sem leiðtogar bandamanna ræddu framtíð Þýskalands eftir seinni heimsstyrjöldina."
+      "ar": "1925",
+      "texti": "Mein Kampf, sjálfsævisaga og pólitísk stefnuyfirlýsing Adolfs Hitlers, kom út."
     },
     {
-      "ar": "1955",
-      "texti": "Disneyland opnaði dyr sínar í Anaheim, Kaliforníu."
+      "ar": "1968",
+      "texti": "Intel Corporation var stofnað af Robert Noyce og Gordon Moore."
     },
     {
-      "ar": "1975",
-      "texti": "Apollo-Soyuz verkefnið hófst, fyrsta sameiginlega geimferð Bandaríkjanna og Sovétríkjanna."
-    },
-    {
-      "ar": "1996",
-      "texti": "TWA flug 800 sprakk í lofti yfir Atlantshafi skömmu eftir flugtak frá New York og allir um borð fórust."
+      "ar": "1994",
+      "texti": "Sprengjuárás var gerð á samkomuhús gyðinga í Buenos Aires, Argentínu, sem varð 85 manns að bana."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1930",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hvítur mávur“, var frumsýnd."
+      "ar": "1940",
+      "texti": "Breska herskipið HMS Fandango strandaði við Hvalsnes á Suðurnesjum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Donald Sutherland",
-      "starfsgrein": "leikari",
-      "ar": "1935"
-    },
-    {
-      "nafn": "Angela Merkel",
+      "nafn": "Nelson Mandela",
       "starfsgrein": "stjórnmálamaður",
-      "ar": "1954"
+      "ar": "1918"
     },
     {
-      "nafn": "Camilla, drottning Bretlands",
-      "starfsgrein": "drottning",
-      "ar": "1947"
+      "nafn": "Richard Branson",
+      "starfsgrein": "kaupsýslumaður",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Vin Diesel",
+      "starfsgrein": "leikari",
+      "ar": "1967"
     }
   ],
   "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
   "tonlistUK": "Don't Go Breaking My Heart – Elton John & Kiki Dee (1976)",
-  "bio": "The Dark Knight Rises (2012)",
+  "bio": "Die Hard (1988)",
   "ord_dagsins": {
-    "ord": "hjallur",
-    "skyring": "Lítill kofi eða skúr, oft notaður til geymslu eða sem vinnustaður."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1955 var fyrsti McDonald's veitingastaðurinn opnaður af Ray Kroc í Des Plaines, Illinois, en bræðurnir McDonald höfðu þó opnað sinn fyrsta veitingastað árið 1940.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Treystu innsæi þínu, það mun leiða þig á rétta braut."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Húsið', var frumsýnd árið 1983.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 5 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að láta þær ekki yfirbuga þig."
 }
