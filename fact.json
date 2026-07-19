@@ -1,62 +1,58 @@
 {
-  "date": "2026-07-18",
-  "dagur": 18,
+  "date": "2026-07-19",
+  "dagur": 19,
   "manudur": "júlí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 199,
-  "sunrise": "03:51",
-  "sunset": "23:16",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 200,
+  "sunrise": "03:54",
+  "sunset": "23:13",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Friðrik",
+  "nafnadagur": "Arney",
   "atburdir": [
     {
-      "ar": "64",
-      "texti": "Mikill eldur braust út í Róm og stóð í sex daga, eyðilagði stóran hluta borgarinnar."
+      "ar": "1848",
+      "texti": "Fyrsta kvenréttindaráðstefnan í Bandaríkjunum, Seneca Falls-ráðstefnan, hófst í New York."
     },
     {
-      "ar": "1925",
-      "texti": "Mein Kampf, sjálfsævisaga og pólitísk stefnuyfirlýsing Adolfs Hitlers, kom út."
+      "ar": "1969",
+      "texti": "Apollo 11 geimfararnir Neil Armstrong og Buzz Aldrin urðu fyrstir manna til að lenda á tunglinu."
     },
     {
-      "ar": "1968",
-      "texti": "Intel Corporation var stofnað af Robert Noyce og Gordon Moore."
-    },
-    {
-      "ar": "1994",
-      "texti": "Sprengjuárás var gerð á samkomuhús gyðinga í Buenos Aires, Argentínu, sem varð 85 manns að bana."
+      "ar": "1980",
+      "texti": "Sumarólympíuleikarnir voru settir í Moskvu, en margar vestrænar þjóðir sniðgengu þá."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Breska herskipið HMS Fandango strandaði við Hvalsnes á Suðurnesjum."
+      "ar": "1911",
+      "texti": "Fyrsta íslenska kvikmyndin, 'Gullna hliðið', var frumsýnd í Reykjavík."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Nelson Mandela",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1918"
-    },
-    {
-      "nafn": "Richard Branson",
-      "starfsgrein": "kaupsýslumaður",
-      "ar": "1950"
-    },
-    {
-      "nafn": "Vin Diesel",
+      "nafn": "Benedict Cumberbatch",
       "starfsgrein": "leikari",
-      "ar": "1967"
+      "ar": "1976"
+    },
+    {
+      "nafn": "Brian May",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Edgar Degas",
+      "starfsgrein": "listmálari",
+      "ar": "1834"
     }
   ],
-  "tonlistUSA": "Crazy Little Thing Called Love – Queen (1980)",
-  "tonlistUK": "Don't Go Breaking My Heart – Elton John & Kiki Dee (1976)",
-  "bio": "Die Hard (1988)",
+  "tonlistUSA": "Hey Jude – The Beatles (1968)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "bio": "The Dark Knight (2008)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakfallabálkur",
+    "skyring": "Saga eða röð atburða sem einkennist af miklum óförum eða ógæfu."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Húsið', var frumsýnd árið 1983.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 5 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskylduböndum og heimili. Leyfðu tilfinningum þínum að leiða þig en gættu þess að láta þær ekki yfirbuga þig."
+  "vissir_thu": "Fyrsta íslenska dagblaðið, Íslendingur, kom út árið 1843.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskyldu og vinum. Mundu að gefa þér tíma til að njóta smáatriðanna í lífinu."
 }
