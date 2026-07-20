@@ -1,58 +1,62 @@
 {
-  "date": "2026-07-19",
-  "dagur": 19,
+  "date": "2026-07-20",
+  "dagur": 20,
   "manudur": "júlí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 200,
-  "sunrise": "03:54",
-  "sunset": "23:13",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 201,
+  "sunrise": "03:57",
+  "sunset": "23:10",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Arney",
+  "nafnadagur": "Friðþjófur",
   "atburdir": [
     {
-      "ar": "1848",
-      "texti": "Fyrsta kvenréttindaráðstefnan í Bandaríkjunum, Seneca Falls-ráðstefnan, hófst í New York."
-    },
-    {
       "ar": "1969",
-      "texti": "Apollo 11 geimfararnir Neil Armstrong og Buzz Aldrin urðu fyrstir manna til að lenda á tunglinu."
+      "texti": "Apollo 11 tunglferjan lenti á tunglinu. Neil Armstrong og Buzz Aldrin urðu fyrstir manna til að ganga á tunglinu."
     },
     {
-      "ar": "1980",
-      "texti": "Sumarólympíuleikarnir voru settir í Moskvu, en margar vestrænar þjóðir sniðgengu þá."
+      "ar": "1944",
+      "texti": "Tilraun til að ráða Adolf Hitler af dögum, þekkt sem 20. júlí samsærið, mistókst."
+    },
+    {
+      "ar": "1881",
+      "texti": "Sitting Bull, höfðingi Lakota-indíána, gafst upp fyrir bandarískum stjórnvöldum."
+    },
+    {
+      "ar": "1976",
+      "texti": "Viking 1 geimfarið lenti á Mars og sendi fyrstu myndirnar af yfirborði plánetunnar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1911",
-      "texti": "Fyrsta íslenska kvikmyndin, 'Gullna hliðið', var frumsýnd í Reykjavík."
+      "ar": "1930",
+      "texti": "Alþingishátíðin á Þingvöllum hófst, haldin í tilefni af 1000 ára afmæli Alþingis."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Benedict Cumberbatch",
-      "starfsgrein": "leikari",
-      "ar": "1976"
+      "nafn": "Natalie Wood",
+      "starfsgrein": "leikkona",
+      "ar": "1938"
     },
     {
-      "nafn": "Brian May",
+      "nafn": "Carlos Santana",
       "starfsgrein": "tónlistarmaður",
       "ar": "1947"
     },
     {
-      "nafn": "Edgar Degas",
-      "starfsgrein": "listmálari",
-      "ar": "1834"
+      "nafn": "Gisele Bündchen",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1980"
     }
   ],
-  "tonlistUSA": "Hey Jude – The Beatles (1968)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "tonlistUSA": "I'll Be There – The Jackson 5 (1970)",
+  "tonlistUK": "I'm Not In Love – 10cc (1975)",
   "bio": "The Dark Knight (2008)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Saga eða röð atburða sem einkennist af miklum óförum eða ógæfu."
+    "skyring": "Sá sem lendir í mörgum óheppilegum atburðum eða er ólánsamur."
   },
-  "vissir_thu": "Fyrsta íslenska dagblaðið, Íslendingur, kom út árið 1843.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að fjölskyldu og vinum. Mundu að gefa þér tíma til að njóta smáatriðanna í lífinu."
+  "vissir_thu": "Íslenski hesturinn er eina hestakynið sem getur töltað og skeiðað, auk þess að ganga, brokka og galoppera.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að sjálfum þér og þeim sem þér þykir vænt um. Mundu að smá dekur getur gert kraftaverk fyrir sálina."
 }
