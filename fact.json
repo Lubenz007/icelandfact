@@ -1,66 +1,58 @@
 {
-  "date": "2026-07-21",
-  "dagur": 21,
+  "date": "2026-07-22",
+  "dagur": 22,
   "manudur": "júlí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 202,
-  "sunrise": "04:00",
-  "sunset": "23:07",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 203,
+  "sunrise": "04:03",
+  "sunset": "23:04",
   "stjornumerki": "Krabbi",
-  "nafnadagur": "Daníel",
+  "nafnadagur": "Mæja",
   "atburdir": [
     {
-      "ar": "1969",
-      "texti": "Neil Armstrong varð fyrsti maðurinn til að ganga á tunglinu."
+      "ar": "1946",
+      "texti": "Sprengjuárás var gerð á King David hótelið í Jerúsalem af hryðjuverkasamtökunum Irgun, sem varð 91 að bana."
     },
     {
-      "ar": "1925",
-      "texti": "„Scopes Monkey Trial“ hófst í Dayton, Tennessee, þar sem kennari var ákærður fyrir að kenna þróunarkenninguna."
+      "ar": "1992",
+      "texti": "Kólumbía varð fyrsta landið til að banna notkun á klórflúorkolefnum (CFC) í úðabrúsum."
     },
     {
-      "ar": "1831",
-      "texti": "Leopold I varð fyrsti konungur Belgíu."
-    },
-    {
-      "ar": "1798",
-      "texti": "Orrustan við pýramídana átti sér stað í Egyptalandi, þar sem her Napóleons sigraði Mamelúka."
-    },
-    {
-      "ar": "356 f.Kr.",
-      "texti": "Heróstratus brenndi Artemísarhofið í Efesos, eitt af sjö undrum veraldar."
+      "ar": "2011",
+      "texti": "Hryðjuverkaárásir voru gerðar í Noregi, þar sem 77 manns létust í sprengjuárás í Osló og skotárás í Útey."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1930",
-      "texti": "Fyrsta bíómyndin með tali var sýnd á Íslandi, The Singing Fool."
+      "ar": "1970",
+      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ernest Hemingway",
-      "starfsgrein": "rithöfundur",
-      "ar": "1899"
+      "nafn": "Selena Gomez",
+      "starfsgrein": "leikkona / söngkona",
+      "ar": "1992"
     },
     {
-      "nafn": "Robin Williams",
+      "nafn": "Danny Glover",
       "starfsgrein": "leikari",
-      "ar": "1951"
+      "ar": "1946"
     },
     {
-      "nafn": "Don Knotts",
+      "nafn": "Rhys Ifans",
       "starfsgrein": "leikari",
-      "ar": "1924"
+      "ar": "1967"
     }
   ],
-  "tonlistUSA": "Can't Buy Me Love – The Beatles (1964)",
-  "tonlistUK": "Three Steps to Heaven – Eddie Cochran (1960)",
-  "bio": "The Dark Knight (2008)",
+  "tonlistUSA": "Bad Romance – Lady Gaga (2009)",
+  "tonlistUK": "Wannabe – Spice Girls (1996)",
+  "bio": "The Dark Knight Rises (2012)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Árið 1969, þegar Neil Armstrong steig á tunglið, var hann með litla fánabúta frá öllum ríkjum Bandaríkjanna, þar á meðal einn frá Íslandi, sem hann skildi eftir á tunglinu.",
-  "verdlag": "Árið 1970 kostaði ein lítra af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag gæti óvænt tækifæri bankað á dyrnar, vertu opinn fyrir nýjum hugmyndum. Mundu að hlusta á innsæið þitt, það mun leiða þig rétta leið."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Borgin“, var frumsýnd árið 1949.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 15 kr. á Íslandi.",
+  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að sjálfum þér og þeim sem þér þykir vænt um. Mundu að gefa þér tíma til að njóta litlu hlutanna í lífinu."
 }
