@@ -1,58 +1,66 @@
 {
-  "date": "2026-07-22",
-  "dagur": 22,
+  "date": "2026-07-23",
+  "dagur": 23,
   "manudur": "júlí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 203,
-  "sunrise": "04:03",
-  "sunset": "23:04",
-  "stjornumerki": "Krabbi",
-  "nafnadagur": "Mæja",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 204,
+  "sunrise": "04:06",
+  "sunset": "23:01",
+  "stjornumerki": "Ljón",
+  "nafnadagur": "Margrét",
   "atburdir": [
     {
-      "ar": "1946",
-      "texti": "Sprengjuárás var gerð á King David hótelið í Jerúsalem af hryðjuverkasamtökunum Irgun, sem varð 91 að bana."
+      "ar": "1829",
+      "texti": "William Austin Burt fékk einkaleyfi á typographer, forvera ritvélarinnar."
     },
     {
-      "ar": "1992",
-      "texti": "Kólumbía varð fyrsta landið til að banna notkun á klórflúorkolefnum (CFC) í úðabrúsum."
+      "ar": "1903",
+      "texti": "Ford Motor Company seldi sinn fyrsta bíl."
+    },
+    {
+      "ar": "1952",
+      "texti": "Egypska byltingin hófst þegar Frjálsir foringjar steyptu Farouk I konungi af stóli."
+    },
+    {
+      "ar": "1986",
+      "texti": "Andrew prins, hertogi af York, giftist Söruh Ferguson í Westminster Abbey."
     },
     {
       "ar": "2011",
-      "texti": "Hryðjuverkaárásir voru gerðar í Noregi, þar sem 77 manns létust í sprengjuárás í Osló og skotárás í Útey."
+      "texti": "Amy Winehouse, bresk söngkona, lést 27 ára gömul."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1970",
-      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
+      "ar": "1940",
+      "texti": "Breskir hermenn handtóku þýska ríkisborgara á Íslandi og fluttu þá til Bretlands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Selena Gomez",
-      "starfsgrein": "leikkona / söngkona",
-      "ar": "1992"
-    },
-    {
-      "nafn": "Danny Glover",
+      "nafn": "Daniel Radcliffe",
       "starfsgrein": "leikari",
-      "ar": "1946"
+      "ar": "1989"
     },
     {
-      "nafn": "Rhys Ifans",
+      "nafn": "Philip Seymour Hoffman",
       "starfsgrein": "leikari",
       "ar": "1967"
+    },
+    {
+      "nafn": "Woody Harrelson",
+      "starfsgrein": "leikari",
+      "ar": "1961"
     }
   ],
-  "tonlistUSA": "Bad Romance – Lady Gaga (2009)",
-  "tonlistUK": "Wannabe – Spice Girls (1996)",
-  "bio": "The Dark Knight Rises (2012)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Three Steps To Heaven – Eddie Cochran (1960)",
+  "bio": "Blade Runner (1982)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
+    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Borgin“, var frumsýnd árið 1949.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 15 kr. á Íslandi.",
-  "stjornuspa": "Krabbi, í dag er góður dagur til að hlúa að sjálfum þér og þeim sem þér þykir vænt um. Mundu að gefa þér tíma til að njóta litlu hlutanna í lífinu."
+  "vissir_thu": "Fyrsta farsímasímtalið á Íslandi var hringt árið 1986.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Ekki hika við að sýna hæfileika þína og njóta þess að vera þú sjálfur."
 }
