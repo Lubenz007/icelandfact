@@ -1,66 +1,62 @@
 {
-  "date": "2026-07-23",
-  "dagur": 23,
+  "date": "2026-07-24",
+  "dagur": 24,
   "manudur": "júlí",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 204,
-  "sunrise": "04:06",
-  "sunset": "23:01",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 205,
+  "sunrise": "04:09",
+  "sunset": "22:58",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Margrét",
+  "nafnadagur": "Kristín",
   "atburdir": [
     {
-      "ar": "1829",
-      "texti": "William Austin Burt fékk einkaleyfi á typographer, forvera ritvélarinnar."
+      "ar": "1911",
+      "texti": "Hiram Bingham uppgötvaði Machu Picchu."
     },
     {
-      "ar": "1903",
-      "texti": "Ford Motor Company seldi sinn fyrsta bíl."
+      "ar": "1969",
+      "texti": "Apollo 11 geimfarið lenti heilu og höldnu í Kyrrahafi eftir fyrstu mannaðu lendinguna á tunglinu."
     },
     {
-      "ar": "1952",
-      "texti": "Egypska byltingin hófst þegar Frjálsir foringjar steyptu Farouk I konungi af stóli."
+      "ar": "1980",
+      "texti": "Diamond Head, bresk þungarokkssveit, gaf út sína fyrstu smáskífu, Shoot Out the Lights."
     },
     {
-      "ar": "1986",
-      "texti": "Andrew prins, hertogi af York, giftist Söruh Ferguson í Westminster Abbey."
-    },
-    {
-      "ar": "2011",
-      "texti": "Amy Winehouse, bresk söngkona, lést 27 ára gömul."
+      "ar": "2005",
+      "texti": "Lance Armstrong vann Tour de France í sjöunda sinn, sem var met."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1940",
-      "texti": "Breskir hermenn handtóku þýska ríkisborgara á Íslandi og fluttu þá til Bretlands."
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, Húsmæðrakennarinn, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Daniel Radcliffe",
-      "starfsgrein": "leikari",
-      "ar": "1989"
+      "nafn": "Jennifer Lopez",
+      "starfsgrein": "leikkona / söngkona",
+      "ar": "1969"
     },
     {
-      "nafn": "Philip Seymour Hoffman",
-      "starfsgrein": "leikari",
-      "ar": "1967"
+      "nafn": "Anna Paquin",
+      "starfsgrein": "leikkona",
+      "ar": "1982"
     },
     {
-      "nafn": "Woody Harrelson",
-      "starfsgrein": "leikari",
-      "ar": "1961"
+      "nafn": "Elisabeth Moss",
+      "starfsgrein": "leikkona",
+      "ar": "1982"
     }
   ],
   "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Three Steps To Heaven – Eddie Cochran (1960)",
-  "bio": "Blade Runner (1982)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1964)",
+  "bio": "Raging Bull (1980)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
     "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Fyrsta farsímasímtalið á Íslandi var hringt árið 1986.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Ekki hika við að sýna hæfileika þína og njóta þess að vera þú sjálfur."
+  "vissir_thu": "Árið 1949 var fyrsta íslenska sjónvarpsútsendingin gerð, en hún var aðeins tilraunaútsending og náði ekki til almennings.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athygli. Vertu óhræddur við að sýna hæfileika þína og njóta þess að vera þú sjálfur."
 }
