@@ -1,62 +1,70 @@
 {
-  "date": "2026-07-25",
-  "dagur": 25,
+  "date": "2026-07-26",
+  "dagur": 26,
   "manudur": "júlí",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 206,
-  "sunrise": "04:13",
-  "sunset": "22:55",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 207,
+  "sunrise": "04:16",
+  "sunset": "22:51",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Jakob",
+  "nafnadagur": "Anna",
   "atburdir": [
     {
-      "ar": "1978",
-      "texti": "Fyrsta glasafrjóvgunarbarnið, Louise Brown, fæddist í Bretlandi."
+      "ar": "1788",
+      "texti": "New York varð ellefta ríkið til að fullgilda stjórnarskrá Bandaríkjanna."
     },
     {
-      "ar": "1952",
-      "texti": "Puerto Rico varð sjálfstjórnarsvæði Bandaríkjanna."
+      "ar": "1847",
+      "texti": "Líbería lýsti yfir sjálfstæði."
     },
     {
-      "ar": "1834",
-      "texti": "Samuel Colt fékk einkaleyfi á fyrstu hagnýtu snúningsbyssunni."
+      "ar": "1953",
+      "texti": "Fidel Castro leiddi árás á Moncada herbúðirnar á Kúbu, sem markar upphaf kúbversku byltingarinnar."
     },
     {
-      "ar": "1593",
-      "texti": "Henrik IV af Frakklandi snerist til kaþólskrar trúar."
+      "ar": "1956",
+      "texti": "Gamal Abdel Nasser, forseti Egyptalands, þjóðnýtti Súesskurðinn."
+    },
+    {
+      "ar": "1990",
+      "texti": "George H.W. Bush forseti Bandaríkjanna undirritaði lög um Bandaríkjamenn með fötlun (Americans with Disabilities Act)."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsmæðrakennarinn“, var frumsýnd."
+      "ar": "1908",
+      "texti": "Fyrsta bílferðin yfir Hellisheiði var farin."
+    },
+    {
+      "ar": "1926",
+      "texti": "Fyrsta íslenska kvikmyndin, „Borgin okkar“, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Matt LeBlanc",
-      "starfsgrein": "leikari",
-      "ar": "1967"
+      "nafn": "Carl Jung",
+      "starfsgrein": "sálfræðingur",
+      "ar": "1875"
     },
     {
-      "nafn": "James Lafferty",
-      "starfsgrein": "leikari",
-      "ar": "1985"
+      "nafn": "Stanley Kubrick",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1928"
     },
     {
-      "nafn": "Iman",
-      "starfsgrein": "fyrirsæta",
-      "ar": "1955"
+      "nafn": "Mick Jagger",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1943"
     }
   ],
-  "tonlistUSA": "A Hard Day's Night – The Beatles (1964)",
-  "tonlistUK": "A Hard Day's Night – The Beatles (1964)",
-  "bio": "A Hard Day's Night (1964)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Summer of '69 – Bryan Adams (1985)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða erfiður í skapi."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er staður þar sem eitthvað fer úrskeiðis eða er erfitt viðureignar."
   },
-  "vissir_thu": "Árið 1940 var fyrsta íslenska kvikmyndin í fullri lengd, „Húsmæðrakennarinn“, frumsýnd, en hún var gerð af Óskari Gíslasyni.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós sitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna fram á hæfileika þína og leiðtogahæfni."
+  "vissir_thu": "Það eru engin tré sem eru upprunalega frá Íslandi sem eru hærri en 20 metrar.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna sköpunargáfu þína og sjálfstraust."
 }
