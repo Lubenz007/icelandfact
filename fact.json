@@ -1,70 +1,49 @@
 {
-  "date": "2026-07-26",
-  "dagur": 26,
+  "date": "2026-07-27",
+  "dagur": 27,
   "manudur": "júlí",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 207,
-  "sunrise": "04:16",
-  "sunset": "22:51",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 208,
+  "sunrise": "04:19",
+  "sunset": "22:48",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Anna",
+  "nafnadagur": "Halla",
   "atburdir": [
     {
-      "ar": "1788",
-      "texti": "New York varð ellefta ríkið til að fullgilda stjórnarskrá Bandaríkjanna."
-    },
-    {
-      "ar": "1847",
-      "texti": "Líbería lýsti yfir sjálfstæði."
-    },
-    {
       "ar": "1953",
-      "texti": "Fidel Castro leiddi árás á Moncada herbúðirnar á Kúbu, sem markar upphaf kúbversku byltingarinnar."
+      "texti": "Kóreustríðinu lauk með vopnahléssamningi."
     },
     {
-      "ar": "1956",
-      "texti": "Gamal Abdel Nasser, forseti Egyptalands, þjóðnýtti Súesskurðinn."
-    },
-    {
-      "ar": "1990",
-      "texti": "George H.W. Bush forseti Bandaríkjanna undirritaði lög um Bandaríkjamenn með fötlun (Americans with Disabilities Act)."
+      "ar": "1996",
+      "texti": "Sprengjuárás var gerð á Ólympíuleikana í Atlanta, Georgíu, Bandaríkjunum."
     }
   ],
-  "atburdir_island": [
-    {
-      "ar": "1908",
-      "texti": "Fyrsta bílferðin yfir Hellisheiði var farin."
-    },
-    {
-      "ar": "1926",
-      "texti": "Fyrsta íslenska kvikmyndin, „Borgin okkar“, var frumsýnd."
-    }
-  ],
+  "atburdir_island": [],
   "afmaeli": [
     {
-      "nafn": "Carl Jung",
-      "starfsgrein": "sálfræðingur",
-      "ar": "1875"
+      "nafn": "Alexandre Dumas eldri",
+      "starfsgrein": "rithöfundur",
+      "ar": "1802"
     },
     {
-      "nafn": "Stanley Kubrick",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1928"
+      "nafn": "Norman Lear",
+      "starfsgrein": "sjónvarpsframleiðandi",
+      "ar": "1922"
     },
     {
-      "nafn": "Mick Jagger",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1943"
+      "nafn": "Donnie Wahlberg",
+      "starfsgrein": "leikari og tónlistarmaður",
+      "ar": "1969"
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "Summer of '69 – Bryan Adams (1985)",
-  "bio": "The Shawshank Redemption (1994)",
+  "tonlistUSA": null,
+  "tonlistUK": null,
+  "bio": null,
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem eitthvað fer úrskeiðis eða er erfitt viðureignar."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Það eru engin tré sem eru upprunalega frá Íslandi sem eru hærri en 20 metrar.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 4,50 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna sköpunargáfu þína og sjálfstraust."
+  "vissir_thu": "Vissir þú að hæsta fjall heims, Everest, vex um nokkra millimetra á ári vegna landreks?",
+  "verdlag": null,
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera í forgrunni. Vertu óhræddur við að taka frumkvæði og sýna leiðtogahæfileika þína."
 }
