@@ -1,49 +1,58 @@
 {
-  "date": "2026-07-27",
-  "dagur": 27,
+  "date": "2026-07-28",
+  "dagur": 28,
   "manudur": "júlí",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 208,
-  "sunrise": "04:19",
-  "sunset": "22:48",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 209,
+  "sunrise": "04:22",
+  "sunset": "22:45",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Halla",
+  "nafnadagur": "Ólafur",
   "atburdir": [
     {
-      "ar": "1953",
-      "texti": "Kóreustríðinu lauk með vopnahléssamningi."
+      "ar": "1914",
+      "texti": "Fyrri heimsstyrjöldin hefst formlega þegar Austurríki-Ungverjaland lýsir yfir stríði á hendur Serbíu."
     },
     {
-      "ar": "1996",
-      "texti": "Sprengjuárás var gerð á Ólympíuleikana í Atlanta, Georgíu, Bandaríkjunum."
+      "ar": "1945",
+      "texti": "B-25 Mitchell sprengjuflugvél brotlendir á 79. hæð Empire State byggingarinnar í New York, 14 látast."
+    },
+    {
+      "ar": "1976",
+      "texti": "Jarðskjálfti upp á 7,8 á Richter skalanum skekur Tangshan í Kína, yfir 240.000 manns látast."
     }
   ],
-  "atburdir_island": [],
+  "atburdir_island": [
+    {
+      "ar": "1976",
+      "texti": "Fyrsta tölvan var sett upp á Íslandi í Háskóla Íslands."
+    }
+  ],
   "afmaeli": [
     {
-      "nafn": "Alexandre Dumas eldri",
-      "starfsgrein": "rithöfundur",
-      "ar": "1802"
+      "nafn": "Jacqueline Kennedy Onassis",
+      "starfsgrein": "fyrrverandi forsetafrú Bandaríkjanna",
+      "ar": "1929"
     },
     {
-      "nafn": "Norman Lear",
-      "starfsgrein": "sjónvarpsframleiðandi",
-      "ar": "1922"
+      "nafn": "Elizabeth Berkley",
+      "starfsgrein": "leikkona",
+      "ar": "1972"
     },
     {
-      "nafn": "Donnie Wahlberg",
-      "starfsgrein": "leikari og tónlistarmaður",
-      "ar": "1969"
+      "nafn": "Harry Kane",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
     }
   ],
-  "tonlistUSA": null,
-  "tonlistUK": null,
-  "bio": null,
+  "tonlistUSA": "A Hard Day's Night – The Beatles (1964)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
+  "bio": "Jaws (1975)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er staður þar sem eitthvað fer úrskeiðis eða mistekst oft."
   },
-  "vissir_thu": "Vissir þú að hæsta fjall heims, Everest, vex um nokkra millimetra á ári vegna landreks?",
-  "verdlag": null,
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera í forgrunni. Vertu óhræddur við að taka frumkvæði og sýna leiðtogahæfileika þína."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, \"Borgin\", var frumsýnd árið 1923.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
 }
