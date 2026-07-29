@@ -1,58 +1,75 @@
 {
-  "date": "2026-07-28",
-  "dagur": 28,
+  "date": "2026-07-29",
+  "dagur": 29,
   "manudur": "júlí",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 209,
-  "sunrise": "04:22",
-  "sunset": "22:45",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 210,
+  "sunrise": "04:25",
+  "sunset": "22:42",
   "stjornumerki": "Ljón",
   "nafnadagur": "Ólafur",
   "atburdir": [
     {
-      "ar": "1914",
-      "texti": "Fyrri heimsstyrjöldin hefst formlega þegar Austurríki-Ungverjaland lýsir yfir stríði á hendur Serbíu."
+      "ar": "1890",
+      "texti": "Vincent van Gogh lést, tveimur dögum eftir að hafa skotið sig."
     },
     {
-      "ar": "1945",
-      "texti": "B-25 Mitchell sprengjuflugvél brotlendir á 79. hæð Empire State byggingarinnar í New York, 14 látast."
+      "ar": "1900",
+      "texti": "Umberto I, konungur Ítalíu, var myrtur af anarkistanum Gaetano Bresci."
     },
     {
-      "ar": "1976",
-      "texti": "Jarðskjálfti upp á 7,8 á Richter skalanum skekur Tangshan í Kína, yfir 240.000 manns látast."
+      "ar": "1957",
+      "texti": "Alþjóðakjarnorkumálastofnunin (IAEA) var stofnuð."
+    },
+    {
+      "ar": "1981",
+      "texti": "Karl Bretaprins og Díana Spencer gengu í hjónaband í St. Paul's dómkirkjunni í London."
+    },
+    {
+      "ar": "2005",
+      "texti": "Stjörnufræðingar tilkynntu uppgötvun dvergreikistjörnunnar Eris."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1976",
-      "texti": "Fyrsta tölvan var sett upp á Íslandi í Háskóla Íslands."
+      "ar": "1940",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hvítir mávar“, var frumsýnd."
+    },
+    {
+      "ar": "1989",
+      "texti": "Fyrsta McDonald's veitingahúsið á Íslandi opnaði í Reykjavík."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Jacqueline Kennedy Onassis",
-      "starfsgrein": "fyrrverandi forsetafrú Bandaríkjanna",
-      "ar": "1929"
+      "nafn": "Benito Mussolini",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1883"
     },
     {
-      "nafn": "Elizabeth Berkley",
-      "starfsgrein": "leikkona",
-      "ar": "1972"
+      "nafn": "Dag Hammarskjöld",
+      "starfsgrein": "diplómat, aðalritari Sameinuðu þjóðanna",
+      "ar": "1905"
     },
     {
-      "nafn": "Harry Kane",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1993"
+      "nafn": "Peter Jennings",
+      "starfsgrein": "fréttamaður",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Elizabeth Dole",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1936"
     }
   ],
-  "tonlistUSA": "A Hard Day's Night – The Beatles (1964)",
-  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
-  "bio": "Jaws (1975)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "The Parent Trap (1998)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem eitthvað fer úrskeiðis eða mistekst oft."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, \"Borgin\", var frumsýnd árið 1923.",
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hvítir mávar“, var frumsýnd á þessum degi árið 1940.",
   "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Mundu að vera örlátur og deila gleði þinni með öðrum."
 }
