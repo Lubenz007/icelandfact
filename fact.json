@@ -1,75 +1,58 @@
 {
-  "date": "2026-07-29",
-  "dagur": 29,
+  "date": "2026-07-30",
+  "dagur": 30,
   "manudur": "júlí",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 210,
-  "sunrise": "04:25",
-  "sunset": "22:42",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 211,
+  "sunrise": "04:29",
+  "sunset": "22:38",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Ólafur",
+  "nafnadagur": "Valdimar",
   "atburdir": [
     {
-      "ar": "1890",
-      "texti": "Vincent van Gogh lést, tveimur dögum eftir að hafa skotið sig."
+      "ar": "1930",
+      "texti": "Fyrsta heimsmeistarakeppnin í knattspyrnu lauk í Úrúgvæ þar sem heimamenn sigruðu Argentínu í úrslitaleiknum."
     },
     {
-      "ar": "1900",
-      "texti": "Umberto I, konungur Ítalíu, var myrtur af anarkistanum Gaetano Bresci."
+      "ar": "1980",
+      "texti": "Vanuatu hlaut sjálfstæði frá Bretlandi og Frakklandi."
     },
     {
-      "ar": "1957",
-      "texti": "Alþjóðakjarnorkumálastofnunin (IAEA) var stofnuð."
-    },
-    {
-      "ar": "1981",
-      "texti": "Karl Bretaprins og Díana Spencer gengu í hjónaband í St. Paul's dómkirkjunni í London."
-    },
-    {
-      "ar": "2005",
-      "texti": "Stjörnufræðingar tilkynntu uppgötvun dvergreikistjörnunnar Eris."
+      "ar": "1971",
+      "texti": "Apollo 15 geimfararnir David Scott og James Irwin lentu á tunglinu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1940",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hvítir mávar“, var frumsýnd."
-    },
-    {
-      "ar": "1989",
-      "texti": "Fyrsta McDonald's veitingahúsið á Íslandi opnaði í Reykjavík."
+      "texti": "Breska hersetan á Íslandi í seinni heimsstyrjöldinni hélt áfram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Benito Mussolini",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1883"
+      "nafn": "Arnold Schwarzenegger",
+      "starfsgrein": "leikari, fyrrverandi ríkisstjóri",
+      "ar": "1947"
     },
     {
-      "nafn": "Dag Hammarskjöld",
-      "starfsgrein": "diplómat, aðalritari Sameinuðu þjóðanna",
-      "ar": "1905"
+      "nafn": "Henry Ford",
+      "starfsgrein": "frumkvöðull, stofnandi Ford Motor Company",
+      "ar": "1863"
     },
     {
-      "nafn": "Peter Jennings",
-      "starfsgrein": "fréttamaður",
-      "ar": "1938"
-    },
-    {
-      "nafn": "Elizabeth Dole",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1936"
+      "nafn": "Lisa Kudrow",
+      "starfsgrein": "leikkona",
+      "ar": "1963"
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "bio": "The Parent Trap (1998)",
+  "tonlistUSA": "A Hard Day's Night – The Beatles (1964)",
+  "tonlistUK": "A Hard Day's Night – The Beatles (1964)",
+  "bio": "A Hard Day's Night (1964)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða annarri skapandi vinnu."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hvítir mávar“, var frumsýnd á þessum degi árið 1940.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Mundu að vera örlátur og deila gleði þinni með öðrum."
+  "vissir_thu": "Árið 1971 var fyrsta tölvupóstsendingin send á milli tveggja tölva.",
+  "verdlag": "Árið 1980 kostaði mjólk um 20 kr. á lítrann á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna þinn sanna styrk."
 }
