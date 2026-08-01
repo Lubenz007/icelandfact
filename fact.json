@@ -1,66 +1,70 @@
 {
-  "date": "2026-07-31",
-  "dagur": 31,
-  "manudur": "júlí",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 212,
-  "sunrise": "04:32",
-  "sunset": "22:35",
+  "date": "2026-08-01",
+  "dagur": 1,
+  "manudur": "ágúst",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 213,
+  "sunrise": "04:35",
+  "sunset": "22:32",
   "stjornumerki": "Ljón",
   "nafnadagur": "Hólmfríður",
   "atburdir": [
     {
-      "ar": "1498",
-      "texti": "Kristófer Kólumbus uppgötvar eyjuna Trínidad á þriðju ferð sinni til Nýja heimsins."
+      "ar": "1774",
+      "texti": "Joseph Priestley uppgötvar súrefni."
     },
     {
-      "ar": "1941",
-      "texti": "Endanleg lausn Gyðingavandamálsins er samþykkt af Hermann Göring."
+      "ar": "1834",
+      "texti": "Þrælahald er afnumið í Breska heimsveldinu."
     },
     {
-      "ar": "1971",
-      "texti": "Apollo 15 geimfararnir David Scott og James Irwin aka fyrst á tunglinu í tunglbíl."
+      "ar": "1914",
+      "texti": "Fyrri heimsstyrjöldin hefst formlega þegar Þýskaland lýsir yfir stríði á hendur Rússlandi."
     },
     {
-      "ar": "1992",
-      "texti": "Georgía gerist aðili að Sameinuðu þjóðunum."
+      "ar": "1936",
+      "texti": "Ólympíuleikarnir í Berlín hefjast."
+    },
+    {
+      "ar": "1944",
+      "texti": "Uppreisnin í Varsjá hefst gegn hernámsliði Þjóðverja."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1925",
-      "texti": "Fyrsta bílferðin yfir Sprengisand var farin."
+      "ar": "1874",
+      "texti": "Ísland fær sína fyrstu stjórnarskrá og heimastjórn."
     },
     {
-      "ar": "1989",
-      "texti": "Fyrsta McDonald's veitingastaðurinn á Íslandi opnaði í Reykjavík."
+      "ar": "1904",
+      "texti": "Hannes Hafstein verður fyrsti ráðherra Íslands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "J. K. Rowling",
+      "nafn": "Herman Melville",
       "starfsgrein": "rithöfundur",
+      "ar": "1819"
+    },
+    {
+      "nafn": "Jerry Garcia",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Sam Mendes",
+      "starfsgrein": "kvikmyndaleikstjóri",
       "ar": "1965"
-    },
-    {
-      "nafn": "Wesley Snipes",
-      "starfsgrein": "leikari",
-      "ar": "1962"
-    },
-    {
-      "nafn": "Dean Cain",
-      "starfsgrein": "leikari",
-      "ar": "1966"
     }
   ],
-  "tonlistUSA": "A Whiter Shade of Pale – Procol Harum (1967)",
-  "tonlistUK": "A Whiter Shade of Pale – Procol Harum (1967)",
-  "bio": "The Shawshank Redemption (1994)",
+  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
+  "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
-    "ord": "glópagull",
-    "skyring": "Efni sem líkist gulli en er verðlaust, oft notað um eitthvað sem virðist verðmætt en er það ekki."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1900 var aðeins einn bíll skráður á Íslandi.",
+  "vissir_thu": "Fyrsta íslenska frímerkið kom út árið 1873 og sýndi skjaldarmerki Íslands.",
   "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að sýna örlæti og deila gleði þinni með öðrum. Vertu óhræddur við að láta ljós þitt skína."
+  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna þinn sanna styrk."
 }
