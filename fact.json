@@ -1,70 +1,54 @@
 {
-  "date": "2026-08-01",
-  "dagur": 1,
+  "date": "2026-08-02",
+  "dagur": 2,
   "manudur": "ágúst",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 213,
-  "sunrise": "04:35",
-  "sunset": "22:32",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 214,
+  "sunrise": "04:38",
+  "sunset": "22:28",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Hólmfríður",
+  "nafnadagur": "Ásdís",
   "atburdir": [
     {
-      "ar": "1774",
-      "texti": "Joseph Priestley uppgötvar súrefni."
+      "ar": "1934",
+      "texti": "Adolf Hitler varð Führer Þýskalands eftir dauða Paul von Hindenburg."
     },
     {
-      "ar": "1834",
-      "texti": "Þrælahald er afnumið í Breska heimsveldinu."
-    },
-    {
-      "ar": "1914",
-      "texti": "Fyrri heimsstyrjöldin hefst formlega þegar Þýskaland lýsir yfir stríði á hendur Rússlandi."
-    },
-    {
-      "ar": "1936",
-      "texti": "Ólympíuleikarnir í Berlín hefjast."
-    },
-    {
-      "ar": "1944",
-      "texti": "Uppreisnin í Varsjá hefst gegn hernámsliði Þjóðverja."
+      "ar": "1990",
+      "texti": "Írak réðst inn í Kúveit, sem markaði upphaf Persaflóastríðsins."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1874",
-      "texti": "Ísland fær sína fyrstu stjórnarskrá og heimastjórn."
-    },
-    {
-      "ar": "1904",
-      "texti": "Hannes Hafstein verður fyrsti ráðherra Íslands."
+      "ar": "1944",
+      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tók við völdum, undir forsæti Björns Þórðarsonar."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Herman Melville",
+      "nafn": "James Baldwin",
       "starfsgrein": "rithöfundur",
-      "ar": "1819"
+      "ar": "1924"
     },
     {
-      "nafn": "Jerry Garcia",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1942"
+      "nafn": "Peter O'Toole",
+      "starfsgrein": "leikari",
+      "ar": "1932"
     },
     {
-      "nafn": "Sam Mendes",
+      "nafn": "Wes Craven",
       "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1965"
+      "ar": "1939"
     }
   ],
-  "tonlistUSA": "Good Vibrations – The Beach Boys (1966)",
-  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
-  "bio": "Apocalypse Now (1979)",
+  "tonlistUSA": "I Got You (I Feel Good) – James Brown (1965)",
+  "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
+  "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
   },
-  "vissir_thu": "Fyrsta íslenska frímerkið kom út árið 1873 og sýndi skjaldarmerki Íslands.",
+  "vissir_thu": "Árið 1971 var fyrsta tölvupósturinn sendur á milli tveggja tölva sem stóðu hlið við hlið.",
   "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna þinn sanna styrk."
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að taka frumkvæði og sýna leiðtogahæfileika þína."
 }
