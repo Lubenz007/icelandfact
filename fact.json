@@ -1,54 +1,66 @@
 {
-  "date": "2026-08-02",
-  "dagur": 2,
+  "date": "2026-08-03",
+  "dagur": 3,
   "manudur": "ágúst",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 214,
-  "sunrise": "04:38",
-  "sunset": "22:28",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 215,
+  "sunrise": "04:42",
+  "sunset": "22:25",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Ásdís",
+  "nafnadagur": "Óskar",
   "atburdir": [
     {
-      "ar": "1934",
-      "texti": "Adolf Hitler varð Führer Þýskalands eftir dauða Paul von Hindenburg."
+      "ar": "1492",
+      "texti": "Kristófer Kólumbus sigldi frá Palos de la Frontera á Spáni í sinni fyrstu ferð yfir Atlantshafið."
     },
     {
-      "ar": "1990",
-      "texti": "Írak réðst inn í Kúveit, sem markaði upphaf Persaflóastríðsins."
+      "ar": "1914",
+      "texti": "Fyrri heimsstyrjöldin: Þýskaland lýsti yfir stríði á hendur Frakklandi."
+    },
+    {
+      "ar": "1958",
+      "texti": "Fyrsti kjarnorkukafbáturinn, USS Nautilus, lauk fyrstu ferð sinni undir Norðurheimskautsísnum."
+    },
+    {
+      "ar": "1960",
+      "texti": "Níger fékk sjálfstæði frá Frakklandi."
+    },
+    {
+      "ar": "1977",
+      "texti": "Tandy Corporation kynnti TRS-80, einn af fyrstu fjöldaframleiddu heimilistölvunum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tók við völdum, undir forsæti Björns Þórðarsonar."
+      "ar": "1921",
+      "texti": "Fyrsta íslenska kvikmyndin, Saga Borgarættarinnar, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "James Baldwin",
-      "starfsgrein": "rithöfundur",
-      "ar": "1924"
+      "nafn": "Tony Bennett",
+      "starfsgrein": "söngvari",
+      "ar": "1926"
     },
     {
-      "nafn": "Peter O'Toole",
-      "starfsgrein": "leikari",
-      "ar": "1932"
+      "nafn": "Martha Stewart",
+      "starfsgrein": "viðskiptakona og sjónvarpskona",
+      "ar": "1941"
     },
     {
-      "nafn": "Wes Craven",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1939"
+      "nafn": "James Hetfield",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1963"
     }
   ],
-  "tonlistUSA": "I Got You (I Feel Good) – James Brown (1965)",
+  "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
   "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
   "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
   "vissir_thu": "Árið 1971 var fyrsta tölvupósturinn sendur á milli tveggja tölva sem stóðu hlið við hlið.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að taka frumkvæði og sýna leiðtogahæfileika þína."
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 6,50 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna sköpunargáfu þína og sjálfstraust."
 }
