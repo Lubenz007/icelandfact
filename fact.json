@@ -1,66 +1,62 @@
 {
-  "date": "2026-08-03",
-  "dagur": 3,
+  "date": "2026-08-04",
+  "dagur": 4,
   "manudur": "ágúst",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 215,
-  "sunrise": "04:42",
-  "sunset": "22:25",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 216,
+  "sunrise": "04:45",
+  "sunset": "22:21",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Óskar",
+  "nafnadagur": "Arnbjörg",
   "atburdir": [
     {
-      "ar": "1492",
-      "texti": "Kristófer Kólumbus sigldi frá Palos de la Frontera á Spáni í sinni fyrstu ferð yfir Atlantshafið."
+      "ar": "1789",
+      "texti": "Franska stjórnarskrárbundna þingið afnam lénskerfið og mörg forréttindi aðalsins."
     },
     {
       "ar": "1914",
-      "texti": "Fyrri heimsstyrjöldin: Þýskaland lýsti yfir stríði á hendur Frakklandi."
+      "texti": "Fyrri heimsstyrjöldin: Þýskaland réðst inn í Belgíu, sem var hlutlaust land, og Bretland lýsti yfir stríði á hendur Þýskalandi."
     },
     {
-      "ar": "1958",
-      "texti": "Fyrsti kjarnorkukafbáturinn, USS Nautilus, lauk fyrstu ferð sinni undir Norðurheimskautsísnum."
+      "ar": "1944",
+      "texti": "Anna Frank og fjölskylda hennar voru handtekin af Gestapo í Amsterdam eftir að hafa verið svikin."
     },
     {
-      "ar": "1960",
-      "texti": "Níger fékk sjálfstæði frá Frakklandi."
-    },
-    {
-      "ar": "1977",
-      "texti": "Tandy Corporation kynnti TRS-80, einn af fyrstu fjöldaframleiddu heimilistölvunum."
+      "ar": "1984",
+      "texti": "Efri Volta breytti nafni sínu í Búrkína Fasó."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1921",
-      "texti": "Fyrsta íslenska kvikmyndin, Saga Borgarættarinnar, var frumsýnd."
+      "ar": "1930",
+      "texti": "Alþingishátíðin á Þingvöllum lauk, en hún var haldin í tilefni af 1000 ára afmæli Alþingis."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Tony Bennett",
-      "starfsgrein": "söngvari",
-      "ar": "1926"
-    },
-    {
-      "nafn": "Martha Stewart",
-      "starfsgrein": "viðskiptakona og sjónvarpskona",
-      "ar": "1941"
-    },
-    {
-      "nafn": "James Hetfield",
+      "nafn": "Louis Armstrong",
       "starfsgrein": "tónlistarmaður",
-      "ar": "1963"
+      "ar": "1901"
+    },
+    {
+      "nafn": "Barack Obama",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Meghan Markle",
+      "starfsgrein": "leikkona / hertogaynja",
+      "ar": "1981"
     }
   ],
-  "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
-  "tonlistUK": "Crazy Little Thing Called Love – Queen (1979)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
   "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1971 var fyrsta tölvupósturinn sendur á milli tveggja tölva sem stóðu hlið við hlið.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 6,50 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna sköpunargáfu þína og sjálfstraust."
+  "vissir_thu": "Árið 1892 var fyrsta símtalið á milli New York og Chicago komið á, sem var mikið tæknilegt afrek á þeim tíma.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju, það mun skila sér margfalt."
 }
