@@ -1,58 +1,58 @@
 {
-  "date": "2026-08-05",
-  "dagur": 5,
+  "date": "2026-08-06",
+  "dagur": 6,
   "manudur": "ágúst",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 217,
-  "sunrise": "04:48",
-  "sunset": "22:18",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 218,
+  "sunrise": "04:51",
+  "sunset": "22:15",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Loftur",
+  "nafnadagur": "Sólveig",
   "atburdir": [
     {
-      "ar": "1962",
-      "texti": "Nelson Mandela var handtekinn í Suður-Afríku og sat í fangelsi í 27 ár."
+      "ar": "1945",
+      "texti": "Bandaríkin vörpuðu kjarnorkusprengju á Hiroshima í Japan í síðari heimsstyrjöldinni."
     },
     {
-      "ar": "1963",
-      "texti": "Bandaríkin, Bretland og Sovétríkin undirrituðu samning um bann við kjarnorkutilraunum í andrúmsloftinu, í geimnum og neðansjávar."
+      "ar": "1991",
+      "texti": "Vefurinn (World Wide Web) var opnaður almenningi."
     },
     {
-      "ar": "2010",
-      "texti": "Koparnámumenn í Chile festust neðanjarðar í 69 daga eftir hrun í námunni."
+      "ar": "1890",
+      "texti": "Fyrsti rafmagnsstóllinn var notaður til aftöku í New York."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1930",
-      "texti": "Alþingishátíðin á Þingvöllum til að fagna 1000 ára afmæli Alþingis lauk."
+      "ar": "1932",
+      "texti": "Fyrsta flugvélin lenti á Akureyri."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Neil Armstrong",
-      "starfsgrein": "geimfari",
-      "ar": "1930"
+      "nafn": "Andy Warhol",
+      "starfsgrein": "listamaður",
+      "ar": "1928"
     },
     {
-      "nafn": "Patrick Ewing",
-      "starfsgrein": "körfuboltamaður",
-      "ar": "1962"
+      "nafn": "Lucille Ball",
+      "starfsgrein": "leikkona",
+      "ar": "1911"
     },
     {
-      "nafn": "Jesse Williams",
-      "starfsgrein": "leikari",
-      "ar": "1981"
+      "nafn": "Geri Halliwell",
+      "starfsgrein": "söngkona",
+      "ar": "1972"
     }
   ],
   "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
-  "tonlistUK": "I Got You Babe – Sonny & Cher (1965)",
-  "bio": "The Fugitive (1993)",
+  "tonlistUK": "Summer Holiday – Cliff Richard (1963)",
+  "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "glópur",
-    "skyring": "Sá sem er heimskur eða gerir eitthvað heimskulegt."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta til að gera eitthvað vel, oftast með höndunum."
   },
-  "vissir_thu": "Fyrsti bíllinn sem keyrði um Ísland var Ford T árgerð 1913, sem kom til landsins árið 1915.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 18 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og sýna heiminum hvað í þér býr. Vertu óhræddur við að taka forystu og njóta athyglinnar."
+  "vissir_thu": "Árið 1932 var fyrsta íslenska kvikmyndin í fullri lengd, \"Lofthjúpurinn\", frumsýnd.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 20 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna örlæti þitt og hlýju."
 }
