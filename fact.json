@@ -1,58 +1,54 @@
 {
-  "date": "2026-08-06",
-  "dagur": 6,
+  "date": "2026-08-07",
+  "dagur": 7,
   "manudur": "ágúst",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 218,
-  "sunrise": "04:51",
-  "sunset": "22:15",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 219,
+  "sunrise": "04:54",
+  "sunset": "22:11",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Sólveig",
+  "nafnadagur": "Hólmfríður",
   "atburdir": [
     {
-      "ar": "1945",
-      "texti": "Bandaríkin vörpuðu kjarnorkusprengju á Hiroshima í Japan í síðari heimsstyrjöldinni."
+      "ar": "1960",
+      "texti": "Fílabeinsströndin hlaut sjálfstæði frá Frakklandi."
     },
     {
-      "ar": "1991",
-      "texti": "Vefurinn (World Wide Web) var opnaður almenningi."
-    },
-    {
-      "ar": "1890",
-      "texti": "Fyrsti rafmagnsstóllinn var notaður til aftöku í New York."
+      "ar": "1998",
+      "texti": "Sprengjuárásir á bandarísk sendiráð í Dar es Salaam, Tansaníu, og Naíróbí, Kenýa, drápu yfir 200 manns."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1932",
-      "texti": "Fyrsta flugvélin lenti á Akureyri."
+      "ar": "1928",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Búkolla“, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Andy Warhol",
-      "starfsgrein": "listamaður",
-      "ar": "1928"
-    },
-    {
-      "nafn": "Lucille Ball",
+      "nafn": "Charlize Theron",
       "starfsgrein": "leikkona",
-      "ar": "1911"
+      "ar": "1975"
     },
     {
-      "nafn": "Geri Halliwell",
-      "starfsgrein": "söngkona",
-      "ar": "1972"
+      "nafn": "David Duchovny",
+      "starfsgrein": "leikari",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Tobin Bell",
+      "starfsgrein": "leikari",
+      "ar": "1942"
     }
   ],
   "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
-  "tonlistUK": "Summer Holiday – Cliff Richard (1963)",
-  "bio": "The Sixth Sense (1999)",
+  "tonlistUK": "I Got You Babe – Sonny & Cher (1965)",
+  "bio": "The Fugitive (1993)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta til að gera eitthvað vel, oftast með höndunum."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
   },
-  "vissir_thu": "Árið 1932 var fyrsta íslenska kvikmyndin í fullri lengd, \"Lofthjúpurinn\", frumsýnd.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 20 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna örlæti þitt og hlýju."
+  "vissir_thu": "Vissir þú að Ljón eru eina kattardýrið sem lifir í hópum?",
+  "verdlag": "Árið 1970 kostaði 1 lítri af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og sýna heiminum hvað í þér býr. Vertu óhræddur við að taka forystu, því leiðtogahæfileikar þínir eru í hámarki."
 }
