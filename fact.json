@@ -1,54 +1,62 @@
 {
-  "date": "2026-08-07",
-  "dagur": 7,
+  "date": "2026-08-08",
+  "dagur": 8,
   "manudur": "ágúst",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 219,
-  "sunrise": "04:54",
-  "sunset": "22:11",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 220,
+  "sunrise": "04:57",
+  "sunset": "22:08",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Hólmfríður",
+  "nafnadagur": "Hafliði",
   "atburdir": [
     {
-      "ar": "1960",
-      "texti": "Fílabeinsströndin hlaut sjálfstæði frá Frakklandi."
+      "ar": "1942",
+      "texti": "Indverska þjóðarráðið samþykkti „Hættið Indlandi“ ályktunina sem leiddi til fjöldamótmæla gegn breskum yfirráðum."
     },
     {
-      "ar": "1998",
-      "texti": "Sprengjuárásir á bandarísk sendiráð í Dar es Salaam, Tansaníu, og Naíróbí, Kenýa, drápu yfir 200 manns."
+      "ar": "1969",
+      "texti": "Breska hljómsveitin The Beatles tók ljósmynd fyrir umslag plötunnar Abbey Road."
+    },
+    {
+      "ar": "1974",
+      "texti": "Richard Nixon Bandaríkjaforseti tilkynnti afsögn sína vegna Watergate-hneykslisins."
+    },
+    {
+      "ar": "1988",
+      "texti": "Vopnahlé tók gildi í stríði Írans og Íraks."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1928",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Búkolla“, var frumsýnd."
+      "ar": "1920",
+      "texti": "Fyrsta íslenska kvikmyndin, „Borgin“, var frumsýnd í Reykjavík."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Charlize Theron",
-      "starfsgrein": "leikkona",
-      "ar": "1975"
+      "nafn": "Dustin Hoffman",
+      "starfsgrein": "leikari",
+      "ar": "1937"
     },
     {
-      "nafn": "David Duchovny",
-      "starfsgrein": "leikari",
-      "ar": "1960"
+      "nafn": "Roger Federer",
+      "starfsgrein": "tennisleikari",
+      "ar": "1981"
     },
     {
-      "nafn": "Tobin Bell",
-      "starfsgrein": "leikari",
-      "ar": "1942"
+      "nafn": "Shawn Mendes",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1998"
     }
   ],
   "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
-  "tonlistUK": "I Got You Babe – Sonny & Cher (1965)",
+  "tonlistUK": "Summer Holiday – Cliff Richard (1963)",
   "bio": "The Fugitive (1993)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
+    "skyring": "Röð óheppilegra atburða eða ógæfa sem dynja yfir einhvern."
   },
-  "vissir_thu": "Vissir þú að Ljón eru eina kattardýrið sem lifir í hópum?",
-  "verdlag": "Árið 1970 kostaði 1 lítri af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og sýna heiminum hvað í þér býr. Vertu óhræddur við að taka forystu, því leiðtogahæfileikar þínir eru í hámarki."
+  "vissir_thu": "Árið 1883 var Krakatá eldfjallið í Indónesíu virkt og olli einu stærsta eldfjallagosi í skráðri sögu, sem hafði áhrif á veðurfar um allan heim í nokkur ár.",
+  "verdlag": "Árið 1970 kostaði lítri af bensíni um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju, það mun skila sér margfalt til baka."
 }
