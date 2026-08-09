@@ -1,62 +1,58 @@
 {
-  "date": "2026-08-08",
-  "dagur": 8,
+  "date": "2026-08-09",
+  "dagur": 9,
   "manudur": "ágúst",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 220,
-  "sunrise": "04:57",
-  "sunset": "22:08",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 221,
+  "sunrise": "05:00",
+  "sunset": "22:05",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Hafliði",
+  "nafnadagur": "Heiðrún",
   "atburdir": [
     {
-      "ar": "1942",
-      "texti": "Indverska þjóðarráðið samþykkti „Hættið Indlandi“ ályktunina sem leiddi til fjöldamótmæla gegn breskum yfirráðum."
-    },
-    {
-      "ar": "1969",
-      "texti": "Breska hljómsveitin The Beatles tók ljósmynd fyrir umslag plötunnar Abbey Road."
+      "ar": "1945",
+      "texti": "Bandaríkin vörpuðu annarri kjarnorkusprengjunni, 'Fat Man', á Nagasaki í Japan í lok síðari heimsstyrjaldarinnar."
     },
     {
       "ar": "1974",
-      "texti": "Richard Nixon Bandaríkjaforseti tilkynnti afsögn sína vegna Watergate-hneykslisins."
+      "texti": "Richard Nixon sagði af sér embætti forseta Bandaríkjanna vegna Watergate-hneykslisins."
     },
     {
-      "ar": "1988",
-      "texti": "Vopnahlé tók gildi í stríði Írans og Íraks."
+      "ar": "1993",
+      "texti": "Fyrsti dómstóllinn í sögu Evrópu til að dæma fyrir stríðsglæpi, Alþjóðlegi sakamáladómstóllinn fyrir fyrrverandi Júgóslavíu, var stofnaður."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1920",
-      "texti": "Fyrsta íslenska kvikmyndin, „Borgin“, var frumsýnd í Reykjavík."
+      "ar": "1944",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Milli fjalls og fjöru', var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Dustin Hoffman",
-      "starfsgrein": "leikari",
-      "ar": "1937"
+      "nafn": "Whitney Houston",
+      "starfsgrein": "söngkona",
+      "ar": "1963"
     },
     {
-      "nafn": "Roger Federer",
-      "starfsgrein": "tennisleikari",
-      "ar": "1981"
+      "nafn": "Audrey Tautou",
+      "starfsgrein": "leikkona",
+      "ar": "1976"
     },
     {
-      "nafn": "Shawn Mendes",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1998"
+      "nafn": "Anna Kendrick",
+      "starfsgrein": "leikkona",
+      "ar": "1985"
     }
   ],
-  "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
-  "tonlistUK": "Summer Holiday – Cliff Richard (1963)",
+  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
+  "tonlistUK": "I Want To Wake Up With You – Boris Gardiner (1986)",
   "bio": "The Fugitive (1993)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð óheppilegra atburða eða ógæfa sem dynja yfir einhvern."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er staður þar sem eitthvað fer úrskeiðis eða mistekst."
   },
-  "vissir_thu": "Árið 1883 var Krakatá eldfjallið í Indónesíu virkt og olli einu stærsta eldfjallagosi í skráðri sögu, sem hafði áhrif á veðurfar um allan heim í nokkur ár.",
-  "verdlag": "Árið 1970 kostaði lítri af bensíni um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju, það mun skila sér margfalt til baka."
+  "vissir_thu": "Fyrsta íslenska frímerkið var gefið út árið 1873 og sýndi skjaldarmerki Íslands.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna fram á hæfileika þína og leiðtogahæfni."
 }
