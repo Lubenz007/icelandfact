@@ -1,58 +1,66 @@
 {
-  "date": "2026-08-09",
-  "dagur": 9,
+  "date": "2026-08-10",
+  "dagur": 10,
   "manudur": "ágúst",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 221,
-  "sunrise": "05:00",
-  "sunset": "22:05",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 222,
+  "sunrise": "05:04",
+  "sunset": "22:01",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Heiðrún",
+  "nafnadagur": "Lárens",
   "atburdir": [
     {
-      "ar": "1945",
-      "texti": "Bandaríkin vörpuðu annarri kjarnorkusprengjunni, 'Fat Man', á Nagasaki í Japan í lok síðari heimsstyrjaldarinnar."
+      "ar": "1821",
+      "texti": "Missouri varð 24. fylki Bandaríkjanna."
     },
     {
-      "ar": "1974",
-      "texti": "Richard Nixon sagði af sér embætti forseta Bandaríkjanna vegna Watergate-hneykslisins."
+      "ar": "1904",
+      "texti": "Rússneski flotinn tapaði orrustunni við Gula hafið gegn Japönum."
     },
     {
-      "ar": "1993",
-      "texti": "Fyrsti dómstóllinn í sögu Evrópu til að dæma fyrir stríðsglæpi, Alþjóðlegi sakamáladómstóllinn fyrir fyrrverandi Júgóslavíu, var stofnaður."
+      "ar": "1913",
+      "texti": "Balkanstríðunum lauk með Búkarest-sáttmálanum."
+    },
+    {
+      "ar": "1944",
+      "texti": "Síðari heimsstyrjöldin: Orrustan um Guam lauk með sigri Bandaríkjamanna."
+    },
+    {
+      "ar": "1990",
+      "texti": "Magellan geimfarið náði Venus eftir 15 mánaða ferðalag."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Milli fjalls og fjöru', var frumsýnd."
+      "ar": "1969",
+      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Whitney Houston",
-      "starfsgrein": "söngkona",
-      "ar": "1963"
+      "nafn": "Herbert Hoover",
+      "starfsgrein": "forseti Bandaríkjanna",
+      "ar": "1874"
     },
     {
-      "nafn": "Audrey Tautou",
+      "nafn": "Rosanna Arquette",
       "starfsgrein": "leikkona",
-      "ar": "1976"
+      "ar": "1959"
     },
     {
-      "nafn": "Anna Kendrick",
-      "starfsgrein": "leikkona",
-      "ar": "1985"
+      "nafn": "Antonio Banderas",
+      "starfsgrein": "leikari",
+      "ar": "1960"
     }
   ],
   "tonlistUSA": "End of the Road – Boyz II Men (1992)",
-  "tonlistUK": "I Want To Wake Up With You – Boris Gardiner (1986)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
   "bio": "The Fugitive (1993)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem eitthvað fer úrskeiðis eða mistekst."
+    "ord": "þrándur",
+    "skyring": "Sterkur og þykkur viðarstaur sem notaður er til að styðja eitthvað uppi."
   },
-  "vissir_thu": "Fyrsta íslenska frímerkið var gefið út árið 1873 og sýndi skjaldarmerki Íslands.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna fram á hæfileika þína og leiðtogahæfni."
+  "vissir_thu": "Fyrsta opinbera sjónvarpsútsendingin á Íslandi fór fram árið 1966.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 12 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju, það mun skila sér margfalt."
 }
