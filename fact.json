@@ -1,33 +1,25 @@
 {
-  "date": "2026-08-10",
-  "dagur": 10,
+  "date": "2026-08-11",
+  "dagur": 11,
   "manudur": "ágúst",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 222,
-  "sunrise": "05:04",
-  "sunset": "22:01",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 223,
+  "sunrise": "05:07",
+  "sunset": "21:58",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Lárens",
+  "nafnadagur": "Glúmur",
   "atburdir": [
     {
-      "ar": "1821",
-      "texti": "Missouri varð 24. fylki Bandaríkjanna."
+      "ar": "1960",
+      "texti": "Tsjad lýsir yfir sjálfstæði frá Frakklandi."
     },
     {
-      "ar": "1904",
-      "texti": "Rússneski flotinn tapaði orrustunni við Gula hafið gegn Japönum."
+      "ar": "1972",
+      "texti": "Síðustu bandarísku landhermennirnir yfirgefa Suður-Víetnam."
     },
     {
-      "ar": "1913",
-      "texti": "Balkanstríðunum lauk með Búkarest-sáttmálanum."
-    },
-    {
-      "ar": "1944",
-      "texti": "Síðari heimsstyrjöldin: Orrustan um Guam lauk með sigri Bandaríkjamanna."
-    },
-    {
-      "ar": "1990",
-      "texti": "Magellan geimfarið náði Venus eftir 15 mánaða ferðalag."
+      "ar": "1999",
+      "texti": "Almyrkvi á sólu sást yfir Evrópu og Asíu."
     }
   ],
   "atburdir_island": [
@@ -38,29 +30,29 @@
   ],
   "afmaeli": [
     {
-      "nafn": "Herbert Hoover",
-      "starfsgrein": "forseti Bandaríkjanna",
-      "ar": "1874"
-    },
-    {
-      "nafn": "Rosanna Arquette",
-      "starfsgrein": "leikkona",
-      "ar": "1959"
-    },
-    {
-      "nafn": "Antonio Banderas",
+      "nafn": "Chris Hemsworth",
       "starfsgrein": "leikari",
-      "ar": "1960"
+      "ar": "1983"
+    },
+    {
+      "nafn": "Hulk Hogan",
+      "starfsgrein": "glímumaður",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Anna Gunn",
+      "starfsgrein": "leikkona",
+      "ar": "1968"
     }
   ],
   "tonlistUSA": "End of the Road – Boyz II Men (1992)",
-  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
-  "bio": "The Fugitive (1993)",
+  "tonlistUK": "I Want to Wake Up with You – Boris Gardiner (1986)",
+  "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
     "ord": "þrándur",
-    "skyring": "Sterkur og þykkur viðarstaur sem notaður er til að styðja eitthvað uppi."
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta opinbera sjónvarpsútsendingin á Íslandi fór fram árið 1966.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 12 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju, það mun skila sér margfalt."
+  "vissir_thu": "Fyrsta farsímtalið á Íslandi var hringt árið 1986.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 6 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna örlæti þitt og hlýju."
 }
