@@ -1,58 +1,66 @@
 {
-  "date": "2026-08-11",
-  "dagur": 11,
+  "date": "2026-08-12",
+  "dagur": 12,
   "manudur": "ágúst",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 223,
-  "sunrise": "05:07",
-  "sunset": "21:58",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 224,
+  "sunrise": "05:10",
+  "sunset": "21:54",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Glúmur",
+  "nafnadagur": "Tómas",
   "atburdir": [
     {
+      "ar": "1851",
+      "texti": "Isaac Singer fékk einkaleyfi á saumavélinni sinni."
+    },
+    {
+      "ar": "1898",
+      "texti": "Vopnahlé var undirritað í stríði Spánar og Bandaríkjanna."
+    },
+    {
       "ar": "1960",
-      "texti": "Tsjad lýsir yfir sjálfstæði frá Frakklandi."
+      "texti": "Fyrsti samskiptagervihnötturinn, Echo I, var skotið á loft af NASA."
     },
     {
-      "ar": "1972",
-      "texti": "Síðustu bandarísku landhermennirnir yfirgefa Suður-Víetnam."
+      "ar": "1981",
+      "texti": "IBM kynnti fyrstu einkatölvuna sína, IBM PC."
     },
     {
-      "ar": "1999",
-      "texti": "Almyrkvi á sólu sást yfir Evrópu og Asíu."
+      "ar": "2000",
+      "texti": "Kúrska kafbáturinn sökk í Barentshafi."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1969",
-      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
+      "ar": "1949",
+      "texti": "Íslenska ríkið keypti Keflavíkurflugvöll af Bandaríkjunum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Chris Hemsworth",
+      "nafn": "George Soros",
+      "starfsgrein": "fjárfestir",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Mark Knopfler",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Casey Affleck",
       "starfsgrein": "leikari",
-      "ar": "1983"
-    },
-    {
-      "nafn": "Hulk Hogan",
-      "starfsgrein": "glímumaður",
-      "ar": "1953"
-    },
-    {
-      "nafn": "Anna Gunn",
-      "starfsgrein": "leikkona",
-      "ar": "1968"
+      "ar": "1975"
     }
   ],
-  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
-  "tonlistUK": "I Want to Wake Up with You – Boris Gardiner (1986)",
+  "tonlistUSA": "The Twist – Chubby Checker (1960)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
   "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Fyrsta farsímtalið á Íslandi var hringt árið 1986.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 6 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að sýna örlæti þitt og hlýju."
+  "vissir_thu": "Árið 1883 var síðasti villti kvaggið (zebra-lík dýr) drepinn í Suður-Afríku.",
+  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna þinn sanna styrk."
 }
