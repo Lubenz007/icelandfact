@@ -1,66 +1,62 @@
 {
-  "date": "2026-08-12",
-  "dagur": 12,
+  "date": "2026-08-13",
+  "dagur": 13,
   "manudur": "ágúst",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 224,
-  "sunrise": "05:10",
-  "sunset": "21:54",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 225,
+  "sunrise": "05:13",
+  "sunset": "21:51",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Tómas",
+  "nafnadagur": "Hippolýtus",
   "atburdir": [
     {
-      "ar": "1851",
-      "texti": "Isaac Singer fékk einkaleyfi á saumavélinni sinni."
+      "ar": "1961",
+      "texti": "Austur-Þýskaland lokaði landamærum sínum að Vestur-Berlín og hóf byggingu Berlínarmúrsins."
     },
     {
-      "ar": "1898",
-      "texti": "Vopnahlé var undirritað í stríði Spánar og Bandaríkjanna."
+      "ar": "1913",
+      "texti": "Ryðfrítt stál var fundið upp af Harry Brearley í Sheffield, Englandi."
     },
     {
-      "ar": "1960",
-      "texti": "Fyrsti samskiptagervihnötturinn, Echo I, var skotið á loft af NASA."
-    },
-    {
-      "ar": "1981",
-      "texti": "IBM kynnti fyrstu einkatölvuna sína, IBM PC."
-    },
-    {
-      "ar": "2000",
-      "texti": "Kúrska kafbáturinn sökk í Barentshafi."
+      "ar": "1899",
+      "texti": "Fyrsti bíllinn var seldur í New York borg."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1949",
-      "texti": "Íslenska ríkið keypti Keflavíkurflugvöll af Bandaríkjunum."
+      "ar": "1940",
+      "texti": "Fyrstu bresku hermennirnir yfirgáfu Ísland eftir hernám landsins."
+    },
+    {
+      "ar": "1980",
+      "texti": "Eldgos hófst í Heklu."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "George Soros",
-      "starfsgrein": "fjárfestir",
-      "ar": "1930"
+      "nafn": "Alfred Hitchcock",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1899"
     },
     {
-      "nafn": "Mark Knopfler",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1949"
+      "nafn": "Fidel Castro",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1926"
     },
     {
-      "nafn": "Casey Affleck",
-      "starfsgrein": "leikari",
-      "ar": "1975"
+      "nafn": "Annie Oakley",
+      "starfsgrein": "skytta",
+      "ar": "1860"
     }
   ],
-  "tonlistUSA": "The Twist – Chubby Checker (1960)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
-  "bio": "Apocalypse Now (1979)",
+  "tonlistUSA": "Hound Dog – Elvis Presley (1956)",
+  "tonlistUK": "I Want To Hold Your Hand – The Beatles (1963)",
+  "bio": "The Birds (1963)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
+    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Árið 1883 var síðasti villti kvaggið (zebra-lík dýr) drepinn í Suður-Afríku.",
-  "verdlag": "Árið 1970 kostaði líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna þinn sanna styrk."
+  "vissir_thu": "Árið 1972 var fyrsta tölvupósturinn sendur á Íslandi.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
 }
