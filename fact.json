@@ -1,62 +1,66 @@
 {
-  "date": "2026-08-14",
-  "dagur": 14,
+  "date": "2026-08-15",
+  "dagur": 15,
   "manudur": "ágúst",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 226,
-  "sunrise": "05:16",
-  "sunset": "21:47",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 227,
+  "sunrise": "05:19",
+  "sunset": "21:44",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Hjalti",
+  "nafnadagur": "Marteinn",
   "atburdir": [
     {
+      "ar": "1057",
+      "texti": "Macbeth, konungur Skotlands, féll í orrustu við Malcolm Canmore."
+    },
+    {
+      "ar": "1914",
+      "texti": "Panamaskurðurinn var opnaður fyrir skipaumferð."
+    },
+    {
       "ar": "1945",
-      "texti": "Japan gafst upp fyrir bandamönnum í seinni heimsstyrjöldinni, sem markaði endalok stríðsins."
+      "texti": "Japan gafst upp í Síðari heimsstyrjöldinni, sem markaði endalok stríðsins."
     },
     {
-      "ar": "1935",
-      "texti": "Lög um almannatryggingar voru undirrituð í Bandaríkjunum af Franklin D. Roosevelt forseta."
+      "ar": "1947",
+      "texti": "Indland öðlaðist sjálfstæði frá breskum yfirráðum."
     },
     {
-      "ar": "1900",
-      "texti": "Átta þjóða bandalagið hertók Peking í Kína í Boxeruppreisninni."
-    },
-    {
-      "ar": "1893",
-      "texti": "Fyrstu bílnúmerin voru gefin út í Frakklandi."
+      "ar": "1971",
+      "texti": "Richard Nixon Bandaríkjaforseti tilkynnti að Bandaríkin myndu ekki lengur skipta dollara í gull."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1930",
-      "texti": "Alþingishátíðin á Þingvöllum lauk, en hún var haldin í tilefni af 1000 ára afmæli Alþingis."
+      "ar": "1908",
+      "texti": "Fyrsta bílferðin á Íslandi fór fram frá Reykjavík til Hafnarfjarðar."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Steve Martin",
-      "starfsgrein": "leikari, grínisti",
-      "ar": "1945"
+      "nafn": "Napoleon Bonaparte",
+      "starfsgrein": "keisari",
+      "ar": "1769"
     },
     {
-      "nafn": "Halle Berry",
-      "starfsgrein": "leikkona",
-      "ar": "1966"
+      "nafn": "Julia Child",
+      "starfsgrein": "matreiðslubókahöfundur",
+      "ar": "1912"
     },
     {
-      "nafn": "Mila Kunis",
-      "starfsgrein": "leikkona",
-      "ar": "1983"
+      "nafn": "Ben Affleck",
+      "starfsgrein": "leikari",
+      "ar": "1972"
     }
   ],
-  "tonlistUSA": "The Twist – Chubby Checker (1960)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
+  "tonlistUK": "Summer Holiday – Cliff Richard (1963)",
   "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í óláni eða er óheppinn."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Vissir þú að fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var úr tré?",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 20 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína og taka forystu. Mundu að sjálfstraust er þinn besti fylgihlutur."
+  "vissir_thu": "Vissir þú að fyrsta íslenska kvikmyndin í fullri lengd, 'Húsmóðirin', var frumsýnd árið 1926?",
+  "verdlag": "Árið 1970 kostaði lítri af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
 }
