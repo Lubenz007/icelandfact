@@ -1,66 +1,58 @@
 {
-  "date": "2026-08-15",
-  "dagur": 15,
+  "date": "2026-08-16",
+  "dagur": 16,
   "manudur": "ágúst",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 227,
-  "sunrise": "05:19",
-  "sunset": "21:44",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 228,
+  "sunrise": "05:22",
+  "sunset": "21:40",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Marteinn",
+  "nafnadagur": "Stefán",
   "atburdir": [
     {
-      "ar": "1057",
-      "texti": "Macbeth, konungur Skotlands, féll í orrustu við Malcolm Canmore."
+      "ar": "1896",
+      "texti": "Gullfíllinn í Klondike hófst í Yukon, Kanada, þegar gull fannst í Bonanza Creek."
     },
     {
-      "ar": "1914",
-      "texti": "Panamaskurðurinn var opnaður fyrir skipaumferð."
+      "ar": "1960",
+      "texti": "Kýpur öðlaðist sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1945",
-      "texti": "Japan gafst upp í Síðari heimsstyrjöldinni, sem markaði endalok stríðsins."
-    },
-    {
-      "ar": "1947",
-      "texti": "Indland öðlaðist sjálfstæði frá breskum yfirráðum."
-    },
-    {
-      "ar": "1971",
-      "texti": "Richard Nixon Bandaríkjaforseti tilkynnti að Bandaríkin myndu ekki lengur skipta dollara í gull."
+      "ar": "1977",
+      "texti": "Elvis Presley lést í Memphis, Tennessee."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1908",
-      "texti": "Fyrsta bílferðin á Íslandi fór fram frá Reykjavík til Hafnarfjarðar."
+      "ar": "1970",
+      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Napoleon Bonaparte",
-      "starfsgrein": "keisari",
-      "ar": "1769"
+      "nafn": "Madonna",
+      "starfsgrein": "söngkona",
+      "ar": "1958"
     },
     {
-      "nafn": "Julia Child",
-      "starfsgrein": "matreiðslubókahöfundur",
-      "ar": "1912"
+      "nafn": "James Cameron",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1954"
     },
     {
-      "nafn": "Ben Affleck",
+      "nafn": "Steve Carell",
       "starfsgrein": "leikari",
-      "ar": "1972"
+      "ar": "1962"
     }
   ],
-  "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
-  "tonlistUK": "Summer Holiday – Cliff Richard (1963)",
+  "tonlistUSA": "Papa Don't Preach – Madonna (1986)",
+  "tonlistUK": "Papa Don't Preach – Madonna (1986)",
   "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Vissir þú að fyrsta íslenska kvikmyndin í fullri lengd, 'Húsmóðirin', var frumsýnd árið 1926?",
-  "verdlag": "Árið 1970 kostaði lítri af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
+  "vissir_thu": "Elvis Presley keypti fyrsta gítarinn sinn fyrir 12,95 dollara árið 1954.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 60 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
 }
