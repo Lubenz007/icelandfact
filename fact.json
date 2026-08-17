@@ -1,58 +1,58 @@
 {
-  "date": "2026-08-16",
-  "dagur": 16,
+  "date": "2026-08-17",
+  "dagur": 17,
   "manudur": "ágúst",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 228,
-  "sunrise": "05:22",
-  "sunset": "21:40",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 229,
+  "sunrise": "05:25",
+  "sunset": "21:37",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Stefán",
+  "nafnadagur": "Hólmfríður",
   "atburdir": [
     {
-      "ar": "1896",
-      "texti": "Gullfíllinn í Klondike hófst í Yukon, Kanada, þegar gull fannst í Bonanza Creek."
+      "ar": "1945",
+      "texti": "Indónesía lýsir yfir sjálfstæði frá Hollandi."
     },
     {
       "ar": "1960",
-      "texti": "Kýpur öðlaðist sjálfstæði frá Bretlandi."
+      "texti": "Gabon fær sjálfstæði frá Frakklandi."
     },
     {
-      "ar": "1977",
-      "texti": "Elvis Presley lést í Memphis, Tennessee."
+      "ar": "1987",
+      "texti": "Rudolf Hess, síðasti fanginn í Spandau-fangelsinu, lést."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1970",
-      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
+      "ar": "1944",
+      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tók við völdum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Madonna",
-      "starfsgrein": "söngkona",
-      "ar": "1958"
-    },
-    {
-      "nafn": "James Cameron",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1954"
-    },
-    {
-      "nafn": "Steve Carell",
+      "nafn": "Robert De Niro",
       "starfsgrein": "leikari",
-      "ar": "1962"
+      "ar": "1943"
+    },
+    {
+      "nafn": "Sean Penn",
+      "starfsgrein": "leikari",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Donnie Wahlberg",
+      "starfsgrein": "leikari / tónlistarmaður",
+      "ar": "1969"
     }
   ],
-  "tonlistUSA": "Papa Don't Preach – Madonna (1986)",
-  "tonlistUK": "Papa Don't Preach – Madonna (1986)",
+  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
+  "tonlistUK": "I Want To Wake Up With You – Don Gibson (1959)",
   "bio": "Apocalypse Now (1979)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir."
   },
-  "vissir_thu": "Elvis Presley keypti fyrsta gítarinn sinn fyrir 12,95 dollara árið 1954.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 60 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og taka forystu. Vertu óhræddur við að sýna örlæti þitt og hlýju."
+  "vissir_thu": "Fyrsta tölvan sem var seld á Íslandi var keypt af Landsbankanum árið 1964.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 24 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína og sýna heiminum hvað í þér býr. Vertu óhræddur við að taka frumkvæði og njóta athyglinnar."
 }
