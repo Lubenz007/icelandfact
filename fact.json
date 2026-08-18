@@ -1,58 +1,62 @@
 {
-  "date": "2026-08-17",
-  "dagur": 17,
+  "date": "2026-08-18",
+  "dagur": 18,
   "manudur": "ágúst",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 229,
-  "sunrise": "05:25",
-  "sunset": "21:37",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 230,
+  "sunrise": "05:28",
+  "sunset": "21:33",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Hólmfríður",
+  "nafnadagur": "Helgi",
   "atburdir": [
     {
-      "ar": "1945",
-      "texti": "Indónesía lýsir yfir sjálfstæði frá Hollandi."
+      "ar": "1920",
+      "texti": "19. breytingartillagan við stjórnarskrá Bandaríkjanna var fullgilt, sem veitti konum kosningarétt."
     },
     {
       "ar": "1960",
-      "texti": "Gabon fær sjálfstæði frá Frakklandi."
+      "texti": "Fæðingartöflupillan, Enovid, var samþykkt til notkunar í Bandaríkjunum."
     },
     {
-      "ar": "1987",
-      "texti": "Rudolf Hess, síðasti fanginn í Spandau-fangelsinu, lést."
+      "ar": "1969",
+      "texti": "Woodstock tónlistarhátíðinni lauk í Bethel, New York."
+    },
+    {
+      "ar": "2008",
+      "texti": "Michael Phelps vann áttunda gullverðlaun sitt á Ólympíuleikunum í Peking og sló met Mark Spitz."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Fyrsta ríkisstjórn lýðveldisins Íslands tók við völdum."
+      "ar": "1954",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Nýtt hlutverk“, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Robert De Niro",
+      "nafn": "Robert Redford",
       "starfsgrein": "leikari",
-      "ar": "1943"
+      "ar": "1936"
     },
     {
-      "nafn": "Sean Penn",
+      "nafn": "Patrick Swayze",
       "starfsgrein": "leikari",
-      "ar": "1960"
+      "ar": "1952"
     },
     {
-      "nafn": "Donnie Wahlberg",
-      "starfsgrein": "leikari / tónlistarmaður",
+      "nafn": "Edward Norton",
+      "starfsgrein": "leikari",
       "ar": "1969"
     }
   ],
-  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
-  "tonlistUK": "I Want To Wake Up With You – Don Gibson (1959)",
-  "bio": "Apocalypse Now (1979)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "She Loves You – The Beatles (1963)",
+  "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir."
+    "ord": "glópagull",
+    "skyring": "Málmur sem líkist gulli en er verðlaus, oftast pýrít."
   },
-  "vissir_thu": "Fyrsta tölvan sem var seld á Íslandi var keypt af Landsbankanum árið 1964.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 24 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína og sýna heiminum hvað í þér býr. Vertu óhræddur við að taka frumkvæði og njóta athyglinnar."
+  "vissir_thu": "Fyrsta íslenska dagblaðið, „Íslandsspósturinn“, kom út árið 1773.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 30 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna sköpunargáfu þína."
 }
