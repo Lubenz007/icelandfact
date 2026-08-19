@@ -1,62 +1,58 @@
 {
-  "date": "2026-08-18",
-  "dagur": 18,
+  "date": "2026-08-19",
+  "dagur": 19,
   "manudur": "ágúst",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 230,
-  "sunrise": "05:28",
-  "sunset": "21:33",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 231,
+  "sunrise": "05:31",
+  "sunset": "21:30",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Helgi",
+  "nafnadagur": "Árni",
   "atburdir": [
     {
-      "ar": "1920",
-      "texti": "19. breytingartillagan við stjórnarskrá Bandaríkjanna var fullgilt, sem veitti konum kosningarétt."
+      "ar": "1919",
+      "texti": "Afganistan fékk fullt sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1960",
-      "texti": "Fæðingartöflupillan, Enovid, var samþykkt til notkunar í Bandaríkjunum."
+      "ar": "1944",
+      "texti": "Frelsun Parísar hófst með uppreisn frönsku andspyrnuhreyfingarinnar."
     },
     {
-      "ar": "1969",
-      "texti": "Woodstock tónlistarhátíðinni lauk í Bethel, New York."
-    },
-    {
-      "ar": "2008",
-      "texti": "Michael Phelps vann áttunda gullverðlaun sitt á Ólympíuleikunum í Peking og sló met Mark Spitz."
+      "ar": "1991",
+      "texti": "Valdaránstilraun kommúnista í Sovétríkjunum hófst."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1954",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Nýtt hlutverk“, var frumsýnd."
+      "ar": "1915",
+      "texti": "Fyrsta kvikmyndasýningin í Nýja Bíói á Íslandi fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Robert Redford",
-      "starfsgrein": "leikari",
-      "ar": "1936"
+      "nafn": "Orville Wright",
+      "starfsgrein": "flugfrumkvöðull",
+      "ar": "1871"
     },
     {
-      "nafn": "Patrick Swayze",
-      "starfsgrein": "leikari",
-      "ar": "1952"
+      "nafn": "Coco Chanel",
+      "starfsgrein": "fatahönnuður",
+      "ar": "1883"
     },
     {
-      "nafn": "Edward Norton",
-      "starfsgrein": "leikari",
-      "ar": "1969"
+      "nafn": "Bill Clinton",
+      "starfsgrein": "fyrrverandi Bandaríkjaforseti",
+      "ar": "1946"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "She Loves You – The Beatles (1963)",
+  "tonlistUSA": "Sweet Child o' Mine – Guns N' Roses (1988)",
+  "tonlistUK": "Relax – Frankie Goes to Hollywood (1983)",
   "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
-    "ord": "glópagull",
-    "skyring": "Málmur sem líkist gulli en er verðlaus, oftast pýrít."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta íslenska dagblaðið, „Íslandsspósturinn“, kom út árið 1773.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 30 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörinn tími til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna sköpunargáfu þína."
+  "vissir_thu": "Fyrsta ljósmyndin af manneskju var tekin árið 1826 af Nicéphore Niépce.",
+  "verdlag": "Árið 1970 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að taka frumkvæði og sýna leiðtogahæfileika þína."
 }
