@@ -1,58 +1,67 @@
 {
-  "date": "2026-08-19",
-  "dagur": 19,
+  "date": "2026-08-20",
+  "dagur": 20,
   "manudur": "ágúst",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 231,
-  "sunrise": "05:31",
-  "sunset": "21:30",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 232,
+  "sunrise": "05:34",
+  "sunset": "21:26",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Árni",
+  "nafnadagur": "Bernard",
   "atburdir": [
     {
-      "ar": "1919",
-      "texti": "Afganistan fékk fullt sjálfstæði frá Bretlandi."
+      "ar": "1882",
+      "texti": "Tchaikovsky's 1812 Overture var frumflutt í Moskvu."
     },
     {
-      "ar": "1944",
-      "texti": "Frelsun Parísar hófst með uppreisn frönsku andspyrnuhreyfingarinnar."
+      "ar": "1940",
+      "texti": "Winston Churchill flutti fræga ræðu sína um orrustuna um Bretland, þar sem hann sagði: „Aldrei í sögu hernaðar hefur svo mörgum skuldast svo mikið af svo fáum.“"
+    },
+    {
+      "ar": "1968",
+      "texti": "Innrás Sovétríkjanna og bandamanna þeirra í Varsjárbandalaginu í Tékkóslóvakíu hófst til að stöðva umbætur Prag-vorsins."
     },
     {
       "ar": "1991",
-      "texti": "Valdaránstilraun kommúnista í Sovétríkjunum hófst."
+      "texti": "Eistland lýsti yfir sjálfstæði frá Sovétríkjunum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1915",
-      "texti": "Fyrsta kvikmyndasýningin í Nýja Bíói á Íslandi fór fram."
+      "ar": "1940",
+      "texti": "Fyrsta breska herliðið sem kom til Íslands í seinni heimsstyrjöldinni, til að verja landið eftir hernám Þjóðverja í Danmörku, fór frá landinu."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Orville Wright",
-      "starfsgrein": "flugfrumkvöðull",
-      "ar": "1871"
+      "nafn": "H.P. Lovecraft",
+      "starfsgrein": "rithöfundur",
+      "ar": "1890"
     },
     {
-      "nafn": "Coco Chanel",
-      "starfsgrein": "fatahönnuður",
-      "ar": "1883"
+      "nafn": "Jacqueline Susann",
+      "starfsgrein": "rithöfundur",
+      "ar": "1918"
     },
     {
-      "nafn": "Bill Clinton",
-      "starfsgrein": "fyrrverandi Bandaríkjaforseti",
-      "ar": "1946"
+      "nafn": "Isaac Hayes",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Robert Plant",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1948"
     }
   ],
-  "tonlistUSA": "Sweet Child o' Mine – Guns N' Roses (1988)",
-  "tonlistUK": "Relax – Frankie Goes to Hollywood (1983)",
+  "tonlistUSA": "The Twist – Chubby Checker (1960)",
+  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
   "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "glópagull",
+    "skyring": "Efni sem líkist gulli en er verðlaust, oft notað um eitthvað sem virðist verðmætt en er það ekki."
   },
-  "vissir_thu": "Fyrsta ljósmyndin af manneskju var tekin árið 1826 af Nicéphore Niépce.",
-  "verdlag": "Árið 1970 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er góður dagur til að láta ljós þitt skína og vera miðpunktur athyglinnar. Vertu óhræddur við að taka frumkvæði og sýna leiðtogahæfileika þína."
+  "vissir_thu": "Íslenska hestakynið er eitt það hreinræktaðasta í heimi og hefur verið einangrað í yfir 1000 ár, en engum öðrum hestum er leyft að koma inn í landið.",
+  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna sköpunargáfu þína."
 }
