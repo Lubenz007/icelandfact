@@ -1,67 +1,66 @@
 {
-  "date": "2026-08-20",
-  "dagur": 20,
+  "date": "2026-08-21",
+  "dagur": 21,
   "manudur": "ágúst",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 232,
-  "sunrise": "05:34",
-  "sunset": "21:26",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 233,
+  "sunrise": "05:38",
+  "sunset": "21:23",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Bernard",
+  "nafnadagur": "Páll",
   "atburdir": [
     {
-      "ar": "1882",
-      "texti": "Tchaikovsky's 1812 Overture var frumflutt í Moskvu."
+      "ar": "1911",
+      "texti": "Mona Lisa var stolið af Louvre safninu í París."
     },
     {
-      "ar": "1940",
-      "texti": "Winston Churchill flutti fræga ræðu sína um orrustuna um Bretland, þar sem hann sagði: „Aldrei í sögu hernaðar hefur svo mörgum skuldast svo mikið af svo fáum.“"
+      "ar": "1959",
+      "texti": "Hawaii varð 50. ríki Bandaríkjanna."
     },
     {
-      "ar": "1968",
-      "texti": "Innrás Sovétríkjanna og bandamanna þeirra í Varsjárbandalaginu í Tékkóslóvakíu hófst til að stöðva umbætur Prag-vorsins."
+      "ar": "1986",
+      "texti": "Los Angeles Dodgers leikmaðurinn Don Sutton náði 3000. strikeout ferils síns."
     },
     {
       "ar": "1991",
       "texti": "Eistland lýsti yfir sjálfstæði frá Sovétríkjunum."
+    },
+    {
+      "ar": "2017",
+      "texti": "Almyrkvi á sólu sást yfir Bandaríkjunum frá Oregon til Suður-Karólínu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1940",
-      "texti": "Fyrsta breska herliðið sem kom til Íslands í seinni heimsstyrjöldinni, til að verja landið eftir hernám Þjóðverja í Danmörku, fór frá landinu."
+      "ar": "1971",
+      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "H.P. Lovecraft",
-      "starfsgrein": "rithöfundur",
-      "ar": "1890"
-    },
-    {
-      "nafn": "Jacqueline Susann",
-      "starfsgrein": "rithöfundur",
-      "ar": "1918"
-    },
-    {
-      "nafn": "Isaac Hayes",
+      "nafn": "Count Basie",
       "starfsgrein": "tónlistarmaður",
-      "ar": "1942"
+      "ar": "1904"
     },
     {
-      "nafn": "Robert Plant",
+      "nafn": "Kenny Rogers",
       "starfsgrein": "tónlistarmaður",
-      "ar": "1948"
+      "ar": "1938"
+    },
+    {
+      "nafn": "Hayden Panettiere",
+      "starfsgrein": "leikkona",
+      "ar": "1989"
     }
   ],
-  "tonlistUSA": "The Twist – Chubby Checker (1960)",
-  "tonlistUK": "Good Vibrations – The Beach Boys (1966)",
-  "bio": "The Wizard of Oz (1939)",
+  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
+  "tonlistUK": "I Got You Babe – Sonny & Cher (1965)",
+  "bio": "The 40-Year-Old Virgin (2005)",
   "ord_dagsins": {
-    "ord": "glópagull",
-    "skyring": "Efni sem líkist gulli en er verðlaust, oft notað um eitthvað sem virðist verðmætt en er það ekki."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í óláni eða óhöppum hvað eftir annað."
   },
-  "vissir_thu": "Íslenska hestakynið er eitt það hreinræktaðasta í heimi og hefur verið einangrað í yfir 1000 ár, en engum öðrum hestum er leyft að koma inn í landið.",
+  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
   "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína. Vertu óhræddur við að taka forystu og sýna sköpunargáfu þína."
+  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína. Vertu óhrædd/ur við að taka frumkvæði og sýna hvað í þér býr."
 }
