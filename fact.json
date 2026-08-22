@@ -1,66 +1,62 @@
 {
-  "date": "2026-08-21",
-  "dagur": 21,
+  "date": "2026-08-22",
+  "dagur": 22,
   "manudur": "ágúst",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 233,
-  "sunrise": "05:38",
-  "sunset": "21:23",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 234,
+  "sunrise": "05:41",
+  "sunset": "21:19",
   "stjornumerki": "Ljón",
-  "nafnadagur": "Páll",
+  "nafnadagur": "Regína",
   "atburdir": [
     {
-      "ar": "1911",
-      "texti": "Mona Lisa var stolið af Louvre safninu í París."
+      "ar": "1485",
+      "texti": "Orrustan um Bosworth Field átti sér stað, síðasta stóra orrusta Rósastríðanna í Englandi."
     },
     {
-      "ar": "1959",
-      "texti": "Hawaii varð 50. ríki Bandaríkjanna."
+      "ar": "1864",
+      "texti": "Fyrsti Genfarsáttmálinn var undirritaður, sem leiddi til stofnunar Rauða krossins."
     },
     {
-      "ar": "1986",
-      "texti": "Los Angeles Dodgers leikmaðurinn Don Sutton náði 3000. strikeout ferils síns."
+      "ar": "1962",
+      "texti": "Tilraun var gerð til að ráða Charles de Gaulle, þáverandi forseta Frakklands, af dögum."
     },
     {
-      "ar": "1991",
-      "texti": "Eistland lýsti yfir sjálfstæði frá Sovétríkjunum."
-    },
-    {
-      "ar": "2017",
-      "texti": "Almyrkvi á sólu sást yfir Bandaríkjunum frá Oregon til Suður-Karólínu."
+      "ar": "1989",
+      "texti": "Fyrsti hringurinn í Neptúnusi uppgötvaðist af Voyager 2 geimfarinu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1971",
+      "ar": "1981",
       "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Count Basie",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1904"
+      "nafn": "Claude Debussy",
+      "starfsgrein": "tónskáld",
+      "ar": "1862"
     },
     {
-      "nafn": "Kenny Rogers",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1938"
+      "nafn": "Dorothy Parker",
+      "starfsgrein": "rithöfundur",
+      "ar": "1893"
     },
     {
-      "nafn": "Hayden Panettiere",
-      "starfsgrein": "leikkona",
-      "ar": "1989"
+      "nafn": "James Corden",
+      "starfsgrein": "leikari / sjónvarpsmaður",
+      "ar": "1978"
     }
   ],
-  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
-  "tonlistUK": "I Got You Babe – Sonny & Cher (1965)",
-  "bio": "The 40-Year-Old Virgin (2005)",
+  "tonlistUSA": "The Loco-Motion – Little Eva (1962)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í óláni eða óhöppum hvað eftir annað."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list, oft með áherslu á nákvæmni og smekkvísi."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
+  "vissir_thu": "Árið 1901 var fyrsta bílnúmerið gefið út í New York, en það var ekki fyrr en 1903 sem Massachusetts varð fyrsta ríkið til að krefjast bílnúmera á öllum ökutækjum.",
   "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er kjörið tækifæri til að láta ljós þitt skína. Vertu óhrædd/ur við að taka frumkvæði og sýna hvað í þér býr."
+  "stjornuspa": "Ljón, í dag er mikilvægt að leyfa sköpunargáfunni að njóta sín. Ekki vera hrædd/ur við að taka forystu í verkefnum sem vekja áhuga þinn."
 }
