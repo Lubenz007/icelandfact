@@ -1,62 +1,66 @@
 {
-  "date": "2026-08-22",
-  "dagur": 22,
+  "date": "2026-08-23",
+  "dagur": 23,
   "manudur": "ágúst",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 234,
-  "sunrise": "05:41",
-  "sunset": "21:19",
-  "stjornumerki": "Ljón",
-  "nafnadagur": "Regína",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 235,
+  "sunrise": "05:44",
+  "sunset": "21:16",
+  "stjornumerki": "Meyja",
+  "nafnadagur": "Rósa",
   "atburdir": [
     {
-      "ar": "1485",
-      "texti": "Orrustan um Bosworth Field átti sér stað, síðasta stóra orrusta Rósastríðanna í Englandi."
+      "ar": "1939",
+      "texti": "Molotov-Ribbentrop-sáttmálinn, griðasáttmáli milli Þýskalands og Sovétríkjanna, var undirritaður í Moskvu."
     },
     {
-      "ar": "1864",
-      "texti": "Fyrsti Genfarsáttmálinn var undirritaður, sem leiddi til stofnunar Rauða krossins."
+      "ar": "1942",
+      "texti": "Orrustan um Stalingrad hófst í seinni heimsstyrjöldinni."
+    },
+    {
+      "ar": "1944",
+      "texti": "Rúmenía skipti um bandalag í seinni heimsstyrjöldinni og gekk í lið með bandamönnum."
     },
     {
       "ar": "1962",
-      "texti": "Tilraun var gerð til að ráða Charles de Gaulle, þáverandi forseta Frakklands, af dögum."
+      "texti": "Fyrsta sjónvarpsútsendingin í beinni frá Evrópu til Bandaríkjanna fór fram með Telstar gervihnettinum."
     },
     {
-      "ar": "1989",
-      "texti": "Fyrsti hringurinn í Neptúnusi uppgötvaðist af Voyager 2 geimfarinu."
+      "ar": "1990",
+      "texti": "Austur- og Vestur-Þýskaland tilkynntu að þau myndu sameinast 3. október."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1981",
-      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið."
+      "ar": "1979",
+      "texti": "Fyrsti hluti Kárahnjúkavirkjunar var tekinn í notkun."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Claude Debussy",
-      "starfsgrein": "tónskáld",
-      "ar": "1862"
+      "nafn": "Gene Kelly",
+      "starfsgrein": "leikari og dansari",
+      "ar": "1912"
     },
     {
-      "nafn": "Dorothy Parker",
-      "starfsgrein": "rithöfundur",
-      "ar": "1893"
-    },
-    {
-      "nafn": "James Corden",
-      "starfsgrein": "leikari / sjónvarpsmaður",
+      "nafn": "Kobe Bryant",
+      "starfsgrein": "körfuboltamaður",
       "ar": "1978"
+    },
+    {
+      "nafn": "River Phoenix",
+      "starfsgrein": "leikari",
+      "ar": "1970"
     }
   ],
-  "tonlistUSA": "The Loco-Motion – Little Eva (1962)",
-  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "tonlistUSA": "The Twist – Chubby Checker (1960)",
+  "tonlistUK": "Summer Holiday – Cliff Richard & The Shadows (1963)",
   "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oft með áherslu á nákvæmni og smekkvísi."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Árið 1901 var fyrsta bílnúmerið gefið út í New York, en það var ekki fyrr en 1903 sem Massachusetts varð fyrsta ríkið til að krefjast bílnúmera á öllum ökutækjum.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Ljón, í dag er mikilvægt að leyfa sköpunargáfunni að njóta sín. Ekki vera hrædd/ur við að taka forystu í verkefnum sem vekja áhuga þinn."
+  "vissir_thu": "Árið 1971 var fyrsta tölvupósturinn sendur, en það var ekki fyrr en árið 1978 sem fyrsti fjöldapósturinn var sendur.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina og setja þér markmið. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig."
 }
