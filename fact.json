@@ -1,66 +1,66 @@
 {
-  "date": "2026-08-23",
-  "dagur": 23,
+  "date": "2026-08-24",
+  "dagur": 24,
   "manudur": "ágúst",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 235,
-  "sunrise": "05:44",
-  "sunset": "21:16",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 236,
+  "sunrise": "05:47",
+  "sunset": "21:12",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Rósa",
+  "nafnadagur": "Bartólómeus",
   "atburdir": [
     {
-      "ar": "1939",
-      "texti": "Molotov-Ribbentrop-sáttmálinn, griðasáttmáli milli Þýskalands og Sovétríkjanna, var undirritaður í Moskvu."
+      "ar": "79",
+      "texti": "Vesuvius gaus og eyddi borgunum Pompeii og Herculaneum."
     },
     {
-      "ar": "1942",
-      "texti": "Orrustan um Stalingrad hófst í seinni heimsstyrjöldinni."
+      "ar": "1572",
+      "texti": "Bartólómeusarvígin hófust í París, þar sem þúsundir húgenotta voru myrtir."
     },
     {
-      "ar": "1944",
-      "texti": "Rúmenía skipti um bandalag í seinni heimsstyrjöldinni og gekk í lið með bandamönnum."
+      "ar": "1814",
+      "texti": "Breskar hersveitir brenndu Hvíta húsið í Washington D.C. í stríðinu 1812."
     },
     {
-      "ar": "1962",
-      "texti": "Fyrsta sjónvarpsútsendingin í beinni frá Evrópu til Bandaríkjanna fór fram með Telstar gervihnettinum."
+      "ar": "1991",
+      "texti": "Úkraína lýsti yfir sjálfstæði frá Sovétríkjunum."
     },
     {
-      "ar": "1990",
-      "texti": "Austur- og Vestur-Þýskaland tilkynntu að þau myndu sameinast 3. október."
+      "ar": "1995",
+      "texti": "Microsoft gaf út stýrikerfið Windows 95."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1979",
-      "texti": "Fyrsti hluti Kárahnjúkavirkjunar var tekinn í notkun."
+      "ar": "1940",
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsmóðir í Reykjavík“, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Gene Kelly",
-      "starfsgrein": "leikari og dansari",
-      "ar": "1912"
+      "nafn": "Jean-Michel Jarre",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1948"
     },
     {
-      "nafn": "Kobe Bryant",
-      "starfsgrein": "körfuboltamaður",
-      "ar": "1978"
-    },
-    {
-      "nafn": "River Phoenix",
+      "nafn": "Stephen Fry",
       "starfsgrein": "leikari",
-      "ar": "1970"
+      "ar": "1957"
+    },
+    {
+      "nafn": "Rupert Grint",
+      "starfsgrein": "leikari",
+      "ar": "1988"
     }
   ],
-  "tonlistUSA": "The Twist – Chubby Checker (1960)",
-  "tonlistUK": "Summer Holiday – Cliff Richard & The Shadows (1963)",
+  "tonlistUSA": "The Sign – Ace of Base (1993)",
+  "tonlistUK": "Wonderwall – Oasis (1995)",
   "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Árið 1971 var fyrsta tölvupósturinn sendur, en það var ekki fyrr en árið 1978 sem fyrsti fjöldapósturinn var sendur.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina og setja þér markmið. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig."
+  "vissir_thu": "Þyngsta grasker sem skráð hefur verið vó yfir 1.200 kíló.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 20 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina og setja þér ný markmið. Vertu opinn fyrir óvæntum tækifærum sem gætu birst."
 }
