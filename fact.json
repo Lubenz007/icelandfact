@@ -1,62 +1,66 @@
 {
-  "date": "2026-08-25",
-  "dagur": 25,
+  "date": "2026-08-26",
+  "dagur": 26,
   "manudur": "ágúst",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 237,
-  "sunrise": "05:50",
-  "sunset": "21:09",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 238,
+  "sunrise": "05:53",
+  "sunset": "21:05",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Baldvin",
+  "nafnadagur": "Barthólómeus",
   "atburdir": [
     {
-      "ar": "1830",
-      "texti": "Belgíska byltingin hefst í Brussel."
+      "ar": "1789",
+      "texti": "Yfirlýsing um mannréttindi og borgararéttindi samþykkt í Frakklandi."
     },
     {
-      "ar": "1944",
-      "texti": "París er frelsuð undan hernámi Þjóðverja í seinni heimsstyrjöld."
+      "ar": "1883",
+      "texti": "Eldgos í Krakatá byrjar, eitt öflugasta eldgos sögunnar."
     },
     {
-      "ar": "1991",
-      "texti": "Hvíta-Rússland lýsir yfir sjálfstæði frá Sovétríkjunum."
+      "ar": "1920",
+      "texti": "19. viðauki stjórnarskrár Bandaríkjanna tekur gildi, sem veitir konum kosningarétt."
     },
     {
-      "ar": "2012",
-      "texti": "Geimkönnunarfarið Voyager 1 fer út fyrir heliosphere og inn í geiminn milli stjarna."
+      "ar": "1978",
+      "texti": "Jóhannes Páll I verður páfi."
+    },
+    {
+      "ar": "1996",
+      "texti": "Suður-Kórea dæmir fyrrverandi forsetana Chun Doo-hwan og Roh Tae-woo í fangelsi fyrir uppreisn og spillingu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1968",
-      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fer fram."
+      "ar": "1981",
+      "texti": "Fyrsta tölvan var sett upp í Háskóla Íslands."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Sean Connery",
+      "nafn": "Mother Teresa",
+      "starfsgrein": "nunna og trúboði",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Shirley Manson",
+      "starfsgrein": "söngkona",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Macaulay Culkin",
       "starfsgrein": "leikari",
-      "ar": "1930"
-    },
-    {
-      "nafn": "Leonard Bernstein",
-      "starfsgrein": "tónskáld og hljómsveitarstjóri",
-      "ar": "1918"
-    },
-    {
-      "nafn": "Tim Burton",
-      "starfsgrein": "kvikmyndaleikstjóri",
-      "ar": "1958"
+      "ar": "1980"
     }
   ],
-  "tonlistUSA": "The Sign – Ace of Base (1993)",
-  "tonlistUK": "Wonderwall – Oasis (1995)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
   "bio": "The Wizard of Oz (1939)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
     "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Árið 1975 varð Vigdís Finnbogadóttir fyrst kvenna til að vera kjörin forseti lýðveldis á Íslandi.",
-  "verdlag": "Árið 1980 kostaði líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina og setja þér ný markmið. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáatriði stoppa þig."
+  "vissir_thu": "Fyrsta prentaða bók á Íslandi var Guðbrandsbiblía, gefin út árið 1584.",
+  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 25 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig."
 }
