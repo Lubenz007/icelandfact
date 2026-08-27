@@ -1,66 +1,62 @@
 {
-  "date": "2026-08-26",
-  "dagur": 26,
+  "date": "2026-08-27",
+  "dagur": 27,
   "manudur": "ágúst",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 238,
-  "sunrise": "05:53",
-  "sunset": "21:05",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 239,
+  "sunrise": "",
+  "sunset": "",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Barthólómeus",
+  "nafnadagur": "Móna",
   "atburdir": [
     {
-      "ar": "1789",
-      "texti": "Yfirlýsing um mannréttindi og borgararéttindi samþykkt í Frakklandi."
-    },
-    {
       "ar": "1883",
-      "texti": "Eldgos í Krakatá byrjar, eitt öflugasta eldgos sögunnar."
+      "texti": "Eldgos hófst í Krakatá í Indónesíu, sem var eitt öflugasta eldgos sögunnar."
     },
     {
-      "ar": "1920",
-      "texti": "19. viðauki stjórnarskrár Bandaríkjanna tekur gildi, sem veitir konum kosningarétt."
+      "ar": "1928",
+      "texti": "Kellogg-Briand sáttmálinn var undirritaður í París, þar sem ríki lofuðu að afsala sér stríði sem leið til að leysa deilur."
     },
     {
-      "ar": "1978",
-      "texti": "Jóhannes Páll I verður páfi."
+      "ar": "1962",
+      "texti": "Marsferjan Mariner 2 var skotið á loft af NASA, fyrsta geimfarið til að fljúga framhjá annarri plánetu."
     },
     {
-      "ar": "1996",
-      "texti": "Suður-Kórea dæmir fyrrverandi forsetana Chun Doo-hwan og Roh Tae-woo í fangelsi fyrir uppreisn og spillingu."
+      "ar": "1991",
+      "texti": "Moldóva lýsti yfir sjálfstæði frá Sovétríkjunum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1981",
-      "texti": "Fyrsta tölvan var sett upp í Háskóla Íslands."
+      "ar": "1940",
+      "texti": "Breskir hermenn tóku yfir varnir á Íslandi í seinni heimsstyrjöldinni."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Mother Teresa",
-      "starfsgrein": "nunna og trúboði",
-      "ar": "1910"
+      "nafn": "Georg Wilhelm Friedrich Hegel",
+      "starfsgrein": "heimspekingur",
+      "ar": "1770"
     },
     {
-      "nafn": "Shirley Manson",
-      "starfsgrein": "söngkona",
-      "ar": "1966"
+      "nafn": "Lyndon B. Johnson",
+      "starfsgrein": "forseti Bandaríkjanna",
+      "ar": "1908"
     },
     {
-      "nafn": "Macaulay Culkin",
-      "starfsgrein": "leikari",
-      "ar": "1980"
+      "nafn": "Man Ray",
+      "starfsgrein": "ljósmyndari og listamaður",
+      "ar": "1890"
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "bio": "The Wizard of Oz (1939)",
+  "tonlistUSA": "The Loco-Motion – Little Eva (1962)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "bio": "Mary Poppins (1964)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í mörgum óhöppum eða er óheppinn."
+    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Fyrsta prentaða bók á Íslandi var Guðbrandsbiblía, gefin út árið 1584.",
-  "verdlag": "Árið 1980 kostaði mjólkurlítrinn um 25 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Borgin', var frumsýnd árið 1923.",
+  "verdlag": "Árið 1970 kostaði einn líter af mjólk um 10 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina og taka ákvarðanir. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig."
 }
