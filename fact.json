@@ -1,62 +1,70 @@
 {
-  "date": "2026-08-27",
-  "dagur": 27,
+  "date": "2026-08-28",
+  "dagur": 28,
   "manudur": "ágúst",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 239,
-  "sunrise": "",
-  "sunset": "",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 240,
+  "sunrise": "05:59",
+  "sunset": "20:58",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Móna",
+  "nafnadagur": "Ágúst",
   "atburdir": [
     {
-      "ar": "1883",
-      "texti": "Eldgos hófst í Krakatá í Indónesíu, sem var eitt öflugasta eldgos sögunnar."
+      "ar": "1963",
+      "texti": "Martin Luther King Jr. flutti fræga ræðu sína „I Have a Dream“ í Washington D.C."
     },
     {
-      "ar": "1928",
-      "texti": "Kellogg-Briand sáttmálinn var undirritaður í París, þar sem ríki lofuðu að afsala sér stríði sem leið til að leysa deilur."
+      "ar": "1993",
+      "texti": "Galileo geimfarið flaug framhjá smástirninu Ida."
     },
     {
-      "ar": "1962",
-      "texti": "Marsferjan Mariner 2 var skotið á loft af NASA, fyrsta geimfarið til að fljúga framhjá annarri plánetu."
+      "ar": "1914",
+      "texti": "Fyrri heimsstyrjöldin: Orrustan um Helgoland var háð."
     },
     {
-      "ar": "1991",
-      "texti": "Moldóva lýsti yfir sjálfstæði frá Sovétríkjunum."
+      "ar": "1916",
+      "texti": "Fyrri heimsstyrjöldin: Ítalía lýsti yfir stríði á hendur Þýskalandi."
+    },
+    {
+      "ar": "1845",
+      "texti": "Fyrsta tölublað Scientific American kom út."
     }
   ],
   "atburdir_island": [
     {
+      "ar": "1968",
+      "texti": "Sjónvarpið hóf reglulegar útsendingar á Íslandi."
+    },
+    {
       "ar": "1940",
-      "texti": "Breskir hermenn tóku yfir varnir á Íslandi í seinni heimsstyrjöldinni."
+      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsmæðrakennarinn“, var frumsýnd."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Georg Wilhelm Friedrich Hegel",
-      "starfsgrein": "heimspekingur",
-      "ar": "1770"
+      "nafn": "Jack Black",
+      "starfsgrein": "leikari",
+      "ar": "1969"
     },
     {
-      "nafn": "Lyndon B. Johnson",
-      "starfsgrein": "forseti Bandaríkjanna",
-      "ar": "1908"
+      "nafn": "Shania Twain",
+      "starfsgrein": "söngkona",
+      "ar": "1965"
     },
     {
-      "nafn": "Man Ray",
-      "starfsgrein": "ljósmyndari og listamaður",
-      "ar": "1890"
+      "nafn": "Florence Welch",
+      "starfsgrein": "söngkona",
+      "ar": "1986"
     }
   ],
-  "tonlistUSA": "The Loco-Motion – Little Eva (1962)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
   "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
-  "bio": "Mary Poppins (1964)",
+  "bio": "The Fugitive (1993)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir oft í óhöppum eða er óheppinn."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða óstýrilátur."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, 'Borgin', var frumsýnd árið 1923.",
-  "verdlag": "Árið 1970 kostaði einn líter af mjólk um 10 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina og taka ákvarðanir. Vertu opinn fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig."
+  "vissir_thu": "Fyrsta íslenska dagblaðið, „Ármann á Alþingi“, kom út árið 1848.",
+  "verdlag": "Árið 1970 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Ekki láta smáatriði fara framhjá þér, því þau geta skipt sköpum."
 }
