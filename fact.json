@@ -1,70 +1,62 @@
 {
-  "date": "2026-08-28",
-  "dagur": 28,
+  "date": "2026-08-29",
+  "dagur": 29,
   "manudur": "ágúst",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 240,
-  "sunrise": "05:59",
-  "sunset": "20:58",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 241,
+  "sunrise": "06:01",
+  "sunset": "20:54",
   "stjornumerki": "Meyja",
   "nafnadagur": "Ágúst",
   "atburdir": [
     {
-      "ar": "1963",
-      "texti": "Martin Luther King Jr. flutti fræga ræðu sína „I Have a Dream“ í Washington D.C."
+      "ar": "1842",
+      "texti": "Fyrsti ópíumstríðinu lauk með undirritun Nanking-sáttmálans."
     },
     {
-      "ar": "1993",
-      "texti": "Galileo geimfarið flaug framhjá smástirninu Ida."
+      "ar": "1885",
+      "texti": "Gottlieb Daimler fékk einkaleyfi á fyrsta mótorhjólinu."
     },
     {
-      "ar": "1914",
-      "texti": "Fyrri heimsstyrjöldin: Orrustan um Helgoland var háð."
+      "ar": "1991",
+      "texti": "Hæstiréttur Sovétríkjanna bannaði starfsemi kommúnistaflokksins."
     },
     {
-      "ar": "1916",
-      "texti": "Fyrri heimsstyrjöldin: Ítalía lýsti yfir stríði á hendur Þýskalandi."
-    },
-    {
-      "ar": "1845",
-      "texti": "Fyrsta tölublað Scientific American kom út."
+      "ar": "2005",
+      "texti": " fellibylurinn Katrina gekk á land í Louisiana og Mississippi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1968",
-      "texti": "Sjónvarpið hóf reglulegar útsendingar á Íslandi."
-    },
-    {
-      "ar": "1940",
-      "texti": "Fyrsta íslenska kvikmyndin í fullri lengd, „Húsmæðrakennarinn“, var frumsýnd."
+      "texti": "Fyrsta sjónvarpsútsending Ríkisútvarpsins fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Jack Black",
-      "starfsgrein": "leikari",
-      "ar": "1969"
+      "nafn": "Michael Jackson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1958"
     },
     {
-      "nafn": "Shania Twain",
-      "starfsgrein": "söngkona",
-      "ar": "1965"
+      "nafn": "Ingrid Bergman",
+      "starfsgrein": "leikkona",
+      "ar": "1915"
     },
     {
-      "nafn": "Florence Welch",
-      "starfsgrein": "söngkona",
-      "ar": "1986"
+      "nafn": "John McCain",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1936"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
+  "tonlistUK": "Tears On My Pillow – Kylie Minogue (1990)",
   "bio": "The Fugitive (1993)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt íslenskt orð sem vísar til manns sem er þrjóskur eða óstýrilátur."
+    "ord": "hagleikur",
+    "skyring": "Hagleikur er færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
   },
-  "vissir_thu": "Fyrsta íslenska dagblaðið, „Ármann á Alþingi“, kom út árið 1848.",
-  "verdlag": "Árið 1970 kostaði mjólkurlítrinn um 10 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Ekki láta smáatriði fara framhjá þér, því þau geta skipt sköpum."
+  "vissir_thu": "Fyrsti farsíminn sem var seldur í almennum viðskiptum var Motorola DynaTAC 8000x árið 1983.",
+  "verdlag": "Árið 1980 kostaði einn líter af mjólk um 25 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo vertu nákvæm í öllu sem þú tekur þér fyrir hendur."
 }
