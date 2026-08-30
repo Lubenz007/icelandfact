@@ -1,6 +1,8 @@
 import json
+import re
 import urllib.request
 import urllib.error
+import urllib.parse
 import os
 from datetime import datetime, timezone
 
@@ -49,6 +51,88 @@ except Exception as e:
     print(f"Sunrise API villa: {e}")
     sunrise = sunset = ""
 
+
+def fetch_wikimedia(kind):
+    """Fetch curated 'on this day' data from Wikipedia so Gemini has real
+    facts to translate instead of inventing events/years from memory."""
+    url = (
+        "https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/"
+        f"{kind}/{now.month:02d}/{now.day:02d}"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": "SaganIDag/1.0 (https://saganidag.is)"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read())
+        items = data.get(kind, [])
+        return [
+            {"year": item.get("year"), "text": item.get("text", "").replace("(pictured)", "").strip()}
+            for item in items
+            if item.get("year") is not None and item.get("text")
+        ]
+    except Exception as e:
+        print(f"Wikimedia {kind} API villa: {e}")
+        return []
+
+
+def sample_spread(items, n):
+    """Evenly sample up to n items across the full list so the range of
+    years/eras stays varied instead of skewing toward whatever sorts first."""
+    if len(items) <= n:
+        return items
+    step = len(items) / n
+    return [items[int(i * step)] for i in range(n)]
+
+
+wiki_events = fetch_wikimedia("selected")[:20]
+wiki_births = sample_spread(fetch_wikimedia("births"), 30)
+
+
+def fetch_is_wikipedia_events():
+    """Fetch the human-edited 'Atburðir' (events) section of is.wikipedia.org's
+    day article (e.g. '30. ágúst') — already in Icelandic and includes Iceland-
+    specific entries, unlike the English Wikimedia feed."""
+    title = urllib.parse.quote(f"{day}. {month}")
+    url = (
+        "https://is.wikipedia.org/w/api.php?action=query&prop=extracts"
+        f"&titles={title}&format=json&formatversion=2&explaintext=1&redirects=1"
+    )
+    req = urllib.request.Request(url, headers={"User-Agent": "SaganIDag/1.0 (https://saganidag.is)"})
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read())
+        pages = data.get("query", {}).get("pages", [])
+        extract = pages[0].get("extract", "") if pages else ""
+    except Exception as e:
+        print(f"is.wikipedia.org API villa: {e}")
+        return []
+
+    marker = "\n== Atburðir ==\n"
+    start = extract.find(marker)
+    if start == -1:
+        return []
+    start += len(marker)
+    end = extract.find("\n== ", start)
+    section = extract[start:end if end != -1 else len(extract)]
+
+    events = []
+    for line in section.split("\n"):
+        line = line.strip()
+        m = re.match(r"^(\d{1,4}(?:\s*f\.Kr)?)\s*[-–]\s*(.+)$", line)
+        if m:
+            events.append({"year": m.group(1), "text": m.group(2)})
+    return events
+
+
+is_events = fetch_is_wikipedia_events()
+
+
+def fmt_list(items):
+    return "\n".join(f"- ({it['year']}) {it['text']}" for it in items) or "(engin gögn fengust)"
+
+wiki_events_text = fmt_list(wiki_events)
+wiki_births_text = fmt_list(wiki_births)
+is_events_text = fmt_list(is_events)
+
 api_key = os.environ["GEMINI_API_KEY"]
 url = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
@@ -57,30 +141,42 @@ url = (
 
 prompt = f"""Þú ert íslenskur sagnfræðingur og dagblaðamaður. Dagurinn í dag er {day}. {month}. Stjörnumerki dagsins er {zodiac}.
 
-MIKILVÆGT: Notaðu AÐEINS staðfesta og vel þekkta staðreyndir. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum. Betra er að hafa færri en ranga staðreyndi.
+Hér fyrir neðan eru STAÐFESTIR atburðir og staðfest fólk fætt þennan dag, sótt beint af Wikipedia. Fyrir "atburdir" og "afmaeli" MÁTT ÞÚ EINGÖNGU velja úr þessum listum — EKKI finna upp eða bæta við neinu sem er ekki í listunum, og EKKI breyta ártölunum sem gefin eru upp.
+
+STAÐFESTIR HEIMSATBURÐIR (veldu 5 áhugaverðustu, endursegðu stutt á íslensku):
+{wiki_events_text}
+
+STAÐFEST FÓLK FÆTT ÞENNAN DAG (veldu allt að 3 þekktustu á heimsvísu, þýddu starfsgrein á íslensku):
+{wiki_births_text}
+
+STAÐFESTIR ATBURÐIR ÚR ATBURÐADAGATALI ÍSLENSKU WIKIPEDIU, ÞENNAN DAG (þegar á íslensku — fyrir "atburdir_island" máttu EINGÖNGU velja þá atburði hér að neðan sem gerðust á Íslandi eða tengjast Íslandi/Íslendingum beint, allt að 3 stykki; ef enginn atburður hér tengist Íslandi skaltu skila tómu fylki fyrir atburdir_island):
+{is_events_text}
+
+Ef listi er merktur "(engin gögn fengust)" eða er of fátæklegur til að finna nóg af áhugaverðu efni, skildu viðkomandi fylki bara eftir styttra eða tómt — EKKI finna upp staðgengla.
+
+Fyrir aðra hluta svarsins (nafnadagur, tónlist, kvikmynd, orð dagsins, vissir þú, verðlag, stjörnuspá) skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
 
 Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 {{
   "nafnadagur": "Nafn þess sem á nafnadag á Íslandi í dag samkvæmt íslenska nafnadagatalinu (eitt nafn)",
   "atburdir": [
-    {{"ar": "ártal", "texti": "stuttur lýsing á vel þekktum og staðfestum heimsatburði þennan dag"}},
-    {{"ar": "ártal", "texti": "lýsing"}},
-    {{"ar": "ártal", "texti": "lýsing"}},
-    {{"ar": "ártal", "texti": "lýsing"}},
-    {{"ar": "ártal", "texti": "lýsing"}}
+    {{"ar": "ártal (nákvæmlega eins og í listanum að ofan)", "texti": "íslensk endursögn atburðar úr listanum að ofan"}},
+    {{"ar": "ártal", "texti": "endursögn"}},
+    {{"ar": "ártal", "texti": "endursögn"}},
+    {{"ar": "ártal", "texti": "endursögn"}},
+    {{"ar": "ártal", "texti": "endursögn"}}
   ],
   "atburdir_island": [
-    {{"ar": "ártal", "texti": "staðfestur og vel þekktur atburður á Íslandi þennan dag"}},
-    {{"ar": "ártal", "texti": "staðfestur íslenskur atburður"}}
+    {{"ar": "ártal (nákvæmlega eins og í íslenska atburðalistanum að ofan)", "texti": "endursögn atburðar úr þeim lista sem tengist Íslandi"}}
   ],
   "afmaeli": [
-    {{"nafn": "fullt nafn", "starfsgrein": "leikari / tónlistarmaður / o.fl.", "ar": "fæðingarár"}},
-    {{"nafn": "fullt nafn", "starfsgrein": "starfsgrein", "ar": "fæðingarár"}},
-    {{"nafn": "fullt nafn", "starfsgrein": "starfsgrein", "ar": "fæðingarár"}}
+    {{"nafn": "fullt nafn úr listanum að ofan", "starfsgrein": "starfsgrein á íslensku", "ar": "fæðingarár nákvæmlega eins og í listanum"}},
+    {{"nafn": "...", "starfsgrein": "...", "ar": "..."}},
+    {{"nafn": "...", "starfsgrein": "...", "ar": "..."}}
   ],
-  "tonlistUSA": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss",
-  "tonlistUK": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss",
-  "bio": "Nafn kvikmyndar (ár) — aðeins ef þú ert viss",
+  "tonlistUSA": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss, annars \\"\\"",
+  "tonlistUK": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss, annars \\"\\"",
+  "bio": "Nafn kvikmyndar (ár) — aðeins ef þú ert viss, annars \\"\\"",
   "ord_dagsins": {{"ord": "sjaldgæft íslenskt orð", "skyring": "skýring á íslensku í einni setningu"}},
   "vissir_thu": "Skemmtileg en SÖNN staðreynd sem flestir vita ekki, á íslensku.",
   "verdlag": "Árið [X] kostaði [hlutur] [upphæð] kr. á Íslandi.",
@@ -88,9 +184,10 @@ Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 }}
 
 Leiðbeiningar:
-- atburdir_island: einungis stór og vel skjalfestar staðreyndir — ef þú ert ekki viss, settu bara einn atburð
-- Afmælisfólk: aðeins alþjóðlega þekkt nöfn með staðfest fæðingarár
-- Forðastu að finna upp atburði eða blanda saman árum"""
+- atburdir, afmaeli og atburdir_island: EINGÖNGU úr listunum að ofan, aldrei uppspuni, ártöl mega ekki breytast
+- afmaeli: veldu skemmtilegar/jákvæðar eða áhugaverðar persónur sem flestir kannast við — forðastu umdeildar eða óviðeigandi persónur (t.d. hryðjuverkamenn, glæpamenn) ef aðrir kostir eru í boði
+- atburdir_island: má vera tómt fylki ef enginn atburður í listanum tengist Íslandi beint
+- tonlistUSA/tonlistUK/bio: skildu reitinn eftir sem tóman streng ef þú ert ekki viss"""
 
 body = json.dumps({
     "contents": [{"parts": [{"text": prompt}]}],
