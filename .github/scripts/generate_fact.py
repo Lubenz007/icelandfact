@@ -154,7 +154,9 @@ STAÐFESTIR ATBURÐIR ÚR ATBURÐADAGATALI ÍSLENSKU WIKIPEDIU, ÞENNAN DAG (þe
 
 Ef listi er merktur "(engin gögn fengust)" eða er of fátæklegur til að finna nóg af áhugaverðu efni, skildu viðkomandi fylki bara eftir styttra eða tómt — EKKI finna upp staðgengla.
 
-Fyrir aðra hluta svarsins (nafnadagur, tónlist, kvikmynd, orð dagsins, vissir þú, verðlag, stjörnuspá) skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
+Fyrir nafnadagur, orð dagsins, vissir þú og verðlag skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
+
+Tónlist, kvikmynd og stjörnuspá eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu.
 
 Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 {{
@@ -174,9 +176,9 @@ Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
     {{"nafn": "...", "starfsgrein": "...", "ar": "..."}},
     {{"nafn": "...", "starfsgrein": "...", "ar": "..."}}
   ],
-  "tonlistUSA": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss, annars \\"\\"",
-  "tonlistUK": "Nafn lags – Flytjandi (ár) — aðeins ef þú ert viss, annars \\"\\"",
-  "bio": "Nafn kvikmyndar (ár) — aðeins ef þú ert viss, annars \\"\\"",
+  "tonlistUSA": "Nafn lags – Flytjandi (ár) sem var vinsælt/á toppi vinsældalista í Bandaríkjunum þennan mánaðardag eitthvert ár í fortíðinni, eftir bestu vitund",
+  "tonlistUK": "Nafn lags – Flytjandi (ár) sem var vinsælt/á toppi vinsældalista í Bretlandi þennan mánaðardag eitthvert ár í fortíðinni, eftir bestu vitund",
+  "bio": "Nafn þekktrar kvikmyndar (ár) sem var frumsýnd þennan mánaðardag eitthvert ár í fortíðinni, eftir bestu vitund",
   "ord_dagsins": {{"ord": "sjaldgæft íslenskt orð", "skyring": "skýring á íslensku í einni setningu"}},
   "vissir_thu": "Skemmtileg en SÖNN staðreynd sem flestir vita ekki, á íslensku.",
   "verdlag": "Árið [X] kostaði [hlutur] [upphæð] kr. á Íslandi.",
@@ -187,7 +189,7 @@ Leiðbeiningar:
 - atburdir, afmaeli og atburdir_island: EINGÖNGU úr listunum að ofan, aldrei uppspuni, ártöl mega ekki breytast
 - afmaeli: veldu skemmtilegar/jákvæðar eða áhugaverðar persónur sem flestir kannast við — forðastu umdeildar eða óviðeigandi persónur (t.d. hryðjuverkamenn, glæpamenn) ef aðrir kostir eru í boði
 - atburdir_island: má vera tómt fylki ef enginn atburður í listanum tengist Íslandi beint
-- tonlistUSA/tonlistUK/bio: skildu reitinn eftir sem tóman streng ef þú ert ekki viss"""
+- tonlistUSA/tonlistUK/bio: þetta er skemmtiefni, ekki söguleg heimild — veldu líklegasta/besta svar sem þú manst eftir í stað þess að skilja eftir tómt; skildu aðeins eftir tómt ef ekkert kemur til greina yfirhöfuð"""
 
 body = json.dumps({
     "contents": [{"parts": [{"text": prompt}]}],
