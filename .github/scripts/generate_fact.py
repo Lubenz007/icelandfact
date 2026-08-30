@@ -1,36 +1,11 @@
 import json
 import random
 import re
-import time
 import urllib.request
 import urllib.error
 import urllib.parse
 import os
 from datetime import datetime, timezone
-
-UA_HEADERS = {"User-Agent": "SaganIDag/1.0 (https://saganidag.is)"}
-
-
-def fetch_url(url, timeout=20, retries=1):
-    """GET with retries/backoff — timarit.is in particular has been observed
-    to silently time out (not error) on some requests from GitHub Actions'
-    shared runner IPs even though it responds instantly from other networks,
-    so a transient stall shouldn't sink the whole attempt."""
-    last_err = None
-    for attempt in range(retries + 1):
-        try:
-            req = urllib.request.Request(url, headers=UA_HEADERS)
-            with urllib.request.urlopen(req, timeout=timeout) as r:
-                return r.read()
-        except Exception as e:
-            last_err = e
-            if attempt < retries:
-                time.sleep(2 * (attempt + 1))
-    raise last_err
-
-
-def fetch_json(url, timeout=20, retries=1):
-    return json.loads(fetch_url(url, timeout=timeout, retries=retries))
 
 MONTHS_IS = [
     "janúar", "febrúar", "mars", "apríl", "maí", "júní",
@@ -217,91 +192,25 @@ def build_verdlag_text(ar, hlutur, verd):
     return text
 
 
-MBL_PUBLICATION_ID = 58  # Morgunblaðið on timarit.is
-
-PRICE_PATTERNS = [
-    # OCR of old scans regularly confuses Icelandic letters (ð/ö, etc.), so
-    # "eintakið" comes back as "eintakiö" and similar — match loosely on the
-    # "eintak…" / "lausasöl…" stem instead of the exact word, in both
-    # number-then-word and word-then-number order.
-    re.compile(r"(\d[\d.,]*)\s*kr\.?\s*eintak\w{0,3}", re.IGNORECASE),
-    re.compile(r"(\d[\d.,]*)\s*kr\.?\s*í\s*lausas[öo]lu", re.IGNORECASE),
-    re.compile(r"lausas[öo]lu\w{0,4}\D{0,20}?(\d[\d.,]*)\s*kr", re.IGNORECASE),
-    re.compile(r"[Vv]erð\s+í\s+lausas[öo]lu\D{0,20}?(\d[\d.,]*)\s*kr", re.IGNORECASE),
-]
-
-
-def parse_is_number(s):
-    try:
-        return float(s.replace(".", "").replace(",", "."))
-    except ValueError:
-        return None
-
-
-def find_newspaper_price(issue_id, max_pages=50):
-    """Scan an issue's pages (OCR text is embedded directly in each page's
-    HTML) for its own printed cover price — the imprint box isn't on a fixed
-    page number, so this checks pages in order until it finds one."""
-    try:
-        first_html = fetch_url(f"https://timarit.is/issue/{issue_id}").decode("utf-8", "ignore")
-    except Exception as e:
-        print(f"timarit.is issue villa ({issue_id}): {e}")
-        return None
-
-    seen, page_ids = set(), []
-    for pid in re.findall(r'href="/page/(\d+)"', first_html):
-        if pid not in seen:
-            seen.add(pid)
-            page_ids.append(pid)
-
-    for pid in page_ids[:max_pages]:
-        try:
-            html = fetch_url(f"https://timarit.is/page/{pid}", retries=1).decode("utf-8", "ignore")
-        except Exception:
-            continue
-        for pattern in PRICE_PATTERNS:
-            m = pattern.search(html)
-            if m:
-                price = parse_is_number(m.group(1))
-                if price and 0 < price < 100000:
-                    return price
-    return None
-
-
 def fetch_grounded_verdlag():
-    """Ground 'verdlag' in a real archived Morgunblaðið cover price from
-    timarit.is instead of a Gemini guess — picks a handful of candidate years
-    (bounded to years the CPI series covers) and tries each until one yields
-    both an archived issue near today's date and a readable price on it."""
-    if not cpi_series:
+    """Ground 'verdlag' in a real archived Morgunblaðið cover price. This used
+    to call timarit.is live, but it returns HTTP 403 to GitHub Actions'
+    shared runner IPs on /issue and /page (likely deliberate anti-scraping
+    protection) even though the same requests work fine from other networks
+    — so instead we read from a small pre-verified table built offline by
+    .github/scripts/collect_mbl_prices.py and checked into the repo. The
+    daily job itself never needs to reach timarit.is."""
+    prices_path = os.path.join(os.path.dirname(__file__), "mbl_prices.json")
+    try:
+        with open(prices_path, encoding="utf-8") as f:
+            prices = json.load(f)
+    except Exception as e:
+        print(f"mbl_prices.json villa: {e}")
         return ""
-    min_year, max_year = min(cpi_series), min(max(cpi_series), now.year - 10)
-    if min_year >= max_year:
+    if not prices or not cpi_series:
         return ""
-    candidate_years = random.sample(range(min_year, max_year + 1), min(6, max_year - min_year + 1))
-
-    for year in candidate_years:
-        try:
-            cal = fetch_json(
-                f"https://timarit.is/view/yearMonthChange?year={year}&month={now.month}&pubId={MBL_PUBLICATION_ID}"
-            )
-        except Exception as e:
-            print(f"timarit.is dagatal villa ({year}): {e}")
-            continue
-        issues = cal.get("calendarIssues") or []
-        if not issues:
-            continue
-        # the calendar response spans a window of surrounding months too, so
-        # prefer issues actually in today's month before falling back
-        same_month = [it for it in issues if it["value"].split(".")[1] == f"{now.month:02d}"]
-        pool = same_month or issues
-        target = min(pool, key=lambda it: abs(int(it["value"].split(".")[0]) - day))
-        price = find_newspaper_price(target["key"])
-        if price:
-            print(f"  Verðlag grundað: Morgunblaðið {year} = {price} kr.")
-            return build_verdlag_text(year, "eintak af Morgunblaðinu", price)
-    print("  Verðlag: engin nothæf verðupplýsing fannst í tilraununum")
-    return ""
+    year, verd = random.choice(list(prices.items()))
+    return build_verdlag_text(int(year), "eintak af Morgunblaðinu", verd)
 
 
 api_key = os.environ["GEMINI_API_KEY"]
