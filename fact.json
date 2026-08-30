@@ -11,23 +11,23 @@
   "atburdir": [
     {
       "ar": "1984",
-      "texti": "Geimskutlan Discovery, þriðja geimfar NASA, hóf jómfrúarferð sína frá Kennedy geimmiðstöðinni í Flórída."
+      "texti": "Geimskutlan Discovery, þriðja geimfar NASA í geimskutluáætluninni, hóf jómfrúarferð sína frá Kennedy geimmiðstöðinni í Flórída."
     },
     {
       "ar": "1981",
-      "texti": "Mohammad-Ali Rajai, forseti Írans, og Mohammad-Javad Bahonar, forsætisráðherra, voru myrtir í sprengjuárás sem framin var af Alþýðusamtökum Mojahedin í Íran."
+      "texti": "Mohammad-Ali Rajai, forseti Írans, og Mohammad-Javad Bahonar, forsætisráðherra, voru myrtir í sprengjuárás sem framin var af Alþýðusamtökum Írans."
     },
     {
       "ar": "1967",
-      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski dómari Hæstaréttar Bandaríkjanna."
+      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski hæstaréttardómarinn."
     },
     {
-      "ar": "1942",
-      "texti": "Síðari heimsstyrjöldin: Erwin Rommel, þýskur hermarskálkur, hóf síðustu stóru sókn Öxulveldanna í Vestur-Eyðimörkinni og réðst á breskar stöður nálægt El Alamein í Egyptalandi."
+      "ar": "1914",
+      "texti": "Fyrri heimsstyrjöldin: Orrustan við Tannenberg endaði með nær algjörri eyðileggingu 2. rússneska hersins af hálfu 8. þýska hersins."
     },
     {
       "ar": "70",
-      "texti": "Fyrsta Gyðinga-Rómverska stríðið: Rómverskar hersveitir undir forystu Títusar kveiktu í Annað musterið meðan á umsátrinu um Jerúsalem stóð."
+      "texti": "Fyrsta Gyðinga-Rómverska stríðið: Rómverskar hersveitir undir forystu Títusar kveiktu í Öðru musterinu meðan á umsátrinu um Jerúsalem stóð."
     }
   ],
   "atburdir_island": [
@@ -40,8 +40,8 @@
       "texti": "Í Kaupmannahöfn stofnuðu Íslendingar Hið íslenska lærdómslistafélag og var Jón Eiríksson forseti þess. Markmiðið var að fræða Íslendinga um bústjórn og bæta vísindaþekkingu þeirra og bókmenntasmekk. Félagið starfaði til 1796."
     },
     {
-      "ar": "1967",
-      "texti": "Eldur kom upp í vöruskemmum Eimskipa við Borgartún í Reykjavík, en þar voru þúsundir tonna af vörum í geymslu. Slökkvilið barðist við eldinn í rúmlega sólarhring. Eignatjón varð meira en áður hafði orðið í eldsvoða á Íslandi."
+      "ar": "1874",
+      "texti": "Haldin var önnur þjóðhátíð í Reykjavík í besta veðri, en mörgum þótti sú sem fyrr var haldin í mánuðinum hafa tekist verr en skyldi."
     }
   ],
   "afmaeli": [
@@ -57,18 +57,18 @@
     },
     {
       "nafn": "Jacques-Louis David",
-      "starfsgrein": "franskur málari og myndskreytir",
+      "starfsgrein": "franskur málari og teiknari",
       "ar": "1748"
     }
   ],
-  "tonlistUSA": "Sweet Child o' Mine – Guns N' Roses (1988)",
-  "tonlistUK": "Fast Car – Tracy Chapman (1988)",
-  "bio": "Halloween (1978)",
+  "tonlistUSA": "Sweet Dreams (Are Made of This) – Eurythmics (1983)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Saga eða frásögn af mörgum óförum eða erfiðleikum."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list, oftast í tengslum við nákvæmni og vandvirkni."
   },
-  "vissir_thu": "Rúmlega 70% af súrefni jarðar er framleitt af plöntusvifi í hafinu.",
-  "verdlag": "Árið 1975 kostaði dagblað um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 464-falt síðan þá, samkvæmt vísitölu neysluverðs.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli og þú munt finna ánægju í að klára verkefni sem hafa legið á hálsi."
+  "vissir_thu": "Hafís getur verið allt að 4 metra þykkur við strendur Íslands og hefur í gegnum tíðina haft mikil áhrif á líf og afkomu landsmanna.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma hlutum í röð. Mundu að smáatriðin skipta máli og nákvæmni mun skila sér í árangri.",
+  "verdlag": ""
 }
