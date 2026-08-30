@@ -11,19 +11,19 @@
   "atburdir": [
     {
       "ar": "1984",
-      "texti": "Geimskutlan Discovery, þriðja geimfar NASA í geimskutluáætluninni, hóf jómfrúarferð sína frá Kennedy geimmiðstöðinni í Flórída."
-    },
-    {
-      "ar": "1981",
-      "texti": "Mohammad-Ali Rajai, forseti Írans, og Mohammad-Javad Bahonar, forsætisráðherra, voru myrtir í sprengjuárás sem framin var af Alþýðusamtökum Írans."
+      "texti": "Geimskutlan Discovery, þriðja geimfar NASA, fór í sína jómfrúrferð frá Kennedy geimferðamiðstöðinni í Flórída."
     },
     {
       "ar": "1967",
-      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski hæstaréttardómarinn."
+      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski hæstaréttardómarinn í Bandaríkjunum."
+    },
+    {
+      "ar": "1942",
+      "texti": "Síðari heimsstyrjöldin: Þýski hermarskálkurinn Erwin Rommel hóf síðustu stóru sókn Öxulveldanna í Vestur-Eyðimörkinni og réðst á breskar stöður nálægt El Alamein í Egyptalandi."
     },
     {
       "ar": "1914",
-      "texti": "Fyrri heimsstyrjöldin: Orrustan við Tannenberg endaði með nær algjörri eyðileggingu 2. rússneska hersins af hálfu 8. þýska hersins."
+      "texti": "Fyrri heimsstyrjöldin: Orrustan við Tannenberg endaði með nærri fullkominni eyðileggingu á 2. rússneska hernum af hálfu 8. þýska hersins."
     },
     {
       "ar": "70",
@@ -52,23 +52,23 @@
     },
     {
       "nafn": "Anna Politkovskaya",
-      "starfsgrein": "rússnesk blaðakona og aðgerðasinni",
+      "starfsgrein": "rússneskur blaðamaður og aðgerðasinni",
       "ar": "1958"
     },
     {
       "nafn": "Jacques-Louis David",
-      "starfsgrein": "franskur málari og teiknari",
+      "starfsgrein": "franskur málari og myndskreytir",
       "ar": "1748"
     }
   ],
-  "tonlistUSA": "Sweet Dreams (Are Made of This) – Eurythmics (1983)",
-  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "tonlistUSA": "Stayin' Alive – Bee Gees (1978)",
+  "tonlistUK": "Wannabe – Spice Girls (1996)",
   "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oftast í tengslum við nákvæmni og vandvirkni."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Hafís getur verið allt að 4 metra þykkur við strendur Íslands og hefur í gegnum tíðina haft mikil áhrif á líf og afkomu landsmanna.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma hlutum í röð. Mundu að smáatriðin skipta máli og nákvæmni mun skila sér í árangri.",
+  "vissir_thu": "Fyrsta þekkta notkun á hugtakinu „OK“ (oll korrect) var í Boston Morning Post árið 1839.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo gefðu þér tíma til að fullkomna það sem þú tekur þér fyrir hendur.",
   "verdlag": ""
 }
