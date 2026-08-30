@@ -11,19 +11,19 @@
   "atburdir": [
     {
       "ar": "1984",
-      "texti": "Geimskutlan Discovery, þriðja geimfar NASA, fór í sína jómfrúrferð frá Kennedy geimferðamiðstöðinni í Flórída."
+      "texti": "Geimskutlan Discovery, þriðja geimfar NASA í geimskutluáætluninni, fór í jómfrúarferð sína frá Kennedy geimferðamiðstöðinni í Flórída."
+    },
+    {
+      "ar": "1981",
+      "texti": "Mohammad-Ali Rajai, forseti Írans, og Mohammad-Javad Bahonar, forsætisráðherra, voru myrtir í sprengjuárás sem framin var af Alþýðusamtökum Írans."
     },
     {
       "ar": "1967",
-      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski hæstaréttardómarinn í Bandaríkjunum."
+      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski dómari Hæstaréttar Bandaríkjanna."
     },
     {
       "ar": "1942",
-      "texti": "Síðari heimsstyrjöldin: Þýski hermarskálkurinn Erwin Rommel hóf síðustu stóru sókn Öxulveldanna í Vestur-Eyðimörkinni og réðst á breskar stöður nálægt El Alamein í Egyptalandi."
-    },
-    {
-      "ar": "1914",
-      "texti": "Fyrri heimsstyrjöldin: Orrustan við Tannenberg endaði með nærri fullkominni eyðileggingu á 2. rússneska hernum af hálfu 8. þýska hersins."
+      "texti": "Seinni heimsstyrjöldin: Þýski hermarskálkurinn Erwin Rommel hóf síðustu stóru sókn Öxulveldanna í Vestur-Eyðimerkurherferðinni og réðst á breskar stöður nálægt El Alamein í Egyptalandi."
     },
     {
       "ar": "70",
@@ -40,8 +40,8 @@
       "texti": "Í Kaupmannahöfn stofnuðu Íslendingar Hið íslenska lærdómslistafélag og var Jón Eiríksson forseti þess. Markmiðið var að fræða Íslendinga um bústjórn og bæta vísindaþekkingu þeirra og bókmenntasmekk. Félagið starfaði til 1796."
     },
     {
-      "ar": "1874",
-      "texti": "Haldin var önnur þjóðhátíð í Reykjavík í besta veðri, en mörgum þótti sú sem fyrr var haldin í mánuðinum hafa tekist verr en skyldi."
+      "ar": "1967",
+      "texti": "Eldur kom upp í vöruskemmum Eimskipa við Borgartún í Reykjavík, en þar voru þúsundir tonna af vörum í geymslu. Slökkvilið barðist við eldinn í rúmlega sólarhring. Eignatjón varð meira en áður hafði orðið í eldsvoða á Íslandi."
     }
   ],
   "afmaeli": [
@@ -52,7 +52,7 @@
     },
     {
       "nafn": "Anna Politkovskaya",
-      "starfsgrein": "rússneskur blaðamaður og aðgerðasinni",
+      "starfsgrein": "rússnesk blaðakona og aðgerðasinni",
       "ar": "1958"
     },
     {
@@ -63,12 +63,12 @@
   ],
   "tonlistUSA": "Stayin' Alive – Bee Gees (1978)",
   "tonlistUK": "Wannabe – Spice Girls (1996)",
-  "bio": "The Sixth Sense (1999)",
+  "bio": "Halloween (2007)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta þekkta notkun á hugtakinu „OK“ (oll korrect) var í Boston Morning Post árið 1839.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo gefðu þér tíma til að fullkomna það sem þú tekur þér fyrir hendur.",
-  "verdlag": ""
+  "vissir_thu": "Fyrsta ljósmyndin af manneskju var tekin árið 1838 af Louis Daguerre, en vegna langrar lýsingartíma sást aðeins maður sem var að láta pússa skóna sína á Boulevard du Temple í París.",
+  "stjornuspa": "Meyja, í dag er kjörið tækifæri til að skipuleggja og raða í kringum þig. Nýttu nákvæmni þína til að ná framúrskarandi árangri í verkefnum dagsins.",
+  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
