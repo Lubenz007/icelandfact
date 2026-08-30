@@ -193,11 +193,14 @@ def build_verdlag_text(v):
     if ar in cpi_series and cpi_series.get(ar):
         latest_year = max(cpi_series)
         factor = cpi_series[latest_year] / cpi_series[ar]
-        today_price = verd * factor
         multiplier = round(factor, 1) if factor < 10 else round(factor)
+        # Deliberately phrased as general price-level change, not "this item
+        # costs X today" — individual goods (fuel, alcohol, tech) can diverge
+        # sharply from the overall CPI basket, so projecting a specific
+        # today-price from one old price would be misleading, not grounded.
         text += (
-            f" Miðað við vísitölu neysluverðs samsvarar það um {format_is_number(today_price)} kr. í dag"
-            f" — verðlag hefur um {multiplier}-faldast síðan þá."
+            f" Almennt verðlag á Íslandi hefur hækkað um u.þ.b. {multiplier}-falt síðan þá,"
+            f" samkvæmt vísitölu neysluverðs."
         )
     return text
 
@@ -225,7 +228,7 @@ Ef listi er merktur "(engin gögn fengust)" eða er of fátæklegur til að finn
 
 Fyrir nafnadagur, orð dagsins og vissir þú skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
 
-Tónlist, kvikmynd, stjörnuspá og verðlag eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu. Fyrir "verdlag" skaltu velja ár á bilinu {cpi_years_text} (raunveruleg vísitala neysluverðs er til fyrir þessi ár) og algenga, hversdagslega vöru eða þjónustu — sjálft verðið má vera besta ágiskun þín, útreikningur á núvirði bætist við sjálfkrafa á eftir.
+Tónlist, kvikmynd, stjörnuspá og verðlag eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu. Fyrir "verdlag" skaltu velja ár á bilinu {cpi_years_text} (raunveruleg vísitala neysluverðs er til fyrir þessi ár) og algenga, hversdagslega vöru eða þjónustu sem venjulegt fólk kaupir reglulega, t.d. matvara, bíómiði, dagblað eða strætómiði — sjálft verðið má vera besta ágiskun þín, samanburður við almennt verðlag í dag bætist við sjálfkrafa á eftir. FORÐASTU vörur þar sem verð fylgir illa almennu verðlagi vegna skatta/heimsmarkaðssveiflna (t.d. eldsneyti, áfengi, tóbak, tækni/rafeindavörur) — verðlagssamanburðurinn sem bætist við á eftir gefur ranga mynd fyrir slíkar vörur.
 
 Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 {{
