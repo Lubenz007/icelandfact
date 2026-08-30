@@ -1,62 +1,66 @@
 {
-  "date": "2026-08-29",
-  "dagur": 29,
+  "date": "2026-08-30",
+  "dagur": 30,
   "manudur": "ágúst",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 241,
-  "sunrise": "06:01",
-  "sunset": "20:54",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 242,
+  "sunrise": "06:04",
+  "sunset": "20:51",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Ágúst",
+  "nafnadagur": "Valgarð",
   "atburdir": [
     {
-      "ar": "1842",
-      "texti": "Fyrsti ópíumstríðinu lauk með undirritun Nanking-sáttmálans."
-    },
-    {
-      "ar": "1885",
-      "texti": "Gottlieb Daimler fékk einkaleyfi á fyrsta mótorhjólinu."
-    },
-    {
       "ar": "1991",
-      "texti": "Hæstiréttur Sovétríkjanna bannaði starfsemi kommúnistaflokksins."
+      "texti": "Aserbaídsjan lýsir yfir sjálfstæði frá Sovétríkjunum."
     },
     {
-      "ar": "2005",
-      "texti": " fellibylurinn Katrina gekk á land í Louisiana og Mississippi."
+      "ar": "1995",
+      "texti": "NATO hefur loftárásir á serbneska herliðið í Bosníu og Hersegóvínu."
+    },
+    {
+      "ar": "1984",
+      "texti": "Geimskutlan Discovery fer í jómfrúarflug sitt."
+    },
+    {
+      "ar": "1945",
+      "texti": "Bandaríkjamenn taka við stjórn Japans í lok síðari heimsstyrjaldar."
+    },
+    {
+      "ar": "1835",
+      "texti": "Melbourne í Ástralíu er stofnuð."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1968",
-      "texti": "Fyrsta sjónvarpsútsending Ríkisútvarpsins fór fram."
+      "ar": "1971",
+      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Michael Jackson",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1958"
-    },
-    {
-      "nafn": "Ingrid Bergman",
+      "nafn": "Cameron Diaz",
       "starfsgrein": "leikkona",
-      "ar": "1915"
+      "ar": "1972"
     },
     {
-      "nafn": "John McCain",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1936"
+      "nafn": "Anna Nicole Smith",
+      "starfsgrein": "fyrirsæta og leikkona",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Warren Buffett",
+      "starfsgrein": "fjárfestir",
+      "ar": "1930"
     }
   ],
-  "tonlistUSA": "I Want You Back – The Jackson 5 (1969)",
-  "tonlistUK": "Tears On My Pillow – Kylie Minogue (1990)",
-  "bio": "The Fugitive (1993)",
+  "tonlistUSA": "Sweet Child o' Mine – Guns N' Roses (1988)",
+  "tonlistUK": "Wuthering Heights – Kate Bush (1978)",
+  "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Hagleikur er færni eða kunnátta í að gera eitthvað vel, oftast með höndunum."
+    "ord": "sveimhugi",
+    "skyring": "Sveimhugi er manneskja sem er oft með hugann á flugi eða dreymir um framtíðina."
   },
-  "vissir_thu": "Fyrsti farsíminn sem var seldur í almennum viðskiptum var Motorola DynaTAC 8000x árið 1983.",
-  "verdlag": "Árið 1980 kostaði einn líter af mjólk um 25 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo vertu nákvæm í öllu sem þú tekur þér fyrir hendur."
+  "vissir_thu": "Íslenska hestakynið er eitt af fáum hestakynum í heiminum sem getur tölt og skeiðað, auk venjulegra gangtegunda.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Ekki hika við að takast á við smáatriðin, þau munu skila sér vel."
 }
