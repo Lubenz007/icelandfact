@@ -1,10 +1,19 @@
 import json
+import random
 import re
 import urllib.request
 import urllib.error
 import urllib.parse
 import os
 from datetime import datetime, timezone
+
+UA_HEADERS = {"User-Agent": "SaganIDag/1.0 (https://saganidag.is)"}
+
+
+def fetch_json(url, timeout=15):
+    req = urllib.request.Request(url, headers=UA_HEADERS)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return json.loads(r.read())
 
 MONTHS_IS = [
     "janúar", "febrúar", "mars", "apríl", "maí", "júní",
@@ -165,30 +174,16 @@ def fetch_cpi_series():
 
 
 cpi_series = fetch_cpi_series()
-cpi_years_text = (
-    f"{min(cpi_series)}–{max(cpi_series)}" if cpi_series else "(engin gögn fengust)"
-)
 
 
 def format_is_number(n):
     return f"{round(n):,}".replace(",", ".")
 
 
-def build_verdlag_text(v):
-    """Compose the final 'verdlag' sentence in Python: Gemini only supplies the
-    guessed historical item/price, the actual inflation math and today-value
-    come from cpi_series so that part is never hallucinated."""
-    if not isinstance(v, dict):
-        return ""
-    hlutur = str(v.get("hlutur", "")).strip()
-    try:
-        ar = int(re.sub(r"\D", "", str(v.get("ar", ""))))
-        verd = float(re.sub(r"[^\d.]", "", str(v.get("verd", ""))))
-    except ValueError:
-        return ""
-    if not hlutur or verd <= 0:
-        return ""
-
+def build_verdlag_text(ar, hlutur, verd):
+    """Compose the final 'verdlag' sentence: ar/hlutur/verd must already be a
+    real, verified fact (see fetch_grounded_verdlag) — the inflation math
+    comes from cpi_series so that part is never hallucinated either."""
     text = f"Árið {ar} kostaði {hlutur} um {format_is_number(verd)} kr. á Íslandi."
     if ar in cpi_series and cpi_series.get(ar):
         latest_year = max(cpi_series)
@@ -203,6 +198,97 @@ def build_verdlag_text(v):
             f" samkvæmt vísitölu neysluverðs."
         )
     return text
+
+
+MBL_PUBLICATION_ID = 58  # Morgunblaðið on timarit.is
+
+PRICE_PATTERNS = [
+    # OCR of old scans regularly confuses Icelandic letters (ð/ö, etc.), so
+    # "eintakið" comes back as "eintakiö" and similar — match loosely on the
+    # "eintak…" / "lausasöl…" stem instead of the exact word, in both
+    # number-then-word and word-then-number order.
+    re.compile(r"(\d[\d.,]*)\s*kr\.?\s*eintak\w{0,3}", re.IGNORECASE),
+    re.compile(r"(\d[\d.,]*)\s*kr\.?\s*í\s*lausas[öo]lu", re.IGNORECASE),
+    re.compile(r"lausas[öo]lu\w{0,4}\D{0,20}?(\d[\d.,]*)\s*kr", re.IGNORECASE),
+    re.compile(r"[Vv]erð\s+í\s+lausas[öo]lu\D{0,20}?(\d[\d.,]*)\s*kr", re.IGNORECASE),
+]
+
+
+def parse_is_number(s):
+    try:
+        return float(s.replace(".", "").replace(",", "."))
+    except ValueError:
+        return None
+
+
+def find_newspaper_price(issue_id, max_pages=50):
+    """Scan an issue's pages (OCR text is embedded directly in each page's
+    HTML) for its own printed cover price — the imprint box isn't on a fixed
+    page number, so this checks pages in order until it finds one."""
+    try:
+        first_html = urllib.request.urlopen(
+            urllib.request.Request(f"https://timarit.is/issue/{issue_id}", headers=UA_HEADERS), timeout=15
+        ).read().decode("utf-8", "ignore")
+    except Exception as e:
+        print(f"timarit.is issue villa ({issue_id}): {e}")
+        return None
+
+    seen, page_ids = set(), []
+    for pid in re.findall(r'href="/page/(\d+)"', first_html):
+        if pid not in seen:
+            seen.add(pid)
+            page_ids.append(pid)
+
+    for pid in page_ids[:max_pages]:
+        try:
+            html = urllib.request.urlopen(
+                urllib.request.Request(f"https://timarit.is/page/{pid}", headers=UA_HEADERS), timeout=15
+            ).read().decode("utf-8", "ignore")
+        except Exception:
+            continue
+        for pattern in PRICE_PATTERNS:
+            m = pattern.search(html)
+            if m:
+                price = parse_is_number(m.group(1))
+                if price and 0 < price < 100000:
+                    return price
+    return None
+
+
+def fetch_grounded_verdlag():
+    """Ground 'verdlag' in a real archived Morgunblaðið cover price from
+    timarit.is instead of a Gemini guess — picks a handful of candidate years
+    (bounded to years the CPI series covers) and tries each until one yields
+    both an archived issue near today's date and a readable price on it."""
+    if not cpi_series:
+        return ""
+    min_year, max_year = min(cpi_series), min(max(cpi_series), now.year - 10)
+    if min_year >= max_year:
+        return ""
+    candidate_years = random.sample(range(min_year, max_year + 1), min(6, max_year - min_year + 1))
+
+    for year in candidate_years:
+        try:
+            cal = fetch_json(
+                f"https://timarit.is/view/yearMonthChange?year={year}&month={now.month}&pubId={MBL_PUBLICATION_ID}"
+            )
+        except Exception as e:
+            print(f"timarit.is dagatal villa ({year}): {e}")
+            continue
+        issues = cal.get("calendarIssues") or []
+        if not issues:
+            continue
+        # the calendar response spans a window of surrounding months too, so
+        # prefer issues actually in today's month before falling back
+        same_month = [it for it in issues if it["value"].split(".")[1] == f"{now.month:02d}"]
+        pool = same_month or issues
+        target = min(pool, key=lambda it: abs(int(it["value"].split(".")[0]) - day))
+        price = find_newspaper_price(target["key"])
+        if price:
+            print(f"  Verðlag grundað: Morgunblaðið {year} = {price} kr.")
+            return build_verdlag_text(year, "eintak af Morgunblaðinu", price)
+    print("  Verðlag: engin nothæf verðupplýsing fannst í tilraununum")
+    return ""
 
 
 api_key = os.environ["GEMINI_API_KEY"]
@@ -228,7 +314,7 @@ Ef listi er merktur "(engin gögn fengust)" eða er of fátæklegur til að finn
 
 Fyrir nafnadagur, orð dagsins og vissir þú skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
 
-Tónlist, kvikmynd, stjörnuspá og verðlag eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu. Fyrir "verdlag" skaltu velja ár á bilinu {cpi_years_text} (raunveruleg vísitala neysluverðs er til fyrir þessi ár) og algenga, hversdagslega vöru eða þjónustu sem venjulegt fólk kaupir reglulega, t.d. matvara, bíómiði, dagblað eða strætómiði — sjálft verðið má vera besta ágiskun þín, samanburður við almennt verðlag í dag bætist við sjálfkrafa á eftir. FORÐASTU vörur þar sem verð fylgir illa almennu verðlagi vegna skatta/heimsmarkaðssveiflna (t.d. eldsneyti, áfengi, tóbak, tækni/rafeindavörur) — verðlagssamanburðurinn sem bætist við á eftir gefur ranga mynd fyrir slíkar vörur. MIKILVÆGT um krónutölu fyrir ár FYRIR 1981: þann 1. janúar 1981 var gerð myntbreyting á Íslandi þar sem tvö núll voru felld af krónunni (100 gamlar krónur = 1 ný króna) — verð fyrir 1981 voru því í tölum sem eru hundraðfalt hærri en samsvarandi upphæð myndi líta út í dag, ekki í sömu stærðargráðu og nútímakrónur.
+Tónlist, kvikmynd og stjörnuspá eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu.
 
 Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 {{
@@ -253,7 +339,6 @@ Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
   "bio": "Nafn þekktrar kvikmyndar (ár) sem var frumsýnd þennan mánaðardag eitthvert ár í fortíðinni, eftir bestu vitund",
   "ord_dagsins": {{"ord": "sjaldgæft íslenskt orð", "skyring": "skýring á íslensku í einni setningu"}},
   "vissir_thu": "Skemmtileg en SÖNN staðreynd sem flestir vita ekki, á íslensku.",
-  "verdlag": {{"ar": "ártal á bilinu {cpi_years_text}", "hlutur": "algeng vara/þjónusta, t.d. 'lítri af bensíni' eða 'kg af kjöti'", "verd": "tala í krónum, án 'kr' eða punkta, t.d. 20"}},
   "stjornuspa": "Stutt og skemmtileg retro-stjörnuspá fyrir {zodiac} í dag, tvær setningar á íslensku."
 }}
 
@@ -286,6 +371,8 @@ raw = data["candidates"][0]["content"]["parts"][0]["text"].strip()
 raw = raw.replace("```json", "").replace("```", "").strip()
 gemini = json.loads(raw)
 
+verdlag = fetch_grounded_verdlag()
+
 fact = {
     "date":        now.strftime("%Y-%m-%d"),
     "dagur":       day,
@@ -296,7 +383,7 @@ fact = {
     "sunset":      sunset,
     "stjornumerki": zodiac,
     **gemini,
-    "verdlag": build_verdlag_text(gemini.get("verdlag")),
+    "verdlag": verdlag,
 }
 
 with open("fact.json", "w", encoding="utf-8") as f:
@@ -306,3 +393,4 @@ print(f"✓ {day}. {month} ({weekday}), dagur {day_of_year}, {zodiac}")
 print(f"  Sólarupprás {sunrise} · Sólarlag {sunset}")
 print(f"  Nafnadagur: {gemini.get('nafnadagur', '?')}")
 print(f"  {len(fact.get('atburdir', []))} atburðir · {len(fact.get('atburdir_island', []))} á Íslandi · {len(fact.get('afmaeli', []))} afmæli")
+print(f"  Verðlag: {'grundað' if verdlag else 'fannst ekki, tómt'}")
