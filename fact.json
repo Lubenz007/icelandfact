@@ -7,60 +7,68 @@
   "sunrise": "06:04",
   "sunset": "20:51",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Valgarð",
+  "nafnadagur": "Auður",
   "atburdir": [
     {
-      "ar": "1991",
-      "texti": "Aserbaídsjan lýsir yfir sjálfstæði frá Sovétríkjunum."
-    },
-    {
-      "ar": "1995",
-      "texti": "NATO hefur loftárásir á serbneska herliðið í Bosníu og Hersegóvínu."
+      "ar": "1990",
+      "texti": "Persaflóastríðið: Norman Schwarzkopf yngri, hershöfðingi Bandaríkjahers, gaf út almenna skipun nr. 1 sem bannaði bandarískum hermönnum að neyta áfengis eða vera með klámfengið efni."
     },
     {
       "ar": "1984",
-      "texti": "Geimskutlan Discovery fer í jómfrúarflug sitt."
+      "texti": "Geimskutlan Discovery, þriðja geimfarið í geimskutluáætlun NASA, fór í jómfrúarferð sína frá Kennedy geimferðamiðstöðinni í Flórída."
     },
     {
-      "ar": "1945",
-      "texti": "Bandaríkjamenn taka við stjórn Japans í lok síðari heimsstyrjaldar."
+      "ar": "1981",
+      "texti": "Mohammad-Ali Rajai, forseti Írans, og Mohammad-Javad Bahonar, forsætisráðherra, voru myrtir í sprengjuárás sem framin var af Alþýðusamtökum Mojahedin í Íran."
     },
     {
-      "ar": "1835",
-      "texti": "Melbourne í Ástralíu er stofnuð."
+      "ar": "1967",
+      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski hæstaréttardómarinn."
+    },
+    {
+      "ar": "70",
+      "texti": "Fyrsta gyðinga-rómverska stríðið: Rómverskar hersveitir undir forystu Títusar kveiktu í Öðru musterinu meðan á umsátrinu um Jerúsalem stóð."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1971",
-      "texti": "Fyrsta sjónvarpsútsendingin í lit á Íslandi fór fram."
+      "ar": "1720",
+      "texti": "Jón Vídalín Skálholtsbiskup andaðist 54 ára gamall á leið norður Kaldadal, er hann var kominn þar sem nú heitir Biskupsbrekka til minningar um þennan atburð."
+    },
+    {
+      "ar": "1779",
+      "texti": "Í Kaupmannahöfn stofnuðu Íslendingar Hið íslenska lærdómslistafélag og var Jón Eiríksson forseti þess. Markmiðið var að fræða Íslendinga um bústjórn og bæta vísindaþekkingu þeirra og bókmenntasmekk. Félagið starfaði til 1796."
+    },
+    {
+      "ar": "1874",
+      "texti": "Haldin var önnur þjóðhátíð í Reykjavík í besta veðri, en mörgum þótti sú sem fyrr var haldin í mánuðinum hafa tekist verr en skyldi."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Cameron Diaz",
-      "starfsgrein": "leikkona",
-      "ar": "1972"
+      "nafn": "Jessica Henwick",
+      "starfsgrein": "bresk leikkona",
+      "ar": "1992"
     },
     {
-      "nafn": "Anna Nicole Smith",
-      "starfsgrein": "fyrirsæta og leikkona",
-      "ar": "1967"
+      "nafn": "Anna Politkovskaya",
+      "starfsgrein": "rússneskur blaðamaður og aðgerðasinni",
+      "ar": "1958"
     },
     {
-      "nafn": "Warren Buffett",
-      "starfsgrein": "fjárfestir",
-      "ar": "1930"
+      "nafn": "Jacques-Louis David",
+      "starfsgrein": "franskur málari og myndskreytir",
+      "ar": "1748"
     }
   ],
-  "tonlistUSA": "Sweet Child o' Mine – Guns N' Roses (1988)",
-  "tonlistUK": "Wuthering Heights – Kate Bush (1978)",
-  "bio": "The Sixth Sense (1999)",
+  "tonlistUSA": "",
+  "tonlistUK": "",
+  "bio": "",
   "ord_dagsins": {
-    "ord": "sveimhugi",
-    "skyring": "Sveimhugi er manneskja sem er oft með hugann á flugi eða dreymir um framtíðina."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð óheppilegra atburða eða ógæfa sem dynja yfir einhvern."
   },
-  "vissir_thu": "Íslenska hestakynið er eitt af fáum hestakynum í heiminum sem getur tölt og skeiðað, auk venjulegra gangtegunda.",
-  "verdlag": "Árið 1980 kostaði lítri af bensíni um 40 kr. á Íslandi.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Ekki hika við að takast á við smáatriðin, þau munu skila sér vel."
+  "vissir_thu": "Fyrsta myndavélin sem tók upp hreyfimyndir var fundin upp árið 1888 af Louis Le Prince.",
+  "verdlag": "Árið 1980 kostaði lítri af bensíni um 20 kr. á Íslandi.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Mundu að smáatriðin skipta máli, en ekki láta þau yfirbuga þig."
 }
