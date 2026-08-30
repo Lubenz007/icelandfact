@@ -133,6 +133,75 @@ wiki_events_text = fmt_list(wiki_events)
 wiki_births_text = fmt_list(wiki_births)
 is_events_text = fmt_list(is_events)
 
+
+def fetch_cpi_series():
+    """Fetch Iceland's full consumer price index history (1939=100, chained)
+    from Statistics Iceland's public PXWeb API, so the 'verdlag' inflation
+    comparison is computed from real government data, not guessed by Gemini."""
+    url = (
+        "https://px.hagstofa.is/pxis/api/v1/is/Efnahagur/visitolur/"
+        "1_vnv/1_vnv/VIS01005.px"
+    )
+    query = {
+        "query": [
+            {"code": "Vísitala", "selection": {"filter": "item", "values": ["CPI"]}},
+            {"code": "Grunnur", "selection": {"filter": "item", "values": ["B1939"]}},
+        ],
+        "response": {"format": "json-stat2"},
+    }
+    req = urllib.request.Request(
+        url, data=json.dumps(query).encode(),
+        headers={"Content-Type": "application/json", "User-Agent": "SaganIDag/1.0 (https://saganidag.is)"}
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.loads(r.read())
+        year_index = data["dimension"]["Ár"]["category"]["index"]
+        values = data["value"]
+        return {int(y): values[i] for y, i in year_index.items() if values[i] is not None}
+    except Exception as e:
+        print(f"Hagstofa CPI API villa: {e}")
+        return {}
+
+
+cpi_series = fetch_cpi_series()
+cpi_years_text = (
+    f"{min(cpi_series)}–{max(cpi_series)}" if cpi_series else "(engin gögn fengust)"
+)
+
+
+def format_is_number(n):
+    return f"{round(n):,}".replace(",", ".")
+
+
+def build_verdlag_text(v):
+    """Compose the final 'verdlag' sentence in Python: Gemini only supplies the
+    guessed historical item/price, the actual inflation math and today-value
+    come from cpi_series so that part is never hallucinated."""
+    if not isinstance(v, dict):
+        return ""
+    hlutur = str(v.get("hlutur", "")).strip()
+    try:
+        ar = int(re.sub(r"\D", "", str(v.get("ar", ""))))
+        verd = float(re.sub(r"[^\d.]", "", str(v.get("verd", ""))))
+    except ValueError:
+        return ""
+    if not hlutur or verd <= 0:
+        return ""
+
+    text = f"Árið {ar} kostaði {hlutur} um {format_is_number(verd)} kr. á Íslandi."
+    if ar in cpi_series and cpi_series.get(ar):
+        latest_year = max(cpi_series)
+        factor = cpi_series[latest_year] / cpi_series[ar]
+        today_price = verd * factor
+        multiplier = round(factor, 1) if factor < 10 else round(factor)
+        text += (
+            f" Miðað við vísitölu neysluverðs samsvarar það um {format_is_number(today_price)} kr. í dag"
+            f" — verðlag hefur um {multiplier}-faldast síðan þá."
+        )
+    return text
+
+
 api_key = os.environ["GEMINI_API_KEY"]
 url = (
     "https://generativelanguage.googleapis.com/v1beta/models/"
@@ -154,9 +223,9 @@ STAÐFESTIR ATBURÐIR ÚR ATBURÐADAGATALI ÍSLENSKU WIKIPEDIU, ÞENNAN DAG (þe
 
 Ef listi er merktur "(engin gögn fengust)" eða er of fátæklegur til að finna nóg af áhugaverðu efni, skildu viðkomandi fylki bara eftir styttra eða tómt — EKKI finna upp staðgengla.
 
-Fyrir nafnadagur, orð dagsins, vissir þú og verðlag skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
+Fyrir nafnadagur, orð dagsins og vissir þú skaltu AÐEINS nota staðfestar og vel þekktar staðreyndir sem þú ert mjög viss um. Ef þú ert ekki fullviss um atburð eða ártal — slepptu honum eða skildu fylkið/reitinn eftir tómt. Betra er að hafa færri en ranga staðreynd.
 
-Tónlist, kvikmynd og stjörnuspá eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu.
+Tónlist, kvikmynd, stjörnuspá og verðlag eru léttmeti/skemmtiefni fremur en sagnfræði — þar mátt þú gefa þitt besta svar eftir minni án þess að þurfa fulla vissu. Fyrir "verdlag" skaltu velja ár á bilinu {cpi_years_text} (raunveruleg vísitala neysluverðs er til fyrir þessi ár) og algenga, hversdagslega vöru eða þjónustu — sjálft verðið má vera besta ágiskun þín, útreikningur á núvirði bætist við sjálfkrafa á eftir.
 
 Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
 {{
@@ -181,7 +250,7 @@ Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
   "bio": "Nafn þekktrar kvikmyndar (ár) sem var frumsýnd þennan mánaðardag eitthvert ár í fortíðinni, eftir bestu vitund",
   "ord_dagsins": {{"ord": "sjaldgæft íslenskt orð", "skyring": "skýring á íslensku í einni setningu"}},
   "vissir_thu": "Skemmtileg en SÖNN staðreynd sem flestir vita ekki, á íslensku.",
-  "verdlag": "Árið [X] kostaði [hlutur] [upphæð] kr. á Íslandi.",
+  "verdlag": {{"ar": "ártal á bilinu {cpi_years_text}", "hlutur": "algeng vara/þjónusta, t.d. 'lítri af bensíni' eða 'kg af kjöti'", "verd": "tala í krónum, án 'kr' eða punkta, t.d. 20"}},
   "stjornuspa": "Stutt og skemmtileg retro-stjörnuspá fyrir {zodiac} í dag, tvær setningar á íslensku."
 }}
 
@@ -223,7 +292,8 @@ fact = {
     "sunrise":     sunrise,
     "sunset":      sunset,
     "stjornumerki": zodiac,
-    **gemini
+    **gemini,
+    "verdlag": build_verdlag_text(gemini.get("verdlag")),
 }
 
 with open("fact.json", "w", encoding="utf-8") as f:
