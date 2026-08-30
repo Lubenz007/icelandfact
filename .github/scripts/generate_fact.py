@@ -1,6 +1,7 @@
 import json
 import random
 import re
+import time
 import urllib.request
 import urllib.error
 import urllib.parse
@@ -10,10 +11,26 @@ from datetime import datetime, timezone
 UA_HEADERS = {"User-Agent": "SaganIDag/1.0 (https://saganidag.is)"}
 
 
-def fetch_json(url, timeout=15):
-    req = urllib.request.Request(url, headers=UA_HEADERS)
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        return json.loads(r.read())
+def fetch_url(url, timeout=20, retries=1):
+    """GET with retries/backoff — timarit.is in particular has been observed
+    to silently time out (not error) on some requests from GitHub Actions'
+    shared runner IPs even though it responds instantly from other networks,
+    so a transient stall shouldn't sink the whole attempt."""
+    last_err = None
+    for attempt in range(retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=UA_HEADERS)
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                return r.read()
+        except Exception as e:
+            last_err = e
+            if attempt < retries:
+                time.sleep(2 * (attempt + 1))
+    raise last_err
+
+
+def fetch_json(url, timeout=20, retries=1):
+    return json.loads(fetch_url(url, timeout=timeout, retries=retries))
 
 MONTHS_IS = [
     "janúar", "febrúar", "mars", "apríl", "maí", "júní",
@@ -226,9 +243,7 @@ def find_newspaper_price(issue_id, max_pages=50):
     HTML) for its own printed cover price — the imprint box isn't on a fixed
     page number, so this checks pages in order until it finds one."""
     try:
-        first_html = urllib.request.urlopen(
-            urllib.request.Request(f"https://timarit.is/issue/{issue_id}", headers=UA_HEADERS), timeout=15
-        ).read().decode("utf-8", "ignore")
+        first_html = fetch_url(f"https://timarit.is/issue/{issue_id}").decode("utf-8", "ignore")
     except Exception as e:
         print(f"timarit.is issue villa ({issue_id}): {e}")
         return None
@@ -241,9 +256,7 @@ def find_newspaper_price(issue_id, max_pages=50):
 
     for pid in page_ids[:max_pages]:
         try:
-            html = urllib.request.urlopen(
-                urllib.request.Request(f"https://timarit.is/page/{pid}", headers=UA_HEADERS), timeout=15
-            ).read().decode("utf-8", "ignore")
+            html = fetch_url(f"https://timarit.is/page/{pid}", retries=1).decode("utf-8", "ignore")
         except Exception:
             continue
         for pattern in PRICE_PATTERNS:
