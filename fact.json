@@ -1,74 +1,74 @@
 {
-  "date": "2026-08-30",
-  "dagur": 30,
+  "date": "2026-08-31",
+  "dagur": 31,
   "manudur": "ágúst",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 242,
-  "sunrise": "06:04",
-  "sunset": "20:51",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 243,
+  "sunrise": "06:07",
+  "sunset": "20:47",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Valdimar",
+  "nafnadagur": "Ágúst",
   "atburdir": [
     {
-      "ar": "1984",
-      "texti": "Geimskutlan Discovery, þriðja geimfar NASA í geimskutluáætluninni, fór í jómfrúarferð sína frá Kennedy geimferðamiðstöðinni í Flórída."
+      "ar": "1997",
+      "texti": "Díana, prinsessa af Wales, félagi hennar Dodi Fayed, og bílstjóri þeirra létust í bílslysi í París."
     },
     {
-      "ar": "1981",
-      "texti": "Mohammad-Ali Rajai, forseti Írans, og Mohammad-Javad Bahonar, forsætisráðherra, voru myrtir í sprengjuárás sem framin var af Alþýðusamtökum Írans."
+      "ar": "1969",
+      "texti": "Á lokadegi Isle of Wight hátíðarinnar 1969, þar sem um 150.000 manns sóttu á þremur dögum, kom Bob Dylan fram í fyrsta sinn í þrjú ár."
     },
     {
-      "ar": "1967",
-      "texti": "Thurgood Marshall var staðfestur sem fyrsti afrísk-ameríski dómari Hæstaréttar Bandaríkjanna."
+      "ar": "1939",
+      "texti": "Nasistahermenn, dulbúnir sem Pólverjar, sviðsettu árás á þýsku útvarpsstöðina Sender Gleiwitz í Gleiwitz, Efra-Silesíu, Þýskalandi, og sköpuðu þannig afsökun fyrir innrás í Pólland daginn eft0ir."
     },
     {
-      "ar": "1942",
-      "texti": "Seinni heimsstyrjöldin: Þýski hermarskálkurinn Erwin Rommel hóf síðustu stóru sókn Öxulveldanna í Vestur-Eyðimerkurherferðinni og réðst á breskar stöður nálægt El Alamein í Egyptalandi."
+      "ar": "1897",
+      "texti": "Thomas Edison fékk einkaleyfi á Kinetoscope, forvera nútíma kvikmyndasýningarvélar."
     },
     {
-      "ar": "70",
-      "texti": "Fyrsta Gyðinga-Rómverska stríðið: Rómverskar hersveitir undir forystu Títusar kveiktu í Öðru musterinu meðan á umsátrinu um Jerúsalem stóð."
+      "ar": "1888",
+      "texti": "Lík Mary Ann Nichols, sem talin er fyrsta fórnarlamb óþekkts raðmorðingja þekktur sem Jack the Ripper, fannst í Buck's Row, London."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1720",
-      "texti": "Jón Vídalín Skálholtsbiskup andaðist 54 ára gamall á leið norður Kaldadal, er hann var kominn þar sem nú heitir Biskupsbrekka til minningar um þennan atburð."
+      "ar": "1919",
+      "texti": "Myndlistarsýning var opnuð almenningi í barnaskólanum í Reykjavík. Var þetta fyrsta slík sýning á Íslandi. 90 verk eftir 15 listamenn voru sýnd."
     },
     {
-      "ar": "1779",
-      "texti": "Í Kaupmannahöfn stofnuðu Íslendingar Hið íslenska lærdómslistafélag og var Jón Eiríksson forseti þess. Markmiðið var að fræða Íslendinga um bústjórn og bæta vísindaþekkingu þeirra og bókmenntasmekk. Félagið starfaði til 1796."
+      "ar": "1944",
+      "texti": "Íþróttabandalag Reykjavíkur var stofnað."
     },
     {
-      "ar": "1967",
-      "texti": "Eldur kom upp í vöruskemmum Eimskipa við Borgartún í Reykjavík, en þar voru þúsundir tonna af vörum í geymslu. Slökkvilið barðist við eldinn í rúmlega sólarhring. Eignatjón varð meira en áður hafði orðið í eldsvoða á Íslandi."
+      "ar": "2005",
+      "texti": "Fríverslunarsamningur milli Íslands og Færeyja, Hoyvíkursamningurinn, var undirritaður í Færeyjum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Jessica Henwick",
-      "starfsgrein": "bresk leikkona",
-      "ar": "1992"
+      "nafn": "Van Morrison",
+      "starfsgrein": "norðurírskur söngvari og lagahöfundur",
+      "ar": "1945"
     },
     {
-      "nafn": "Anna Politkovskaya",
-      "starfsgrein": "rússnesk blaðakona og aðgerðasinni",
-      "ar": "1958"
+      "nafn": "Sara Ramirez",
+      "starfsgrein": "mexíkósk-amerískur leikari og tónlistarmaður",
+      "ar": "1975"
     },
     {
-      "nafn": "Jacques-Louis David",
-      "starfsgrein": "franskur málari og myndskreytir",
-      "ar": "1748"
+      "nafn": "Jean Béliveau",
+      "starfsgrein": "kanadískur íshokkíleikmaður",
+      "ar": "1931"
     }
   ],
-  "tonlistUSA": "Stayin' Alive – Bee Gees (1978)",
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
   "tonlistUK": "Wannabe – Spice Girls (1996)",
-  "bio": "Halloween (2007)",
+  "bio": "Halloween (1978)",
   "ord_dagsins": {
     "ord": "þrándur",
     "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta ljósmyndin af manneskju var tekin árið 1838 af Louis Daguerre, en vegna langrar lýsingartíma sást aðeins maður sem var að láta pússa skóna sína á Boulevard du Temple í París.",
-  "stjornuspa": "Meyja, í dag er kjörið tækifæri til að skipuleggja og raða í kringum þig. Nýttu nákvæmni þína til að ná framúrskarandi árangri í verkefnum dagsins.",
+  "vissir_thu": "Stjörnumerkið Meyja er eina stjörnumerkið sem er táknað með konu.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin eru þér í hag, svo nýttu þér það til fulls.",
   "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
