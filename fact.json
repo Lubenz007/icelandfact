@@ -1,74 +1,74 @@
 {
-  "date": "2026-08-31",
-  "dagur": 31,
-  "manudur": "ágúst",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 243,
-  "sunrise": "06:07",
-  "sunset": "20:47",
+  "date": "2026-09-01",
+  "dagur": 1,
+  "manudur": "september",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 244,
+  "sunrise": "06:10",
+  "sunset": "20:44",
   "stjornumerki": "Meyja",
   "nafnadagur": "Ágúst",
   "atburdir": [
     {
-      "ar": "1997",
-      "texti": "Díana, prinsessa af Wales, félagi hennar Dodi Fayed, og bílstjóri þeirra létust í bílslysi í París."
+      "ar": "1939",
+      "texti": "Þýskar hersveitir réðust inn í Pólland á mörgum stöðum, þar á meðal Wieluń og Westerplatte, sem markaði upphaf Síðari heimsstyrjaldarinnar í Evrópu."
+    },
+    {
+      "ar": "1972",
+      "texti": "Í skákeinvígi sem var mikið kynnt sem átök kalda stríðsins, varð bandaríski stórmeistarinn Bobby Fischer 11. heimsmeistari í skák með sigri sínum á Sovétmanninum Boris Spassky."
     },
     {
       "ar": "1969",
-      "texti": "Á lokadegi Isle of Wight hátíðarinnar 1969, þar sem um 150.000 manns sóttu á þremur dögum, kom Bob Dylan fram í fyrsta sinn í þrjú ár."
+      "texti": "Muammar Gaddafi leiddi valdarán til að steypa Idris konungi Líbíu af stóli."
     },
     {
-      "ar": "1939",
-      "texti": "Nasistahermenn, dulbúnir sem Pólverjar, sviðsettu árás á þýsku útvarpsstöðina Sender Gleiwitz í Gleiwitz, Efra-Silesíu, Þýskalandi, og sköpuðu þannig afsökun fyrir innrás í Pólland daginn eft0ir."
+      "ar": "1952",
+      "texti": "Skáldsaga Ernest Hemingway, The Old Man and the Sea, sem síðar vann Pulitzer-verðlaunin fyrir skáldskap, var fyrst gefin út."
     },
     {
-      "ar": "1897",
-      "texti": "Thomas Edison fékk einkaleyfi á Kinetoscope, forvera nútíma kvikmyndasýningarvélar."
-    },
-    {
-      "ar": "1888",
-      "texti": "Lík Mary Ann Nichols, sem talin er fyrsta fórnarlamb óþekkts raðmorðingja þekktur sem Jack the Ripper, fannst í Buck's Row, London."
+      "ar": "1859",
+      "texti": "Öflugur sólblossi olli kórónuútblæstri sem skall á jörðinni fáeinum klukkustundum síðar, sem myndaði öflugasta jarðsegulstorm sem skráður hefur verið og olli björtum norðurljósum sem sáust á miðlægum breiddargráðum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1919",
-      "texti": "Myndlistarsýning var opnuð almenningi í barnaskólanum í Reykjavík. Var þetta fyrsta slík sýning á Íslandi. 90 verk eftir 15 listamenn voru sýnd."
+      "ar": "1910",
+      "texti": "Fyrstu gasljósin við götur í Reykjavík voru tendruð, knúð af Gasstöð Reykjavíkur, og þusti fólk út á götur með blöð og bækur til þess að athuga hvort lesbjart væri við ljósin."
     },
     {
-      "ar": "1944",
-      "texti": "Íþróttabandalag Reykjavíkur var stofnað."
+      "ar": "1958",
+      "texti": "Fiskveiðilögsaga Íslands var færð út í tólf sjómílur en var áður fjórar. Bretar mótmæltu harkalega og lauk þeim deilum með samkomulagi í mars 1961."
     },
     {
-      "ar": "2005",
-      "texti": "Fríverslunarsamningur milli Íslands og Færeyja, Hoyvíkursamningurinn, var undirritaður í Færeyjum."
+      "ar": "1972",
+      "texti": "Bobby Fischer sigraði Boris Spasskí í „einvígi aldarinnar“ í Reykjavík með 12,5 vinningum gegn 8,5."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Van Morrison",
-      "starfsgrein": "norðurírskur söngvari og lagahöfundur",
-      "ar": "1945"
+      "nafn": "Barry Gibb",
+      "starfsgrein": "Manx-enskur söngvari, lagahöfundur og framleiðandi",
+      "ar": "1946"
     },
     {
-      "nafn": "Sara Ramirez",
-      "starfsgrein": "mexíkósk-amerískur leikari og tónlistarmaður",
-      "ar": "1975"
+      "nafn": "C. J. Cherryh",
+      "starfsgrein": "Bandarískur rithöfundur og kennari",
+      "ar": "1942"
     },
     {
-      "nafn": "Jean Béliveau",
-      "starfsgrein": "kanadískur íshokkíleikmaður",
-      "ar": "1931"
+      "nafn": "Valery Legasov",
+      "starfsgrein": "Sovéskur ólífrænn efnafræðingur, yfirmaður rannsóknarnefndar Chernobyl-slyssins",
+      "ar": "1936"
     }
   ],
-  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
-  "tonlistUK": "Wannabe – Spice Girls (1996)",
-  "bio": "Halloween (1978)",
+  "tonlistUSA": "You've Lost That Lovin' Feelin' – The Righteous Brothers (1964)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "Glóðarauga",
+    "skyring": "Glóðarauga er blóðsöfnun undir húð, oftast í kringum auga, sem stafar af höggi eða meiðslum."
   },
-  "vissir_thu": "Stjörnumerkið Meyja er eina stjörnumerkið sem er táknað með konu.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin eru þér í hag, svo nýttu þér það til fulls.",
-  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta kvikmyndin sem sýnd var í Háskólabíói var The Sound of Music árið 1961.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma hlutum í verk. Vertu opin fyrir nýjum hugmyndum, þær gætu leitt til óvæntra tækifæra.",
+  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
