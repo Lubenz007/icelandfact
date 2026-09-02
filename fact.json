@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-01",
-  "dagur": 1,
+  "date": "2026-09-02",
+  "dagur": 2,
   "manudur": "september",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 244,
-  "sunrise": "06:10",
-  "sunset": "20:44",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 245,
+  "sunrise": "06:13",
+  "sunset": "20:40",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Ágúst",
+  "nafnadagur": "Árni",
   "atburdir": [
     {
-      "ar": "1939",
-      "texti": "Þýskar hersveitir réðust inn í Pólland á mörgum stöðum, þar á meðal Wieluń og Westerplatte, sem markaði upphaf Síðari heimsstyrjaldarinnar í Evrópu."
+      "ar": "1998",
+      "texti": "Eldur í stjórnklefa Swissair flugs 111, á leið frá New York til Genfar, varð til þess að flugvélin hrapaði í Atlantshafið nálægt Kanada, og létust allir 229 um borð."
     },
     {
-      "ar": "1972",
-      "texti": "Í skákeinvígi sem var mikið kynnt sem átök kalda stríðsins, varð bandaríski stórmeistarinn Bobby Fischer 11. heimsmeistari í skák með sigri sínum á Sovétmanninum Boris Spassky."
+      "ar": "1945",
+      "texti": "Á þilfari bandaríska herskipsins Missouri í Tókýóflóa undirrituðu fulltrúar Japans og bandamanna uppgjafarsamning Japans, sem markaði formleg endalok síðari heimsstyrjaldar."
     },
     {
-      "ar": "1969",
-      "texti": "Muammar Gaddafi leiddi valdarán til að steypa Idris konungi Líbíu af stóli."
+      "ar": "1901",
+      "texti": "Varaforseti Bandaríkjanna, Theodore Roosevelt, notaði fyrst opinberlega orðatiltækið „talaðu lágt og berðu stóran staf“ á Minnesota State Fair, til að lýsa heimspeki sinni um friðsamlegar samningaviðræður samhliða hótun um hernaðaraðgerðir."
     },
     {
-      "ar": "1952",
-      "texti": "Skáldsaga Ernest Hemingway, The Old Man and the Sea, sem síðar vann Pulitzer-verðlaunin fyrir skáldskap, var fyrst gefin út."
+      "ar": "1870",
+      "texti": "Fransk-prússneska stríðið: Prússneskar hersveitir náðu Napóleon III á sitt vald í orrustunni við Sedan, sem leiddi til hruns annars franska keisaradæmisins innan fárra daga."
     },
     {
-      "ar": "1859",
-      "texti": "Öflugur sólblossi olli kórónuútblæstri sem skall á jörðinni fáeinum klukkustundum síðar, sem myndaði öflugasta jarðsegulstorm sem skráður hefur verið og olli björtum norðurljósum sem sáust á miðlægum breiddargráðum."
+      "ar": "1666",
+      "texti": "Mikill eldur braust út í Pudding Lane í London og logaði í fimm daga, eyðilagði St Paul's dómkirkjuna og heimili 70.000 af 80.000 íbúum borgarinnar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1910",
-      "texti": "Fyrstu gasljósin við götur í Reykjavík voru tendruð, knúð af Gasstöð Reykjavíkur, og þusti fólk út á götur með blöð og bækur til þess að athuga hvort lesbjart væri við ljósin."
+      "ar": "1625",
+      "texti": "Katla tók að gjósa með miklum eldgangi og varð mikið vatnsflóð og ísrek fram Mýrdalssand. Einnig var svo mikið öskufall að menn sáust ekki þótt þeir héldust í hendur, segir í Skarðsárannál. Gosið rénaði 14. september."
     },
     {
-      "ar": "1958",
-      "texti": "Fiskveiðilögsaga Íslands var færð út í tólf sjómílur en var áður fjórar. Bretar mótmæltu harkalega og lauk þeim deilum með samkomulagi í mars 1961."
+      "ar": "1845",
+      "texti": "Heklugos hófst og stóð fram á næsta vor. Öskufall til austsuðausturs. Voru þá 77 ár frá næsta gosi á undan, en 102 ár liðu til næsta goss á eftir."
     },
     {
-      "ar": "1972",
-      "texti": "Bobby Fischer sigraði Boris Spasskí í „einvígi aldarinnar“ í Reykjavík með 12,5 vinningum gegn 8,5."
+      "ar": "1967",
+      "texti": "Vígð var brú yfir Jökulsá á Breiðamerkursandi, 110 metra löng og næstlengsta hengibrú landsins. Með þessu opnuðust samgöngur úr Öræfasveit til annarra landshluta, þó mikið væri enn eftir óbrúað."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Barry Gibb",
-      "starfsgrein": "Manx-enskur söngvari, lagahöfundur og framleiðandi",
-      "ar": "1946"
+      "nafn": "Allison Miller",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1985"
     },
     {
-      "nafn": "C. J. Cherryh",
-      "starfsgrein": "Bandarískur rithöfundur og kennari",
-      "ar": "1942"
+      "nafn": "Pawan Kalyan",
+      "starfsgrein": "indverskur leikari og stjórnmálamaður",
+      "ar": "1971"
     },
     {
-      "nafn": "Valery Legasov",
-      "starfsgrein": "Sovéskur ólífrænn efnafræðingur, yfirmaður rannsóknarnefndar Chernobyl-slyssins",
-      "ar": "1936"
+      "nafn": "Liliʻuokalani",
+      "starfsgrein": "síðasti sjálfstæði einvaldur Hawaiʻi",
+      "ar": "1838"
     }
   ],
-  "tonlistUSA": "You've Lost That Lovin' Feelin' – The Righteous Brothers (1964)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
-  "bio": "The Shawshank Redemption (1994)",
+  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "Close Encounters of the Third Kind (1977)",
   "ord_dagsins": {
-    "ord": "Glóðarauga",
-    "skyring": "Glóðarauga er blóðsöfnun undir húð, oftast í kringum auga, sem stafar af höggi eða meiðslum."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísun í nákvæmni og vandvirkni."
   },
-  "vissir_thu": "Fyrsta kvikmyndin sem sýnd var í Háskólabíói var The Sound of Music árið 1961.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma hlutum í verk. Vertu opin fyrir nýjum hugmyndum, þær gætu leitt til óvæntra tækifæra.",
-  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta opinbera götuljósið í Reykjavík var steinolíulugt sem var kveikt á í Bakarabrekku árið 1876.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki hika við að leita ráða hjá þeim sem þú treystir.",
+  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
