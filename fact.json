@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-02",
-  "dagur": 2,
+  "date": "2026-09-03",
+  "dagur": 3,
   "manudur": "september",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 245,
-  "sunrise": "06:13",
-  "sunset": "20:40",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 246,
+  "sunrise": "06:16",
+  "sunset": "20:37",
   "stjornumerki": "Meyja",
   "nafnadagur": "Árni",
   "atburdir": [
     {
-      "ar": "1998",
-      "texti": "Eldur í stjórnklefa Swissair flugs 111, á leið frá New York til Genfar, varð til þess að flugvélin hrapaði í Atlantshafið nálægt Kanada, og létust allir 229 um borð."
+      "ar": "2017",
+      "text": "Norður-Kórea framkvæmdi sína sjöttu og öflugustu kjarnorkutilraun í Punggye-ri, sem olli jarðskjálfta upp á 6,3 á Richter. "
     },
     {
-      "ar": "1945",
-      "texti": "Á þilfari bandaríska herskipsins Missouri í Tókýóflóa undirrituðu fulltrúar Japans og bandamanna uppgjafarsamning Japans, sem markaði formleg endalok síðari heimsstyrjaldar."
+      "ar": "1935",
+      "text": "Á Bonneville Salt Flats í Utah varð breski kappakstursmaðurinn Malcolm Campbell fyrstur til að aka bifreið yfir 480 km/klst (300 mph)."
     },
     {
       "ar": "1901",
-      "texti": "Varaforseti Bandaríkjanna, Theodore Roosevelt, notaði fyrst opinberlega orðatiltækið „talaðu lágt og berðu stóran staf“ á Minnesota State Fair, til að lýsa heimspeki sinni um friðsamlegar samningaviðræður samhliða hótun um hernaðaraðgerðir."
+      "text": "Fáni Ástralíu var dreginn að húni í fyrsta sinn við Royal Exhibition Building í Melbourne."
     },
     {
-      "ar": "1870",
-      "texti": "Fransk-prússneska stríðið: Prússneskar hersveitir náðu Napóleon III á sitt vald í orrustunni við Sedan, sem leiddi til hruns annars franska keisaradæmisins innan fárra daga."
+      "ar": "1878",
+      "text": "Farþegaskipið SS Princess Alice sökk í Thames-ánni eftir árekstur við kolaskipið Bywell Castle, og létust yfir 600 manns."
     },
     {
-      "ar": "1666",
-      "texti": "Mikill eldur braust út í Pudding Lane í London og logaði í fimm daga, eyðilagði St Paul's dómkirkjuna og heimili 70.000 af 80.000 íbúum borgarinnar."
+      "ar": "1651",
+      "text": "Enskar þinghersveitir undir stjórn Olivers Cromwell unnu orrustuna við Worcester, sem var lokabardagi ensku borgarastyrjaldarinnar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1625",
-      "texti": "Katla tók að gjósa með miklum eldgangi og varð mikið vatnsflóð og ísrek fram Mýrdalssand. Einnig var svo mikið öskufall að menn sáust ekki þótt þeir héldust í hendur, segir í Skarðsárannál. Gosið rénaði 14. september."
+      "ar": "1886",
+      "text": "Steypiregn og skriðuföll á Kjalarnesi ollu miklu tjóni á túnum og húsum."
     },
     {
-      "ar": "1845",
-      "texti": "Heklugos hófst og stóð fram á næsta vor. Öskufall til austsuðausturs. Voru þá 77 ár frá næsta gosi á undan, en 102 ár liðu til næsta goss á eftir."
+      "ar": "1919",
+      "text": "Enskur flugmaður, Cecil Faber, flaug flugvél í Vatnsmýrinni í Reykjavík og var það fyrsta flug á Íslandi. Flugvélin var af Avro-gerð."
     },
     {
-      "ar": "1967",
-      "texti": "Vígð var brú yfir Jökulsá á Breiðamerkursandi, 110 metra löng og næstlengsta hengibrú landsins. Með þessu opnuðust samgöngur úr Öræfasveit til annarra landshluta, þó mikið væri enn eftir óbrúað."
+      "ar": "1921",
+      "text": "206 metra löng brú yfir Jökulsá á Sólheimasandi var vígð og þótti vera ein mesta og vandaðasta brú fram að þeim tíma."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Allison Miller",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1985"
+      "nafn": "Carl David Anderson",
+      "starfsgrein": "bandarískur eðlisfræðingur og fræðimaður, Nóbelsverðlaunahafi",
+      "ar": "1905"
     },
     {
-      "nafn": "Pawan Kalyan",
-      "starfsgrein": "indverskur leikari og stjórnmálamaður",
-      "ar": "1971"
+      "nafn": "Al Jardine",
+      "starfsgrein": "bandarískur söngvari, lagahöfundur og gítarleikari",
+      "ar": "1942"
     },
     {
-      "nafn": "Liliʻuokalani",
-      "starfsgrein": "síðasti sjálfstæði einvaldur Hawaiʻi",
-      "ar": "1838"
+      "nafn": "Steve Schirripa",
+      "starfsgrein": "bandarískur leikari og framleiðandi",
+      "ar": "1957"
     }
   ],
-  "tonlistUSA": "I Want To Hold Your Hand – The Beatles (1964)",
+  "tonlistUSA": "Shake It Off – Taylor Swift (2014)",
   "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
-  "bio": "Close Encounters of the Third Kind (1977)",
+  "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísun í nákvæmni og vandvirkni."
+    "ord": "hrakhóll",
+    "skyring": "Hóll eða hæð þar sem oft er vont veður eða erfiðar aðstæður."
   },
-  "vissir_thu": "Fyrsta opinbera götuljósið í Reykjavík var steinolíulugt sem var kveikt á í Bakarabrekku árið 1876.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki hika við að leita ráða hjá þeim sem þú treystir.",
-  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Kaffi var uppgötvað af geitum í Eþíópíu sem urðu óvenju orkumiklar eftir að hafa étið ákveðin ber.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin eru þér í hag, svo nýttu þér það.",
+  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
