@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-03",
-  "dagur": 3,
+  "date": "2026-09-04",
+  "dagur": 4,
   "manudur": "september",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 246,
-  "sunrise": "06:16",
-  "sunset": "20:37",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 247,
+  "sunrise": "06:19",
+  "sunset": "20:33",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Árni",
+  "nafnadagur": "Rósa",
   "atburdir": [
     {
-      "ar": "2017",
-      "text": "Norður-Kórea framkvæmdi sína sjöttu og öflugustu kjarnorkutilraun í Punggye-ri, sem olli jarðskjálfta upp á 6,3 á Richter. "
+      "ar": "1957",
+      "texti": "Ríkisstjóri Orval Faubus sendi þjóðvarðlið Arkansas til að koma í veg fyrir að níu afrísk-amerískir nemendur gengju í Little Rock Central High School."
     },
     {
-      "ar": "1935",
-      "text": "Á Bonneville Salt Flats í Utah varð breski kappakstursmaðurinn Malcolm Campbell fyrstur til að aka bifreið yfir 480 km/klst (300 mph)."
+      "ar": "1886",
+      "texti": "Eftir meira en 25 ára baráttu gegn Bandaríkjaher og vopnuðum sveitum Mexíkó, gaf Geronimo af Chiricahua Apache sig fram í Skeleton Canyon í Arizona."
     },
     {
-      "ar": "1901",
-      "text": "Fáni Ástralíu var dreginn að húni í fyrsta sinn við Royal Exhibition Building í Melbourne."
+      "ar": "1800",
+      "texti": "Frönsku byltingarstríðin: Franski herinn á Möltu gafst upp fyrir breskum hersveitum eftir tveggja ára umsátur, vegna hungurs og mikillar dánartíðni."
     },
     {
-      "ar": "1878",
-      "text": "Farþegaskipið SS Princess Alice sökk í Thames-ánni eftir árekstur við kolaskipið Bywell Castle, og létust yfir 600 manns."
+      "ar": "1666",
+      "texti": "Mestu skemmdirnar af völdum Lundúnabrunans mikla áttu sér stað."
     },
     {
-      "ar": "1651",
-      "text": "Enskar þinghersveitir undir stjórn Olivers Cromwell unnu orrustuna við Worcester, sem var lokabardagi ensku borgarastyrjaldarinnar."
+      "ar": "476",
+      "texti": "Germanski leiðtoginn Odoacer hertók Ravenna og setti Romulus Augustus keisara af, sem markaði fall Vestrómverska ríkisins."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1886",
-      "text": "Steypiregn og skriðuföll á Kjalarnesi ollu miklu tjóni á túnum og húsum."
+      "ar": "1845",
+      "texti": "Jón Sigurðsson, 34 ára skjalavörður, og Ingibjörg Einarsdóttir Johnson, 40 ára, voru gefin saman í hjónaband."
     },
     {
-      "ar": "1919",
-      "text": "Enskur flugmaður, Cecil Faber, flaug flugvél í Vatnsmýrinni í Reykjavík og var það fyrsta flug á Íslandi. Flugvélin var af Avro-gerð."
+      "ar": "1943",
+      "texti": "Íslandsklukkan eftir Halldór Kiljan Laxness kom út og hlaut mjög góðar viðtökur."
     },
     {
-      "ar": "1921",
-      "text": "206 metra löng brú yfir Jökulsá á Sólheimasandi var vígð og þótti vera ein mesta og vandaðasta brú fram að þeim tíma."
+      "ar": "1973",
+      "texti": "Menntamálaráðherra ákvað að fella brott bókstafinn z úr opinberu íslensku ritmáli."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Carl David Anderson",
-      "starfsgrein": "bandarískur eðlisfræðingur og fræðimaður, Nóbelsverðlaunahafi",
+      "nafn": "Damon Wayans",
+      "starfsgrein": "amerískur leikari, leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Henry Ford II",
+      "starfsgrein": "amerískur kaupsýslumaður",
+      "ar": "1917"
+    },
+    {
+      "nafn": "Mary Renault",
+      "starfsgrein": "ensk-suðurafrískur rithöfundur",
       "ar": "1905"
-    },
-    {
-      "nafn": "Al Jardine",
-      "starfsgrein": "bandarískur söngvari, lagahöfundur og gítarleikari",
-      "ar": "1942"
-    },
-    {
-      "nafn": "Steve Schirripa",
-      "starfsgrein": "bandarískur leikari og framleiðandi",
-      "ar": "1957"
     }
   ],
-  "tonlistUSA": "Shake It Off – Taylor Swift (2014)",
-  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "tonlistUSA": "What's Love Got to Do with It – Tina Turner (1984)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
   "bio": "The Sixth Sense (1999)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hóll eða hæð þar sem oft er vont veður eða erfiðar aðstæður."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísan til nákvæmni og smekkvísi."
   },
-  "vissir_thu": "Kaffi var uppgötvað af geitum í Eþíópíu sem urðu óvenju orkumiklar eftir að hafa étið ákveðin ber.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin eru þér í hag, svo nýttu þér það.",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta tölvan sem var seld í verslun var Kenbak-1 árið 1971 og kostaði hún 750 dollara.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma reglu á hlutina. Mundu að smáatriðin skipta máli og þolinmæði er dyggð.",
+  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
