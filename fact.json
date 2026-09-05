@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-04",
-  "dagur": 4,
+  "date": "2026-09-05",
+  "dagur": 5,
   "manudur": "september",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 247,
-  "sunrise": "06:19",
-  "sunset": "20:33",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 248,
+  "sunrise": "06:21",
+  "sunset": "20:29",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Rósa",
+  "nafnadagur": "Meyja",
   "atburdir": [
     {
-      "ar": "1957",
-      "texti": "Ríkisstjóri Orval Faubus sendi þjóðvarðlið Arkansas til að koma í veg fyrir að níu afrísk-amerískir nemendur gengju í Little Rock Central High School."
+      "ar": "(1977)",
+      "texti": "NASA skaut geimfarinu Voyager 1 á loft, sem er nú fjarlægasta geimfar frá jörðu."
     },
     {
-      "ar": "1886",
-      "texti": "Eftir meira en 25 ára baráttu gegn Bandaríkjaher og vopnuðum sveitum Mexíkó, gaf Geronimo af Chiricahua Apache sig fram í Skeleton Canyon í Arizona."
+      "ar": "(1975)",
+      "texti": "Squeaky Fromme, fylgismaður Charles Manson, reyndi að myrða Gerald Ford Bandaríkjaforseta í Sacramento, Kaliforníu."
     },
     {
-      "ar": "1800",
-      "texti": "Frönsku byltingarstríðin: Franski herinn á Möltu gafst upp fyrir breskum hersveitum eftir tveggja ára umsátur, vegna hungurs og mikillar dánartíðni."
+      "ar": "(1972)",
+      "texti": "Palestínsku vígasamtökin Svarti september tóku ellefu ísraelska íþróttamenn og þjálfara í gíslingu á Ólympíuleikunum í München; allir gíslarnir voru drepnir innan 24 klukkustunda."
     },
     {
-      "ar": "1666",
-      "texti": "Mestu skemmdirnar af völdum Lundúnabrunans mikla áttu sér stað."
+      "ar": "(1905)",
+      "texti": "Rússnesk-japanska stríðinu lauk formlega með undirritun samnings í Portsmouth, Maine, undir milligöngu Theodore Roosevelt Bandaríkjaforseta."
     },
     {
-      "ar": "476",
-      "texti": "Germanski leiðtoginn Odoacer hertók Ravenna og setti Romulus Augustus keisara af, sem markaði fall Vestrómverska ríkisins."
+      "ar": "(1882)",
+      "texti": "Hópur skólastráka í London, undir forystu Bobby Buckle, stofnaði Hotspur Football Club til að halda áfram að spila íþróttir yfir vetrarmánuðina."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1845",
-      "texti": "Jón Sigurðsson, 34 ára skjalavörður, og Ingibjörg Einarsdóttir Johnson, 40 ára, voru gefin saman í hjónaband."
+      "ar": "(1896)",
+      "texti": "Suðurlandsskjálfti hinn síðari olli skemmdum á fjölda bæja í Árnessýslu, 10 dögum eftir að fyrri skjálftinn reið yfir."
     },
     {
-      "ar": "1943",
-      "texti": "Íslandsklukkan eftir Halldór Kiljan Laxness kom út og hlaut mjög góðar viðtökur."
+      "ar": "(1910)",
+      "texti": "Berklahælið á Vífilsstöðum tók til starfa undir stjórn Sigurðar Magnússonar yfirlæknis."
     },
     {
-      "ar": "1973",
-      "texti": "Menntamálaráðherra ákvað að fella brott bókstafinn z úr opinberu íslensku ritmáli."
+      "ar": "(1973)",
+      "texti": "Notkun bókstafsins z var hætt í íslensku."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Damon Wayans",
-      "starfsgrein": "amerískur leikari, leikstjóri, framleiðandi og handritshöfundur",
-      "ar": "1960"
+      "nafn": "Carice van Houten",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "(1976)"
     },
     {
-      "nafn": "Henry Ford II",
-      "starfsgrein": "amerískur kaupsýslumaður",
-      "ar": "1917"
+      "nafn": "Victor Davis Hanson",
+      "starfsgrein": "sagnfræðingur og blaðamaður",
+      "ar": "(1953)"
     },
     {
-      "nafn": "Mary Renault",
-      "starfsgrein": "ensk-suðurafrískur rithöfundur",
-      "ar": "1905"
+      "nafn": "Darryl F. Zanuck",
+      "starfsgrein": "leikari, leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "(1902)"
     }
   ],
-  "tonlistUSA": "What's Love Got to Do with It – Tina Turner (1984)",
-  "tonlistUK": "Careless Whisper – George Michael (1984)",
-  "bio": "The Sixth Sense (1999)",
+  "tonlistUSA": "Sweet Dreams (Are Made of This) – Eurythmics (1983)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "Close Encounters of the Third Kind (1977)",
   "ord_dagsins": {
     "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísan til nákvæmni og smekkvísi."
+    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísan til nákvæmni og vandvirkni."
   },
-  "vissir_thu": "Fyrsta tölvan sem var seld í verslun var Kenbak-1 árið 1971 og kostaði hún 750 dollara.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma reglu á hlutina. Mundu að smáatriðin skipta máli og þolinmæði er dyggð.",
-  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki láta smáatriðin yfirbuga þig, heldur notaðu þau til að byggja upp eitthvað stórt og fallegt.",
+  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
