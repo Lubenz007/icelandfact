@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-05",
-  "dagur": 5,
+  "date": "2026-09-06",
+  "dagur": 6,
   "manudur": "september",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 248,
-  "sunrise": "06:21",
-  "sunset": "20:29",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 249,
+  "sunrise": "06:25",
+  "sunset": "20:26",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Meyja",
+  "nafnadagur": "Magnús",
   "atburdir": [
     {
-      "ar": "(1977)",
-      "texti": "NASA skaut geimfarinu Voyager 1 á loft, sem er nú fjarlægasta geimfar frá jörðu."
+      "ar": "2022",
+      "texti": "Liz Truss tók við embætti forsætisráðherra Bretlands af Boris Johnson eftir stjórnarkreppuna í júlí 2022."
     },
     {
-      "ar": "(1975)",
-      "texti": "Squeaky Fromme, fylgismaður Charles Manson, reyndi að myrða Gerald Ford Bandaríkjaforseta í Sacramento, Kaliforníu."
+      "ar": "2018",
+      "texti": "Hæstiréttur Indlands ógilti hluta af 377. grein hegningarlaga og lögleiddi þar með samkynhneigð á Indlandi."
     },
     {
-      "ar": "(1972)",
-      "texti": "Palestínsku vígasamtökin Svarti september tóku ellefu ísraelska íþróttamenn og þjálfara í gíslingu á Ólympíuleikunum í München; allir gíslarnir voru drepnir innan 24 klukkustunda."
+      "ar": "1997",
+      "texti": "Áætlað er að 2,5 milljarðar manna um allan heim hafi fylgst með útför Díönu, prinsessu af Wales, í sjónvarpi."
     },
     {
-      "ar": "(1905)",
-      "texti": "Rússnesk-japanska stríðinu lauk formlega með undirritun samnings í Portsmouth, Maine, undir milligöngu Theodore Roosevelt Bandaríkjaforseta."
+      "ar": "1970",
+      "texti": "Svarti september: Alþýðufylkingin til frelsunar Palestínu rændi fjórum farþegaflugvélum, lenti tveimur á Dawson's Field í Jórdaníu og einni í Kaíró, en síðasta ránstilrauninni var komið í veg fyrir nálægt London."
     },
     {
-      "ar": "(1882)",
-      "texti": "Hópur skólastráka í London, undir forystu Bobby Buckle, stofnaði Hotspur Football Club til að halda áfram að spila íþróttir yfir vetrarmánuðina."
+      "ar": "1492",
+      "texti": "Kristófer Kólumbus sigldi frá San Sebastián de La Gomera á Kanaríeyjum í sinni fyrstu ferð yfir Atlantshafið, sem leiddi til uppgötvunar Ameríku."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "(1896)",
-      "texti": "Suðurlandsskjálfti hinn síðari olli skemmdum á fjölda bæja í Árnessýslu, 10 dögum eftir að fyrri skjálftinn reið yfir."
+      "ar": "1914",
+      "texti": "Benedikt G. Waage, sem síðar varð forseti ÍSÍ, synti fyrstur manna úr Viðey til lands á tæpum tveimur klukkustundum."
     },
     {
-      "ar": "(1910)",
-      "texti": "Berklahælið á Vífilsstöðum tók til starfa undir stjórn Sigurðar Magnússonar yfirlæknis."
+      "ar": "1928",
+      "texti": "Bandalag íslenskra listamanna var stofnað til að gæta hagsmuna þeirra í einu og öllu."
     },
     {
-      "ar": "(1973)",
-      "texti": "Notkun bókstafsins z var hætt í íslensku."
+      "ar": "1936",
+      "texti": "Enski línuveiðarinn Trocadero strandaði á Járngerðarstaðafjörum við Grindavík. Slysavarnadeildin Þorbjörn bjargaði 14 manna áhöfn með fluglínutækjum."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Carice van Houten",
-      "starfsgrein": "leikkona og söngkona",
-      "ar": "(1976)"
+      "nafn": "Dolores O'Riordan",
+      "starfsgrein": "írsk söngkona og lagahöfundur",
+      "ar": "1971"
     },
     {
-      "nafn": "Victor Davis Hanson",
-      "starfsgrein": "sagnfræðingur og blaðamaður",
-      "ar": "(1953)"
+      "nafn": "John Macleod",
+      "starfsgrein": "skoskur læknir og lífeðlisfræðingur, Nóbelsverðlaunahafi",
+      "ar": "1876"
     },
     {
-      "nafn": "Darryl F. Zanuck",
-      "starfsgrein": "leikari, leikstjóri, framleiðandi og handritshöfundur",
-      "ar": "(1902)"
+      "nafn": "Carly Fiorina",
+      "starfsgrein": "bandarísk viðskiptakona og aðgerðasinni",
+      "ar": "1954"
     }
   ],
-  "tonlistUSA": "Sweet Dreams (Are Made of This) – Eurythmics (1983)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
   "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
   "bio": "Close Encounters of the Third Kind (1977)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list, oft með vísan til nákvæmni og vandvirkni."
+    "ord": "hrakfallabálkur",
+    "skyring": "Saga eða frásögn sem einkennist af mörgum óheppilegum atburðum eða mistökum."
   },
-  "vissir_thu": "Fyrsta tölvumúsin var fundin upp árið 1964 af Douglas Engelbart og var gerð úr tré.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki láta smáatriðin yfirbuga þig, heldur notaðu þau til að byggja upp eitthvað stórt og fallegt.",
-  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta sjálfsafgreiðslubúðin, Piggly Wiggly, var stofnuð í Memphis, Tennessee, Bandaríkjunum, þennan dag árið 1916.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo gefðu þér tíma til að fínpússa áætlanir þínar.",
+  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
