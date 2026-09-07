@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-06",
-  "dagur": 6,
+  "date": "2026-09-07",
+  "dagur": 7,
   "manudur": "september",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 249,
-  "sunrise": "06:25",
-  "sunset": "20:26",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 250,
+  "sunrise": "06:28",
+  "sunset": "20:22",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Magnús",
+  "nafnadagur": "Róbert",
   "atburdir": [
     {
-      "ar": "2022",
-      "texti": "Liz Truss tók við embætti forsætisráðherra Bretlands af Boris Johnson eftir stjórnarkreppuna í júlí 2022."
+      "ar": "2011",
+      "text": "Flugvél Yak-Service Flight 9633, sem flutti leikmenn og þjálfarateymi íshokkíliðsins Lokomotiv Yaroslavl, hrapaði við flugtak nálægt Yaroslavl í Rússlandi. 44 af 45 um borð létust."
     },
     {
-      "ar": "2018",
-      "texti": "Hæstiréttur Indlands ógilti hluta af 377. grein hegningarlaga og lögleiddi þar með samkynhneigð á Indlandi."
+      "ar": "1940",
+      "text": "Síðari heimsstyrjöldin: Luftwaffe breytti um stefnu í orrustunni um Bretland og hóf sprengjuárásir á London og aðrar borgir og bæi."
     },
     {
-      "ar": "1997",
-      "texti": "Áætlað er að 2,5 milljarðar manna um allan heim hafi fylgst með útför Díönu, prinsessu af Wales, í sjónvarpi."
+      "ar": "1936",
+      "text": "Síðasta tasmaníutígrisdýrið dó í haldi í dýragarðinum í Hobart í Ástralíu."
     },
     {
-      "ar": "1970",
-      "texti": "Svarti september: Alþýðufylkingin til frelsunar Palestínu rændi fjórum farþegaflugvélum, lenti tveimur á Dawson's Field í Jórdaníu og einni í Kaíró, en síðasta ránstilrauninni var komið í veg fyrir nálægt London."
+      "ar": "1822",
+      "text": "Pedro I lýsti yfir sjálfstæði Brasilíu frá Portúgal og stofnaði keisaradæmið Brasilíu."
     },
     {
-      "ar": "1492",
-      "texti": "Kristófer Kólumbus sigldi frá San Sebastián de La Gomera á Kanaríeyjum í sinni fyrstu ferð yfir Atlantshafið, sem leiddi til uppgötvunar Ameríku."
+      "ar": "1191",
+      "text": "Þriðja krossferðin: Krossfarar undir stjórn Ríkharðs I Englandskonungs sigruðu Ayyubid herlið undir stjórn Saladíns í orrustunni við Arsuf í núverandi Ísrael."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1914",
-      "texti": "Benedikt G. Waage, sem síðar varð forseti ÍSÍ, synti fyrstur manna úr Viðey til lands á tæpum tveimur klukkustundum."
+      "ar": "1874",
+      "text": "Sigurður Guðmundsson málari lést, 41 árs. Aðeins mánuði fyrr hafði hann ásamt Sigfúsi Eymundssyni séð um þjóðhátíðina, sem haldin var á Þingvöllum."
     },
     {
-      "ar": "1928",
-      "texti": "Bandalag íslenskra listamanna var stofnað til að gæta hagsmuna þeirra í einu og öllu."
+      "ar": "1947",
+      "text": "Ísland gerðist aðili að Bernarsáttmálanum."
     },
     {
-      "ar": "1936",
-      "texti": "Enski línuveiðarinn Trocadero strandaði á Járngerðarstaðafjörum við Grindavík. Slysavarnadeildin Þorbjörn bjargaði 14 manna áhöfn með fluglínutækjum."
+      "ar": "1972",
+      "text": "Ísland og Belgía gerðu með sér samning um heimildir fyrir belgíska togara til fiskveiða innan 50 mílna markanna í tvö ár."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Dolores O'Riordan",
-      "starfsgrein": "írsk söngkona og lagahöfundur",
-      "ar": "1971"
+      "nafn": "Toby Jones",
+      "starfsgrein": "enskur leikari",
+      "ar": "1966"
     },
     {
-      "nafn": "John Macleod",
-      "starfsgrein": "skoskur læknir og lífeðlisfræðingur, Nóbelsverðlaunahafi",
-      "ar": "1876"
+      "nafn": "Elia Kazan",
+      "starfsgrein": "grísk-amerískur leikari, leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1909"
     },
     {
-      "nafn": "Carly Fiorina",
-      "starfsgrein": "bandarísk viðskiptakona og aðgerðasinni",
-      "ar": "1954"
+      "nafn": "J. P. Morgan Jr.",
+      "starfsgrein": "bandarískur bankamaður og mannvinur",
+      "ar": "1867"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
-  "bio": "Close Encounters of the Third Kind (1977)",
+  "tonlistUSA": "Hey Jude – The Beatles (1968)",
+  "tonlistUK": "Wannabe – Spice Girls (1996)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Saga eða frásögn sem einkennist af mörgum óheppilegum atburðum eða mistökum."
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
   },
-  "vissir_thu": "Fyrsta sjálfsafgreiðslubúðin, Piggly Wiggly, var stofnuð í Memphis, Tennessee, Bandaríkjunum, þennan dag árið 1916.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo gefðu þér tíma til að fínpússa áætlanir þínar.",
+  "vissir_thu": "Fyrsta tölvuleikjatölvan, Magnavox Odyssey, var gefin út í Bandaríkjunum árið 1972.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki láta smáatriði fara í taugarnar á þér, heldur njóttu þess að sjá heildarmyndina skýrast.",
   "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
