@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-07",
-  "dagur": 7,
+  "date": "2026-09-09",
+  "dagur": 9,
   "manudur": "september",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 250,
-  "sunrise": "06:28",
-  "sunset": "20:22",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 252,
+  "sunrise": "06:33",
+  "sunset": "20:15",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Róbert",
+  "nafnadagur": "Arnar",
   "atburdir": [
     {
-      "ar": "2011",
-      "text": "Flugvél Yak-Service Flight 9633, sem flutti leikmenn og þjálfarateymi íshokkíliðsins Lokomotiv Yaroslavl, hrapaði við flugtak nálægt Yaroslavl í Rússlandi. 44 af 45 um borð létust."
+      "ar": "2015",
+      "texti": "Elísabet II varð langlífasti þjóðhöfðingi Bretlands og sló met Viktoríu drottningar."
     },
     {
-      "ar": "1940",
-      "text": "Síðari heimsstyrjöldin: Luftwaffe breytti um stefnu í orrustunni um Bretland og hóf sprengjuárásir á London og aðrar borgir og bæi."
+      "ar": "2001",
+      "texti": "Tveir árásarmenn frá al-Qaeda myrtu Ahmad Shah Massoud, mikilvægan leiðtoga afganskrar andspyrnu, tveimur dögum fyrir 11. september árásirnar í Bandaríkjunum."
     },
     {
-      "ar": "1936",
-      "text": "Síðasta tasmaníutígrisdýrið dó í haldi í dýragarðinum í Hobart í Ástralíu."
+      "ar": "1971",
+      "texti": "Önnur sólóplata John Lennon, Imagine, kom út."
     },
     {
-      "ar": "1822",
-      "text": "Pedro I lýsti yfir sjálfstæði Brasilíu frá Portúgal og stofnaði keisaradæmið Brasilíu."
+      "ar": "1957",
+      "texti": "Dwight D. Eisenhower, forseti Bandaríkjanna, undirritaði borgararéttindalögin frá 1957, fyrstu borgararéttindalögin síðan endurreisnartímabilið."
     },
     {
-      "ar": "1191",
-      "text": "Þriðja krossferðin: Krossfarar undir stjórn Ríkharðs I Englandskonungs sigruðu Ayyubid herlið undir stjórn Saladíns í orrustunni við Arsuf í núverandi Ísrael."
+      "ar": "1791",
+      "texti": "Fulltrúar sem höfðu umsjón með byggingu nýrrar höfuðborgar Bandaríkjanna nefndu hana Washington, til heiðurs fyrsta forsetanum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1874",
-      "text": "Sigurður Guðmundsson málari lést, 41 árs. Aðeins mánuði fyrr hafði hann ásamt Sigfúsi Eymundssyni séð um þjóðhátíðina, sem haldin var á Þingvöllum."
+      "ar": "1208",
+      "texti": "Víðinesbardagi var háður í Hjaltadal, þar sem Kolbeinn Tumason féll. Bardaginn gæti þó hafa verið daginn áður."
     },
     {
-      "ar": "1947",
-      "text": "Ísland gerðist aðili að Bernarsáttmálanum."
+      "ar": "1877",
+      "texti": "Þingeyrakirkja, sem Ásgeir Einarsson alþingismaður lét reisa, var vígð."
     },
     {
-      "ar": "1972",
-      "text": "Ísland og Belgía gerðu með sér samning um heimildir fyrir belgíska togara til fiskveiða innan 50 mílna markanna í tvö ár."
+      "ar": "1998",
+      "texti": "Háhyrningurinn Keikó kom til Vestmannaeyja."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Toby Jones",
-      "starfsgrein": "enskur leikari",
-      "ar": "1966"
+      "nafn": "John Lennon",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1940"
     },
     {
-      "nafn": "Elia Kazan",
-      "starfsgrein": "grísk-amerískur leikari, leikstjóri, framleiðandi og handritshöfundur",
-      "ar": "1909"
+      "nafn": "Goran Višnjić",
+      "starfsgrein": "króatísk-bandarískur leikari",
+      "ar": "1972"
     },
     {
-      "nafn": "J. P. Morgan Jr.",
-      "starfsgrein": "bandarískur bankamaður og mannvinur",
-      "ar": "1867"
+      "nafn": "Sonia Sanchez",
+      "starfsgrein": "bandarískt ljóðskáld, leikskáld og aðgerðasinni",
+      "ar": "1934"
     }
   ],
   "tonlistUSA": "Hey Jude – The Beatles (1968)",
-  "tonlistUK": "Wannabe – Spice Girls (1996)",
+  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
   "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er staður þar sem hrakar oft veðri eða þar sem erfitt er að komast yfir."
   },
-  "vissir_thu": "Fyrsta tölvuleikjatölvan, Magnavox Odyssey, var gefin út í Bandaríkjunum árið 1972.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki láta smáatriði fara í taugarnar á þér, heldur njóttu þess að sjá heildarmyndina skýrast.",
-  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta tölvuleikjatölvan, Magnavox Odyssey, kom út árið 1972 og var hönnuð af Ralph H. Baer.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig.",
+  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
