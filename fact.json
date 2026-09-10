@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-09",
-  "dagur": 9,
+  "date": "2026-09-10",
+  "dagur": 10,
   "manudur": "september",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 252,
-  "sunrise": "06:33",
-  "sunset": "20:15",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 253,
+  "sunrise": "06:36",
+  "sunset": "20:11",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Arnar",
+  "nafnadagur": "Tómas",
   "atburdir": [
     {
-      "ar": "2015",
-      "texti": "Elísabet II varð langlífasti þjóðhöfðingi Bretlands og sló met Viktoríu drottningar."
+      "ar": "2017",
+      "text": "Fellibylurinn Irma gekk á land á Cudjoe Key í Flórída sem fellibylur af 4. flokki, eftir að hafa valdið gríðarlegu tjóni um Karíbahafið."
     },
     {
-      "ar": "2001",
-      "texti": "Tveir árásarmenn frá al-Qaeda myrtu Ahmad Shah Massoud, mikilvægan leiðtoga afganskrar andspyrnu, tveimur dögum fyrir 11. september árásirnar í Bandaríkjunum."
+      "ar": "2000",
+      "text": "Breskar hersveitir frelsuðu hermenn og borgara sem hafði verið haldið föngnum af vígahópnum West Side Boys, sem stuðlaði að endalokum borgarastyrjaldarinnar í Síerra Leóne."
     },
     {
-      "ar": "1971",
-      "texti": "Önnur sólóplata John Lennon, Imagine, kom út."
+      "ar": "1974",
+      "text": "Eftir aldalanga portúgalska stjórn var landið Gínea-Bissá formlega viðurkennt sem sjálfstætt ríki."
     },
     {
-      "ar": "1957",
-      "texti": "Dwight D. Eisenhower, forseti Bandaríkjanna, undirritaði borgararéttindalögin frá 1957, fyrstu borgararéttindalögin síðan endurreisnartímabilið."
+      "ar": "1960",
+      "text": "Abebe Bikila varð fyrsti íþróttamaðurinn frá Afríku sunnan Sahara til að vinna ólympískt gullverðlaun, þegar hann hljóp berfættur í maraþoninu á Ólympíuleikunum í Róm."
     },
     {
-      "ar": "1791",
-      "texti": "Fulltrúar sem höfðu umsjón með byggingu nýrrar höfuðborgar Bandaríkjanna nefndu hana Washington, til heiðurs fyrsta forsetanum."
+      "ar": "1509",
+      "text": "Jarðskjálftinn „Litli dómsdagur“ reið yfir Marmarahafið, eyðilagði stóran hluta Konstantínópel og drap yfir 1.000 manns."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1208",
-      "texti": "Víðinesbardagi var háður í Hjaltadal, þar sem Kolbeinn Tumason féll. Bardaginn gæti þó hafa verið daginn áður."
+      "ar": "1908",
+      "text": "Fyrstu almennu leynilegu kosningar til Alþingis voru haldnar. Áður hafði verið kosið í heyranda hljóði. Þátttaka stórjókst og fór í 75,5%."
     },
     {
-      "ar": "1877",
-      "texti": "Þingeyrakirkja, sem Ásgeir Einarsson alþingismaður lét reisa, var vígð."
+      "ar": "1908",
+      "text": "Bann við innflutningi og sölu áfengis var samþykkt í þjóðaratkvæðagreiðslu á Íslandi og tók gildi 1. janúar 1912. Framleiðslubann gekk í gildi þremur árum síðar."
     },
     {
-      "ar": "1998",
-      "texti": "Háhyrningurinn Keikó kom til Vestmannaeyja."
+      "ar": "1911",
+      "text": "Minnisvarði eftir Einar Jónsson um Jón Sigurðsson var afhjúpaður framan við Stjórnarráðshúsið í Reykjavík. Síðar var styttan flutt á Austurvöll."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "John Lennon",
-      "starfsgrein": "söngvari og lagahöfundur",
-      "ar": "1940"
+      "nafn": "Alison Bechdel",
+      "starfsgrein": "bandarískur rithöfundur og myndlistarmaður",
+      "ar": "1960"
     },
     {
-      "nafn": "Goran Višnjić",
-      "starfsgrein": "króatísk-bandarískur leikari",
-      "ar": "1972"
+      "nafn": "Robert Wise",
+      "starfsgrein": "bandarískur leikstjóri og framleiðandi",
+      "ar": "1914"
     },
     {
-      "nafn": "Sonia Sanchez",
-      "starfsgrein": "bandarískt ljóðskáld, leikskáld og aðgerðasinni",
-      "ar": "1934"
+      "nafn": "Mortimer Wheeler",
+      "starfsgrein": "breskur fornleifafræðingur og hermaður",
+      "ar": "1890"
     }
   ],
-  "tonlistUSA": "Hey Jude – The Beatles (1968)",
-  "tonlistUK": "I Want to Hold Your Hand – The Beatles (1963)",
-  "bio": "The Shawshank Redemption (1994)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "The Godfather (1972)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er staður þar sem hrakar oft veðri eða þar sem erfitt er að komast yfir."
+    "ord": "þrákelkni",
+    "skyring": "Þrákelkni er þrjóska eða óbilgirni, sérstaklega þegar maður heldur fast í skoðanir sínar þrátt fyrir rök."
   },
-  "vissir_thu": "Fyrsta tölvuleikjatölvan, Magnavox Odyssey, kom út árið 1972 og var hönnuð af Ralph H. Baer.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig.",
-  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hrollur“, var frumsýnd árið 1912 og var hún þögulmynd.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo vertu nákvæm í öllu sem þú tekur þér fyrir hendur.",
+  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
