@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-10",
-  "dagur": 10,
+  "date": "2026-09-11",
+  "dagur": 11,
   "manudur": "september",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 253,
-  "sunrise": "06:36",
-  "sunset": "20:11",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 254,
+  "sunrise": "06:38",
+  "sunset": "20:07",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Tómas",
+  "nafnadagur": "María",
   "atburdir": [
     {
-      "ar": "2017",
-      "text": "Fellibylurinn Irma gekk á land á Cudjoe Key í Flórída sem fellibylur af 4. flokki, eftir að hafa valdið gríðarlegu tjóni um Karíbahafið."
+      "ar": "2001",
+      "texti": "Al-Kaída rændi fjórum farþegaþotum og framdi hryðjuverkaárásir á skotmörk í New York borg og Washington, D.C., þar sem 2.977 manns létust."
     },
     {
-      "ar": "2000",
-      "text": "Breskar hersveitir frelsuðu hermenn og borgara sem hafði verið haldið föngnum af vígahópnum West Side Boys, sem stuðlaði að endalokum borgarastyrjaldarinnar í Síerra Leóne."
+      "ar": "2012",
+      "texti": "Bandaríska sendiráðið og CIA-viðbyggingin í Líbíu voru ráðin á af þungvopnuðum hópi, sem leiddi til dauða J. Christopher Stevens sendiherra Bandaríkjanna og þriggja annarra."
     },
     {
-      "ar": "1974",
-      "text": "Eftir aldalanga portúgalska stjórn var landið Gínea-Bissá formlega viðurkennt sem sjálfstætt ríki."
+      "ar": "1941",
+      "texti": "Í Des Moines, Iowa, flutti bandaríski flugmaðurinn Charles Lindbergh gyðingahaturræðu þar sem hann sakaði Gyðinga um að stjórna fjölmiðlum og hafa áhrif á Bandaríkin til að ganga í Síðari heimsstyrjöldina."
     },
     {
-      "ar": "1960",
-      "text": "Abebe Bikila varð fyrsti íþróttamaðurinn frá Afríku sunnan Sahara til að vinna ólympískt gullverðlaun, þegar hann hljóp berfættur í maraþoninu á Ólympíuleikunum í Róm."
+      "ar": "1893",
+      "texti": "Swami Vivekananda flutti ræðu þar sem hann kynnti hindúisma á opnunardegi fyrsta þings trúarbragða heimsins í Chicago."
     },
     {
-      "ar": "1509",
-      "text": "Jarðskjálftinn „Litli dómsdagur“ reið yfir Marmarahafið, eyðilagði stóran hluta Konstantínópel og drap yfir 1.000 manns."
+      "ar": "1789",
+      "texti": "Alexander Hamilton, einn af höfundum The Federalist Papers, varð fyrsti fjármálaráðherra Bandaríkjanna."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1908",
-      "text": "Fyrstu almennu leynilegu kosningar til Alþingis voru haldnar. Áður hafði verið kosið í heyranda hljóði. Þátttaka stórjókst og fór í 75,5%."
+      "ar": "1755",
+      "texti": "Á Norðurlandi varð mikill jarðskjálfti með skriðuföllum og sprungumyndunum. Hús féllu á Húsavík og Tjörnesi og tveir bátar fórust í flóðbylgju frá skjálftanum."
     },
     {
-      "ar": "1908",
-      "text": "Bann við innflutningi og sölu áfengis var samþykkt í þjóðaratkvæðagreiðslu á Íslandi og tók gildi 1. janúar 1912. Framleiðslubann gekk í gildi þremur árum síðar."
+      "ar": "1953",
+      "texti": "Fjórða ríkisstjórn Ólafs Thors tók við völdum og sat í þrjú ár."
     },
     {
-      "ar": "1911",
-      "text": "Minnisvarði eftir Einar Jónsson um Jón Sigurðsson var afhjúpaður framan við Stjórnarráðshúsið í Reykjavík. Síðar var styttan flutt á Austurvöll."
+      "ar": "1976",
+      "texti": "Farþegaþota frá TWA, sem hafði verið rænt, hafði viðkomu á Keflavíkurflugvelli til þess að taka eldsneyti. Vélin stóð við í tvær klukkustundir, en fór síðan til Parísar þar sem ræningjarnir gáfust upp."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Alison Bechdel",
-      "starfsgrein": "bandarískur rithöfundur og myndlistarmaður",
-      "ar": "1960"
+      "nafn": "Queen Paola of Belgium",
+      "starfsgrein": "Belgísk drottning",
+      "ar": "1937"
     },
     {
-      "nafn": "Robert Wise",
-      "starfsgrein": "bandarískur leikstjóri og framleiðandi",
-      "ar": "1914"
+      "nafn": "Maria Bartiromo",
+      "starfsgrein": "Bandarísk fjármálablaðakona og sjónvarpskona",
+      "ar": "1967"
     },
     {
-      "nafn": "Mortimer Wheeler",
-      "starfsgrein": "breskur fornleifafræðingur og hermaður",
-      "ar": "1890"
+      "nafn": "Tom Landry",
+      "starfsgrein": "Bandarískur fótboltamaður og þjálfari",
+      "ar": "1924"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
   "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
-  "bio": "The Godfather (1972)",
+  "bio": "The Matrix (1999)",
   "ord_dagsins": {
-    "ord": "þrákelkni",
-    "skyring": "Þrákelkni er þrjóska eða óbilgirni, sérstaklega þegar maður heldur fast í skoðanir sínar þrátt fyrir rök."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
   },
-  "vissir_thu": "Fyrsta íslenska kvikmyndin í fullri lengd, „Hrollur“, var frumsýnd árið 1912 og var hún þögulmynd.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Smáatriðin skipta máli, svo vertu nákvæm í öllu sem þú tekur þér fyrir hendur.",
-  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Stærsta bókasafn heims, Library of Congress í Bandaríkjunum, inniheldur yfir 170 milljónir hluta og er stærsta menningarstofnun heims.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma hlutum í verk. Vertu ekki hrædd/ur við að taka frumkvæði og sýna þína bestu hlið.",
+  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
