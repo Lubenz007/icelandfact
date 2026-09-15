@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-13",
-  "dagur": 13,
+  "date": "2026-09-15",
+  "dagur": 15,
   "manudur": "september",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 256,
-  "sunrise": "06:44",
-  "sunset": "20:00",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 258,
+  "sunrise": "06:50",
+  "sunset": "19:53",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Ásta",
+  "nafnadagur": "Valdís",
   "atburdir": [
     {
-      "ar": "1985",
-      "texti": "Super Mario Bros., einn áhrifamesti og mest seldi tölvuleikur sögunnar, kom fyrst út í Japan fyrir Nintendo Entertainment System."
+      "ar": "2008",
+      "texti": "Fjármálakreppan 2007–2008: Lehman Brothers, alþjóðlegt fjármálaþjónustufyrirtæki, lýsti yfir gjaldþroti með yfir 600 milljarða dollara í eignir, sem var stærsta gjaldþrot í sögu Bandaríkjanna."
     },
     {
-      "ar": "1993",
-      "texti": "Nirvana gaf út sína þriðju og síðustu stúdíóplötu, In Utero, sem seldist í yfir 15 milljónum eintaka."
+      "ar": "1963",
+      "texti": "16th Street Baptist kirkjan, afrísk-amerísk kirkja í Birmingham, Alabama, var sprengd af Ku Klux Klan, fjórar stúlkur létust og að minnsta kosti 14 særðust."
     },
     {
-      "ar": "1959",
-      "texti": "Sovéska geimfarið Luna 2 lenti á tunglinu, fyrsta geimfarið til að ná til annars himintungls."
+      "ar": "1954",
+      "texti": "Sena í myndinni The Seven Year Itch þar sem Marilyn Monroe stendur í hvítum kjól yfir neðanjarðarlestarrist var tekin upp af Billy Wilder."
     },
     {
-      "ar": "1814",
-      "texti": "Stríðinu 1812: Fort McHenry í Baltimore var ráðist á af breskum hersveitum í orrustunni um Baltimore, sem veitti Francis Scott Key innblástur til að skrifa „Defence of Fort McHenry“, sem síðar varð texti bandaríska þjóðsöngsins."
+      "ar": "1935",
+      "texti": "Nasista-Þýskaland setti Nürnberg-lögin sem sviptu Gyðinga ríkisborgararétti sínum."
     },
     {
-      "ar": "1541",
-      "texti": "Eftir þriggja ára útlegð sneri franski guðfræðingurinn John Calvin aftur til Genfar til að endurbæta kirkjuna undir kerfi kristinnar guðfræði sem síðar varð þekkt sem kalvínismi."
+      "ar": "1830",
+      "texti": "Liverpool og Manchester járnbrautin, fyrsta eimreiðarjárnbrautin sem tengdi tvær stórborgir, opnaði með hertoganum af Wellington viðstaddum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1891",
-      "texti": "Guðfinna Jónsdóttir var myrt við Svartárvatn á Norðaustur-Íslandi."
+      "ar": "1647",
+      "texti": "Brynjólfur Sveinsson biskup fékk Flateyjarbók að gjöf."
     },
     {
-      "ar": "1981",
-      "texti": "Borgarfjarðarbrúin var vígð, næstlengsta brú á Íslandi, 520 metra löng."
+      "ar": "1929",
+      "texti": "Kvæðamannafélagið Iðunn var stofnað á Íslandi."
     },
     {
-      "ar": "1992",
-      "texti": "Guðrún Helgadóttir hlaut Norrænu barnabókaverðlaunin fyrir bók sína, Undan illgresinu."
+      "ar": "1967",
+      "texti": "Þjóðgarður var stofnaður í Skaftafelli."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Milton S. Hershey",
-      "starfsgrein": "bandarískur kaupsýslumaður, stofnandi The Hershey Company",
-      "ar": "1857"
+      "nafn": "Chimamanda Ngozi Adichie",
+      "starfsgrein": "nígerískur rithöfundur",
+      "ar": "1977"
     },
     {
-      "nafn": "Robert Robinson",
-      "starfsgrein": "enskur efnafræðingur og fræðimaður, Nóbelsverðlaunahafi",
-      "ar": "1886"
+      "nafn": "Robert Lucas Jr.",
+      "starfsgrein": "bandarískur hagfræðingur og fræðimaður, Nóbelsverðlaunahafi",
+      "ar": "1937"
     },
     {
-      "nafn": "Bongbong Marcos",
-      "starfsgrein": "17. forseti Filippseyja",
-      "ar": "1957"
+      "nafn": "James Fenimore Cooper",
+      "starfsgrein": "bandarískur rithöfundur, smásagnahöfundur og sagnfræðingur",
+      "ar": "1789"
     }
   ],
-  "tonlistUSA": "Like a Virgin – Madonna (1984)",
-  "tonlistUK": "Careless Whisper – George Michael (1984)",
-  "bio": "The Matrix (1999)",
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
+  "bio": "The Seven Year Itch (1955)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er lítil hæð eða hóll sem er ófrjór eða gróðurlaus, oft vegna vinds eða veðrunar."
+    "ord": "þrándur",
+    "skyring": "Sterkur og stór maður, oft notað um mann sem er óþekkur eða erfiður í skapi."
   },
-  "vissir_thu": "Fyrsta tölvan sem var með harðan disk var IBM 305 RAMAC árið 1956, og gat hún geymt 5 megabæti af gögnum.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og koma reglu á hlutina. Mundu að smáatriðin skipta máli og nákvæmni mun skila sér í árangri.",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta skráða lénið fyrir Google var í raun skráð þann 15. september 1997, þótt fyrirtækið hafi ekki verið formlega stofnað fyrr en ári síðar.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki hika við að leita ráða hjá vinum, það gæti opnað nýjar leiðir.",
+  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
