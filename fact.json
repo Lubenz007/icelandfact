@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-15",
-  "dagur": 15,
+  "date": "2026-09-16",
+  "dagur": 16,
   "manudur": "september",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 258,
-  "sunrise": "06:50",
-  "sunset": "19:53",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 259,
+  "sunrise": "06:53",
+  "sunset": "19:49",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Valdís",
+  "nafnadagur": "Valborg",
   "atburdir": [
     {
-      "ar": "2008",
-      "texti": "Fjármálakreppan 2007–2008: Lehman Brothers, alþjóðlegt fjármálaþjónustufyrirtæki, lýsti yfir gjaldþroti með yfir 600 milljarða dollara í eignir, sem var stærsta gjaldþrot í sögu Bandaríkjanna."
+      "ar": "1992",
+      "texti": "Breska pundið var neytt út úr Evrópska gengissamstarfinu á svarta miðvikudeginum og varð fyrir mikilli gengisfellingu."
+    },
+    {
+      "ar": "1989",
+      "texti": "Í heimsókn sinni til Bandaríkjanna heimsótti sovéski stjórnmálamaðurinn Boris Jeltsín matvöruverslun í Texas sem hafði mikil áhrif á skoðanir hans varðandi efnahagskerfi Sovétríkjanna."
+    },
+    {
+      "ar": "1982",
+      "texti": "Líbönsk vígasveit undir beinni stjórn Elie Hobeika framdi fjöldamorð í palestínsku flóttamannabúðunum Sabra og Shatila, þar sem að minnsta kosti 460 óbreyttir borgarar voru drepnir."
+    },
+    {
+      "ar": "1979",
+      "texti": "Átta manns flúðu frá Austur-Þýskalandi til Vestur-Þýskalands í heimagerðri loftbelg."
     },
     {
       "ar": "1963",
-      "texti": "16th Street Baptist kirkjan, afrísk-amerísk kirkja í Birmingham, Alabama, var sprengd af Ku Klux Klan, fjórar stúlkur létust og að minnsta kosti 14 særðust."
-    },
-    {
-      "ar": "1954",
-      "texti": "Sena í myndinni The Seven Year Itch þar sem Marilyn Monroe stendur í hvítum kjól yfir neðanjarðarlestarrist var tekin upp af Billy Wilder."
-    },
-    {
-      "ar": "1935",
-      "texti": "Nasista-Þýskaland setti Nürnberg-lögin sem sviptu Gyðinga ríkisborgararétti sínum."
-    },
-    {
-      "ar": "1830",
-      "texti": "Liverpool og Manchester járnbrautin, fyrsta eimreiðarjárnbrautin sem tengdi tvær stórborgir, opnaði með hertoganum af Wellington viðstaddum."
+      "texti": "Malasía var stofnuð sem sjálfstæð þjóð úr Malajasambandinu, Singapúr, Norður-Borneó og Sarawak."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1647",
-      "texti": "Brynjólfur Sveinsson biskup fékk Flateyjarbók að gjöf."
+      "ar": "1508",
+      "texti": "Ferja sökk á Ölfusá með tugi manna og fórust yfir 30 manns, sem voru að koma frá krossmessu í Kaldaðarnesi í Flóa."
     },
     {
-      "ar": "1929",
-      "texti": "Kvæðamannafélagið Iðunn var stofnað á Íslandi."
+      "ar": "1936",
+      "texti": "Vísindamaðurinn Jean-Baptiste Charcot fórst ásamt 37 öðrum skipverjum þegar rannsóknaskipið Pourquoi-pas? fórst í ofviðri í skerjagarðinum við Álftanes á Mýrum."
     },
     {
-      "ar": "1967",
-      "texti": "Þjóðgarður var stofnaður í Skaftafelli."
+      "ar": "1940",
+      "texti": "Tvö íslensk skip, Arinbjörn hersir og Snorri goði, björguðu um 400 manns af franska flutningaskipinu Asca, en það fórst á Írlandshafi eftir árás þýskrar flugvélar."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Chimamanda Ngozi Adichie",
-      "starfsgrein": "nígerískur rithöfundur",
-      "ar": "1977"
+      "nafn": "Amy Poehler",
+      "starfsgrein": "bandarísk leikkona, grínisti og framleiðandi",
+      "ar": "1971"
     },
     {
-      "nafn": "Robert Lucas Jr.",
-      "starfsgrein": "bandarískur hagfræðingur og fræðimaður, Nóbelsverðlaunahafi",
-      "ar": "1937"
+      "nafn": "Alexis Bledel",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1981"
     },
     {
-      "nafn": "James Fenimore Cooper",
-      "starfsgrein": "bandarískur rithöfundur, smásagnahöfundur og sagnfræðingur",
-      "ar": "1789"
+      "nafn": "Lauren Bacall",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1924"
     }
   ],
-  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
-  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
-  "bio": "The Seven Year Itch (1955)",
+  "tonlistUSA": "Like a Virgin – Madonna (1984)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
+  "bio": "The Big Sleep (1946)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Sterkur og stór maður, oft notað um mann sem er óþekkur eða erfiður í skapi."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í sífelldum óhöppum eða er óheppinn í lífinu."
   },
-  "vissir_thu": "Fyrsta skráða lénið fyrir Google var í raun skráð þann 15. september 1997, þótt fyrirtækið hafi ekki verið formlega stofnað fyrr en ári síðar.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Ekki hika við að leita ráða hjá vinum, það gæti opnað nýjar leiðir.",
-  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta farsæla ljósmyndin af manneskju var tekin árið 1838 af Louis Daguerre, þar sem maður sést fá skó sína pússaða á Boulevard du Temple í París.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriðin fara í taugarnar á þér.",
+  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
