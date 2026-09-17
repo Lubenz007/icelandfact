@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-16",
-  "dagur": 16,
+  "date": "2026-09-17",
+  "dagur": 17,
   "manudur": "september",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 259,
-  "sunrise": "06:53",
-  "sunset": "19:49",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 260,
+  "sunrise": "06:56",
+  "sunset": "19:46",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Valborg",
+  "nafnadagur": "Róbert",
   "atburdir": [
     {
-      "ar": "1992",
-      "texti": "Breska pundið var neytt út úr Evrópska gengissamstarfinu á svarta miðvikudeginum og varð fyrir mikilli gengisfellingu."
+      "ar": "2011",
+      "texti": "Adbusters, kanadískt tímarit gegn neysluhyggju, skipulagði mótmæli gegn áhrifum fyrirtækja á lýðræði í Zuccotti Park í New York borg, sem varð þekkt sem Occupy Wall Street."
     },
     {
-      "ar": "1989",
-      "texti": "Í heimsókn sinni til Bandaríkjanna heimsótti sovéski stjórnmálamaðurinn Boris Jeltsín matvöruverslun í Texas sem hafði mikil áhrif á skoðanir hans varðandi efnahagskerfi Sovétríkjanna."
+      "ar": "1980",
+      "texti": "Samstaða, pólskt verkalýðsfélag, var stofnað sem fyrsta óháða verkalýðsfélagið í landi austurblokkarinnar."
     },
     {
-      "ar": "1982",
-      "texti": "Líbönsk vígasveit undir beinni stjórn Elie Hobeika framdi fjöldamorð í palestínsku flóttamannabúðunum Sabra og Shatila, þar sem að minnsta kosti 460 óbreyttir borgarar voru drepnir."
+      "ar": "1970",
+      "texti": "Jórdanski herinn fór inn í Amman sem hluti af aðgerðum til að reka palestínska fedayeen úr landinu í atburðum sem síðar urðu þekktir sem Svarti september."
     },
     {
-      "ar": "1979",
-      "texti": "Átta manns flúðu frá Austur-Þýskalandi til Vestur-Þýskalands í heimagerðri loftbelg."
+      "ar": "1939",
+      "texti": "Seinni heimsstyrjöldin: Sovétríkin réðust inn í Pólland frá austri, sextán dögum eftir árás Þýskalands á landið frá vestri."
     },
     {
-      "ar": "1963",
-      "texti": "Malasía var stofnuð sem sjálfstæð þjóð úr Malajasambandinu, Singapúr, Norður-Borneó og Sarawak."
+      "ar": "1862",
+      "texti": "Bandaríska borgarastyrjöldin: Næstum 23.000 manns særðust eða létust í orrustunni við Antietam nálægt Sharpsburg, Maryland, þar sem herir Sambandsríkjanna og Norðurríkjanna börðust til taktískrar pattstöðu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1508",
-      "texti": "Ferja sökk á Ölfusá með tugi manna og fórust yfir 30 manns, sem voru að koma frá krossmessu í Kaldaðarnesi í Flóa."
+      "ar": "1823",
+      "texti": "Fyrsta grindadráp í Reykjavík. 450 marsvín voru rekin á land vestur í hafnarkrikanum þar sem Slippurinn er núna."
     },
     {
-      "ar": "1936",
-      "texti": "Vísindamaðurinn Jean-Baptiste Charcot fórst ásamt 37 öðrum skipverjum þegar rannsóknaskipið Pourquoi-pas? fórst í ofviðri í skerjagarðinum við Álftanes á Mýrum."
+      "ar": "1917",
+      "texti": "Verslunarráð Íslands var stofnað."
     },
     {
-      "ar": "1940",
-      "texti": "Tvö íslensk skip, Arinbjörn hersir og Snorri goði, björguðu um 400 manns af franska flutningaskipinu Asca, en það fórst á Írlandshafi eftir árás þýskrar flugvélar."
+      "ar": "1977",
+      "texti": "Jón L. Árnason varð heimsmeistari unglinga í skák."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Amy Poehler",
-      "starfsgrein": "bandarísk leikkona, grínisti og framleiðandi",
-      "ar": "1971"
+      "nafn": "Anastacia",
+      "starfsgrein": "bandarísk söngkona og lagahöfundur",
+      "ar": "1968"
     },
     {
-      "nafn": "Alexis Bledel",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1981"
+      "nafn": "Charles Martinet",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1955"
     },
     {
-      "nafn": "Lauren Bacall",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1924"
+      "nafn": "Agostinho Neto",
+      "starfsgrein": "angólskur ljóðskáld og stjórnmálamaður, fyrsti forseti Angóla",
+      "ar": "1922"
     }
   ],
   "tonlistUSA": "Like a Virgin – Madonna (1984)",
-  "tonlistUK": "Careless Whisper – George Michael (1984)",
-  "bio": "The Big Sleep (1946)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "The Good, the Bad and the Ugly (1966)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Sá sem lendir í sífelldum óhöppum eða er óheppinn í lífinu."
+    "ord": "þrándur í götu",
+    "skyring": "Eitthvað sem stendur í vegi fyrir framgangi mála eða er til trafala."
   },
-  "vissir_thu": "Fyrsta farsæla ljósmyndin af manneskju var tekin árið 1838 af Louis Daguerre, þar sem maður sést fá skó sína pússaða á Boulevard du Temple í París.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og taka til í huganum. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriðin fara í taugarnar á þér.",
-  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta myndin sem sýnd var í íslensku sjónvarpi var 'Íslenskir hestar' árið 1966.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja framtíðina. Vertu opin fyrir nýjum hugmyndum og láttu ekki smáatriði trufla þig.",
+  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
