@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-18",
-  "dagur": 18,
+  "date": "2026-09-19",
+  "dagur": 19,
   "manudur": "september",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 261,
-  "sunrise": "06:58",
-  "sunset": "19:42",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 262,
+  "sunrise": "07:01",
+  "sunset": "19:39",
   "stjornumerki": "Meyja",
-  "nafnadagur": "Ásdís",
+  "nafnadagur": "Árni",
   "atburdir": [
     {
-      "ar": "1961",
-      "texti": "Flugslys varð nærri Ndola í Norður-Ródesíu þar sem 16 manns létust, þar á meðal Dag Hammarskjöld, framkvæmdastjóri Sameinuðu þjóðanna."
+      "ar": "1995",
+      "texti": "Manifestó bandaríska hryðjuverkamannsins Ted Kaczynski, „Industrial Society and Its Future“, var birt í The Washington Post tæpum þremur mánuðum eftir að það var sent inn."
     },
     {
-      "ar": "1879",
-      "texti": "Blackpool Illuminations, ljósaskreytingar í ensku strandborginni Blackpool, voru kveiktar í fyrsta sinn."
+      "ar": "1991",
+      "texti": "Ötzi, vel varðveitt náttúruleg múmía af manni frá um 3300 f.Kr., fannst af tveimur þýskum ferðamönnum í Ölpunum."
     },
     {
-      "ar": "1873",
-      "texti": "Hræðslan 1873: Bandaríski bankinn Jay Cooke & Company lýsti sig gjaldþrota, sem hratt af stað keðjuverkun bankahruna."
+      "ar": "1985",
+      "texti": "Jarðskjálfti sem mældist 8,0 á Richter skók Mexíkóborg, drap að minnsta kosti 9.000 manns og gerði allt að 100.000 manns heimilislausa."
     },
     {
-      "ar": "1851",
-      "texti": "The New York Times, stærsta dagblað Bandaríkjanna, var stofnað."
+      "ar": "1893",
+      "texti": "Nýja-Sjáland varð fyrsta landið til að innleiða almennan kosningarétt í kjölfar kvenréttindabaráttu undir forystu Kate Sheppard."
     },
     {
-      "ar": "96",
-      "texti": "Nerva, fyrsti af „fimm góðu keisurunum“ Rómaveldis, tók við völdum eftir morðið á forvera sínum, Domitianusi."
+      "ar": "1692",
+      "texti": "Í Salem nornaréttarhöldunum var Giles Corey kraminn til dauða fyrir að neita að svara ákærum um galdra, og er sagt að hann hafi beðið sýslumann um „meiri þyngd“ við aftökuna."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1699",
-      "texti": "Brúðkaup var haldið í Skálholti þegar Jón Vídalín biskup gekk að eiga Sigríði Jónsdóttur frá Leirá. 23 prestar voru viðstaddir."
+      "ar": "1667",
+      "texti": "„Gullskipið“ Het Wapen van Amsterdam strandaði á Skeiðarársandi með mikinn farm af gulli og dýrum steinum að talið er. Öll áhöfnin fórst, um 140 manns."
     },
     {
-      "ar": "1885",
-      "texti": "Landsbanki Íslands var stofnaður."
+      "ar": "1874",
+      "texti": "Blaðið Ísafold hóf göngu sína. Árið 1929 sameinaðist það Verði og var vikuútgáfa Morgunblaðsins til 1968."
     },
     {
-      "ar": "1911",
-      "texti": "Lestrarfélag kvenna var stofnað í Reykjavík."
+      "ar": "1977",
+      "texti": "Jón L. Árnason vann það afrek að verða heimsmeistari sveina í skák, aðeins 16 ára gamall. Eini keppandinn sem sigraði Jón var Garrí Kasparov, en hann hafnaði í þriðja sæti."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Takao Doi",
-      "starfsgrein": "japanskur verkfræðingur og geimfari",
-      "ar": "1954"
+      "nafn": "Jarvis Cocker",
+      "starfsgrein": "ensk söngvari-lagahöfundur og gítarleikari",
+      "ar": "1963"
     },
     {
-      "nafn": "Jorge Sampaio",
-      "starfsgrein": "portúgalskur lögfræðingur og stjórnmálamaður, 18. forseti Portúgals",
-      "ar": "1939"
+      "nafn": "Masatoshi Koshiba",
+      "starfsgrein": "japanskur eðlisfræðingur og fræðimaður, Nóbelsverðlaunahafi",
+      "ar": "1926"
     },
     {
-      "nafn": "Francesca Caccini",
-      "starfsgrein": "ítalskur söngvaskáldur og lútuleikari",
-      "ar": "1587"
+      "nafn": "Henry III of France",
+      "starfsgrein": "Frakkakonungur",
+      "ar": "1551"
     }
   ],
   "tonlistUSA": "Like a Virgin – Madonna (1984)",
-  "tonlistUK": "Wannabe – Spice Girls (1996)",
-  "bio": "The Good, the Bad and the Ugly (1966)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð óheppilegra atburða eða ógæfu sem dynur yfir einhvern."
+    "ord": "glópagull",
+    "skyring": "Eitthvað sem virðist verðmætt en reynist vera einskis virði."
   },
-  "vissir_thu": "Fyrsti bíllinn sem fór yfir 100 km/klst var rafmagnsbíll sem smíðaður var árið 1899.",
-  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja og raða. Ekki láta smáatriði fara framhjá þér, því þau geta skipt sköpum.",
+  "vissir_thu": "Fyrsta tölvuvírusinn var skrifaður árið 1971 og hét Creeper. Hann sýndi skilaboðin „I'm the Creeper, catch me if you can!“ á skjáinn.",
+  "stjornuspa": "Meyja, í dag er góður dagur til að skipuleggja fjármálin þín og setja markmið. Vertu opinn fyrir nýjum hugmyndum sem gætu komið þér á óvart.",
   "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
