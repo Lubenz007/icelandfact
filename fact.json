@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-20",
-  "dagur": 20,
+  "date": "2026-09-23",
+  "dagur": 23,
   "manudur": "september",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 263,
-  "sunrise": "07:04",
-  "sunset": "19:35",
-  "stjornumerki": "Meyja",
-  "nafnadagur": "Eiríkur",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 266,
+  "sunrise": "07:13",
+  "sunset": "19:24",
+  "stjornumerki": "Vog",
+  "nafnadagur": "Tekla",
   "atburdir": [
     {
-      "ar": "2011",
-      "texti": "Bandaríski herinn aflétti „ekki spyrja, ekki segja“ reglunni, sem gerði samkynhneigðum kleift að þjóna opinskátt."
+      "ar": "2019",
+      "texti": "Breska ferðaskrifstofan Thomas Cook Group hætti starfsemi tafarlaust og skildi um 600.000 ferðamenn eftir strandaglópa um allan heim."
     },
     {
-      "ar": "1988",
-      "texti": "Margaret Thatcher, forsætisráðherra Bretlands, hélt merkilega ræðu í Belfry of Bruges í Belgíu gegn alríkisstefnu í Evrópska efnahagsbandalaginu."
+      "ar": "2016",
+      "texti": "Í kjölfar fjölda kynferðisbrota voru gerðar miklar umbætur til að styrkja lög tengd nauðgunum í Þýskalandi."
     },
     {
-      "ar": "1973",
-      "texti": "Billie Jean King sigraði Bobby Riggs í tennisleiknum „Battle of the Sexes“ í Houston, Texas."
+      "ar": "2002",
+      "texti": "Fyrsta útgáfa vafra Firefox var gefin út af Mozilla Organization."
     },
     {
-      "ar": "1870",
-      "texti": "Bersaglieri-hermenn gengu inn í Róm í gegnum Porta Pia, sem batt enda á veraldlegt vald páfa og lauk sameiningu Ítalíu."
+      "ar": "1997",
+      "texti": "Írska rokkhljómsveitin U2 hélt tónleika í Sarajevó, fyrsti stóri listamaðurinn til að halda tónleika í borginni frá lokum Bosníustríðsins."
     },
     {
-      "ar": "1792",
-      "texti": "Franski herinn vann sinn fyrsta stóra sigur í stríði fyrsta bandalagsins í orrustunni við Valmy."
+      "ar": "1952",
+      "texti": "Richard Nixon, varaforsetaefni Bandaríkjanna, flutti „Checkers-ræðuna“, eina af fyrstu pólitísku notkunum á sjónvarpi til að höfða beint til almennings."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1900",
-      "texti": "Kirkjurokið: Yfir þrjátíu manns fórust í ofsaveðri, sem olli jafnframt slysum og tjóni á húsum. Kirkjurnar á Urðum og Upsum í Svarfaðardal brotnuðu í spón. Átján menn úr Ketildölum fórust í sjó, þar af 15 úr Selárdal."
+      "ar": "1241",
+      "texti": "Snorri Sturluson, skáld, rithöfundur, goðorðsmaður og lögsögumaður, var veginn í Reykholti í Borgarfirði."
     },
     {
-      "ar": "1940",
-      "texti": "Petsamoförin hófst á því að skipið Esja lagði úr höfn í Reykjavík."
+      "ar": "1906",
+      "texti": "Hornsteinn var lagður að húsi landsbókasafnsins á Arnarhólstúni í Reykjavík."
     },
     {
-      "ar": "2004",
-      "texti": "Verkfall grunnskólakennara 2004 hófst en það stóð í 39 daga og er eitt það lengsta í sögu íslenskra skóla."
+      "ar": "1973",
+      "texti": "Yfir Suðvesturland gengu leifar fellibylsins Ellenar og olli veðrið miklu tjóni á húsum, bátum og bílum. Í Reykjavík náði vindhraði 200 kílómetrum á klukkustund."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "George R. R. Martin",
-      "starfsgrein": "Bandarískur rithöfundur og smásagnahöfundur",
-      "ar": "1948"
+      "nafn": "Hasan Minhaj",
+      "starfsgrein": "bandarískur grínisti, leikari og sjónvarpsstjórnandi",
+      "ar": "1985"
     },
     {
-      "nafn": "Nuno Bettencourt",
-      "starfsgrein": "Portúgalskur söngvari, lagahöfundur og gítarleikari",
-      "ar": "1966"
+      "nafn": "Sean Spicer",
+      "starfsgrein": "bandarískur stjórnmálaráðgjafi, 30. fjölmiðlafulltrúi Hvíta hússins",
+      "ar": "1971"
     },
     {
-      "nafn": "John Tavares",
-      "starfsgrein": "Kanadískur íshokkíleikmaður",
-      "ar": "1990"
+      "nafn": "El Santo",
+      "starfsgrein": "mexíkóskur grímuklæddur glímumaður, kvikmyndaleikari og þjóðhetja",
+      "ar": "1917"
     }
   ],
   "tonlistUSA": "Like a Virgin – Madonna (1984)",
-  "tonlistUK": "Wannabe – Spice Girls (1996)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
   "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
-    "skyring": "Saga eða frásögn af mörgum óheppilegum atburðum eða slysum."
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
   },
-  "vissir_thu": "Rómverska keisaradæmið var eitt stærsta ríki sögunnar og náði yfir um 5 milljónir ferkílómetra á hátindi sínum.",
-  "stjornuspa": "Meyjur finna fyrir auknum krafti og sköpunargleði í dag. Nýttu tækifærið til að takast á við verkefni sem þú hefur frestað, því árangur er innan seilingar.",
-  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Plánetan Neptúnus var uppgötvuð þennan dag árið 1846, eftir að stjörnufræðingar höfðu lengi leitað að henni vegna truflana á braut Úranusar.",
+  "stjornuspa": "Vogir, í dag er góður dagur til að finna jafnvægi í lífi ykkar. Leyfið ykkur að njóta fegurðarinnar í kringum ykkur og deilið gleði ykkar með öðrum.",
+  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
