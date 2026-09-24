@@ -1,74 +1,74 @@
 {
-  "date": "2026-09-23",
-  "dagur": 23,
+  "date": "2026-09-24",
+  "dagur": 24,
   "manudur": "september",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 266,
-  "sunrise": "07:13",
-  "sunset": "19:24",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 267,
+  "sunrise": "07:16",
+  "sunset": "19:21",
   "stjornumerki": "Vog",
-  "nafnadagur": "Tekla",
+  "nafnadagur": "Thekla",
   "atburdir": [
     {
       "ar": "2019",
-      "texti": "Breska ferðaskrifstofan Thomas Cook Group hætti starfsemi tafarlaust og skildi um 600.000 ferðamenn eftir strandaglópa um allan heim."
+      "text": "Hæstiréttur Bretlands úrskurðaði einróma að ráðleggingar Borisar Johnson forsætisráðherra til Elísabetar II drottningar um að fresta þingfundum væru ólöglegar."
     },
     {
-      "ar": "2016",
-      "texti": "Í kjölfar fjölda kynferðisbrota voru gerðar miklar umbætur til að styrkja lög tengd nauðgunum í Þýskalandi."
+      "ar": "1993",
+      "text": "Norodom Sihanouk varð konungur Kambódíu þegar konungsveldið var endurreist eftir 23 ára hlé."
     },
     {
-      "ar": "2002",
-      "texti": "Fyrsta útgáfa vafra Firefox var gefin út af Mozilla Organization."
+      "ar": "1964",
+      "text": "Warren-nefndin gaf út skýrslu sína til Bandaríkjaforseta, þar sem niðurstaðan var að Lee Harvey Oswald hefði einn staðið að morðinu á John F. Kennedy."
     },
     {
-      "ar": "1997",
-      "texti": "Írska rokkhljómsveitin U2 hélt tónleika í Sarajevó, fyrsti stóri listamaðurinn til að halda tónleika í borginni frá lokum Bosníustríðsins."
+      "ar": "1890",
+      "text": "Wilford Woodruff, forseti Kirkju Jesú Krists hinna Síðari daga heilögu, skrifaði fyrsta uppkast að yfirlýsingu sem afneitaði opinberlega framtíðar iðkun fjölkvænis."
     },
     {
-      "ar": "1952",
-      "texti": "Richard Nixon, varaforsetaefni Bandaríkjanna, flutti „Checkers-ræðuna“, eina af fyrstu pólitísku notkunum á sjónvarpi til að höfða beint til almennings."
+      "ar": "1877",
+      "text": "Í orrustunni við Shiroyama, síðasta átaki Satsuma-uppreisnarinnar, sigraði keisaraher Japans uppreisnarmenn Satsuma-héraðsins undir forystu Saigō Takamori."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1241",
-      "texti": "Snorri Sturluson, skáld, rithöfundur, goðorðsmaður og lögsögumaður, var veginn í Reykholti í Borgarfirði."
+      "ar": "1963",
+      "text": "Mesta hækkun mjólkurvara sem vitað var um, 25%. Næsta dag hækkuðu kjötvörur um þriðjung. Þessar hækkanir urðu þó svo að verðbólga á ársgrundvelli væri aðeins 14%."
     },
     {
-      "ar": "1906",
-      "texti": "Hornsteinn var lagður að húsi landsbókasafnsins á Arnarhólstúni í Reykjavík."
+      "ar": "1968",
+      "text": "Fyrsta skurðaðgerðin var framkvæmd á Borgarspítalanum af Friðriki Einarssyni yfirlækni. Þessa atburðar var minnst 25 árum síðar með því að taka í notkun nýja skurðstofu."
     },
     {
-      "ar": "1973",
-      "texti": "Yfir Suðvesturland gengu leifar fellibylsins Ellenar og olli veðrið miklu tjóni á húsum, bátum og bílum. Í Reykjavík náði vindhraði 200 kílómetrum á klukkustund."
+      "ar": "1979",
+      "text": "Fjölbrautaskóli Norðurlands vestra var settur á Sauðárkróki."
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Hasan Minhaj",
-      "starfsgrein": "bandarískur grínisti, leikari og sjónvarpsstjórnandi",
-      "ar": "1985"
+      "nafn": "Joe Locke",
+      "starfsgrein": "manskur leikari",
+      "ar": "2003"
     },
     {
-      "nafn": "Sean Spicer",
-      "starfsgrein": "bandarískur stjórnmálaráðgjafi, 30. fjölmiðlafulltrúi Hvíta hússins",
-      "ar": "1971"
+      "nafn": "John Logan",
+      "starfsgrein": "bandarískur handritshöfundur og framleiðandi",
+      "ar": "1961"
     },
     {
-      "nafn": "El Santo",
-      "starfsgrein": "mexíkóskur grímuklæddur glímumaður, kvikmyndaleikari og þjóðhetja",
-      "ar": "1917"
+      "nafn": "Sarah Knauss",
+      "starfsgrein": "bandarískur ofuröldungur, elsta staðfesta bandaríska manneskjan nokkru sinni",
+      "ar": "1880"
     }
   ],
   "tonlistUSA": "Like a Virgin – Madonna (1984)",
   "tonlistUK": "Careless Whisper – George Michael (1984)",
-  "bio": "The Shawshank Redemption (1994)",
+  "bio": "The First Wives Club (1996)",
   "ord_dagsins": {
     "ord": "hrakfallabálkur",
     "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
   },
-  "vissir_thu": "Plánetan Neptúnus var uppgötvuð þennan dag árið 1846, eftir að stjörnufræðingar höfðu lengi leitað að henni vegna truflana á braut Úranusar.",
-  "stjornuspa": "Vogir, í dag er góður dagur til að finna jafnvægi í lífi ykkar. Leyfið ykkur að njóta fegurðarinnar í kringum ykkur og deilið gleði ykkar með öðrum.",
-  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta skráða tölvuvírusinn, Elk Cloner, var búinn til árið 1982 fyrir Apple II tölvur og dreifðist í gegnum disklinga.",
+  "stjornuspa": "Vogir, í dag er góður dagur til að finna jafnvægi í lífi ykkar. Leyfið ykkur að njóta fegurðarinnar í kringum ykkur og leitið sátta í öllum samskiptum.",
+  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
