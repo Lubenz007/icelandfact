@@ -1,74 +1,58 @@
 {
-  "date": "2026-09-24",
-  "dagur": 24,
+  "date": "2026-09-25",
+  "dagur": 25,
   "manudur": "september",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 267,
-  "sunrise": "07:16",
-  "sunset": "19:21",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 268,
+  "sunrise": "07:18",
+  "sunset": "19:17",
   "stjornumerki": "Vog",
-  "nafnadagur": "Thekla",
+  "nafnadagur": "Baldvin",
   "atburdir": [
     {
-      "ar": "2019",
-      "text": "Hæstiréttur Bretlands úrskurðaði einróma að ráðleggingar Borisar Johnson forsætisráðherra til Elísabetar II drottningar um að fresta þingfundum væru ólöglegar."
+      "ar": "1983",
+      "texti": "Í einum stærsta fangelsisflótta í sögu Bretlands sluppu 38 fangar úr Írska lýðveldishersins úr HM Prison Maze í Norður-Írlandi."
     },
     {
-      "ar": "1993",
-      "text": "Norodom Sihanouk varð konungur Kambódíu þegar konungsveldið var endurreist eftir 23 ára hlé."
+      "ar": "1981",
+      "texti": "Sandra Day O'Connor varð fyrsta konan til að gegna embætti dómara við Hæstarétt Bandaríkjanna."
     },
     {
-      "ar": "1964",
-      "text": "Warren-nefndin gaf út skýrslu sína til Bandaríkjaforseta, þar sem niðurstaðan var að Lee Harvey Oswald hefði einn staðið að morðinu á John F. Kennedy."
+      "ar": "1957",
+      "texti": "Hermenn Bandaríkjahers fylgdu níu nemendum þegar Central High School í Little Rock, Arkansas, varð samþætt."
     },
     {
       "ar": "1890",
-      "text": "Wilford Woodruff, forseti Kirkju Jesú Krists hinna Síðari daga heilögu, skrifaði fyrsta uppkast að yfirlýsingu sem afneitaði opinberlega framtíðar iðkun fjölkvænis."
+      "texti": "Sequoia þjóðgarðurinn var stofnaður til að vernda risavaxin sequoia tré á svæði sem var undir áhrifum skógarhöggs í suðurhluta Sierra Nevada í Kaliforníu."
     },
     {
-      "ar": "1877",
-      "text": "Í orrustunni við Shiroyama, síðasta átaki Satsuma-uppreisnarinnar, sigraði keisaraher Japans uppreisnarmenn Satsuma-héraðsins undir forystu Saigō Takamori."
+      "ar": "1066",
+      "texti": "Harold Godwinson sigraði Harald III Noregskonung og enska bandamann hans, Tostig Godwinson, í orrustunni við Stamford Bridge, og batt þar með enda á síðustu norrænu innrásina á Bretlandseyjar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1963",
-      "text": "Mesta hækkun mjólkurvara sem vitað var um, 25%. Næsta dag hækkuðu kjötvörur um þriðjung. Þessar hækkanir urðu þó svo að verðbólga á ársgrundvelli væri aðeins 14%."
+      "ar": "1654",
+      "texti": "Grímur Jónsson var brenndur á báli fyrir galdur í Trékyllisvík á Ströndum. Fimm dögum áður höfðu Þórður Guðbrandsson og Egill Bjarnason verið brenndir þar fyrir sömu sakir."
     },
     {
-      "ar": "1968",
-      "text": "Fyrsta skurðaðgerðin var framkvæmd á Borgarspítalanum af Friðriki Einarssyni yfirlækni. Þessa atburðar var minnst 25 árum síðar með því að taka í notkun nýja skurðstofu."
+      "ar": "1850",
+      "texti": "Fyrsta heildarlöggjöf um erfðir gekk í gildi á Íslandi og samkvæmt henni skyldu dætur njóta sama réttar til arfs og synir."
     },
     {
-      "ar": "1979",
-      "text": "Fjölbrautaskóli Norðurlands vestra var settur á Sauðárkróki."
+      "ar": "1903",
+      "texti": "Íslandsbanki var settur á stofn."
     }
   ],
-  "afmaeli": [
-    {
-      "nafn": "Joe Locke",
-      "starfsgrein": "manskur leikari",
-      "ar": "2003"
-    },
-    {
-      "nafn": "John Logan",
-      "starfsgrein": "bandarískur handritshöfundur og framleiðandi",
-      "ar": "1961"
-    },
-    {
-      "nafn": "Sarah Knauss",
-      "starfsgrein": "bandarískur ofuröldungur, elsta staðfesta bandaríska manneskjan nokkru sinni",
-      "ar": "1880"
-    }
-  ],
-  "tonlistUSA": "Like a Virgin – Madonna (1984)",
-  "tonlistUK": "Careless Whisper – George Michael (1984)",
-  "bio": "The First Wives Club (1996)",
+  "afmaeli": [],
+  "tonlistUSA": "I'll Be There – The Jackson 5 (1970)",
+  "tonlistUK": "Don't Stop Movin' – S Club 7 (2001)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu sem dynur yfir einhvern."
+    "ord": "hagleikur",
+    "skyring": "Færni eða kunnátta í handverki eða list."
   },
-  "vissir_thu": "Fyrsta skráða tölvuvírusinn, Elk Cloner, var búinn til árið 1982 fyrir Apple II tölvur og dreifðist í gegnum disklinga.",
-  "stjornuspa": "Vogir, í dag er góður dagur til að finna jafnvægi í lífi ykkar. Leyfið ykkur að njóta fegurðarinnar í kringum ykkur og leitið sátta í öllum samskiptum.",
-  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Vogir eru eina stjörnumerkið sem er táknað með dauðum hlut, vogarskálum.",
+  "stjornuspa": "Í dag muntu finna jafnvægi í öllu sem þú tekur þér fyrir hendur, Vog. Nýttu þér þessa orku til að leysa gamlar deilur og skapa sátt í kringum þig.",
+  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
