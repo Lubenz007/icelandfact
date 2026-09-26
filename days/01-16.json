@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-16",
+  "dagur": 16,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "10:53",
+  "sunset": "16:22",
+  "kvedja": "Góðan 16. janúar! Dagurinn teygir sig frá Ágústusi keisara til Broadway og minnir okkur á að sagan kann bæði að hvísla í síma og syngja hástöfum. Steinbukkurinn kinkar alvarlega kolli, en við hin megum alveg brosa með.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "-27",
+      "texti": "Rómverska öldungaráðið sæmdi Gaius Octavianus titlunum Augustus og Princeps. Þar með varð hann fyrsti keisari Rómar, þótt stjórnskipulaginu væri pakkað inn í dálítið lýðveldisskraut."
+    },
+    {
+      "ar": "1862",
+      "texti": "Dæluvél við kolanámu í New Hartley á Englandi brotnaði og féll niður námuskaftið. Alls létust 204 námumenn í slysinu."
+    },
+    {
+      "ar": "1920",
+      "texti": "Þjóðabandalagið hélt fyrsta ráðsfund sinn í París. Það var fyrsta alþjóðlega ríkjasambandið sem hafði frið og öryggi heimsins sérstaklega að markmiði."
+    },
+    {
+      "ar": "1945",
+      "texti": "Adolf Hitler og starfslið hans fluttu í neðanjarðarbyrgið Führerbunker í Berlín. Þar dvaldi hann síðustu mánuði sína og svipti sig síðar lífi."
+    },
+    {
+      "ar": "1964",
+      "texti": "Söngleikurinn Hello, Dolly! var frumsýndur í St. James-leikhúsinu á Broadway. Hann vann tíu Tony-verðlaun, met sem stóð óhaggað í 37 ár."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1947",
+      "texti": "Talsímasamband milli Íslands og Bandaríkjanna var opnað. Fyrsta samtalið áttu Emil Jónsson samgöngumálaráðherra og Thor Thors sendiherra í Washington.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1960",
+      "texti": "Selma Jónsdóttir listfræðingur varð fyrst kvenna til að verja doktorsritgerð við Háskóla Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1973",
+      "texti": "Bjarni Benediktsson RE 210 kom til Reykjavíkur, fyrstur stóru skuttogaranna sem Spánverjar smíðuðu fyrir Íslendinga.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1995",
+      "texti": "Snjóflóð féll á Súðavík og fjórtán manns fórust. Atburðurinn markaði djúp spor í sögu byggðarlagsins og þjóðarinnar allrar.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaliyah",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "FKA Twigs",
+      "starfsgrein": "söngkona, lagahöfundur og leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Debbie Allen",
+      "starfsgrein": "leikkona, dansari og danshöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Dian Fossey",
+      "starfsgrein": "dýrafræðingur og mannfræðingur",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Eric Liddell",
+      "starfsgrein": "hlaupari, ruðningsmaður og trúboði",
+      "ar": "1902"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Finnur Jónsson",
+      "starfsgrein": "Skálholtsbiskup",
+      "ar": "1704"
+    },
+    {
+      "nafn": "Jón Magnússon",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra",
+      "ar": "1859"
+    },
+    {
+      "nafn": "Árni Björnsson",
+      "starfsgrein": "þjóðháttafræðingur og rithöfundur",
+      "ar": "1932"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða söngleikur hóf sigurgöngu sína á Broadway 16. janúar 1964?",
+      "svor": [
+        "Hello, Dolly!",
+        "Cats",
+        "Chicago",
+        "West Side Story"
+      ],
+      "rett": 0,
+      "skyring": "Hello, Dolly! sópaði síðar að sér tíu Tony-verðlaunum — engin smá handtaska af verðlaunagripum."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að verja doktorsritgerð við Háskóla Íslands?",
+      "svor": [
+        "Dian Fossey",
+        "Selma Jónsdóttir",
+        "Debbie Allen",
+        "Aaliyah"
+      ],
+      "rett": 1,
+      "skyring": "Listfræðingurinn Selma Jónsdóttir braut þennan akademíska ís árið 1960."
+    },
+    {
+      "spurning": "Hvaða stofnun hélt fyrsta ráðsfund sinn í París árið 1920?",
+      "svor": [
+        "Sameinuðu þjóðirnar",
+        "Evrópuráðið",
+        "Þjóðabandalagið",
+        "Atlantshafsbandalagið"
+      ],
+      "rett": 2,
+      "skyring": "Þjóðabandalagið reyndi að gera friðinn að sameiginlegu verkefni ríkja heims."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Heaven Is a Place on Earth – Belinda Carlisle (1988)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "árbítur",
+    "skyring": "Árbítur er gamalt íslenskt orð yfir morgunverð eða mat sem snæddur er árla dags."
+  },
+  "vissir_thu": "Hello, Dolly! vann tíu Tony-verðlaun og það met stóð í 37 ár.",
+  "utvarpspistill": "Í dag, 16. janúar, fékk Octavianus titlana Augustus og Princeps og varð fyrsti keisari Rómar. Árið 1920 hélt Þjóðabandalagið fyrsta ráðsfund sinn í París, en 1964 steig Hello, Dolly! á Broadway og vann síðar tíu Tony-verðlaun. Hér heima var talsímasamband við Bandaríkin opnað 1947 og Selma Jónsdóttir varð fyrst kvenna til að verja doktorsritgerð við Háskóla Íslands árið 1960. Dagurinn sannar að góðar tengingar geta bæði farið um símalínu og sviðsljós.",
+  "stjornuspa": "Steinbukkurinn finnur gamla minnisbók og uppgötvar að hálfur verkefnalistinn er orðinn sagnfræði. Ljúktu einu verki af festu, en leyfðu þér síðan smá Broadway-sveiflu í stofunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Augustus_of_Prima_Porta.jpg/500px-Augustus_of_Prima_Porta.jpg",
+    "ar": "-27",
+    "texti": "Gaius Octavianus was given the titles Augustus and Princeps by the Roman Senate when he became the first Roman emperor.",
+    "heimild": "https://en.wikipedia.org/wiki/Augustus",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

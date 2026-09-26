@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-10",
+  "dagur": 10,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:06",
+  "sunset": "16:05",
+  "kvedja": "Góðan dag og gleðilegan 10. janúar! Í dag förum við neðanjarðar í London, á allsherjarþing í borginni og endum mögulega í Sinclair C5—farartæki sem sannaði að framtíðin kemur stundum á þremur hjólum og með býsna takmarkað farangursrými.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "9",
+      "texti": "Vestur-Hanveldið í Kína leið undir lok þegar Wang Mang rændi keisarastólnum og stofnaði Xin-veldið. Valdaskipti hafa sjaldan verið sérlega kurteisleg athöfn."
+    },
+    {
+      "ar": "1863",
+      "texti": "Metropolitan-járnbrautin tók til starfa milli Paddington og Farringdon Street. Þessi leið er nú elsti hluti neðanjarðarlestakerfis Lundúna."
+    },
+    {
+      "ar": "1927",
+      "texti": "Vísindaskáldsögumynd Fritz Lang, Metropolis, var frumsýnd í Þýskalandi. Stórborg framtíðarinnar varð þar bæði sjónarspil og víti til varnaðar."
+    },
+    {
+      "ar": "1946",
+      "texti": "Fyrsta allsherjarþing Sameinuðu þjóðanna kom saman í Methodist Central Hall í London með fulltrúum 51 stofnríkis. Heimurinn settist við sama borð, þótt ekki væru allir sammála um borðsiðina."
+    },
+    {
+      "ar": "1985",
+      "texti": "Sir Clive Sinclair kynnti rafknúna einkafarartækið Sinclair C5. Það varð mikið markaðslegt klúður en síðar eftirsóttur safngripur—mistök geta greinilega elst með reisn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1884",
+      "texti": "Fyrsta góðtemplarastúkan á Íslandi, Ísafold nr. 1, var stofnuð í Friðbjarnarhúsi á Akureyri með tólf stofnfélögum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1944",
+      "texti": "Laxfoss strandaði undan Örfirisey í blindbyl. Allir komust lífs af, skipinu var bjargað og það sigldi áfram í fjögur ár.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1974",
+      "texti": "Þjóðgarður var stofnaður í Jökulsárgljúfrum og stórbrotið landslag svæðisins fékk formlega þjóðgarðsvernd.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1994",
+      "texti": "Þyrlusveit Varnarliðsins bjargaði sex skipverjum af Goðanum í fárviðri í Vöðlavík við Reyðarfjörð, en einn maður fórst.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Hrithik Roshan",
+      "starfsgrein": "leikari",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Jemaine Clement",
+      "starfsgrein": "grínisti, leikari og tónlistarmaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Donald Knuth",
+      "starfsgrein": "tölvunarfræðingur og stærðfræðingur",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Bernard Lee",
+      "starfsgrein": "leikari",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Barbara Hepworth",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1903"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Pétur Magnússon",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1888"
+    },
+    {
+      "nafn": "Sigurveig Jónsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Andri Fannar Baldursson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2002"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða samgöngukerfi hóf þjónustu árið 1863?",
+      "svor": [
+        "Neðanjarðarlestakerfi Lundúna",
+        "Parísarmetróið",
+        "Sporvagnakerfi Berlínar",
+        "Járnbraut Moskvu"
+      ],
+      "rett": 0,
+      "skyring": "Metropolitan-leiðin varð elsti hluti neðanjarðarlestakerfis Lundúna."
+    },
+    {
+      "spurning": "Hvar kom fyrsta allsherjarþing Sameinuðu þjóðanna saman árið 1946?",
+      "svor": [
+        "Genf",
+        "New York",
+        "London",
+        "París"
+      ],
+      "rett": 2,
+      "skyring": "Fulltrúar 51 ríkis komu saman í London áður en New York varð kunnuglegra heimilisfang samtakanna."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekktur tölvunarfræðingur og stærðfræðingur?",
+      "svor": [
+        "Bernard Lee",
+        "Donald Knuth",
+        "Jemaine Clement",
+        "Hrithik Roshan"
+      ],
+      "rett": 1,
+      "skyring": "Donald Knuth hefur lagt drjúgan skerf til tölvunarfræðinnar—og líklega leiðrétt fleiri reiknirit en flest okkar hafa lesið."
+    }
+  ],
+  "tonlistUSA": "Rock with You – Michael Jackson (1980)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Metropolis (1927)",
+  "ord_dagsins": {
+    "ord": "kafald",
+    "skyring": "Kafald er þétt eða mikil snjókoma, gjarnan með skertu skyggni."
+  },
+  "vissir_thu": "Sinclair C5 misheppnaðist á markaði en varð síðar að eftirsóttum safngrip.",
+  "utvarpspistill": "Í dag, 10. janúar, hóf Metropolitan-járnbrautin í London akstur árið 1863 og lagði grunn að elsta hluta neðanjarðarlestakerfis borgarinnar. Árið 1927 var Metropolis frumsýnd í Þýskalandi og árið 1946 komu fulltrúar 51 ríkis saman á fyrsta allsherjarþingi Sameinuðu þjóðanna. Hér heima strandaði Laxfoss við Örfirisey árið 1944, en mannbjörg varð. Og árið 1985 birtist Sinclair C5—rafknúin framtíðarsýn sem ók beint af markaðnum og inn í safnarahilluna.",
+  "stjornuspa": "Steinbukurinn mætir deginum eins og embættismaður með vel yddaðan blýant og leynilega diskókúlu í skúffunni. Haltu áætluninni, en leyfðu þér eina óvænta hjáleið—jafnvel Lundúnalestin byrjaði einhvers staðar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Epitaph_des_Marcus_Caelius.JPG/500px-Epitaph_des_Marcus_Caelius.JPG",
+    "ar": "9",
+    "texti": "The Western Han dynasty of China ended after the throne was usurped by Wang Mang, who founded the Xin dynasty.",
+    "heimild": "https://en.wikipedia.org/wiki/0s",
+    "breidd": 330,
+    "haed": 414
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

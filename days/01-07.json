@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-07",
+  "dagur": 7,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:11",
+  "sunset": "15:57",
+  "kvedja": "Góðan dag og gleðilegan 7. janúar! Í dag beinum við sjónaukanum að Júpíter, skellum okkur á skauta í Reykjavík og hlýðum á óperusöng í New York — sagan kann sannarlega að halda mörgum boltum á lofti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1327",
+      "texti": "Enska þingið kom saman í Westminster og varð lykilafl í því að krúnan færðist frá Játvarði 2. til sonar hans, Játvarðs 3. Konungaskipti voru sjaldan einfalt fjölskylduboð."
+    },
+    {
+      "ar": "1610",
+      "texti": "Galileo Galilei sá fyrst með sjónauka tunglin sem síðar voru nefnd Íó, Evrópa, Ganýmedes og Kallistó á braut um Júpíter. Hann gat þó ekki greint Íó og Evrópu að fyrr en næstu nótt."
+    },
+    {
+      "ar": "1797",
+      "texti": "Ítalski þríliturinn var í fyrsta sinn tekinn upp sem opinber fáni, þá af stjórn Cispadanska lýðveldisins. Grænt, hvítt og rautt voru þar með komin á sögusviðið."
+    },
+    {
+      "ar": "1939",
+      "texti": "Franski eðlisfræðingurinn Marguerite Perey greindi frumefnið fransín, síðasta frumefnið sem fannst í náttúrunni en ekki með efnasmíði."
+    },
+    {
+      "ar": "1955",
+      "texti": "Marian Anderson varð fyrst afrískra Bandaríkjamanna til að koma fram með Metropolitan-óperunni í New York. Þar féll mikilvægur múr — og það við óperuundirleik."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1893",
+      "texti": "Skautafélag Reykjavíkur var stofnað. Reykvíkingar höfðu þar með fengið skipulagt tilefni til að renna sér með reisn — eða detta með tilþrifum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1906",
+      "texti": "Ungmennafélag Akureyrar var stofnað og varð fyrsta ungmennafélagið á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1942",
+      "texti": "María Markan varð fyrst Íslendinga til að syngja aðalhlutverk í Metropolitan-óperunni í New York þegar hún fór með hlutverk greifafrúarinnar í Brúðkaupi Fígarós eftir Mozart.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1979",
+      "texti": "Frystihús Ísbjarnarins í Örfirisey var tekið í notkun og var sagt eitt fullkomnasta frystihús heims.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Jeremy Renner",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Eden Hazard",
+      "starfsgrein": "belgískur knattspyrnumaður",
+      "ar": "1991"
+    },
+    {
+      "nafn": "David Caruso",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Gerald Durrell",
+      "starfsgrein": "dýragarðsstjóri, náttúruverndarsinni og rithöfundur",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Charles Addams",
+      "starfsgrein": "bandarískur skopmyndateiknari",
+      "ar": "1912"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Binni í Gröf",
+      "starfsgrein": "íslenskur skipstjóri",
+      "ar": "1904"
+    },
+    {
+      "nafn": "Jón Víðis Jakobsson",
+      "starfsgrein": "íslenskur töframaður",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Anna Mjöll Ólafsdóttir",
+      "starfsgrein": "íslensk söngkona",
+      "ar": "1970"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjögur tungl tengjast athugun Galileos 7. janúar 1610?",
+      "svor": [
+        "Íó, Evrópa, Ganýmedes og Kallistó",
+        "Títan, Mímas, Tríton og Fóbos",
+        "Deimos, Títan, Evrópa og Mímas",
+        "Kallistó, Tríton, Fóbos og Deimos"
+      ],
+      "rett": 0,
+      "skyring": "Þessi fjögur eru nú kölluð Galileotunglin og hringsóla öll um Júpíter."
+    },
+    {
+      "spurning": "Hvaða íslenska söngkona söng aðalhlutverk í Metropolitan-óperunni árið 1942?",
+      "svor": [
+        "Anna Mjöll Ólafsdóttir",
+        "María Markan",
+        "Marian Anderson",
+        "Bernadette Soubirous"
+      ],
+      "rett": 1,
+      "skyring": "María Markan söng greifafrúna í Brúðkaupi Fígarós og braut þar íslenskt blað í óperusögunni."
+    },
+    {
+      "spurning": "Hver skapaði hina einkar sérkennilegu Addams-fjölskyldu?",
+      "svor": [
+        "Gerald Durrell",
+        "David Caruso",
+        "Charles Addams",
+        "Jeremy Renner"
+      ],
+      "rett": 2,
+      "skyring": "Charles Addams skapaði fjölskylduna sem gerði hið drungalega bæði heimilislegt og bráðfyndið."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Avatar (2010)",
+  "ord_dagsins": {
+    "ord": "stjörnukíkir",
+    "skyring": "Stjörnukíkir er gamalt og lýsandi orð yfir sjónauka sem notaður er til að skoða himinhnetti."
+  },
+  "vissir_thu": "Galileo áttaði sig á því að ljósdeplarnir sem hann sá við Júpíter færðust frá nótt til nætur, sem sýndi að þeir gengu um reikistjörnuna en ekki um jörðina.",
+  "utvarpspistill": "Í dag, 7. janúar, leit Galileo til himins árið 1610 og sá tungl Júpíters, meðan ítalski þríliturinn steig fyrst opinberlega fram árið 1797. Á Íslandi var Skautafélag Reykjavíkur stofnað 1893 og María Markan söng aðalhlutverk í Metropolitan-óperunni 1942. Afmælisbörnin eru ekki af verri endanum: Jeremy Renner, Eden Hazard og Charles Addams, höfundur Addams-fjölskyldunnar. Þetta er því kjörinn dagur til að horfa til stjarnanna — helst án þess að detta á skautum.",
+  "stjornuspa": "Steinbukurinn finnur gamlan metnað í efri skrifborðsskúffunni og dustar af honum rykið með miklum myndarskap. Haltu þínu striki, en mundu að jafnvel alvarlegustu fjallageitur mega renna sér aðeins á svellinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eduard2_arest.jpg/330px-Eduard2_arest.jpg",
+    "ar": "1327",
+    "texti": "The Parliament of 1327, which was instrumental in the transfer of the English Crown from King Edward II to his son, Edward III, began at the Palace of Westminster.",
+    "heimild": "https://en.wikipedia.org/wiki/Parliament_of_1327",
+    "breidd": 330,
+    "haed": 368
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

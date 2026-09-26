@@ -1,0 +1,149 @@
+{
+  "mmdd": "01-20",
+  "dagur": 20,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:43",
+  "sunset": "16:35",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 20. janúar leiðir okkur frá fyrstu skrefum neðri málstofu enska þingsins til búsáhaldabyltingar og tunglgöngu Buzz Aldrin — býsna drjúgt ferðalag fyrir einn vetrardag. Haltu fast í kaffibollann; sagan á það til að skvetta úr sér.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1265",
+      "texti": "Simon de Montfort kallaði fulltrúa héraða saman til þings í Westminsterhöll. Samkoman er talin fyrirrennari neðri málstofu breska þingsins."
+    },
+    {
+      "ar": "1726",
+      "texti": "J. S. Bach stjórnaði frumflutningi kantötunnar „Meine Seufzer, meine Tränen“. Titillinn merkir í lauslegri þýðingu „Andvörp mín, tár mín“ — ekki beinlínis stuðlag sunnudagsins."
+    },
+    {
+      "ar": "1843",
+      "texti": "Honório Hermeto Carneiro Leão, markgreifi af Paraná, varð í reynd fyrsti forsætisráðherra Brasilíukeisaradæmisins."
+    },
+    {
+      "ar": "1942",
+      "texti": "Á Wannsee-ráðstefnunni nærri Berlín ræddu Reinhard Heydrich og aðrir háttsettir embættismenn nasista framkvæmd hinnar svonefndu „endanlegu lausnar“ — skipulagningu helfararinnar."
+    },
+    {
+      "ar": "2009",
+      "texti": "Barack Obama sór embættiseið í Washington og varð fyrsti Bandaríkjaforsetinn af afrískum uppruna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1956",
+      "texti": "Vilhjálmur Einarsson var fyrstur allra kjörinn íþróttamaður ársins á Íslandi. Hann vann titilinn síðan sex ár í röð.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1991",
+      "texti": "Skíðaskálinn í Hveradölum brann, en var endurreistur ári síðar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2009",
+      "texti": "Hörð mótmæli brutust út við Alþingishúsið þegar fyrsti þingfundur ársins hófst. Um kvöldið var kveiktur bálköstur á Austurvelli og þar með rann upp fyrsti dagur búsáhaldabyltingarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "David Lynch",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Evan Peters",
+      "starfsgrein": "leikari",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Buzz Aldrin",
+      "starfsgrein": "geimfari og flugmaður",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Federico Fellini",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Aristotle Onassis",
+      "starfsgrein": "skipakóngur",
+      "ar": "1906"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Anna frá Moldnúpi",
+      "starfsgrein": "rithöfundur",
+      "ar": "1901"
+    },
+    {
+      "nafn": "Þórhallur Sigurðsson (Laddi)",
+      "starfsgrein": "skemmtikraftur og leikari",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Rúnar Rúnarsson",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1977"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrsti Bandaríkjaforsetinn af afrískum uppruna 20. janúar 2009?",
+      "svor": [
+        "Barack Obama",
+        "George W. Bush",
+        "Bill Clinton",
+        "Jimmy Carter"
+      ],
+      "rett": 0,
+      "skyring": "Barack Obama sór embættiseiðinn í Washington þennan dag."
+    },
+    {
+      "spurning": "Hvað gerðist í Hveradölum árið 1991?",
+      "svor": [
+        "Nýr flugvöllur var opnaður",
+        "Skíðaskálinn brann",
+        "Jarðskjálfti lokaði þjóðveginum",
+        "Fyrsta skíðalyftan var vígð"
+      ],
+      "rett": 1,
+      "skyring": "Skíðaskálinn brann, en reis aftur ári síðar — eins og sannkallaður snæfönix."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er geimfari?",
+      "svor": [
+        "David Lynch",
+        "Federico Fellini",
+        "Buzz Aldrin",
+        "Aristotle Onassis"
+      ],
+      "rett": 2,
+      "skyring": "Buzz Aldrin hefur komist öllu lengra að heiman en flest afmælisbörn."
+    }
+  ],
+  "tonlistUSA": "(Just Like) Starting Over – John Lennon (1981)",
+  "tonlistUK": "Imagine – John Lennon (1981)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "andvari",
+    "skyring": "Andvari er hægur og mildur vindur, gjarnan svo léttur að hann rétt hreyfir við laufum."
+  },
+  "vissir_thu": "Buzz Aldrin var annar maðurinn til að ganga á tunglinu.",
+  "utvarpspistill": "Í dag, 20. janúar, minnumst við þess að Simon de Montfort kallaði fulltrúa héraða til þings í Westminster árið 1265, samkomu sem varð fyrirrennari neðri málstofunnar. Árið 1942 fór hin skelfilega Wannsee-ráðstefna fram nærri Berlín. Á Íslandi var Vilhjálmur Einarsson fyrstur kjörinn íþróttamaður ársins 1956 og árið 2009 hófst búsáhaldabyltingin. Afmælisbörnin eru ekki af verri endanum: David Lynch, Federico Fellini, Laddi og Buzz Aldrin — maður sem þurfti sannarlega ekki stiga til að ná hátt.",
+  "stjornuspa": "Vatnsberi, taktu fram gamla vasadagatalið og leyfðu hugmyndunum að flæða eins og segulbandsspóla í góðu græjutæki. Óvænt símtal gæti hleypt fjöri í daginn, svo hafðu snúruna ekki of langt frá símanum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Simon_Leicester.jpg/500px-Simon_Leicester.jpg",
+    "ar": "1265",
+    "texti": "Simon de Montfort summoned local representatives to the Palace of Westminster to attend a parliament, now considered to be the forerunner of the House of Commons of England.",
+    "heimild": "https://en.wikipedia.org/wiki/Simon_de_Montfort,_6th_Earl_of_Leicester",
+    "breidd": 330,
+    "haed": 403
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-18",
+  "dagur": 18,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "10:48",
+  "sunset": "16:28",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 18. janúar! Dagurinn leiðir okkur frá barnakeisara í Býsans til Hótels Borgar og Bangsímons — merkileg ferð án þess að þurfa einu sinni að pakka tannbursta.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "474",
+      "texti": "Leó 2. varð einn keisari Austrómverska ríkisins eftir lát afa síns, Leós 1. Hann var aðeins barn, svo ábyrgðin kom heldur snemma í fangið."
+    },
+    {
+      "ar": "1535",
+      "texti": "Francisco Pizarro stofnaði Ciudad de los Reyes, borgina sem síðar varð þekkt sem Líma og höfuðborg Perú."
+    },
+    {
+      "ar": "1871",
+      "texti": "Þýska keisaradæmið varð til þegar áður sjálfstæð þýsk ríki sameinuðust undir stjórn Vilhjálms 1. keisara."
+    },
+    {
+      "ar": "1943",
+      "texti": "Í aðgerðinni Iskra tókst Rauða hernum að opna mjóan landgang til Leníngrad og létta að nokkru á langvarandi umsátri Þjóðverja um borgina."
+    },
+    {
+      "ar": "1958",
+      "texti": "Willie O'Ree lék sinn fyrsta leik með Boston Bruins og varð fyrsti svarti Kanadamaðurinn til að keppa í NHL-deildinni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1930",
+      "texti": "Hótel Borg tók til starfa í Reykjavík. Eigandinn, glímukappinn Jóhannes Jósefsson, varð eftir það kunnur sem Jóhannes á Borg.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1968",
+      "texti": "Leigubílstjórinn Gunnar Sigurður Tryggvason var myrtur í Reykjavík. Málið hefur aldrei verið upplýst.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1969",
+      "texti": "Stórbruni varð á Korpúlfsstöðum í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2003",
+      "texti": "Íslendingabók var opnuð almenningi og ættfræðiforvitni landsmanna fékk þar með öflugt stafrænt verkfæri.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Dave Bautista",
+      "starfsgrein": "leikari og fyrrverandi fjölbragðaglímukappi",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Cary Grant",
+      "starfsgrein": "leikari",
+      "ar": "1904"
+    },
+    {
+      "nafn": "A. A. Milne",
+      "starfsgrein": "rithöfundur, skáld og leikskáld",
+      "ar": "1882"
+    },
+    {
+      "nafn": "Angelique Kerber",
+      "starfsgrein": "tenniskona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Aitana Bonmatí",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1998"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gunnar Kvaran",
+      "starfsgrein": "sellóleikari",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Páll Rósinkranz",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Berglind Björg Þorvaldsdóttir",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1992"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg stofnaði Francisco Pizarro árið 1535?",
+      "svor": [
+        "Líma",
+        "Bogotá",
+        "Santiago",
+        "Buenos Aires"
+      ],
+      "rett": 0,
+      "skyring": "Ciudad de los Reyes varð síðar Líma, höfuðborg Perú."
+    },
+    {
+      "spurning": "Hvaða bygging tók til starfa í Reykjavík 18. janúar 1930?",
+      "svor": [
+        "Þjóðleikhúsið",
+        "Hótel Borg",
+        "Hallgrímskirkja",
+        "Höfði"
+      ],
+      "rett": 1,
+      "skyring": "Hótel Borg opnaði undir stjórn glímukappans Jóhannesar Jósefssonar."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins samdi sögurnar um Bangsímon?",
+      "svor": [
+        "Cary Grant",
+        "Dave Bautista",
+        "A. A. Milne",
+        "Gunnar Kvaran"
+      ],
+      "rett": 2,
+      "skyring": "A. A. Milne gaf heiminum Bangsímon og vini hans í Hundraðekruskógi."
+    }
+  ],
+  "tonlistUSA": "That's What Friends Are For – Dionne Warwick og vinir (1986)",
+  "tonlistUK": "West End Girls – Pet Shop Boys (1986)",
+  "bio": "One Flew Over the Cuckoo's Nest (1975)",
+  "ord_dagsins": {
+    "ord": "aftanskin",
+    "skyring": "Aftanskin er bjarmi eða roði á himni eftir sólsetur."
+  },
+  "vissir_thu": "A. A. Milne nefndi Bangsímon eftir leikfangabangsa sonar síns, Christophers Robin Milne.",
+  "utvarpspistill": "Í dag, 18. janúar, varð Leó 2. einn keisari Austrómverska ríkisins árið 474, þótt hann væri enn barn. Francisco Pizarro stofnaði Líma árið 1535 og árið 1871 varð Þýska keisaradæmið til. Hér heima opnaði Hótel Borg árið 1930 undir stjórn Jóhannesar Jósefssonar glímukappa. Afmælisbörnin eru ekki af verri endanum: Cary Grant, Dave Bautista og A. A. Milne, höfundur Bangsímons. Það er því óhætt að mæta deginum með keisaralegu fasi og örlitlu hunangi.",
+  "stjornuspa": "Steinbukurinn finnur gamalt verkefni sem hefur beðið jafn þolinmótt og handskrifað bréf í kommóðuskúffu. Ljúktu því með reisn, settu síðan góða plötu á fóninn og leyfðu þér að vera dálítið ópraktískur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Solidus_of_Leo_II.png/500px-Solidus_of_Leo_II.png",
+    "ar": "474",
+    "texti": "The young child Leo II became the sole Byzantine emperor upon the death of his grandfather Leo I.",
+    "heimild": "https://en.wikipedia.org/wiki/Leo_II_(emperor)",
+    "breidd": 330,
+    "haed": 318
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

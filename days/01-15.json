@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-15",
+  "dagur": 15,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "10:55",
+  "sunset": "16:19",
+  "kvedja": "Komdu sæll, kæri sögufélagi! Á þessum janúardegi fljúga snjókorn, melassi og farþegavél um söguna, en merkilegt nokk kemst mannkynið oftast áfram — stundum með nauðlendingu og dálitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1885",
+      "texti": "Wilson Bentley tók fyrstu þekktu ljósmyndina af snjókorni með því að tengja belgmyndavél við smásjá. Þar með fékk vetrarfegurðin loksins sína eigin nærmynd."
+    },
+    {
+      "ar": "1919",
+      "texti": "Risavaxinn melassgeymir sprakk í Boston og seigfljótandi flóðbylgja æddi um göturnar. Tuttugu og einn lést og 150 særðust í þessu einkennilega en skelfilega slysi."
+    },
+    {
+      "ar": "1962",
+      "texti": "Derveni-papýrusinn fannst í Makedóníu í norðurhluta Grikklands. Hann er elsta varðveitta handrit Evrópu — bókakista fortíðarinnar, aðeins viðkvæmari en venjulegur kilja."
+    },
+    {
+      "ar": "2001",
+      "texti": "Fyrsta breytingin var gerð á netalfræðiritinu Wikipedia. Smár smellur fyrir notanda, en risastórt skref fyrir fólk sem þarf skyndilega að vita allt um miðaldakastala."
+    },
+    {
+      "ar": "2009",
+      "texti": "US Airways-flug 1549 rakst á hóp kanadagæsa eftir flugtak frá New York og nauðlenti á Hudsonfljóti. Allir 155 um borð lifðu af og lendingin varð samstundis hluti af flugsögunni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1809",
+      "texti": "Enska skipið Clarence kom til Hafnarfjarðar með Jørgen Jørgensen innanborðs. Hann dvaldi hér í tvo mánuði, en átti síðar eftir að setja mun eftirminnilegri svip á Íslandssöguna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1935",
+      "texti": "Mjólkursamsalan var stofnuð. Þar fékk íslensk mjólkursaga sitt skipulagða upphaf — og morgunkornið traustan bandamann.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1942",
+      "texti": "Vindhraðamet var slegið í Reykjavík þegar 39,8 metrar á sekúndu mældust við bandaríska flugstöð á Reykjavíkurflugvelli. Þetta var veður sem tók hattinn ekki aðeins ofan, heldur með sér.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Gífurlegt hrun varð úr Innstahaus við Steinsholtsjökul og mikið vatnsmagn úr jökullóni streymdi fram á Markarfljótsaura. Rennsli Markarfljóts margfaldaðist um tíma.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Edward Teller",
+      "starfsgrein": "eðlisfræðingur",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Gamal Abdel Nasser",
+      "starfsgrein": "herforingi og forseti Egyptalands",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Captain Beefheart",
+      "starfsgrein": "tónlistarmaður og myndlistarmaður",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Andrea Martin",
+      "starfsgrein": "leikkona, söngkona og handritshöfundur",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Chloe Kelly",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1998"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Stefán Björnsson",
+      "starfsgrein": "reiknimeistari",
+      "ar": "1721"
+    },
+    {
+      "nafn": "Vigfús Hansson Scheving",
+      "starfsgrein": "sýslumaður",
+      "ar": "1735"
+    },
+    {
+      "nafn": "Þóranna Krístín Jónsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1976"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar nauðlenti US Airways-flug 1549 árið 2009?",
+      "svor": [
+        "Á Hudsonfljóti",
+        "Á Thames",
+        "Á Atlantshafi",
+        "Á Reykjavíkurflugvelli"
+      ],
+      "rett": 0,
+      "skyring": "Vélin lenti á Hudsonfljóti og allir 155 um borð komust lífs af."
+    },
+    {
+      "spurning": "Hvaða fremur klístraða efni flæddi um götur Boston árið 1919?",
+      "svor": [
+        "Hunang",
+        "Melassi",
+        "Síróp",
+        "Bráðið súkkulaði"
+      ],
+      "rett": 1,
+      "skyring": "Það var melassi — sagan getur sannarlega verið bæði bitur og klístruð."
+    },
+    {
+      "spurning": "Hvað ljósmyndaði Wilson Bentley árið 1885?",
+      "svor": [
+        "Halastjörnu",
+        "Eldingu",
+        "Snjókorn",
+        "Kanadagæs"
+      ],
+      "rett": 2,
+      "skyring": "Bentley tók fyrstu þekktu ljósmyndina af snjókorni."
+    }
+  ],
+  "tonlistUSA": "You Make Me Feel Like Dancing – Leo Sayer (1977)",
+  "tonlistUK": "You Can't Hurry Love – Phil Collins (1983)",
+  "bio": "Avatar (2009)",
+  "ord_dagsins": {
+    "ord": "hríðarkóf",
+    "skyring": "Hríðarkóf er þétt él eða snjóhríð með mikilli ofankomu og litlu skyggni."
+  },
+  "vissir_thu": "Allir 155 sem voru um borð í US Airways-flugi 1549 lifðu nauðlendinguna á Hudsonfljóti af.",
+  "utvarpspistill": "Í dag, 15. janúar, tók Wilson Bentley fyrstu þekktu ljósmyndina af snjókorni árið 1885, en árið 1919 fór mun klístraðri náttúrukraftur af stað þegar melassgeymir sprakk í Boston. Wikipedia fékk sína fyrstu breytingu árið 2001 og átta árum síðar nauðlenti US Airways-flug 1549 á Hudsonfljóti eftir árekstur við kanadagæsir; allir 155 um borð lifðu af. Hér heima var Mjólkursamsalan stofnuð árið 1935. Snjókorn, melassi, gæsir og mjólk — janúar kann sitt fag.",
+  "stjornuspa": "Steinbukurinn ætti að halda fast í áætlun dagsins, en skilja eftir örlítið svigrúm fyrir kanadagæsir og aðrar óvæntar hindranir. Gamalt verkefni leysist farsællega ef þú beitir þolinmæði, festu og hæfilega sterkum kaffibolla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Wilson_Alwyn_Bentley_snima_emulzi_ze_sklenene_desky.jpg",
+    "ar": "1885",
+    "texti": "Wilson Bentley took the first known photograph of a snowflake by attaching a bellows camera to a microscope.",
+    "heimild": "https://en.wikipedia.org/wiki/Wilson_Bentley",
+    "breidd": 300,
+    "haed": 240
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

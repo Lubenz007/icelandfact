@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-04",
+  "dagur": 4,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:16",
+  "sunset": "15:49",
+  "kvedja": "Góðan 4. janúar! Í dag teygjum við okkur frá frelsun Solomon Northup til lendingar á Mars og vígslu Burj Khalifa — ekki amaleg vegalengd fyrir einn vetrardag. Haltu fast í kaffibollann; sagan á það til að taka stór stökk með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1698",
+      "texti": "Mestöll Whitehall-höll í London, helsta aðsetur enskra konunga frá 1530, eyðilagðist í eldi. Eldvarnir hallarinnar reyndust sem sagt ekki alveg konunglegar."
+    },
+    {
+      "ar": "1853",
+      "texti": "Solomon Northup endurheimti frelsi sitt eftir að hafa verið seldur í þrældóm í Suðurríkjum Bandaríkjanna. Endurminningar hans, Twelve Years a Slave, urðu síðar metsölubók."
+    },
+    {
+      "ar": "1936",
+      "texti": "Billboard birti sinn fyrsta vinsældalista tónlistar. Þar með fékk tónlistarbransinn formlega leið til að mæla hver væri efstur — og hver þyrfti nýtt viðlag."
+    },
+    {
+      "ar": "2004",
+      "texti": "Spirit, fyrra könnunarfar NASA í Mars Exploration Rover-leiðangrinum, lenti farsællega á Mars. Rauða reikistjarnan fékk þar með nýjan gest á hjólum."
+    },
+    {
+      "ar": "2010",
+      "texti": "Burj Khalifa, hæsta mannvirki heims, var formlega vígt í Dúbaí. Skýjakljúfurinn stendur svo hátt að orðið „háhýsi“ virðist næstum hógvært."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1483",
+      "texti": "Andrés Guðmundsson var handtekinn á Reykhólum eftir skotbardaga.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1917",
+      "texti": "Fyrsta íslenska ráðuneytið, undir forsæti Jóns Magnússonar, tók til starfa.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1985",
+      "texti": "Kaffibaunamálið komst í hámæli þegar Helgarpósturinn greindi frá rannsókn skattrannsóknarstjóra á kaupum SÍS á kaffibaunum frá Brasilíu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1994",
+      "texti": "Mikill samdráttur varð í herstöðinni á Keflavíkurflugvelli: F-15-þotum var fækkað úr tólf í fjórar og hermönnum fækkað um tæplega 400 í áföngum.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Dyan Cannon",
+      "starfsgrein": "leikkona, leikstjóri og framleiðandi",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Bernard Sumner",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Beth Gibbons",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Toni Kroos",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Victor Wembanyama",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "2004"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Magnús Guðbrandsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1896"
+    },
+    {
+      "nafn": "Árni Pálsson",
+      "starfsgrein": "verkfræðingur",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Kjartan Gunnarsson",
+      "starfsgrein": "lögfræðingur",
+      "ar": "1951"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða könnunarfar lenti á Mars 4. janúar 2004?",
+      "svor": [
+        "Spirit",
+        "Voyager 1",
+        "Cassini",
+        "New Horizons"
+      ],
+      "rett": 0,
+      "skyring": "Spirit lenti farsællega og hóf hjólaferð sem enginn þurfti að moka fyrir."
+    },
+    {
+      "spurning": "Hvað tók til starfa á Íslandi 4. janúar 1917?",
+      "svor": [
+        "Fyrsta íslenska ráðuneytið",
+        "Fyrsti Hæstiréttur Íslands",
+        "Fyrsta ríkisútvarpið",
+        "Fyrsti kjörni forsetinn"
+      ],
+      "rett": 0,
+      "skyring": "Fyrsta íslenska ráðuneytið tók þá til starfa undir forsæti Jóns Magnússonar."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er þýskur knattspyrnumaður?",
+      "svor": [
+        "Toni Kroos",
+        "Victor Wembanyama",
+        "Bernard Sumner",
+        "Dyan Cannon"
+      ],
+      "rett": 0,
+      "skyring": "Toni Kroos er maðurinn; hin þrjú leika á öðrum völlum."
+    }
+  ],
+  "tonlistUSA": "The Twist – Chubby Checker (1961)",
+  "tonlistUK": "I Feel Fine – The Beatles (1965)",
+  "bio": "The Exorcist (1973)",
+  "ord_dagsins": {
+    "ord": "þrábeini",
+    "skyring": "Þrábeini er þrjóskur eða þverlyndur maður sem lætur ekki auðveldlega segjast."
+  },
+  "vissir_thu": "Burj Khalifa er 828 metra hátt og var við vígsluna 2010 hæsta mannvirki heims.",
+  "utvarpspistill": "Í dag, 4. janúar, rifjum við upp dag þar sem sagan horfði bæði upp og út. Árið 1853 endurheimti Solomon Northup frelsi sitt eftir tólf ár í þrældómi. Árið 1936 birti Billboard sinn fyrsta vinsældalista, Spirit lenti á Mars 2004 og Burj Khalifa var vígt 2010. Hér heima tók fyrsta íslenska ráðuneytið til starfa 1917. Afmælisbörnin Toni Kroos og Victor Wembanyama minna svo á að hæð og sendingar skipta stundum máli!",
+  "stjornuspa": "Steinbukurinn finnur gamalt skipulag úr skúffu og uppgötvar að það var alls ekki úrelt — bara á undan sinni samtíð. Haltu ró þinni, pússa þú skóna og leyfðu öðrum að halda að þetta hafi allt verið nákvæmlega svona planað.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg/500px-The_Old_Palace_of_Whitehall_by_Hendrik_Danckerts.jpg",
+    "ar": "1698",
+    "texti": "Most of London's Palace of Whitehall, the main residence of English monarchs since 1530, was destroyed by fire.",
+    "heimild": "https://en.wikipedia.org/wiki/Palace_of_Whitehall",
+    "breidd": 330,
+    "haed": 198
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

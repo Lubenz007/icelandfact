@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-12",
+  "dagur": 12,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:02",
+  "sunset": "16:10",
+  "kvedja": "Góðan 12. janúar! Dagurinn ber okkur frá keisarahöllum Býsans til björgunarbáts sem var dreginn yfir land og áfram inn í framtíðardrauma frystingarfræðinnar. Steinbukurinn kann vel að meta slíka þrjósku — og líklega líka gott handfang á tíu tonna bát.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "475",
+      "texti": "Basiliscus varð keisari Býsans eftir að Zenon neyddist til að flýja Konstantínópel. Valdaskipti þar eystra voru sjaldnast róleg kaffiboð."
+    },
+    {
+      "ar": "1554",
+      "texti": "Bayinnaung var krýndur konungur Toungoo-ættarinnar í Búrma. Síðar byggði hann upp það sem líklega var stærsta ríki í sögu meginlands Suðaustur-Asíu."
+    },
+    {
+      "ar": "1899",
+      "texti": "Í ofsaveðri flutti áhöfn björgunarstöðvarinnar í Lynmouth tíu tonna björgunarbát 24 kílómetra yfir land til að komast að laskaðri skonnortu. Þetta var björgunarafrek með óvenju mikilli burðarvinnu."
+    },
+    {
+      "ar": "1967",
+      "texti": "Hinn 73 ára James Bedford varð fyrstur manna til að vera varðveittur með djúpfrystingu í von um að síðar mætti vekja hann aftur til lífs. Framtíðin var bókstaflega sett á ís."
+    },
+    {
+      "ar": "2010",
+      "texti": "Jarðskjálfti af stærðinni 7,0 reið yfir Haítí og lagði víða byggð í rúst. Meira en 100.000 manns létust í þessum gríðarlegu hamförum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1830",
+      "texti": "Síðasta aftakan á Íslandi fór fram þegar Friðrik Sigurðsson og Agnes Magnúsdóttir voru hálshöggvin fyrir morðin á Natani Ketilssyni og Pétri Jónssyni.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1993",
+      "texti": "Alþingi samþykkti aðild Íslands að Evrópska efnahagssvæðinu eftir 100 klukkustunda umræður. Þingmenn höfðu því sannarlega tekið langa leið að niðurstöðunni.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2007",
+      "texti": "Bygging tónlistarhússins Hörpu hófst formlega við Reykjavíkurhöfn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2013",
+      "texti": "Stjórnmálaflokkurinn Alþýðufylkingin var stofnaður í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Jeff Bezos",
+      "starfsgrein": "frumkvöðull og stofnandi Amazon",
+      "ar": "1964"
+    },
+    {
+      "nafn": "John Lasseter",
+      "starfsgrein": "teiknimyndaleikstjóri og framleiðandi",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Christiane Amanpour",
+      "starfsgrein": "fréttakona",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Charles Perrault",
+      "starfsgrein": "rithöfundur",
+      "ar": "1628"
+    },
+    {
+      "nafn": "Edmund Burke",
+      "starfsgrein": "heimspekingur og stjórnmálamaður",
+      "ar": "1729"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dorrit Moussaieff",
+      "starfsgrein": "fyrrverandi forsetafrú Íslands",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Ásta Möller",
+      "starfsgrein": "fyrrverandi alþingismaður",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Silja Hauksdóttir",
+      "starfsgrein": "leikstjóri",
+      "ar": "1976"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað var sérstakt við björgunaraðgerðina í Lynmouth árið 1899?",
+      "svor": [
+        "Björgunarbáturinn var fluttur 24 kílómetra yfir land",
+        "Skonnortan var dregin yfir fjall",
+        "Áhöfnin smíðaði nýjan bát á ströndinni",
+        "Björgunin fór fram með loftbelg"
+      ],
+      "rett": 0,
+      "skyring": "Tíu tonna báturinn var dreginn 24 kílómetra yfir land — engin létt morgunleikfimi þar."
+    },
+    {
+      "spurning": "Hversu lengi stóðu umræðurnar á Alþingi áður en EES-aðildin var samþykkt árið 1993?",
+      "svor": [
+        "24 klukkustundir",
+        "50 klukkustundir",
+        "100 klukkustundir",
+        "200 klukkustundir"
+      ],
+      "rett": 2,
+      "skyring": "Umræðurnar tóku 100 klukkustundir, svo kaffivélar Alþingis hafa líklega fengið sitt."
+    },
+    {
+      "spurning": "Hver varð fyrstur manna til að vera varðveittur með djúpfrystingu í von um framtíðarvakningu?",
+      "svor": [
+        "Edmund Burke",
+        "James Bedford",
+        "Jeff Bezos",
+        "John Lasseter"
+      ],
+      "rett": 1,
+      "skyring": "James Bedford var varðveittur með þessum hætti árið 1967."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Sadness Part 1 – Enigma (1991)",
+  "bio": "Avatar (2010)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er stutt en snörp lota kulda og óveðurs, oft að vorlagi."
+  },
+  "vissir_thu": "James Bedford var 73 ára þegar hann varð árið 1967 fyrstur manna til að vera varðveittur með djúpfrystingu í yfirlýstri von um framtíðarendurlífgun.",
+  "utvarpspistill": "Í dag, 12. janúar, minnumst við þess að sagan kann bæði að skjálfa og frjósa. Árið 2010 reið hörmulegur jarðskjálfti yfir Haítí, en árið 1967 varð James Bedford fyrstur til að vera djúpfrystur í von um framtíðarvakningu. Hér heima var EES-aðildin samþykkt 1993 eftir hundrað klukkustunda umræður og bygging Hörpu hófst 2007. Afmælisbörnin eru meðal annarra Jeff Bezos og Christiane Amanpour — annar sendir pakka, hin spurningar.",
+  "stjornuspa": "Steinbukurinn finnur gamlan verkefnalista og uppgötvar sér til ánægju að helmingurinn er loksins orðinn söguleg heimild. Haltu fast í þrjóskuna, en mundu að jafnvel tíu tonna björgunarbátur kemst lengra þegar margir leggjast á eitt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Solidus_of_Basiliscus_and_Marcus.png/500px-Solidus_of_Basiliscus_and_Marcus.png",
+    "ar": "475",
+    "texti": "Basiliscus became Byzantine emperor after Zeno was forced to flee Constantinople.",
+    "heimild": "https://en.wikipedia.org/wiki/Basiliscus",
+    "breidd": 330,
+    "haed": 166
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

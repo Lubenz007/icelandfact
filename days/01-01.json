@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-01",
+  "dagur": 1,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:19",
+  "sunset": "15:43",
+  "kvedja": "Gleðilegt nýtt ár, kæri lesandi! Fyrsti dagur ársins hefur komið okkur allt frá fyrstu íslensku frímerkjunum til Arrokoth handan Neptúnusar — býsna gott ferðalag áður en kaffið kólnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1892",
+      "texti": "Móttökustöðin á Elliseyju í New York-höfn var opnuð. Þar voru nærri 12 milljónir innflytjenda afgreiddar á starfstíma hennar, með vonir, farangur og sjálfsagt ótal nestisbita í farteskinu."
+    },
+    {
+      "ar": "1914",
+      "texti": "Flugleiðin milli St. Petersburg og Tampa í Flórída varð fyrsta áætlunarflugleið heims sem notaði vængjaða flugvél. Þar með hófst sá siður að horfa órólega á klukkuna við brottfararhlið."
+    },
+    {
+      "ar": "1948",
+      "texti": "British Railways tók til starfa þegar fjögur stærstu járnbrautarfélög Bretlands voru þjóðnýtt. Bresku lestirnar fengu þannig einn sameiginlegan hatt, þótt teinarnir héldu áfram í margar áttir."
+    },
+    {
+      "ar": "1995",
+      "texti": "Alþjóðaviðskiptastofnunin tók til starfa og leysti GATT-samkomulagið af hólmi. Hlutverk hennar var að hafa umsjón með og greiða fyrir alþjóðaviðskiptum."
+    },
+    {
+      "ar": "2019",
+      "texti": "Geimfarið New Horizons flaug fram hjá Arrokoth handan Neptúnusar. Arrokoth varð þar með fjarlægasti hnöttur sem geimfar hafði heimsótt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1788",
+      "texti": "Einokunarverslun var afnumin á Íslandi og nýr kafli hófst í íslenskri verslunarsögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1873",
+      "texti": "Fyrstu íslensku frímerkin, skildingafrímerkin, voru gefin út. Bréf fengu þar með sinn litla opinbera farseðil.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1910",
+      "texti": "Metrakerfið var innleitt á Íslandi. Metrar og kíló tóku við keflinu og mælingar urðu ögn minna dularfullar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1998",
+      "texti": "Haraldur Örn Ólafsson, Ólafur Örn Haraldsson og Ingþór Bjarnason komust á Suðurpólinn eftir fimmtíu daga göngu.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Angourie Rice",
+      "starfsgrein": "áströlsk leikkona",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Paul Revere",
+      "starfsgrein": "bandarískur silfursmiður og koparstungumaður",
+      "ar": "1735"
+    },
+    {
+      "nafn": "E. M. Forster",
+      "starfsgrein": "enskur rithöfundur og leikskáld",
+      "ar": "1879"
+    },
+    {
+      "nafn": "Lorenzo de' Medici",
+      "starfsgrein": "ítalskur stjórnmálamaður",
+      "ar": "1449"
+    },
+    {
+      "nafn": "Colin Morgan",
+      "starfsgrein": "norðurírskur leikari",
+      "ar": "1986"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Elísabet Jónsdóttir",
+      "starfsgrein": "tónskáld",
+      "ar": "1869"
+    },
+    {
+      "nafn": "Georg Guðni Hauksson",
+      "starfsgrein": "listamaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Felix Bergsson",
+      "starfsgrein": "leikari",
+      "ar": "1967"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hnött flaug New Horizons fram hjá árið 2019?",
+      "svor": [
+        "Arrokoth",
+        "Mars",
+        "Eris",
+        "Títan"
+      ],
+      "rett": 0,
+      "skyring": "Arrokoth varð fjarlægasti hnötturinn sem geimfar hafði heimsótt."
+    },
+    {
+      "spurning": "Hvað var innleitt á Íslandi árið 1910?",
+      "svor": [
+        "Kennitölur",
+        "Metrakerfið",
+        "Evrur",
+        "Kvótakerfið"
+      ],
+      "rett": 1,
+      "skyring": "Metrakerfið mætti til leiks árið 1910 og hafði reglustikuna meðferðis."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var enskur rithöfundur og leikskáld?",
+      "svor": [
+        "Paul Revere",
+        "Colin Morgan",
+        "E. M. Forster",
+        "Lorenzo de' Medici"
+      ],
+      "rett": 2,
+      "skyring": "E. M. Forster var maður pennans, ekki silfursmíðanna eða ítalskra stjórnmála."
+    }
+  ],
+  "tonlistUSA": "I'm a Believer – The Monkees (1967)",
+  "tonlistUK": "Mull of Kintyre – Wings (1978)",
+  "bio": "The Lord of the Rings: The Return of the King (2003)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Orðið merkir fyrri hluta dags, frá morgni fram að hádegi."
+  },
+  "vissir_thu": "Nærri 12 milljónir innflytjenda fóru um móttökustöðina á Elliseyju meðan hún starfaði.",
+  "utvarpspistill": "Í dag, 1. janúar, hóf Elliseyja að taka á móti innflytjendum árið 1892 og fyrsta áætlunarflugleið heims með vængjaðri flugvél tók til starfa árið 1914. Hér heima var einokunarverslun afnumin 1788, fyrstu íslensku frímerkin komu út 1873 og metrakerfið var innleitt 1910. Árið 2019 sveif New Horizons svo fram hjá Arrokoth handan Neptúnusar. Fyrsti janúar kann greinilega vel við ný upphöf — og langar vegalengdir.",
+  "stjornuspa": "Steinbukurinn stígur inn í daginn eins og embættismaður með nýja dagbók og vel yddaðan blýant. Mundu þó að jafnvel metnaðarfullustu áætlanir mega bíða meðan þú færð þér annan kaffibolla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg/500px-Aerial_view_of_Ellis_Island%2C_Jersey_City%2C_New_Jersey_LCCN2011635626_-_cropped_balance.jpg",
+    "ar": "1892",
+    "texti": "The immigration station on Ellis Island in New York Harbor opened, and would process almost 12 million immigrants to the United States over the course of its existence.",
+    "heimild": "https://en.wikipedia.org/wiki/Ellis_Island",
+    "breidd": 330,
+    "haed": 193
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-05",
+  "dagur": 5,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:14",
+  "sunset": "15:52",
+  "kvedja": "Góðan 5. janúar! Dagurinn teygir sig frá stjórnarskrá Íslands og fyrstu ríkisstjórakonunni í Bandaríkjunum alla leið út að dvergreikistjörnunni Eris — býsna langt ferðalag fyrir einn vetrardag. Steinbukar mega því halda höfðinu hátt, en helst fæturna á jörðinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1757",
+      "texti": "Loðvík 15. Frakklandskonungur lifði af banatilræði Roberts-François Damiens. Damiens varð síðar síðasti maðurinn í Frakklandi sem tekinn var af lífi með sundurlimun með hestum."
+    },
+    {
+      "ar": "1925",
+      "texti": "Nellie Tayloe Ross tók við embætti ríkisstjóra Wyoming og varð þar með fyrsta konan til að gegna ríkisstjóraembætti í bandarísku fylki."
+    },
+    {
+      "ar": "1933",
+      "texti": "Framkvæmdir hófust við Golden Gate-brúna yfir sundið inn í San Francisco-flóa. Brúin átti síðar eftir að verða eitt kunnasta kennileiti Bandaríkjanna."
+    },
+    {
+      "ar": "1970",
+      "texti": "Jarðskjálfti af stærðinni 7,1 reið yfir Tonghai-sýslu í sunnanverðu Kína og varð að minnsta kosti 10.000 manns að bana. Hamfarirnar ýttu síðar undir stofnun stærsta jarðskjálftaeftirlitskerfis landsins."
+    },
+    {
+      "ar": "2005",
+      "texti": "Dvergreikistjarnan Eris fannst þegar vísindamenn rannsökuðu myndir úr Samuel Oschin-sjónaukanum í Palomar-stjörnuathugunarstöðinni. Sólkerfið varð samstundis dálítið fjölmennara — og flokkun himinhnatta flóknari."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1874",
+      "texti": "Fyrsta stjórnarskrá Íslands var staðfest af konungi, en hún tók gildi 1. ágúst sama ár.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1931",
+      "texti": "Fyrsta barnið fæddist á Landspítalanum, aðeins tveimur vikum eftir að spítalinn var tekinn í notkun.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1978",
+      "texti": "Nýlistasafnið var stofnað í Reykjavík og skapaði íslenskri samtímalist nýjan vettvang.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2010",
+      "texti": "Ólafur Ragnar Grímsson forseti neitaði að undirrita lög um ríkisábyrgð vegna Icesave og vísaði málinu í þjóðaratkvæðagreiðslu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Diane Keaton",
+      "starfsgrein": "bandarísk leikkona og leikstjóri",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Hayao Miyazaki",
+      "starfsgrein": "japanskur teiknimyndahöfundur og leikstjóri",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Bradley Cooper",
+      "starfsgrein": "bandarískur leikari og framleiðandi",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Deepika Padukone",
+      "starfsgrein": "indversk leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Shah Jahan",
+      "starfsgrein": "mógúlkeisari",
+      "ar": "1592"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þorsteinn Sveinbjörnsson Egilson",
+      "starfsgrein": "íslenskur kaupmaður",
+      "ar": "1842"
+    },
+    {
+      "nafn": "Iðunn Steinsdóttir",
+      "starfsgrein": "íslenskur rithöfundur",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Davíð Þór Jónsson",
+      "starfsgrein": "íslenskur prestur",
+      "ar": "1965"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða brautryðjandi tók við embætti ríkisstjóra Wyoming árið 1925?",
+      "svor": [
+        "Nellie Tayloe Ross",
+        "Diane Keaton",
+        "Deepika Padukone",
+        "Iðunn Steinsdóttir"
+      ],
+      "rett": 0,
+      "skyring": "Nellie Tayloe Ross varð fyrsta konan til að gegna ríkisstjóraembætti í bandarísku fylki."
+    },
+    {
+      "spurning": "Hvaða himinhnöttur fannst árið 2005 með hjálp mynda frá Palomar-stjörnuathugunarstöðinni?",
+      "svor": [
+        "Plútó",
+        "Eris",
+        "Evrópa",
+        "Halastjarna Halleys"
+      ],
+      "rett": 1,
+      "skyring": "Það var dvergreikistjarnan Eris, sem gerði fjölskyldumynd sólkerfisins ögn flóknari."
+    },
+    {
+      "spurning": "Hvað gerðist á Landspítalanum 5. janúar 1931?",
+      "svor": [
+        "Fyrsta hjartaígræðslan fór fram",
+        "Spítalinn var formlega stofnaður",
+        "Fyrsta barnið fæddist þar",
+        "Nýlistasafnið opnaði þar sýningu"
+      ],
+      "rett": 2,
+      "skyring": "Fyrsta barnið fæddist á Landspítalanum, tveimur vikum eftir að hann var tekinn í notkun."
+    }
+  ],
+  "tonlistUSA": "Like a Virgin – Madonna (1985)",
+  "tonlistUK": "Mull of Kintyre – Wings (1978)",
+  "bio": "The Lord of the Rings: The Return of the King (2004)",
+  "ord_dagsins": {
+    "ord": "vetrarhörkur",
+    "skyring": "Vetrarhörkur eru miklir kuldar og harðindi að vetrarlagi."
+  },
+  "vissir_thu": "Shah Jahan, sem fæddist 5. janúar 1592, lét reisa Taj Mahal til minningar um eiginkonu sína Mumtaz Mahal.",
+  "utvarpspistill": "Í dag, 5. janúar, minnumst við þess að fyrsta stjórnarskrá Íslands var staðfest árið 1874 og að fyrsta barnið fæddist á Landspítalanum árið 1931. Handan hafsins varð Nellie Tayloe Ross fyrsta konan til að stjórna bandarísku fylki árið 1925, og árið 2005 fannst dvergreikistjarnan Eris. Afmælisbörnin eru ekki af verri endanum: Hayao Miyazaki, Diane Keaton og Bradley Cooper. Dagurinn sannar því að bæði stjórnskipan og stjörnur geta fæðst í janúar.",
+  "stjornuspa": "Steinbukurinn finnur gamlan verkefnalista og uppgötvar sér til ánægju að helmingurinn er þegar úreltur. Haltu í þolinmæðina, sparaðu koparpeninginn og mundu að jafnvel Golden Gate-brúin hófst á fyrsta handtaki.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg/500px-Louis_XV%2C_King_of_France_%281710-1774%29_edited_2.jpg",
+    "ar": "1757",
+    "texti": "King Louis XV survived an assassination attempt by Robert-François Damiens, who later became the last person in France to be executed by drawing and quartering.",
+    "heimild": "https://en.wikipedia.org/wiki/Louis_XV",
+    "breidd": 330,
+    "haed": 438
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

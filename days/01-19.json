@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-19",
+  "dagur": 19,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "10:46",
+  "sunset": "16:32",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 19. janúar! Í dag sveiflum við okkur frá umsátrinu um Rúðuborg yfir í opnun Hótels Borgar og endum með Dolly Parton, svo söguleg ferðataskan þarf bæði hjálm og glimmer.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1419",
+      "texti": "Umsátrinu um Rúðuborg lauk þegar enskar hersveitir náðu borginni af Normönnum í Hundrað ára stríðinu. Þetta var engin snögg helgarferð heldur lok erfiðrar umsáturs."
+    },
+    {
+      "ar": "1511",
+      "texti": "Hersveitir Júlíusar 2. páfa tóku Mirandola eftir stutt umsátur í Cambrai-bandalagsstríðinu. Páfinn lét sér greinilega ekki nægja að stjórna úr hægindastól."
+    },
+    {
+      "ar": "1795",
+      "texti": "Batavíska lýðveldið var stofnað, degi eftir að Vilhjálmur 5. flúði hollenska lýðveldið vegna Batavísku byltingarinnar í Amsterdam."
+    },
+    {
+      "ar": "1920",
+      "texti": "Bandarísku borgararéttindasamtökin ACLU voru stofnuð af stjórnendum National Civil Liberties Bureau og hófu langa baráttu sína fyrir borgaralegum réttindum."
+    },
+    {
+      "ar": "2012",
+      "texti": "Bandaríska alríkislögreglan lokaði skráadeilivefnum Megaupload, sem var rekinn frá Hong Kong. Netheimurinn missti þar eina af stærri geymsluskúffum sínum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1158",
+      "texti": "Hekla gaus og minnti landsmenn á að fjallið væri ekki aðeins til skrauts í sjóndeildarhringnum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1903",
+      "texti": "Þýski togarinn Friedrich Albert strandaði á Skeiðarársandi. Áhöfnin komst í land en ráfaði um sandinn í þrjár vikur og þrír menn fórust; ári síðar var fyrsta skipbrotsmannaskýli Íslands reist.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1930",
+      "texti": "Hótel Borg var opnað við Austurvöll í Reykjavík og setti þegar svip sinn á miðborgina.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1999",
+      "texti": "Q – félag hinsegin stúdenta var stofnað undir nafninu Félag samkynhneigðra stúdenta, skammstafað FSS.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Dolly Parton",
+      "starfsgrein": "söngkona, lagahöfundur og leikkona",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Edgar Allan Poe",
+      "starfsgrein": "rithöfundur, ljóðskáld og gagnrýnandi",
+      "ar": "1809"
+    },
+    {
+      "nafn": "Janis Joplin",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Jenson Button",
+      "starfsgrein": "kappakstursökumaður",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Damien Chazelle",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1985"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Steinunn Jóhannesdóttir",
+      "starfsgrein": "vesturíslenskur læknir",
+      "ar": "1870"
+    },
+    {
+      "nafn": "Ólafur Thors",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1892"
+    },
+    {
+      "nafn": "Árni Tryggvason",
+      "starfsgrein": "leikari",
+      "ar": "1924"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldfjall gaus á Íslandi 19. janúar 1158?",
+      "svor": [
+        "Hekla",
+        "Katla",
+        "Askja",
+        "Snæfellsjökull"
+      ],
+      "rett": 0,
+      "skyring": "Hekla sá um flugeldasýninguna árið 1158, löngu áður en öryggisgleraugu komust í tísku."
+    },
+    {
+      "spurning": "Hvaða skráadeilivef lokaði bandaríska alríkislögreglan árið 2012?",
+      "svor": [
+        "Napster",
+        "Megaupload",
+        "Myspace",
+        "GeoCities"
+      ],
+      "rett": 1,
+      "skyring": "Megaupload var lokað og ótal niðurhalsstikur urðu skyndilega atvinnulausar."
+    },
+    {
+      "spurning": "Hvaða rithöfundur, fæddur 19. janúar 1809, er kunnur fyrir myrkar og dularfullar sögur?",
+      "svor": [
+        "Charles Dickens",
+        "Mark Twain",
+        "Edgar Allan Poe",
+        "Jules Verne"
+      ],
+      "rett": 2,
+      "skyring": "Edgar Allan Poe gerði drungann að listgrein og hrafninn að bókmenntastjörnu."
+    }
+  ],
+  "tonlistUSA": "Love Will Never Do (Without You) – Janet Jackson (1991)",
+  "tonlistUK": "I Want to Know What Love Is – Foreigner (1985)",
+  "bio": "Rocky (1976)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinnt kast af köldu og slæmu veðri, gjarnan með snjókomu eða éljum."
+  },
+  "vissir_thu": "Dolly Parton fæddist sama mánaðardag og Edgar Allan Poe, þótt líklega hafi fáir ruglað saman sveitasöngvum hennar og drungalegum hrafnakvæðum hans.",
+  "utvarpspistill": "Í dag, 19. janúar, rifjum við upp að Hekla gaus árið 1158 og Hótel Borg opnaði við Austurvöll árið 1930. Árið 1920 voru bandarísku borgararéttindasamtökin ACLU stofnuð og 2012 lokaði alríkislögreglan skráadeilivefnum Megaupload. Afmælisbörnin eru ekki af verri endanum: Edgar Allan Poe, Janis Joplin og Dolly Parton deila deginum. Þar mætast hrafnar, rokkrödd og glimmer — býsna gott teboð hjá sögunni.",
+  "stjornuspa": "Steinbukur, dagurinn kallar á yfirvegun, snyrtilega möppu og örlítið meira glimmer en venjulega. Ef einhver reynir að setja þig í umsátur skaltu bjóða kaffi og semja frið áður en Hekla í skapinu vaknar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/500px-Schlacht_von_Azincourt.jpg",
+    "ar": "1419",
+    "texti": "Hundred Years' War: The siege of Rouen ended with English troops capturing the city from Norman French forces.",
+    "heimild": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

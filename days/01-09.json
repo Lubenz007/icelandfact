@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-09",
+  "dagur": 9,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:08",
+  "sunset": "16:02",
+  "kvedja": "Góðan dag, kæri lesandi! Níundi janúar hefur séð allt frá Básendaflóðinu og fyrstu fjarreikistjörnunum til óperugleði í Gamla bíói. Haltu því fast í kaffibollann — sagan kann að hrista upp í deginum, en hún gerir það oftast með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1797",
+      "texti": "Umsátrinu um Kehl lauk þegar franskar hersveitir yfirgáfu virki sín fyrir liði Habsborgara og Württembergmanna. Þar með lauk einum kafla stríðs fyrsta bandalagsins, þótt Evrópa væri langt frá því að leggja sverðin á hilluna."
+    },
+    {
+      "ar": "1857",
+      "texti": "Öflugur jarðskjálfti, 7,9 að stærð, reif upp hluta San Andreas-sprungunnar í mið- og suðurhluta Kaliforníu. Jörðin minnti þar harkalega á að hún er ekki alltaf traust undir fótum."
+    },
+    {
+      "ar": "1917",
+      "texti": "Hersveitir breska heimsveldisins sigruðu lið Ottómanaveldisins í orrustunni við Rafa á mörkum Sínaí og Palestínu. Orrustan var liður í átökum fyrri heimsstyrjaldarinnar á þessum slóðum."
+    },
+    {
+      "ar": "1992",
+      "texti": "Útvarpsstjörnufræðingarnir Aleksander Wolszczan og Dale Frail tilkynntu um tvær reikistjörnur á braut um tifstjörnuna PSR B1257+12. Þetta var fyrsta staðfesta uppgötvun fjarreikistjarna — býsna stór dagur fyrir heim sem hélt sig lengi vera miðpunkt alls."
+    },
+    {
+      "ar": "2015",
+      "texti": "Mengaður bjór sem borinn var fram við jarðarför í Tete-héraði í Mósambík varð 75 manns að bana og veiktu að minnsta kosti 230 til viðbótar. Harmleikurinn breytti samverustund í eitt mannskæðasta eitrunarslys sinnar tegundar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1799",
+      "texti": "Básendaflóðið olli gríðarlegu tjóni um öll Suðurnes og verslunarstaðurinn Básendar á Miðnesi eyddist.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1964",
+      "texti": "Tunnuverksmiðjan á Siglufirði eyðilagðist í eldsvoða og 40 manns misstu atvinnuna.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1982",
+      "texti": "Íslenska óperan frumsýndi Sígaunabaróninn í Gamla bíói, sína fyrstu uppfærslu þar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1986",
+      "texti": "Hafliði Hallgrímsson hlaut tónskáldaverðlaun Norðurlandaráðs fyrir verkið Poemi.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Catherine, Princess of Wales",
+      "starfsgrein": "bresk prinsessa",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Crystal Gayle",
+      "starfsgrein": "bandarísk söngkona og lagahöfundur",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Dave Matthews",
+      "starfsgrein": "suðurafrísk-bandarískur söngvari og gítarleikari",
+      "ar": "1967"
+    },
+    {
+      "nafn": "AJ McLean",
+      "starfsgrein": "bandarískur söngvari og dansari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Gennaro Gattuso",
+      "starfsgrein": "ítalskur knattspyrnumaður og þjálfari",
+      "ar": "1978"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gunnþórunn Halldórsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1872"
+    },
+    {
+      "nafn": "Böðvar Guðmundsson",
+      "starfsgrein": "ljóðskáld",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Haukur Tómasson",
+      "starfsgrein": "tónskáld",
+      "ar": "1960"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða merkilegu uppgötvun tilkynntu Wolszczan og Frail árið 1992?",
+      "svor": [
+        "Fyrstu staðfestu fjarreikistjörnurnar",
+        "Fyrsta svartholið",
+        "Nýtt tungl Júpíters",
+        "Vatn á Mars"
+      ],
+      "rett": 0,
+      "skyring": "Þeir fundu tvær reikistjörnur á braut um tifstjörnu — kosmísk afmælisgjöf í stærri kantinum."
+    },
+    {
+      "spurning": "Hvaða byggð eyddist í Básendaflóðinu árið 1799?",
+      "svor": [
+        "Siglufjörður",
+        "Básendar",
+        "Stokkseyri",
+        "Grindavík"
+      ],
+      "rett": 1,
+      "skyring": "Básendar á Miðnesi tóku af í flóðinu og staðurinn byggðist ekki upp aftur."
+    },
+    {
+      "spurning": "Hvað hét fyrsta uppfærsla Íslensku óperunnar í Gamla bíói?",
+      "svor": [
+        "Töfraflautan",
+        "Rigoletto",
+        "Sígaunabaróninn",
+        "La traviata"
+      ],
+      "rett": 2,
+      "skyring": "Sígaunabaróninn reið á vaðið árið 1982, með söng í stað skeifnagnýs."
+    }
+  ],
+  "tonlistUSA": "Physical – Olivia Newton-John (1982)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Avatar (2010)",
+  "ord_dagsins": {
+    "ord": "árroði",
+    "skyring": "Rauðleit birta á himni við sólarupprás, eins konar morgunroði dagsins."
+  },
+  "vissir_thu": "Fyrstu staðfestu fjarreikistjörnurnar fundust á braut um tifstjörnu en ekki um stjörnu á borð við sólina.",
+  "utvarpspistill": "Í dag, 9. janúar, minnumst við þess að árið 1799 lagði Básendaflóðið verslunarstaðinn Básenda í rúst. Árið 1982 steig Íslenska óperan svo sín fyrstu skref í Gamla bíói með Sígaunabaróninum. Lengra úti í geimnum tilkynntu stjörnufræðingar árið 1992 um fyrstu staðfestu fjarreikistjörnurnar. Afmælisbörnin eru meðal annarra Catherine, Princess of Wales, Dave Matthews og Gennaro Gattuso — ágæt blanda af konunglegum brag, gítar og ítölskum baráttuanda.",
+  "stjornuspa": "Steinbukurinn finnur gamla verkefnalistann og strikar yfir atriði með þeirri festu sem sæmir skrifstofustjóra frá 1986. Varastu þó að skipuleggja gleðina um of — jafnvel metnaðarfullar geitur mega dansa við Bohemian Rhapsody.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/War_of_the_first_coalition.jpg/500px-War_of_the_first_coalition.jpg",
+    "ar": "1797",
+    "texti": "War of the First Coalition: The siege of Kehl by Habsburg and Württembergian forces ended when French troops withdrew from their fortifications.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_the_First_Coalition",
+    "breidd": 330,
+    "haed": 371
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

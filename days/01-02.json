@@ -1,0 +1,149 @@
+{
+  "mmdd": "01-02",
+  "dagur": 2,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:18",
+  "sunset": "15:45",
+  "kvedja": "Gleðilegan 2. janúar! Í dag flökkum við frá páfakjöri á sjöttu öld yfir í tunglferðir og íslensk sjávarflóð — enda kann sagan sjaldnast að sitja kyrr. Taktu daginn með ró Steinbuksins og örlitlu geimryki í augum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "533",
+      "texti": "Rómverski presturinn Mercurius var kjörinn páfi og tók sér nafnið Jóhannes 2. Hann er talinn fyrsti páfinn sem tók upp nýtt nafn við embættistökuna."
+    },
+    {
+      "ar": "1777",
+      "texti": "Í bandaríska frelsisstríðinu hrundu sveitir George Washington árás Breta við Assunpink Creek nærri Trenton í New Jersey."
+    },
+    {
+      "ar": "1959",
+      "texti": "Sovétríkin skutu Luna 1 á loft frá Baikonur. Geimfarið varð hið fyrsta til að komast í nágrenni tunglsins — dálítið eins og að missa af afrein en komast samt í sögubækurnar."
+    },
+    {
+      "ar": "1991",
+      "texti": "Sharon Pratt Dixon tók við embætti borgarstjóra Washington og varð fyrst bandarískra kvenna af afrískum uppruna til að gegna því embætti."
+    },
+    {
+      "ar": "2004",
+      "texti": "Geimkönnunarfarið Stardust flaug fram hjá halastjörnunni Wild 2 og safnaði ögnum úr hjúpi hennar. Sýnin voru síðar flutt til jarðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1653",
+      "texti": "Háeyrarflóðið olli miklu tjóni á Eyrarbakka og víðar við ströndina.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1887",
+      "texti": "Prentarafélagið var stofnað, fyrsta verkalýðsfélag Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1932",
+      "texti": "Í kreppunni hófu söfnuðir Reykjavíkur að bjóða ókeypis máltíðir í Franska spítalanum og fátæk heimili fengu jafnframt mjólkursendingar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2010",
+      "texti": "Krýsuvíkurkirkja brann til kaldra kola eftir íkveikju.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Cuba Gooding Jr.",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Christy Turlington",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Dax Shepard",
+      "starfsgrein": "leikari",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Kate Bosworth",
+      "starfsgrein": "leikkona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Kemi Badenoch",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1980"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björgólfur Guðmundsson",
+      "starfsgrein": "athafnamaður",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Jón Gnarr",
+      "starfsgrein": "gamanleikari og fyrrverandi borgarstjóri Reykjavíkur",
+      "ar": "1967"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar varð fyrst til að komast í nágrenni tunglsins?",
+      "svor": [
+        "Luna 1",
+        "Stardust",
+        "Mariner 9",
+        "Wild 2"
+      ],
+      "rett": 0,
+      "skyring": "Luna 1 þaut af stað árið 1959 og ruddi brautina, þótt tungllending væri ekki á dagskrá."
+    },
+    {
+      "spurning": "Hvað var Prentarafélagið, stofnað árið 1887?",
+      "svor": [
+        "Fyrsta dagblað Íslands",
+        "Fyrsta verkalýðsfélag Íslands",
+        "Fyrsta prentsmiðja landsins",
+        "Fyrsta bókasafn Reykjavíkur"
+      ],
+      "rett": 1,
+      "skyring": "Prentarafélagið var fyrsta verkalýðsfélag Íslands — stafirnir stóðu með sínu fólki."
+    },
+    {
+      "spurning": "Hvaða íslenski gamanleikari og fyrrverandi borgarstjóri á afmæli 2. janúar?",
+      "svor": [
+        "Dax Shepard",
+        "Björgólfur Guðmundsson",
+        "Jón Gnarr",
+        "Cuba Gooding Jr."
+      ],
+      "rett": 2,
+      "skyring": "Jón Gnarr fæddist árið 1967 og á því daginn með bæði páfa og geimförum."
+    }
+  ],
+  "tonlistUSA": "The Lion Sleeps Tonight – The Tokens (1962)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Star Wars: The Force Awakens (2015)",
+  "ord_dagsins": {
+    "ord": "hjarn",
+    "skyring": "Hjarn er harður eða frosinn snjór, gjarnan með þéttri skel á yfirborðinu."
+  },
+  "vissir_thu": "Mercurius páfi tók sér nafnið Jóhannes 2. og er talinn fyrsti páfinn sem skipti um nafn við embættistökuna.",
+  "utvarpspistill": "Í dag, 2. janúar, rifjum við upp að árið 533 varð Mercurius páfi og tók sér nafnið Jóhannes 2. Árið 1959 var Luna 1 skotið á loft og varð fyrsta geimfarið til að komast í nágrenni tunglsins. Hér heima minnumst við Háeyrarflóðsins 1653 og stofnunar Prentarafélagsins 1887. Svo á Jón Gnarr afmæli í dag — maður þarf greinilega bæði geimfar og góðan brandara til að koma janúar almennilega af stað.",
+  "stjornuspa": "Steinbukurinn skipuleggur árið eins og skrifstofustjóri með nýja möppu, en gamalt óafgreitt erindi gæti skotið upp kollinum. Haltu ró þinni, settu góða plötu á fóninn og mundu að jafnvel Luna 1 hitti ekki tunglið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1777",
+    "texti": "American Revolutionary War: American forces under the command of George Washington repulsed a British attack at the Battle of the Assunpink Creek near Trenton, New Jersey.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

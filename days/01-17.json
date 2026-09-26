@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-17",
+  "dagur": 17,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "10:51",
+  "sunset": "16:25",
+  "kvedja": "Komdu sæll, kæri lesandi! Þessi 17. janúar spannar allt frá heimkomu páfa og kapphlaupi á Suðurpólinn til Heklugoss og íslenskrar Wikipedia — enda kann sagan illa að sitja kyrr. Hafðu daginn hlýjan, jafnvel þótt Scott hafi ekki átt slíku láni að fagna.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1377",
+      "texti": "Gregoríus 11. páfi kom til Rómar eftir fjögurra mánaða ferð frá Avignon og flutti páfastólinn aftur til hinnar fornu heimaborgar hans."
+    },
+    {
+      "ar": "1773",
+      "texti": "Á öðru könnunarferðalagi James Cook varð HMS Resolution fyrsta skipið sem vitað er til að hafi siglt yfir suðurheimskautsbauginn."
+    },
+    {
+      "ar": "1912",
+      "texti": "Robert Falcon Scott og félagar náðu Suðurpólnum, aðeins til að komast að því að Roald Amundsen hafði orðið 33 dögum á undan þeim. Það eru líklega einhver verstu silfurverðlaun sögunnar."
+    },
+    {
+      "ar": "1961",
+      "texti": "Patrice Lumumba, fyrrverandi forsætisráðherra Kongó-Léopoldville, var myrtur við aðstæður sem bentu til stuðnings og hlutdeildar stjórnvalda í Belgíu og Bandaríkjunum."
+    },
+    {
+      "ar": "2002",
+      "texti": "Eldfjallið Nyiragongo í Lýðstjórnarlýðveldinu Kongó hóf eldgos sem varð hundruðum að bana og skildi um 120.000 íbúa Goma eftir heimilislausa."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1914",
+      "texti": "Eimskipafélag Íslands, hið svokallaða „óskabarn þjóðarinnar“, var stofnað í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1939",
+      "texti": "Fimmtíu útgerðarmenn komu saman í Varðarhúsinu í Reykjavík og stofnuðu Landssamband íslenskra útvegsmanna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Heklugos hófst, hið fjórða á 20. öld, og stóð í rúmar sjö vikur.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2013",
+      "texti": "Vilborg Arna Gissurardóttir náði Suðurpólnum eftir 1.140 kílómetra áheitagöngu til styrktar kvennadeild Landspítala Íslands. Gangan tók 60 daga.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Benjamin Franklin",
+      "starfsgrein": "útgefandi, uppfinningamaður og stjórnmálamaður",
+      "ar": "1706"
+    },
+    {
+      "nafn": "Betty White",
+      "starfsgrein": "leikkona og sjónvarpskona",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Dwyane Wade",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Calvin Harris",
+      "starfsgrein": "plötusnúður, lagahöfundur og tónlistarframleiðandi",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Enzo Fernández",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2001"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Davíð Oddsson",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi forsætisráðherra",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Sigurjón M. Egilsson",
+      "starfsgrein": "ritstjóri",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Tryggvi Þór Herbertsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1963"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað beið Scotts og félaga þegar þeir náðu Suðurpólnum árið 1912?",
+      "svor": [
+        "Fáni og ummerki eftir leiðangur Amundsens",
+        "Ókannað fjalllendi",
+        "Björgunarskip úr ís",
+        "Bréf frá James Cook"
+      ],
+      "rett": 0,
+      "skyring": "Amundsen hafði náð pólnum 33 dögum fyrr og skilið Scott eftir með napran staðreyndavottorð."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf gos 17. janúar 1991?",
+      "svor": [
+        "Katla",
+        "Askja",
+        "Hekla",
+        "Grímsvötn"
+      ],
+      "rett": 2,
+      "skyring": "Hekla hóf þá rúmlega sjö vikna gos, hið fjórða þar á 20. öld."
+    },
+    {
+      "spurning": "Hvert þessara afmælisbarna var bæði uppfinningamaður og stjórnmálamaður?",
+      "svor": [
+        "Calvin Harris",
+        "Benjamin Franklin",
+        "Dwyane Wade",
+        "Enzo Fernández"
+      ],
+      "rett": 1,
+      "skyring": "Benjamin Franklin bar óvenju marga hatta, þótt loðhúfa væri líklega ekki meðal helstu uppfinninga hans."
+    }
+  ],
+  "tonlistUSA": "(Just Like) Starting Over – John Lennon (1981)",
+  "tonlistUK": "Imagine – John Lennon (1981)",
+  "bio": "Titanic (1998)",
+  "ord_dagsins": {
+    "ord": "stiftamtmaður",
+    "skyring": "Stiftamtmaður var háttsettur embættismaður sem fór með umboð konungs og yfirstjórn stjórnsýslu á tilteknu svæði."
+  },
+  "vissir_thu": "Þegar HMS Resolution sigldi yfir suðurheimskautsbauginn árið 1773 varð skipið hið fyrsta sem vitað er til að hefði farið yfir hann.",
+  "utvarpspistill": "Í dag, 17. janúar, sigldi HMS Resolution fyrst skipa yfir suðurheimskautsbauginn árið 1773. Árið 1912 náði Robert Falcon Scott Suðurpólnum en fann þar ummerki um að Roald Amundsen hefði orðið 33 dögum á undan. Heima var Eimskipafélag Íslands stofnað árið 1914, Hekla hóf gos árið 1991 og Vilborg Arna náði Suðurpólnum 2013. Benjamin Franklin og Betty White eiga líka afmæli — sannarlega dagur bæði eldinga, eldgosa og ískalds kapphlaups.",
+  "stjornuspa": "Steinbukurinn ætti að halda sínu striki, jafnvel þótt einhver Amundsen virðist alltaf vera kominn á undan. Gamaldags þrautseigja, vel yddaður blýantur og kaffibolli koma þér lengra en nokkur töfralausn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Duke_of_Anjou_leading_Pope_Gregory_XI_to_the_palace_at_Avignon%2C_while_cardinals_follow_%28cropped%29.png",
+    "ar": "1377",
+    "texti": "Gregory XI, the last Avignon pope, entered Rome after a four-month journey from Avignon, returning the papacy to its original city.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Gregory_XI",
+    "breidd": 252,
+    "haed": 324
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

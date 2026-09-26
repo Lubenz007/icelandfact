@@ -1,0 +1,149 @@
+{
+  "mmdd": "01-14",
+  "dagur": 14,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "10:58",
+  "sunset": "16:16",
+  "kvedja": "Góðan 14. janúar! Í dag förum við frá falli ungverskrar konungsættar til Toscu í Róm og snjóflóða á Vestfjörðum — sagan ferðast greinilega án þess að pakka létt. Steinbukar mega halda sínu striki, en hinir ættu að hafa kort og nesti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1301",
+      "texti": "Andrés 3. Ungverjakonungur lést án karlkyns erfingja. Þar með lauk valdatíð Árpád-ættarinnar, sem hafði ráðið Ungverjalandi frá lokum 9. aldar."
+    },
+    {
+      "ar": "1641",
+      "texti": "Hollenskar hersveitir náðu virki Portúgala í Malakka eftir umsátur. Þar með lauk mikilvægum kafla í átökum Hollendinga og Portúgala um verslun og yfirráð í Asíu."
+    },
+    {
+      "ar": "1814",
+      "texti": "Svíþjóð og Danmörk–Noregur undirrituðu Kílarfriðinn. Danakonungur lét Noreg af hendi til Svía gegn sænskum yfirráðum í Pommern."
+    },
+    {
+      "ar": "1900",
+      "texti": "Ópera Giacomos Puccinis, Tosca, var frumflutt í Teatro Costanzi í Róm. Ástin, afbrýðin og pólitíkin fengu þar öll að syngja af fullum krafti."
+    },
+    {
+      "ar": "2011",
+      "texti": "Zine El Abidine Ben Ali, forseti Túnis, flúði land eftir fjölmenn og ofbeldisfull mótmæli. Brottför hans varð einn af lykilatburðum arabíska vorsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1982",
+      "texti": "Stórviðri gekk yfir Austurland og rúður brotnuðu í flestum húsum á Borgarfirði eystra.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1992",
+      "texti": "Janúarhitamet var sett á Dalatanga þegar hitinn mældist 18,8 °C — næstum því sumarfrí, að minnsta kosti á hitamælinum.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "2013",
+      "texti": "Fyrsta rammaáætlun Íslands var samþykkt á Alþingi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2020",
+      "texti": "Þrjú mjög stór snjóflóð féllu á Vestfjörðum rétt fyrir miðnætti, tvö á Flateyri og eitt á Suðureyri. Mikið eignatjón varð en engin alvarleg slys á fólki.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Dave Grohl",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Holland Taylor",
+      "starfsgrein": "leikkona og leikskáld",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Faye Dunaway",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Carl Weathers",
+      "starfsgrein": "leikari og íþróttamaður",
+      "ar": "1948"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hannes Bjarnason",
+      "starfsgrein": "prestur og skáld",
+      "ar": "1777"
+    },
+    {
+      "nafn": "Rúrik Haraldsson",
+      "starfsgrein": "leikari",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Teitur Þórðarson",
+      "starfsgrein": "knattspyrnustjóri",
+      "ar": "1952"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ópera Puccinis var frumflutt í Róm 14. janúar 1900?",
+      "svor": [
+        "Tosca",
+        "Aida",
+        "Carmen",
+        "Rigoletto"
+      ],
+      "rett": 0,
+      "skyring": "Tosca steig þá fyrst á svið og gerði það með hæfilega miklu drama."
+    },
+    {
+      "spurning": "Hvar féllu tvö af þremur stóru snjóflóðunum á Vestfjörðum árið 2020?",
+      "svor": [
+        "Patreksfirði",
+        "Flateyri",
+        "Bolungarvík",
+        "Þingeyri"
+      ],
+      "rett": 1,
+      "skyring": "Tvö flóð féllu á Flateyri en það þriðja á Suðureyri."
+    },
+    {
+      "spurning": "Hvaða tónlistarmaður, fæddur 14. janúar 1969, er í afmælishópnum?",
+      "svor": [
+        "Bono",
+        "Dave Grohl",
+        "Sting",
+        "Bruce Springsteen"
+      ],
+      "rett": 1,
+      "skyring": "Dave Grohl á afmæli og fær því leyfi til að tromma aðeins hærra."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Pipes of Peace – Paul McCartney (1984)",
+  "bio": "Avatar (2010)",
+  "ord_dagsins": {
+    "ord": "útsynningur",
+    "skyring": "Útsynningur er hvass vindur eða stormur úr suðvestri, oft með éljagangi."
+  },
+  "vissir_thu": "Árpád-ættin, sem dó út í karllegg við andlát Andrésar 3. árið 1301, hafði ráðið Ungverjalandi frá lokum 9. aldar.",
+  "utvarpspistill": "Í dag, 14. janúar, lauk valdatíð Árpád-ættarinnar í Ungverjalandi árið 1301, Kílarfriðurinn var undirritaður 1814 og Tosca eftir Puccini steig fyrst á svið í Róm árið 1900. Heima minnumst við stórviðris á Austurlandi 1982 og snjóflóðanna á Flateyri og Suðureyri 2020, sem ollu miklu tjóni en engum alvarlegum slysum. Og Dave Grohl á afmæli — svo það má slá taktinn aðeins fastar í dag.",
+  "stjornuspa": "Steinbukurinn finnur gamla minnismiða í vasa og uppgötvar að fortíðin hefur enn eitt erindi ólokið. Haltu áætluninni, en leyfðu þér smá Toscu-dramatík yfir kaffinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Andrew_III_%28Chronica_Hungarorum%29.jpg/500px-Andrew_III_%28Chronica_Hungarorum%29.jpg",
+    "ar": "1301",
+    "texti": "King Andrew III died without any male heirs, ending the Árpád dynasty, which had ruled Hungary since the late 9th century.",
+    "heimild": "https://en.wikipedia.org/wiki/Andrew_III_of_Hungary",
+    "breidd": 330,
+    "haed": 395
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

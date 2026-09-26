@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-11",
+  "dagur": 11,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:04",
+  "sunset": "16:07",
+  "kvedja": "Komdu sæll, kæri lesandi, og taktu 11. janúar fagnandi. Dagurinn býður upp á tungl við Úranus, bjarndýr í Núpasveit og fæðingardag Alexanders Hamiltons — svo sagan er greinilega ekkert sérstaklega gefin fyrir rólega þriðjudaga.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1055",
+      "texti": "Theodóra Porfyrogenita varð einráð yfir Býsansríkinu eftir lát Konstantínusar 9. Monomachos, mágs síns. Hún var þá komin vel á sjötugsaldur og sýndi að keisarastólar hafa enga fasta eftirlaunareglu."
+    },
+    {
+      "ar": "1693",
+      "texti": "Öflugasti jarðskjálfti sem skráður hefur verið á Ítalíu reið yfir Sikiley. Um 60.000 manns létust og í kjölfarið hófst mikil endurreisn í byggingarlist eyjarinnar."
+    },
+    {
+      "ar": "1787",
+      "texti": "Stjörnufræðingurinn William Herschel uppgötvaði tvö tungl Úranusar. Sonur hans John gaf þeim síðar nöfnin Oberon og Titania, sótt í ævintýraveröld Shakespeares."
+    },
+    {
+      "ar": "1927",
+      "texti": "Kvikmyndafurstinn Louis B. Mayer bauð 36 áhrifamönnum úr kvikmyndaiðnaðinum til veislu og kynnti hugmyndina að samtökum sem urðu að bandarísku kvikmyndaakademíunni. Óskarsverðlaunin voru sem sagt að byrja að stilla sér upp á rauða dreglinum."
+    },
+    {
+      "ar": "1964",
+      "texti": "Bandaríski landlæknirinn Luther Terry birti tímamótaskýrslu þar sem reykingar voru tengdar með orsakasambandi við lungnakrabbamein, langvinna berkjubólgu og fleiri sjúkdóma. Tóbaksreykurinn varð þar með mun erfiðari að fela á bak við auglýsingaský."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1897",
+      "texti": "Leikfélag Reykjavíkur var stofnað og lagði þar með grunn að langri og litríkri leikhússögu í höfuðborginni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1918",
+      "texti": "Bjarndýr gekk á land í Núpasveit og fjölmörg önnur fylgdu í kjölfarið þennan vetur. Frostaveturinn mikli hafði greinilega útvegað þeim óvenju greiða norðurleið.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1987",
+      "texti": "Lítil flugvél fórst við Arnarnes við mynni Skutulsfjarðar í Ísafjarðardjúpi og einn maður lést.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1993",
+      "texti": "Lægð sem mældist aðeins 910–920 millibör gekk norður með Austurlandi. Hún var talin dýpsta lægð sem vitað var um yfir Norður-Atlantshafi.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexander Hamilton",
+      "starfsgrein": "stjórnmálamaður og hagfræðingur",
+      "ar": "1755"
+    },
+    {
+      "nafn": "Carroll Shelby",
+      "starfsgrein": "kappakstursmaður og bílahönnuður",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Clarence Clemons",
+      "starfsgrein": "saxófónleikari og leikari",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Dani Carvajal",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Cody Simpson",
+      "starfsgrein": "söngvari, lagahöfundur og leikari",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Steinþór Sigurðsson",
+      "starfsgrein": "náttúrufræðingur",
+      "ar": "1904"
+    },
+    {
+      "nafn": "Guðmundur Georgsson",
+      "starfsgrein": "læknir og friðarsinni",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Örn Steinsen",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1940"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tvö tungl Úranusar uppgötvaði William Herschel árið 1787?",
+      "svor": [
+        "Oberon og Titania",
+        "Fóbos og Deimos",
+        "Íó og Evrópa",
+        "Mímas og Enceladus"
+      ],
+      "rett": 0,
+      "skyring": "Oberon og Titania fundust í sjónauka Herschels, löngu áður en geimför fóru að flækjast um hverfið."
+    },
+    {
+      "spurning": "Hvaða félag var stofnað í Reykjavík 11. janúar 1897?",
+      "svor": [
+        "Knattspyrnufélag Reykjavíkur",
+        "Leikfélag Reykjavíkur",
+        "Slysavarnafélag Íslands",
+        "Ferðafélag Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Leikfélag Reykjavíkur steig þá fyrst fram á sviðið — í bókstaflegri og sögulegri merkingu."
+    },
+    {
+      "spurning": "Hvaða frægi stjórnmálamaður og hagfræðingur fæddist 11. janúar 1755?",
+      "svor": [
+        "John A. Macdonald",
+        "Alexander Hamilton",
+        "Thomas Jefferson",
+        "Enver Hoxha"
+      ],
+      "rett": 1,
+      "skyring": "Alexander Hamilton fæddist þennan dag og varð síðar fyrsti fjármálaráðherra Bandaríkjanna."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Frozen (2014)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinn lota af köldu og slæmu veðri, gjarnan með snjókomu eða slyddu."
+  },
+  "vissir_thu": "Tunglin Oberon og Titania eru nefnd eftir persónum úr verkum Williams Shakespeare.",
+  "utvarpspistill": "Í dag, 11. janúar, minnumst við þess að William Herschel uppgötvaði tunglin Oberon og Titaniu árið 1787. Á Íslandi var Leikfélag Reykjavíkur stofnað árið 1897 og árið 1918 gekk bjarndýr á land í Núpasveit — óvenjulega loðinn vetrargestur. Alexander Hamilton fæddist líka þennan dag árið 1755. Þetta er því prýðilegur dagur fyrir stjörnuskoðun, leikhús og fjármál, en kannski rétt að líta út um gluggann áður en maður fer í göngutúr.",
+  "stjornuspa": "Steinbukurinn finnur gamalt skipulag úr skrifborðsskúffu og uppgötvar að það virkar enn betur en nýjasta appið. Haltu þínu striki, en mundu að jafnvel metnaðarfull fjallageit má staldra við og horfa á tunglin.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Golden_seal_of_Empress_Theodora.png/500px-Golden_seal_of_Empress_Theodora.png",
+    "ar": "1055",
+    "texti": "Theodora Porphyrogenita became the sole ruler of the Byzantine Empire after the death of her brother-in-law Constantine IX Monomachos.",
+    "heimild": "https://en.wikipedia.org/wiki/Theodora_Porphyrogenita",
+    "breidd": 330,
+    "haed": 306
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-06",
+  "dagur": 6,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:13",
+  "sunset": "15:54",
+  "kvedja": "Gleðilegan 6. janúar! Í dag krýnum við konunga, opnum Montessori-skóla og minnumst þess að fyrsti grímudansleikur Reykjavíkur þótti hin besta skemmtun — sem eru býsna góð meðmæli eftir rúma öld. Haltu nú virðulegum Steinbukasvip, en ekki svo virðulegum að þú megir ekki brosa.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1066",
+      "texti": "Haraldur Guðinason var krýndur konungur Englands. Hann varð síðasti engilsaxneski konungurinn áður en Normannar tóku völdin síðar sama ár."
+    },
+    {
+      "ar": "1540",
+      "texti": "Hinrik 8. Englandskonungur gekk að eiga Önnu af Cleves, fjórðu eiginkonu sína. Hjónabandið var ógilt aðeins sex mánuðum síðar — stutt stopp í afar viðburðaríkri hjónabandssögu konungs."
+    },
+    {
+      "ar": "1907",
+      "texti": "Maria Montessori opnaði sinn fyrsta skóla og dagheimili fyrir börn verkafólks í Róm. Þar beitti hún menntastefnu sem síðar var kennd við hana og breiddist um heiminn."
+    },
+    {
+      "ar": "1941",
+      "texti": "Franklin D. Roosevelt Bandaríkjaforseti setti fram frelsin fjögur í stefnuræðu sinni: málfrelsi, trúfrelsi, frelsi frá skorti og frelsi frá ótta."
+    },
+    {
+      "ar": "2021",
+      "texti": "Stuðningsmenn Donalds Trump réðust inn í þinghús Bandaríkjanna til að hindra staðfestingu forsetakosninganna 2020. Fimm létust og flytja þurfti Bandaríkjaþing á brott."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1902",
+      "texti": "Fyrsti grímudansleikurinn í Reykjavík var haldinn og þótti góð skemmtun. Höfuðborgarbúar hafa greinilega snemma kunnað að bregða sér í dulargervi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1947",
+      "texti": "Enski togarinn Lois strandaði á Hraunsfjörum austan Grindavíkur. Björgunarsveitin Þorbjörn bjargaði 15 skipverjum með fluglínutækjum, en skipstjórinn fórst.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1965",
+      "texti": "Neðansjávargosinu í Surtlu, norðaustan við Surtsey, lauk.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1986",
+      "texti": "Verslunarskóli Íslands flutti úr miðborg Reykjavíkur í nýtt húsnæði við Ofanleiti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Jóhanna af Örk",
+      "starfsgrein": "frönsk þjóðhetja og dýrlingur",
+      "ar": "1412"
+    },
+    {
+      "nafn": "Alan Watts",
+      "starfsgrein": "heimspekingur og rithöfundur",
+      "ar": "1915"
+    },
+    {
+      "nafn": "A. R. Rahman",
+      "starfsgrein": "tónskáld og tónlistarframleiðandi",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Alex Turner",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Andy Carroll",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1989"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guttormur Pálsson",
+      "starfsgrein": "prestur",
+      "ar": "1775"
+    },
+    {
+      "nafn": "Tómas Guðmundsson",
+      "starfsgrein": "skáld",
+      "ar": "1901"
+    },
+    {
+      "nafn": "Vilhjálmur Árnason",
+      "starfsgrein": "heimspekingur og prófessor",
+      "ar": "1953"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða konungur kvæntist Önnu af Cleves árið 1540?",
+      "svor": [
+        "Hinrik 8.",
+        "Haraldur Guðinason",
+        "Ríkharður 2.",
+        "Konstantín 11."
+      ],
+      "rett": 0,
+      "skyring": "Hinrik 8. gekk að eiga Önnu, en hjónabandið entist aðeins í sex mánuði."
+    },
+    {
+      "spurning": "Hvar var fyrsti grímudansleikurinn á Íslandi haldinn árið 1902?",
+      "svor": [
+        "Á Akureyri",
+        "Í Reykjavík",
+        "Í Grindavík",
+        "Í Vestmannaeyjum"
+      ],
+      "rett": 1,
+      "skyring": "Reykvíkingar settu upp grímurnar árið 1902 og skemmtu sér samkvæmt heimildum prýðilega."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er söngvari Arctic Monkeys?",
+      "svor": [
+        "A. R. Rahman",
+        "Andy Carroll",
+        "Alex Turner",
+        "Alan Watts"
+      ],
+      "rett": 2,
+      "skyring": "Alex Turner fæddist árið 1986 og varð síðar söngvari og lagahöfundur Arctic Monkeys."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Avatar (2009)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er stutt tímabil með hvössu og köldu óveðri, gjarnan með snjókomu."
+  },
+  "vissir_thu": "Guttormur Pálsson, fæddur þennan dag árið 1775, er talinn elsti Íslendingurinn sem til er ljósmynd af.",
+  "utvarpspistill": "Í dag, 6. janúar, var Haraldur Guðinason krýndur konungur Englands árið 1066, en valdatíðin varð styttri en hann hefði líklega kosið. Maria Montessori opnaði fyrsta skólann sinn í Róm árið 1907 og Roosevelt kynnti frelsin fjögur árið 1941. Hér heima var fyrsti grímudansleikur Reykjavíkur haldinn 1902, og árið 1947 bjargaði Þorbjörn 15 mönnum úr strönduðum togara. Afmælisbörnin eru meðal annarra Jóhanna af Örk, Tómas Guðmundsson og Alex Turner — býsna fjölbreytt veisluborð!",
+  "stjornuspa": "Steinbukurinn finnur gamla dagbók, gleymda kvittun eða hugmynd sem á skilið annað tækifæri. Haltu um stjórnartaumana, en mundu að jafnvel virðulegustu geitur mega stíga eitt dansspor á grímuballi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bayeux_tapestry_stitches_detail..jpg/500px-Bayeux_tapestry_stitches_detail..jpg",
+    "ar": "1066",
+    "texti": "Harold Godwinson, the last Anglo-Saxon monarch before the Norman Conquest, was crowned King of England.",
+    "heimild": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "breidd": 330,
+    "haed": 278
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

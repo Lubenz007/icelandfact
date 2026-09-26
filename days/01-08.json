@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-08",
+  "dagur": 8,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:10",
+  "sunset": "15:59",
+  "kvedja": "Góðan dag og gleðilegan 8. janúar! Í dag hittum við páfa, gatakort, frumkvöðla og íslenskt fannfergi sem hefði auðveldlega gleypt hálfan Steinbuk. Haltu fast í húfuna og njóttu ferðalagsins um tímann með mér.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1198",
+      "texti": "Lotario dei Conti var kjörinn páfi og tók sér nafnið Innocentius 3. Hann beitti sér síðar fyrir því að efla á ný völd páfastólsins í Róm."
+    },
+    {
+      "ar": "1697",
+      "texti": "Skoski námsmaðurinn Thomas Aikenhead var tekinn af lífi fyrir guðlast. Hann varð síðasti maðurinn í Bretlandi sem hlaut dauðadóm fyrir slíkt brot."
+    },
+    {
+      "ar": "1889",
+      "texti": "Bandaríski tölfræðingurinn Herman Hollerith fékk einkaleyfi á rafvélrænni gatakortavél til gagnavinnslu. Hún var eins konar langalangafi tölvutækninnar, þótt hún kæmist tæpast fyrir í fartölvutösku."
+    },
+    {
+      "ar": "1918",
+      "texti": "Woodrow Wilson Bandaríkjaforseti kynnti hin fjórtán stefnumið sín um frið og skipan Evrópu að lokinni fyrri heimsstyrjöld. Hugmyndirnar settu mark sitt á friðarumræðuna, þótt veruleikinn yrði öllu stirðari."
+    },
+    {
+      "ar": "1981",
+      "texti": "Bóndi í Trans-en-Provence í Frakklandi tilkynnti um dularfulla fljúgandi furðuhlutssýn. Málið hefur verið kallað eitt hið ítarlegasta og vandlegast skráða sinnar tegundar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1686",
+      "texti": "Á Suðurnesjum snjóaði svo mikið á aðeins tveimur dögum að snjórinn náði meðalmanni í mitti, samkvæmt Kjósarannál.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1863",
+      "texti": "Forngripasafnið var stofnað eftir að Helgi Sigurðsson gaf fimmtán forngripi. Þar var lagður mikilvægur grunnur að varðveislu íslenskra þjóðminja.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1895",
+      "texti": "Framsókn, fyrsta kvennablað Íslands, hóf göngu sína á Seyðisfirði. Blaðið kom út til ársloka 1903.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1964",
+      "texti": "Handknattleikskonan Sigríður Sigurðardóttir varð fyrsta konan sem kjörin var íþróttamaður ársins á Íslandi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Cynthia Erivo",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Damiano David",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Carolina Herrera",
+      "starfsgrein": "fatahönnuður",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Alfred Russel Wallace",
+      "starfsgrein": "náttúrufræðingur og landkönnuður",
+      "ar": "1823"
+    },
+    {
+      "nafn": "Carl Rogers",
+      "starfsgrein": "sálfræðingur",
+      "ar": "1902"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðrún Lárusdóttir",
+      "starfsgrein": "rithöfundur og stjórnmálamaður",
+      "ar": "1880"
+    },
+    {
+      "nafn": "Sigurður Þórarinsson",
+      "starfsgrein": "náttúrufræðingur",
+      "ar": "1912"
+    },
+    {
+      "nafn": "Þorgrímur Þráinsson",
+      "starfsgrein": "rithöfundur og fyrrverandi knattspyrnumaður",
+      "ar": "1959"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tækni fékk Herman Hollerith einkaleyfi á árið 1889?",
+      "svor": [
+        "Rafvélrænni gatakortavél",
+        "Þráðlausum síma",
+        "Rafmagnsritvél",
+        "Kvikmyndatökuvél"
+      ],
+      "rett": 0,
+      "skyring": "Gatakortavélin vann úr gögnum löngu áður en töflureiknirinn varð skrifstofufélagi okkar."
+    },
+    {
+      "spurning": "Hvar hóf fyrsta kvennablað Íslands göngu sína árið 1895?",
+      "svor": [
+        "Í Reykjavík",
+        "Á Akureyri",
+        "Á Seyðisfirði",
+        "Í Stykkishólmi"
+      ],
+      "rett": 2,
+      "skyring": "Framsókn kom út á Seyðisfirði og Austfirðir fengu þar með merkilegan sess í íslenskri fjölmiðlasögu."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var sálfræðingur?",
+      "svor": [
+        "Damiano David",
+        "Carl Rogers",
+        "Alfred Russel Wallace",
+        "Carolina Herrera"
+      ],
+      "rett": 1,
+      "skyring": "Carl Rogers var sálfræðingur; hin hefðu líklega boðið upp á talsvert öðruvísi meðferðartíma."
+    }
+  ],
+  "tonlistUSA": "Physical – Olivia Newton-John (1982)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "fannfergi",
+    "skyring": "Fannfergi merkir mikinn og þungan snjó sem safnast hefur fyrir."
+  },
+  "vissir_thu": "Alfred Russel Wallace mótaði sjálfstætt hugmyndina um þróun með náttúruvali, á svipuðum tíma og Charles Darwin.",
+  "utvarpspistill": "Í dag, 8. janúar, var Lotario dei Conti kjörinn Innocentius páfi þriðji árið 1198. Árið 1889 fékk Herman Hollerith einkaleyfi á gatakortavél sinni, forföður nútímalegrar gagnavinnslu. Hér heima var Forngripasafnið stofnað 1863 og fyrsta kvennablað Íslands, Framsókn, hóf göngu sína á Seyðisfirði 1895. Afmælisbörnin eru meðal annars Cynthia Erivo, Damiano David og Sigurður Þórarinsson. Sagan er greinilega með fullt gatakort af tilefnum í dag!",
+  "stjornuspa": "Steinbukurinn finnur gamalt verkefni í skúffu og klárar það af þeirri festu sem áður var frátekin fyrir gatakort og embættisskjöl. Varastu þó að verða svo alvarlegur að jafnvel páfinn biðji þig að létta stemninguna.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg/500px-Pope_Innocent_III_%28Monastery_of_Subiaco%29.jpg",
+    "ar": "1198",
+    "texti": "Lotario dei Conti was elected as Pope Innocent III; he later worked to restore papal power in Rome.",
+    "heimild": "https://en.wikipedia.org/wiki/1198_papal_election",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,154 @@
+{
+  "mmdd": "01-13",
+  "dagur": 13,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:00",
+  "sunset": "16:13",
+  "kvedja": "Góðan 13. janúar! Dagurinn býður okkur í ferð frá páfabréfi 15. aldar til tónleika Johnny Cash í fangelsi og jarðskjálfta við Kópasker. Haltu fast í kaffibollann — sagan kann að hrista upp í manni.",
+  "nafnadagur": "Knútur",
+  "atburdir": [
+    {
+      "ar": "1435",
+      "texti": "Eugeníus 4. páfi gaf út páfabréfið Sicut dudum, sem bannaði Spánverjum að hneppa frumbyggja Gúancha á Kanaríeyjum í þrældóm."
+    },
+    {
+      "ar": "1842",
+      "texti": "William Brydon, aðstoðarlæknir í breska hernum, komst til Jalalabad eftir hörmulegan undanhaldssprett frá Kabúl. Hann var eini Evrópumaðurinn úr um 14.000 manna hópi sem hvorki var tekinn höndum né drepinn."
+    },
+    {
+      "ar": "1916",
+      "texti": "Fyrsta femínistaþing Yucatán hófst í Mérida í Mexíkó, þar sem fulltrúar ræddu umbætur á félagslegum, menntunarlegum og lagalegum réttindum kvenna."
+    },
+    {
+      "ar": "1968",
+      "texti": "Johnny Cash tók upp tímamótaplötuna At Folsom Prison á tónleikum í Folsom-ríkisfangelsinu í Kaliforníu. Þar mættust kántrítónlist og fangelsisveggir með óvenju eftirminnilegum hætti."
+    },
+    {
+      "ar": "2012",
+      "texti": "Ítalska skemmtiferðaskipið Costa Concordia strandaði á rifi og lagðist á hlið undan eyjunni Giglio við Toskana."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1229",
+      "texti": "Í Sauðafellsför réðust synir Þorvalds Vatnsfirðings til atlögu; fimm voru drepnir og tólf særðir. Sturlungaöldin var sjaldnast róleg við kaffiborðið.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1923",
+      "texti": "Fárviðri braut 50–60 metra skarð í Örfiriseyjargarð, aðalhafnargarð Reykjavíkur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1949",
+      "texti": "Kvikmynd Lofts Guðmundssonar, Milli fjalls og fjöru, var frumsýnd. Hún var fyrsta íslenska litmyndin með tali og í fullri lengd.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1976",
+      "texti": "Jarðskjálfti af stærðinni 6,5 varð í grennd við Kópasker og olli miklu tjóni.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Gwen Verdon",
+      "starfsgrein": "leikkona og dansari",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Eric Betzig",
+      "starfsgrein": "eðlis- og efnafræðingur",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Bill Bailey",
+      "starfsgrein": "tónlistarmaður og grínisti",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Andrew Yang",
+      "starfsgrein": "frumkvöðull og stjórnmálamaður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Connor McDavid",
+      "starfsgrein": "íshokkímaður",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sigvaldi Kaldalóns",
+      "starfsgrein": "tónskáld",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Hannibal Valdimarsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1903"
+    },
+    {
+      "nafn": "Aníta Hinriksdóttir",
+      "starfsgrein": "frjálsíþróttakona",
+      "ar": "1996"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar tók Johnny Cash upp tímamótaplötuna At Folsom Prison?",
+      "svor": [
+        "Í Folsom-ríkisfangelsinu",
+        "Í Hvíta húsinu",
+        "Á Wembley-leikvanginum",
+        "Í Örfirisey"
+      ],
+      "rett": 0,
+      "skyring": "Cash lék fyrir fanga í Folsom og úr varð ein frægasta tónleikaplata sögunnar."
+    },
+    {
+      "spurning": "Hvaða íslenski bær varð fyrir miklum jarðskjálfta árið 1976?",
+      "svor": [
+        "Vík",
+        "Kópasker",
+        "Stykkishólmur",
+        "Keflavík"
+      ],
+      "rett": 1,
+      "skyring": "Skjálftinn varð í grennd við Kópasker og mældist 6,5 að stærð."
+    },
+    {
+      "spurning": "Hvaða íþrótt stundar afmælisbarnið Connor McDavid?",
+      "svor": [
+        "Tennis",
+        "Körfuknattleik",
+        "Íshokkí",
+        "Hjólreiðar"
+      ],
+      "rett": 2,
+      "skyring": "Connor McDavid er kanadískur íshokkímaður — skautarnir fylgja líklega ekki afmæliskökunni."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "Bohemian Rhapsody / These Are the Days of Our Lives – Queen (1992)",
+  "bio": "Titanic (1998)",
+  "ord_dagsins": {
+    "ord": "fárviðri",
+    "skyring": "Fárviðri er ákaflega vont og hættulegt veður, oft með miklum vindi."
+  },
+  "vissir_thu": "Platan At Folsom Prison var tekin upp á lifandi tónleikum Johnny Cash inni í Folsom-ríkisfangelsinu í Kaliforníu.",
+  "utvarpspistill": "Í dag, 13. janúar, gaf Eugeníus páfi fjórði árið 1435 út bann við því að frumbyggjar Gúancha yrðu hnepptir í þrældóm. Árið 1916 hófst fyrsta femínistaþing Yucatán og 1968 steig Johnny Cash á svið í Folsom-fangelsinu og tók upp tímamótaplötu. Hér heima braut fárviðri skarð í Örfiriseyjargarð árið 1923 og Kópaskersskjálftinn olli miklu tjóni 1976. Sagan rokkaði því, skók og blés — allt á sama dagatalssíðunni.",
+  "stjornuspa": "Steinbukurinn finnur gamlan verkefnalista og afgreiðir hann af þeirri festu sem hæfir skrifstofustjóra frá 1976. Varastu þó að stjórna kaffivélinni eins og herforingi; hún man hver gleymdi að fylla á vatnið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Domenico_di_Bartolo%2C_madonna_della_misericordia%2C_1444%2C_06%28cropped%29.jpg/500px-Domenico_di_Bartolo%2C_madonna_della_misericordia%2C_1444%2C_06%28cropped%29.jpg",
+    "ar": "1435",
+    "texti": "Pope Eugene IV promulgated the papal bull Sicut dudum, forbidding the enslavement of the native Guanche of the Canary Islands by the Spanish.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Eugene_IV",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

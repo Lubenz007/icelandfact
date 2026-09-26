@@ -1,0 +1,149 @@
+{
+  "mmdd": "01-03",
+  "dagur": 3,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:17",
+  "sunset": "15:47",
+  "kvedja": "Góðan og gleðilegan 3. janúar! Í dag mætast rómversk fórnarskylda, lútersk þrjóska, íslenskar byssur og Bitcoin í einum sögulegum grautarpotti — og merkilegt nokk brennur hann ekki við. Njóttu dagsins með Steinbukslegri staðfestu og örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "250",
+      "texti": "Decius Rómarkeisari fyrirskipaði að nær allir íbúar ríkisins skyldu færa rómversku guðunum fórn. Fyrirskipunin leiddi til víðtækra ofsókna gegn kristnu fólki."
+    },
+    {
+      "ar": "1521",
+      "texti": "Leó X páfi bannfærði Marteinn Lúther eftir að hann neitaði að draga til baka 41 atriði sem kirkjan taldi villukennd. Þar með varð deilan heldur formlegri en venjulegt rifrildi við kirkjudyrnar."
+    },
+    {
+      "ar": "1777",
+      "texti": "Her George Washington vann sigur á breskum sveitum í orrustunni við Princeton í bandaríska frelsisstríðinu. Sigurinn styrkti stöðu byltingarmanna á viðkvæmu augnabliki."
+    },
+    {
+      "ar": "1938",
+      "texti": "Bandarísku heilbrigðissamtökin March of Dimes voru stofnuð til að afla fjár til rannsókna á mænusótt. Smápeningar almennings urðu þannig að stórvopni í baráttunni við sjúkdóminn."
+    },
+    {
+      "ar": "2009",
+      "texti": "Bitcoin-netið varð til þegar Satoshi Nakamoto gróf fyrsta blokk keðjunnar. Þarna hófst saga rafmyntar sem síðar átti eftir að koma bæði tölvunördum og kaffistofuspjalli á yfirsnúning."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1483",
+      "texti": "Byssum var beitt í bardaga á Íslandi í fyrsta sinn svo vitað sé þegar menn Andrésar Guðmundssonar skutu á Þorleif Björnsson hirðstjóra og menn hans við virki á Reykhólum. Einn maður féll.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1597",
+      "texti": "Heklugos hófst og sáust margir eldar uppi samtímis. Fjallið minnti landsmenn enn og aftur á að það kann að gera stórbrotna innkomu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1888",
+      "texti": "Kristín Bjarnadóttir frá Esjubergi varð fyrst íslenskra kvenna til að neyta atkvæðisréttar síns þegar hún kaus í bæjarstjórnarkosningum í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2000",
+      "texti": "Sjónvarpsþátturinn Kastljós hóf göngu sína í Ríkissjónvarpinu og tók að beina kastljósinu að fréttum, fólki og þjóðmálum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Florence Pugh",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Greta Thunberg",
+      "starfsgrein": "sænskur umhverfisaðgerðasinni",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Jisoo",
+      "starfsgrein": "suðurkóresk söngkona og leikkona",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Clement Attlee",
+      "starfsgrein": "breskur stjórnmálamaður og forsætisráðherra",
+      "ar": "1883"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðmundur G. Bárðarson",
+      "starfsgrein": "náttúrufræðingur",
+      "ar": "1880"
+    },
+    {
+      "nafn": "Matthías Johannessen",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Vilhelm Anton Jónsson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1978"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað gerðist þegar Satoshi Nakamoto gróf fyrstu blokkina árið 2009?",
+      "svor": [
+        "Bitcoin-netið varð til",
+        "Kastljós hóf göngu sína",
+        "March of Dimes var stofnað",
+        "Hekla tók að gjósa"
+      ],
+      "rett": 0,
+      "skyring": "Fyrsta blokkin markaði upphaf Bitcoin-netsins — stafrænn afmælisdagur með engri tertu."
+    },
+    {
+      "spurning": "Hvar var byssum fyrst beitt í bardaga á Íslandi svo vitað sé?",
+      "svor": [
+        "Á Þingvöllum",
+        "Á Reykhólum",
+        "Við Heklu",
+        "Á Esjubergi"
+      ],
+      "rett": 1,
+      "skyring": "Skothvellirnir heyrðust á Reykhólum árið 1483, löngu áður en vestrar urðu að kvikmyndagrein."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var rómverskur heimspekingur og stjórnmálamaður?",
+      "svor": [
+        "Clement Attlee",
+        "Vilhelm Anton Jónsson",
+        "Cíceró",
+        "Greta Thunberg"
+      ],
+      "rett": 2,
+      "skyring": "Cíceró var mælskumaður Rómar og hefði líklega kunnað vel við góðan útvarpspistil."
+    }
+  ],
+  "tonlistUSA": "We Found Love – Rihanna featuring Calvin Harris (2012)",
+  "tonlistUK": "Don't You Want Me – The Human League (1982)",
+  "bio": "The Lord of the Rings: The Return of the King (2003)",
+  "ord_dagsins": {
+    "ord": "janúarþeyr",
+    "skyring": "Janúarþeyr er hlýindakafli eða þíða sem gerir vart við sig í janúar."
+  },
+  "vissir_thu": "March of Dimes var upphaflega stofnað undir nafninu National Foundation for Infantile Paralysis til að styðja rannsóknir á mænusótt.",
+  "utvarpspistill": "Í dag, 3. janúar, spannar sagan óvenju vítt svið. Árið 1521 bannfærði Leó X páfi Marteinn Lúther, en árið 2009 gróf Satoshi Nakamoto fyrstu blokk Bitcoin-keðjunnar. Hér heima hófst Heklugos árið 1597 og Kristín Bjarnadóttir frá Esjubergi kaus í Reykjavík árið 1888, fyrst íslenskra kvenna. Afmælisbörnin eru ekki síður fjölbreytt: Cíceró, Florence Pugh og Greta Thunberg. Það er því óhætt að segja að 3. janúar kunni bæði að hugsa, gjósa og rífast.",
+  "stjornuspa": "Steinbukurinn finnur gamalt verkefni í skúffu og klárar það með þeirri staðfestu sem áður var frátekin fyrir rómverska vegi og langar fundargerðir. Varastu þó að bannfæra heimilisfólkið fyrir að setja bollann á rangan stað.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Bust_of_Decius_%28loan_from_Capitoline_Museums%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg/500px-Bust_of_Decius_%28loan_from_Capitoline_Museums%29_-_Glyptothek_-_Munich_-_Germany_2017.jpg",
+    "ar": "250",
+    "texti": "Decius ordered all people in the Roman Empire (except Jews) to perform a sacrifice to the Roman gods, resulting in widespread persecution of Christians.",
+    "heimild": "https://en.wikipedia.org/wiki/Decius",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
