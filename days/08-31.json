@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-31",
+  "dagur": 31,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:05",
+  "sunset": "20:48",
+  "kvedja": "Góðan og blessaðan 31. ágúst! Í dag sveiflum við okkur frá soldánum miðalda yfir í fyrstu kvikmyndatækin og alla leið á tónlistarhátíð með Bob Dylan — sagan kann sannarlega ekki að sitja kyrr. Helltu upp á eitthvað gott og komdu með; þetta verður býsna viðburðaríkur dagur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1218",
+      "texti": "Al-Kamil varð fjórði soldán Egyptalands af Ayyubidaætt. Valdaskipti á miðöldum voru sjaldnast einfalt skrifstofumál með kaffi og kleinum."
+    },
+    {
+      "ar": "1886",
+      "texti": "Öflugur jarðskjálfti, 7,0 að stærð, reið yfir Charleston í Suður-Karólínu. Sextíu manns fórust og eignatjón var metið á fimm til sex milljónir Bandaríkjadala."
+    },
+    {
+      "ar": "1897",
+      "texti": "Thomas Edison fékk einkaleyfi á Kinetoscope, tæki sem varð einn af forverum nútíma kvikmyndasýningarvélarinnar. Hreyfimyndin var farin að stíga sín fyrstu hikandi skref."
+    },
+    {
+      "ar": "1939",
+      "texti": "Nasistar, dulbúnir sem Pólverjar, sviðsettu árás á þýsku útvarpsstöðina Sender Gleiwitz. Tilgangurinn var að búa til yfirskin fyrir innrás Þýskalands í Pólland daginn eftir."
+    },
+    {
+      "ar": "1969",
+      "texti": "Bob Dylan steig á svið á lokadegi Isle of Wight-hátíðarinnar og hélt þar sína fyrstu tónleika í þrjú ár. Um 150.000 gestir sóttu hátíðina þessa þrjá daga — heldur fjölmennari endurkoma en æfing í bílskúrnum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1919",
+      "texti": "Fyrsta almenna myndlistarsýningin á Íslandi var opnuð í barnaskólanum í Reykjavík. Þar voru sýnd 90 verk eftir 15 listamenn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Íþróttabandalag Reykjavíkur var stofnað og fékk íþróttalíf höfuðborgarinnar þar með öflugan sameiginlegan vettvang.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1980",
+      "texti": "Mikill silfursjóður fannst á Fljótsdalshéraði og var talinn vera frá landnámsöld. Löngu síðar urðu þó miklar deilur um raunverulegan aldur sjóðsins.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1994",
+      "texti": "Lengstu skák í skáksögu Íslands lauk með jafntefli eftir 183 leiki. Jóhann Hjartarson og Jón Garðar Viðarsson tefldu skákina á Skákþingi Íslands í Vestmannaeyjum.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amanda Anisimova",
+      "starfsgrein": "tenniskona",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Chris Tucker",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Dee Bradley Baker",
+      "starfsgrein": "raddleikari",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Jahangir",
+      "starfsgrein": "Mógúlkeisari",
+      "ar": "1569"
+    },
+    {
+      "nafn": "Caligula",
+      "starfsgrein": "keisari Rómaveldis",
+      "ar": "12"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jóhannes Jónsson",
+      "starfsgrein": "kaupmaður og athafnamaður",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Anton Sigurðsson",
+      "starfsgrein": "leikstjóri",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Oddur Einarsson",
+      "starfsgrein": "biskup í Skálholti",
+      "ar": "1559"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppfinningamaður fékk einkaleyfi á Kinetoscope árið 1897?",
+      "svor": [
+        "Thomas Edison",
+        "Alexander Graham Bell",
+        "Nikola Tesla",
+        "Louis Pasteur"
+      ],
+      "rett": 0,
+      "skyring": "Thomas Edison fékk einkaleyfið, enda var hann sjaldan langt frá næstu hugmynd eða einkaleyfisumsókn."
+    },
+    {
+      "spurning": "Hversu margir leikir voru tefldir í lengstu skák Íslandssögunnar árið 1994?",
+      "svor": [
+        "147",
+        "165",
+        "183",
+        "201"
+      ],
+      "rett": 2,
+      "skyring": "Skákin stóð í 183 leiki og lauk með jafntefli — eftir allt þetta puð!"
+    },
+    {
+      "spurning": "Hvaða tónlistarmaður hélt sína fyrstu tónleika í þrjú ár á Isle of Wight-hátíðinni 1969?",
+      "svor": [
+        "Elvis Presley",
+        "Bob Dylan",
+        "David Bowie",
+        "Mick Jagger"
+      ],
+      "rett": 1,
+      "skyring": "Bob Dylan sneri aftur á svið og fékk heldur betur fjölmenna móttöku."
+    }
+  ],
+  "tonlistUSA": "La Bamba – Los Lobos (1987)",
+  "tonlistUK": "Never Gonna Give You Up – Rick Astley (1987)",
+  "bio": "Dirty Dancing (1987)",
+  "ord_dagsins": {
+    "ord": "hnoðri",
+    "skyring": "Hnoðri er lítill, þéttur köggull eða hnöttótt hrúga, til dæmis af ull eða ryki."
+  },
+  "vissir_thu": "Bob Dylan hafði ekki haldið tónleika í þrjú ár þegar hann steig á svið á Isle of Wight-hátíðinni árið 1969.",
+  "stjornuspa": "Meyjan finnur í dag sterka þörf fyrir að raða bæði skjölum og mannkynssögunni í rétta möppu. Gættu þess þó að skipuleggja ekki gleðina svo rækilega að hún þurfi að panta tíma hjá þér.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis%2C_Al-Kamil_detail_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg/330px-Benozzo_Gozzoli_-_Scenes_from_the_Life_of_St_Francis%2C_Al-Kamil_detail_%28Scene_10%2C_north_wall%29_-_WGA10241.jpg",
+    "ar": "1218",
+    "texti": "Al-Kamil varð fjórði soldán Egyptalands af Ayyubidaætt. Valdaskipti á miðöldum voru sjaldnast einfalt skrifstofumál með kaffi og kleinum.",
+    "heimild": "https://en.wikipedia.org/wiki/Al-Kamil",
+    "breidd": 330,
+    "haed": 697
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-09",
+  "dagur": 9,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:32",
+  "sunset": "20:16",
+  "kvedja": "Góðan 9. september! Í dag siglum við frá Svoldarorrustu út í geim að tungli Júpíters og endum með Adam Sandler í afmælisköku — óvenjuleg dagskrá, jafnvel á mælikvarða mannkynssögunnar. Megi dagurinn verða sögulegur, en þó helst án umsáturs og snjókomu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1570",
+      "texti": "Eftir 40 daga umsátur féll Nikósía á Kýpur í hendur Ottómana. Í kjölfarið var ráðist í skelfileg fjöldamorð þar sem meira en 20.000 borgarar létust."
+    },
+    {
+      "ar": "1739",
+      "texti": "Stono-uppreisnin braust út nærri Charleston í Suður-Karólínu. Hún var þá stærsta uppreisn þræla í bresku nýlendunum þrettán."
+    },
+    {
+      "ar": "1892",
+      "texti": "Stjörnufræðingurinn Edward Emerson Barnard uppgötvaði Amalþeu, tungl Júpíters, frá Lick-stjörnustöðinni í Kaliforníu. Þetta varð síðasta náttúrulega tunglið sem fannst með beinni sjónrænni athugun."
+    },
+    {
+      "ar": "1957",
+      "texti": "Dwight D. Eisenhower Bandaríkjaforseti undirritaði borgararéttindalögin frá 1957, fyrstu alríkislögin um borgararéttindi frá endurreisnartímabilinu eftir borgarastyrjöldina."
+    },
+    {
+      "ar": "2015",
+      "texti": "Elísabet 2. varð sá þjóðhöfðingi sem lengst hafði setið á breska konungsstólnum og fór þar með fram úr Viktoríu drottningu. Það var býsna langur vinnudagur í höllinni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1000",
+      "texti": "Svoldarorrusta var háð í Eystrasalti og þar féll Ólafur Tryggvason Noregskonungur, sem skipar stóran sess í íslenskum konungasögum.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1208",
+      "texti": "Víðinesbardagi var háður í Hjaltadal, þótt mögulegt sé að hann hafi farið fram deginum áður. Þar sótti fjölmennur her að Guðmundi góða Arasyni Hólabiskupi og Kolbeinn Tumason féll.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1926",
+      "texti": "Reykvíkingar vöknuðu við alhvíta jörð eftir óvenjusnemma snjókomu. Talið er að aldrei hafi orðið alhvítt svo snemma að hausti í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1998",
+      "texti": "Háhyrningurinn Keikó kom til Vestmannaeyja eftir langt ferðalag og vakti heimsathygli. Eyjamenn fengu þar gest sem þurfti hvorki lopapeysu né sjóveikitöflu.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Sandler",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Akshay Kumar",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Angela Cartwright",
+      "starfsgrein": "leikkona, rithöfundur og söngkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Afrojack",
+      "starfsgrein": "plötusnúður og tónlistarframleiðandi",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Andrea Petkovic",
+      "starfsgrein": "tenniskona",
+      "ar": "1987"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðmundur Hannesson",
+      "starfsgrein": "læknir",
+      "ar": "1866"
+    },
+    {
+      "nafn": "Jochum M. Eggertsson",
+      "starfsgrein": "skáld og þýðandi",
+      "ar": "1896"
+    },
+    {
+      "nafn": "Valdimar Indriðason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1925"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tungl Júpíters uppgötvaði Edward Emerson Barnard árið 1892?",
+      "svor": [
+        "Amalþeu",
+        "Evrópu",
+        "Ganýmedes",
+        "Kallistó"
+      ],
+      "rett": 0,
+      "skyring": "Amalþea var síðasta náttúrulega tunglið sem uppgötvaðist með beinni sjónrænni athugun."
+    },
+    {
+      "spurning": "Hvaða óvenjulega veður beið Reykvíkinga að morgni 9. september 1926?",
+      "svor": [
+        "Sandstormur",
+        "Alhvít jörð eftir snjókomu",
+        "Eldingar án úrkomu",
+        "Hitabylgja"
+      ],
+      "rett": 1,
+      "skyring": "Borgin varð alhvít óvenjusnemma að hausti — veturinn mætti greinilega fyrir opnun."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er þekktur bandarískur leikari og grínisti?",
+      "svor": [
+        "Afrojack",
+        "Akshay Kumar",
+        "Adam Sandler",
+        "Guðmundur Hannesson"
+      ],
+      "rett": 2,
+      "skyring": "Adam Sandler fæddist 9. september 1966 og hefur gert grínið að ævistarfi."
+    }
+  ],
+  "tonlistUSA": "Boogie Oogie Oogie – A Taste of Honey (1978)",
+  "tonlistUK": "Three Times a Lady – Commodores (1978)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "árla",
+    "skyring": "Orðið merkir snemma dags eða snemma morguns."
+  },
+  "vissir_thu": "Amalþea, tunglið sem Barnard fann árið 1892, var síðasta náttúrulega tunglið sem uppgötvaðist með sjónauka með því að horfa beint í gegnum hann fremur en með ljósmyndun.",
+  "stjornuspa": "Meyjan finnur sterka þörf fyrir að raða skjölum, kryddstaukum og jafnvel sögulegum keisurum í rétta röð. Láttu þó eina skúffu vera óskipulagða — framtíðin þarf svolítið svigrúm til að koma þér á óvart.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Battle_of_Lepanto_1571.jpg/500px-Battle_of_Lepanto_1571.jpg",
+    "ar": "1570",
+    "texti": "Eftir 40 daga umsátur féll Nikósía á Kýpur í hendur Ottómana. Í kjölfarið var ráðist í skelfileg fjöldamorð þar sem meira en 20.000 borgarar létust.",
+    "heimild": "https://en.wikipedia.org/wiki/Ottoman–Venetian_War_(1570–1573)",
+    "breidd": 330,
+    "haed": 177
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

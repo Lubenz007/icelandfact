@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-05",
+  "dagur": 5,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:20",
+  "sunset": "20:30",
+  "kvedja": "Góðan 5. september, kæri lesandi! Í dag siglum við frá frönskum herskipum á Chesapeake-flóa alla leið út fyrir ystu mörk sólkerfisins með Voyager 1 — með stuttri viðkomu hjá knattspyrnustrákum í Lundúnum. Sagan kann sannarlega ekki að sitja kyrr, frekar en Ari Eldjárn með hljóðnema.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1781",
+      "texti": "Franski flotinn vann mikilvægan sigur á Bretum í orrustunni á Chesapeake-flóa í bandaríska frelsisstríðinu. Sigurinn kom í veg fyrir að Bretar gætu styrkt her sinn við Yorktown og reyndist því afar afdrifaríkur."
+    },
+    {
+      "ar": "1882",
+      "texti": "Hópur skólapilta í Lundúnum, undir forystu Bobby Buckle, stofnaði Hotspur Football Club svo þeir gætu stundað íþróttir yfir vetrartímann. Félagið varð síðar Tottenham Hotspur — býsna drjúgt vetrarverkefni."
+    },
+    {
+      "ar": "1905",
+      "texti": "Rússnesk-japanska stríðinu lauk formlega með Portsmouth-sáttmálanum, sem var undirritaður í Maine fyrir milligöngu Theodore Roosevelt Bandaríkjaforseta."
+    },
+    {
+      "ar": "1977",
+      "texti": "NASA skaut geimfarinu Voyager 1 á loft frá Canaveralhöfða. Það er nú fjarlægasta geimfar mannkyns frá jörðinni og heldur enn áfram ferð sinni út í hið ókunna."
+    },
+    {
+      "ar": "2020",
+      "texti": "Flugeldatæki í kynjaveislu kveikti El Dorado-skógareldinn í Kaliforníu. Eldurinn logaði í 71 dag og einn slökkviliðsmaður lét lífið — skelfileg áminning um að konfekt og kaka duga prýðilega til að flytja fjölskyldufréttir."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1539",
+      "texti": "Erlendur Þorvarðarson lögmaður kvað upp dóm á Kópavogsþingi um að Diðrik frá Mynden og mennirnir sem féllu með honum skyldu teljast óbótamenn, en þeir sem vógu að þeim voru sýknaðir.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1896",
+      "texti": "Síðari Suðurlandsskjálftinn reið yfir og olli skemmdum á fjölda bæja í Árnessýslu, aðeins tíu dögum eftir fyrri skjálftann.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1942",
+      "texti": "Fjórir drengir slösuðust og hús skemmdust þegar þýskar sprengjuflugvélar gerðu loftárás á Seyðisfjörð.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1987",
+      "texti": "Háskólinn á Akureyri var settur í fyrsta sinn. Nemendur fyrsta starfsársins voru 47 — fámennur en sögulegur hópur.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Annabelle Wallis",
+      "starfsgrein": "leikkona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Bukayo Saka",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Bob Newhart",
+      "starfsgrein": "grínisti og leikari",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Carice van Houten",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Al Stewart",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1945"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bessi Bjarnason",
+      "starfsgrein": "leikari",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Ari Eldjárn",
+      "starfsgrein": "uppistandari",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Muggur (Guðmundur Thorsteinsson)",
+      "starfsgrein": "listamaður",
+      "ar": "1891"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfari var skotið á loft 5. september 1977?",
+      "svor": [
+        "Voyager 1",
+        "Apollo 11",
+        "Sputnik 1",
+        "Viking 2"
+      ],
+      "rett": 0,
+      "skyring": "Voyager 1 lagði af stað árið 1977 og er nú fjarlægasta geimfar mannkyns frá jörðinni."
+    },
+    {
+      "spurning": "Hversu margir nemendur voru við Háskólann á Akureyri fyrsta starfsárið?",
+      "svor": [
+        "17",
+        "47",
+        "147",
+        "470"
+      ],
+      "rett": 1,
+      "skyring": "Nemendurnir voru 47 — hæfilega margir til að allir gætu líklega þekkst með nafni."
+    },
+    {
+      "spurning": "Hvaða íslenski uppistandari á afmæli í dag?",
+      "svor": [
+        "Bessi Bjarnason",
+        "Ari Eldjárn",
+        "Muggur",
+        "Al Stewart"
+      ],
+      "rett": 1,
+      "skyring": "Ari Eldjárn fæddist 5. september 1981 og hefur síðan gert þjóðina tortryggna gagnvart hversdagslegustu hlutum."
+    }
+  ],
+  "tonlistUSA": "Best of My Love – The Emotions (1977)",
+  "tonlistUK": "Way Down – Elvis Presley (1977)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "óbotamaður",
+    "skyring": "Óbótamaður var maður sem samkvæmt eldri lögum mátti vega án þess að bætur kæmu fyrir."
+  },
+  "vissir_thu": "Voyager 1 er fjarlægasta geimfar frá jörðinni sem mannkynið hefur smíðað.",
+  "stjornuspa": "Meyja, pláneturnar mæla með því að þú flokkir geisladiskasafnið eftir útgáfuári, flytjanda og tilfinningalegu mikilvægi. Mundu þó að jafnvel Voyager 1 komst langt án þess að hafa fullkomið Excel-skjal.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1781",
+    "texti": "Franski flotinn vann mikilvægan sigur á Bretum í orrustunni á Chesapeake-flóa í bandaríska frelsisstríðinu. Sigurinn kom í veg fyrir að Bretar gætu styrkt her sinn við Yorktown og reyndist því afar afdrifaríkur.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

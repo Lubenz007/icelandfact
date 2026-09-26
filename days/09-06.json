@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-06",
+  "dagur": 6,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:23",
+  "sunset": "20:26",
+  "kvedja": "Góðan 6. september! Í dag siglum við frá Kanaríeyjum, verslum sjálf í fyrstu sjálfsafgreiðslubúðinni og fylgjumst með sovéskri orrustuþotu lenda óvænt í Japan — sagan kann sannarlega að halda mörgum boltum á lofti. Taktu daginn með jafnaðargeði og örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1492",
+      "texti": "Kristófer Kólumbus lagði af stað frá San Sebastián de La Gomera á Kanaríeyjum í fyrstu ferð sína vestur yfir Atlantshaf. Ferðin leiddi hann til Karíbahafsins og varð afdrifarík fyrir sögu beggja vegna hafsins."
+    },
+    {
+      "ar": "1634",
+      "texti": "Kaþólski keisaraherinn sigraði sænska og þýska mótmælendaherinn í orrustunni við Nördlingen í Þrjátíu ára stríðinu. Þar var hvorki þrjátíu mínútna hlé né friðsælt kaffiboð á dagskrá."
+    },
+    {
+      "ar": "1916",
+      "texti": "Fyrsta sjálfsafgreiðslumatvöruverslunin, Piggly Wiggly, var stofnuð í Memphis í Tennessee. Þar með hófst öld innkaupakörfunnar og hinnar eilífu spurningar: „Hvar geyma þau nú saltið?“"
+    },
+    {
+      "ar": "1976",
+      "texti": "Sovéski flugmaðurinn Viktor Belenko lenti MiG-25-orrustuþotu sinni í Hakodate í Japan og lýsti yfir vilja sínum til að flýja til Vesturlanda. Lendingin færði vestrænum sérfræðingum sjaldgæft tækifæri til að skoða eina leynilegustu herflugvél Sovétríkjanna."
+    },
+    {
+      "ar": "2018",
+      "texti": "Hæstiréttur Indlands ógilti þann hluta 377. greinar hegningarlaganna sem gerði kynlíf samkynhneigðra refsivert. Úrskurðurinn markaði stórt skref í réttindabaráttu hinsegin fólks í landinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1914",
+      "texti": "Benedikt G. Waage, síðar forseti ÍSÍ, varð fyrstur manna til að synda úr Viðey til lands. Sundið tók tæpar tvær klukkustundir og sjórinn bauð tæpast upp á heitan pott að því loknu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1936",
+      "texti": "Enski línuveiðarinn Trocadero strandaði á Járngerðarstaðafjörum við Grindavík. Slysavarnadeildin Þorbjörn bjargaði allri 14 manna áhöfninni með fluglínutækjum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1943",
+      "texti": "Fyrsta aðgerðin vegna brjóskloss í baki á Íslandi var framkvæmd á Hvítabandinu í Reykjavík. Læknirinn Snorri Hallgrímsson framkvæmdi aðgerðina.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Tveir mjólkurbílar féllu í Ölfusá þegar burðarstrengur brúarinnar slitnaði undan þunga þeirra. Báðir bílstjórarnir komust lífs af, þótt annar bærist um 1.200 metra niður eftir ánni.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alice Sebold",
+      "starfsgrein": "bandarískur rithöfundur",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Anika Noni Rose",
+      "starfsgrein": "bandarísk leikkona og söngkona",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Braun Strowman",
+      "starfsgrein": "bandarískur fjölbragðaglímumaður og kraftajötunn",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Asher Angel",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Andrea Camilleri",
+      "starfsgrein": "ítalskur rithöfundur, handritshöfundur og leikstjóri",
+      "ar": "1925"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eiríkur Björn Björgvinsson",
+      "starfsgrein": "íslenskur bæjarstjóri",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Sveinn Sölvason",
+      "starfsgrein": "íslenskur lögmaður og skáld",
+      "ar": "1722"
+    },
+    {
+      "nafn": "Ólafur Stephensen",
+      "starfsgrein": "íslenskur lögfræðingur",
+      "ar": "1791"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaðan lagði Kristófer Kólumbus af stað 6. september 1492?",
+      "svor": [
+        "Frá San Sebastián de La Gomera",
+        "Frá Reykjavík",
+        "Frá Hakodate",
+        "Frá Memphis"
+      ],
+      "rett": 0,
+      "skyring": "Kólumbus sigldi frá La Gomera á Kanaríeyjum áður en Atlantshafið tók við."
+    },
+    {
+      "spurning": "Hvað hét fyrsta sjálfsafgreiðslumatvöruverslunin sem var stofnuð árið 1916?",
+      "svor": [
+        "Happy Hippo",
+        "Piggly Wiggly",
+        "Memphis Market",
+        "Grocer's Glory"
+      ],
+      "rett": 1,
+      "skyring": "Piggly Wiggly bar bæði skondið nafn og byltingarkennda verslunarhugmynd."
+    },
+    {
+      "spurning": "Hversu mörgum skipverjum af Trocadero var bjargað við Grindavík árið 1936?",
+      "svor": [
+        "8",
+        "10",
+        "14",
+        "22"
+      ],
+      "rett": 2,
+      "skyring": "Slysavarnadeildin Þorbjörn bjargaði allri 14 manna áhöfninni."
+    }
+  ],
+  "tonlistUSA": "Venus – Bananarama (1986)",
+  "tonlistUK": "I Want to Wake Up with You – Boris Gardiner (1986)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "þrautseigja",
+    "skyring": "Þrautseigja er hæfileikinn til að halda ótrauður áfram þrátt fyrir erfiðleika eða mótlæti."
+  },
+  "vissir_thu": "MiG-25-þotan sem Viktor Belenko flaug til Japan árið 1976 var tekin í sundur og rannsökuð áður en henni var skilað til Sovétríkjanna.",
+  "stjornuspa": "Meyjan finnur í dag lista sem hún skrifaði árið 1998 og fær óvænta ánægju af því að strika loksins yfir eitt atriði. Varastu þó að endurskipuleggja kryddskúffuna áður en þú hefur fengið morgunkaffið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/500px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg",
+    "ar": "1492",
+    "texti": "Kristófer Kólumbus lagði af stað frá San Sebastián de La Gomera á Kanaríeyjum í fyrstu ferð sína vestur yfir Atlantshaf. Ferðin leiddi hann til Karíbahafsins og varð afdrifarík fyrir sögu beggja vegna hafsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Christopher_Columbus",
+    "breidd": 330,
+    "haed": 399
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

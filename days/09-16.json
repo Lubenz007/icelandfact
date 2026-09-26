@@ -1,0 +1,143 @@
+{
+  "mmdd": "09-16",
+  "dagur": 16,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:52",
+  "sunset": "19:51",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 16. september! Í dag svífum við yfir járntjaldið í heimagerðum loftbelg, stöldrum við í matvöruverslun með Boris Jeltsín og endum vaktina með Georgi og félögum — sagan kann svo sannarlega að blanda sérkennilegan kokteil.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "681",
+      "texti": "Honorius 1. páfi var bannfærður að honum látnum á þriðja kirkjuþinginu í Konstantínópel vegna stuðnings síns við kenningu sem talin var villutrú. Það dugði sem sagt ekki að vera kominn í gröfina til að sleppa við kirkjulega áminningu."
+    },
+    {
+      "ar": "1844",
+      "texti": "Felix Mendelssohn lauk við fiðlukonsert sinn, sem varð síðasti konsert tónskáldsins. Verkið hefur síðan haldið fiðluleikurum á tánum og áheyrendum hugfangnum."
+    },
+    {
+      "ar": "1920",
+      "texti": "Sprengja í hestvagni sprakk við Wall Street 23 í New York, varð 38 manns að bana og særði nokkur hundruð. Árásin varð eitt alvarlegasta hryðjuverk í sögu Bandaríkjanna fram að þeim tíma."
+    },
+    {
+      "ar": "1979",
+      "texti": "Átta manns flúðu frá Austur-Þýskalandi til Vestur-Þýskalands í heimagerðum loftbelg. Flóttinn var bæði dirfskufullur og tæknilega snjall — sannkölluð frelsisför í körfu."
+    },
+    {
+      "ar": "1989",
+      "texti": "Boris Jeltsín heimsótti matvöruverslun í Texas á ferð sinni um Bandaríkin og varð djúpt snortinn af vöruúrvalinu. Heimsóknin hafði mikil áhrif á afstöðu hans til sovéska efnahagskerfisins; stundum getur grænmetisdeild reynst pólitískt tundurdufl."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1508",
+      "texti": "Ferja sökk á Ölfusá með tugum manna sem voru á heimleið frá krossmessu í Kaldaðarnesi. Yfir 30 manns fórust í þessu mikla slysi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1936",
+      "texti": "Franski vísindamaðurinn Jean-Baptiste Charcot og 37 aðrir skipverjar fórust þegar rannsóknarskipið Pourquoi-pas? strandaði í ofviðri við Álftanes á Mýrum.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1940",
+      "texti": "Íslensku skipin Arinbjörn hersir og Snorri goði björguðu um 400 manns af franska flutningaskipinu Asca eftir árás þýskrar flugvélar á Írlandshafi.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2007",
+      "texti": "Sjónvarpsþáttaröðin Næturvaktin hóf göngu sína á Stöð 2 og íslensk þjóð eignaðist brátt ógleymanlega bensínstöðvarvakt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexis Bledel",
+      "starfsgrein": "leikkona",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Amy Poehler",
+      "starfsgrein": "leikkona, grínisti og framleiðandi",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Aleksandar Mitrović",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Alexander Korda",
+      "starfsgrein": "leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Albert Szent-Györgyi",
+      "starfsgrein": "lífeðlisfræðingur, lífefnafræðingur og nóbelsverðlaunahafi",
+      "ar": "1893"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Atli Rafn Sigurðarson",
+      "starfsgrein": "leikari",
+      "ar": "1972"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvernig flúðu átta manns frá Austur-Þýskalandi árið 1979?",
+      "svor": [
+        "Í heimagerðum loftbelg",
+        "Í kafbáti",
+        "Í dulbúinni mjólkurbifreið",
+        "Á skíðabát"
+      ],
+      "rett": 0,
+      "skyring": "Hópurinn sveif yfir landamærin í heimagerðum loftbelg — frelsið kom að þessu sinni úr háloftunum."
+    },
+    {
+      "spurning": "Hvaða íslenska sjónvarpsþáttaröð hóf göngu sína 16. september 2007?",
+      "svor": [
+        "Fangavaktin",
+        "Næturvaktin",
+        "Dagvaktin",
+        "Heimsendir"
+      ],
+      "rett": 1,
+      "skyring": "Næturvaktin hóf göngu sína og Georg Bjarnfreðarson mætti til leiks með fleiri gráður en flest hitamælitæki."
+    },
+    {
+      "spurning": "Hvað hafði mikil áhrif á sýn Boris Jeltsíns á sovéska efnahagskerfið árið 1989?",
+      "svor": [
+        "Heimsókn í kvikmyndaver",
+        "Ferð um kauphöllina",
+        "Heimsókn í matvöruverslun í Texas",
+        "Skoðunarferð um olíulind"
+      ],
+      "rett": 2,
+      "skyring": "Vöruúrvalið í texaskri matvöruverslun vakti Jeltsín til umhugsunar um veikleika sovéska kerfisins."
+    }
+  ],
+  "tonlistUSA": "Girl I'm Gonna Miss You – Milli Vanilli (1989)",
+  "tonlistUK": "Ride on Time – Black Box (1989)",
+  "bio": "It (2017)",
+  "ord_dagsins": {
+    "ord": "goðgá",
+    "skyring": "Goðgá er ummæli eða athöfn sem vanvirðir það sem talið er heilagt."
+  },
+  "vissir_thu": "Flóttafólkið sem komst frá Austur-Þýskalandi í heimagerða loftbelgnum árið 1979 var átta talsins og ferðaðist í tveimur fjölskyldum.",
+  "stjornuspa": "Meyjan finnur í dag löngun til að flokka bæði kryddskápinn og heimssöguna eftir stafrófsröð. Láttu það eftir þér, en mundu að jafnvel Mendelssohn þurfti stundum að leggja pennann frá sér og fá sér kaffisopa.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Pope_Honorius_I_%E2%80%93_Apse_mosaic_of_Sant%27Agnese_fuori_le_mura_%E2%80%93_Rome_%282016%29.jpg/330px-Pope_Honorius_I_%E2%80%93_Apse_mosaic_of_Sant%27Agnese_fuori_le_mura_%E2%80%93_Rome_%282016%29.jpg",
+    "ar": "681",
+    "texti": "Honorius 1. páfi var bannfærður að honum látnum á þriðja kirkjuþinginu í Konstantínópel vegna stuðnings síns við kenningu sem talin var villutrú. Það dugði sem sagt ekki að vera kominn í gröfina til að sleppa við kirkjulega áminningu.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Honorius_I",
+    "breidd": 330,
+    "haed": 463
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

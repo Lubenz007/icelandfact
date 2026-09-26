@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-29",
+  "dagur": 29,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:00",
+  "sunset": "20:55",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 29. ágúst! Í dag kveikjum við á rafsegulfræðinni með Faraday, þeysumst af stað á mótorhjóli Daimlers og fylgjumst með Akureyri öðlast kaupstaðarréttindi — sagan kann svo sannarlega að halda mörgum boltum á lofti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1786",
+      "texti": "Bændur í vesturhluta Massachusetts, reiðir vegna þungra skatta og skorts á pólitískum réttindum, hófu vopnaða uppreisn undir forystu Daniels Shays. Uppreisnin varð síðar þekkt sem Shays-uppreisnin."
+    },
+    {
+      "ar": "1831",
+      "texti": "Michael Faraday sýndi í fyrsta sinn fram á rafsegulspan með tilraun. Þar með var lagður grunnur að tækni sem síðar fékk rafala og ótal önnur raftæki til að suða af ánægju."
+    },
+    {
+      "ar": "1885",
+      "texti": "Gottlieb Daimler fékk einkaleyfi á Reitwagen, fyrsta mótorhjóli heims með brunahreyfli. Það var ekki beinlínis þægindasófi á hjólum, en framtíð mótorhjólsins var komin af stað."
+    },
+    {
+      "ar": "1949",
+      "texti": "Sovétríkin sprengdu sitt fyrsta kjarnorkuvopn, 22 kílótonna RDS-1. Þar með lauk einokun Bandaríkjanna á kjarnorkuvopnum og nýr, kaldur kafli alþjóðastjórnmála hófst."
+    },
+    {
+      "ar": "1991",
+      "texti": "Ítalski athafnamaðurinn Libero Grassi var myrtur af sikileysku mafíunni í Palermo eftir að hafa opinberlega neitað að greiða henni verndarfé. Hugrekki hans varð tákn andstöðunnar gegn fjárkúgun mafíunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1862",
+      "texti": "Akureyri fékk kaupstaðarréttindi í annað sinn, en bærinn hafði fyrst hlotið þau árið 1786. Norðlensk bæjarstolt hafði því góða ástæðu til að rétta úr bakinu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1910",
+      "texti": "Læknirinn Matthías Einarsson framkvæmdi í Reykjavík fyrsta keisaraskurðinn á Íslandi þar sem bæði móðir og barn lifðu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1945",
+      "texti": "Bygging Þjóðminjasafnshússins við Hringbraut hófst. Húsið var kallað „morgungjöf lýðveldisins til þjóðarinnar“ og var tekið í notkun árið 1950.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2014",
+      "texti": "Nornahraun tók að myndast í eldgosinu í Holuhrauni norðan Vatnajökuls. Nafnið hljómar eins og úr þjóðsögu, en hraunið var ákaflega raunverulegt.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Carla Gugino",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Bob Beamon",
+      "starfsgrein": "bandarískur langstökkvari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Amanda Marshall",
+      "starfsgrein": "kanadísk söngkona og lagahöfundur",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Arthur B. McDonald",
+      "starfsgrein": "kanadískur stjarneðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Albert François Lebrun",
+      "starfsgrein": "franskur verkfræðingur og forseti Frakklands",
+      "ar": "1871"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gústi Guðsmaður",
+      "starfsgrein": "íslenskur sjómaður",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Þorleifur Einarsson",
+      "starfsgrein": "íslenskur jarðfræðingur",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Karl Gústaf Stefánsson",
+      "starfsgrein": "íslensk-kanadískur skopmyndateiknari",
+      "ar": "1890"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða vísindamaður sýndi fram á rafsegulspan árið 1831?",
+      "svor": [
+        "Michael Faraday",
+        "Gottlieb Daimler",
+        "Arthur B. McDonald",
+        "Daniel Shays"
+      ],
+      "rett": 0,
+      "skyring": "Michael Faraday framkvæmdi tilraunina sem lagði grunninn að lögmáli hans um rafsegulspan."
+    },
+    {
+      "spurning": "Hvaða íslenski bær fékk kaupstaðarréttindi í annað sinn árið 1862?",
+      "svor": [
+        "Ísafjörður",
+        "Akureyri",
+        "Hafnarfjörður",
+        "Stykkishólmur"
+      ],
+      "rett": 1,
+      "skyring": "Akureyri endurheimti kaupstaðarréttindin og hafði því fulla ástæðu til bæjarbrags."
+    },
+    {
+      "spurning": "Hvað hét fyrsta mótorhjól heims með brunahreyfli?",
+      "svor": [
+        "RDS-1",
+        "Reitwagen",
+        "Pourquoi pas?",
+        "Slava"
+      ],
+      "rett": 1,
+      "skyring": "Reitwagen Daimlers fékk einkaleyfi árið 1885 og rumdi þannig inn í söguna."
+    }
+  ],
+  "tonlistUSA": "La Bamba – Los Lobos (1987)",
+  "tonlistUK": "Never Gonna Give You Up – Rick Astley (1987)",
+  "bio": "Dirty Dancing (1987)",
+  "ord_dagsins": {
+    "ord": "morgungjöf",
+    "skyring": "Morgungjöf er gjöf sem maki færir maka sínum morguninn eftir brúðkaup."
+  },
+  "vissir_thu": "Reitwagen Gottliebs Daimlers, sem fékk einkaleyfi árið 1885, er almennt talið fyrsta mótorhjól heims knúið brunahreyfli.",
+  "stjornuspa": "Meyjan finnur í dag skrúfu sem enginn annar tók eftir að væri laus og herðir hana með yfirvegun ársins 1957. Varastu þó að skipuleggja kaffihléið svo rækilega að kaffið verði orðið kalt þegar dagskráin loks leyfir fyrsta sopann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Michael_Faraday_sitting_crop.jpg/500px-Michael_Faraday_sitting_crop.jpg",
+    "ar": "1831",
+    "texti": "Michael Faraday sýndi í fyrsta sinn fram á rafsegulspan með tilraun. Þar með var lagður grunnur að tækni sem síðar fékk rafala og ótal önnur raftæki til að suða af ánægju.",
+    "heimild": "https://en.wikipedia.org/wiki/Michael_Faraday",
+    "breidd": 330,
+    "haed": 436
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

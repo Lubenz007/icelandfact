@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-08",
+  "dagur": 8,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:29",
+  "sunset": "20:19",
+  "kvedja": "Góðan 8. september! Í dag liggur leiðin frá vígvöllum Napóleons til geimferða Star Trek, með viðkomu á gömlu Ölfusárbrúnni og hjá nokkrum afmælisbörnum sem kunna að fylla bæði tónleikahallir og knattspyrnuvelli. Sagan ferðast sannarlega létt yfir þótt hún sé með fulla ferðatösku.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1796",
+      "texti": "Napóleon leiddi franska herinn til sigurs gegn Austurríkismönnum í orrustunni við Bassano á Ítalíu. Hann var þá enn á uppleið og greinilega ekki maður sem ferðaðist með hógværð í handfarangri."
+    },
+    {
+      "ar": "1900",
+      "texti": "Galvestonfellibylurinn skall á Texas með vindhraða sem metinn var um 215 kílómetrar á klukkustund. Að minnsta kosti 6.000 manns fórust og er þetta mannskæðasta náttúruhamfaraslys í sögu Bandaríkjanna."
+    },
+    {
+      "ar": "1954",
+      "texti": "Átta ríki undirrituðu varnarsáttmála í Manila og stofnuðu Suðaustur-Asíubandalagið, SEATO. Bandalagið var mótað að fyrirmynd NATO, enda hefur alþjóðastjórnmálum löngum þótt vænt um skammstafanir."
+    },
+    {
+      "ar": "1966",
+      "texti": "Fyrsti þáttur Star Trek var frumsýndur í bandarísku sjónvarpi. Þar hófst menningarfyrirbæri sem hefur ekki aðeins alið af sér dygga aðdáendur heldur einnig haft áhrif á hugmyndir um nútímatækni."
+    },
+    {
+      "ar": "2022",
+      "texti": "Elísabet 2. Bretadrottning lést í Balmoral-kastala í Skotlandi eftir rúmlega sjötíu ár á valdastóli. Elsti sonur hennar tók þegar við krúnunni sem Karl 3. Bretakonungur."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1208",
+      "texti": "Víðinesbardagi var háður milli liðs Ásbirninga og Svínfellinga annars vegar og liðs Guðmundar Arasonar Hólabiskups hins vegar.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1891",
+      "texti": "Fyrsta hengibrú Íslands, brúin yfir Ölfusá, var vígð að viðstöddu miklu fjölmenni. Hún þjónaði vegfarendum þar til burðarstrengur slitnaði árið 1944.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1973",
+      "texti": "Rússnesk njósnatæki fundust í Kleifarvatni, sem hljómar næstum eins og upphaf að íslenskri kaldastríðsspennusögu.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1989",
+      "texti": "Fjórir fatlaðir menn komu til Reykjavíkur á hjólastólum eftir fimm daga ferð frá Akureyri til að vekja athygli á Sjálfsbjörgu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aimee Mann",
+      "starfsgrein": "söng- og lagahöfundur",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Avicii",
+      "starfsgrein": "raftónlistarmaður og plötusnúður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Bruno Fernandes",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Antonín Dvořák",
+      "starfsgrein": "tónskáld",
+      "ar": "1841"
+    },
+    {
+      "nafn": "Aziz Sancar",
+      "starfsgrein": "líffræðingur og Nóbelsverðlaunahafi",
+      "ar": "1946"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ragnheiður Brynjólfsdóttir",
+      "starfsgrein": "biskupsdóttir",
+      "ar": "1641"
+    },
+    {
+      "nafn": "Jónas Svafár",
+      "starfsgrein": "skáld",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Sigurður Vigfússon",
+      "starfsgrein": "fornfræðingur",
+      "ar": "1828"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sjónvarpssería hóf bandaríska siglingu sína um óravíddirnar 8. september 1966?",
+      "svor": [
+        "Star Trek",
+        "Doctor Who",
+        "The Twilight Zone",
+        "Battlestar Galactica"
+      ],
+      "rett": 0,
+      "skyring": "Star Trek hóf göngu sína með þættinum „The Man Trap“ og geimurinn varð þegar dálítið fjölmennari."
+    },
+    {
+      "spurning": "Hvar fundust rússnesk njósnatæki árið 1973?",
+      "svor": [
+        "Í Þingvallavatni",
+        "Í Kleifarvatni",
+        "Í Mývatni",
+        "Í Hvalfirði"
+      ],
+      "rett": 1,
+      "skyring": "Tækin fundust í Kleifarvatni, þar sem kalda stríðið tók sér óvænt sundsprett."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins samdi tónlist á borð við Nýja heims sinfóníuna?",
+      "svor": [
+        "Avicii",
+        "Aimee Mann",
+        "Antonín Dvořák",
+        "Aziz Sancar"
+      ],
+      "rett": 2,
+      "skyring": "Tékkneska tónskáldið Antonín Dvořák fæddist árið 1841."
+    }
+  ],
+  "tonlistUSA": "What's Love Got to Do with It – Tina Turner (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "Ghostbusters (1984)",
+  "ord_dagsins": {
+    "ord": "dagmál",
+    "skyring": "Dagmál er gamalt heiti á tíma dags um miðjan morgun, nálægt klukkan níu."
+  },
+  "vissir_thu": "Fyrsti bandaríski Star Trek-þátturinn sem sýndur var hét „The Man Trap“, þótt hann hafi ekki verið fyrsti þátturinn sem framleiddur var.",
+  "stjornuspa": "Meyjan finnur í dag skjal sem hún hélt að væri glatað, líklega undir öðru skjali sem var vandlega merkt „mjög mikilvægt“. Stjörnurnar mæla með skipulagi, en vara við því að flokka kaffibollana eftir sögulegum tímabilum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/French_Revolutionary_Wars.jpg/500px-French_Revolutionary_Wars.jpg",
+    "ar": "1796",
+    "texti": "Napóleon leiddi franska herinn til sigurs gegn Austurríkismönnum í orrustunni við Bassano á Ítalíu. Hann var þá enn á uppleið og greinilega ekki maður sem ferðaðist með hógværð í handfarangri.",
+    "heimild": "https://en.wikipedia.org/wiki/French_Revolutionary_Wars",
+    "breidd": 330,
+    "haed": 743
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

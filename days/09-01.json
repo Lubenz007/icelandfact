@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-01",
+  "dagur": 1,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:08",
+  "sunset": "20:44",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í september! Í dag sveiflum við okkur frá miðaldadómkirkju til segulstorms, skákborðs í Reykjavík og ljósprófunar með bækur á götum bæjarins — sagan kann svo sannarlega að setja upp fjölbreytta dagskrá.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1145",
+      "texti": "Aðalaltari dómkirkjunnar í Lundi, sem þá var kaþólsk höfuðkirkja allra Norðurlanda, var helgað heilögum Lárentíusi og Maríu mey."
+    },
+    {
+      "ar": "1604",
+      "texti": "Guru Granth Sahib, helgirit síkha, var komið fyrir í Gullna musterinu í Amritsar. Þar með fékk ein helgasta bygging síkha trúarlegan kjarna sinn."
+    },
+    {
+      "ar": "1859",
+      "texti": "Öflug sólblossa varð til þess að kórónuský skall á jörðinni fáeinum klukkustundum síðar. Afleiðingin var mesti skráði segulstormur sögunnar og norðurljós sáust óvenju langt frá heimskautunum."
+    },
+    {
+      "ar": "1914",
+      "texti": "Síðasta farþegadúfan drapst í haldi og tegundin varð útdauð. Það voru dapurleg endalok fugls sem hafði eitt sinn talið milljarða einstaklinga."
+    },
+    {
+      "ar": "1973",
+      "texti": "Eftir 76 klukkustunda alþjóðlega björgunaraðgerð undan ströndum Írlands tókst að bjarga mönnum úr kafbáti á meira dýpi en nokkru sinni fyrr. Afrekið stendur sem dýpsta kafbátabjörgun sögunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1910",
+      "texti": "Fyrstu gasknúnu götuljósin í Reykjavík voru tendruð. Bæjarbúar þustu út með blöð og bækur til að kanna hvort loksins væri lesbjart á götum höfuðstaðarins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1958",
+      "texti": "Fiskveiðilögsaga Íslands var færð úr fjórum sjómílum í tólf. Bretar mótmæltu harkalega og deilunum lauk ekki með samkomulagi fyrr en í mars 1961.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1972",
+      "texti": "Bobby Fischer sigraði Boris Spasskí í „einvígi aldarinnar“ í Reykjavík, 12,5 gegn 8,5. Kalda stríðið fékk þar óvenju köflóttan vígvöll.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2017",
+      "texti": "Umhverfisstofnun stöðvaði starfsemi kísiliðjunnar United Silicon í Helguvík.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Dershowitz",
+      "starfsgrein": "lögmaður og rithöfundur",
+      "ar": "1938"
+    },
+    {
+      "nafn": "A. C. Bhaktivedanta Swami Prabhupada",
+      "starfsgrein": "trúarleiðtogi og stofnandi Alþjóðasamtaka um Krishna-vitund",
+      "ar": "1896"
+    },
+    {
+      "nafn": "Aisling Loftus",
+      "starfsgrein": "leikkona",
+      "ar": "1990"
+    },
+    {
+      "nafn": "An Yu-jin",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Babydaddy",
+      "starfsgrein": "tónlistarmaður og upptökustjóri",
+      "ar": "1976"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Brynjar Þór Níelsson",
+      "starfsgrein": "lögmaður og stjórnmálamaður",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Vilhjálmur Þór",
+      "starfsgrein": "athafnamaður og stjórnmálamaður",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Guðmundur Böðvarsson",
+      "starfsgrein": "skáld og þýðandi",
+      "ar": "1904"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dýrategund varð útdauð 1. september 1914?",
+      "svor": [
+        "Farþegadúfan",
+        "Geirfuglinn",
+        "Tasmaníutígrisdýrið",
+        "Flökkupáfagaukurinn"
+      ],
+      "rett": 0,
+      "skyring": "Síðasta farþegadúfan drapst í haldi árið 1914, þótt tegundin hefði áður talið milljarða fugla."
+    },
+    {
+      "spurning": "Hvers vegna mættu Reykvíkingar með bækur og blöð út á götu árið 1910?",
+      "svor": [
+        "Til að mótmæla bókaskatti",
+        "Til að prófa hvort lesbjart væri við nýju gasljósin",
+        "Til að halda fyrstu bókmenntahátíðina",
+        "Til að fagna opnun landsbókasafns"
+      ],
+      "rett": 1,
+      "skyring": "Nýju gasljósin þurftu vitaskuld að standast strangasta prófið: íslenskan upplestur undir berum himni."
+    },
+    {
+      "spurning": "Hvern sigraði Bobby Fischer í „einvígi aldarinnar“ í Reykjavík?",
+      "svor": [
+        "Anatólí Karpov",
+        "Garry Kasparov",
+        "Boris Spasskí",
+        "Héðin Steingrímsson"
+      ],
+      "rett": 2,
+      "skyring": "Fischer vann Spasskí 12,5 gegn 8,5 og varð heimsmeistari í skák."
+    }
+  ],
+  "tonlistUSA": "What's Love Got to Do with It – Tina Turner (1984)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
+  "bio": "A Trip to the Moon (1902)",
+  "ord_dagsins": {
+    "ord": "lesbjart",
+    "skyring": "Að vera lesbjart merkir að birtan sé nægileg til þess að hægt sé að lesa."
+  },
+  "vissir_thu": "Farþegadúfur töldust eitt sinn í milljörðum, en síðasti einstaklingur tegundarinnar drapst í haldi árið 1914.",
+  "stjornuspa": "Meyjan finnur í dag brýna þörf fyrir að raða bæði blýöntum og sögulegum ártölum eftir stærð. Varastu þó að leiðrétta almanakið fyrir framan aðra — það tekur gagnrýni furðu persónulega.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lunds_domkyrka_augusti_2012.jpg/500px-Lunds_domkyrka_augusti_2012.jpg",
+    "ar": "1145",
+    "texti": "Aðalaltari dómkirkjunnar í Lundi, sem þá var kaþólsk höfuðkirkja allra Norðurlanda, var helgað heilögum Lárentíusi og Maríu mey.",
+    "heimild": "https://en.wikipedia.org/wiki/Lund_Cathedral",
+    "breidd": 330,
+    "haed": 310
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

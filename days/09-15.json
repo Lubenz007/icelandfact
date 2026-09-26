@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-15",
+  "dagur": 15,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:49",
+  "sunset": "19:54",
+  "kvedja": "Góðan 15. september! Dagurinn hefur fært okkur jafnréttiskröfur, járnbrautir, djass og Agöthu Christie — sem er býsna gott hráefni í sögulega ráðgátu. Helltu upp á, haltu fast í hattinn við lestargrindina og njóttu ferðarinnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1791",
+      "texti": "Franska leikskáldið Olympe de Gouges birti Yfirlýsingu um réttindi konunnar og borgarans til að afhjúpa hve skammt franska byltingin hafði náð í jafnrétti kynjanna."
+    },
+    {
+      "ar": "1830",
+      "texti": "Járnbrautin milli Liverpool og Manchester var opnuð að viðstöddum hertoganum af Wellington. Hún var fyrsta eimreiðardrifna járnbrautin sem tengdi tvær stórborgir — framtíðin mætti sem sagt á teinum."
+    },
+    {
+      "ar": "1935",
+      "texti": "Nasistastjórnin í Þýskalandi setti Nürnberg-lögin, sem sviptu gyðinga þýskum ríkisborgararétti og lögfestu grimmilega mismunun."
+    },
+    {
+      "ar": "1963",
+      "texti": "Ku Klux Klan sprengdi 16th Street Baptist Church í Birmingham í Alabama. Fjórar stúlkur létust og að minnsta kosti fjórtán aðrir særðust í ódæðinu."
+    },
+    {
+      "ar": "2008",
+      "texti": "Lehman Brothers óskaði eftir gjaldþrotaskiptum með eignir yfir 600 milljörðum Bandaríkjadala. Það varð stærsta gjaldþrot sinnar tegundar í sögu Bandaríkjanna og öflug viðvörunarbjalla fjármálakreppunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1947",
+      "texti": "Átta ára gömul hélt Þórunn S. Jóhannsdóttir sína fyrstu píanótónleika í Reykjavík og var kölluð undrabarn. Síðar varð hún eiginkona píanóleikarans og hljómsveitarstjórans Vladimirs Ashkenazy.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Sjónvarpsútsendingar varnarliðsins á Keflavíkurflugvelli voru takmarkaðar við flugvallarsvæðið og næsta nágrenni.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1967",
+      "texti": "Þjóðgarður var stofnaður í Skaftafelli, þar sem jöklar, fjöll og sandar fengu formlegri vernd.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1981",
+      "texti": "Út af Rit veiddist sannkölluð risalúða: 268 sentimetra löng og meira en fjórðungur úr tonni að þyngd. Þar hefur þurft meira en venjulegan steikarpönnukost.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Agatha Christie",
+      "starfsgrein": "glæpasagnahöfundur og leikskáld",
+      "ar": "1890"
+    },
+    {
+      "nafn": "Ben Schwartz",
+      "starfsgrein": "leikari, grínisti og handritshöfundur",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Cannonball Adderley",
+      "starfsgrein": "djasssaxófónleikari og hljómsveitarstjóri",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Carmen Maura",
+      "starfsgrein": "leikkona",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Bob Anderson",
+      "starfsgrein": "skylmingamaður og bardagaatriðahöfundur",
+      "ar": "1922"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Jónsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Einar Hafliðason",
+      "starfsgrein": "rithöfundur og prestur",
+      "ar": "1307"
+    },
+    {
+      "nafn": "Samúel Jónsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1884"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða höfundur glæpasagna fæddist 15. september 1890?",
+      "svor": [
+        "Agatha Christie",
+        "Carmen Maura",
+        "Olympe de Gouges",
+        "Amanda Wakeley"
+      ],
+      "rett": 0,
+      "skyring": "Agatha Christie fæddist árið 1890 og gaf lesendum ótal morðgátur til að glíma við."
+    },
+    {
+      "spurning": "Milli hvaða borga opnaði tímamótajárnbraut árið 1830?",
+      "svor": [
+        "London og Oxford",
+        "Liverpool og Manchester",
+        "París og Lyon",
+        "Birmingham og Bristol"
+      ],
+      "rett": 1,
+      "skyring": "Liverpool og Manchester voru tengdar með fyrstu eimreiðardrifnu járnbrautinni milli tveggja stórborga."
+    },
+    {
+      "spurning": "Hversu löng var risalúðan sem veiddist út af Rit árið 1981?",
+      "svor": [
+        "198 sentimetrar",
+        "224 sentimetrar",
+        "268 sentimetrar",
+        "315 sentimetrar"
+      ],
+      "rett": 2,
+      "skyring": "Lúðan mældist 268 sentimetrar og hefði líklega þurft eigið sæti í strætó."
+    }
+  ],
+  "tonlistUSA": "What's Love Got to Do with It – Tina Turner (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "járnfákur",
+    "skyring": "Járnfákur er gamalt og myndrænt orð yfir eimreið eða lest."
+  },
+  "vissir_thu": "Agatha Christie skapaði bæði belgíska rannsóknarlögreglumanninn Hercule Poirot og hina bráðskörpu ungfrú Marple.",
+  "stjornuspa": "Meyjan finnur í dag skrúfu sem enginn annar tók eftir — og líklega líka rétta skúffu fyrir hana. Varastu þó að skipuleggja sjálfa skemmtunina svo vandlega að þú gleymir að skemmta þér.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Olympe_de_Gouges.png/500px-Olympe_de_Gouges.png",
+    "ar": "1791",
+    "texti": "Franska leikskáldið Olympe de Gouges birti Yfirlýsingu um réttindi konunnar og borgarans til að afhjúpa hve skammt franska byltingin hafði náð í jafnrétti kynjanna.",
+    "heimild": "https://en.wikipedia.org/wiki/Olympe_de_Gouges",
+    "breidd": 330,
+    "haed": 441
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

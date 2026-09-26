@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-12",
+  "dagur": 12,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:40",
+  "sunset": "20:05",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 12. september sveiflum við okkur frá konungsstóli í Tikal yfir á knattspyrnuvöll í Skotlandi og þaðan út í geim — sagan kann greinilega ekki að sitja kyrr. Haltu fast í kaffibollann; dagurinn hefur bæði keðjuverkanir og 36 mörk í farteskinu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "379",
+      "texti": "Yax Nuun Ahiin I tók við völdum sem ajaw, eða stjórnandi, í Mayaborginni Tikal. Þar var greinilega engin þörf á nútímalegri kosningabaráttu með slagorðum og kaffibollum."
+    },
+    {
+      "ar": "1309",
+      "texti": "Hersveitir Kastilíu náðu Gíbraltar af furstadæminu Granada í endurheimtinni á Íberíuskaga. Kletturinn frægi var þá þegar lykill að siglingaleiðinni milli Miðjarðarhafs og Atlantshafs."
+    },
+    {
+      "ar": "1885",
+      "texti": "Arbroath burstaði Bon Accord 36–0 í skosku bikarkeppninni í knattspyrnu. Úrslitin standa enn sem heimsmet í ófölsuðum leik atvinnuliða — markatalan hefur líklega tekið lengri tíma en hálfleiksræðan."
+    },
+    {
+      "ar": "1933",
+      "texti": "Eðlisfræðingurinn Leo Szilard fékk hugmyndina að kjarnakeðjuverkun meðan hann beið við umferðarljós í Bloomsbury í London. Sumir hugsa um kvöldmat við rauða ljósið; aðrir breyta gangi mannkynssögunnar."
+    },
+    {
+      "ar": "1992",
+      "texti": "Mae Jemison fór út í geim með geimferjunni Endeavour og varð þar með fyrsta svarta konan til að ferðast út í geim. Hún sýndi með eftirminnilegum hætti að himinninn er alls ekki endapunkturinn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1909",
+      "texti": "Sjúkrasamlag Reykjavíkur var stofnað að frumkvæði Oddfellowreglunnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1949",
+      "texti": "Á Dalatanga við Mjóafjörð mældist 26 °C hiti, mesti hiti sem mælst hefur á Íslandi í september.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1970",
+      "texti": "Leikfélag Reykjavíkur frumsýndi Kristnihald undir jökli eftir Halldór Laxness, með Gísla Halldórsson í hlutverki Jóns prímusar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Þörungaverksmiðjan á Reykhólum tók til starfa og færði sjávargróðann úr fjörunni inn í iðnaðarsöguna.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Benjamin McKenzie",
+      "starfsgrein": "leikari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Alfie Allen",
+      "starfsgrein": "leikari",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Barry White",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Ben Folds",
+      "starfsgrein": "söngvari, lagahöfundur og píanóleikari",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Bertie Ahern",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi forsætisráðherra Írlands",
+      "ar": "1951"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Freymóður Jóhannsson",
+      "starfsgrein": "tónskáld og textahöfundur",
+      "ar": "1895"
+    },
+    {
+      "nafn": "Jóhann Jónsson",
+      "starfsgrein": "rithöfundur og skáld",
+      "ar": "1896"
+    },
+    {
+      "nafn": "Kolbrún Jónsdóttir",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða afrek vann Mae Jemison árið 1992?",
+      "svor": [
+        "Hún varð fyrsta svarta konan til að ferðast út í geim",
+        "Hún gekk fyrst kvenna á tunglinu",
+        "Hún stjórnaði fyrstu ferð Endeavour",
+        "Hún varð fyrsta konan á alþjóðlegu geimstöðinni"
+      ],
+      "rett": 0,
+      "skyring": "Mae Jemison fór með Endeavour og braut þar bæði þyngdaraflið og sögulegan múr."
+    },
+    {
+      "spurning": "Hversu mörg mörk skoraði Arbroath gegn Bon Accord árið 1885?",
+      "svor": [
+        "18",
+        "24",
+        "36",
+        "42"
+      ],
+      "rett": 2,
+      "skyring": "Arbroath vann 36–0, svo markvörður Bon Accord hefur varla haft tíma til að leiðast."
+    },
+    {
+      "spurning": "Hvar mældist 26 °C septemberhiti á Íslandi árið 1949?",
+      "svor": [
+        "Á Reykhólum",
+        "Á Dalatanga",
+        "Á Akranesi",
+        "Í Reykjavík"
+      ],
+      "rett": 1,
+      "skyring": "Hitametið mældist á Dalatanga við Mjóafjörð."
+    }
+  ],
+  "tonlistUSA": "La Bamba – Los Lobos (1987)",
+  "tonlistUK": "Never Gonna Give You Up – Rick Astley (1987)",
+  "bio": "It (2017)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða hálfdimma, þegar dagur og nótt virðast skiptast á leynilegum skilaboðum."
+  },
+  "vissir_thu": "Leo Szilard sagði að hugmyndin að kjarnakeðjuverkun hefði kviknað hjá sér eftir að hann steig út á götu við rauð umferðarljós í London árið 1933.",
+  "stjornuspa": "Meyjan finnur í dag skrúfu sem hefur verið laus síðan 1987 og herðir hana af slíkri nákvæmni að Barry White hefði samið um það ástarballöðu. Varastu þó að skipuleggja kaffihléið svo vandlega að kaffið verði kalt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tikal_St04.jpg/500px-Tikal_St04.jpg",
+    "ar": "379",
+    "texti": "Yax Nuun Ahiin I tók við völdum sem ajaw, eða stjórnandi, í Mayaborginni Tikal. Þar var greinilega engin þörf á nútímalegri kosningabaráttu með slagorðum og kaffibollum.",
+    "heimild": "https://en.wikipedia.org/wiki/Yax_Nuun_Ahiin_I",
+    "breidd": 330,
+    "haed": 575
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

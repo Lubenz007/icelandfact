@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-07",
+  "dagur": 7,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:26",
+  "sunset": "20:23",
+  "kvedja": "Góðan 7. september! Í dag sveiflumst við frá Ríkharði ljónshjarta til brasilísks sjálfstæðis og endum hjá íslenskum handboltasnillingi — býsna drjúg dagskrá fyrir einn þriðjudag eða hvaða vikudag sem ber upp á. Helltu upp á, komdu þér vel fyrir og mundu að sagan kann best við sig með örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1191",
+      "texti": "Krossfarar undir stjórn Ríkharðs 1. Englandskonungs sigruðu her Saladíns í orrustunni við Arsuf í þriðju krossferðinni. Ríkharður hafði ekki fengið viðurnefnið ljónshjarta fyrir að sitja rólegur heima."
+    },
+    {
+      "ar": "1822",
+      "texti": "Pedro 1. lýsti yfir sjálfstæði Brasilíu frá Portúgal og lagði þar með grunninn að keisaradæminu Brasilíu."
+    },
+    {
+      "ar": "1936",
+      "texti": "Síðasti þekkti pok Úlfurinn, eða thylacine, drapst í haldi í dýragarðinum í Hobart í Ástralíu. Þar hvarf einstök dýrategund af sjónarsviðinu, þótt sögur um mögulega eftirlifendur hafi lengi lifað áfram."
+    },
+    {
+      "ar": "1986",
+      "texti": "Desmond Tutu varð fyrsti svarti leiðtogi anglíkönsku kirkjunnar í sunnanverðri Afríku. Það var stór áfangi á tímum þegar aðskilnaðarstefnan réð enn ríkjum í Suður-Afríku."
+    },
+    {
+      "ar": "2011",
+      "texti": "Flug Yak-Service 9633 fórst í flugtaki nærri Jaroslavl í Rússlandi með leikmenn og þjálfara íshokkíliðsins Lokomotiv Jaroslavl innanborðs. Af 45 um borð létust 44."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1947",
+      "texti": "Ísland gerðist aðili að Bernarsáttmálanum, alþjóðlegum samningi um vernd bókmennta og listaverka.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Stór mósaíkmynd Gerðar Helgadóttur á Tollstöðvarhúsinu í Reykjavík var afhjúpuð. Verkið er yfir 140 fermetrar og samsett úr meira en milljón steinum — þar hefur þurft bæði listfengi og óvenjulega góða þolinmæði.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1992",
+      "texti": "Haraldur 5. Noregskonungur og Sonja drottning komu í þriggja daga opinbera heimsókn til Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1997",
+      "texti": "Knattspyrnufélagið Framherjar-Smástund var stofnað í Vestmannaeyjum.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Elísabet 1. Englandsdrottning",
+      "starfsgrein": "Englandsdrottning",
+      "ar": "1533"
+    },
+    {
+      "nafn": "Alyssa Diaz",
+      "starfsgrein": "leikkona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Alex Kurtzman",
+      "starfsgrein": "leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Benmont Tench",
+      "starfsgrein": "hljómborðsleikari og lagahöfundur",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Angela Gheorghiu",
+      "starfsgrein": "óperusöngkona",
+      "ar": "1965"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Alfreð Gíslason",
+      "starfsgrein": "handknattleiksmaður og þjálfari",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Guðrún Helgadóttir",
+      "starfsgrein": "rithöfundur og stjórnmálamaður",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Sigfús Halldórsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1920"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða land lýsti Pedro 1. sjálfstætt frá Portúgal árið 1822?",
+      "svor": [
+        "Brasilíu",
+        "Argentínu",
+        "Mexíkó",
+        "Kólumbíu"
+      ],
+      "rett": 0,
+      "skyring": "Pedro 1. lýsti yfir sjálfstæði Brasilíu og varð síðar fyrsti keisari landsins."
+    },
+    {
+      "spurning": "Hvaða sögufrægi herforingi sigraði í orrustunni við Arsuf árið 1191?",
+      "svor": [
+        "Vilhjálmur bastarður",
+        "Ríkharður ljónshjarta",
+        "Jóhann landlausi",
+        "Hinrik 8."
+      ],
+      "rett": 1,
+      "skyring": "Ríkharður ljónshjarta stýrði krossförunum til sigurs gegn her Saladíns."
+    },
+    {
+      "spurning": "Hvaða íslenski handboltaþjálfari á afmæli 7. september?",
+      "svor": [
+        "Guðmundur Guðmundsson",
+        "Viggó Sigurðsson",
+        "Alfreð Gíslason",
+        "Dagur Sigurðsson"
+      ],
+      "rett": 2,
+      "skyring": "Alfreð Gíslason fæddist árið 1959 og hefur gert garðinn frægan bæði sem leikmaður og þjálfari."
+    }
+  ],
+  "tonlistUSA": "Macarena – Los del Río (1996)",
+  "tonlistUK": "Dancing Queen – ABBA (1976)",
+  "bio": "The Sixth Sense (1999)",
+  "ord_dagsins": {
+    "ord": "dægurþras",
+    "skyring": "Dægurþras er hversdagslegt amstur, áhyggjur eða nöldur sem fylgir daglegu lífi."
+  },
+  "vissir_thu": "Mósaíkverk Gerðar Helgadóttur á Tollstöðvarhúsinu í Reykjavík er yfir 140 fermetrar og gert úr meira en milljón steinum.",
+  "stjornuspa": "Meyjan finnur í dag skúffu sem þarf að skipuleggja og skoðun sem þarf að leiðrétta — hvort tveggja verður afgreitt fyrir hádegi. Varastu þó að raða vinum þínum í stafrófsröð; sumir þeirra eru viðkvæmir fyrir slíku.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/The_Third_Crusade_%281189-1192%29.png/500px-The_Third_Crusade_%281189-1192%29.png",
+    "ar": "1191",
+    "texti": "Krossfarar undir stjórn Ríkharðs 1. Englandskonungs sigruðu her Saladíns í orrustunni við Arsuf í þriðju krossferðinni. Ríkharður hafði ekki fengið viðurnefnið ljónshjarta fyrir að sitja rólegur heima.",
+    "heimild": "https://en.wikipedia.org/wiki/Third_Crusade",
+    "breidd": 330,
+    "haed": 233
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

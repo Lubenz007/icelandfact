@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-02",
+  "dagur": 2,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:11",
+  "sunset": "20:41",
+  "kvedja": "Góðan 2. september, kæri lesandi! Í dag kveikjum við fyrsta götuljós Reykjavíkur, fylgjumst með heimsveldi hrynja og sjáum mann stofna eigið furstadæmi á gömlu sjávarvirki — sagan hefur greinilega aldrei kunnað að halda sig á mottunni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1666",
+      "texti": "Lundúnabruninn mikli hófst í Pudding Lane og geisaði í fimm daga. Eldurinn lagði meðal annars gömlu St. Paul-dómkirkjuna og heimili um 70.000 borgarbúa í rúst."
+    },
+    {
+      "ar": "1870",
+      "texti": "Prússneskar hersveitir tóku Napóleon 3. Frakkakeisara til fanga í orrustunni við Sedan. Fáeinum dögum síðar hrundi annað franska keisaradæmið — heldur óþægilegur endir á vinnuferð keisarans."
+    },
+    {
+      "ar": "1901",
+      "texti": "Theodore Roosevelt, varaforseti Bandaríkjanna, notaði opinberlega orðalagið „talaðu mjúklega og berðu stóran staf“ á ríkissýningunni í Minnesota. Þar dró hann saman þá stefnu að semja friðsamlega en hafa styrkinn sýnilegan."
+    },
+    {
+      "ar": "1945",
+      "texti": "Fulltrúar Japans og Bandamanna undirrituðu formlega uppgjöf Japans um borð í bandaríska orrustuskipinu Missouri í Tókýóflóa. Þar með lauk síðari heimsstyrjöldinni formlega."
+    },
+    {
+      "ar": "1967",
+      "texti": "Paddy Roy Bates lýsti gamla Fort Roughs-sjávarvirkinu í Norðursjó sjálfstætt ríki og nefndi það Furstadæmið Sealand. Flestir eignast sumarbústað; Bates valdi sér furstadæmi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1354",
+      "texti": "Ólafur Bjarnarson hirðstjóri og Guðmundur Snorrason, tengdasonur hans, drukknuðu þegar skip þeirra fórst með allri áhöfn við strönd Þýskalands á leið í pílagrímsferð.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1625",
+      "texti": "Katla tók að gjósa með miklum eldgangi, vatnsflóði og ísreki fram Mýrdalssand. Samkvæmt Skarðsárannál varð öskumyrkrið svo svart að fólk sást ekki þótt það héldist í hendur.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1876",
+      "texti": "Kveikt var á fyrsta götuljósi Reykjavíkur, steinolíulugt á háum stólpa í Bakarabrekku, þar sem nú er Bankastræti. Höfuðborgin var loksins komin með örlítinn rofa á skammdegið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Brúin yfir Jökulsá á Breiðamerkursandi var vígð. Hún var 110 metra löng og næstlengsta hengibrú landsins og opnaði samgönguleið úr Öræfasveit til annarra landshluta.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Billy Preston",
+      "starfsgrein": "söngvari, lagahöfundur og píanóleikari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Christa McAuliffe",
+      "starfsgrein": "kennari og geimfari",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Alexandre Pato",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Andrej Babiš",
+      "starfsgrein": "tékkneskur stjórnmálamaður",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Aleksander Barkov",
+      "starfsgrein": "finnsk-rússneskur íshokkímaður",
+      "ar": "1995"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Grímur Grímsson",
+      "starfsgrein": "lögreglumaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Sigrún Þorsteinsdóttir",
+      "starfsgrein": "forsetaframbjóðandi",
+      "ar": "1941"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar hófst Lundúnabruninn mikli árið 1666?",
+      "svor": [
+        "Í Pudding Lane",
+        "Við Buckingham-höll",
+        "Á Trafalgar-torgi",
+        "Í Baker Street"
+      ],
+      "rett": 0,
+      "skyring": "Eldurinn hófst í Pudding Lane, götu með óvenju krúttlegt nafn fyrir svo skelfilegan atburð."
+    },
+    {
+      "spurning": "Hvers konar ljós lýsti fyrst upp götur Reykjavíkur árið 1876?",
+      "svor": [
+        "Rafmagnspera",
+        "Gasljós",
+        "Steinolíulugt",
+        "Vaxkerti í glerkassa"
+      ],
+      "rett": 2,
+      "skyring": "Fyrsta götuljósið var steinolíulugt á háum stólpa í Bakarabrekku."
+    },
+    {
+      "spurning": "Hvaða ríki varð til á gömlu sjávarvirki árið 1967?",
+      "svor": [
+        "Andorra",
+        "Sealand",
+        "Liechtenstein",
+        "San Marínó"
+      ],
+      "rett": 1,
+      "skyring": "Paddy Roy Bates lýsti yfir Furstadæminu Sealand á Fort Roughs í Norðursjó."
+    }
+  ],
+  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUK": "Tainted Love – Soft Cell (1981)",
+  "bio": "Raiders of the Lost Ark (1981)",
+  "ord_dagsins": {
+    "ord": "eldgangur",
+    "skyring": "Eldgangur er mikil og kröftug eldvirkni, einkum við eldgos."
+  },
+  "vissir_thu": "Brúin yfir Jökulsá á Breiðamerkursandi, sem vígð var þennan dag árið 1967, var 110 metra löng og þá næstlengsta hengibrú Íslands.",
+  "stjornuspa": "Meyjan finnur sterka löngun til að raða öllum blýöntum eftir lengd og bjarga um leið heimsmálunum fyrir hádegi. Taktu Theodore Roosevelt þér til fyrirmyndar: talaðu mjúklega, en hafðu myndarlegan verkefnalista við höndina.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Great_Fire_London.jpg/500px-Great_Fire_London.jpg",
+    "ar": "1666",
+    "texti": "Lundúnabruninn mikli hófst í Pudding Lane og geisaði í fimm daga. Eldurinn lagði meðal annars gömlu St. Paul-dómkirkjuna og heimili um 70.000 borgarbúa í rúst.",
+    "heimild": "https://en.wikipedia.org/wiki/Great_Fire_of_London",
+    "breidd": 330,
+    "haed": 192
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-13",
+  "dagur": 13,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:43",
+  "sunset": "20:01",
+  "kvedja": "Góðan 13. september! Í dag sveiflast sagan frá rómverskum musterum til tunglferða og tölvuleikjafaraldra — enda kann mannkynið sjaldan að hafa aðeins eitt járn í eldinum. Komdu þér vel fyrir; Sagnfræðingurinn hefur hitað kaffið og dustað rykið af annálunum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "509 f.Kr.",
+      "texti": "Samkvæmt rómverskri hefð var musteri Júpíters Optimus Maximus, mikilvægasta musteri Rómar til forna, vígt þennan dag. Þar var greinilega ekkert til sparað í hvorki guðdómi né nafngiftum."
+    },
+    {
+      "ar": "1567",
+      "texti": "Umsátrið um Inabayama-kastala hófst í Japan, lokaorrustan í herferð Oda Nobunaga til að leggja Mino-hérað undir sig. Umsátrinu lauk með afgerandi sigri Nobunaga."
+    },
+    {
+      "ar": "1848",
+      "texti": "Járnstöng skaust í gegnum höfuð járnbrautarverkstjórans Phineas Gage, sem lifði slysið ótrúlega af. Bati hans og breytingar á hegðun urðu síðar mikilvægt umræðuefni í sálfræði og taugavísindum."
+    },
+    {
+      "ar": "1959",
+      "texti": "Sovéska geimfarið Luna 2 skall á tunglinu og varð fyrsta geimfarið til að komast til annars hnattar. Lendingin var reyndar harðari en ferðaskrifstofur mæla almennt með."
+    },
+    {
+      "ar": "2005",
+      "texti": "Forritunarvilla hratt af stað sýndarfaraldri í tölvuleiknum World of Warcraft. Hegðun leikmanna reyndist síðar áhugavert líkan fyrir sóttvarnalækna sem rannsökuðu hvernig samskipti fólks hafa áhrif á útbreiðslu sjúkdóma."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1731",
+      "texti": "Um 600 manns komu saman á Þingvöllum þegar æðstu embættismenn landsins sóru Kristjáni 6. hollustueiða. Þetta var sagður mesti mannfjöldi sem þar hafði safnast saman í tvær aldir.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1891",
+      "texti": "Guðfinna Jónsdóttir var myrt við Svartárvatn á Norðaustur-Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1934",
+      "texti": "Rotaryklúbbur Reykjavíkur var stofnaður, fyrstur slíkra klúbba á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1981",
+      "texti": "Borgarfjarðarbrúin var vígð. Brúin er 520 metra löng og var næstlengsta brú landsins.",
+      "landshluti": "Vesturland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Savage",
+      "starfsgrein": "leikari",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Cesare Borgia",
+      "starfsgrein": "kardináli",
+      "ar": "1475"
+    },
+    {
+      "nafn": "Arnold Schoenberg",
+      "starfsgrein": "tónskáld og myndlistarmaður",
+      "ar": "1874"
+    },
+    {
+      "nafn": "Bill Monroe",
+      "starfsgrein": "söngvari, lagahöfundur og mandólínleikari",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Alain Ducasse",
+      "starfsgrein": "matreiðslumeistari",
+      "ar": "1956"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andrea Gylfadóttir",
+      "starfsgrein": "söngkona",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Jón Þórarinsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1917"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar varð fyrst til að komast til annars hnattar?",
+      "svor": [
+        "Luna 2",
+        "Apollo 8",
+        "Voyager 1",
+        "Sputnik 1"
+      ],
+      "rett": 0,
+      "skyring": "Luna 2 skall á tunglinu árið 1959 og tryggði sér þannig dálítið harkalegan sess í geimsögunni."
+    },
+    {
+      "spurning": "Hversu löng er Borgarfjarðarbrúin samkvæmt annál dagsins?",
+      "svor": [
+        "320 metrar",
+        "420 metrar",
+        "520 metrar",
+        "620 metrar"
+      ],
+      "rett": 2,
+      "skyring": "Borgarfjarðarbrúin er 520 metra löng — býsna drjúgur spölur yfir brúargólfið."
+    },
+    {
+      "spurning": "Í hvaða tölvuleik braust út sýndarfaraldur árið 2005?",
+      "svor": [
+        "Super Mario Bros.",
+        "World of Warcraft",
+        "Minecraft",
+        "The Sims"
+      ],
+      "rett": 1,
+      "skyring": "Faraldurinn geisaði í World of Warcraft og vakti meira að segja áhuga sóttvarnasérfræðinga."
+    }
+  ],
+  "tonlistUSA": "St. Elmo's Fire (Man in Motion) – John Parr (1985)",
+  "tonlistUK": "Dancing in the Street – David Bowie og Mick Jagger (1985)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða dauf birta þegar dagur og nótt takast kurteislega á um völdin."
+  },
+  "vissir_thu": "Luna 2 var fyrsta manngerða fyrirbærið sem komst til annars hnattar þegar það skall á tunglinu árið 1959.",
+  "stjornuspa": "Meyjan finnur í dag sterka löngun til að flokka bæði sokkaskúffuna og mannkynssöguna eftir stafrófsröð. Láttu eftir þér annað verkefnið, en mundu að jafnvel Rómaveldi hefði líklega lifað lengur með almennilegum merkimiðum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/TempleofCapitoliumRome.jpg/500px-TempleofCapitoliumRome.jpg",
+    "ar": "509 f.Kr.",
+    "texti": "Samkvæmt rómverskri hefð var musteri Júpíters Optimus Maximus, mikilvægasta musteri Rómar til forna, vígt þennan dag. Þar var greinilega ekkert til sparað í hvorki guðdómi né nafngiftum.",
+    "heimild": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Optimus_Maximus",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

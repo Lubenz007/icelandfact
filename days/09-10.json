@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-10",
+  "dagur": 10,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:35",
+  "sunset": "20:12",
+  "kvedja": "Góðan 10. september, kæri lesandi! Í dag hlaupum við berfætt til ólympíusigurs, hlýðum á Bach og rifjum upp daginn þegar Íslendingar gengu leynilega að kjörborðinu í fyrsta sinn — sagan kann greinilega bæði fúgu og fótaburð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1509",
+      "texti": "Öflugur jarðskjálfti í Marmarahafi lagði stóran hluta Konstantínópel í rúst og kostaði meira en þúsund manns lífið. Hamfarirnar voru síðar kallaðar „Litli dómsdagurinn“."
+    },
+    {
+      "ar": "1724",
+      "texti": "Johann Sebastian Bach stjórnaði frumflutningi kóralkantötunnar Jesu, der du meine Seele, BWV 78. Það var með öðrum orðum enginn venjulegur þriðjudagur í kirkjunni."
+    },
+    {
+      "ar": "1960",
+      "texti": "Eþíópíumaðurinn Abebe Bikila hljóp berfættur til sigurs í maraþoni Ólympíuleikanna í Róm og varð fyrsti íþróttamaðurinn frá Afríku sunnan Sahara til að vinna ólympíugull."
+    },
+    {
+      "ar": "1974",
+      "texti": "Portúgal viðurkenndi formlega sjálfstæði Gíneu-Bissá eftir aldalanga nýlendustjórn. Þar með var mikilvægur kafli í afnýlendun Afríku staðfestur á alþjóðavettvangi."
+    },
+    {
+      "ar": "2017",
+      "texti": "Fellibylurinn Irma gekk á land við Cudjoe Key í Flórída sem fjórða stigs fellibylur, eftir að hafa valdið gríðarlegu tjóni víða um Karíbahaf."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1908",
+      "texti": "Fyrstu almennu leynilegu kosningarnar til Alþingis voru haldnar; áður hafði fólk þurft að greina frá vali sínu í heyranda hljóði. Kjörsókn jókst verulega og náði 75,5 prósentum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1911",
+      "texti": "Minnisvarði Einars Jónssonar um Jón Sigurðsson var afhjúpaður framan við Stjórnarráðshúsið í Reykjavík. Styttan var síðar flutt á Austurvöll, þar sem Jón forseti fylgist enn með mannlífinu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1942",
+      "texti": "Þýsk orrustuflugvél réðst á tvo bæi við Breiðdalsvík og fimm báta undan Austurlandi. Hús skemmdust en fólk slapp án meiðsla.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1982",
+      "texti": "Tónleikarnir Risarokk voru haldnir í Laugardalshöll að undirlagi aðstandenda kvikmyndarinnar Rokk í Reykjavík. Íslenska rokkið mætti þar í sínu stærsta sparifötum — svörtu, að sjálfsögðu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amy Irving",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Alex Horne",
+      "starfsgrein": "breskur grínisti",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Bill O'Reilly",
+      "starfsgrein": "bandarískur fjölmiðlamaður og rithöfundur",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Ben Wallace",
+      "starfsgrein": "bandarískur körfuknattleiksmaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Alison Bechdel",
+      "starfsgrein": "bandarískur myndasöguhöfundur",
+      "ar": "1960"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Steingrímsson",
+      "starfsgrein": "prestur og eldklerkur",
+      "ar": "1728"
+    },
+    {
+      "nafn": "Kristján Helgi Guðmundsson",
+      "starfsgrein": "fyrrverandi bæjarstjóri Kópavogs",
+      "ar": "1943"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða afrek vann Abebe Bikila berfættur árið 1960?",
+      "svor": [
+        "Hann vann ólympíska maraþonið",
+        "Hann synti yfir Ermarsund",
+        "Hann sigraði í Tour de France",
+        "Hann setti heimsmet í hástökki"
+      ],
+      "rett": 0,
+      "skyring": "Bikila vann maraþonið í Róm án þess að láta skómálin flækjast fyrir sér."
+    },
+    {
+      "spurning": "Hvað var nýmæli við Alþingiskosningarnar 1908?",
+      "svor": [
+        "Konungurinn taldi öll atkvæðin",
+        "Kosið var rafrænt",
+        "Kosningarnar voru almennar og leynilegar",
+        "Aðeins mátti kjósa í Reykjavík"
+      ],
+      "rett": 2,
+      "skyring": "Í fyrsta sinn var ekki lengur nauðsynlegt að opinbera stjórnmálaskoðun sína við kjörborðið."
+    },
+    {
+      "spurning": "Hvaða tónskáld stjórnaði frumflutningi kantötu BWV 78 árið 1724?",
+      "svor": [
+        "Wolfgang Amadeus Mozart",
+        "Johann Sebastian Bach",
+        "Ludwig van Beethoven",
+        "Georg Friedrich Händel"
+      ],
+      "rett": 1,
+      "skyring": "Bach hélt um stjórnvölinn, löngu áður en lagalistar og streymisveitur tóku við."
+    }
+  ],
+  "tonlistUSA": "Maniac – Michael Sembello (1983)",
+  "tonlistUK": "Way Down – Elvis Presley (1977)",
+  "bio": "It (2017)",
+  "ord_dagsins": {
+    "ord": "heyrinkunnur",
+    "skyring": "Sá sem er víðfrægur eða mörgum vel kunnur."
+  },
+  "vissir_thu": "Abebe Bikila vann ólympíska maraþonið í Róm árið 1960 berfættur og varð um leið fyrsti gullverðlaunahafi Ólympíuleika frá Afríku sunnan Sahara.",
+  "stjornuspa": "Meyjan finnur í dag skjal sem hún hélt að væri glatað — líklega undir snyrtilega flokkaða skjalinu sem merkt er „ýmislegt“. Ekki endurskipuleggja allt heimilið fyrir hádegi; sagan kennir okkur að jafnvel heimsveldi þurfa kaffihlé.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/500px-Johann_Sebastian_Bach.jpg",
+    "ar": "1724",
+    "texti": "Johann Sebastian Bach stjórnaði frumflutningi kóralkantötunnar Jesu, der du meine Seele, BWV 78. Það var með öðrum orðum enginn venjulegur þriðjudagur í kirkjunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "breidd": 330,
+    "haed": 428
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

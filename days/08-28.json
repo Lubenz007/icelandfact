@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-28",
+  "dagur": 28,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "05:57",
+  "sunset": "20:58",
+  "kvedja": "Góðan 28. ágúst! Í dag þeysumst við frá fallandi Rómaveldi og kappakstri gufulestar við hestvagn alla leið út að smástirninu Idu — sagan kann sannarlega ekki að sitja kyrr. Helltu upp á og njóttu ferðarinnar með mér.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "475",
+      "texti": "Orestes náði Ravenna, höfuðborg Vestrómverska ríkisins, á sitt vald og neyddi Julius Nepos keisara til að flýja. Keisaradæmið var þá farið að riða til falls, svo vægt sé til orða tekið."
+    },
+    {
+      "ar": "1789",
+      "texti": "William Herschel beindi nýjum 1,2 metra sjónauka sínum til himins og uppgötvaði tungl Satúrnusar sem síðar fékk nafnið Enceladus. Þetta var stærsti sjónauki heims á þeim tíma."
+    },
+    {
+      "ar": "1830",
+      "texti": "Tom Thumb, fyrsta gufulestin sem smíðuð var í Bandaríkjunum, tók óvænt þátt í kappakstri við hestvagn í Maryland. Ný tækni og gamalt hestafl mættust þar bókstaflega á teinunum."
+    },
+    {
+      "ar": "1963",
+      "texti": "Martin Luther King Jr. flutti ræðuna „I Have a Dream“ á göngunni miklu til Washington og krafðist borgaralegra og efnahagslegra réttinda og endaloka kynþáttafordóma í Bandaríkjunum."
+    },
+    {
+      "ar": "1993",
+      "texti": "Geimfarið Galileo flaug fram hjá smástirninu 243 Ida og tók ljósmyndir sem síðar leiddu í ljós fyrsta þekkta tungl smástirnis. Jafnvel smástirni geta sem sagt átt lítinn ferðafélaga."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1818",
+      "texti": "Landsbókasafn Íslands var stofnað undir nafninu Íslands stiftis bókasafn. Þar var lagður mikilvægur grunnur að varðveislu íslensks prentmáls og menningararfs.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Tólf manna áhöfn Stíganda frá Ólafsfirði var bjargað eftir rúmlega fjögurra sólarhringa hrakningar í björgunarbát norður í höfum. Slysið varð síðar tilefni þess að tilkynningaskyldu íslenskra skipa var komið á.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1982",
+      "texti": "Pönktónleikarnir Melarokk voru haldnir í Reykjavík. Þar fékk íslenska pönkið svið, hávaða og hæfilega mikið uppreisnarskap.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2009",
+      "texti": "Alþingi samþykkti umdeild lög um ríkisábyrgð vegna milliríkjadeilnanna sem kenndar eru við Icesave. Málið átti eftir að halda þjóðmálaumræðunni rækilega vakandi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Gazzara",
+      "starfsgrein": "leikari",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Brian Thompson",
+      "starfsgrein": "leikari og kvikmyndagerðarmaður",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Ai Weiwei",
+      "starfsgrein": "myndlistarmaður og aðgerðasinni",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Edward Burne-Jones",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1833"
+    },
+    {
+      "nafn": "Andreja Pejić",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1991"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hjálmar Hjálmarsson",
+      "starfsgrein": "leikari",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Friðþjófur Thorsteinsson",
+      "starfsgrein": "knattspyrnumaður, þjálfari og íþróttaforystumaður",
+      "ar": "1895"
+    },
+    {
+      "nafn": "Karl Guðmundsson",
+      "starfsgrein": "leikari",
+      "ar": "1924"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða himintungl uppgötvaði William Herschel 28. ágúst 1789?",
+      "svor": [
+        "Enceladus",
+        "Evrópu",
+        "Triton",
+        "Fóbos"
+      ],
+      "rett": 0,
+      "skyring": "Enceladus er ískalt tungl Satúrnusar og reyndist heldur glæsilegur fengur fyrir nýjan sjónauka."
+    },
+    {
+      "spurning": "Hvað keppti við gufulestina Tom Thumb árið 1830?",
+      "svor": [
+        "Seglskip",
+        "Reiðhjól",
+        "Hestvagn",
+        "Önnur gufulest"
+      ],
+      "rett": 2,
+      "skyring": "Hestvagninn mætti nýjustu tækni samtímans í kappakstri sem hefði sómt sér vel í teiknimynd."
+    },
+    {
+      "spurning": "Hvaða íslenska tónlistarviðburður var haldinn í Reykjavík árið 1982?",
+      "svor": [
+        "Melarokk",
+        "Hróarskelduhátíðin",
+        "Þjóðhátíð",
+        "Aldrei fór ég suður"
+      ],
+      "rett": 0,
+      "skyring": "Melarokk gaf íslensku pönki hressilega útrás í Reykjavík."
+    }
+  ],
+  "tonlistUSA": "I Got You Babe – Sonny & Cher (1965)",
+  "tonlistUK": "Help! – The Beatles (1965)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "hrakningar",
+    "skyring": "Hrakningar eru erfið og hættuleg ferðalög eða langvarandi volk, gjarnan vegna veðurs eða óhappa."
+  },
+  "vissir_thu": "Ljósmyndir Galileo af smástirninu 243 Ida leiddu í ljós fyrsta tunglið sem vitað var að gengi um smástirni.",
+  "stjornuspa": "Meyjan finnur í dag gamla minnisbók, þrjá ógreidda reikninga og lausn á vandamáli sem enginn annar hafði tekið eftir. Raðaðu vandlega, en mundu að jafnvel William Herschel þurfti fyrst að líta upp frá verkfærunum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/500px-William_Herschel01.jpg",
+    "ar": "1789",
+    "texti": "William Herschel beindi nýjum 1,2 metra sjónauka sínum til himins og uppgötvaði tungl Satúrnusar sem síðar fékk nafnið Enceladus. Þetta var stærsti sjónauki heims á þeim tíma.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Herschel",
+    "breidd": 330,
+    "haed": 404
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

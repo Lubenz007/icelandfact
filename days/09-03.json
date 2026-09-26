@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-03",
+  "dagur": 3,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:14",
+  "sunset": "20:37",
+  "kvedja": "Góðan 3. september! Í dag fljúgum við frá Býsans til Vatnsmýrar, með viðkomu á breskum fljótum og skelfilegum vígstöðvum tuttugustu aldar. Haltu fast í kaffibollann — sagan á það til að hrista tímavélina.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "36 f.Kr.",
+      "texti": "Uppreisninni á Sikiley gegn öðru þríveldinu í Róm lauk þegar floti Sextusar Pompeiusar beið ósigur í orrustunni við Naulochus. Þar með hallaði enn frekar undan fæti fyrir andstæðingum valdamannanna í Róm."
+    },
+    {
+      "ar": "863",
+      "texti": "Býsansmenn unnu afgerandi sigur á emírnum af Melitene í orrustunni við Lalakaon. Sigurinn markaði upphaf tímabils aukinna yfirburða Býsansveldis í átökunum við araba."
+    },
+    {
+      "ar": "1878",
+      "texti": "Farþegaskipið SS Princess Alice sökk í Thames eftir árekstur við kolaflutningaskipið Bywell Castle. Meira en 600 manns fórust í einu mannskæðasta sjóslysi Bretlands."
+    },
+    {
+      "ar": "1942",
+      "texti": "Íbúar Łachwa-gettósins í hernumdu Póllandi risu upp gegn nasistum eftir að þeir fréttu af yfirvofandi eyðingu gettósins. Uppreisnin, sem kann að hafa verið sú fyrsta sinnar tegundar í gettói gyðinga, náði ekki að stöðva böðlana."
+    },
+    {
+      "ar": "2017",
+      "texti": "Norður-Kórea framkvæmdi sjöttu og öflugustu kjarnorkutilraun sína við Punggye-ri. Sprengingin olli jarðskjálfta af stærðinni 6,3 — óhugnanlegur skjálfti af mannavöldum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1886",
+      "texti": "Steypiregn og skriðuföll á Kjalarnesi ollu miklu tjóni á túnum og húsum. Íslenskt veður sýndi enn og aftur að það þarf enga formlega boðun til að taka völdin.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1919",
+      "texti": "Breski flugmaðurinn Cecil Faber flaug Avro-flugvél í Vatnsmýrinni í Reykjavík og varð það fyrsta flugið á Íslandi. Flugöldin hófst því hér heima á mýri, eins og ýmis önnur stórvirki.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1921",
+      "texti": "Vígð var 206 metra löng brú yfir Jökulsá á Sólheimasandi. Hún þótti ein mesta og vandaðasta brú landsins á sínum tíma.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1988",
+      "texti": "Óseyrarbrú yfir ósa Ölfusár var tekin í notkun. Við það styttist leiðin milli Þorlákshafnar og Eyrarbakka úr 45 kílómetrum í aðeins 15.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charlie Sheen",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Alan Ladd",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1913"
+    },
+    {
+      "nafn": "Al Jardine",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1942"
+    },
+    {
+      "nafn": "August Alsina",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Carl David Anderson",
+      "starfsgrein": "eðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1905"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ari Trausti Guðmundsson",
+      "starfsgrein": "jarðfræðingur, rithöfundur og stjórnmálamaður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Björn Th. Björnsson",
+      "starfsgrein": "listfræðingur og rithöfundur",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Leifur Muller",
+      "starfsgrein": "kaupmaður og fyrrverandi fangi í fangabúðum nasista",
+      "ar": "1920"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar fór fyrsta flug á Íslandi fram árið 1919?",
+      "svor": [
+        "Í Vatnsmýrinni",
+        "Á Sólheimasandi",
+        "Á Kjalarnesi",
+        "Við ósa Ölfusár"
+      ],
+      "rett": 0,
+      "skyring": "Cecil Faber hóf íslenska flugsögu í Vatnsmýrinni á Avro-flugvél."
+    },
+    {
+      "spurning": "Hvað varð um SS Princess Alice árið 1878?",
+      "svor": [
+        "Skipið strandaði við Sikiley",
+        "Skipið sökk í Thames eftir árekstur",
+        "Skipið brann í höfn í Ottawa",
+        "Skipinu var breytt í herskip"
+      ],
+      "rett": 1,
+      "skyring": "Princess Alice sökk í Thames eftir árekstur við Bywell Castle og meira en 600 fórust."
+    },
+    {
+      "spurning": "Hversu mikið styttist leiðin milli Þorlákshafnar og Eyrarbakka með Óseyrarbrú?",
+      "svor": [
+        "Úr 60 í 30 kílómetra",
+        "Úr 45 í 25 kílómetra",
+        "Úr 45 í 15 kílómetra",
+        "Úr 30 í 10 kílómetra"
+      ],
+      "rett": 2,
+      "skyring": "Brúin skar heila 30 kílómetra af leiðinni — býsna myndarleg vegastytting."
+    }
+  ],
+  "tonlistUSA": "Sweet Dreams (Are Made of This) – Eurythmics (1983)",
+  "tonlistUK": "Red Red Wine – UB40 (1983)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "grúsk",
+    "skyring": "Grúsk er þolinmóð og oft ástríðufull rannsóknarvinna þar sem kafað er ofan í smáatriðin."
+  },
+  "vissir_thu": "Eðlisfræðingurinn Carl David Anderson, sem fæddist þennan dag árið 1905, uppgötvaði jáeindina og hlaut síðar Nóbelsverðlaunin í eðlisfræði.",
+  "stjornuspa": "Meyjan finnur í dag skjal sem hún hélt að væri glatað, líklega undir öðru skjali sem var vandlega merkt. Röð og regla bera sigur úr býtum, en stjörnurnar mæla samt með einni óskipulagðri kökusneið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/S_Pomp%C3%A9e_aureus_Sicile_C_des_M.jpg/500px-S_Pomp%C3%A9e_aureus_Sicile_C_des_M.jpg",
+    "ar": "36 f.Kr.",
+    "texti": "Uppreisninni á Sikiley gegn öðru þríveldinu í Róm lauk þegar floti Sextusar Pompeiusar beið ósigur í orrustunni við Naulochus. Þar með hallaði enn frekar undan fæti fyrir andstæðingum valdamannanna í Róm.",
+    "heimild": "https://en.wikipedia.org/wiki/War_between_Sextus_Pompey_and_the_Second_Triumvirate",
+    "breidd": 330,
+    "haed": 300
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

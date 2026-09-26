@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-11",
+  "dagur": 11,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:37",
+  "sunset": "20:09",
+  "kvedja": "Góðan dag, kæri lesandi, á þessum 11. september. Dagurinn geymir bæði þunga kafla mannkynssögunnar og bjartari tóna — allt frá trúarbragðaþingi í Chicago til tónlistar Arvos Pärt, svo við skulum fletta varlega en forvitin í gegnum annálana.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1649",
+      "texti": "Her Olivers Cromwell braut umsátrið um Drogheda á Írlandi, tók bæinn og myrti liðsmenn setuliðsins. Þetta varð einn blóðugasti og umdeildasti kafli landvinninga Cromwells á Írlandi."
+    },
+    {
+      "ar": "1851",
+      "texti": "Nærri Christiana í Pennsylvaníu vörðust hópur flóttaþræla og frjálsra svartra manna, undir forystu Williams Parker, alríkissveit sem ætlaði að handsama flóttafólkið og senda aftur í þrældóm."
+    },
+    {
+      "ar": "1893",
+      "texti": "Swami Vivekananda kynnti hindúisma fyrir fjölþjóðlegum áheyrendum á fyrsta þingi trúarbragða heimsins í Chicago. Ræðan varð mikilvægt augnablik í kynningu indverskrar trúarheimspeki á Vesturlöndum."
+    },
+    {
+      "ar": "1945",
+      "texti": "Ástralska 9. herdeildin frelsaði Batu Lintang-fangabúðirnar á Borneó. Með því var komið í veg fyrir fyrirhugað fjöldamorð á meira en tvö þúsund stríðsföngum og óbreyttum föngum, aðeins fjórum dögum áður en það átti að fara fram."
+    },
+    {
+      "ar": "2001",
+      "texti": "Al-Kaída rændi fjórum farþegaþotum og beitti þeim í hryðjuverkum gegn skotmörkum í New York og við Washington. Alls létust 2.977 manns og árásirnar mörkuðu djúp spor í heimssöguna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1755",
+      "texti": "Mikill jarðskjálfti reið yfir Norðurland með skriðuföllum og sprungumyndun. Hús féllu á Húsavík og Tjörnesi og tveir bátar fórust í flóðbylgju sem skjálftinn olli.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1953",
+      "texti": "Fjórða ríkisstjórn Ólafs Thors tók við völdum. Hún sat næstu þrjú árin — sem telst býsna góð ending í pólitískum annálum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1976",
+      "texti": "Rænd farþegaþota frá TWA hafði tveggja klukkustunda viðkomu á Keflavíkurflugvelli til eldsneytistöku. Vélin hélt síðan til Parísar, þar sem ræningjarnir gáfust upp.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1976",
+      "texti": "Fjölbrautaskóli Suðurnesja var settur í fyrsta sinn. Þar hófst skólasaga sem hefur síðan fylgt ófáum Suðurnesjamönnum inn í fullorðinsárin.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amy Madigan",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1950"
+    },
+    {
+      "nafn": "D. H. Lawrence",
+      "starfsgrein": "enskur rithöfundur og ljóðskáld",
+      "ar": "1885"
+    },
+    {
+      "nafn": "Ariana Richards",
+      "starfsgrein": "bandarísk leikkona og myndlistarkona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Arvo Pärt",
+      "starfsgrein": "eistneskt tónskáld",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Carl Zeiss",
+      "starfsgrein": "þýskur sjónglerjasmiður",
+      "ar": "1816"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Egill Þórhallason",
+      "starfsgrein": "íslenskur trúboðsprestur á Grænlandi",
+      "ar": "1734"
+    },
+    {
+      "nafn": "Guðmundur Ásbjörnsson",
+      "starfsgrein": "íslenskur bæjarfulltrúi",
+      "ar": "1880"
+    },
+    {
+      "nafn": "Jón Helgason",
+      "starfsgrein": "íslenskur stórkaupmaður í Kaupmannahöfn",
+      "ar": "1884"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hugsuður kynnti hindúisma á þingi trúarbragða heimsins í Chicago árið 1893?",
+      "svor": [
+        "Swami Vivekananda",
+        "Arvo Pärt",
+        "Carl Zeiss",
+        "D. H. Lawrence"
+      ],
+      "rett": 0,
+      "skyring": "Swami Vivekananda steig í pontu og opnaði mörgum Vesturlandabúum nýja sýn á hindúisma."
+    },
+    {
+      "spurning": "Hvar hafði rænd TWA-farþegaþota viðkomu á Íslandi árið 1976?",
+      "svor": [
+        "Akureyrarflugvelli",
+        "Keflavíkurflugvelli",
+        "Egilsstaðaflugvelli",
+        "Reykjavíkurflugvelli"
+      ],
+      "rett": 1,
+      "skyring": "Vélin tók eldsneyti í Keflavík áður en hún hélt áfram til Parísar."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins var þekktur sjónglerjasmiður?",
+      "svor": [
+        "D. H. Lawrence",
+        "Carl Zeiss",
+        "Arvo Pärt",
+        "Egill Þórhallason"
+      ],
+      "rett": 1,
+      "skyring": "Carl Zeiss helgaði sig sjóntækjum — maður sem bókstaflega skerpti sýn samtímans."
+    }
+  ],
+  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUK": "Dancing Queen – ABBA (1976)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "annáll",
+    "skyring": "Annáll er rit þar sem atburðir eru skráðir í tímaröð, gjarnan ár fyrir ár."
+  },
+  "vissir_thu": "Batu Lintang-fangabúðirnar voru frelsaðar aðeins fjórum dögum áður en fyrirhugað fjöldamorð á meira en tvö þúsund föngum átti að fara fram.",
+  "stjornuspa": "Meyjan finnur í dag gamlan minnismiða, lagar stafsetninguna og leysir um leið vandamál sem enginn annar hafði tekið eftir. Varastu þó að raða kryddhillunni eftir fæðingarári — sumt skipulag má bíða til morguns.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Oliver_Cromwell_by_Samuel_Cooper.jpg/500px-Oliver_Cromwell_by_Samuel_Cooper.jpg",
+    "ar": "1649",
+    "texti": "Her Olivers Cromwell braut umsátrið um Drogheda á Írlandi, tók bæinn og myrti liðsmenn setuliðsins. Þetta varð einn blóðugasti og umdeildasti kafli landvinninga Cromwells á Írlandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Cromwellian_conquest_of_Ireland",
+    "breidd": 330,
+    "haed": 401
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

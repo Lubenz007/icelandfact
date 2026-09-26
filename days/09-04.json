@@ -1,0 +1,139 @@
+{
+  "mmdd": "09-04",
+  "dagur": 4,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:17",
+  "sunset": "20:34",
+  "kvedja": "Góðan daginn, kæru sagnfræðiunnendur! Það er 4. september og haustið er komið, en við látum það ekki stoppa okkur frá því að kafa ofan í söguna. Í dag er dagurinn þar sem risaveldi féll og tæknin tók stökk, svo við skulum sjá hvað fleira þessi dagur hefur upp á að bjóða!",
+  "nafnadagur": "Rósa",
+  "atburdir": [
+    {
+      "ar": "476",
+      "texti": "Germanski leiðtoginn Odoacer náði Ravenna á sitt vald og velti keisaranum Rómúlusi Ágústusi af stóli, sem markaði endalok Vestrómverska ríkisins."
+    },
+    {
+      "ar": "1666",
+      "texti": "Mestu eyðilegginguna af Veldinu eldi í Lundúnum átti sér stað, þar sem stór hluti borgarinnar brann til kaldra kola."
+    },
+    {
+      "ar": "1886",
+      "texti": "Eftir meira en 25 ára baráttu gegn bandaríska hernum og herafla Mexíkó gaf Geronimo, höfðingi Chiricahua Apacha, sig fram í Skeleton Canyon í Arizona."
+    },
+    {
+      "ar": "1957",
+      "texti": "Ríkisstjórinn Orval Faubus sendi þjóðvarðlið Arkansas til að koma í veg fyrir að níu afrísk-amerískir nemendur gætu sótt Little Rock Central High School."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1845",
+      "texti": "Jón Sigurðsson, þá 34 ára skjalavörður, og Ingibjörg Einarsdóttir Johnson, 40 ára, voru gefin saman í hjónaband, sem var án efa stór stund í sögu þeirra.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1943",
+      "texti": "Íslandsklukkan eftir Halldór Kiljan Laxness kom út og hlaut mjög góðar viðtökur meðal landsmanna, sem var engin furða miðað við snilli höfundarins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Menntamálaráðherra ákvað að fella brott bókstafinn z úr opinberu íslensku ritmáli, sem olli eflaust nokkrum umræðum á sínum tíma.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1984",
+      "texti": "Síðasta hrina Kröfluelda hófst, sú níunda í röðinni, og var hún kraftmest og stóð í hálfan mánuð. Í þessari hrinu runnu 24 km² af hrauni, sem er ansi mikið miðað við smæð landsins.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Blackie Lawless",
+      "starfsgrein": "amerískur söngvari og gítarleikari",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Al-Biruni",
+      "starfsgrein": "persneskur læknir og fjölfræðingur",
+      "ar": "973"
+    },
+    {
+      "nafn": "Anton Bruckner",
+      "starfsgrein": "austurrískur organisti og tónskáld",
+      "ar": "1824"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þórður Sveinbjörnsson",
+      "starfsgrein": "háyfirdómari",
+      "ar": "1786"
+    },
+    {
+      "nafn": "Kjartan Ólafsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Hörður Torfason",
+      "starfsgrein": "trúbadúr",
+      "ar": "1945"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bókstaf var fella brott úr opinberu íslensku ritmáli þennan dag árið 1973?",
+      "svor": [
+        "X",
+        "Z",
+        "Q",
+        "W"
+      ],
+      "rett": 1,
+      "skyring": "Já, það var bókstafurinn Z sem fékk að fjúka úr íslensku ritmáli."
+    },
+    {
+      "spurning": "Hvaða risaveldi féll þennan dag árið 476?",
+      "svor": [
+        "Austrómverska ríkið",
+        "Vestrómverska ríkið",
+        "Persneska ríkið",
+        "Egyptaland hið forna"
+      ],
+      "rett": 1,
+      "skyring": "Vestrómverska ríkið leið undir lok þennan dag þegar Rómúlus Ágústus var settur af."
+    },
+    {
+      "spurning": "Hvaða fræga leitarvél var stofnuð þennan dag árið 1998?",
+      "svor": [
+        "Yahoo",
+        "Bing",
+        "Google",
+        "Altavista"
+      ],
+      "rett": 2,
+      "skyring": "Google var stofnað þennan dag og hefur síðan breytt því hvernig við leitum upplýsinga."
+    }
+  ],
+  "tonlistUSA": "Endless Love – Diana Ross & Lionel Richie (1981)",
+  "tonlistUK": "Don't You Want Me – The Human League (1981)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "skraufþurr",
+    "skyring": "Algjörlega þurr, án nokkurs raka."
+  },
+  "vissir_thu": "Vissir þú að elsta varðveitta píanó heims var smíðað árið 1720 af Bartolomeo Cristofori?",
+  "stjornuspa": "Meyja, í dag gætir þú fundið þig í miðju sögulegra atburða, eða að minnsta kosti í miðju góðrar bók. Vertu skipulögð en ekki gleyma að njóta augnabliksins, jafnvel þótt það sé svolítið óreiðukennt!",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Bronze_figure_of_a_German_Biblioth%C3%A8que_Nationale.jpg/500px-Bronze_figure_of_a_German_Biblioth%C3%A8que_Nationale.jpg",
+    "ar": "476",
+    "texti": "Germanski leiðtoginn Odoacer náði Ravenna á sitt vald og velti keisaranum Rómúlusi Ágústusi af stóli, sem markaði endalok Vestrómverska ríkisins.",
+    "heimild": "https://en.wikipedia.org/wiki/Germanic_peoples",
+    "breidd": 330,
+    "haed": 353
+  },
+  "veitandi": "Gemini",
+  "uppfaert": "2026-09-26"
+}

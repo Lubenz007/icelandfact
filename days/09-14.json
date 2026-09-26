@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-14",
+  "dagur": 14,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:46",
+  "sunset": "19:58",
+  "kvedja": "Góðan 14. september, kæri lesandi! Í dag hoppum við yfir ellefu almanaksdaga, hlustum eftir þyngdarbylgjum og gleðjumst yfir því að áhöfn Geysis komst heil frá ævintýrinu á Vatnajökli. Sagan kann greinilega bæði að hvísla og láta til sín taka.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "81",
+      "texti": "Rómverska öldungaráðið staðfesti Dómitíanus sem eftirmann Títusar bróður hans. Þar með varð hann síðasti keisarinn af flavísku ættinni."
+    },
+    {
+      "ar": "1752",
+      "texti": "Breska heimsveldið tók upp gregoríska tímatalið og sleppti ellefu dögum úr september. Almanakið tók sem sagt óvenjustórt stökk án þess að spyrja neinn leyfis."
+    },
+    {
+      "ar": "1901",
+      "texti": "Theodore Roosevelt tók við forsetaembætti Bandaríkjanna, 42 ára gamall, átta dögum eftir að William McKinley var skotinn banaskoti. Roosevelt varð yngsti maður sem tekið hefur við embættinu."
+    },
+    {
+      "ar": "1914",
+      "texti": "HMAS AE1, fyrsti kafbátur konunglega ástralska flotans, týndist í hafi. Flak hans fannst ekki fyrr en árið 2017."
+    },
+    {
+      "ar": "2015",
+      "texti": "Vísindamenn LIGO- og Virgo-verkefnanna greindu í fyrsta sinn þyngdarbylgjur, fyrirbæri sem Henri Poincaré hafði spáð fyrir um árið 1905. Alheimurinn hafði loksins látið heyra í sér, þótt enginn bjölluhljómur fylgdi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1625",
+      "texti": "Katla gaus og afleiðingarnar urðu skelfilegar: 25 bæir fóru í eyði.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1848",
+      "texti": "Dómkirkjan í Reykjavík var vígð í annað sinn eftir gagngerar endurbætur, rúmri hálfri öld eftir fyrstu vígsluna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1950",
+      "texti": "Farþegaflugvélin Geysir brotlenti á Bárðarbungu á Vatnajökli á leið frá Lúxemborg til Reykjavíkur. Vélin fannst eftir fjóra daga og allir sex í áhöfninni komust lífs af.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1965",
+      "texti": "Breska hljómsveitin The Kinks kom til Íslands og lék átta sinnum á fjórum dögum í Austurbæjarbíói, í hvert sinn fyrir fullu húsi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amy Winehouse",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Alexander von Humboldt",
+      "starfsgrein": "landfræðingur og landkönnuður",
+      "ar": "1769"
+    },
+    {
+      "nafn": "Alex Clare",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Alberto Korda",
+      "starfsgrein": "ljósmyndari",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Al-Ma'mun",
+      "starfsgrein": "kalífi Abbasída",
+      "ar": "768"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sigurður Nordal",
+      "starfsgrein": "rithöfundur og fræðimaður",
+      "ar": "1886"
+    },
+    {
+      "nafn": "Helgi Sigurðsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Brynjólfur Sveinsson",
+      "starfsgrein": "biskup í Skálholti",
+      "ar": "1605"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu mörgum dögum sleppti Breska heimsveldið þegar gregoríska tímatalið var tekið upp árið 1752?",
+      "svor": [
+        "Sjö dögum",
+        "Ellefu dögum",
+        "Þrettán dögum",
+        "Heilum mánuði"
+      ],
+      "rett": 1,
+      "skyring": "Ellefu dagar hurfu úr dagatalinu, sem hlýtur að teljast rækilegasta leið sögunnar til að stytta vinnuvikuna."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall gaus 14. september 1625?",
+      "svor": [
+        "Hekla",
+        "Askja",
+        "Katla",
+        "Eldfell"
+      ],
+      "rett": 2,
+      "skyring": "Það var Katla, og gosið varð til þess að 25 bæir fóru í eyði."
+    },
+    {
+      "spurning": "Hvaða söngkona, fædd 14. september 1983, er meðal afmælisbarna dagsins?",
+      "svor": [
+        "Adele",
+        "Amy Winehouse",
+        "Duffy",
+        "Annie Lennox"
+      ],
+      "rett": 1,
+      "skyring": "Amy Winehouse fæddist þennan dag árið 1983 og skildi eftir sig ógleymanlega rödd."
+    }
+  ],
+  "tonlistUSA": "St. Elmo's Fire (Man in Motion) – John Parr (1985)",
+  "tonlistUK": "Dancing in the Street – David Bowie og Mick Jagger (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og lifir meðal annars í orðinu dægurlag."
+  },
+  "vissir_thu": "Flak ástralska kafbátsins HMAS AE1, sem hvarf 14. september 1914, fannst ekki fyrr en árið 2017.",
+  "stjornuspa": "Meyjan finnur í dag eina skakka kommusetningu í skjali sem enginn annar hefur opnað síðan 1987. Haltu ró þinni, yddaðu blýantinn og mundu að jafnvel alheimurinn sendir stundum frá sér bylgjur án þess að hafa allt í fullkominni röð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg/500px-Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg.png",
+    "ar": "1752",
+    "texti": "Breska heimsveldið tók upp gregoríska tímatalið og sleppti ellefu dögum úr september. Almanakið tók sem sagt óvenjustórt stökk án þess að spyrja neinn leyfis.",
+    "heimild": "https://en.wikipedia.org/wiki/Calendar_(New_Style)_Act_1750",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

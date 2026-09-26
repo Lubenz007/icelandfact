@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-30",
+  "dagur": 30,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:03",
+  "sunset": "20:51",
+  "kvedja": "Góðan 30. ágúst, kæri lesandi! Í dag förum við frá logandi Jerúsalem til geimferða, með viðkomu á Kaldadal og tennisvellinum — sagan kann sannarlega ekki að sitja kyrr. Meyjan má þó alveg reyna að koma skipulagi á þetta allt saman, með glotti og góðum kaffibolla.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "70",
+      "texti": "Í umsátri Rómverja um Jerúsalem kveiktu hersveitir Títusar í öðru musterinu. Atburðurinn varð eitt af örlagaríkustu áföllum í sögu gyðingdóms."
+    },
+    {
+      "ar": "1800",
+      "texti": "Gabriel Prosser hugðist leiða uppreisn þræla í Virginíu, en úrhellisrigning varð til þess að henni var frestað. Hann var handtekinn áður en hann gat gert aðra tilraun — veðrið hefur sjaldan haft jafn afdrifarík áhrif á dagskrána."
+    },
+    {
+      "ar": "1914",
+      "texti": "Orrustunni við Tannenberg lauk með nær algerri eyðingu 2. herdeildar Rússa af hálfu 8. herdeildar Þjóðverja. Þetta varð einn stærsti sigur Þjóðverja á austurvígstöðvum fyrri heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1967",
+      "texti": "Thurgood Marshall var staðfestur sem fyrsti svarti dómarinn við Hæstarétt Bandaríkjanna. Þar með var mikilvægri síðu snúið í réttinda- og réttarsögu landsins."
+    },
+    {
+      "ar": "1984",
+      "texti": "Geimskutlan Discovery hóf jómfrúrferð sína frá Kennedy-geimferðamiðstöðinni í Flórída. Hún var þriðja geimskutlan í áætlun NASA til að komast á loft."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1720",
+      "texti": "Jón Vídalín Skálholtsbiskup lést, 54 ára, á ferð sinni norður Kaldadal. Staðurinn Biskupsbrekka dregur nafn sitt af þessum dapurlega atburði.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1779",
+      "texti": "Íslendingar í Kaupmannahöfn stofnuðu Hið íslenska lærdómslistafélag undir forystu Jóns Eiríkssonar. Félagið vildi efla bústjórn, vísindaþekkingu og bókmenntasmekk Íslendinga og starfaði til 1796.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1874",
+      "texti": "Önnur þjóðhátíð ársins var haldin í Reykjavík í besta veðri, enda þótti mörgum fyrri hátíð mánaðarins hafa tekist miður. Reykvíkingar vissu sem sagt snemma að stundum þarf einfaldlega að halda betra partý.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Mikill eldur kom upp í vöruskemmum Eimskipa við Borgartún í Reykjavík. Slökkvilið barðist við eldinn í rúman sólarhring og eignatjónið varð meira en áður hafði orðið í íslenskum eldsvoða.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Roddick",
+      "starfsgrein": "tennisleikari",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Cameron Diaz",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Bebe Rexha",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Anna Politkovskaya",
+      "starfsgrein": "blaðakona og baráttukona",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Antony Gormley",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1950"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Ingvarsson",
+      "starfsgrein": "leikari",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Marinó Þorsteinsson",
+      "starfsgrein": "leikari",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Hrefna Ingimarsdóttir",
+      "starfsgrein": "körfuknattleiksþjálfari",
+      "ar": "1931"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimskutla fór í jómfrúrferð sína 30. ágúst 1984?",
+      "svor": [
+        "Discovery",
+        "Challenger",
+        "Atlantis",
+        "Endeavour"
+      ],
+      "rett": 0,
+      "skyring": "Discovery hóf jómfrúrferðina frá Kennedy-geimferðamiðstöðinni og lét engan bensínstöðvarkaffibolla tefja sig."
+    },
+    {
+      "spurning": "Hver varð fyrsti svarti dómarinn við Hæstarétt Bandaríkjanna?",
+      "svor": [
+        "Norman Schwarzkopf",
+        "Thurgood Marshall",
+        "Gabriel Prosser",
+        "Andy Roddick"
+      ],
+      "rett": 1,
+      "skyring": "Thurgood Marshall var staðfestur í embættið árið 1967."
+    },
+    {
+      "spurning": "Hvar stofnuðu Íslendingar Hið íslenska lærdómslistafélag árið 1779?",
+      "svor": [
+        "Í Reykjavík",
+        "Á Akureyri",
+        "Í Kaupmannahöfn",
+        "Í Skálholti"
+      ],
+      "rett": 2,
+      "skyring": "Félagið var stofnað í Kaupmannahöfn, þar sem Íslendingar ræddu fræði fjarri heimahögum."
+    }
+  ],
+  "tonlistUSA": "Mo Money Mo Problems – The Notorious B.I.G. ásamt Puff Daddy og Mase (1997)",
+  "tonlistUK": "Men in Black – Will Smith (1997)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Árdegis merkir fyrri hluta dags, einkum tímann fyrir hádegi."
+  },
+  "vissir_thu": "Discovery var þriðja geimskutlan í geimskutluáætlun NASA og fór í sína fyrstu ferð 30. ágúst 1984.",
+  "stjornuspa": "Meyjan finnur í dag laus blöð sögunnar og freistast til að flokka þau eftir ártali, heimsálfu og leturgerð. Leyfðu þó einu blaði að liggja skakkt — þar gæti skemmtilegasta sagan leynst.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg/500px-Incendie_de_la_Plaine_du_Cap._Massacre_des_Blancs_par_les_esclaves_noirs_r%C3%A9volt%C3%A9s._France_militaire._Martinet_et_Masson.jpg",
+    "ar": "1800",
+    "texti": "Gabriel Prosser hugðist leiða uppreisn þræla í Virginíu, en úrhellisrigning varð til þess að henni var frestað. Hann var handtekinn áður en hann gat gert aðra tilraun — veðrið hefur sjaldan haft jafn afdrifarík áhrif á dagskrána.",
+    "heimild": "https://en.wikipedia.org/wiki/Gabriel's_Rebellion",
+    "breidd": 330,
+    "haed": 224
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
