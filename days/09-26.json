@@ -1,14 +1,11 @@
 {
-  "date": "2026-09-26",
+  "mmdd": "09-26",
   "dagur": 26,
   "manudur": "september",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 269,
-  "sunrise": "07:21",
-  "sunset": "19:14",
-  "mmdd": "09-26",
   "manudurNr": 9,
   "stjornumerki": "Vog",
+  "sunrise": "07:20",
+  "sunset": "19:15",
   "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 26. september! Í dag siglum við kringum hnöttinn með Francis Drake, svífum yfir Ermarsund og þökkum Stanislav Petrov fyrir að halda höfðinu köldu þegar heimurinn mátti síst við fljótfærni.",
   "nafnadagur": "",
   "atburdir": [
@@ -153,6 +150,5 @@
     "haed": 448
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-09-26"
 }
