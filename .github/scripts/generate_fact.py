@@ -513,14 +513,14 @@ def pick_image(chosen_events, wiki_events):
     for ev in chosen_events:
         src = by_year.get(str(ev.get("ar", "")))
         if src:
-            return _image_dict(src)
+            return _image_dict(src, ev.get("texti"))
     for ev in wiki_events:
         if ev.get("thumb"):
             return _image_dict(ev)
     return None
 
 
-def _image_dict(ev):
+def _image_dict(ev, caption=None):
     # Wikimedia only serves a fixed list of thumbnail widths now
     # (https://w.wiki/GHai); 500px is the sweet spot for a 680px-wide paper.
     # Never ask for a size larger than the original or it returns HTTP 400.
@@ -531,7 +531,7 @@ def _image_dict(ev):
     return {
         "url": url,
         "ar": str(ev["year"]),
-        "texti": ev["text"],
+        "texti": caption or ev["text"],   # Icelandic retelling when the model chose this event
         "heimild": f"https://en.wikipedia.org/wiki/{ev['title']}" if ev.get("title") else "https://en.wikipedia.org",
         "breidd": ev.get("thumb_w", 0),
         "haed": ev.get("thumb_h", 0),
