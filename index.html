@@ -633,6 +633,11 @@
   function fmtNum(n) { return Math.round(n).toLocaleString("de-DE"); }
   function track(name, params) { try { gtag("event", name, params || {}); } catch (e) {} }
 
+  function imdbLink(title) {
+    const q = encodeURIComponent(title);
+    return `<a class="media-link" href="https://www.imdb.com/find/?q=${q}&s=tt" target="_blank" rel="noopener">🎬 Skoða á IMDb</a>`;
+  }
+
   function ytLink(query) {
     const q = encodeURIComponent(query + " official");
     return `<a class="media-link" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">▶ Hlusta á YouTube</a>`;
@@ -683,7 +688,7 @@
     box.innerHTML = "";
     if (f.tonlistUSA) box.appendChild(el("div", "media-item", `<div class="media-label">Lag #1 – USA</div><div class="media-text">${esc(f.tonlistUSA)}</div>${ytLink(f.tonlistUSA)}`));
     if (f.tonlistUK)  box.appendChild(el("div", "media-item", `<div class="media-label">Lag #1 – UK</div><div class="media-text">${esc(f.tonlistUK)}</div>${ytLink(f.tonlistUK)}`));
-    if (f.bio)        box.appendChild(el("div", "media-item", `<div class="media-label">Kvikmynd</div><div class="media-text">${esc(f.bio)}</div>`));
+    if (f.bio)        box.appendChild(el("div", "media-item", `<div class="media-label">Kvikmynd</div><div class="media-text">${esc(f.bio)}</div>${imdbLink(f.bio)}`));
     if (!box.children.length) box.appendChild(el("div", "empty-note", "Sagnfræðingurinn man ekki lagið í dag."));
   }
 
