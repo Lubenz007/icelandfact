@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-23",
+  "dagur": 23,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:41",
+  "sunset": "17:41",
+  "kvedja": "Góðan og blessaðan 23. október! Í dag svífum við frá danskri vígvöllu upp í heiðhvolfið, lendum við Hringbraut og fáum svo „Weird Al“ til að semja lendingarstefið — sagan kann sannarlega að skipta um gír.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1157",
+      "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, en Sveinn Eiríksson konungur féll — miðaldastjórnmál buðu sjaldan upp á mjúka lendingu."
+    },
+    {
+      "ar": "1850",
+      "texti": "Fyrsta landsþing Bandaríkjanna um réttindi kvenna hófst í Worcester í Massachusetts undir forsæti baráttukonunnar Paulinu Wright Davis. Þar var ekki aðeins rætt um breytingar; þar var farið fram á þær."
+    },
+    {
+      "ar": "1906",
+      "texti": "Alberto Santos-Dumont flaug tvíþekjunni 14-bis um 50 metra í París, í um fjögurra metra hæð. Flugið var stutt, en nógu langt til að framtíðin lyfti sér frá jörðu."
+    },
+    {
+      "ar": "1956",
+      "texti": "Ungverska uppreisnin hófst sem friðsamleg stúdentamótmæli í Búdapest og laðaði að sér þúsundir á leið að þinghúsinu. Gangan varð upphaf að mikilli uppreisn gegn sovéskum yfirráðum."
+    },
+    {
+      "ar": "2001",
+      "texti": "Tölvuleikurinn Grand Theft Auto III kom út og átti stóran þátt í að gera opna leikheima og efni ætlað fullorðnum að almennum þáttum tölvuleikjamenningar. Skyndilega varð borgin sjálf að leikvelli — með afar vafasömum umferðarvenjum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1938",
+      "texti": "Samband íslenskra berklasjúklinga, SÍBS, var stofnað og varð mikilvægt afl í réttinda- og heilbrigðismálum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1955",
+      "texti": "Stytta af verkalýðsleiðtoganum Héðni Valdimarssyni var reist við verkamannabústaðina við Hringbraut í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1963",
+      "texti": "Í Vestmannaeyjum mældist tíu mínútna meðalvindhraði 200 km/klst. Það varð íslenskt vindhraðamet og var ekki jafnað fyrr en 1991 — einnig í Eyjum, auðvitað.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1976",
+      "texti": "Alexandersflugvöllur var tekinn í notkun á Sauðárkróki og hafði þá lengstu flugbraut landsins utan Keflavíkurflugvallar.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "„Weird Al“ Yankovic",
+      "starfsgrein": "gríntónlistarmaður, höfundur og leikari",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Ang Lee",
+      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Amandla Stenberg",
+      "starfsgrein": "leikkona",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Andoni Zubizarreta",
+      "starfsgrein": "knattspyrnumaður og íþróttafréttamaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Anita Roddick",
+      "starfsgrein": "athafnakona og baráttukona",
+      "ar": "1942"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kristmann Guðmundsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1901"
+    },
+    {
+      "nafn": "Málfríður Einarsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Hilmar Þorbjörnsson",
+      "starfsgrein": "frjálsíþróttamaður",
+      "ar": "1934"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppreisn hófst með friðsamlegum stúdentamótmælum 23. október 1956?",
+      "svor": [
+        "Ungverska uppreisnin",
+        "Írska uppreisnin",
+        "Franska byltingin",
+        "Rússneska byltingin"
+      ],
+      "rett": 0,
+      "skyring": "Ungverska uppreisnin hófst með göngu námsmanna um miðborg Búdapest."
+    },
+    {
+      "spurning": "Hvar mældist tíu mínútna meðalvindhraði upp á 200 km/klst. árið 1963?",
+      "svor": [
+        "Á Sauðárkróki",
+        "Í Vestmannaeyjum",
+        "Í Reykjavík",
+        "Á Ísafirði"
+      ],
+      "rett": 1,
+      "skyring": "Vestmannaeyjar settu metið og jöfnuðu það síðar sjálfar — vindurinn hélt sig við heimavöllinn."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er þekktur fyrir gamansamar lagaútgáfur?",
+      "svor": [
+        "Ang Lee",
+        "Andoni Zubizarreta",
+        "„Weird Al“ Yankovic",
+        "Anita Roddick"
+      ],
+      "rett": 2,
+      "skyring": "„Weird Al“ Yankovic hefur gert lagaskop að heilli listgrein."
+    }
+  ],
+  "tonlistUSA": "Jack & Diane – John Cougar (1982)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "heiðhvolf",
+    "skyring": "Heiðhvolf er lag lofthjúpsins ofan veðrahvolfsins, þar sem loftbelgir hafa meðal annars sett hæðarmet."
+  },
+  "vissir_thu": "Jeannette Piccard varð árið 1934 fyrsta konan til að fljúga í heiðhvolfinu þegar hún stýrði loftbelg upp í 17.550 metra hæð.",
+  "stjornuspa": "Sporðdrekinn finnur í dag vísbendingu þar sem aðrir sjá aðeins gamlan kvittunarmiða — rannsóknareðlið sefur aldrei. Varastu þó að yfirheyra kaffivélina; hún veit minna en hún gefur í skyn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grathe_Hede_-_Froelich.jpg/500px-Grathe_Hede_-_Froelich.jpg",
+    "ar": "1157",
+    "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, en Sveinn Eiríksson konungur féll — miðaldastjórnmál buðu sjaldan upp á mjúka lendingu.",
+    "heimild": "https://en.wikipedia.org/wiki/Battle_of_Grathe_Heath",
+    "breidd": 330,
+    "haed": 207
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

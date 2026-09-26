@@ -1,0 +1,148 @@
+{
+  "mmdd": "10-09",
+  "dagur": 9,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:58",
+  "sunset": "18:29",
+  "kvedja": "Góðan 9. október! Í dag kveikjum við á ljósdíóðunni, sendum bréf yfir landamæri og rifjum upp kvöldið þegar íslenska karlalandsliðið tryggði sér farseðilinn á HM. Sagan er stundum eins og póstkort: lítil að sjá, en stútfull af stórum tíðindum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1676",
+      "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu í Lundúnum og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í dropa."
+    },
+    {
+      "ar": "1780",
+      "texti": "Mannskæðasti fellibylur sem vitað er um á Atlantshafi tók að herja á Karíbahafið. Að minnsta kosti 20.000 manns fórust á Antillaeyjum næstu daga."
+    },
+    {
+      "ar": "1874",
+      "texti": "Alþjóðapóstsambandið var stofnað með Bernarsáttmálanum til að samræma póstþjónustu ríkja og auðvelda alþjóðlegar sendingar. Bréfið fékk loksins eins konar vegabréf."
+    },
+    {
+      "ar": "1962",
+      "texti": "Verkfræðingurinn Nick Holonyak hjá General Electric sýndi ljósdíóðu opinberlega í fyrsta sinn. Litla LED-ljósið átti síðar eftir að blikka á nánast öllum raftækjum heimilisins."
+    },
+    {
+      "ar": "2012",
+      "texti": "Pakistanski menntunarsinninn Malala Yousafzai særðist lífshættulega þegar talíbani reyndi að ráða hana af dögum. Hún lifði árásina af og varð síðar eitt þekktasta tákn heims fyrir rétt stúlkna til menntunar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1696",
+      "texti": "Alþingisbókin, fyrsta íslenska tímaritið, var prentuð í Skálholti af Jóni Snorrasyni. Íslensk tímaritaútgáfa hófst því ekki með glanspappír heldur prentsvertu í biskupssetri.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1986",
+      "texti": "Stöð 2, fyrsta einkarekna sjónvarpsstöð Íslands, tók til starfa undir stjórn Jóns Óttars Ragnarssonar. Landsmenn fengu þar með fleiri rásir — og fjarstýringin aukið ábyrgðarhlutverk.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2007",
+      "texti": "Yoko Ono afhjúpaði Friðarsúluna í Viðey á afmælisdegi Johns Lennon. Ljós súlunnar hefur síðan minnt á friðarboðskap með látlausum en björtum hætti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2017",
+      "texti": "Íslenska karlalandsliðið í knattspyrnu tryggði sér í fyrsta sinn sæti á heimsmeistaramóti með 2:0 sigri á Kósóvó í Laugardal. Smáþjóðin var skyndilega komin á stærsta fótboltasvið heims.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bella Hadid",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Chris O'Dowd",
+      "starfsgrein": "leikari og handritshöfundur",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Annika Sörenstam",
+      "starfsgrein": "kylfingur",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Camille Saint-Saëns",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1835"
+    },
+    {
+      "nafn": "Alfred Dreyfus",
+      "starfsgrein": "franskur herforingi",
+      "ar": "1859"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ingibjörg Einarsdóttir",
+      "starfsgrein": "eiginkona Jóns Sigurðssonar og húsfreyja",
+      "ar": "1804"
+    },
+    {
+      "nafn": "Jakob Jóhannesson Smári",
+      "starfsgrein": "skáld",
+      "ar": "1889"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppfinning var sýnd opinberlega í fyrsta sinn árið 1962?",
+      "svor": [
+        "Ljósdíóða",
+        "Geislaspilari",
+        "Vasareiknir",
+        "Fjarstýring"
+      ],
+      "rett": 0,
+      "skyring": "Nick Holonyak sýndi ljósdíóðuna, litla ljósið sem síðar lagði undir sig raftækjaheiminn."
+    },
+    {
+      "spurning": "Hvar var fyrsta íslenska tímaritið prentað árið 1696?",
+      "svor": [
+        "Á Hólum",
+        "Í Viðey",
+        "Í Skálholti",
+        "Á Bessastöðum"
+      ],
+      "rett": 2,
+      "skyring": "Alþingisbókin var prentuð í Skálholti af Jóni Snorrasyni."
+    },
+    {
+      "spurning": "Hvaða lið vann Ísland 2:0 þegar sætið á HM 2018 var tryggt?",
+      "svor": [
+        "Króatíu",
+        "Kósóvó",
+        "Úkraínu",
+        "Finnland"
+      ],
+      "rett": 1,
+      "skyring": "Sigurinn á Kósóvó í Laugardal innsiglaði sögulegt HM-sæti Íslands."
+    }
+  ],
+  "tonlistUSA": "Dancing Queen – ABBA (1976)",
+  "tonlistUK": "Pass the Dutchie – Musical Youth (1982)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "orðsending",
+    "skyring": "Orðsending er stutt skilaboð eða boð sem komið er áleiðis til annars manns."
+  },
+  "vissir_thu": "Alþjóðapóstsambandið, sem stofnað var 9. október 1874, er nú sérstofnun Sameinuðu þjóðanna.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag með aðstoð bréfs, blikkandi ljóss og hæfilega sterks kaffibolla. Varastu þó að vega alla möguleika svo lengi að Stöð 2 verði aftur eina einkarekna sjónvarpsstöðin.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/500px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
+    "ar": "1676",
+    "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu í Lundúnum og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í dropa.",
+    "heimild": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+    "breidd": 330,
+    "haed": 391
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

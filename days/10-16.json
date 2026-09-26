@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-16",
+  "dagur": 16,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:19",
+  "sunset": "18:05",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 16. október liggur leiðin frá pólskri konungskrýningu og orrustugný við Leipzig yfir í teiknimyndaveldi Disney og fyrsta íslenska „málþráðinn“. Vogin myndi kalla þetta gott jafnvægi; sagnfræðingurinn kallar þetta óvenju fjörugan þriðjudag í tímavélinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1384",
+      "texti": "Jadwiga var krýnd „konungur Póllands“ en ekki drottning, til marks um að hún ríkti í eigin nafni. Málfræðin varð einfaldlega að víkja fyrir stjórnskipuninni."
+    },
+    {
+      "ar": "1813",
+      "texti": "Sjötta bandalagið réðst gegn her Napóleons við Leipzig í stærstu orrustu Napóleonsstyrjaldanna. Þar tókust á yfir 500.000 hermenn, svo þetta var engin smáskæra við bæjarmörkin."
+    },
+    {
+      "ar": "1923",
+      "texti": "Bræðurnir Roy og Walt Disney stofnuðu Disney Brothers Cartoon Studio í Hollywood. Litla teiknimyndastofan átti síðar eftir að verða eitt stærsta fjölmiðla- og skemmtanafyrirtæki heims."
+    },
+    {
+      "ar": "1950",
+      "texti": "Ljónið, nornin og skápurinn eftir C. S. Lewis kom út í Bretlandi, fyrsta útgefna bókin í Narníu-röðinni. Fataskápar urðu samstundis örlítið dularfyllri."
+    },
+    {
+      "ar": "2017",
+      "texti": "Maltneska blaðakonan og baráttukonan gegn spillingu, Daphne Caruana Galizia, var myrt í bílsprengjuárás í Bidnija. Morðið vakti alþjóðlega reiði og varð að tákni þeirrar hættu sem rannsóknarblaðamenn geta staðið frammi fyrir."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1551",
+      "texti": "Ólafur Hjaltason var útnefndur biskup í Hólabiskupsdæmi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1612",
+      "texti": "Eldgos hófst í Kötlu undir Mýrdalsjökli, þar sem náttúran minnti á að hún þarf hvorki leyfi né fundargerð.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1890",
+      "texti": "Landshöfðingi vígði fyrsta símann sem lagður var á Íslandi, milli Reykjavíkur og Hafnarfjarðar. Fjallkonan nefndi þetta nýstárlega fyrirbæri „málþráð“.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1928",
+      "texti": "Verkalýðsfélag Patreksfjarðar var stofnað og bættist þar með ný rödd við íslenska verkalýðsbaráttu.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Angela Lansbury",
+      "starfsgrein": "leikkona, söngkona og framleiðandi",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Barry Corbin",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Bob Weir",
+      "starfsgrein": "söngvaskáld og gítarleikari",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Bob Mould",
+      "starfsgrein": "söngvaskáld, gítarleikari og upptökustjóri",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Jakob 2. Skotakonungur",
+      "starfsgrein": "Skotakonungur",
+      "ar": "1430"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Brynjar Gunnarsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Elín Briem",
+      "starfsgrein": "skólastofnandi og höfundur",
+      "ar": "1856"
+    },
+    {
+      "nafn": "Sigurður Vigfússon Íslandströll",
+      "starfsgrein": "skólameistari",
+      "ar": "1691"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ævintýrabók kom fyrst út 16. október 1950?",
+      "svor": [
+        "Ljónið, nornin og skápurinn",
+        "Hobbitinn",
+        "Litli prinsinn",
+        "Vindur í víðinum"
+      ],
+      "rett": 0,
+      "skyring": "C. S. Lewis opnaði dyrnar að Narníu með Ljóninu, norninni og skápnum."
+    },
+    {
+      "spurning": "Hvað kallaði Fjallkonan fyrsta íslenska símann?",
+      "svor": [
+        "Raddstreng",
+        "Málþráð",
+        "Fréttavír",
+        "Hljóðsnúru"
+      ],
+      "rett": 1,
+      "skyring": "„Málþráður“ var haganlegt heiti á tæki sem lét orð ferðast eftir vír."
+    },
+    {
+      "spurning": "Hver var krýnd „konungur Póllands“ árið 1384?",
+      "svor": [
+        "Angela Lansbury",
+        "Marie Antoinette",
+        "Jadwiga",
+        "Katrín mikla"
+      ],
+      "rett": 2,
+      "skyring": "Jadwiga bar konungstitilinn til að undirstrika að hún væri sjálfstæður þjóðhöfðingi."
+    }
+  ],
+  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
+  "bio": "Pulp Fiction (1994)",
+  "ord_dagsins": {
+    "ord": "málþráður",
+    "skyring": "Gamalt og myndrænt íslenskt heiti yfir síma eða símalínu."
+  },
+  "vissir_thu": "Í orrustunni við Leipzig árið 1813 tóku þátt yfir 500.000 hermenn, og var hún því stærsta orrusta Napóleonsstyrjaldanna.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skylduverka og þess að glápa dreymin út um gluggann. Gamall málþráður örlaganna gæti hringt, en mundu að svara með virðulegum 1980-tals tón.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jadwiga_Andegawe%C5%84ska_seal_1386.PNG/500px-Jadwiga_Andegawe%C5%84ska_seal_1386.PNG",
+    "ar": "1384",
+    "texti": "Jadwiga var krýnd „konungur Póllands“ en ekki drottning, til marks um að hún ríkti í eigin nafni. Málfræðin varð einfaldlega að víkja fyrir stjórnskipuninni.",
+    "heimild": "https://en.wikipedia.org/wiki/Jadwiga_of_Poland",
+    "breidd": 330,
+    "haed": 334
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

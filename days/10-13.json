@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-13",
+  "dagur": 13,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:10",
+  "sunset": "18:15",
+  "kvedja": "Góðan 13. október! Í dag sveiflum við okkur frá stjörnuþokum og súffragettum yfir í sundkúna Sæunni, sem lét engan reka sig möglunarlaust til slátrunar. Sagan kann sannarlega að halda jafnvægi—enda er dagurinn undir merki Vogarinnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "645",
+      "texti": "Her Tang-veldisins, undir stjórn Taizong keisara, varð að hætta umsátrinu um Ansi-virki í stríðinu við Goguryeo. Virkið reyndist sem sagt harðara undir tönn en keisarinn hafði vonað."
+    },
+    {
+      "ar": "1307",
+      "texti": "Útsendarar Filippusar 4. Frakkakonungs réðust í dögun gegn Musterisriddurunum og handtóku fjölda þeirra. Margir voru síðar pyntaðir til falskra játninga og brenndir á báli."
+    },
+    {
+      "ar": "1773",
+      "texti": "Franski stjörnufræðingurinn Charles Messier uppgötvaði Hvirfilvetrarbrautina, glæsilega þyrilvetrarbraut í um 31 milljón ljósára fjarlægð. Þar tekur jafnvel langferðabíllinn sér býsna langan tíma."
+    },
+    {
+      "ar": "1908",
+      "texti": "Breska súffragettan Margaret Travers Symons komst undan fylgdarmanni sínum, ruddist inn í sal neðri málstofunnar og hrópaði til þingmanna. Hún varð þar með fyrsta konan til að tala í breska neðri þinginu, þótt orðið hefði ekki beinlínis verið gefið laust."
+    },
+    {
+      "ar": "2019",
+      "texti": "Kenísku hlaupakonunni Brigid Kosgei tókst að setja heimsmet kvenna í maraþoni í blönduðu hlaupi á Chicago-maraþoninu. Hún fór 42,195 kílómetra hraðar en flest okkar komumst í gegnum innkaupalistann."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1987",
+      "texti": "Kýrin Harpa synti yfir Önundarfjörð, frá Flateyri að Kirkjubóli í Valþjófsdal, þegar leiða átti hana til slátrunar. Eftir þetta ótrúlega sundafrek var hún nefnd Sæunn og fékk að lifa lengur.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1994",
+      "texti": "Bókmenntaverðlaun Tómasar Guðmundssonar voru veitt í fyrsta sinn og Helgi Ingólfsson varð fyrsti verðlaunahafinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1996",
+      "texti": "Eldgosinu í Gjálp, sem hafði hafist 2. október, lauk eftir tæplega tveggja vikna umbrot undir Vatnajökli.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1996",
+      "texti": "Strandakirkja var endurvígð að loknum endurbótum. Hin sögufræga kirkja við suðurströndina var þar með aftur tilbúin að taka á móti gestum.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexandria Ocasio-Cortez",
+      "starfsgrein": "bandarísk stjórnmálakona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Aleksander Čeferin",
+      "starfsgrein": "slóvenskur lögfræðingur og forseti UEFA",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Beverly Johnson",
+      "starfsgrein": "bandarísk fyrirsæta, leikkona og söngkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Art Tatum",
+      "starfsgrein": "bandarískur djasspíanóleikari",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Charles Frederick Worth",
+      "starfsgrein": "enskur fatahönnuður",
+      "ar": "1825"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Steinn Steinarr",
+      "starfsgrein": "skáld",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Bjarni Jónsson frá Vogi",
+      "starfsgrein": "alþingismaður",
+      "ar": "1863"
+    },
+    {
+      "nafn": "Steinunn Kristjánsdóttir",
+      "starfsgrein": "fornleifafræðingur",
+      "ar": "1965"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íslenska ferfætlingi synti yfir Önundarfjörð árið 1987?",
+      "svor": [
+        "Kýrin Sæunn",
+        "Hryssan Hekla",
+        "Ærin Bára",
+        "Geitin Gríma"
+      ],
+      "rett": 0,
+      "skyring": "Kýrin Harpa vann sér nafnið Sæunn og lengra líf með hinu mikla sundafreki."
+    },
+    {
+      "spurning": "Hvaða stjörnufræðingur uppgötvaði Hvirfilvetrarbrautina árið 1773?",
+      "svor": [
+        "Galileo Galilei",
+        "Charles Messier",
+        "Edwin Hubble",
+        "Tycho Brahe"
+      ],
+      "rett": 1,
+      "skyring": "Charles Messier kom auga á þessa glæsilegu þyrilvetrarbraut."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er forseti UEFA?",
+      "svor": [
+        "Art Tatum",
+        "Charles Frederick Worth",
+        "Aleksander Čeferin",
+        "Alexandria Ocasio-Cortez"
+      ],
+      "rett": 2,
+      "skyring": "Aleksander Čeferin stýrir UEFA—þar er nóg að gera áður en flautað er til leiksloka."
+    }
+  ],
+  "tonlistUSA": "Praying for Time – George Michael (1990)",
+  "tonlistUK": "Show Me Heaven – Maria McKee (1990)",
+  "bio": "Allt um Evu (1950)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinn hrina kulda, hvassviðris og gjarnan snjókomu."
+  },
+  "vissir_thu": "Hvirfilvetrarbrautin er í um 31 milljón ljósára fjarlægð og er dæmi um svonefnda stórgerðaða þyrilvetrarbraut.",
+  "stjornuspa": "Vogin ætti að vega og meta málin í dag, en ekki svo lengi að kaffið kólni og tækifærið hlaupi maraþon á brott. Gamall kunningi eða gleymd hugmynd gæti bankað upp á—taktu vel á móti henni, en láttu hana þurrka af sér skóna.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tang-Korean_wars.png/500px-Tang-Korean_wars.png",
+    "ar": "645",
+    "texti": "Her Tang-veldisins, undir stjórn Taizong keisara, varð að hætta umsátrinu um Ansi-virki í stríðinu við Goguryeo. Virkið reyndist sem sagt harðara undir tönn en keisarinn hafði vonað.",
+    "heimild": "https://en.wikipedia.org/wiki/Goguryeo–Tang_War",
+    "breidd": 330,
+    "haed": 228
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

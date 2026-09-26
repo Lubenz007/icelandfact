@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-14",
+  "dagur": 14,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:13",
+  "sunset": "18:12",
+  "kvedja": "Góðan 14. október, kæri lesandi! Í dag förum við úr kolanámu í Wales upp í heiðhvolfið með viðkomu hjá Bangsímoni — enda kann sagan sjaldnast að fara beina leið. Haltu fast í hattinn og njóttu ferðarinnar með mér.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1913",
+      "texti": "Sprenging í Universal-kolanámunni í Senghenydd í Wales kostaði 440 manns lífið. Þetta varð mannskæðasta námuslys í sögu Bretlands."
+    },
+    {
+      "ar": "1926",
+      "texti": "Fyrsta bók A. A. Milne um Bangsímon kom út. Þar með hófst bókmenntaævintýri sem hefur kennt kynslóðum að hunang og vinátta leysa furðumörg vandamál."
+    },
+    {
+      "ar": "1943",
+      "texti": "Fangar í útrýmingarbúðunum Sobibor gerðu uppreisn, drápu ellefu SS-liða og efndu til fjöldaflótta. Uppreisnin varð eitt eftirminnilegasta dæmið um skipulagða mótspyrnu fanga í útrýmingarbúðum nasista."
+    },
+    {
+      "ar": "1964",
+      "texti": "Æðstu ráðamenn Sovétríkjanna samþykktu að víkja Nikita Khrushchev úr embætti fyrsta ritara kommúnistaflokksins. Leonid Brezhnev tók við og nýr kafli kalda stríðsins hófst."
+    },
+    {
+      "ar": "2012",
+      "texti": "Felix Baumgartner stökk úr helíumbelg í heiðhvolfinu og varð fyrstur manna til að rjúfa hljóðmúrinn án knúnins farartækis. Þetta var fallhlífarstökk með óvenju langri leið að lendingarsvæðinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1201",
+      "texti": "Guðmundur Arason, prestur á Víðimýri, var kjörinn biskup á Hólum. Hann varð síðar þekktur sem Guðmundur góði.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1863",
+      "texti": "Fjórir Íslendingar sem fluttust til Brasilíu komu til Rio de Janeiro eftir þriggja mánaða ferð. Það hefur líklega verið kærkomið að stíga loksins á fast land.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1961",
+      "texti": "Á Siglufirði var aldarafmælis séra Bjarna Þorsteinssonar minnst, en hann safnaði íslenskum þjóðlögum og gaf þau út.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1964",
+      "texti": "Rafreiknir Háskóla Íslands kom til landsins og þótti afar afkastamikill. Venjuleg borðtölva nútímans myndi þó líta á afköstin með nokkurri góðlátlegri vorkunn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alex Scott",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Arleen Sorkin",
+      "starfsgrein": "leikkona og handritshöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Ahmed Musa",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Bahadur Shah I",
+      "starfsgrein": "mógúlkeisari",
+      "ar": "1643"
+    },
+    {
+      "nafn": "Alexander von Zemlinsky",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1871"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bríet Héðinsdóttir",
+      "starfsgrein": "leikkona og leikstjóri",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Bjarni Þorsteinsson",
+      "starfsgrein": "prestur og þjóðlagasafnari",
+      "ar": "1861"
+    },
+    {
+      "nafn": "Halldóra Bjarnadóttir",
+      "starfsgrein": "skólastjóri",
+      "ar": "1873"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bangsi steig fyrst fram á bókarsíður 14. október 1926?",
+      "svor": [
+        "Bangsímon",
+        "Paddington",
+        "Bassi",
+        "Yogi-björn"
+      ],
+      "rett": 0,
+      "skyring": "Fyrsta bók A. A. Milne um Bangsímon kom út árið 1926."
+    },
+    {
+      "spurning": "Hver rauf hljóðmúrinn í stökki úr heiðhvolfinu árið 2012?",
+      "svor": [
+        "Chuck Yeager",
+        "Felix Baumgartner",
+        "Alex Scott",
+        "Leonid Brezhnev"
+      ],
+      "rett": 1,
+      "skyring": "Felix Baumgartner náði hljóðhraða án þess að sitja í knúnu farartæki."
+    },
+    {
+      "spurning": "Hvar var aldarafmælis Bjarna Þorsteinssonar minnst árið 1961?",
+      "svor": [
+        "Á Hólum",
+        "Í Reykjavík",
+        "Á Siglufirði",
+        "Í Vestmannaeyjum"
+      ],
+      "rett": 2,
+      "skyring": "Siglfirðingar minntust þjóðlagasafnarans Bjarna Þorsteinssonar."
+    }
+  ],
+  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
+  "tonlistUK": "Ride on Time – Black Box (1989)",
+  "bio": "Pulp Fiction (1994)",
+  "ord_dagsins": {
+    "ord": "firn",
+    "skyring": "Firn er gamall, kornóttur snjór sem hefur legið af sér sumarið en ekki enn breyst í jökulís."
+  },
+  "vissir_thu": "Felix Baumgartner stökk úr um 39 kílómetra hæð þegar hann rauf hljóðmúrinn árið 2012.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að fá sér örlítið lengra kaffihlé. Ef ákvörðun reynist erfið skaltu haga þér eins og gamaldags ritari: leggja málið í möppu og líta afar mikilvæga út.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Winnie-the-Pooh_%28book%29.png/330px-Winnie-the-Pooh_%28book%29.png",
+    "ar": "1926",
+    "texti": "Fyrsta bók A. A. Milne um Bangsímon kom út. Þar með hófst bókmenntaævintýri sem hefur kennt kynslóðum að hunang og vinátta leysa furðumörg vandamál.",
+    "heimild": "https://en.wikipedia.org/wiki/Winnie-the-Pooh_(book)",
+    "breidd": 330,
+    "haed": 414
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

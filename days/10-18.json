@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-18",
+  "dagur": 18,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:25",
+  "sunset": "17:58",
+  "kvedja": "Góðan 18. október! Í dag stökkvum við með Bob Beamon, svífum til Venusar og kveikjum fyrstu rafljósin á Seyðisfirði — enda þarf sagan bæði langstökk og góða lýsingu. Vogin heldur jafnvæginu á meðan Sagnfræðingurinn reynir að missa ekki gleraugun í öllum látunum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "320",
+      "texti": "Pappos frá Alexandríu fylgdist með sólmyrkva. Sú athugun gerði síðari tíma sagnfræðingum kleift að áætla hvenær þessi mikli stærðfræðingur fornaldar var uppi."
+    },
+    {
+      "ar": "1356",
+      "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði Basel í Sviss að miklu leyti í rúst. Þar minnti jarðskorpan óþyrmilega á að hún væri ekki aðeins undirstaða heldur líka þátttakandi."
+    },
+    {
+      "ar": "1587",
+      "texti": "Filippseyskir sjómenn af Manila-galeiðunni Nuestra Señora de Buena Esperanza stigu á land þar sem nú er Morro Bay í Kaliforníu. Þetta er fyrsta skjalfesta dæmið um Asíubúa í Ameríku."
+    },
+    {
+      "ar": "1967",
+      "texti": "Sovéska geimfarið Venera 4 varð fyrst til að framkvæma beina greiningu á umhverfi annarrar reikistjörnu þegar það rannsakaði lofthjúp Venusar."
+    },
+    {
+      "ar": "1968",
+      "texti": "Bandaríkjamaðurinn Bob Beamon stökk 8,90 metra í langstökki á Ólympíuleikunum í Mexíkóborg. Heimsmetið stóð í 23 ár og stökkið varð samstundis eitt frægasta augnablik frjálsíþróttasögunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1905",
+      "texti": "Alliance hf., fyrsta togaraútgerðarfélag Íslands, var stofnað og markaði mikilvægt skref í vélvæðingu íslensks sjávarútvegs.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1906",
+      "texti": "Sjö hús brunnu í stórbruna á Akureyri og um áttatíu manns misstu heimili sín. Blaðið Norðurland kallaði þetta „mesta húsbruna á Íslandi“.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1913",
+      "texti": "Rafveita sem náði til alls bæjarfélagsins var vígð á Seyðisfirði. Þegar fyrstu rafljósin voru tendruð héldu bæjarbúar ljósahátíð — fullkomlega eðlileg viðbrögð við því að geta loks séð almennilega eftir myrkur.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1986",
+      "texti": "Kvikmyndin Stella í orlofi var frumsýnd í Reykjavík og Stella hóf þar með langlífan feril sinn sem ein ástsælasta gamanpersóna íslenskrar kvikmyndasögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Barry Keoghan",
+      "starfsgrein": "írskur leikari",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Brittney Griner",
+      "starfsgrein": "bandarísk körfuknattleikskona",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Catherine Ringer",
+      "starfsgrein": "frönsk söngkona, lagahöfundur og leikkona",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Arliss Howard",
+      "starfsgrein": "bandarískur leikari og leikstjóri",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Bobby Troup",
+      "starfsgrein": "bandarískur söngvari, lagahöfundur og píanóleikari",
+      "ar": "1918"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Tryggvi Gunnarsson",
+      "starfsgrein": "bankastjóri og alþingismaður",
+      "ar": "1835"
+    },
+    {
+      "nafn": "Magnús Stephensen",
+      "starfsgrein": "embættismaður og síðasti landshöfðingi Íslands",
+      "ar": "1836"
+    },
+    {
+      "nafn": "Chris Albertson",
+      "starfsgrein": "íslensk-bandarískur sagnfræðingur, blaðamaður og upptökustjóri",
+      "ar": "1931"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu langt stökk Bob Beamon í hinu sögufræga langstökki sínu árið 1968?",
+      "svor": [
+        "8,90 metra",
+        "8,45 metra",
+        "9,02 metra",
+        "7,98 metra"
+      ],
+      "rett": 0,
+      "skyring": "Beamon sveif 8,90 metra og heimsmet hans stóð í heil 23 ár."
+    },
+    {
+      "spurning": "Í hvaða bæ var haldin ljósahátíð þegar rafveita var vígð árið 1913?",
+      "svor": [
+        "Akureyri",
+        "Seyðisfirði",
+        "Ísafirði",
+        "Vestmannaeyjum"
+      ],
+      "rett": 1,
+      "skyring": "Seyðfirðingar fögnuðu fyrstu rafljósunum með ljósahátíð, eins og bjartsýnir ljósaperueigendur gera."
+    },
+    {
+      "spurning": "Hvaða geimfar rannsakaði lofthjúp Venusar árið 1967?",
+      "svor": [
+        "Galileo",
+        "Venera 4",
+        "Voyager 1",
+        "Sputnik 2"
+      ],
+      "rett": 1,
+      "skyring": "Venera 4 varð fyrst geimfara til að greina umhverfi annarrar reikistjörnu með beinum hætti."
+    }
+  ],
+  "tonlistUSA": "When I Think of You – Janet Jackson (1986)",
+  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
+  "bio": "Crocodile Dundee (1986)",
+  "ord_dagsins": {
+    "ord": "skíma",
+    "skyring": "Skíma er dauf eða lítil birta, gjarnan fyrsta dagsljósið eða veikur ljósbjarmi."
+  },
+  "vissir_thu": "Heimsmet Bob Beamons frá 1968, 8,90 metrar í langstökki, stóð í 23 ár.",
+  "stjornuspa": "Vogin finnur í dag fullkomið jafnvægi milli þess að vinna afrek og fá sér kaffibolla — hallist vogarskálin, bættu þá við kleinunni. Gamalt erindi eða gleymd hugmynd gæti skotið upp kollinum eins og póstkort úr fortíðinni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pappi_Alexandrini._Mathematicae_collectiones._1588.jpg/500px-Pappi_Alexandrini._Mathematicae_collectiones._1588.jpg",
+    "ar": "320",
+    "texti": "Pappos frá Alexandríu fylgdist með sólmyrkva. Sú athugun gerði síðari tíma sagnfræðingum kleift að áætla hvenær þessi mikli stærðfræðingur fornaldar var uppi.",
+    "heimild": "https://en.wikipedia.org/wiki/Pappus_of_Alexandria",
+    "breidd": 330,
+    "haed": 485
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

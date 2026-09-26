@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-25",
+  "dagur": 25,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:47",
+  "sunset": "17:34",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 25. október ríða bogmenn til sigurs við Agincourt, létta riddaraliðið geystist í sögulega ófæru og Windows XP mætir til leiks með kunnuglegan ræsihljóm. Haltu því ró þótt dagurinn verði viðburðaríkur — sagan sýnir að óðagot borgar sig sjaldan.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1147",
+      "texti": "Herlið undir stjórn Afonso 1. Portúgalskonungs vann Lissabon af Márum eftir fjögurra mánaða umsátur. Sigurinn var eitt fárra afreka kristinna hersveita í annarri krossferðinni."
+    },
+    {
+      "ar": "1415",
+      "texti": "Her Hinriks 5. Englandskonungs, að mestu skipaður bogmönnum, vann óvæntan sigur á fjölmennara riddaraliði Frakka í orrustunni við Agincourt."
+    },
+    {
+      "ar": "1854",
+      "texti": "Í Krímstríðinu gerði breska létta riddaraliðið hina frægu en örlagaríku árás við Balaclava. Rússneskar hersveitir hrundu atlögunni með afgerandi hætti."
+    },
+    {
+      "ar": "1944",
+      "texti": "Heinrich Himmler fyrirskipaði harkalegar aðgerðir gegn Edelweiss-sjóræningjunum, ungmennahreyfingu sem hafði meðal annars hjálpað liðhlaupum og fólki í felum undan nasistum."
+    },
+    {
+      "ar": "2001",
+      "texti": "Windows XP kom í almenna smásölu og varð síðar eitt vinsælasta og útbreiddasta stýrikerfi Microsoft. Græna hæðin á skjáborðinu varð nánast jafnþekkt og heimilislegt landslag."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1852",
+      "texti": "Barnaskólinn á Eyrarbakka var settur í fyrsta sinn. Hann er elsti barnaskóli Íslands sem enn er starfandi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1875",
+      "texti": "Fyrsta borgaralega hjónavígslan á Íslandi fór fram í Vestmannaeyjum þegar sýslumaður fékk konungsleyfi til að gefa saman nokkra mormóna.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1914",
+      "texti": "Fyrsta verkakvennafélag landsins var stofnað þegar Kvenréttindafélag Íslands stóð að stofnun Verkakvennafélagsins Framsóknar í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1947",
+      "texti": "Austurbæjarbíó var formlega opnað í Reykjavík og bætti nýju glæsihúsi við kvikmyndalíf höfuðborgarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ciara",
+      "starfsgrein": "söngkona, dansari og leikkona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Antony Starr",
+      "starfsgrein": "leikari",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Chad Smith",
+      "starfsgrein": "trommuleikari",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Adam Goldberg",
+      "starfsgrein": "leikari, leikstjóri og handritshöfundur",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Anne Tyler",
+      "starfsgrein": "rithöfundur og gagnrýnandi",
+      "ar": "1941"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ingibjörg Þorbergs",
+      "starfsgrein": "tónskáld",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Oddur Björnsson",
+      "starfsgrein": "leikskáld",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Skúli Gautason",
+      "starfsgrein": "leikari",
+      "ar": "1959"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða vopn reyndist her Hinriks 5. sérstaklega vel við Agincourt?",
+      "svor": [
+        "Langboginn",
+        "Fallbyssan",
+        "Lásboginn",
+        "Spjótið"
+      ],
+      "rett": 0,
+      "skyring": "Her Hinriks var að mestu skipaður bogmönnum, sem áttu stóran þátt í óvæntum sigrinum."
+    },
+    {
+      "spurning": "Hvar fór fyrsta borgaralega hjónavígslan á Íslandi fram?",
+      "svor": [
+        "Á Akureyri",
+        "Í Vestmannaeyjum",
+        "Á Ísafirði",
+        "Í Reykjavík"
+      ],
+      "rett": 1,
+      "skyring": "Athöfnin fór fram í Vestmannaeyjum árið 1875 með sérstöku leyfi konungs."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er trommuleikari?",
+      "svor": [
+        "Antony Starr",
+        "Adam Goldberg",
+        "Chad Smith",
+        "Ciara"
+      ],
+      "rett": 2,
+      "skyring": "Chad Smith heldur um kjuðana — og hefur sjaldnast verið sakaður um að tromma of varlega."
+    }
+  ],
+  "tonlistUSA": "Smooth – Santana ásamt Rob Thomas (1999)",
+  "tonlistUK": "Believe – Cher (1998)",
+  "bio": "Halloween (1978)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og lifir meðal annars í orðunum dægurlag og dægurmál."
+  },
+  "vissir_thu": "Windows XP dró nafn sitt af enska orðinu „experience“, eða reynslu, og varð eitt langlífasta og útbreiddasta stýrikerfi Microsoft.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamla geisladiskinn með Windows XP og túlkar það sem skilaboð frá alheiminum um að endurræsa lífið. Varastu þó að ráðast fram eins og létta riddaraliðið við Balaclava — lestu smáa letrið fyrst.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg/500px-20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg",
+    "ar": "1147",
+    "texti": "Herlið undir stjórn Afonso 1. Portúgalskonungs vann Lissabon af Márum eftir fjögurra mánaða umsátur. Sigurinn var eitt fárra afreka kristinna hersveita í annarri krossferðinni.",
+    "heimild": "https://en.wikipedia.org/wiki/Reconquista",
+    "breidd": 330,
+    "haed": 246
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

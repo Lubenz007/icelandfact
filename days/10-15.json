@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-15",
+  "dagur": 15,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:16",
+  "sunset": "18:08",
+  "kvedja": "Góðan 15. október! Í dag teygir sagan sig frá múrum Vínarborgar til 200 mílna fiskveiðilögsögu og sannar enn og aftur að bæði heimsveldi og þorskur geta valdið talsverðu uppnámi. Helltu upp á, komdu þér vel fyrir og njóttu dagsins með Sagnfræðingnum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1529",
+      "texti": "Umsátri Tyrkja um Vínarborg lauk þegar austurrískar hersveitir hrundu innrásinni. Þar með urðu tímamót í langri sókn Ottómanaveldisins inn í Evrópu."
+    },
+    {
+      "ar": "1815",
+      "texti": "Napóleon hóf útlegð sína á Sankti Helenu, afskekktri eyju í Suður-Atlantshafi. Þar dvaldi fyrrverandi keisarinn síðustu sex ár ævinnar, óvenjufjarri frönskum vígvöllum og pólitísku púðurtunnunum."
+    },
+    {
+      "ar": "1888",
+      "texti": "Hið svokallaða „From Hell“-bréf, sem sagt var komið frá Jack the Ripper, var sent George Lusk hjá Whitechapel-íbúasamtökunum í Lundúnum. Uppruni þess hefur aldrei verið staðfestur."
+    },
+    {
+      "ar": "1967",
+      "texti": "Minnisvarðinn The Motherland Calls var vígður í Volgograd til minningar um fallna í orrustunni um Stalíngrad. Þessi risavaxna stytta varð þá sú hæsta í heimi."
+    },
+    {
+      "ar": "2011",
+      "texti": "Mótmæli gegn efnahagslegum ójöfnuði og áhrifum stórfyrirtækja á stjórnvöld fóru fram í meira en 950 borgum í 82 löndum. Það má með sanni segja að óánægjan hafi tekið sér heimsreisu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1929",
+      "texti": "Fimleikafélag Hafnarfjarðar var stofnað í Hafnarfirði og átti síðar eftir að verða eitt kunnasta íþróttafélag landsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1940",
+      "texti": "Strandferðaskipið Esja kom til Reykjavíkur úr Petsamoförinni með 258 íslenska ríkisborgara sem höfðu lokast inni í Evrópu vegna stríðsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Lög um útfærslu íslensku fiskveiðilögsögunnar í 200 mílur tóku gildi og nýtt þorskastríð hófst við Breta. Þorskurinn var smár miðað við heimsveldi, en pólitískt synti hann í þungavigt.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1979",
+      "texti": "Minnihlutastjórn Alþýðuflokksins undir forsæti Benedikts Gröndals tók við völdum. Hún sat í tæpa fjóra mánuði og var því fremur stutt stopp en löng stjórnarseta.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anthony Joshua",
+      "starfsgrein": "breskur atvinnuhnefaleikamaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "A. P. J. Abdul Kalam",
+      "starfsgrein": "indverskur verkfræðingur og forseti Indlands",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Akbar",
+      "starfsgrein": "mógúlkeisari",
+      "ar": "1542"
+    },
+    {
+      "nafn": "Andy Cole",
+      "starfsgrein": "enskur knattspyrnumaður og þjálfari",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Asaph Hall",
+      "starfsgrein": "bandarískur stjörnufræðingur",
+      "ar": "1829"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jóhannes Sveinsson Kjarval",
+      "starfsgrein": "listmálari",
+      "ar": "1885"
+    },
+    {
+      "nafn": "Bergljót Arnalds",
+      "starfsgrein": "leikkona og rithöfundur",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Árni Thorsteinson",
+      "starfsgrein": "tónskáld og ljósmyndari",
+      "ar": "1870"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Á hvaða afskekktu eyju hóf Napóleon útlegð sína árið 1815?",
+      "svor": [
+        "Sankti Helenu",
+        "Korsíku",
+        "Sikiley",
+        "Möltu"
+      ],
+      "rett": 0,
+      "skyring": "Sankti Helena varð síðasta heimili keisarans fyrrverandi og var ekki beinlínis miðsvæðis í evrópskum stjórnmálum."
+    },
+    {
+      "spurning": "Hversu langt var íslenska fiskveiðilögsagan færð út árið 1975?",
+      "svor": [
+        "12 mílur",
+        "50 mílur",
+        "100 mílur",
+        "200 mílur"
+      ],
+      "rett": 3,
+      "skyring": "Útfærslan í 200 mílur leiddi til þorskastríðs við Breta."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins var mógúlkeisari?",
+      "svor": [
+        "Anthony Joshua",
+        "Akbar",
+        "Andy Cole",
+        "Asaph Hall"
+      ],
+      "rett": 1,
+      "skyring": "Akbar fæddist árið 1542 og varð einn kunnasti keisari Mógúlveldisins."
+    }
+  ],
+  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "útmánuðir",
+    "skyring": "Útmánuðir eru síðustu vetrarmánuðirnir samkvæmt gamla íslenska tímatalinu."
+  },
+  "vissir_thu": "Minnisvarðinn The Motherland Calls var hæsta stytta heims þegar hann var vígður í Volgograd árið 1967.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og þess að dást að eigin smekkvísi. Varastu þó að vega og meta kaffibollann svo lengi að hann verði kaldur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/MixCollage-15-Jan-2024-09-37-PM-7066.jpg/500px-MixCollage-15-Jan-2024-09-37-PM-7066.jpg",
+    "ar": "1529",
+    "texti": "Umsátri Tyrkja um Vínarborg lauk þegar austurrískar hersveitir hrundu innrásinni. Þar með urðu tímamót í langri sókn Ottómanaveldisins inn í Evrópu.",
+    "heimild": "https://en.wikipedia.org/wiki/Ottoman–Habsburg_wars",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

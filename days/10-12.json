@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-12",
+  "dagur": 12,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:07",
+  "sunset": "18:19",
+  "kvedja": "Góðan 12. október, kæri lesandi! Í dag svífum við í fallhlíf yfir París, hlaupum undan Kötlu og kíkjum á stærsta hitabeltisstorm sem mælst hefur — allt án þess að þurfa að skipta um skó. Haltu þó fast í hattinn; sagan á það til að blása hressilega.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1406",
+      "texti": "Chen Yanxiang kom til Seúl eftir fjögurra mánaða ferð frá Jövu. Hann er eini maðurinn frá Indónesíu sem vitað er að hafi heimsótt Kóreu á tímum konungsættanna."
+    },
+    {
+      "ar": "1492",
+      "texti": "Kristófer Kólumbus tók land á eyju í Karíbahafi og taldi sig vera kominn til Austur-Indía. Koma hans hratt af stað atburðarás sem leiddi til landnáms og nýlenduvæðingar Evrópumanna í Ameríku."
+    },
+    {
+      "ar": "1799",
+      "texti": "Jeanne Geneviève Garnerin varð fyrst kvenna til að stökkva í fallhlíf þegar hún sveif um 900 metra til jarðar í körfu undir loftbelg. Þetta hefur sjálfsagt verið heldur hressari sunnudagsbíltúr en fólk átti að venjast."
+    },
+    {
+      "ar": "1928",
+      "texti": "Járnlunga var í fyrsta sinn notað á Barnaspítalanum í Boston til að hjálpa átta ára stúlku sem hafði lamast af völdum lömunarveiki. Tækið varð síðar mikilvægt björgunartæki fyrir fjölmarga sjúklinga."
+    },
+    {
+      "ar": "1979",
+      "texti": "Fellibylurinn Tip náði loftþrýstingnum 870 millibörum yfir vestanverðu Kyrrahafi. Hann varð þar með stærsti og öflugasti hitabeltisstormur sem mælst hafði."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1581",
+      "texti": "Á Patreksfirði var kveðinn upp Vopnadómur, sem skyldaði alla Íslendinga til að eiga vopn. Dómurinn komst þó aðeins til framkvæmda á Vestfjörðum.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1905",
+      "texti": "Verzlunarskóli Íslands var settur í fyrsta sinn og ný kynslóð verslunarfólks hóf þar með glímuna við bókhald og viðskipti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1918",
+      "texti": "Kötlugos hófst og stóð til 4. nóvember. Gosinu fylgdi gríðarlegt jökulhlaup yfir Mýrdalssand og Kötlutangi myndaðist í kjölfarið.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1949",
+      "texti": "Óshlíðarvegur milli Hnífsdals og Bolungarvíkur var opnaður. Sigurður Bjarnason alþingismaður ók fyrstu bifreiðinni um veginn með nokkra nafntogaða farþega innanborðs.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Játvarður 6.",
+      "starfsgrein": "Englandskonungur",
+      "ar": "1537"
+    },
+    {
+      "nafn": "Aleister Crowley",
+      "starfsgrein": "rithöfundur og dulhyggjumaður",
+      "ar": "1875"
+    },
+    {
+      "nafn": "Angela Rippon",
+      "starfsgrein": "sjónvarpskona og blaðamaður",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Bode Miller",
+      "starfsgrein": "skíðamaður",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Adam Rich",
+      "starfsgrein": "leikari",
+      "ar": "1968"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Páll Ísólfsson",
+      "starfsgrein": "tónskáld og organisti",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Magnus Magnusson",
+      "starfsgrein": "sjónvarpsmaður, blaðamaður og fræðimaður",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Guðmundur Björnsson",
+      "starfsgrein": "læknir og landlæknir",
+      "ar": "1864"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldfjall hóf gos á Íslandi 12. október 1918?",
+      "svor": [
+        "Katla",
+        "Hekla",
+        "Askja",
+        "Eldfell"
+      ],
+      "rett": 0,
+      "skyring": "Katla rumskaði rækilega og sendi jökulhlaup yfir Mýrdalssand."
+    },
+    {
+      "spurning": "Hvaða brautryðjandi sveif 900 metra til jarðar í fallhlíf árið 1799?",
+      "svor": [
+        "Angela Rippon",
+        "Jeanne Geneviève Garnerin",
+        "Ann Petry",
+        "Aurore Clément"
+      ],
+      "rett": 1,
+      "skyring": "Jeanne Geneviève Garnerin varð fyrst kvenna til að stökkva í fallhlíf."
+    },
+    {
+      "spurning": "Hvað hét risavaxni hitabeltisstormurinn sem setti loftþrýstingsmet árið 1979?",
+      "svor": [
+        "Tip",
+        "Katrina",
+        "Andrew",
+        "Mitch"
+      ],
+      "rett": 0,
+      "skyring": "Tip náði 870 millibara loftþrýstingi og var sannkallaður risi meðal storma."
+    }
+  ],
+  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "First Man (2018)",
+  "ord_dagsins": {
+    "ord": "loftvog",
+    "skyring": "Loftvog er mælitæki sem mælir loftþrýsting og hefði haft ærið að gera í nágrenni fellibylsins Tip."
+  },
+  "vissir_thu": "Fellibylurinn Tip árið 1979 var ekki aðeins óvenju öflugur heldur einnig stærsti hitabeltisstormur sem mælst hefur.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og þess að horfa hugsandi út um gluggann eins og hetja í gamalli kvikmynd. Varastu þó að vega og meta hádegismatinn svo lengi að kaffitíminn taki við.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_the_East_Indies_by_Jodocus_Hondius_in_1606.jpg/500px-Map_of_the_East_Indies_by_Jodocus_Hondius_in_1606.jpg",
+    "ar": "1492",
+    "texti": "Kristófer Kólumbus tók land á eyju í Karíbahafi og taldi sig vera kominn til Austur-Indía. Koma hans hratt af stað atburðarás sem leiddi til landnáms og nýlenduvæðingar Evrópumanna í Ameríku.",
+    "heimild": "https://en.wikipedia.org/wiki/East_Indies",
+    "breidd": 330,
+    "haed": 250
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

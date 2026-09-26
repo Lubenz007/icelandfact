@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-19",
+  "dagur": 19,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:28",
+  "sunset": "17:54",
+  "kvedja": "Góðan 19. október, kæri lesandi! Í dag fljúgum við frá flugdreka Franklins til ʻOumuamua, með viðkomu í Eurovision og íslenskri skólasögu — sannkallað sögulegt fjölþrautahlaup. Vogin sér auðvitað um að halda jafnvægi á öllu saman, með hæfilegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1752",
+      "texti": "Pennsylvania Gazette birti frásögn Benjamíns Franklins af flugdrekatilraun sem átti að sýna fram á rafmagnað eðli eldinga. Það var sem sagt ekki hefðbundinn dagur í flugdrekagarðinum."
+    },
+    {
+      "ar": "1781",
+      "texti": "Breskar hersveitir undir stjórn Cornwallis lávarðar gáfust formlega upp fyrir fransk-bandaríska hernum við Yorktown. Þar með lauk umsátrinu og úrslit bandaríska frelsisstríðsins voru í reynd ráðin."
+    },
+    {
+      "ar": "1914",
+      "texti": "Bandamenn hófu átök við þýskar hersveitir í fyrstu orrustunni við Ypres. Orrustan varð einn af blóðugum upphafsköflum skotgrafahernaðar fyrri heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1955",
+      "texti": "Evrópska útvarpssambandið samþykkti að efna til fyrstu Eurovision-keppninnar. Evrópa hafði þar með fundið leið til að útkljá ágreining með glimmeri, tóntegundaskiptum og stigagjöf."
+    },
+    {
+      "ar": "2017",
+      "texti": "Kanadíski stjörnufræðingurinn Robert Weryk uppgötvaði ʻOumuamua, fyrsta þekkta fyrirbærið utan úr geimnum sem greindist á ferð í gegnum sólkerfið. Óvæntur gestur, án vegabréfs og með afar óljósa ferðaáætlun."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1898",
+      "texti": "Timburhús Barnaskóla Reykjavíkur, síðar nefnt Miðbæjarskólinn, var vígt. Timbur varð fyrir valinu vegna ótta við að steinhús gætu hrunið í jarðskjálfta.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1918",
+      "texti": "Í þjóðaratkvæðagreiðslu samþykktu rúmlega 90% kjósenda sambandslagasamninginn, þótt kjörsókn væri tæplega 44%. Samningurinn tók gildi 1. desember sama ár.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1919",
+      "texti": "Smásagan „Den tusindaarige Islænding“ birtist á forsíðu sunnudagsblaðs BT í Kaupmannahöfn. Höfundurinn, Halldór Laxness, var aðeins sautján ára — greinilega ekki að tvínóna við hlutina.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2007",
+      "texti": "Ný heildarþýðing Biblíunnar á íslensku, Biblía 21. aldar, kom út.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amy Carter",
+      "starfsgrein": "myndskreytir og aðgerðasinni",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Angus Deaton",
+      "starfsgrein": "hagfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Annie Golden",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Auguste Lumière",
+      "starfsgrein": "kvikmyndagerðarmaður og frumkvöðull",
+      "ar": "1862"
+    },
+    {
+      "nafn": "Marsilio Ficino",
+      "starfsgrein": "heimspekingur og stjörnuspekingur",
+      "ar": "1433"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Benjamín H. J. Eiríksson",
+      "starfsgrein": "hagfræðingur",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Agnes M. Sigurðardóttir",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Elín Briem",
+      "starfsgrein": "skólastofnandi",
+      "ar": "1856"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfyrirbæri fann Robert Weryk árið 2017?",
+      "svor": [
+        "ʻOumuamua",
+        "Halastjörnu Halleys",
+        "Plútó",
+        "Tunglið Evrópu"
+      ],
+      "rett": 0,
+      "skyring": "ʻOumuamua var fyrsta þekkta millistjörnufyrirbærið sem greindist á ferð um sólkerfið."
+    },
+    {
+      "spurning": "Hvaða söngvakeppni fékk formlegt grænt ljós árið 1955?",
+      "svor": [
+        "Söngvakeppni framhaldsskólanna",
+        "Eurovision",
+        "Melodifestivalen",
+        "Sanremo-keppnin"
+      ],
+      "rett": 1,
+      "skyring": "Evrópska útvarpssambandið samþykkti þá að halda fyrstu Eurovision-keppnina."
+    },
+    {
+      "spurning": "Hversu gamall var Halldór Laxness þegar smásaga hans birtist í BT árið 1919?",
+      "svor": [
+        "Fimmtán ára",
+        "Sautján ára",
+        "Tuttugu og eins árs",
+        "Tuttugu og fimm ára"
+      ],
+      "rett": 1,
+      "skyring": "Halldór var sautján ára og þegar farinn að láta að sér kveða á prenti."
+    }
+  ],
+  "tonlistUSA": "Take on Me – A-ha (1985)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "Búðarlokur (1994)",
+  "ord_dagsins": {
+    "ord": "reiðarslag",
+    "skyring": "Reiðarslag er skyndilegt og mikið áfall, líkt og þruma úr heiðskíru lofti."
+  },
+  "vissir_thu": "ʻOumuamua var fyrsta þekkta fyrirbærið utan úr geimnum sem greindist á ferð í gegnum sólkerfið.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt tilveran sveiflist eins og flugdreki Benjamíns Franklins í þrumuveðri. Segðu já við glimmeri, nei við óþarfa skotgröfum og láttu kurteisina vinna slaginn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Benjamin_Franklin_statue_by_Ernst_Plassman_%281872%29.jpg/500px-Benjamin_Franklin_statue_by_Ernst_Plassman_%281872%29.jpg",
+    "ar": "1752",
+    "texti": "Pennsylvania Gazette birti frásögn Benjamíns Franklins af flugdrekatilraun sem átti að sýna fram á rafmagnað eðli eldinga. Það var sem sagt ekki hefðbundinn dagur í flugdrekagarðinum.",
+    "heimild": "https://en.wikipedia.org/wiki/The_Pennsylvania_Gazette",
+    "breidd": 330,
+    "haed": 431
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

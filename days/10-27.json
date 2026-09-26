@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-27",
+  "dagur": 27,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:53",
+  "sunset": "17:27",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 27. október sveiflumst við frá Bach og neðanjarðarlestum til Alþingiskosninga og málverks sem kostaði álíka og býsna myndarlegt húsahverfi. Haltu fast í kaffibollann — sagan tekur stundum snöggar beygjur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1674",
+      "texti": "Eftir þriggja mánaða umsátur gáfust franskar hersveitir í virkisborginni Grave upp fyrir hollenska hernum í fransk-hollenska stríðinu. Borgarnafnið var þunglamalegt, en ósigurinn líklega enn þyngri."
+    },
+    {
+      "ar": "1726",
+      "texti": "Jóhann Sebastian Bach stjórnaði frumflutningi verksins Ich will den Kreuzstab gerne tragen, BWV 56. Það var eitt fárra verka sem Bach nefndi sjálfur kantötu."
+    },
+    {
+      "ar": "1904",
+      "texti": "Fyrsti neðanjarðarhluti neðanjarðarlestarinnar í New York var opnaður og tengdi ráðhúsið við Harlem. Þar með gátu borgarbúar loks fest sig í umferðarteppu neðanjarðar líka."
+    },
+    {
+      "ar": "1964",
+      "texti": "Leikarinn Ronald Reagan flutti áhrifamikla ræðu til stuðnings forsetaframbjóðandanum Barry Goldwater. Ræðan hratt stjórnmálaferli Reagans af stað og síðar sat hann tvö heil kjörtímabil sem forseti Bandaríkjanna."
+    },
+    {
+      "ar": "2019",
+      "texti": "Málverkið Háðung Krists eftir Cimabue var selt á uppboði í Frakklandi fyrir 19,5 milljónir evra. Það var þá hæsta verð sem greitt hafði verið fyrir listaverk frá því fyrir árið 1500."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1923",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1927",
+      "texti": "Úrsmiðafélag Íslands var stofnað í Reykjavík — viðeigandi félag til að minna menn á að tíminn líður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1927",
+      "texti": "Fyrsta tölublað skólablaðsins Munins kom út á Akureyri.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1936",
+      "texti": "Minnismerki um Niels R. Finsen var afhjúpað í Menntaskólanum í Reykjavík, en hann hafði orðið stúdent þaðan árið 1882.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aron Ralston",
+      "starfsgrein": "bandarískur fjallgöngumaður og verkfræðingur",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Catherine of Valois",
+      "starfsgrein": "drottning Englands",
+      "ar": "1401"
+    },
+    {
+      "nafn": "Alex Soros",
+      "starfsgrein": "bandarískur fjárfestir og góðgerðarsinni",
+      "ar": "1985"
+    },
+    {
+      "nafn": "A. N. Wilson",
+      "starfsgrein": "enskur rithöfundur, blaðamaður og sagnfræðingur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Adrian Erlandsson",
+      "starfsgrein": "sænskur trommuleikari",
+      "ar": "1970"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Emil Jónsson",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra Íslands",
+      "ar": "1902"
+    },
+    {
+      "nafn": "Geir Vídalín",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1761"
+    },
+    {
+      "nafn": "Árni Helgason",
+      "starfsgrein": "prestur",
+      "ar": "1777"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónskáld stjórnaði frumflutningi kantötu sinnar 27. október 1726?",
+      "svor": [
+        "Jóhann Sebastian Bach",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Antonio Vivaldi"
+      ],
+      "rett": 0,
+      "skyring": "Bach hélt sjálfur um stjórnvölinn, enda var enginn spilunarlisti til að bjarga málunum."
+    },
+    {
+      "spurning": "Hvaða hverfi tengdist ráðhúsi New York með fyrsta neðanjarðarhlutanum árið 1904?",
+      "svor": [
+        "Brooklyn",
+        "Harlem",
+        "Queens",
+        "Bronx"
+      ],
+      "rett": 1,
+      "skyring": "Fyrsti hlutinn lá frá ráðhúsinu til Harlem."
+    },
+    {
+      "spurning": "Hvað var stofnað í Reykjavík 27. október 1927?",
+      "svor": [
+        "Úrsmiðafélag Íslands",
+        "Rithöfundasamband Íslands",
+        "Skáksamband Íslands",
+        "Blaðamannafélag Íslands"
+      ],
+      "rett": 0,
+      "skyring": "Úrsmiðafélagið var stofnað þennan dag og hefur væntanlega hafið fundinn stundvíslega."
+    }
+  ],
+  "tonlistUSA": "Smooth – Santana ásamt Rob Thomas (1999)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "The Terminator (1984)",
+  "ord_dagsins": {
+    "ord": "tímatönn",
+    "skyring": "Tímatönn er lítið tannhjól í klukkuverki sem tekur þátt í að mæla gang tímans."
+  },
+  "vissir_thu": "Aron Ralston varð heimsþekktur eftir að hafa þurft að skera af sér eigin framhandlegg til að komast lífs af úr gljúfri í Utah.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamalt leyndarmál, eða að minnsta kosti kvittun sem átti að vera löngu týnd. Treystu innsæinu, en mundu að dularfull þögn virkar best áður en maginn fer að kurra.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Franco-Dutch_War_Collave.jpg/500px-Franco-Dutch_War_Collave.jpg",
+    "ar": "1674",
+    "texti": "Eftir þriggja mánaða umsátur gáfust franskar hersveitir í virkisborginni Grave upp fyrir hollenska hernum í fransk-hollenska stríðinu. Borgarnafnið var þunglamalegt, en ósigurinn líklega enn þyngri.",
+    "heimild": "https://en.wikipedia.org/wiki/Franco-Dutch_War",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

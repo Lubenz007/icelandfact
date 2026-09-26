@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-10",
+  "dagur": 10,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:01",
+  "sunset": "18:26",
+  "kvedja": "Góðan 10. október! Í dag sveiflum við okkur frá tungli Neptúnusar yfir í skyrslettu á Alþingi og stoppum auðvitað á brú í Kolkata á leiðinni. Sagan kann nefnilega vel við fjölbreytni — rétt eins og góð Vog.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "680",
+      "texti": "Husayn ibn Ali, dóttursonur Múhameðs, féll í orrustunni við Karbala eftir að hafa neitað að viðurkenna Yazid I sem kalífa. Atburðurinn varð einn sá áhrifamesti í sögu sjía-íslams."
+    },
+    {
+      "ar": "1760",
+      "texti": "Ndyuka-fólkið í Súrínam öðlaðist sjálfsforræði yfir landsvæði sínu með samningi við hollensk nýlenduyfirvöld — stór áfangi sem náðist með bleki eftir langa baráttu."
+    },
+    {
+      "ar": "1846",
+      "texti": "Enski stjörnufræðingurinn William Lassell uppgötvaði Tríton, stærsta tungl Neptúnusar. Það var rösklega af sér vikið, enda hafði Neptúnus sjálfur aðeins fundist nokkrum vikum fyrr."
+    },
+    {
+      "ar": "1903",
+      "texti": "Emmeline Pankhurst stofnaði Women's Social and Political Union, herská samtök sem börðust fyrir kosningarétti kvenna í Bretlandi. Kjörorð þeirra lögðu áherslu á athafnir fremur en orð."
+    },
+    {
+      "ar": "1963",
+      "texti": "Samningurinn um bann við tilraunum með kjarnorkuvopn að hluta tók gildi. Hann bannaði slíkar sprengingar í gufuhvolfinu, geimnum og neðansjávar, en neðanjarðartilraunir voru áfram leyfðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1898",
+      "texti": "Fyrstu sjúklingarnir komu á Holdsveikraspítalann í Laugarnesi, sem var reistur sérstaklega til umönnunar fólks með holdsveiki.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1946",
+      "texti": "Mikill fjöldi glóandi loftsteina, svonefndra vígahnatta, sást á Norður- og Austurlandi. Á Kópaskeri töldu menn um fjögur hundruð á aðeins tuttugu mínútum — sannkölluð himnasýning.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1970",
+      "texti": "Auður Auðuns tók við embætti dóms- og kirkjumálaráðherra og varð þar með fyrsti kvenráðherra Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1972",
+      "texti": "Helgi Hóseasson sletti skyri á alþingismenn við þingsetningu. Þar fékk hugtakið pólitískt skyrkast heldur bókstaflega merkingu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Vereen",
+      "starfsgrein": "leikari, söngvari og dansari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Bae Suzy",
+      "starfsgrein": "söngkona, leikkona og fyrirsæta",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Anita Mui",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Bai Ling",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Alberto Giacometti",
+      "starfsgrein": "myndhöggvari og listmálari",
+      "ar": "1901"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ellert B. Schram",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Guðmundur G. Hagalín",
+      "starfsgrein": "rithöfundur",
+      "ar": "1898"
+    },
+    {
+      "nafn": "Skúli Guðmundsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1900"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tungl fann William Lassell árið 1846?",
+      "svor": [
+        "Tríton",
+        "Evrópu",
+        "Títan",
+        "Fóbos"
+      ],
+      "rett": 0,
+      "skyring": "Tríton er stærsta tungl Neptúnusar og lét loks sjá sig í sjónauka Lassells."
+    },
+    {
+      "spurning": "Hver varð fyrsti kvenráðherra Íslands árið 1970?",
+      "svor": [
+        "Vigdís Finnbogadóttir",
+        "Auður Auðuns",
+        "Bríet Bjarnhéðinsdóttir",
+        "Jóhanna Sigurðardóttir"
+      ],
+      "rett": 1,
+      "skyring": "Auður Auðuns braut ráðherraglerþakið þegar hún tók við dóms- og kirkjumálaráðuneytinu."
+    },
+    {
+      "spurning": "Hvaða íslenski mótmælandi sletti skyri á alþingismenn árið 1972?",
+      "svor": [
+        "Ellert B. Schram",
+        "Guðmundur G. Hagalín",
+        "Helgi Hóseasson",
+        "Hannes Hafstein"
+      ],
+      "rett": 2,
+      "skyring": "Helgi Hóseasson sá um þessa óvenjulega skyrveislu við þingsetningu."
+    }
+  ],
+  "tonlistUSA": "Oh Sheila – Ready for the World (1985)",
+  "tonlistUK": "If I Was – Midge Ure (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "vígahnöttur",
+    "skyring": "Vígahnöttur er mjög bjartur loftsteinn sem blossar upp þegar hann þýtur um gufuhjúp jarðar."
+  },
+  "vissir_thu": "Tríton gengur um Neptúnus í öfuga átt miðað við snúning reikistjörnunnar, sem bendir til þess að tunglið hafi verið fangað af þyngdarafli hennar.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og þess að setja plötu á fóninn og gleyma sér. Ef ágreiningur kemur upp skaltu beita diplómatíu — og geyma skyrið í ísskápnum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fonds_Christian_Bromberger_-_Affiches_de_la_p%C3%A9riode_de_la_R%C3%A9volution_islamique_%28Iran%2C_1978-1979%29_-_Portraits_des_trois_premiers_imams_chiites%2C_sabre_au_centre_et_grille_de_mausol%C3%A9e_en_arri%C3%A8re-plan_%28M%C3%A9diHAL_1791411%29_%28Husayn_ibn_Ali%29.jpg/500px-thumbnail.jpg",
+    "ar": "680",
+    "texti": "Husayn ibn Ali, dóttursonur Múhameðs, féll í orrustunni við Karbala eftir að hafa neitað að viðurkenna Yazid I sem kalífa. Atburðurinn varð einn sá áhrifamesti í sögu sjía-íslams.",
+    "heimild": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+    "breidd": 330,
+    "haed": 482
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

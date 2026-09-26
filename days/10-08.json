@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-08",
+  "dagur": 8,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:55",
+  "sunset": "18:33",
+  "kvedja": "Góðan 8. október, kæri lesandi! Í dag förum við frá kirkjuþingi í Kalkedon yfir í eldhaf í Chicago, með viðkomu á hafnaboltavelli og í íslenskri skriðu — sagan kann sannarlega ekki að sitja kyrr.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "451",
+      "texti": "Kirkjuþingið í Kalkedon var sett og varð eitt áhrifamesta kirkjuþing frumkristninnar. Þar var kenningu Eutýkesar um eitt eðli Krists hafnað og Kalkedonsjátningin mótuð."
+    },
+    {
+      "ar": "1871",
+      "texti": "Chicago-eldurinn mikli hófst og lagði stóran hluta miðborgarinnar í rúst. Um 300 manns létust og 90.000 urðu heimilislaus — borgin fékk heldur betur óumbeðna endurskipulagningu."
+    },
+    {
+      "ar": "1918",
+      "texti": "Í Meuse–Argonne-sókninni leiddi bandaríski undirliðþjálfinn Alvin York sjö eftirlifandi félaga sína gegn þýsku vélbyssuhreiðri. Tuttugu og fimm þýskir hermenn féllu og 132 voru teknir til fanga."
+    },
+    {
+      "ar": "1956",
+      "texti": "Don Larsen kastaði eina fullkomna leiknum í sögu úrslitakeppni bandaríska hafnaboltans. Enginn mótherji komst á stöð — dagur þar sem orðið „fullkomið“ var ekki bara íþróttafréttaklisja."
+    },
+    {
+      "ar": "2001",
+      "texti": "Á Linate-flugvellinum í Mílanó rakst farþegaþota Scandinavian Airlines á Cessna Citation II-einkaþotu í flugtaki. Alls létust 118 manns í slysinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1720",
+      "texti": "Bjarnastaðaskriða féll úr Vatnsdalsfjalli á tvo bæi í Húnavatnssýslu og sex manns fórust. Skriðan stíflaði jafnframt Vatnsdalsá og myndaði stöðuvatnið Flóðið.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1879",
+      "texti": "Hið íslenska fornleifafélag var stofnað í Reykjavík, enda fortíðin of verðmæt til að skilja hana eina eftir úti í móa.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1976",
+      "texti": "Hjónin Finnbogi Rútur Valdimarsson og Hulda Dóra Jakobsdóttir voru kjörin fyrstu heiðursborgarar Kópavogs.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2008",
+      "texti": "Í bankahruninu setti breska fjármálaeftirlitið Kaupthing Singer & Friedlander í greiðslustöðvun.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bruno Mars",
+      "starfsgrein": "söngvari, lagahöfundur og tónlistarframleiðandi",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Bella Thorne",
+      "starfsgrein": "leikkona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Angus T. Jones",
+      "starfsgrein": "leikari",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Ardal O'Hanlon",
+      "starfsgrein": "grínisti, leikari og handritshöfundur",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Eddie Rickenbacker",
+      "starfsgrein": "hermaður og flugmaður",
+      "ar": "1890"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eva Pandóra Baldursdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Björn Jónsson",
+      "starfsgrein": "ráðherra",
+      "ar": "1846"
+    },
+    {
+      "nafn": "Grímur Jónsson Thorkelín",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1752"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg varð eldhafi 8. október 1871?",
+      "svor": [
+        "Chicago",
+        "Boston",
+        "Seattle",
+        "New Orleans"
+      ],
+      "rett": 0,
+      "skyring": "Chicago-eldurinn mikli hófst þennan dag og skildi um 90.000 manns eftir heimilislausa."
+    },
+    {
+      "spurning": "Hver kastaði fullkomnum leik í úrslitakeppni hafnaboltans árið 1956?",
+      "svor": [
+        "Babe Ruth",
+        "Don Larsen",
+        "Joe DiMaggio",
+        "Jackie Robinson"
+      ],
+      "rett": 1,
+      "skyring": "Don Larsen náði afrekinu, og enginn hefur leikið það eftir í úrslitakeppninni."
+    },
+    {
+      "spurning": "Hvaða félag var stofnað í Reykjavík 8. október 1879?",
+      "svor": [
+        "Ferðafélag Íslands",
+        "Hið íslenska náttúrufræðifélag",
+        "Hið íslenska fornleifafélag",
+        "Sögufélag"
+      ],
+      "rett": 2,
+      "skyring": "Hið íslenska fornleifafélag tók til starfa og fór að halda utan um gamla tíma af myndarskap."
+    }
+  ],
+  "tonlistUSA": "Love Bites – Def Leppard (1988)",
+  "tonlistUK": "One Moment in Time – Whitney Houston (1988)",
+  "bio": "Joker (2019)",
+  "ord_dagsins": {
+    "ord": "vályndi",
+    "skyring": "Vályndi merkir ógn eða yfirvofandi hættu og er einkar hentugt orð þegar sagan tekur að ýfa kambinn."
+  },
+  "vissir_thu": "Fullkominn hafnaboltaleikur þýðir að enginn leikmaður mótherjanna kemst á stöð allan leikinn; Don Larsen er enn sá eini sem hefur afrekað það í úrslitakeppninni.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að setja góða plötu á fóninn. Varastu þó að vega og meta kaffibollann of lengi — hann kólnar, jafnvel þótt Merkúr sé þér hliðhollur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fourth_ecumenical_council_of_chalcedon_-_1876.jpg/500px-Fourth_ecumenical_council_of_chalcedon_-_1876.jpg",
+    "ar": "451",
+    "texti": "Kirkjuþingið í Kalkedon var sett og varð eitt áhrifamesta kirkjuþing frumkristninnar. Þar var kenningu Eutýkesar um eitt eðli Krists hafnað og Kalkedonsjátningin mótuð.",
+    "heimild": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
+    "breidd": 330,
+    "haed": 293
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

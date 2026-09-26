@@ -1,0 +1,143 @@
+{
+  "mmdd": "10-17",
+  "dagur": 17,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:22",
+  "sunset": "18:01",
+  "kvedja": "Góðan 17. október! Í dag horfum við á sprengistjörnu með Kepler, vöðum bjórflóð í London og fylgjum Al Capone alla leið í bókhaldið — sagan kann svo sannarlega að skipta um gír. Helltu upp á eitthvað gott og njóttu dagsins með mér, en hafðu ílátin traustari en bruggararnir í London árið 1814.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1604",
+      "texti": "Johannes Kepler hóf athuganir á óvenju björtu fyrirbæri í stjörnumerkinu Naðurvalda. Fyrirbærið er nú þekkt sem sprengistjarna Keplers."
+    },
+    {
+      "ar": "1777",
+      "texti": "John Burgoyne hershöfðingi gafst upp fyrir Bandaríkjamönnum og Saratoga-herför Breta lauk. Uppgjöfin átti síðar þátt í að sannfæra Frakka um að ganga til liðs við Bandaríkin í frelsisstríðinu."
+    },
+    {
+      "ar": "1814",
+      "texti": "Risastórt gerjunarker úr tré sprakk í London og hratt af stað flóði úr að minnsta kosti 580.000 lítrum af porterbjór. Átta létust í þessum sérkennilega en skelfilega hamförum."
+    },
+    {
+      "ar": "1860",
+      "texti": "Opna breska meistaramótið í golfi var haldið í fyrsta sinn á Prestwick-vellinum í Skotlandi. Mótið er elst fjögurra risamóta karla í golfi."
+    },
+    {
+      "ar": "1931",
+      "texti": "Bandaríski glæpaforinginn Al Capone var sakfelldur fyrir skattsvik í fimm liðum. Þegar önnur lög náðu illa utan um hann reyndist bókhaldið loks skeinuhætt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1755",
+      "texti": "Mikið Kötlugos hófst með jökulhlaupi og öskufalli. Það er talið mesta öskugos Kötlu á sögulegum tíma og stóð fram í febrúar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1941",
+      "texti": "Ellefu bandarískir hermenn fórust þegar þýskur kafbátur skaut á bandarískan tundurspilli vestur af Íslandi. Skipið komst við illan leik inn á Hvalfjörð og mennirnir voru fyrstu bandarísku hermennirnir sem féllu í síðari heimsstyrjöldinni.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1941",
+      "texti": "Ákveðið var að Sáttmálasjóður Háskóla Íslands skyldi eiga og reka kvikmyndahús.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1965",
+      "texti": "Syrtlingur, eyja við Surtsey, sást í síðasta sinn ofansjávar. Sjórinn hafði þar síðasta orðið, eins og honum er tamt.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Hudson",
+      "starfsgrein": "tónlistarmaður og leikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Arthur Miller",
+      "starfsgrein": "leikskáld og handritshöfundur",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Alan Jackson",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "André Villas-Boas",
+      "starfsgrein": "knattspyrnuþjálfari og fyrrverandi knattspyrnumaður",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Cameron Mackintosh",
+      "starfsgrein": "leikhúsframleiðandi",
+      "ar": "1946"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Pétur Heiðar Þórðarson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1972"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað flæddi um götur London árið 1814 þegar gerjunarker sprakk?",
+      "svor": [
+        "Porterbjór",
+        "Eplasafi",
+        "Viskí",
+        "Mjólk"
+      ],
+      "rett": 0,
+      "skyring": "Að minnsta kosti 580.000 lítrar af porterbjór brutust úr kerjunum."
+    },
+    {
+      "spurning": "Hvaða eldfjall hóf mikið gos á Íslandi 17. október 1755?",
+      "svor": [
+        "Hekla",
+        "Askja",
+        "Katla",
+        "Krafla"
+      ],
+      "rett": 2,
+      "skyring": "Kötlugosið hófst með miklu jökulhlaupi og öskufalli."
+    },
+    {
+      "spurning": "Fyrir hvaða brot var Al Capone sakfelldur árið 1931?",
+      "svor": [
+        "Skjalafals",
+        "Skattsvik",
+        "Landráð",
+        "Bjórbruggun"
+      ],
+      "rett": 1,
+      "skyring": "Skattsvikin felldu Capone þegar erfiðara hafði reynst að sanna önnur afbrot hans."
+    }
+  ],
+  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
+  "tonlistUK": "Sleeping Satellite – Tasmin Archer (1992)",
+  "bio": "Pulp Fiction (1994)",
+  "ord_dagsins": {
+    "ord": "óáran",
+    "skyring": "Óáran merkir erfitt eða óheillavænlegt tíðarskeið."
+  },
+  "vissir_thu": "Opna breska meistaramótið, sem fyrst var leikið árið 1860, er elst fjögurra risamóta karla í golfi.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur skálin sé full af porterbjór og hin af ógreiddum sköttum. Segðu hug þinn kurteislega, greiddu reikningana og láttu stórar ákvarðanir bíða þar til eftir kaffið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
+    "ar": "1604",
+    "texti": "Johannes Kepler hóf athuganir á óvenju björtu fyrirbæri í stjörnumerkinu Naðurvalda. Fyrirbærið er nú þekkt sem sprengistjarna Keplers.",
+    "heimild": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "breidd": 330,
+    "haed": 474
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

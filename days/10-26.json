@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-26",
+  "dagur": 26,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:50",
+  "sunset": "17:31",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 26. október býður upp á allt frá þrettán kóreskum herskipum og fyrsta knattspyrnusambandinu til friðarsamnings og vígslu Hallgrímskirkju — sagan kann greinilega ekki að halda sig við eina deild. Komdu þér vel fyrir og njóttu dagsins með örlitlu sagnfræðilegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1597",
+      "texti": "Í orrustunni við Myeongnyang sigraði Yi Sun-sin aðmíráll miklu stærri japanskan innrásarflota með aðeins þrettán kóreskum skipum. Þar sannaðist að fjöldinn einn ræður ekki úrslitum þegar snjall stjórnandi stendur við stýrið."
+    },
+    {
+      "ar": "1863",
+      "texti": "The Football Association, fyrsta landssamband knattspyrnunnar í heiminum, var stofnað í London. Boltinn hafði loksins fengið stjórnkerfi — og rifrildin um reglurnar gátu orðið formleg."
+    },
+    {
+      "ar": "1892",
+      "texti": "Ida B. Wells hóf að birta rannsóknir sínar á múgdrápum í Bandaríkjunum. Fyrir þetta mikilvæga brautryðjendastarf var hún sæmd Pulitzer-verðlaunum að henni látinni árið 2020."
+    },
+    {
+      "ar": "1977",
+      "texti": "Ali Maow Maalin, matreiðslumaður á sjúkrahúsi í Sómalíu, tók að sýna einkenni bólusóttar og varð síðasti maðurinn sem vitað er til að hafi smitast af sjúkdómnum með náttúrulegum hætti."
+    },
+    {
+      "ar": "1994",
+      "texti": "Ísrael og Jórdanía undirrituðu friðarsamning sem kom samskiptum ríkjanna í formlegt horf. Þau hétu jafnframt að leyfa ekki þriðja ríki að nota landsvæði sitt sem stökkpall fyrir hernaðarárásir."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1961",
+      "texti": "Allmikið hraungos hófst í Öskju og stóð fram í desember. Jörðin minnti þar með á að hún á síðasta orðið í skipulagsmálum hálendisins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1965",
+      "texti": "Reykjanesbraut, þá nefnd Keflavíkurvegurinn, var formlega opnuð eftir fimm ára framkvæmdir. Þetta var fyrsti þjóðvegurinn utan þéttbýlis á Íslandi sem lagður var bundnu slitlagi, en veggjaldið við Straumsvík vakti litla hrifningu bílstjóra.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1986",
+      "texti": "Hallgrímskirkja í Reykjavík var vígð eftir 41 árs byggingarsögu. Við athöfnina gengu 2000 kirkjugestir til altaris, fleiri en áður hafði gerst í íslenskri kirkjusögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1995",
+      "texti": "Snjóflóð féll á Flateyri og tuttugu manns fórust. Atburðurinn markaði djúp spor í sögu Vestfjarða og þjóðarinnar allrar.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anthony Rapp",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Benjamin Guggenheim",
+      "starfsgrein": "athafnamaður",
+      "ar": "1865"
+    },
+    {
+      "nafn": "Beryl Markham",
+      "starfsgrein": "rithöfundur og hestaþjálfari",
+      "ar": "1902"
+    },
+    {
+      "nafn": "Abby Aldrich Rockefeller",
+      "starfsgrein": "mannvinur og stofnandi Museum of Modern Art",
+      "ar": "1874"
+    },
+    {
+      "nafn": "Adriano Correia",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1984"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gísli H. Guðjónsson",
+      "starfsgrein": "réttarsálfræðingur",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Einar Kristjánsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Haraldur Guðbergsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1930"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu mörgum kóreskum skipum stjórnaði Yi Sun-sin í orrustunni við Myeongnyang?",
+      "svor": [
+        "Þrettán",
+        "Tuttugu og sex",
+        "Fimmtíu",
+        "Hundrað og þrettán"
+      ],
+      "rett": 0,
+      "skyring": "Yi Sun-sin hafði aðeins þrettán skip en sigraði samt miklu stærri innrásarflota."
+    },
+    {
+      "spurning": "Hvaða íslenska mannvirki var vígt 26. október 1986 eftir 41 árs byggingarsögu?",
+      "svor": [
+        "Þjóðleikhúsið",
+        "Hallgrímskirkja",
+        "Perlan",
+        "Háskólabíó"
+      ],
+      "rett": 1,
+      "skyring": "Hallgrímskirkja var vígð og 2000 kirkjugestir gengu þá til altaris."
+    },
+    {
+      "spurning": "Hvaða sjúkdómi smitaðist Ali Maow Maalin árið 1977?",
+      "svor": [
+        "Mænuveiki",
+        "Mislingum",
+        "Bólusótt",
+        "Gulusótt"
+      ],
+      "rett": 2,
+      "skyring": "Hann varð síðasti maðurinn sem vitað er til að hafi smitast náttúrulega af bólusótt."
+    }
+  ],
+  "tonlistUSA": "Saving All My Love for You – Whitney Houston (1985)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "The Terminator (1984)",
+  "ord_dagsins": {
+    "ord": "óbrinnishólmi",
+    "skyring": "Óbrinnishólmi er landsvæði sem hraun hefur runnið umhverfis án þess að hylja það."
+  },
+  "vissir_thu": "The Football Association, stofnað í London árið 1863, var fyrsta landssamband knattspyrnunnar í heiminum.",
+  "stjornuspa": "Sporðdrekinn finnur gamla glóð undir yfirborðinu í dag, en þarf ekki að láta hana verða að Öskjugosi. Settu á þig þinn fínasta leyndardómssvip, taktu skynsemina með í för og láttu aðra velta fyrir sér hvernig þú vissir þetta allt saman.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Siege-of-Busanjin-1592.jpg/500px-Siege-of-Busanjin-1592.jpg",
+    "ar": "1597",
+    "texti": "Í orrustunni við Myeongnyang sigraði Yi Sun-sin aðmíráll miklu stærri japanskan innrásarflota með aðeins þrettán kóreskum skipum. Þar sannaðist að fjöldinn einn ræður ekki úrslitum þegar snjall stjórnandi stendur við stýrið.",
+    "heimild": "https://en.wikipedia.org/wiki/Imjin_War",
+    "breidd": 330,
+    "haed": 500
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

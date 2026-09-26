@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-20",
+  "dagur": 20,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:31",
+  "sunset": "17:51",
+  "kvedja": "Góðan 20. október, kæri lesandi! Í dag stígum við varlega milli Habsborgara, kvarka og íslenskra menningarhúsa—enda kennir sagan okkur að bæði heimsveldi og leikhús þurfa traustan grunn. Vogin heldur jafnvæginu á meðan Sagnfræðingurinn hallar sér örlítið að kaffibollanum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1740",
+      "texti": "María Teresa tók við Habsborgarlöndunum samkvæmt erfðalögum Pragmatísku sanktionarinnar. Valdatakan varð upphafið að löngum átökum, því evrópskir nágrannar létu ekki stóran arf óáreittan."
+    },
+    {
+      "ar": "1944",
+      "texti": "Douglas MacArthur hershöfðingi gekk á land á Leyte og hóf endurheimt Filippseyja úr höndum Japana. Þar efndi hann loforð sitt um að snúa aftur—með heldur meiri viðhöfn en fylgir venjulegri endurkomu."
+    },
+    {
+      "ar": "1969",
+      "texti": "Niðurstöður tilrauna við Stanford Linear Accelerator Center voru birtar og sýndu að róteindir væru gerðar úr smærri ögnum. Þetta varð fyrsta sönnunargagnið fyrir tilvist kvarka og opnaði nýja smugu inn í innviði efnisins."
+    },
+    {
+      "ar": "1973",
+      "texti": "Elliot Richardson, dómsmálaráðherra Bandaríkjanna, og William Ruckelshaus aðstoðarmaður hans sögðu af sér eftir að hafa neitað skipun Richards Nixon um að reka saksóknarann Archibald Cox. Atburðurinn varð frægur kafli Watergate-hneykslisins."
+    },
+    {
+      "ar": "2011",
+      "texti": "Muammar Gaddafi, fyrrverandi leiðtogi Líbíu, var handsamaður af uppreisnarmönnum í orrustunni um Sirte og drepinn skömmu síðar. Þar með lauk einum dramatískasta kafla fyrri borgarastyrjaldarinnar í Líbíu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1728",
+      "texti": "Mikill eldsvoði hófst í Kaupmannahöfn og geisaði í þrjá daga. Hluti bókasafns Árna Magnússonar fórst, en sem betur fer tókst að bjarga megninu af dýrmætum skinnhandritum hans.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1905",
+      "texti": "Konungur undirritaði lög um stofnun Kleppsspítala í Reykjavík, mikilvægan áfanga í sögu íslenskrar heilbrigðisþjónustu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1989",
+      "texti": "Borgarleikhúsið í Reykjavík var vígt með mikilli viðhöfn eftir þrettán ára byggingartíma. Leikhúsið hafði því þegar leikið langt þolinmæðisverk áður en fyrsta tjaldið reis.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2012",
+      "texti": "Þjóðaratkvæðagreiðsla var haldin á Íslandi um tillögur stjórnlagaráðs að nýrri stjórnarskrá.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andrey Rublev",
+      "starfsgrein": "tennisleikari",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Ademola Lookman",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Arthur Rimbaud",
+      "starfsgrein": "skáld",
+      "ar": "1854"
+    },
+    {
+      "nafn": "Alona Tal",
+      "starfsgrein": "leikkona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "ASAP Ferg",
+      "starfsgrein": "rappari",
+      "ar": "1988"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ingimar Eydal",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Tryggvi Emilsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1902"
+    },
+    {
+      "nafn": "Áskell Löve",
+      "starfsgrein": "grasafræðingur",
+      "ar": "1916"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða agnir komu fyrst skýrt við sögu í niðurstöðum Stanford-tilraunanna árið 1969?",
+      "svor": [
+        "Kvarkar",
+        "Nifteindir",
+        "Ljóseindir",
+        "Nifteindir úr kaffivél"
+      ],
+      "rett": 0,
+      "skyring": "Tilraunirnar gáfu fyrstu sönnunargögnin fyrir því að róteindir væru meðal annars gerðar úr kvörkum."
+    },
+    {
+      "spurning": "Hvaða íslenska menningarhús var vígt 20. október 1989?",
+      "svor": [
+        "Þjóðleikhúsið",
+        "Harpa",
+        "Borgarleikhúsið",
+        "Hof á Akureyri"
+      ],
+      "rett": 2,
+      "skyring": "Borgarleikhúsið var vígt eftir þrettán ára byggingarsögu, sem hefði sjálf getað orðið leikrit."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var franskt skáld?",
+      "svor": [
+        "Andrey Rublev",
+        "Arthur Rimbaud",
+        "Ademola Lookman",
+        "ASAP Ferg"
+      ],
+      "rett": 1,
+      "skyring": "Arthur Rimbaud var franskt skáld og eitt kunnasta undrabarn bókmenntasögunnar."
+    }
+  ],
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "The Terminator (1984)",
+  "ord_dagsins": {
+    "ord": "andvari",
+    "skyring": "Andvari er hægur og mildur vindur, rétt nógu ákveðinn til að minna á sig án þess að feykja hattinum út í buskann."
+  },
+  "vissir_thu": "Douglas MacArthur hafði árið 1942 heitið því að snúa aftur til Filippseyja og efndi það loforð þegar hann gekk á land á Leyte 20. október 1944.",
+  "stjornuspa": "Vog, dagurinn kallar á jafnvægi milli skyldustarfa og þess að setja Stevie Wonder á fóninn. Gamalt bréf eða gleymd hugmynd gæti skotið upp kollinum—lestu smáa letrið áður en þú lýsir yfir nýju heimsveldi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pragmatica_Sanc.jpg/500px-Pragmatica_Sanc.jpg",
+    "ar": "1740",
+    "texti": "María Teresa tók við Habsborgarlöndunum samkvæmt erfðalögum Pragmatísku sanktionarinnar. Valdatakan varð upphafið að löngum átökum, því evrópskir nágrannar létu ekki stóran arf óáreittan.",
+    "heimild": "https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_1713",
+    "breidd": 330,
+    "haed": 233
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

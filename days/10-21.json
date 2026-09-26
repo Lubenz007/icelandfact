@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-21",
+  "dagur": 21,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:34",
+  "sunset": "17:48",
+  "kvedja": "Góðan 21. október, kæri lesandi! Í dag sveiflumst við frá krossförum til Guggenheim, með viðkomu hjá Florence Nightingale og nokkrum íslenskum kjörkössum — sagan kann sannarlega að pakka vel í dagsferð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1096",
+      "texti": "Seldsjúkar undir stjórn Kilij Arslan gjöreyddu her Alþýðukrossferðarinnar í orrustunni við Civetot, þegar liðið stefndi til Níkeu. Fyrsta krossferðin hófst því með býsna óblíðum raunveruleikakennslutíma."
+    },
+    {
+      "ar": "1854",
+      "texti": "Florence Nightingale hélt ásamt 38 hjúkrunarkonum og 15 nunnum til Tyrkjaveldis til að annast særða breska hermenn í Krímstríðinu. Förin varð stór áfangi í sögu nútímahjúkrunar."
+    },
+    {
+      "ar": "1959",
+      "texti": "Solomon R. Guggenheim-safnið, hannað af Frank Lloyd Wright, var opnað í New York. Hringlaga byggingin var sjálf svo eftirminnilegt listaverk að málverkin þurftu næstum að keppa við veggina um athyglina."
+    },
+    {
+      "ar": "1966",
+      "texti": "Kolúrgangshaugur féll yfir velska þorpið Aberfan og varð 144 að bana, flestum skólabörnum. Harmleikurinn varð eitt átakanlegasta iðnaðarslys í sögu Bretlands."
+    },
+    {
+      "ar": "1994",
+      "texti": "Norður-Kórea og Bandaríkin undirrituðu svonefnt Agreed Framework, samkomulag sem átti að takmarka kjarnorkuvopnaáætlun Norður-Kóreu og greiða fyrir eðlilegri samskiptum ríkjanna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1171",
+      "texti": "Hvamm-Sturla Þórðarson og Einar Þorgilsson á Staðarhóli börðust í Sælingsdal. Sturla hafði betur og var eftir það talinn voldugasti höfðinginn við Breiðafjörð.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1916",
+      "texti": "Alþingiskosningar voru haldnar, þær fyrstu eftir að konur fengu kosningarétt. Samhliða höfnuðu kjósendur tillögu um þegnskylduvinnu ungra karla með 90% atkvæða — býsna afdráttarlaust nei.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1933",
+      "texti": "Þjóðaratkvæðagreiðsla fór fram um bannlögin svonefndu og í kjölfarið var áfengisbannið afnumið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1988",
+      "texti": "Listasafn Sigurjóns Ólafssonar var opnað í Reykjavík á þeim degi sem myndhöggvarinn hefði orðið áttræður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Benjamin Netanyahu",
+      "starfsgrein": "ísraelskur stjórnmálamaður",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Andrew Scott",
+      "starfsgrein": "írskur leikari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Amber Rose",
+      "starfsgrein": "bandarísk fyrirsæta",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Celia Cruz",
+      "starfsgrein": "kúbversk-bandarísk söngkona",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Alfred Nobel",
+      "starfsgrein": "sænskur efnafræðingur og uppfinningamaður",
+      "ar": "1833"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Jónsson",
+      "starfsgrein": "vígslubiskup",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Bárður Ísleifsson",
+      "starfsgrein": "arkitekt",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Sigurjón Ólafsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1908"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða safn opnaði í New York 21. október 1959?",
+      "svor": [
+        "Solomon R. Guggenheim-safnið",
+        "Louvre-safnið",
+        "Prado-safnið",
+        "British Museum"
+      ],
+      "rett": 0,
+      "skyring": "Guggenheim-safnið opnaði í byggingu Frank Lloyd Wright og beygði þar með bæði veggi og væntingar."
+    },
+    {
+      "spurning": "Hver lagði af stað til Tyrkjaveldis árið 1854 með hópi hjúkrunarkvenna og nunna?",
+      "svor": [
+        "Celia Cruz",
+        "Florence Nightingale",
+        "Albertina Sisulu",
+        "Amber Rose"
+      ],
+      "rett": 1,
+      "skyring": "Florence Nightingale fór til að annast særða breska hermenn í Krímstríðinu."
+    },
+    {
+      "spurning": "Hvaða íslenska safn var opnað 21. október 1988?",
+      "svor": [
+        "Listasafn Einars Jónssonar",
+        "Þjóðminjasafn Íslands",
+        "Listasafn Sigurjóns Ólafssonar",
+        "Safnahúsið"
+      ],
+      "rett": 2,
+      "skyring": "Listasafn Sigurjóns Ólafssonar opnaði á áttræðisafmæli myndhöggvarans."
+    }
+  ],
+  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
+  "tonlistUK": "That's What I Like – Jive Bunny and the Mastermixers (1989)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, gjarnan þegar dagur og nótt skiptast á vakt."
+  },
+  "vissir_thu": "Frank Lloyd Wright lést í apríl 1959 og náði því ekki að sjá Guggenheim-safnið opnað í október sama ár.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt annar skálinn sé fullur af skyldum og hinn af tertu. Taktu mikilvægar ákvarðanir með reisn, en mundu að enginn sagnfræðingur hefur nokkru sinni harmað aukabolla af kaffi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/500px-Peter_the_Hermit.jpg",
+    "ar": "1096",
+    "texti": "Seldsjúkar undir stjórn Kilij Arslan gjöreyddu her Alþýðukrossferðarinnar í orrustunni við Civetot, þegar liðið stefndi til Níkeu. Fyrsta krossferðin hófst því með býsna óblíðum raunveruleikakennslutíma.",
+    "heimild": "https://en.wikipedia.org/wiki/First_Crusade",
+    "breidd": 330,
+    "haed": 318
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

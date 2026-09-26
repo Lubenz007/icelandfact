@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-24",
+  "dagur": 24,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:44",
+  "sunset": "17:37",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 24. október finnum við allt frá mamelúkum og örsmáum tunglum til kvenna sem stöðvuðu Ísland — og knattspyrnuleiks sem endaði með pizzusneið á flugi. Sagan kann greinilega bæði að breyta heiminum og skilja eftir sig dálítið rusl í búningsklefanum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1260",
+      "texti": "Qutuz Egyptalandss soldán var ráðinn af dögum og mamelúkaleiðtoginn Baybars tók við völdum. Valdaskipti á miðöldum fóru sjaldnast fram með blómvendi og þakkarræðu."
+    },
+    {
+      "ar": "1851",
+      "texti": "Breski stjörnufræðingurinn William Lassell uppgötvaði Ariel og Umbriel, þriðja og fjórða tungl Úranusar sem menn fundu. Himingeimurinn varð þar með tveimur tunglum ríkari í skrám mannkyns."
+    },
+    {
+      "ar": "1929",
+      "texti": "Á svarta fimmtudeginum féll verðmæti kauphallarinnar í New York um 11 prósent strax við opnun. Dagurinn markaði upphaf hrunsins sem tengt er upphafi kreppunnar miklu."
+    },
+    {
+      "ar": "1945",
+      "texti": "Sáttmáli Sameinuðu þjóðanna tók gildi eftir fullgildingu fastafulltrúa öryggisráðsins og meirihluta annarra undirritunarríkja. Þar með urðu Sameinuðu þjóðirnar formlega að alþjóðasamtökum."
+    },
+    {
+      "ar": "2004",
+      "texti": "Manchester United vann Arsenal 2–0 í leiknum sem síðar var kallaður „orrustan um hlaðborðið“ og batt enda á metlangan taplausan kafla Arsenal. Eftir leikinn mun pizzusneið hafa fengið óvænt hlutverk í knattspyrnusögunni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1919",
+      "texti": "Fyrsta tölublað Alþýðublaðsins kom út og ný rödd bættist í íslenska fjölmiðlaflóru.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Kanadíski tundurspillirinn Skeena fórst við Viðey. Um 198 manns var bjargað í einni mestu björgun við Íslandsstrendur, en um fimmtán létust.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Á kvennafrídeginum lögðu íslenskar konur niður vinnu til að sýna fram á mikilvægi framlags þeirra í atvinnulífi og samfélagi. Um 90 prósent kvenna tóku þátt og dagurinn vakti heimsathygli.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1987",
+      "texti": "Tvö virt bresk tónlistarblöð birtu Sykurmolana á forsíðum sínum og hjálpuðu þannig til við að bera hróður sveitarinnar víða um heim.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "BD Wong",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Bill Wyman",
+      "starfsgrein": "enskur bassaleikari og lagahöfundur",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Antonie van Leeuwenhoek",
+      "starfsgrein": "hollenskur líffræðingur og frumkvöðull í örverufræði",
+      "ar": "1632"
+    },
+    {
+      "nafn": "Adrienne Bailon",
+      "starfsgrein": "bandarísk söngkona, dansari og leikkona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Annie Edson Taylor",
+      "starfsgrein": "bandarísk áhættukona og kennari",
+      "ar": "1838"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðmundur Friðjónsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1869"
+    },
+    {
+      "nafn": "Magnús Jónsson",
+      "starfsgrein": "leikari",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Karl Ottó Runólfsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1900"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íslenski atburður 24. október 1975 vakti heimsathygli?",
+      "svor": [
+        "Kvennafrídagurinn",
+        "Stofnun SÍBS",
+        "Koma togarans Vigra",
+        "Fyrsta útgáfa Alþýðublaðsins"
+      ],
+      "rett": 0,
+      "skyring": "Um 90 prósent íslenskra kvenna lögðu niður vinnu á kvennafrídeginum."
+    },
+    {
+      "spurning": "Hvaða tvö tungl uppgötvaði William Lassell árið 1851?",
+      "svor": [
+        "Fóbos og Deimos",
+        "Ariel og Umbriel",
+        "Íó og Evrópu",
+        "Títan og Mímas"
+      ],
+      "rett": 1,
+      "skyring": "Ariel og Umbriel eru tungl Úranusar og fengu sæti í stjörnufræðibókunum þennan dag."
+    },
+    {
+      "spurning": "Hvaða lið stöðvaði taplausa hrinu Arsenal í „orrustunni um hlaðborðið“?",
+      "svor": [
+        "Chelsea",
+        "Liverpool",
+        "Manchester United",
+        "Tottenham Hotspur"
+      ],
+      "rett": 2,
+      "skyring": "Manchester United vann 2–0 og knattspyrnusagan fékk óvæntan keim af pizzum."
+    }
+  ],
+  "tonlistUSA": "Monster Mash – Bobby Pickett (1962)",
+  "tonlistUK": "It's My Party – Dave Stewart og Barbara Gaskin (1981)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "dægurþras",
+    "skyring": "Dægurþras er þrætuefni líðandi stundar sem getur virst afar mikilvægt í dag en gleymst furðufljótt."
+  },
+  "vissir_thu": "Annie Edson Taylor varð fyrst til að lifa af ferð niður Niagarafossana í tunnu — og gerði það á 63 ára afmælisdegi sínum, 24. október 1901.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamla leyndardóma þar sem aðrir sjá aðeins óraðaða skúffu. Varastu þó dramatík við kaffivélina; ekki sérhver horfinn bolli kallar á rannsóknarnefnd.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg/500px-%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
+    "ar": "1260",
+    "texti": "Qutuz Egyptalandss soldán var ráðinn af dögum og mamelúkaleiðtoginn Baybars tók við völdum. Valdaskipti á miðöldum fóru sjaldnast fram með blómvendi og þakkarræðu.",
+    "heimild": "https://en.wikipedia.org/wiki/Qutuz",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

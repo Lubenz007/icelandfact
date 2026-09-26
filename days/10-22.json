@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-22",
+  "dagur": 22,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "08:37",
+  "sunset": "17:44",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 22. október, þar sem gufulest stingur sér út um stöðvarvegg, The Supremes brjóta blað og Hrauneyjafossvirkjun tekur til starfa. Sagan kann svo sannarlega að gera dramatískan inngang — stundum án þess að stoppa við endastöðina.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1633",
+      "texti": "Í orrustunni á Liaoluo-flóa sigraði kínverski Ming-flotinn flota Hollenska Austur-Indíafélagsins á Taívansundi. Þetta var stærsti sjóbardagi Kínverja og Evrópumanna fram að fyrsta ópíumstríðinu, rúmum tveimur öldum síðar."
+    },
+    {
+      "ar": "1740",
+      "texti": "Tveggja vikna fjöldamorðum á Kínverjum í Batavíu í Hollensku Austur-Indíum lauk; að minnsta kosti 10.000 manns höfðu verið drepin. Þetta er einn svartasti kafli nýlendusögu svæðisins."
+    },
+    {
+      "ar": "1895",
+      "texti": "Hraðlest ók fram hjá endastoppi á Montparnasse-stöðinni í París, braust í gegnum stöðvarvegginn og endaði með eimreiðina hangandi niður á götuna. Ljósmyndin af óhappinu varð síðar ein frægasta lestarmynd sögunnar."
+    },
+    {
+      "ar": "1966",
+      "texti": "Með plötunni The Supremes A' Go-Go urðu The Supremes fyrsti kvennahópurinn til að komast í efsta sæti Billboard 200-plötulistans. Þær rufu þar með glerþak með takti, glæsibrag og ómótstæðilegum viðlögum."
+    },
+    {
+      "ar": "1987",
+      "texti": "Óperan Nixon in China eftir John Adams var frumflutt. Þar varð söguleg Kínaför Richards Nixon að óperuefni — því stundum þarf diplómatía greinilega bæði hljómsveit og háa tóna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1253",
+      "texti": "Flugumýrarbrenna varð í Skagafirði þegar bærinn á Flugumýri var brenndur og 25 manns fórust. Atburðurinn var eitt skelfilegasta ódæðið á Sturlungaöld.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1961",
+      "texti": "Bjarni Benediktsson var kosinn formaður Sjálfstæðisflokksins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1965",
+      "texti": "Fyrsta Nóatúnsverslunin tók til starfa í Reykjavík og þar með hófst nýr kafli í íslenskri verslunarsögu — og væntanlega líka í eilífri spurningunni um hvað ætti að vera í matinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1981",
+      "texti": "Hrauneyjafossvirkjun var gangsett og vatnsafl hennar tekið að leggja sitt af mörkum til íslenska raforkukerfisins.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bob Odenkirk",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1962"
+    },
+    {
+      "nafn": "21 Savage",
+      "starfsgrein": "rappari",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Annette Funicello",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Bảo Đại",
+      "starfsgrein": "keisari Víetnams",
+      "ar": "1913"
+    },
+    {
+      "nafn": "Bert Trautmann",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1923"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bergþór Pálsson",
+      "starfsgrein": "söngvari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Baldur Georgs Takács",
+      "starfsgrein": "töframaður og búktalari",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Jón Espólín",
+      "starfsgrein": "annálahöfundur",
+      "ar": "1769"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mannvirki var gangsett á Íslandi 22. október 1981?",
+      "svor": [
+        "Hrauneyjafossvirkjun",
+        "Búrfellsvirkjun",
+        "Kárahnjúkavirkjun",
+        "Hellisheiðarvirkjun"
+      ],
+      "rett": 0,
+      "skyring": "Hrauneyjafossvirkjun var gangsett þennan dag árið 1981 og lét vatnið vinna fyrir rafmagninu."
+    },
+    {
+      "spurning": "Hvaða hljómsveit varð fyrst kvennahópa til að ná efsta sæti Billboard 200?",
+      "svor": [
+        "The Ronettes",
+        "The Supremes",
+        "The Shirelles",
+        "The Pointer Sisters"
+      ],
+      "rett": 1,
+      "skyring": "The Supremes unnu þetta sögulega afrek með plötunni The Supremes A' Go-Go."
+    },
+    {
+      "spurning": "Hvar braust fræg eimreið í gegnum stöðvarvegg árið 1895?",
+      "svor": [
+        "Á Waterloo-stöðinni í London",
+        "Á aðalstöðinni í Berlín",
+        "Á Montparnasse-stöðinni í París",
+        "Á Grand Central-stöðinni í New York"
+      ],
+      "rett": 2,
+      "skyring": "Óheppna eimreiðin fór út um vegg Montparnasse-stöðvarinnar og varð ódauðleg á ljósmynd."
+    }
+  ],
+  "tonlistUSA": "Reach Out I'll Be There – Four Tops (1966)",
+  "tonlistUK": "Distant Drums – Jim Reeves (1966)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "vífilengjur",
+    "skyring": "Vífilengjur eru undanbrögð, tafir eða óþarfa málalengingar."
+  },
+  "vissir_thu": "Þýski markvörðurinn Bert Trautmann lék til loka úrslitaleiks enska bikarsins árið 1956 þrátt fyrir að hafa hálsbrotnað í leiknum.",
+  "stjornuspa": "Vogin finnur fullkomið jafnvægi í dag, líklega milli þess að vinna af kappi og taka óvenjulangan kaffitíma. Varastu þó ákvarðanir á borð við þá að aka eimreið í gegnum stöðvarvegg — jafnvel þótt Merkúríus virðist hvetja til þess.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Chinezenmoord_van_stolk_%282%29.jpg/500px-Chinezenmoord_van_stolk_%282%29.jpg",
+    "ar": "1740",
+    "texti": "Tveggja vikna fjöldamorðum á Kínverjum í Batavíu í Hollensku Austur-Indíum lauk; að minnsta kosti 10.000 manns höfðu verið drepin. Þetta er einn svartasti kafli nýlendusögu svæðisins.",
+    "heimild": "https://en.wikipedia.org/wiki/1740_Batavia_massacre",
+    "breidd": 330,
+    "haed": 187
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
