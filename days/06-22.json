@@ -1,0 +1,148 @@
+{
+  "mmdd": "06-22",
+  "dagur": 22,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:55",
+  "sunset": "00:03",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 22. júní, dag þar sem hugrökk kona gengur 32 kílómetra með viðvörun, Led Zeppelin lætur Laugardalshöllina nötra og íslensk hitamæling fer í sumarham. Sagan minnir okkur á að góðir skór, stilltur hitamælir og örugg bassalína geta öll komið sér prýðilega.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1593",
+      "texti": "Habsborgarher sigraði fjölmennara lið Ottómanaveldisins í orrustunni við Sisak í Króatíu. Sigurinn varð kveikjan að Langa tyrkjastríðinu, svo ein orrusta reyndist heldur betur langur formáli."
+    },
+    {
+      "ar": "1813",
+      "texti": "Laura Secord gekk um 32 kílómetra frá Queenston í Efra-Kanada til að vara breska liðsforingjann James FitzGibbon við fyrirhugaðri árás Bandaríkjamanna. Þetta var sannkallað þrekvirki á tímum þegar enginn gat sent stutt skilaboð."
+    },
+    {
+      "ar": "1911",
+      "texti": "Georg 5. og María drottning voru krýnd við hátíðlega athöfn í Westminster Abbey í Lundúnum. Þar var líkast til meira um kórónur en þægilega höfuðbúnaði."
+    },
+    {
+      "ar": "1941",
+      "texti": "Joachim von Ribbentrop, utanríkisráðherra Þýskalands, afhenti Vladimír Dekanozov, sendiherra Sovétríkjanna í Berlín, stríðsyfirlýsingu. Sama dag hófst innrás Öxulveldanna í Sovétríkin."
+    },
+    {
+      "ar": "2022",
+      "texti": "Jarðskjálfti af stærðinni 6,2 reið yfir Afganistan og Pakistan. Að minnsta kosti eitt þúsund manns létust í hamförunum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1939",
+      "texti": "Á Teigarhorni í Berufirði mældist 30,5 stiga hiti, mesti hiti sem mælst hefur á Íslandi frá upphafi mælinga. Þennan dag hefði jafnvel lopapeysan beðið kurteislega úti.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1967",
+      "texti": "Fyrsta farþegaþotan kom til Íslands og færði flugsamgöngur landsins með glæsibrag inn í þotuöldina.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1970",
+      "texti": "Breska rokkhljómsveitin Led Zeppelin hélt tónleika í Laugardalshöll. Höllin fékk þar með rækilega kennslustund í þungum gítarriffum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2016",
+      "texti": "Karlalandslið Íslands tryggði sér sæti í sextán liða úrslitum Evrópumótsins í knattspyrnu með 2:1 sigri á Austurríki. Fagnaðarlætin báru þjóðina nær lóðrétt upp úr sófunum.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Vijay",
+      "starfsgrein": "indverskur leikari",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Bruce Campbell",
+      "starfsgrein": "bandarískur leikari, leikstjóri og framleiðandi",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Andoni Iraola",
+      "starfsgrein": "spænskur knattspyrnuþjálfari og fyrrverandi leikmaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Ada Yonath",
+      "starfsgrein": "ísraelskur kristallafræðingur og Nóbelsverðlaunahafi",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Abbas Kiarostami",
+      "starfsgrein": "íranskur kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1940"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Lárus Ingólfsson",
+      "starfsgrein": "leikari",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Eydís Ásbjörnsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1973"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar mældist íslenska hitametið 30,5 stig árið 1939?",
+      "svor": [
+        "Teigarhorni í Berufirði",
+        "Þingvöllum",
+        "Bolungarvík",
+        "Keflavíkurflugvelli"
+      ],
+      "rett": 0,
+      "skyring": "Teigarhorn á Austurlandi breyttist þennan dag í óvænta hitabeltisstöð."
+    },
+    {
+      "spurning": "Hvaða hljómsveit lék í Laugardalshöll 22. júní 1970?",
+      "svor": [
+        "The Rolling Stones",
+        "Led Zeppelin",
+        "ABBA",
+        "Pink Floyd"
+      ],
+      "rett": 1,
+      "skyring": "Led Zeppelin lét Laugardalshöllina óma löngu áður en íslenskt Eurovision-æði varð þjóðaríþrótt."
+    },
+    {
+      "spurning": "Hversu langt gekk Laura Secord til að vara Breta við árás árið 1813?",
+      "svor": [
+        "Um 8 kílómetra",
+        "Um 16 kílómetra",
+        "Um 32 kílómetra",
+        "Um 64 kílómetra"
+      ],
+      "rett": 2,
+      "skyring": "Hún gekk um 32 kílómetra, sem telst afar myndarlegur viðvörunarrúntur."
+    }
+  ],
+  "tonlistUSA": "Heaven – Bryan Adams (1985)",
+  "tonlistUK": "From Me to You – The Beatles (1963)",
+  "bio": "Hver skellti skuldinni á Kalla kanínu (1988)",
+  "ord_dagsins": {
+    "ord": "várkunn",
+    "skyring": "Várkunn merkir meðaumkun eða samúð með þeim sem á bágt."
+  },
+  "vissir_thu": "Laura Secord gekk um 32 kílómetra árið 1813 til að vara breskan liðsforingja við fyrirhugaðri árás Bandaríkjamanna.",
+  "stjornuspa": "Krabbinn finnur gamalt verkefni í skúffu og uppgötvar að það hefur elst betur en sumar hárgreiðslur níunda áratugarins. Treystu innsæinu, en láttu vasareikninn yfirfara fjármálin áður en þú kaupir plötuspilara í tekkhúsi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Flag_of_the_Habsburg_Monarchy.svg/500px-Flag_of_the_Habsburg_Monarchy.svg.png",
+    "ar": "1593",
+    "texti": "Habsborgarher sigraði fjölmennara lið Ottómanaveldisins í orrustunni við Sisak í Króatíu. Sigurinn varð kveikjan að Langa tyrkjastríðinu, svo ein orrusta reyndist heldur betur langur formáli.",
+    "heimild": "https://en.wikipedia.org/wiki/Habsburg_monarchy",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

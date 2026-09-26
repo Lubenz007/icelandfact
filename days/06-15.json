@@ -1,0 +1,137 @@
+{
+  "mmdd": "06-15",
+  "dagur": 15,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:57",
+  "sunset": "23:59",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 15. júní leiðum við saman sólmyrkva Assýringa, réttindi aðalsmanna, svín sem næstum kom af stað stríði og hest sem lagði sitt af mörkum til kvikmyndasögunnar. Sagan kann sannarlega að stökkva milli alvarleika og absúrdisma með glotti á vör.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "763 f.Kr.",
+      "texti": "Sólmyrkvi var skráður í Assýríu, svonefndur Bur-Sagale-myrkvi. Þetta er elsti sólmyrkvi í sögulegum heimildum sem tekist hefur að tímasetja með öruggum hætti."
+    },
+    {
+      "ar": "1215",
+      "texti": "Jóhann Englandskonungur og uppreisnargjarnir barónar samþykktu texta Magna Carta. Réttindaskráin varð síðar eitt áhrifamesta skjal stjórnskipunarsögunnar, þótt samkomulagið hafi ekki beinlínis byrjað í kaffiboði."
+    },
+    {
+      "ar": "1859",
+      "texti": "Þegar svín var skotið á San Juan-eyjum hófst landamæradeila Bandaríkjanna og Bresku Norður-Ameríku sem kölluð hefur verið Svínastríðið. Nafnið er vígalegra en átökin urðu, en svínið átti sannarlega slæman dag."
+    },
+    {
+      "ar": "1878",
+      "texti": "Eadweard Muybridge tók ljósmyndaröð sem sýndi að allir fjórir hófar hests lyftast samtímis frá jörðu á stökki. Myndirnar urðu mikilvægur áfangi á leiðinni að kvikmyndum."
+    },
+    {
+      "ar": "2006",
+      "texti": "George W. Bush Bandaríkjaforseti friðlýsti um 360.000 ferkílómetra hafsvæði við Norðvestur-Havaíeyjar sem Papahānaumokuākea Marine National Monument. Svæðið er nú meðal stærstu verndarsvæða heims."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1158",
+      "texti": "Skálholtsdómkirkja, svonefnd Klængskirkja, var vígð.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1926",
+      "texti": "Dönsku konungshjónin lögðu hornstein að Landspítala Íslands, en íslenskar konur höfðu beitt sér fyrir byggingunni í tilefni af kosningarétti sínum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1952",
+      "texti": "Byggðasafnið í Glaumbæ í Skagafirði var opnað og fortíðin fékk þar reisulegt torfþak yfir höfuðið.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1987",
+      "texti": "Fiskmarkaðurinn í Hafnarfirði hélt fyrsta uppboð á ferskum fiski á Íslandi. Það þótti merk nýjung í landi þar sem fiskurinn hafði lengi verið bæði matur og mælieining á þjóðarhag.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aurora",
+      "starfsgrein": "norsk söng- og lagahöfundur",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Bayley",
+      "starfsgrein": "bandarísk fjölbragðaglímukona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Alain Aspect",
+      "starfsgrein": "franskur eðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Alberto Sordi",
+      "starfsgrein": "ítalskur leikari, leikstjóri og handritshöfundur",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Charles-Amédée Kohler",
+      "starfsgrein": "svissneskur súkkulaðigerðarmaður",
+      "ar": "1790"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dýr varð óvænt kveikjan að svonefndu Svínastríði árið 1859?",
+      "svor": [
+        "Svín",
+        "Hestur",
+        "Geit",
+        "Gæs"
+      ],
+      "rett": 0,
+      "skyring": "Skotið svín kom af stað landamæradeilunni á San Juan-eyjum."
+    },
+    {
+      "spurning": "Hvað sýndu ljósmyndir Eadweards Muybridge frá 1878?",
+      "svor": [
+        "Að hestar geta synt",
+        "Að allir fjórir hófar hests lyftast samtímis frá jörðu á stökki",
+        "Að hestar sjá í lit",
+        "Að stökkhestar hlaupa aftur á bak"
+      ],
+      "rett": 1,
+      "skyring": "Myndaröðin leysti úr gamalli ráðgátu um hreyfingu hestsins og ruddi braut kvikmyndatækninni."
+    },
+    {
+      "spurning": "Hvar var fyrsta uppboð á ferskum fiski á Íslandi haldið árið 1987?",
+      "svor": [
+        "Í Glaumbæ",
+        "Í Skálholti",
+        "Í Hafnarfirði",
+        "Á Akureyri"
+      ],
+      "rett": 2,
+      "skyring": "Fiskmarkaðurinn í Hafnarfirði hélt hið sögulega fyrsta uppboð."
+    }
+  ],
+  "tonlistUSA": "Silly Love Songs – Wings (1976)",
+  "tonlistUK": "Spirit in the Sky – Doctor and the Medics (1986)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "sólmyrkvi",
+    "skyring": "Sólmyrkvi verður þegar tunglið gengur milli jarðar og sólar og skyggir að hluta eða öllu leyti á sólina."
+  },
+  "vissir_thu": "Ljósmyndaröð Muybridge af stökkvandi hesti var tekin með röð myndavéla sem virkjuðust hver af annarri þegar hesturinn hljóp fram hjá.",
+  "stjornuspa": "Tvíburar ættu að dusta rykið af vasadiskóinu, setja nýja rafhlöðu í vasareikninn og treysta á orðheppnina í dag. Ef tveir valkostir virðast jafngóðir skaltu velja þann sem hefði sómt sér betur á segulbandsspólu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Jan_tomb.jpg",
+    "ar": "1215",
+    "texti": "Jóhann Englandskonungur og uppreisnargjarnir barónar samþykktu texta Magna Carta. Réttindaskráin varð síðar eitt áhrifamesta skjal stjórnskipunarsögunnar, þótt samkomulagið hafi ekki beinlínis byrjað í kaffiboði.",
+    "heimild": "https://en.wikipedia.org/wiki/John,_King_of_England",
+    "breidd": 300,
+    "haed": 705
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

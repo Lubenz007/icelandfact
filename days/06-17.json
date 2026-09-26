@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-17",
+  "dagur": 17,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:55",
+  "sunset": "00:01",
+  "kvedja": "Gleðilegan 17. júní! Í dag veifum við fánum, minnumst Jóns Sigurðssonar og rifjum upp að sagan getur sprottið jafnt úr konungssamböndum, ástarsorg keisara og misheppnuðu innbroti. Gangið hátíðlega um daginn — en þó ekki svo hátíðlega að þið gleymið að fá ykkur ís.",
+  "nafnadagur": "Jón",
+  "atburdir": [
+    {
+      "ar": "1397",
+      "texti": "Danmörk, Svíþjóð og Noregur sameinuðust í Kalmarsambandinu undir stjórn Eiríks af Pommern. Norðurlöndin voru þar með komin í sameiginlegt konunglegt heimili, þótt sambúðin yrði ekki alltaf friðsæl."
+    },
+    {
+      "ar": "1631",
+      "texti": "Mumtaz Mahal, eiginkona mógúlkeisarans Shah Jahan, lést af barnsförum. Keisarinn lét síðar reisa Taj Mahal sem grafhýsi hennar og varði verkið næstu sautján árum."
+    },
+    {
+      "ar": "1861",
+      "texti": "Orrustan við Vienna í Virginíu var háð í bandarísku borgarastyrjöldinni. Þar átti sér stað ein fyrsta herflutningahreyfing heims með járnbrautarlest."
+    },
+    {
+      "ar": "1940",
+      "texti": "Þýskar flugvélar sökktu RMS Lancastria undan Saint-Nazaire í Frakklandi. Þúsundir fórust í mannskæðasta sjóslysi Bretlands."
+    },
+    {
+      "ar": "1972",
+      "texti": "Fimm menn voru handteknir við innbrotstilraun í skrifstofur landsnefndar Demókrata í Watergate-byggingunni. Málið vatt upp á sig þar til Richard Nixon Bandaríkjaforseti sagði af sér rúmum tveimur árum síðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1886",
+      "texti": "Afmælis Jóns Sigurðssonar var í fyrsta sinn fagnað opinberlega, á kaffihúsinu Hermes við Lækjargötu 4 í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1911",
+      "texti": "Háskóli Íslands var stofnaður og settur í fyrsta sinn. Hann tók við rekstri Prestaskólans, Læknaskólans og Lagaskólans.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1926",
+      "texti": "Björg Karítas Þorláksdóttir varð fyrst íslenskra kvenna til að ljúka doktorsprófi þegar hún varði ritgerð sína við Sorbonne-háskóla í París.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1944",
+      "texti": "Lýðveldið Ísland var stofnað á Þingvöllum, stjórnarskrá lýðveldisins staðfest og Sveinn Björnsson kjörinn fyrsti forsetinn. Dagurinn hefur síðan verið þjóðhátíðardagur Íslands.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Barry Manilow",
+      "starfsgrein": "söngvari, lagahöfundur og tónlistarframleiðandi",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Alexander Bublik",
+      "starfsgrein": "tennisleikari",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Karl 12. Svíakonungur",
+      "starfsgrein": "konungur Svíþjóðar",
+      "ar": "1682"
+    },
+    {
+      "nafn": "Bobby Farrelly",
+      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Charles Gounod",
+      "starfsgrein": "tónskáld",
+      "ar": "1818"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Sigurðsson",
+      "starfsgrein": "sjálfstæðisleiðtogi og stjórnmálamaður",
+      "ar": "1811"
+    },
+    {
+      "nafn": "Einar Þorsteinn Ásgeirsson",
+      "starfsgrein": "arkitekt",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Óskar Halldórsson",
+      "starfsgrein": "útgerðarmaður",
+      "ar": "1893"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bygging var reist sem grafhýsi Mumtaz Mahal?",
+      "svor": [
+        "Taj Mahal",
+        "Versalahöll",
+        "Colosseum",
+        "Westminster Abbey"
+      ],
+      "rett": 0,
+      "skyring": "Shah Jahan lét reisa Taj Mahal til minningar um eiginkonu sína, Mumtaz Mahal."
+    },
+    {
+      "spurning": "Hvar var íslenska lýðveldið stofnað árið 1944?",
+      "svor": [
+        "Á Hrafnseyri",
+        "Á Þingvöllum",
+        "Við Lækjargötu",
+        "Á Bessastöðum"
+      ],
+      "rett": 1,
+      "skyring": "Lýðveldið var stofnað á Þingvöllum 17. júní 1944, við hátíðlega athöfn og íslenskt veður."
+    },
+    {
+      "spurning": "Hvaða hneyksli hófst með handtöku fimm manna árið 1972?",
+      "svor": [
+        "Teapot Dome",
+        "Íran-Kontra",
+        "Watergate",
+        "Profumo-málið"
+      ],
+      "rett": 2,
+      "skyring": "Innbrotið í Watergate varð upphaf hneykslis sem að lokum felldi forseta."
+    }
+  ],
+  "tonlistUSA": "Shadow Dancing – Andy Gibb (1978)",
+  "tonlistUK": "You're the One That I Want – John Travolta og Olivia Newton-John (1978)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "þjóðremba",
+    "skyring": "Þjóðremba er ýkt og gáleysisleg upphafning eigin þjóðar á kostnað annarra."
+  },
+  "vissir_thu": "Jón Sigurðsson fæddist 17. júní 1811, en þjóðhátíðardagurinn var valinn á afmælisdegi hans þegar lýðveldið var stofnað árið 1944.",
+  "stjornuspa": "Tvíburar, dagurinn kallar á fána, hátíðarræðu og tvær skoðanir á hverju máli — sem hentar ykkur prýðilega. Óvænt samtal gæti orðið sögulegt, eða að minnsta kosti nógu gott til að rifja upp yfir kaffibolla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Kalmar_Union_ca._1400.svg/330px-Kalmar_Union_ca._1400.svg.png",
+    "ar": "1397",
+    "texti": "Danmörk, Svíþjóð og Noregur sameinuðust í Kalmarsambandinu undir stjórn Eiríks af Pommern. Norðurlöndin voru þar með komin í sameiginlegt konunglegt heimili, þótt sambúðin yrði ekki alltaf friðsæl.",
+    "heimild": "https://en.wikipedia.org/wiki/Kalmar_Union",
+    "breidd": 330,
+    "haed": 306
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-21",
+  "dagur": 21,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:55",
+  "sunset": "00:03",
+  "kvedja": "Góðan 21. júní! Í dag spannar sagan bilið frá launsátri Hannibals til tölvu sem loksins mundi hvað henni var sagt, með viðkomu hjá Jörundi hundadagakonungi og Perlunni. Njóttu lengsta dagsins með sól í sinni og hæfilegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "217 f.Kr.",
+      "texti": "Hannibal og Karþagómenn sátu fyrir rómverskum her við Trasimenóvatn í síðara púnverska stríðinu; um 25.000 Rómverjar voru teknir höndum eða féllu. Þetta var engin notaleg morgunganga við vatnið."
+    },
+    {
+      "ar": "1529",
+      "texti": "Í stríði Cognac-bandalagsins var franski herinn undir stjórn Francis de Bourbon gjöreyðilagður af spænska hernum í Langbarðalandi á Ítalíu."
+    },
+    {
+      "ar": "1788",
+      "texti": "New Hampshire staðfesti stjórnarskrá Bandaríkjanna og varð níunda ríkið til að ganga í sambandið."
+    },
+    {
+      "ar": "1919",
+      "texti": "Ludwig von Reuter flotaforingi lét sökkva þýska úthafsflotanum í Scapa Flow svo bandamenn gætu hvorki tekið skipin né skipt þeim sín á milli."
+    },
+    {
+      "ar": "1948",
+      "texti": "Manchester Baby, fyrsta tölva heims sem gat geymt forrit í minni, keyrði sitt fyrsta forrit. Litla vélin var stórt stökk inn í tölvuöldina."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1809",
+      "texti": "Jörundur hundadagakonungur og Samuel Phelps komu til Reykjavíkur með skipinu Margaret & Anne; íslenskt sumar fékk þar með óvenjulega dramatíska gesti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1964",
+      "texti": "Keflavíkurganga hernámsandstæðinga var farin frá hliði herstöðvarinnar til Reykjavíkur.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1973",
+      "texti": "Þjóðgarður var stofnaður í Jökulsárgljúfrum, frá Dettifossi og niður fyrir Ásbyrgi, um 150 ferkílómetrar að stærð.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1991",
+      "texti": "Perlan í Öskjuhlíð var vígð og hitaveitutankarnir fengu sína glæsilegu glerkórónu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Benazir Bhutto",
+      "starfsgrein": "pakistönsk stjórnmálakona og forsætisráðherra",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Carrie Preston",
+      "starfsgrein": "bandarísk leikkona, leikstjóri og framleiðandi",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Andrzej Sapkowski",
+      "starfsgrein": "pólskur rithöfundur og þýðandi",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Anne Carson",
+      "starfsgrein": "kanadískt ljóðskáld og fræðikona",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Bernie Kopell",
+      "starfsgrein": "bandarískur leikari og grínisti",
+      "ar": "1933"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Már Guðmundsson",
+      "starfsgrein": "hagfræðingur",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Jón Helgason",
+      "starfsgrein": "biskup",
+      "ar": "1866"
+    },
+    {
+      "nafn": "Björn Þorleifsson",
+      "starfsgrein": "biskup á Hólum",
+      "ar": "1663"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða vél keyrði sitt fyrsta forrit 21. júní 1948?",
+      "svor": [
+        "Manchester Baby",
+        "SpaceShipOne",
+        "iBook",
+        "Colossus"
+      ],
+      "rett": 0,
+      "skyring": "Manchester Baby tók þetta litla en sögulega fyrsta skref inn í forritanlega framtíð."
+    },
+    {
+      "spurning": "Hvar lét Ludwig von Reuter sökkva þýska úthafsflotanum árið 1919?",
+      "svor": [
+        "Pearl Harbor",
+        "Scapa Flow",
+        "Tobruk",
+        "Guam"
+      ],
+      "rett": 1,
+      "skyring": "Skipin fóru til botns í Scapa Flow áður en bandamenn gátu skipt þeim á milli sín."
+    },
+    {
+      "spurning": "Hvaða kennileiti í Öskjuhlíð var vígt árið 1991?",
+      "svor": [
+        "Hallgrímskirkja",
+        "Harpa",
+        "Perlan",
+        "Höfði"
+      ],
+      "rett": 2,
+      "skyring": "Perlan var vígð og hefur síðan glitrað yfir Reykjavík eins og dálítið framtíðarlegt kökufat."
+    }
+  ],
+  "tonlistUSA": "It's Too Late – Carole King (1971)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1976)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "hundadagar",
+    "skyring": "Hundadagar eru tímabil síðsumars sem í þjóðtrúnni var gjarnan tengt umhleypingum og ýmsum ósköpum."
+  },
+  "vissir_thu": "Manchester Baby var fyrsta tölvan sem keyrði forrit sem geymt var rafrænt í eigin minni.",
+  "stjornuspa": "Krabbi, rykið af vínylplötunni og treystu innsæinu; gamalt ráð reynist furðu notadrjúgt í dag. Ef einhver vill sökkva áætlunum þínum eins og flota í Scapa Flow, skaltu bjóða kaffi og semja nýja dagskrá.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War.svg/500px-Map_of_Rome_and_Carthage_at_the_start_of_the_Second_Punic_War.svg.png",
+    "ar": "217 f.Kr.",
+    "texti": "Hannibal og Karþagómenn sátu fyrir rómverskum her við Trasimenóvatn í síðara púnverska stríðinu; um 25.000 Rómverjar voru teknir höndum eða féllu. Þetta var engin notaleg morgunganga við vatnið.",
+    "heimild": "https://en.wikipedia.org/wiki/Second_Punic_War",
+    "breidd": 330,
+    "haed": 238
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

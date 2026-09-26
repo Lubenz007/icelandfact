@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-25",
+  "dagur": 25,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:57",
+  "sunset": "00:02",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 25. júní býður upp á allt frá grjótkasti á Húnaflóa og gervihnattasjónvarpi til regnbogafána og dularfullrar herstöðvar í Nevada. Sagan virðist stundum skrifuð af höfundi sem neitar alfarið að halda sig við eina bókmenntagrein.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1658",
+      "texti": "Þriggja daga orrustan við Rio Nuevo hófst á Jamaíku í stríði Englendinga og Spánverja. Hún varð stærsta orrusta sem háð hefur verið á eyjunni."
+    },
+    {
+      "ar": "1950",
+      "texti": "Kóreustríðið hófst þegar hersveitir Norður-Kóreu réðust fyrir dögun suður yfir 38. breiddarbauginn."
+    },
+    {
+      "ar": "1967",
+      "texti": "Yfir 400 milljónir manna fylgdust með Our World, fyrstu alþjóðlegu sjónvarpsútsendingunni sem send var beint um gervihnött. Heimurinn hafði skyndilega fengið sameiginlegan sjónvarpssal."
+    },
+    {
+      "ar": "1978",
+      "texti": "Regnbogafáninn var fyrst dreginn að húni sem tákn hinsegin stolts í Gay Freedom Day-göngunni í San Francisco."
+    },
+    {
+      "ar": "2013",
+      "texti": "CIA viðurkenndi opinberlega tilvist Area 51 eftir upplýsingabeiðni. Geimverurnar fengu þó ekki sína eigin fréttatilkynningu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1244",
+      "texti": "Flóabardagi var háður á Húnaflóa milli liða Þórðar kakala og Kolbeins unga Arnórssonar. Barist var að miklu leyti með grjóti, enda var skotfæraúrval Sturlungaaldar fremur jarðbundið.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1809",
+      "texti": "Samuel Phelps og Jörundur tóku Trampe greifa höndum í Reykjavík, í aðdraganda þeirra sviptinga sem kenndar eru við hundadagakonunginn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1950",
+      "texti": "Heiðmörk við Reykjavík var gerð að friðlandi og varð síðar ein ástsælasta útivistarperla höfuðborgarbúa.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2016",
+      "texti": "Guðni Th. Jóhannesson sagnfræðingur var kjörinn forseti Íslands.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anthony Bourdain",
+      "starfsgrein": "kokkur og rithöfundur",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Antoni Gaudí",
+      "starfsgrein": "arkitekt",
+      "ar": "1852"
+    },
+    {
+      "nafn": "Angela Kinsey",
+      "starfsgrein": "leikkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Benson Boone",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Mckenna Grace",
+      "starfsgrein": "leikkona, söngkona og lagahöfundur",
+      "ar": "2006"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "María Markan",
+      "starfsgrein": "óperusöngkona",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Geir Kristjánsson",
+      "starfsgrein": "skáld og þýðandi",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Arinbjörn Sveinbjarnarson",
+      "starfsgrein": "bókbindari og bæjarfulltrúi",
+      "ar": "1866"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða stríð hófst 25. júní 1950?",
+      "svor": [
+        "Kóreustríðið",
+        "Víetnamstríðið",
+        "Krímstríðið",
+        "Spænska borgarastyrjöldin"
+      ],
+      "rett": 0,
+      "skyring": "Norður-kóreskar hersveitir fóru yfir 38. breiddarbauginn og Kóreustríðið var hafið."
+    },
+    {
+      "spurning": "Hvaða íslenska friðland varð til þennan dag árið 1950?",
+      "svor": [
+        "Þingvellir",
+        "Hornstrandir",
+        "Heiðmörk",
+        "Skaftafell"
+      ],
+      "rett": 2,
+      "skyring": "Heiðmörk var gerð að friðlandi og hefur síðan lokkað til sín ótal gönguskó."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn hannaði Sagrada Família og Park Güell?",
+      "svor": [
+        "Anthony Bourdain",
+        "Antoni Gaudí",
+        "Geir Kristjánsson",
+        "Benson Boone"
+      ],
+      "rett": 1,
+      "skyring": "Antoni Gaudí gaf Barcelona byggingar sem virðast stundum hafa vaxið beint upp úr ævintýri."
+    }
+  ],
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
+  "tonlistUK": "Every Breath You Take – The Police (1983)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "grjóthríð",
+    "skyring": "Grjóthríð er það þegar grjóti er kastað eða því rignir yfir einhvern, og orðið hæfir Flóabardaga óþægilega vel."
+  },
+  "vissir_thu": "Í beinu gervihnattaútsendingunni Our World árið 1967 frumfluttu Bítlarnir lagið „All You Need Is Love“ fyrir hundruð milljóna sjónvarpsáhorfenda.",
+  "stjornuspa": "Krabbi, í dag skaltu treysta innsæinu, en ekki svo blint að þú endir í Area 51 með nestisbox og enga heimild. Regnboginn bendir til góðra funda, hlýrra samtala og þess að gömul plata eigi skilið að snúast aftur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Charles_Edward_Dixon_HMS_St_George_1662_Battle_of_Santa_Cruz_de_Tenerife_1657_Admiral_Robert_Blake.jpg/500px-Charles_Edward_Dixon_HMS_St_George_1662_Battle_of_Santa_Cruz_de_Tenerife_1657_Admiral_Robert_Blake.jpg",
+    "ar": "1658",
+    "texti": "Þriggja daga orrustan við Rio Nuevo hófst á Jamaíku í stríði Englendinga og Spánverja. Hún varð stærsta orrusta sem háð hefur verið á eyjunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1654–1660)",
+    "breidd": 330,
+    "haed": 249
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

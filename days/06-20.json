@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-20",
+  "dagur": 20,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:54",
+  "sunset": "00:03",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 20. júní förum við úr þjóðtrú við Heklutind yfir í drottningartíð Viktoríu og endum með hákarl sem breytti sumarfríum kvikmyndagesta. Sagan syndir sem sagt víða — og stundum með ugga upp úr.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1782",
+      "texti": "Bandaríkjaþing samþykkti þjóðarinnsigli Bandaríkjanna, sem síðan hefur verið notað til að staðfesta opinber skjöl alríkisstjórnarinnar. Örninn fékk þar með fasta vinnu í táknmálsdeild ríkisins."
+    },
+    {
+      "ar": "1837",
+      "texti": "Viktoría tók við bresku krúnunni og hóf 63 ára valdatíð. Heilt tímabil átti síðar eftir að bera nafn hennar, sem telst býsna rækileg innkoma hjá átján ára drottningu."
+    },
+    {
+      "ar": "1900",
+      "texti": "Í Boxarauppreisninni hóf kínverski keisaraherinn 55 daga umsátur um sendiráðahverfið í Peking. Þar lokuðust erlendir sendimenn og aðrir íbúar inni meðan átökin geisuðu."
+    },
+    {
+      "ar": "1960",
+      "texti": "Malísambandið hlaut sjálfstæði frá Frakklandi. Sambandið reyndist þó skammlíft og leystist upp í Malí og Senegal aðeins tveimur mánuðum síðar."
+    },
+    {
+      "ar": "1975",
+      "texti": "Kvikmynd Stevens Spielberg, Jaws, var frumsýnd og varð sannkölluð sumarsprengja. Hún varð fyrsta myndin til að skila 100 milljónum Bandaríkjadala í kvikmyndahúsaleigu í Bandaríkjunum — og gerði sjósund ögn tortryggilegra."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1627",
+      "texti": "Í Tyrkjaráninu réðust sjóræningjar undir stjórn Murat Reis á Grindavík og tóku fimmtán Grindvíkinga höndum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1750",
+      "texti": "Bjarni Pálsson og Eggert Ólafsson gengu fyrstir manna, svo vitað sé, á Heklutind. Þar fundu þeir hvorki dyr vítis né illfygli á flögri yfir gígunum, þrátt fyrir þráláta þjóðtrú.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1904",
+      "texti": "Bílaöld hófst á Íslandi þegar fyrsti bíllinn kom til landsins. Þetta var gamall Cudel sem þótti heldur bágborinn og vakti meiri forvitni en aðdáun.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1970",
+      "texti": "Listahátíð í Reykjavík var sett í fyrsta sinn. Meðal listamanna voru Daniel Barenboim og hljómsveitin Led Zeppelin, svo borgin fékk bæði píanóglæsileika og rokkið beint í æð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Audie Murphy",
+      "starfsgrein": "hermaður og leikari",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Anne Murray",
+      "starfsgrein": "söngkona og gítarleikari",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Asmir Begović",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Alan Longmuir",
+      "starfsgrein": "bassaleikari og lagahöfundur",
+      "ar": "1948"
+    },
+    {
+      "nafn": "André Watts",
+      "starfsgrein": "píanóleikari og tónlistarkennari",
+      "ar": "1946"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kristján Jónsson fjallaskáld",
+      "starfsgrein": "ljóðskáld",
+      "ar": "1842"
+    },
+    {
+      "nafn": "Steinn Steinsen",
+      "starfsgrein": "bæjarstjóri á Akureyri",
+      "ar": "1891"
+    },
+    {
+      "nafn": "Guðmundur Jónsson",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1930"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða unga drottning hóf 63 ára valdatíð 20. júní 1837?",
+      "svor": [
+        "Viktoría",
+        "Elísabet I",
+        "Anna",
+        "María II"
+      ],
+      "rett": 0,
+      "skyring": "Viktoría tók við krúnunni átján ára gömul og gaf síðar heilu tímabili nafn sitt."
+    },
+    {
+      "spurning": "Hvað fundu Bjarni Pálsson og Eggert Ólafsson ekki á Heklutindi árið 1750?",
+      "svor": [
+        "Rústir klausturs",
+        "Dyr vítis og flögrandi illfygli",
+        "Danskt varðskip",
+        "Gullnámu"
+      ],
+      "rett": 1,
+      "skyring": "Hekla reyndist eldkeila en ekki inngangur að undirheimum, þjóðtrúnni til nokkurra vonbrigða."
+    },
+    {
+      "spurning": "Hvaða kvikmynd varð fyrsta myndin til að skila 100 milljónum dala í bandarískri kvikmyndahúsaleigu?",
+      "svor": [
+        "The Godfather",
+        "Star Wars",
+        "Jaws",
+        "Rocky"
+      ],
+      "rett": 2,
+      "skyring": "Jaws beit rækilega frá sér í miðasölunni sumarið 1975."
+    }
+  ],
+  "tonlistUSA": "Love Will Keep Us Together – Captain & Tennille (1975)",
+  "tonlistUK": "You're the One That I Want – John Travolta og Olivia Newton-John (1978)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "illfygli",
+    "skyring": "Illfygli er fugl sem í þjóðtrú boðar ófarir eða er talinn tengjast illum öflum."
+  },
+  "vissir_thu": "Jaws var fyrsta kvikmyndin sem náði 100 milljónum Bandaríkjadala í kvikmyndahúsaleigu á Bandaríkjamarkaði.",
+  "stjornuspa": "Tvíburar, pláneturnar mæla með því að þú látir hugmyndirnar flæða, en ekki allar í einu — jafnvel Led Zeppelin þurfti taktslátt. Óvænt samtal gæti opnað dyr, vonandi þó ekki dyr vítis í Heklu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Great_Seal_of_the_United_States_of_America_%281782%29.svg/500px-Great_Seal_of_the_United_States_of_America_%281782%29.svg.png",
+    "ar": "1782",
+    "texti": "Bandaríkjaþing samþykkti þjóðarinnsigli Bandaríkjanna, sem síðan hefur verið notað til að staðfesta opinber skjöl alríkisstjórnarinnar. Örninn fékk þar með fasta vinnu í táknmálsdeild ríkisins.",
+    "heimild": "https://en.wikipedia.org/wiki/Congress_of_the_Confederation",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-27",
+  "dagur": 27,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:59",
+  "sunset": "00:01",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag siglum við frá orrustuvelli Georgs II yfir í uppreisnina á Potemkin og þaðan alla leið út að smástirninu Ryugu — sannkallað langferðalag án þess að þurfa að pakka tannbursta. Hér heima minnumst við líka dagsins þegar Ísland felldi England úr EM; sum söguleg augnablik kalla einfaldlega á „HÚH!“",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1743",
+      "texti": "Georg II Bretakonungur leiddi bandamenn til sigurs á Frökkum í orrustunni við Dettingen í Bæjaralandi. Þetta var í síðasta sinn sem breskur þjóðhöfðingi leiddi sjálfur hermenn í orrustu."
+    },
+    {
+      "ar": "1905",
+      "texti": "Áhöfn rússneska orrustuskipsins Potemkin gerði uppreisn gegn yfirmönnum sínum í fyrstu rússnesku byltingunni. Þar með varð herskipið eitt kunnasta tákn byltingarandans — og síðar kvikmyndasögunnar."
+    },
+    {
+      "ar": "1954",
+      "texti": "Jacobo Árbenz sagði af sér embætti forseta Gvatemala eftir valdarán gegn stjórn hans undir forystu CIA. Kalda stríðið var greinilega komið í hitabeltisgír."
+    },
+    {
+      "ar": "1976",
+      "texti": "Fyrsta tilfellið sem síðar var hægt að greina sem ebólu kom upp í Súdan. Veiran var þá enn óþekkt og fékk nafn sitt síðar sama ár."
+    },
+    {
+      "ar": "2018",
+      "texti": "Japanska geimfarið Hayabusa2 kom að smástirninu Ryugu til að safna sýnum og flytja þau aftur til jarðar. Þetta var eins konar sýnataka í geimnum, aðeins með talsvert lengri akstri."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1903",
+      "texti": "Fyrsta kvikmyndasýningin á Íslandi fór fram í Góðtemplarahúsinu á Akureyri. Tjaldið var þar með dregið frá nýjum kafla íslenskrar skemmtanasögu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1921",
+      "texti": "Rafstöðin við Elliðaár var gangsett og lagði mikilvægan grunn að rafvæðingu Reykjavíkur. Borgarljósin voru farin að taka söguna í eigin hendur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2006",
+      "texti": "Samkynhneigðir á Íslandi fengu jafna réttarstöðu á við gagnkynhneigða varðandi skráningu í sambúð. Mikilvægt skref var þar stigið í íslenskri réttindasögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2016",
+      "texti": "Ísland vann England í sextán liða úrslitum Evrópumótsins í knattspyrnu. Litla þjóðin sendi þá eina af stórþjóðum fótboltans heim og lét heiminn læra víkingaklappið.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charles IX",
+      "starfsgrein": "Frakkakonungur",
+      "ar": "1550"
+    },
+    {
+      "nafn": "Bianca Del Rio",
+      "starfsgrein": "dragdrottning og grínisti",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Bob Keeshan",
+      "starfsgrein": "leikari og sjónvarpsframleiðandi",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Ahn So-hee",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Antoinette Perry",
+      "starfsgrein": "leikkona og leikstjóri",
+      "ar": "1888"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Páll S. Árdal",
+      "starfsgrein": "heimspekingur",
+      "ar": "1924"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða japanska geimfar kom að smástirninu Ryugu árið 2018?",
+      "svor": [
+        "Hayabusa2",
+        "Voyager 2",
+        "Apollo 11",
+        "Cassini"
+      ],
+      "rett": 0,
+      "skyring": "Hayabusa2 fór alla leið að Ryugu til að sækja sýni — býsna metnaðarfull sendiferð."
+    },
+    {
+      "spurning": "Hvar fór fyrsta kvikmyndasýningin á Íslandi fram?",
+      "svor": [
+        "Í Reykjavík",
+        "Á Akureyri",
+        "Á Ísafirði",
+        "Í Vestmannaeyjum"
+      ],
+      "rett": 1,
+      "skyring": "Akureyringar fengu fyrstir Íslendinga að sjá hreyfimyndir á sýningartjaldi árið 1903."
+    },
+    {
+      "spurning": "Hvaða lið sigraði Ísland í sextán liða úrslitum EM árið 2016?",
+      "svor": [
+        "Frakkland",
+        "Spán",
+        "England",
+        "Þýskaland"
+      ],
+      "rett": 2,
+      "skyring": "England varð fyrir valinu og íslenska víkingaklappið bergmálaði um knattspyrnuheiminn."
+    }
+  ],
+  "tonlistUSA": "I Wanna Dance with Somebody (Who Loves Me) – Whitney Houston (1987)",
+  "tonlistUK": "Star Trekkin' – The Firm (1987)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "rykeldur",
+    "skyring": "Rykeldur er eldur eða sprenging sem verður þegar fíngert, eldfimt ryk kviknar."
+  },
+  "vissir_thu": "Tony-verðlaunin, virtustu leikhúsverðlaun Bandaríkjanna, eru nefnd eftir Antoinette Perry, sem fæddist þennan dag árið 1888.",
+  "stjornuspa": "Krabbi, rykið af gömlu hugmyndinni þinni og sendu hana af stað eins og Hayabusa2 — hún gæti reynst dýrmætari en hún lítur út fyrir. Forðastu þó að gera uppreisn eins og áhöfn Potemkin nema kaffið á vinnustaðnum sé beinlínis ódrekkandi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/War_of_The_Austrian_Succesion_Collage_1.jpg/500px-War_of_The_Austrian_Succesion_Collage_1.jpg",
+    "ar": "1743",
+    "texti": "Georg II Bretakonungur leiddi bandamenn til sigurs á Frökkum í orrustunni við Dettingen í Bæjaralandi. Þetta var í síðasta sinn sem breskur þjóðhöfðingi leiddi sjálfur hermenn í orrustu.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

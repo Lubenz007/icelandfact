@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-26",
+  "dagur": 26,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:58",
+  "sunset": "00:02",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. júní förum við frá mongólskum riddurum og íslenskum eldfjöllum alla leið til Sameinuðu þjóðanna og Hogwarts — býsna drjúg dagsferð án þess að þurfa einu sinni að pakka nesti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1243",
+      "texti": "Mongólar unnu afgerandi sigur á Seljúk-Tyrkjum í Anatólíu. Ósigurinn markaði upphafið að hnignun og upplausn Seljúkveldisins."
+    },
+    {
+      "ar": "1886",
+      "texti": "Franski efnafræðingurinn Henri Moissan tókst að einangra frumefnið flúor. Afrekið var ekki beinlínis eldhúsborðstilraun, enda flúor ákaflega hvarfgjarnt."
+    },
+    {
+      "ar": "1945",
+      "texti": "Fulltrúar 50 ríkja undirrituðu stofnsáttmála Sameinuðu þjóðanna í San Francisco. Þar var lagður grunnur að alþjóðastofnun sem ætlað var að varðveita frið eftir hörmungar heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1997",
+      "texti": "Harry Potter and the Philosopher's Stone, fyrsta bókin um galdrastrákinn Harry Potter, kom út. Fáir bókaormar hafa síðan litið á kústskaft með alveg sömu augum."
+    },
+    {
+      "ar": "2015",
+      "texti": "Hæstiréttur Bandaríkjanna úrskurðaði í málinu Obergefell v. Hodges að stjórnarskráin tryggði samkynhneigðum pörum rétt til hjónabands. Úrskurðurinn batt enda á hjónabandsbönn einstakra fylkja."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1782",
+      "texti": "Bannfæring var numin úr lögum á Íslandi. Þar með missti þetta forna kirkjulega úrræði lagalegan sess sinn í landinu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1823",
+      "texti": "Kötlugos hófst með stórhlaupi úr Mýrdalsjökli. Flóðið olli skemmdum á jörðum í Mýrdal og Álftaveri og minnti rækilega á hver ræður húsum undir jöklinum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1905",
+      "texti": "Fyrsta loftskeytið erlendis frá barst til Íslands, Marconi-skeyti frá Englandi sem tekið var á móti við Rauðará í Reykjavík. Um stund var loftið sjálft orðið að póstburðarmanni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1973",
+      "texti": "Heimaeyjargosið hætti að bæra á sér eftir rúma fimm mánuði. Gosið hafði hafist í janúar og gjörbreytt bæði landslagi og lífi Vestmannaeyinga.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ariana Grande",
+      "starfsgrein": "söngkona, lagahöfundur og leikkona",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Aubrey Plaza",
+      "starfsgrein": "leikkona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Chris O'Donnell",
+      "starfsgrein": "leikari",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Chris Isaak",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Charles Messier",
+      "starfsgrein": "stjörnufræðingur",
+      "ar": "1730"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Svavar Gestsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Ragnheiður Steindórsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Kristján L. Möller",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1953"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða alþjóðastofnun fékk stofnsáttmála sinn undirritaðan 26. júní 1945?",
+      "svor": [
+        "Sameinuðu þjóðirnar",
+        "Atlantshafsbandalagið",
+        "Evrópusambandið",
+        "Þjóðabandalagið"
+      ],
+      "rett": 0,
+      "skyring": "Fulltrúar 50 ríkja undirrituðu stofnsáttmála Sameinuðu þjóðanna í San Francisco."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf gos með stórhlaupi árið 1823?",
+      "svor": [
+        "Hekla",
+        "Askja",
+        "Katla",
+        "Snæfellsjökull"
+      ],
+      "rett": 2,
+      "skyring": "Katla lét til sín taka undir Mýrdalsjökli og sendi stórhlaup yfir nærliggjandi sveitir."
+    },
+    {
+      "spurning": "Hver af þessum afmælisbörnum er þekktur fyrir lagið Wicked Game?",
+      "svor": [
+        "Chris O'Donnell",
+        "Chris Isaak",
+        "Charles Messier",
+        "Aubrey Plaza"
+      ],
+      "rett": 1,
+      "skyring": "Chris Isaak söng Wicked Game, lag sem hefur gert dramatískt augnaráð að hálfgerðri listgrein."
+    }
+  ],
+  "tonlistUSA": "See You Again – Wiz Khalifa ásamt Charlie Puth (2015)",
+  "tonlistUK": "Want to Want Me – Jason Derulo (2015)",
+  "bio": "Jurassic World (2015)",
+  "ord_dagsins": {
+    "ord": "bæra",
+    "skyring": "Að bæra merkir að hreyfast lítillega eða láta á sér kræla, eins og í orðasambandinu „hætti að bæra á sér“."
+  },
+  "vissir_thu": "Flúor er rafneikvæðast allra frumefna og er svo hvarfgjarnt að það finnst ekki óbundið í náttúrunni.",
+  "stjornuspa": "Krabbi, gömul hugmynd sem þú hefur geymt í skúffu gæti loksins fengið dagsljós — dustaðu af henni áður en hún fer að krefjast safnnúmers. Í ást og fjármálum borgar sig að fara að hætti sagnfræðingsins: kanna heimildirnar áður en stórar yfirlýsingar eru gefnar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Mongol_invasions_of_Anatolia_1231-1232%2C_1242-1243.jpg/500px-Mongol_invasions_of_Anatolia_1231-1232%2C_1242-1243.jpg",
+    "ar": "1243",
+    "texti": "Mongólar unnu afgerandi sigur á Seljúk-Tyrkjum í Anatólíu. Ósigurinn markaði upphafið að hnignun og upplausn Seljúkveldisins.",
+    "heimild": "https://en.wikipedia.org/wiki/Mongol_conquest_of_Anatolia",
+    "breidd": 330,
+    "haed": 177
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

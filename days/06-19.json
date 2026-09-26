@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-19",
+  "dagur": 19,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:55",
+  "sunset": "00:02",
+  "kvedja": "Góðan 19. júní, kæri lesandi! Í dag liggur leiðin frá fyrstu skrefum íslenskra kvenna að kjörborðinu yfir á konunglegt brúðkaupsgólf í Stokkhólmi og jafnvel út á hafnaboltavöll þar sem lokatölurnar urðu næsta ókurteisar. Sagan kann sannarlega að sveifla sér milli hátíðleika og furðulegheita.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1718",
+      "texti": "Öflugur jarðskjálfti reið yfir Tíbet-hásléttuna og varð meira en 73.000 manns að bana. Þetta var einn mannskæðasti jarðskjálfti sögunnar."
+    },
+    {
+      "ar": "1846",
+      "texti": "Fyrsti opinberlega skráði hafnaboltaleikurinn í Bandaríkjunum samkvæmt nútímareglum fór fram í Hoboken í New Jersey. New York Nine vann New York Knickerbockers 23–1, sem verður seint kallaður naglbítur."
+    },
+    {
+      "ar": "1953",
+      "texti": "Bandaríkjamennirnir Julius og Ethel Rosenberg voru tekin af lífi fyrir njósnir og að hafa komið upplýsingum um kjarnavopn til Sovétríkjanna."
+    },
+    {
+      "ar": "1970",
+      "texti": "Alþjóðlegi einkaleyfasamningurinn var undirritaður og kom á sameiginlegu ferli fyrir umsóknir um vernd uppfinninga í aðildarríkjunum. Skriffinnskan fékk loksins sína eigin uppfinningu til að fagna."
+    },
+    {
+      "ar": "2010",
+      "texti": "Viktoría krónprinsessa Svíþjóðar og Daniel Westling gengu í hjónaband í dómkirkjunni í Stokkhólmi. Svíar dustuðu rykið af konunglega glansinum og gerðu sér glaðan dag."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1794",
+      "texti": "Magnús Stephensen og fleiri stofnuðu Hið íslenska landsuppfræðingarfélag til að vinna að menningarmálum í landinu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1870",
+      "texti": "Þrír Íslendingar sem lagt höfðu af stað frá Eyrarbakka komu til Québec. Koma þeirra er höfð sem upphaf fólksflutninganna miklu frá Íslandi til Vesturheims.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1915",
+      "texti": "Kristján 10. undirritaði nýja stjórnarskrá Íslands sem veitti öllum íslenskum konum 40 ára og eldri kosningarétt og kjörgengi. Sama dag var íslenski fáninn staðfestur með konungsúrskurði.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1994",
+      "texti": "Björk Guðmundsdóttir hélt sína fyrstu tónleika á Íslandi eftir að hún öðlaðist heimsfrægð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Jakob 6. og 1.",
+      "starfsgrein": "konungur Skotlands, Englands og Írlands",
+      "ar": "1566"
+    },
+    {
+      "nafn": "Ann Wilson",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Aidan Turner",
+      "starfsgrein": "leikari",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Aung San Suu Kyi",
+      "starfsgrein": "stjórnmálakona og friðarverðlaunahafi Nóbels",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Blaise Pascal",
+      "starfsgrein": "stærðfræðingur, eðlisfræðingur og heimspekingur",
+      "ar": "1623"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jóhann Sigurjónsson",
+      "starfsgrein": "leikskáld og ljóðskáld",
+      "ar": "1880"
+    },
+    {
+      "nafn": "Össur Skarphéðinsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Lilý Erla Adamsdóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1958"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mikilvægu réttindi íslenskra kvenna voru aukin 19. júní 1915?",
+      "svor": [
+        "Kosningaréttur og kjörgengi",
+        "Réttur til ókeypis háskólanáms",
+        "Réttur til setu í Hæstarétti",
+        "Réttur til átta stunda vinnudags"
+      ],
+      "rett": 0,
+      "skyring": "Nýja stjórnarskráin veitti íslenskum konum 40 ára og eldri kosningarétt og kjörgengi."
+    },
+    {
+      "spurning": "Hvar fór fyrsti opinberlega skráði hafnaboltaleikurinn samkvæmt nútímareglum fram árið 1846?",
+      "svor": [
+        "Boston",
+        "Hoboken",
+        "Chicago",
+        "Baltimore"
+      ],
+      "rett": 1,
+      "skyring": "Leikurinn fór fram í Hoboken og lokatölurnar 23–1 gáfu litla ástæðu til dramatískrar lokasenu."
+    },
+    {
+      "spurning": "Hver á afmæli 19. júní og var frægur franskur stærðfræðingur og eðlisfræðingur?",
+      "svor": [
+        "Blaise Pascal",
+        "Isaac Newton",
+        "René Descartes",
+        "Antoine Lavoisier"
+      ],
+      "rett": 0,
+      "skyring": "Blaise Pascal fæddist árið 1623 og lét eftir sig djúp spor í stærðfræði, eðlisfræði og heimspeki."
+    }
+  ],
+  "tonlistUSA": "I Can't Help Myself (Sugar Pie, Honey Bunch) – Four Tops (1965)",
+  "tonlistUK": "I'm Alive – The Hollies (1965)",
+  "bio": "Inside Out 2 (2024)",
+  "ord_dagsins": {
+    "ord": "kjörgengi",
+    "skyring": "Kjörgengi er réttur manns til að bjóða sig fram og vera kjörinn til opinbers trúnaðarstarfs."
+  },
+  "vissir_thu": "Í fyrsta opinberlega skráða hafnaboltaleiknum samkvæmt nútímareglum vann New York Nine með 23 stigum gegn aðeins einu stigi New York Knickerbockers.",
+  "stjornuspa": "Tvíburar, orðheppnin er í konunglegum gír og þú gætir sannfært hálft kaffistofuborðið áður en bollinn kólnar. Mundu þó að jafnvel snjöllustu hugmyndir þurfa stundum einkaleyfi áður en þú segir öllum frá þeim.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg/500px-Tommy_Milone_gives_up_a_home_run_to_Mike_Trout_on_May_21%2C_2017.jpg",
+    "ar": "1846",
+    "texti": "Fyrsti opinberlega skráði hafnaboltaleikurinn í Bandaríkjunum samkvæmt nútímareglum fór fram í Hoboken í New Jersey. New York Nine vann New York Knickerbockers 23–1, sem verður seint kallaður naglbítur.",
+    "heimild": "https://en.wikipedia.org/wiki/Baseball",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

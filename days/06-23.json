@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-23",
+  "dagur": 23,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:55",
+  "sunset": "00:03",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 23. júní siglum við frá miðaldaflotum og Bach-kantötum yfir í jafnréttislög, tölvuleikjabroddgölt og örlagaríka atkvæðagreiðslu Breta. Spennið því sögubeltið — það er engin hraðatakmörkun á þessari tímalínu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1266",
+      "texti": "Í sjóorrustu undan Trapani á Sikiley náði floti Feneyinga öllum 27 skipum Genúumanna. Það telst líklega fremur slæmur dagur á skrifstofunni hjá genúska flotanum."
+    },
+    {
+      "ar": "1726",
+      "texti": "J. S. Bach stjórnaði frumflutningi kantötunnar „Brich dem Hungrigen dein Brot“, BWV 39. Verkið minnti á skylduna til að gefa hungruðum brauð — boðskapur sem eldist betur en flest annað frá 18. öld."
+    },
+    {
+      "ar": "1887",
+      "texti": "Kanadíska þingið samþykkti lög sem stofnuðu Banff-þjóðgarðinn í Alberta, fyrsta þjóðgarð landsins. Klettafjöllin fengu þar með formlega vernd og ótal póstkort framtíðarinnar tryggt myndefni."
+    },
+    {
+      "ar": "1972",
+      "texti": "Richard Nixon Bandaríkjaforseti undirritaði Title IX, sem bannaði kynjamismunun í menntastarfsemi sem naut alríkisfjár. Lögin urðu sérstaklega áhrifamikil fyrir þátttöku kvenna í skólaíþróttum."
+    },
+    {
+      "ar": "2016",
+      "texti": "Bretar kusu í þjóðaratkvæðagreiðslu með því að yfirgefa Evrópusambandið. Brexit var þar með komið úr slagorðabankanum og inn í sögubækurnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1787",
+      "texti": "Eftir rannsókn á embættisfærslu Skúla Magnússonar landfógeta úrskurðaði kansellíið í Kaupmannahöfn að hann mætti halda embætti sínu.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1923",
+      "texti": "Hnitbjörg, listasafn Einars Jónssonar, var opnað á Skólavörðuholti í Reykjavík og myndlistin fékk þar reisulegt heimili.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1925",
+      "texti": "Skáksamband Íslands var stofnað. Þar með hófst skipulagðari kafli í þjóðarsögunni um hróka, riddara og afar hugsi Íslendinga.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1977",
+      "texti": "Sögualdarbærinn í Þjórsárdal, reistur í líkingu við bæinn á Stöng, var formlega opnaður í tilefni ellefu alda byggðar norrænna manna á Íslandi.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Turing",
+      "starfsgrein": "stærðfræðingur og tölvunarfræðingur",
+      "ar": "1912"
+    },
+    {
+      "nafn": "Caesarion",
+      "starfsgrein": "konungur Egyptalands",
+      "ar": "47 f.Kr."
+    },
+    {
+      "nafn": "Bryan Brown",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Alfred Kinsey",
+      "starfsgrein": "skordýrafræðingur og kynfræðingur",
+      "ar": "1894"
+    },
+    {
+      "nafn": "Giambattista Vico",
+      "starfsgrein": "heimspekingur, sagnfræðingur og lögfræðingur",
+      "ar": "1668"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birgir Þórarinsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1965"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónskáld stjórnaði frumflutningi kantötu þennan dag árið 1726?",
+      "svor": [
+        "J. S. Bach",
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Georg Friedrich Händel"
+      ],
+      "rett": 0,
+      "skyring": "J. S. Bach stjórnaði flutningnum, enda maður sem lét sunnudaga sjaldan líða án almennilegrar tónlistar."
+    },
+    {
+      "spurning": "Hvaða íslenska safn var opnað á Skólavörðuholti árið 1923?",
+      "svor": [
+        "Þjóðminjasafnið",
+        "Hnitbjörg",
+        "Árbæjarsafn",
+        "Listasafn Reykjavíkur"
+      ],
+      "rett": 1,
+      "skyring": "Hnitbjörg, listasafn Einars Jónssonar, opnaði dyr sínar þennan dag."
+    },
+    {
+      "spurning": "Hvað samþykkti meirihluti breskra kjósenda árið 2016?",
+      "svor": [
+        "Að taka upp evru",
+        "Að sameinast Írlandi",
+        "Að yfirgefa Evrópusambandið",
+        "Að leggja niður þingið"
+      ],
+      "rett": 2,
+      "skyring": "Meirihlutinn studdi útgöngu úr Evrópusambandinu, sem varð upphafið að Brexit-ferlinu."
+    }
+  ],
+  "tonlistUSA": "The Reflex – Duran Duran (1984)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "hnjask",
+    "skyring": "Hnjask er slit, skemmd eða átroðningur sem verður við harkalega eða langvarandi meðferð."
+  },
+  "vissir_thu": "Banff, sem varð fyrsti þjóðgarður Kanada árið 1887, er í Klettafjöllunum í Alberta.",
+  "stjornuspa": "Krabbi, tunglið stillir innri loftnetið þitt á sérlega næma tíðni í dag, svo hlustaðu á innsæið en ekki suðið í ísskápnum. Gamalt verkefni gæti skriðið aftur upp á fjöruna — taktu á móti því með brosi og hæfilega stórri kaffikönnu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mar_Saba_%28Photo_by_Jean_%26_Nathalie%2C_2011%29.jpg/500px-Mar_Saba_%28Photo_by_Jean_%26_Nathalie%2C_2011%29.jpg",
+    "ar": "1266",
+    "texti": "Í sjóorrustu undan Trapani á Sikiley náði floti Feneyinga öllum 27 skipum Genúumanna. Það telst líklega fremur slæmur dagur á skrifstofunni hjá genúska flotanum.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_Saint_Sabas",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

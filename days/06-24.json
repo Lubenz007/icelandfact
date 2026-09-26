@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-24",
+  "dagur": 24,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "02:56",
+  "sunset": "00:03",
+  "kvedja": "Góðan 24. júní! Í dag dansar sagan frá miðöldum og alla leið á Wimbledon, með viðkomu hjá Napóleon, kanadíska þjóðsöngnum og kristnitökunni á Þingvöllum. Reimaðu því söguskóna vel — dagurinn hefur bæði takt og talsverðan bakhandarslátt.",
+  "nafnadagur": "Jón",
+  "atburdir": [
+    {
+      "ar": "1374",
+      "texti": "Undarlegt dansæði hófst í Aachen og breiddist síðar út um hluta Evrópu. Fólk dansaði klukkustundum saman, jafnvel þar til það örmagnaðist — sannkallað dansgólf án útgönguleiðar."
+    },
+    {
+      "ar": "1812",
+      "texti": "Napóleon leiddi Grande Armée yfir ána Neman og hóf þar með innrás Frakka í Rússland. Herförin átti eftir að verða einhver dýrkeyptasta ákvörðun ferils hans."
+    },
+    {
+      "ar": "1880",
+      "texti": "„O Canada“, síðar þjóðsöngur Kanada, var flutt opinberlega í fyrsta sinn við hátíðarkvöldverð í Québec-borg. Lagið þurfti þó enn langan tíma til að vinna sér formlegan þjóðsöngssess."
+    },
+    {
+      "ar": "2010",
+      "texti": "John Isner sigraði Nicolas Mahut á Wimbledon eftir lengsta tennisleik sögunnar. Leikurinn stóð í 11 klukkustundir og 5 mínútur, dreifðist á þrjá daga og hefur líklega tæmt fleiri en eina vatnsflösku."
+    },
+    {
+      "ar": "2021",
+      "texti": "Hluti tólf hæða fjölbýlishúss hrundi í Surfside í Flórída. Hamfarirnar kostuðu 98 manns lífið og ellefu til viðbótar slösuðust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1000",
+      "texti": "Kristni var lögtekin á Alþingi. Með þeirri ákvörðun tók trúarsaga þjóðarinnar mikla beygju, án þess þó að gömlu goðin hyrfu úr íslenskum frásögnum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1900",
+      "texti": "Níuhundruð ára afmælis kristnitökunnar á Íslandi var minnst með messum víða um land.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1923",
+      "texti": "Listasafn Einars Jónssonar var opnað í Reykjavík við hátíðlega athöfn og varð eitt helsta heimili íslenskrar höggmyndalistar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1934",
+      "texti": "Alþingiskosningar voru haldnar og í kjölfarið tók svokölluð stjórn hinna vinnandi stétta við völdum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adrienne Shelly",
+      "starfsgrein": "leikkona, leikstjóri og handritshöfundur",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Ambrose Bierce",
+      "starfsgrein": "rithöfundur, ritgerðahöfundur og blaðamaður",
+      "ar": "1842"
+    },
+    {
+      "nafn": "Arthur Brown",
+      "starfsgrein": "rokksöngvari og lagahöfundur",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Andy McCluskey",
+      "starfsgrein": "söngvari, lagahöfundur og bassaleikari",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Anita Desai",
+      "starfsgrein": "rithöfundur og fræðimaður",
+      "ar": "1937"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Alma Möller",
+      "starfsgrein": "læknir og fyrrverandi landlæknir",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Stefán Jónsson frá Möðrudal",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Jóhannes Geir Jónsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1927"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu lengi stóð maraþonleikur Isners og Mahuts á Wimbledon?",
+      "svor": [
+        "7 klukkustundir og 40 mínútur",
+        "9 klukkustundir og 12 mínútur",
+        "11 klukkustundir og 5 mínútur",
+        "13 klukkustundir og 30 mínútur"
+      ],
+      "rett": 2,
+      "skyring": "Leikurinn tók 11 klukkustundir og 5 mínútur og þurfti þrjá daga til að ljúka honum."
+    },
+    {
+      "spurning": "Hvaða land réðst Napóleon inn í árið 1812?",
+      "svor": [
+        "Spán",
+        "Rússland",
+        "Svíþjóð",
+        "Portúgal"
+      ],
+      "rett": 1,
+      "skyring": "Napóleon fór yfir Neman og hóf innrás sína í Rússland."
+    },
+    {
+      "spurning": "Hvaða safn var opnað í Reykjavík 24. júní 1923?",
+      "svor": [
+        "Listasafn Einars Jónssonar",
+        "Þjóðminjasafn Íslands",
+        "Listasafn Íslands",
+        "Árbæjarsafn"
+      ],
+      "rett": 0,
+      "skyring": "Listasafn Einars Jónssonar var opnað þennan dag við hátíðlega athöfn."
+    }
+  ],
+  "tonlistUSA": "Groovin' – The Young Rascals (1967)",
+  "tonlistUK": "A Whiter Shade of Pale – Procol Harum (1967)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "lögréttumaður",
+    "skyring": "Lögréttumaður var maður sem átti sæti í lögréttu Alþingis og tók þátt í dóms- og löggjafarstörfum."
+  },
+  "vissir_thu": "Lengsti tennisleikur sögunnar fór fram á Wimbledon, stóð í 11 klukkustundir og 5 mínútur og dreifðist á þrjá daga.",
+  "stjornuspa": "Krabbi, gömul tilfinning gæti bankað upp á í dag eins og póstkort frá árinu 1967 — lestu það, en láttu það ekki endurraða allri stofunni. Kvöldið hentar vel fyrir notalega tónlist, góða vini og eina djarfa ákvörðun í hóflegri stærð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Die_Wallfahrt_der_Fallsuechtigen_nach_Meulebeeck.jpg/500px-Die_Wallfahrt_der_Fallsuechtigen_nach_Meulebeeck.jpg",
+    "ar": "1374",
+    "texti": "Undarlegt dansæði hófst í Aachen og breiddist síðar út um hluta Evrópu. Fólk dansaði klukkustundum saman, jafnvel þar til það örmagnaðist — sannkallað dansgólf án útgönguleiðar.",
+    "heimild": "https://en.wikipedia.org/wiki/Dancing_mania",
+    "breidd": 330,
+    "haed": 421
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

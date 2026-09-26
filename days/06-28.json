@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-28",
+  "dagur": 28,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:00",
+  "sunset": "00:00",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 28. júní! Í dag mætast saxófónninn, söguleg réttindabarátta og örlagarík skot í Sarajevó — dagatalið kann sannarlega að blanda kokteil, þótt það gleymi stundum regnhlífinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1461",
+      "texti": "Játvarður 4. var krýndur Englandskonungur í Westminster Abbey. Krúnan sat þó ekki alltaf kyrr á höfði hans, enda Rósastríðin engin sunnudagsganga."
+    },
+    {
+      "ar": "1846",
+      "texti": "Belgíski hljóðfærasmiðurinn Adolphe Sax fékk einkaleyfi á saxófóninum. Þar með eignaðist tónlistarsagan málmblásið hljóðfæri sem gat bæði hvíslað og tekið yfir heila stofu."
+    },
+    {
+      "ar": "1914",
+      "texti": "Frans Ferdinand, erkihertogi Austurríkis, og Sophie eiginkona hans voru myrt í Sarajevó af Gavrilo Princip. Morðin hrundu af stað atburðarásinni sem leiddi til fyrri heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1969",
+      "texti": "Eftir lögregluáhlaup á Stonewall Inn í New York hófu hópar samkynhneigðs fólks og transfólks mótmæli. Atburðirnir urðu vatnaskil í réttindabaráttu hinsegin fólks um allan heim."
+    },
+    {
+      "ar": "2016",
+      "texti": "Vopnaðir árásarmenn réðust á Atatürk-flugvöll í Istanbúl. Árásin kostaði 45 manns lífið og meira en 230 særðust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1541",
+      "texti": "Ný kirkjuskipun var samþykkt í Skálholtsbiskupsdæmi og þar með hófust siðaskiptin á Íslandi formlega.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1912",
+      "texti": "Fyrsti leikurinn í fyrsta Íslandsmótinu í knattspyrnu fór fram á Íþróttavellinum við Melana. KR og Fram skildu jöfn, 1–1, svo íslensk mótasaga hófst með prúðmannlegu jafntefli.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Alþingishátíðinni á Þingvöllum var slitið eftir hátíðahöld í tilefni þúsund ára afmælis Alþingis.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2006",
+      "texti": "Bandaríkjaher flutti síðustu hermenn sína frá Keflavíkurstöðinni og Varnarlið Íslands var leyst upp.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alessandro Nivola",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Alice Krige",
+      "starfsgrein": "suður-afrísk leikkona",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Bruce Davison",
+      "starfsgrein": "bandarískur leikari og leikstjóri",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Aileen Quinn",
+      "starfsgrein": "bandarísk leikkona og söngkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Bradley Beal",
+      "starfsgrein": "bandarískur körfuknattleiksmaður",
+      "ar": "1993"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sveinbjörn Sveinbjörnsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1847"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljóðfæri fékk Adolphe Sax einkaleyfi á árið 1846?",
+      "svor": [
+        "Saxófón",
+        "Harmónikku",
+        "Klarínett",
+        "Básúnu"
+      ],
+      "rett": 0,
+      "skyring": "Saxófónninn ber nafn Sax sjálfs — hógværðin var greinilega ekki hluti af einkaleyfinu."
+    },
+    {
+      "spurning": "Hvaða lið léku fyrsta leikinn í fyrsta Íslandsmótinu í knattspyrnu árið 1912?",
+      "svor": [
+        "Valur og Víkingur",
+        "KR og Fram",
+        "Fram og ÍA",
+        "KR og Þór"
+      ],
+      "rett": 1,
+      "skyring": "KR og Fram gerðu 1–1 jafntefli við Melana og hófu þar með langa íslenska knattspyrnusögu."
+    },
+    {
+      "spurning": "Hvaða atburður árið 1969 varð að vatnaskilum í alþjóðlegri réttindabaráttu hinsegin fólks?",
+      "svor": [
+        "Mótmælin við Stonewall Inn",
+        "Krýning Játvarðs 4.",
+        "Alþingishátíðin á Þingvöllum",
+        "Einkaleyfi saxófónsins"
+      ],
+      "rett": 0,
+      "skyring": "Mótmælin við Stonewall Inn urðu eitt helsta tákn nútímalegrar réttindabaráttu hinsegin fólks."
+    }
+  ],
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
+  "tonlistUK": "Every Breath You Take – The Police (1983)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "skæklatönn",
+    "skyring": "Skæklatönn er tönn sem stendur skökk eða út úr eðlilegri tannröð."
+  },
+  "vissir_thu": "Adolphe Sax, sem fékk einkaleyfi á saxófóninum þennan dag árið 1846, nefndi hljóðfærið eftir sjálfum sér.",
+  "stjornuspa": "Krabbi, rykið af gömlu heimilisbókhaldinu kann að leiða í ljós fjársjóð — eða að minnsta kosti gleymdan afsláttarmiða. Haltu fast í innsæið, en ekki svo fast að það þurfi að biðja um miskunn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Edward_IV_Plantagenet.jpg/500px-Edward_IV_Plantagenet.jpg",
+    "ar": "1461",
+    "texti": "Játvarður 4. var krýndur Englandskonungur í Westminster Abbey. Krúnan sat þó ekki alltaf kyrr á höfði hans, enda Rósastríðin engin sunnudagsganga.",
+    "heimild": "https://en.wikipedia.org/wiki/Edward_IV",
+    "breidd": 330,
+    "haed": 477
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

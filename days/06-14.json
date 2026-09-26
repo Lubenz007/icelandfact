@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-14",
+  "dagur": 14,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:58",
+  "sunset": "23:57",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag stormum við inn í Tower of London, skoðum vélræna reiknivél Babbage og fylgjum fyrstu Bell-þyrlunni sveima yfir Íslandi — sögulegt ferðalag sem krefst hvorki vegabréfs né öryggisbeltis.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1381",
+      "texti": "Í ensku bændauppreisninni réðust uppreisnarmenn inn í Tower of London og drápu meðal annarra Simon Sudbury kanslara og Robert Hales ríkisféhirði. Turninn reyndist því ekki alveg jafn traustur og orðspor hans gaf til kynna."
+    },
+    {
+      "ar": "1777",
+      "texti": "Annað meginlandsþing Bandaríkjanna samþykkti stjörnur og rendur sem fána hins unga ríkis. Fáninn hefur síðan fengið fleiri stjörnur, en rendurnar sluppu við frekari fjölgun."
+    },
+    {
+      "ar": "1822",
+      "texti": "Stærðfræðingurinn Charles Babbage kynnti hugmynd sína að mismunavél, sjálfvirkri vélrænni reiknivél sem átti að útbúa stærðfræðitöflur. Hún var stórt skref í átt að tölvuöldinni, þótt hún kæmist tæplega fyrir á skrifborði."
+    },
+    {
+      "ar": "1966",
+      "texti": "Vatíkanið afnam formlega 427 ára gamla skrá sína yfir bannaðar bækur. Bókaormar gátu loksins andað léttar, að minnsta kosti þeir sem höfðu beðið í rúmar fjórar aldir."
+    },
+    {
+      "ar": "2017",
+      "texti": "Eldur olli gífurlegu tjóni í Grenfell Tower í Norður-Kensington í London og 72 létust. Harmleikurinn vakti áleitnar spurningar um brunavarnir, byggingarefni og ábyrgð stjórnvalda."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1337",
+      "texti": "Halastjarna sást á Íslandi og hefur sýnin eflaust vakið bæði undrun og ugg á tímum þegar himinfyrirbæri þóttu gjarnan boða stórtíðindi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1949",
+      "texti": "Fyrsta tilraunaflug þyrlu á Íslandi fór fram með tveggja sæta Bell-þyrlu. Þar með hófst nýr kafli í íslenskri flugsögu — með töluvert meiri skrúfugangi en áður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Ferjan Smyrill hóf siglingar til Seyðisfjarðar og þar með hófust reglulegar ferjusiglingar milli Færeyja og Íslands. Norræna tók síðan við leiðinni árið 1983.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "2016",
+      "texti": "Íslenska karlalandsliðið gerði 1–1 jafntefli við Portúgal í sínum fyrsta leik á stórmóti, Evrópumótinu í knattspyrnu. Smáþjóðin mætti stórstjörnunum og lét engan bilbug á sér finna.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Boy George",
+      "starfsgrein": "söngvari, lagahöfundur og tónlistarframleiðandi",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Alan Carr",
+      "starfsgrein": "grínisti, leikari og handritshöfundur",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Burl Ives",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Alan White",
+      "starfsgrein": "trommuleikari og lagahöfundur",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Alois Alzheimer",
+      "starfsgrein": "geðlæknir og taugameinafræðingur",
+      "ar": "1864"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Garðar Gíslason",
+      "starfsgrein": "kaupmaður",
+      "ar": "1876"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða frumgerð tölvualdarinnar kynnti Charles Babbage árið 1822?",
+      "svor": [
+        "Mismunavél",
+        "Rafmagnsritvél",
+        "Gufusíma",
+        "Segulklukku"
+      ],
+      "rett": 0,
+      "skyring": "Mismunavélin átti að reikna og útbúa stærðfræðitöflur með vélrænum hætti."
+    },
+    {
+      "spurning": "Hvaða farartæki fór í fyrsta sinn í tilraunaflug á Íslandi árið 1949?",
+      "svor": [
+        "Sviffluga",
+        "Loftbelgur",
+        "Þyrla",
+        "Þota"
+      ],
+      "rett": 2,
+      "skyring": "Tveggja sæta Bell-þyrla sá um þennan skrúfumikla frumflutning."
+    },
+    {
+      "spurning": "Við hvaða landslið gerði Ísland jafntefli í sínum fyrsta leik á stórmóti árið 2016?",
+      "svor": [
+        "Spán",
+        "Portúgal",
+        "Frakkland",
+        "England"
+      ],
+      "rett": 1,
+      "skyring": "Leikurinn gegn Portúgal endaði 1–1 og íslenska EM-ævintýrið var þar með komið á fulla ferð."
+    }
+  ],
+  "tonlistUSA": "On My Own – Patti LaBelle og Michael McDonald (1986)",
+  "tonlistUK": "Spirit in the Sky – Doctor and the Medics (1986)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "stjörnuhrap",
+    "skyring": "Ljósrák sem verður þegar örsmátt efni úr geimnum hitnar og glóir við ferð sína inn í lofthjúp jarðar."
+  },
+  "vissir_thu": "Sjúkdómurinn Alzheimer dregur nafn sitt af Alois Alzheimer, sem fæddist 14. júní 1864 og lýsti einkennum hans í sjúklingi snemma á 20. öld.",
+  "stjornuspa": "Tvíburar, dagurinn kallar á tvöfalt magn af forvitni en aðeins hálft magn af fljótfærni. Ef síminn hringir skaltu svara — nema það sé árið 1822, þá er það líklega bara mismunavélin að skrölta.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg/500px-Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg",
+    "ar": "1381",
+    "texti": "Í ensku bændauppreisninni réðust uppreisnarmenn inn í Tower of London og drápu meðal annarra Simon Sudbury kanslara og Robert Hales ríkisféhirði. Turninn reyndist því ekki alveg jafn traustur og orðspor hans gaf til kynna.",
+    "heimild": "https://en.wikipedia.org/wiki/Peasants'_Revolt",
+    "breidd": 330,
+    "haed": 318
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

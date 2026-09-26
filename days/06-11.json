@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-11",
+  "dagur": 11,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:02",
+  "sunset": "23:52",
+  "kvedja": "Góðan 11. júní, kæri lesandi! Í dag sveiflum við okkur frá herför Abbasída yfir í Grindavíkurstríð, með viðkomu í konunglegu brúðkaupi sem reyndist heldur afdrifaríkt. Haltu fast í kaffibollann — sagan kann sjaldnast að banka áður en hún ryðst inn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "806",
+      "texti": "Her Abbasída lagði af stað frá Raqqa í norðurhluta Sýrlands til innrásar í Litlu-Asíu, sem þá laut stjórn Býsansveldisins. Ferðalagið var öllu umfangsmeira en venjulegur sunnudagsbíltúr."
+    },
+    {
+      "ar": "1509",
+      "texti": "Katrín af Aragón giftist Hinriki 8. Englandskonungi og varð þar með fyrsta eiginkona hans af sex. Hjónabandssagan átti síðar eftir að umbylta bæði hirðlífi og trúmálum Englands."
+    },
+    {
+      "ar": "1775",
+      "texti": "Orrustan við Machias hófst í og við hafnarbæinn Machias í því sem nú er austurhluti Maine. Hún er talin fyrsta sjóorrusta bandaríska frelsisstríðsins."
+    },
+    {
+      "ar": "1963",
+      "texti": "Háskólinn í Alabama var formlega opnaður nemendum óháð kynþætti þegar George Wallace ríkisstjóri vék loks frá inngangi samkomusalarins, sem hann hafði staðið vörð um í mótmælaskyni."
+    },
+    {
+      "ar": "2008",
+      "texti": "Stephen Harper, forsætisráðherra Kanada, bað fyrstu þjóðir landsins formlega afsökunar á stefnu fyrri ríkisstjórna um þvingaða aðlögun. Afsökunin laut meðal annars að hinu sársaukafulla kerfi heimavistarskóla."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1532",
+      "texti": "Í Grindavíkurstríðinu réðust Íslendingar og Þjóðverjar um nótt á virki og skip Englendinga í Grindavík. Fimmtán voru drepnir, átta teknir höndum og skipið Peter Gibson lagt undir.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1910",
+      "texti": "Gasstöð Reykjavíkur tók til starfa og sá bænum meðal annars fyrir gasi til lýsingar og eldunar. Hún starfaði til ársins 1955.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1935",
+      "texti": "Auður Auðuns lauk lögfræðiprófi frá Háskóla Íslands, fyrst íslenskra kvenna. Síðar varð hún einnig fyrsta konan til að gegna embætti borgarstjóra í Reykjavík og ráðherraembætti á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1957",
+      "texti": "Handknattleikssamband Íslands var stofnað. Þar með fékk ein ástsælasta íþrótt þjóðarinnar sitt eigið sérsamband — og síðar ófáar taugatrekkjandi lokamínútur.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Kai Havertz",
+      "starfsgrein": "þýskur knattspyrnumaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Jorja Smith",
+      "starfsgrein": "ensk söngkona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Adrienne Barbeau",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Billy Gilmour",
+      "starfsgrein": "skoskur knattspyrnumaður",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Anne Neville",
+      "starfsgrein": "Englandsdrottning",
+      "ar": "1456"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Þorkelsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1867"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eiginkona Hinriks 8. gekk að eiga hann 11. júní 1509?",
+      "svor": [
+        "Katrín af Aragón",
+        "Anne Neville",
+        "Elísabet af York",
+        "María Stúart"
+      ],
+      "rett": 0,
+      "skyring": "Katrín af Aragón var fyrsta eiginkona Hinriks af þeim sex sem sagan geymir."
+    },
+    {
+      "spurning": "Hvaða íslenska stofnun tók til starfa árið 1910?",
+      "svor": [
+        "Handknattleikssamband Íslands",
+        "Gasstöð Reykjavíkur",
+        "Háskóli Íslands",
+        "Ríkisútvarpið"
+      ],
+      "rett": 1,
+      "skyring": "Gasstöð Reykjavíkur hóf störf 11. júní 1910 og hélt þeim áfram til 1955."
+    },
+    {
+      "spurning": "Hver bað fyrstu þjóðir Kanada formlega afsökunar árið 2008?",
+      "svor": [
+        "George Wallace",
+        "Stephen Harper",
+        "Billy Gilmour",
+        "Hinrik 8."
+      ],
+      "rett": 1,
+      "skyring": "Stephen Harper flutti afsökunarbeiðnina fyrir hönd kanadísku ríkisstjórnarinnar."
+    }
+  ],
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
+  "tonlistUK": "Every Breath You Take – The Police (1983)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "orrahraun",
+    "skyring": "Orrahraun er mikill og ruglingslegur fjöldi eða samsafn, gjarnan af hlutum eða hugmyndum."
+  },
+  "vissir_thu": "Katrín af Aragón hafði áður verið gift Arthúri, eldri bróður Hinriks 8., áður en hún varð fyrsta drottning Hinriks.",
+  "stjornuspa": "Tvíburar ættu að velja orð sín jafn vandlega og sendiboði við hirð Hinriks 8.; eitt kæruleysislegt orð gæti orðið að heilli framhaldssögu. Gamall kunningi eða gleymd hugmynd birtist óvænt, líklega með meiri sjarma en stundvísi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg",
+    "ar": "806",
+    "texti": "Her Abbasída lagði af stað frá Raqqa í norðurhluta Sýrlands til innrásar í Litlu-Asíu, sem þá laut stjórn Býsansveldisins. Ferðalagið var öllu umfangsmeira en venjulegur sunnudagsbíltúr.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab–Byzantine_wars",
+    "breidd": 330,
+    "haed": 169
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "06-16",
+  "dagur": 16,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:56",
+  "sunset": "00:00",
+  "kvedja": "Góðan 16. júní, kæri lesandi! Dagurinn býður okkur í ferð frá átta ára Persakonungi til geimferðar Valentínu Teresjkovu, með viðkomu hjá James Joyce og íslenska lýðveldinu. Spennið beltin — sagan á það til að taka skarpar beygjur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "632",
+      "texti": "Yazdegerd 3. settist í hásæti Sasanídaveldisins í Íran, aðeins átta ára gamall. Það er heldur ábyrgðarmeira sumarstarf en flest börn fá."
+    },
+    {
+      "ar": "1407",
+      "texti": "Her Ming-ættarinnar lagði Đại Ngu, í norðurhluta Víetnams nútímans, undir sig og handtók Hồ Quý Ly keisara Hồ-ættarinnar."
+    },
+    {
+      "ar": "1819",
+      "texti": "Öflugur jarðskjálfti reið yfir Kutch-hérað í Gujarat á Indlandi og lyfti landbelti sem stíflaði Nara-fljót. Náttúrulegi garðurinn fékk síðar nafnið Allah Bund, eða „stífla Guðs“."
+    },
+    {
+      "ar": "1904",
+      "texti": "James Joyce hóf samband sitt við Noru Barnacle. Hann valdi síðar þennan dag sem sögutíma skáldsögunnar Ulysses, og því er 16. júní nú haldinn hátíðlegur sem Bloomsday."
+    },
+    {
+      "ar": "1963",
+      "texti": "Valentína Teresjkova lagði af stað með Vostok 6 og varð fyrst kvenna til að fara út í geim. Glerþakið var þar með rofið nokkuð bókstaflega."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1551",
+      "texti": "Danskir sendimenn konungs fengu Jón Arason og syni hans, Björn og Ara, dæmda seka um landráð á Oddeyri, rúmum sjö mánuðum eftir aftöku þeirra.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1877",
+      "texti": "Ísafoldarprentsmiðja var formlega stofnuð og fyrsta tölublað Ísafoldar prentað.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Alþingi kom saman í Reykjavík, felldi niður sambandslög Íslands og Danmerkur og setti nýja stjórnarskrá í gildi, daginn áður en lýðveldið var stofnað.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2018",
+      "texti": "Ísland gerði 1–1 jafntefli við Argentínu í fyrsta leik sínum á heimsmeistaramóti karla í knattspyrnu. Lítil þjóð, stór stund og óvenjumikið álag á íslenskar taugar.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Weir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Adam Smith",
+      "starfsgrein": "heimspekingur og hagfræðingur",
+      "ar": "1723"
+    },
+    {
+      "nafn": "Bill Cobbs",
+      "starfsgrein": "leikari",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Anna Cathcart",
+      "starfsgrein": "leikkona",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Alexander Friedmann",
+      "starfsgrein": "eðlisfræðingur og stærðfræðingur",
+      "ar": "1888"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Lúðvík Jósepsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Emil Thoroddsen",
+      "starfsgrein": "tónskáld",
+      "ar": "1898"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða kona varð fyrst kvenna til að fara út í geim 16. júní 1963?",
+      "svor": [
+        "Valentína Teresjkova",
+        "Liu Yang",
+        "Nora Barnacle",
+        "Anna Cathcart"
+      ],
+      "rett": 0,
+      "skyring": "Valentína Teresjkova fór með Vostok 6 og skrifaði nafn sitt kirfilega í geimsöguna."
+    },
+    {
+      "spurning": "Hvaða bókmenntahátíð er haldin 16. júní vegna skáldsögu James Joyce?",
+      "svor": [
+        "Shakespeare-dagurinn",
+        "Bloomsday",
+        "Bókavakan",
+        "Ziggy-dagurinn"
+      ],
+      "rett": 1,
+      "skyring": "Bloomsday vísar til Leopolds Bloom, aðalpersónu Ulysses."
+    },
+    {
+      "spurning": "Hvað gerði íslenska karlalandsliðið gegn Argentínu á HM árið 2018?",
+      "svor": [
+        "Vann 2–0",
+        "Tapaði 1–0",
+        "Gerði 1–1 jafntefli",
+        "Gerði markalaust jafntefli"
+      ],
+      "rett": 2,
+      "skyring": "Leikurinn endaði 1–1 og Ísland tók sitt fyrsta stig á heimsmeistaramóti karla."
+    }
+  ],
+  "tonlistUSA": "It Must Have Been Love – Roxette (1990)",
+  "tonlistUK": "World in Motion – New Order (1990)",
+  "bio": "Psycho (1960)",
+  "ord_dagsins": {
+    "ord": "landris",
+    "skyring": "Landris er hækkun lands, til dæmis vegna jarðhræringa eða þegar fargi jökuls léttir."
+  },
+  "vissir_thu": "Valentína Teresjkova var aðeins 26 ára þegar hún varð fyrst kvenna til að fara út í geim.",
+  "stjornuspa": "Tvíburar, í dag berast skilaboð hraðar en skeyti frá Vostok 6, en ekki þarf að svara þeim öllum samstundis. Settu góða plötu á fóninn, haltu tveimur hugmyndum á lofti og láttu hvoruga lenda fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg/500px-The_Sasanian_Empire_at_its_apex_under_Khosrow_II.svg.png",
+    "ar": "632",
+    "texti": "Yazdegerd 3. settist í hásæti Sasanídaveldisins í Íran, aðeins átta ára gamall. Það er heldur ábyrgðarmeira sumarstarf en flest börn fá.",
+    "heimild": "https://en.wikipedia.org/wiki/Sasanian_Empire",
+    "breidd": 330,
+    "haed": 194
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

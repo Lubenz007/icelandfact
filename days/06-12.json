@@ -1,0 +1,132 @@
+{
+  "mmdd": "06-12",
+  "dagur": 12,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:00",
+  "sunset": "23:54",
+  "kvedja": "Góðan 12. júní! Í dag flökkum við frá miðaldadeilum í París yfir í dagbók Önnu Frank og allt að Berlínarmúrnum — sannkallaður Tvíburadagur með tvær, eða jafnvel þrjár, sögur í hverjum vasa. Helltu upp á kaffi og komdu með; sagan bíður sjaldnast kurteislega við dyrnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1240",
+      "texti": "Trúardeilan í París hófst við hirð Loðvíks IX, þar sem fjórir rabbínar vörðu Talmúd gegn ásökunum Nicholas Donin um guðlast. Miðaldirnar kunnu svo sannarlega að gera fræðilega rökræðu að stórpólitísku máli."
+    },
+    {
+      "ar": "1798",
+      "texti": "Eftir vel heppnaða innrás Frakka gáfust Jóhannesarriddarar upp á Möltu fyrir Napóleon. Þar með hófst tveggja ára hernám Frakka á eyjunni."
+    },
+    {
+      "ar": "1942",
+      "texti": "Á þrettán ára afmæli sínu hóf Anna Frank að halda dagbók í Hollandi undir hernámi nasista. Skrif hennar urðu síðar ein þekktasta persónulega heimildin um helförina."
+    },
+    {
+      "ar": "1967",
+      "texti": "Hæstiréttur Bandaríkjanna felldi úr gildi lög sem bönnuðu hjónabönd fólks af ólíkum kynþáttum í tímamótamálinu Loving gegn Virginíu. Nafn málsins hefði vart getað verið táknrænna."
+    },
+    {
+      "ar": "1987",
+      "texti": "Ronald Reagan Bandaríkjaforseti talaði við Brandenborgarhliðið og skoraði á Míkhaíl Gorbatsjov að rífa Berlínarmúrinn. Setningin varð eitt kunnasta ákall lokaskeiðs kalda stríðsins."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Anne Frank",
+      "starfsgrein": "dagbókarhöfundur",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Anthony Eden",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra Bretlands",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Adriana Lima",
+      "starfsgrein": "fyrirsæta og leikkona",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Cosimo I de' Medici",
+      "starfsgrein": "stórhertogi Toskana",
+      "ar": "1519"
+    },
+    {
+      "nafn": "Blake Ross",
+      "starfsgrein": "forritari og meðhöfundur Mozilla Firefox",
+      "ar": "1985"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birgir Ármannsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Helgi Hallvarðsson",
+      "starfsgrein": "skipherra",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Árni Steinar Jóhannsson",
+      "starfsgrein": "garðyrkjufræðingur og stjórnmálamaður",
+      "ar": "1953"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað fékk Anna Frank í raun og veru á þrettán ára afmælinu — samkvæmt sögunni sem lifir enn?",
+      "svor": [
+        "Dagbók sem hún hóf að skrifa í",
+        "Farseðil til Bandaríkjanna",
+        "Ljósmyndavél",
+        "Útvarpstæki"
+      ],
+      "rett": 0,
+      "skyring": "Anna Frank hóf dagbókina sína 12. júní 1942, á þrettán ára afmælisdaginn."
+    },
+    {
+      "spurning": "Hvaða leiðtoga skoraði Ronald Reagan á að rífa Berlínarmúrinn?",
+      "svor": [
+        "Leoníd Brezhnev",
+        "Míkhaíl Gorbatsjov",
+        "Boris Jeltsín",
+        "Nikita Khrústsjov"
+      ],
+      "rett": 1,
+      "skyring": "Áskoruninni var beint að Míkhaíl Gorbatsjov við Brandenborgarhliðið árið 1987."
+    },
+    {
+      "spurning": "Hvaða eyja féll í hendur Napóleons árið 1798?",
+      "svor": [
+        "Korsíka",
+        "Sikiley",
+        "Malta",
+        "Krít"
+      ],
+      "rett": 2,
+      "skyring": "Jóhannesarriddarar gáfust upp á Möltu og franskt hernám hófst."
+    }
+  ],
+  "tonlistUSA": "Silly Love Songs – Wings (1976)",
+  "tonlistUK": "You're the One That I Want – John Travolta og Olivia Newton-John (1978)",
+  "bio": "Raiders of the Lost Ark (1981)",
+  "ord_dagsins": {
+    "ord": "orðheppinn",
+    "skyring": "Sá sem er orðheppinn á auðvelt með að finna hnyttileg, skýr eða vel valin orð."
+  },
+  "vissir_thu": "Anna Frank fæddist 12. júní 1929 og hóf frægu dagbókina sína nákvæmlega þrettán árum síðar, 12. júní 1942.",
+  "stjornuspa": "Tvíburar finna í dag gamalt skilaboð, gleymda hugmynd eða símanúmer á miða og gera úr því heila framhaldssögu. Varastu þó að lofa þig á tvo staði í einu — jafnvel Tvíburar eiga aðeins eitt tímatal.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Rashi%27s_Talmud_Commentary.jpg/500px-Rashi%27s_Talmud_Commentary.jpg",
+    "ar": "1240",
+    "texti": "Trúardeilan í París hófst við hirð Loðvíks IX, þar sem fjórir rabbínar vörðu Talmúd gegn ásökunum Nicholas Donin um guðlast. Miðaldirnar kunnu svo sannarlega að gera fræðilega rökræðu að stórpólitísku máli.",
+    "heimild": "https://en.wikipedia.org/wiki/Disputation_of_Paris",
+    "breidd": 330,
+    "haed": 256
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

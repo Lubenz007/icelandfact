@@ -1,0 +1,148 @@
+{
+  "mmdd": "06-09",
+  "dagur": 9,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:05",
+  "sunset": "23:48",
+  "kvedja": "Góðan 9. júní! Í dag fljúgum við yfir Kyrrahafið, fylgjumst með Secretariat þjóta inn í sögubækurnar og lítum við á Austurvelli þar sem Alþingishúsið var eitt sinn aðeins hornsteinn og góð fyrirheit. Festið beltin — sagan kann að taka nokkrar krappar beygjur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "747",
+      "texti": "Abu Muslim hóf opna uppreisn gegn Umajjadveldinu undir svörtum fánum. Uppreisnin ruddi að lokum Abbasídum leiðina að kalífadæminu."
+    },
+    {
+      "ar": "1549",
+      "texti": "Enska þingið lögfesti fyrstu Book of Common Prayer og innleiddi þar með mótmælendaguðsþjónustu á ensku í ensku kirkjunni. Almenningur gat loksins fylgst með án þess að dusta rykið af latínunni."
+    },
+    {
+      "ar": "1772",
+      "texti": "Bandarískir nýlendubúar undir forystu Abrahams Whipple réðust á bresku skonnortuna Gaspee og brenndu hana, í ögrandi andófi gegn siglingalögum Breta."
+    },
+    {
+      "ar": "1928",
+      "texti": "Ástralski flugmaðurinn Charles Kingsford Smith og áhöfn hans lentu Southern Cross í Brisbane og luku þar með fyrsta fluginu yfir Kyrrahafið."
+    },
+    {
+      "ar": "1973",
+      "texti": "Kappreiðahesturinn Secretariat vann Belmont Stakes með ótrúlegum 31 lengdar mun og tryggði sér bandarísku þreföldu krúnuna, fyrstur hesta í aldarfjórðung."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1741",
+      "texti": "Ferming barna var lögfest á Íslandi, þótt athöfnin hefði þá þegar tíðkast hér um aldir.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1880",
+      "texti": "Hornsteinn var lagður að Alþingishúsinu við Austurvöll. Húsið var síðan tekið í notkun 1. júlí 1881.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1976",
+      "texti": "Djassgoðsögnin Benny Goodman kom til Íslands og hélt tónleika á Listahátíð í Reykjavík — sannkallaður stórsveifladagur í höfuðborginni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1994",
+      "texti": "Síldin sneri aftur í íslenska landhelgi eftir 26 ára hlé. Það hafa líklega verið kærkomnustu endurfundir ársins í sjávarútveginum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Sorkin",
+      "starfsgrein": "handritshöfundur, framleiðandi og leikskáld",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Charles Saatchi",
+      "starfsgrein": "kaupsýslumaður og auglýsingafrömuður",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Ameesha Patel",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Bertha von Suttner",
+      "starfsgrein": "rithöfundur, blaðamaður og friðarsinni",
+      "ar": "1843"
+    },
+    {
+      "nafn": "Carl Nielsen",
+      "starfsgrein": "tónskáld, fiðluleikari og hljómsveitarstjóri",
+      "ar": "1865"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Stefán Einarsson",
+      "starfsgrein": "málfræðingur",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Katrín Pálsdóttir",
+      "starfsgrein": "bæjarfulltrúi í Reykjavík",
+      "ar": "1889"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða afrek vann kappreiðahesturinn Secretariat 9. júní 1973?",
+      "svor": [
+        "Hann tryggði sér þreföldu krúnuna",
+        "Hann synti yfir Ermarsund",
+        "Hann vann Kentucky Derby í fyrsta sinn",
+        "Hann varð fyrsti hesturinn á Ólympíuleikum"
+      ],
+      "rett": 0,
+      "skyring": "Secretariat vann Belmont Stakes með 31 lengdar mun og fullkomnaði þar með þreföldu krúnuna."
+    },
+    {
+      "spurning": "Hvar var hornsteinn Alþingishússins lagður árið 1880?",
+      "svor": [
+        "Á Þingvöllum",
+        "Við Austurvöll",
+        "Á Bessastöðum",
+        "Við Arnarhól"
+      ],
+      "rett": 1,
+      "skyring": "Hornsteinninn var lagður við Austurvöll, þar sem Alþingishúsið stendur enn með sinni virðulegu grágrýtissvip."
+    },
+    {
+      "spurning": "Hvað hét flugvélin sem lauk fyrsta fluginu yfir Kyrrahafið árið 1928?",
+      "svor": [
+        "Spirit of St. Louis",
+        "Enola Gay",
+        "Southern Cross",
+        "Flying Scotsman"
+      ],
+      "rett": 2,
+      "skyring": "Southern Cross lenti í Brisbane og skráði sig þar með rækilega í flugsöguna."
+    }
+  ],
+  "tonlistUSA": "Time After Time – Cyndi Lauper (1984)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "Ghostbusters (1984)",
+  "ord_dagsins": {
+    "ord": "fífldirfska",
+    "skyring": "Fífldirfska er óhófleg og óskynsamleg dirfska, þegar hugrekkið hleypur langt á undan dómgreindinni."
+  },
+  "vissir_thu": "Secretariat hljóp Belmont Stakes árið 1973 á 2 mínútum og 24 sekúndum og vann með 31 lengdar mun.",
+  "stjornuspa": "Tvíburar, Merkúr vill að þú svarir tveimur bréfum, hringir þrjú símtöl og byrjir á fjórða verkefninu áður en hádegiskaffið kólnar. Dragðu þó andann — jafnvel Secretariat þurfti að bíða eftir rásmerkinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Book_of_Common_Prayer%2C_1549_%282%29.jpg/500px-Book_of_Common_Prayer%2C_1549_%282%29.jpg",
+    "ar": "1549",
+    "texti": "Enska þingið lögfesti fyrstu Book of Common Prayer og innleiddi þar með mótmælendaguðsþjónustu á ensku í ensku kirkjunni. Almenningur gat loksins fylgst með án þess að dusta rykið af latínunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Book_of_Common_Prayer_(1549)",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

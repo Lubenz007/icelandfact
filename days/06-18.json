@@ -1,0 +1,148 @@
+{
+  "mmdd": "06-18",
+  "dagur": 18,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:55",
+  "sunset": "00:02",
+  "kvedja": "Góðan 18. júní, kæri lesandi! Í dag förum við frá Waterloo til Þingvalla, með viðkomu hjá Darwin og Sally Ride — enda kann sagan hvorki að ferðast létt né í beinni línu. Spennið beltin, eða beislið póstvagnshestana.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1757",
+      "texti": "Austurríkismenn unnu sigur í orrustunni við Kolín og neyddu Friðrik mikla Prússakonung til að hætta umsátrinu um Prag og hörfa til Saxlands."
+    },
+    {
+      "ar": "1815",
+      "texti": "Napóleon beið ósigur í orrustunni við Waterloo í núverandi Belgíu. Þar lauk síðasta bardaga keisarans, þótt nafnið Waterloo hafi síðan lifað góðu lífi sem samheiti yfir rækilegt afhroð."
+    },
+    {
+      "ar": "1858",
+      "texti": "Charles Darwin fékk handrit frá náttúrufræðingnum Alfred Russel Wallace um náttúruval. Sendingin hvatti Darwin til að birta eigin þróunarkenningu — stundum þarf jafnvel stórhugmynd smá utanaðkomandi hnippingu."
+    },
+    {
+      "ar": "1940",
+      "texti": "Charles de Gaulle flutti hina frægu ávarpsræðu 18. júní og hvatti Frakka til áframhaldandi andspyrnu gegn Þjóðverjum. Ræðan er oft talin marka upphaf frönsku andspyrnuhreyfingarinnar."
+    },
+    {
+      "ar": "1983",
+      "texti": "Sally Ride fór út í geim með geimskutlunni Challenger og varð fyrsta bandaríska konan, og þriðja konan alls, til að ferðast út í geim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1000",
+      "texti": "Gissur hvíti Teitsson og Hjalti Skeggjason komu að landi í Vestmannaeyjum með kirkjuvið frá Ólafi Tryggvasyni. Þaðan héldu þeir til Alþingis á Þingvöllum til að boða kristni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1900",
+      "texti": "Íslendingar gátu í fyrsta sinn ferðast landleiðis milli staða með skipulögðum póstvögnum. Vagnarnir voru yfirbyggðir, fjórhjóla og dregnir af tveimur hestum, einkum um Suðurland.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1944",
+      "texti": "Hátíðahöld fóru fram í Reykjavík í tilefni af stofnun lýðveldisins daginn áður. Höfuðborgin var því enn í þjóðhátíðarskapi — og líklega ekki allir jafn sprækir eftir fögnuðinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2000",
+      "texti": "Vigdís Finnbogadóttir ræsti keppendur í Skippers d'Islande-siglingakeppninni í franska bænum Paimpol.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Barack Obama Sr.",
+      "starfsgrein": "kenískur hagfræðingur",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Alison Moyet",
+      "starfsgrein": "ensk söngkona og lagahöfundur",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Alex Hirsch",
+      "starfsgrein": "bandarískur teiknimyndahöfundur og sjónvarpsframleiðandi",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Alen Halilović",
+      "starfsgrein": "króatískur knattspyrnumaður",
+      "ar": "1996"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gísli Konráðsson",
+      "starfsgrein": "alþýðufræðimaður",
+      "ar": "1787"
+    },
+    {
+      "nafn": "Þorbergur Þorleifsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1890"
+    },
+    {
+      "nafn": "Helgi P. Briem",
+      "starfsgrein": "sendiherra",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hershöfðingi og keisari fann sitt sögulega Waterloo 18. júní 1815?",
+      "svor": [
+        "Napóleon",
+        "Friðrik mikli",
+        "Charles de Gaulle",
+        "Júlíus Caesar"
+      ],
+      "rett": 0,
+      "skyring": "Napóleon tapaði síðasta bardaga sínum við Waterloo árið 1815."
+    },
+    {
+      "spurning": "Hvað fluttu Gissur hvíti og Hjalti Skeggjason með sér til Vestmannaeyja árið 1000?",
+      "svor": [
+        "Kirkjuklukkur",
+        "Kirkjuvið",
+        "Handrit",
+        "Konungskórónu"
+      ],
+      "rett": 1,
+      "skyring": "Þeir komu með kirkjuvið frá Ólafi Tryggvasyni áður en haldið var til Alþingis."
+    },
+    {
+      "spurning": "Hvaða geimfari braut bandarískt glerþak um borð í Challenger árið 1983?",
+      "svor": [
+        "Amelia Earhart",
+        "Sally Ride",
+        "Alison Moyet",
+        "Vigdís Finnbogadóttir"
+      ],
+      "rett": 1,
+      "skyring": "Sally Ride varð fyrsta bandaríska konan í geimnum og sú þriðja í heiminum."
+    }
+  ],
+  "tonlistUSA": "Silly Love Songs – Wings (1976)",
+  "tonlistUK": "You're the One That I Want – John Travolta og Olivia Newton-John (1978)",
+  "bio": "The Lion King (1994)",
+  "ord_dagsins": {
+    "ord": "hólmganga",
+    "skyring": "Hólmganga var formlegt einvígi þar sem menn börðust samkvæmt ákveðnum reglum til að útkljá deilu."
+  },
+  "vissir_thu": "Sally Ride var ekki aðeins fyrsta bandaríska konan í geimnum heldur þriðja konan í sögu geimferða til að komast þangað.",
+  "stjornuspa": "Tvíburar, í dag berast þér fréttir hraðar en handrit Wallace barst Darwin, en lestu smáa letrið áður en þú boðar nýja heimsmynd. Kvöldið hentar vel í samræður, létt daður og hugmyndir sem virðast snilld þar til morgunkaffið mætir.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Prussian_infantry_advance_at_Leuthen.jpg/500px-Prussian_infantry_advance_at_Leuthen.jpg",
+    "ar": "1757",
+    "texti": "Austurríkismenn unnu sigur í orrustunni við Kolín og neyddu Friðrik mikla Prússakonung til að hætta umsátrinu um Prag og hörfa til Saxlands.",
+    "heimild": "https://en.wikipedia.org/wiki/Third_Silesian_War",
+    "breidd": 330,
+    "haed": 238
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

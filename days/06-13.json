@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-13",
+  "dagur": 13,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "02:59",
+  "sunset": "23:56",
+  "kvedja": "Góðan 13. júní, kæri lesandi! Í dag fylgjumst við með Lúther ganga í hjónaband, íslensku krónunni standa á eigin gengisfótum og Pioneer 10 kveðja nágrenni reikistjarnanna — býsna drjúgur dagur, jafnvel fyrir Tvíbura.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1525",
+      "texti": "Marteinn Lúther gekk að eiga Katharinu von Bora. Hjónaband þeirra varð mikilvægt fordæmi fyrir hjónavígslur presta innan mótmælendatrúar."
+    },
+    {
+      "ar": "1881",
+      "texti": "Norðurpólsleiðangri Jeannette lauk með ósköpum þegar skipið USS Jeannette, sem hafði setið fast í ís í nærri tvö ár, kramdist og sökk."
+    },
+    {
+      "ar": "1971",
+      "texti": "The New York Times birti fyrstu kaflana úr Pentagonskjölunum, leynilegri 7.000 blaðsíðna úttekt á afskiptum Bandaríkjanna af Víetnamstríðinu."
+    },
+    {
+      "ar": "1983",
+      "texti": "Geimfarið Pioneer 10 fór út fyrir sporbaug Neptúnusar og varð þar með fyrsti manngerði hluturinn til að yfirgefa nágrenni helstu reikistjarna sólkerfisins."
+    },
+    {
+      "ar": "2011",
+      "texti": "Jarðskjálfti af stærðinni 6,0 olli Christchurch á Nýja-Sjálandi enn meira tjóni, meðan borgin var enn að jafna sig eftir annan stóran skjálfta fjórum mánuðum fyrr."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1870",
+      "texti": "Gránufélagið var stofnað á Akureyri og varð áberandi afl í íslenskri verslun og atvinnusögu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1922",
+      "texti": "Tekin var upp sjálfstæð gengisskráning íslensku krónunnar, sem hafði fram að því fylgt dönsku krónunni.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1941",
+      "texti": "Sigurður Jónsson forstjóri bauð íslenska ríkinu Bessastaði sem bústað æðsta valdsmanns ríkisins. Boðinu var tekið fimm dögum síðar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1985",
+      "texti": "Alþingi samþykkti ný útvarpslög sem heimiluðu einkareknar sjónvarps- og útvarpsstöðvar á Íslandi; lögin tóku gildi í ársbyrjun 1986.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Taylor-Johnson",
+      "starfsgrein": "leikari",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Chris Evans",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Ashley Olsen",
+      "starfsgrein": "leikkona og fatahönnuður",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Ban Ki-moon",
+      "starfsgrein": "stjórnmálamaður og erindreki",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Basil Rathbone",
+      "starfsgrein": "leikari",
+      "ar": "1892"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjartmar Guðlaugsson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1952"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar brunaði út fyrir sporbaug Neptúnusar árið 1983?",
+      "svor": [
+        "Pioneer 10",
+        "Voyager 2",
+        "Apollo 11",
+        "Viking 1"
+      ],
+      "rett": 0,
+      "skyring": "Pioneer 10 ruddi brautina og kvaddi nágrenni helstu reikistjarnanna með stæl."
+    },
+    {
+      "spurning": "Í hvaða bæ var Gránufélagið stofnað árið 1870?",
+      "svor": [
+        "Ísafirði",
+        "Akureyri",
+        "Hafnarfirði",
+        "Seyðisfirði"
+      ],
+      "rett": 1,
+      "skyring": "Gránufélagið var stofnað á Akureyri, höfuðstað Norðurlands."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var áttundi aðalritari Sameinuðu þjóðanna?",
+      "svor": [
+        "Chris Evans",
+        "Basil Rathbone",
+        "Ban Ki-moon",
+        "Aaron Taylor-Johnson"
+      ],
+      "rett": 2,
+      "skyring": "Ban Ki-moon gegndi embætti aðalritara Sameinuðu þjóðanna."
+    }
+  ],
+  "tonlistUSA": "The Long and Winding Road – The Beatles (1970)",
+  "tonlistUK": "In the Summertime – Mungo Jerry (1970)",
+  "bio": "Raiders of the Lost Ark (1981)",
+  "ord_dagsins": {
+    "ord": "landshornaflakkari",
+    "skyring": "Landshornaflakkari er maður sem ferðast víða um land, gjarnan án fastrar búsetu."
+  },
+  "vissir_thu": "Pentagonskjölin voru um 7.000 blaðsíður og vörpuðu ljósi á pólitíska og hernaðarlega aðkomu Bandaríkjanna að Víetnamstríðinu.",
+  "stjornuspa": "Tvíburar, dagurinn kallar á tvö verkefni í einu, þrjú símtöl og að minnsta kosti eina hugmynd sem hefði sómt sér vel árið 1983. Stilltu þó ekki stefnuna út fyrir Neptúnus fyrr en þú hefur svarað tölvupóstinum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg/500px-Lucas_Cranach_d.%C3%84._-_Martin_Luther%2C_1528_%28Veste_Coburg%29.jpg",
+    "ar": "1525",
+    "texti": "Marteinn Lúther gekk að eiga Katharinu von Bora. Hjónaband þeirra varð mikilvægt fordæmi fyrir hjónavígslur presta innan mótmælendatrúar.",
+    "heimild": "https://en.wikipedia.org/wiki/Martin_Luther",
+    "breidd": 330,
+    "haed": 522
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

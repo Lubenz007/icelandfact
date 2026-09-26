@@ -1,0 +1,148 @@
+{
+  "mmdd": "06-10",
+  "dagur": 10,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:04",
+  "sunset": "23:50",
+  "kvedja": "Góðan 10. júní, kæri lesandi! Í dag sveiflumst við frá Býsans til Bjarnareyjar, með viðkomu hjá AA-samtökunum og gömlum fimmþúsundkalli — enda kann sagan vel að skipta um gír án þess að gefa stefnuljós.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1329",
+      "texti": "Í orrustunni við Pelekanon sigruðu Ottómanar þungvopnaðan her Býsansríkis. Þar fékk hið forna stórveldi enn eina óþægilega áminningu um að nýtt afl væri að rísa í austri."
+    },
+    {
+      "ar": "1692",
+      "texti": "Bridget Bishop varð fyrst til að vera tekin af lífi fyrir galdra í Salem-réttarhöldunum í Massachusetts. Réttarhöldin eru síðar orðin alræmt dæmi um múgæsingu og réttarkerfi sem missti áttavita sinn."
+    },
+    {
+      "ar": "1886",
+      "texti": "Eldfjallið Tarawera á Nýja-Sjálandi gaus, um 120 manns fórust og Waimangu-eldsprungudalurinn myndaðist. Náttúran tók þar fram verkfærin og endurteiknaði landslagið á einni nóttu."
+    },
+    {
+      "ar": "1935",
+      "texti": "Bandaríski læknirinn Bob Smith drakk síðasta áfengisdrykk sinn. Dagurinn er jafnan talinn marka stofnun Alcoholics Anonymous, AA-samtakanna."
+    },
+    {
+      "ar": "1987",
+      "texti": "Fjöldamótmæli brutust út í Suður-Kóreu þar sem krafist var beinna forsetakosninga. Þessi mikla lýðræðishreyfing átti eftir að knýja fram mikilvægar pólitískar umbætur."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1928",
+      "texti": "Togarinn Menja, sem hafði verið smíðaður í Hamborg árið 1920, sökk úti á Hala án þess að skýring fengist á slysinu. Atburðurinn varð síðar þekktur sem Menjuslysið.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1978",
+      "texti": "Herstöðvaandstæðingar efndu til Keflavíkurgöngu frá hliði herstöðvarinnar til Reykjavíkur. Þar fóru pólitísk barátta og góðir gönguskór saman hönd í hönd.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1986",
+      "texti": "Fimm þúsund króna seðill var settur í umferð með mynd af Ragnheiði Jónsdóttur, eiginkonu tveggja Hólabiskupa. Seðillinn var stór tíðindi, ekki síst fyrir veski sem loks gátu borið meiri verðmæti með færri blöðum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1993",
+      "texti": "Ferðamannahópur kom að Ófærufossi í Eldgjá og sá að hinn kunni steinbogi yfir fossinum var fallinn. Aðeins tveimur vikum fyrr hafði allt virst með felldu.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Burr",
+      "starfsgrein": "grínisti og leikari",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Bobby Jindal",
+      "starfsgrein": "blaðamaður og stjórnmálamaður",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Andrew Stevens",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1955"
+    },
+    {
+      "nafn": "André Derain",
+      "starfsgrein": "listmálari og myndhöggvari",
+      "ar": "1880"
+    },
+    {
+      "nafn": "Barry Morse",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1918"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hjalti Gestsson",
+      "starfsgrein": "búfræðingur",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Sigríður Jóhannesdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1943"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldgos endurteiknaði hluta Nýja-Sjálands árið 1886?",
+      "svor": [
+        "Tarawera",
+        "Hekla",
+        "Vesúvíus",
+        "Krakatau"
+      ],
+      "rett": 0,
+      "skyring": "Tarawera gaus af miklum krafti og myndaði meðal annars Waimangu-eldsprungudalinn."
+    },
+    {
+      "spurning": "Hver prýddi íslenska fimm þúsund króna seðilinn sem kom í umferð árið 1986?",
+      "svor": [
+        "Vigdís Finnbogadóttir",
+        "Ragnheiður Jónsdóttir",
+        "Bríet Bjarnhéðinsdóttir",
+        "Auður djúpúðga"
+      ],
+      "rett": 1,
+      "skyring": "Ragnheiður Jónsdóttir fékk þar veglegan sess í íslenskum veskjum."
+    },
+    {
+      "spurning": "Hvað kröfðust mótmælendur í Suður-Kóreu árið 1987?",
+      "svor": [
+        "Beinna forsetakosninga",
+        "Endurreisnar konungsveldis",
+        "Upptöku evrunnar",
+        "Afnáms allra sveitarfélaga"
+      ],
+      "rett": 0,
+      "skyring": "Krafan um beinar forsetakosningar varð lykilatriði í lýðræðisumbótum landsins."
+    }
+  ],
+  "tonlistUSA": "Silly Love Songs – Wings (1976)",
+  "tonlistUK": "You're the One That I Want – John Travolta og Olivia Newton-John (1978)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "áttaviti",
+    "skyring": "Áhald sem sýnir höfuðáttir með segulnál og kemur sér vel þegar bæði ferðalangar og réttarkerfi þurfa að rata."
+  },
+  "vissir_thu": "Bjarnarey, sem Willem Barents og Jacob van Heemskerk fundu árið 1596, dregur nafn sitt af ísbirni sem leiðangursmennirnir sáu þar.",
+  "stjornuspa": "Tvíburar, síminn gæti hringt eins og árið sé 1987 og einhver sé með stórtíðindi á línunni. Hlustaðu á báðar hliðar málsins — sem ætti að vera hægðarleikur fyrir stjörnumerki með tvöfalt sjónarhorn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Byzantine-Ottoman_Wars-1-withborders.PNG/500px-Byzantine-Ottoman_Wars-1-withborders.PNG",
+    "ar": "1329",
+    "texti": "Í orrustunni við Pelekanon sigruðu Ottómanar þungvopnaðan her Býsansríkis. Þar fékk hið forna stórveldi enn eina óþægilega áminningu um að nýtt afl væri að rísa í austri.",
+    "heimild": "https://en.wikipedia.org/wiki/Byzantine–Ottoman_wars",
+    "breidd": 330,
+    "haed": 241
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
