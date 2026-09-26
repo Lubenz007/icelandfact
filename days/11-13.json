@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-13",
+  "dagur": 13,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:48",
+  "sunset": "16:33",
+  "kvedja": "Komdu sæll, kæri lesandi, og velkominn í 13. nóvember þar sem konungar, jarðgöng og knattspyrnuvellir troða sér öll inn á sömu dagbókarsíðuna. Sagan minnir okkur líka á að framfarir og harmleikir ganga stundum hlið við hlið — svo við skulum lesa af hlýju, forvitni og hæfilega skökku brosi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1002",
+      "texti": "Aðalráður 2. Englandskonungur fyrirskipaði fjöldamorð á Dönum í Englandi. Dagurinn varð einn sá myrkasti í langri og stormasamri sögu samskipta Englendinga og norrænna manna."
+    },
+    {
+      "ar": "1642",
+      "texti": "Konungssinnar mættu mun fjölmennari þingher í orrustunni við Turnham Green skammt frá London. Þeir hörfuðu og tilraun þeirra til að ná höfuðborginni rann út í sandinn."
+    },
+    {
+      "ar": "1775",
+      "texti": "Í bandaríska frelsisstríðinu tóku bandarískar hersveitir Montreal nær mótspyrnulaust. Innrásin í Quebec átti þó ekki eftir að ganga öll jafn hnökralaust."
+    },
+    {
+      "ar": "1927",
+      "texti": "Holland-göngin voru opnuð undir Hudsonfljóti og tengdu Manhattan við Jersey City. Þar með gátu ökumenn farið undir fljótið í stað þess að bíða eftir ferju — stórsigur fyrir bæði verkfræði og óþolinmæði."
+    },
+    {
+      "ar": "2015",
+      "texti": "Samhæfðar hryðjuverkaárásir Íslamska ríkisins í París kostuðu 130 manns lífið og særðu 413. Harmleikurinn markaði djúp spor í Frakklandi og langt út fyrir landamæri þess."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1939",
+      "texti": "Þýska flutningaskipinu Parana var sökkt úti fyrir Patreksfirði og áhöfnin tekin til fanga af breska herskipinu Newcastle. Þetta var fyrsta þýska skipið sem sökkt var við Ísland í síðari heimsstyrjöldinni.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1946",
+      "texti": "Vestmannaeyjaflugvöllur var formlega tekinn í notkun og samgöngur Eyjamanna fengu þar með vængi í bókstaflegri merkingu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1973",
+      "texti": "Alþingi samþykkti formlega samning við Bretland um lausn landhelgisdeilunnar sem fylgdi útfærslu íslensku fiskveiðilögsögunnar í 50 sjómílur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2004",
+      "texti": "Lög voru sett á verkfall grunnskólakennara sem hafði þá staðið í tvo mánuði. Skólabjallan fékk þar með liðsauka frá löggjafarvaldinu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ágústínus frá Hippó",
+      "starfsgrein": "biskup, heimspekingur og guðfræðingur",
+      "ar": "354"
+    },
+    {
+      "nafn": "Játvarður 3.",
+      "starfsgrein": "Englandskonungur",
+      "ar": "1312"
+    },
+    {
+      "nafn": "Ayaan Hirsi Ali",
+      "starfsgrein": "rithöfundur og baráttukona",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Andrés Manuel López Obrador",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi forseti Mexíkó",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Emma Raducanu",
+      "starfsgrein": "tenniskona",
+      "ar": "2002"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eysteinn Jónsson",
+      "starfsgrein": "stjórnmálamaður og ráðherra",
+      "ar": "1906"
+    },
+    {
+      "nafn": "Árni Magnússon",
+      "starfsgrein": "fræðimaður og handritasafnari",
+      "ar": "1663"
+    },
+    {
+      "nafn": "Benedikt Gröndal eldri",
+      "starfsgrein": "lögmaður og landsyfirréttardómari",
+      "ar": "1762"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mannvirki var opnað undir Hudsonfljóti árið 1927?",
+      "svor": [
+        "Holland-göngin",
+        "Ermarsundsgöngin",
+        "Brooklyn-brúin",
+        "Panamaskurðurinn"
+      ],
+      "rett": 0,
+      "skyring": "Holland-göngin tengdu Manhattan og Jersey City án þess að nokkur þyrfti að blotna í Hudsonfljóti."
+    },
+    {
+      "spurning": "Hvar var íslenskur flugvöllur formlega tekinn í notkun 13. nóvember 1946?",
+      "svor": [
+        "Á Akureyri",
+        "Í Vestmannaeyjum",
+        "Á Ísafirði",
+        "Á Egilsstöðum"
+      ],
+      "rett": 1,
+      "skyring": "Vestmannaeyjaflugvöllur var tekinn formlega í notkun árið 1946."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var frægur íslenskur handritasafnari?",
+      "svor": [
+        "Eysteinn Jónsson",
+        "Játvarður 3.",
+        "Árni Magnússon",
+        "Benedikt Gröndal eldri"
+      ],
+      "rett": 2,
+      "skyring": "Árni Magnússon varðveitti handritaarf sem er okkur dýrmætari en vel merktur háaloftskassi."
+    }
+  ],
+  "tonlistUSA": "Up Where We Belong – Joe Cocker og Jennifer Warnes (1982)",
+  "tonlistUK": "I Don't Wanna Dance – Eddy Grant (1982)",
+  "bio": "Black Panther: Wakanda Forever (2022)",
+  "ord_dagsins": {
+    "ord": "þrasgjarn",
+    "skyring": "Sá sem er þrasgjarn er sífellt reiðubúinn að deila eða karpa um málin."
+  },
+  "vissir_thu": "Fantasía frá Walt Disney, sem var frumsýnd 13. nóvember 1940, var fyrsta kvikmyndin sem sýnd var í atvinnuskyni með víðómi.",
+  "stjornuspa": "Sporðdreki, gömul ráðgáta stingur aftur upp kollinum, en nú hefurðu bæði innsæi og ímyndaðan leðurjakka rannsóknarlögreglumannsins með þér. Forðastu konunglegt þras eftir hádegi og láttu frekar góða lagalistann ráða ferðinni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ethelred_the_Unready.jpg/500px-Ethelred_the_Unready.jpg",
+    "ar": "1002",
+    "texti": "Aðalráður 2. Englandskonungur fyrirskipaði fjöldamorð á Dönum í Englandi. Dagurinn varð einn sá myrkasti í langri og stormasamri sögu samskipta Englendinga og norrænna manna.",
+    "heimild": "https://en.wikipedia.org/wiki/Æthelred_the_Unready",
+    "breidd": 330,
+    "haed": 557
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

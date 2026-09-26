@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-12",
+  "dagur": 12,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:45",
+  "sunset": "16:36",
+  "kvedja": "Góðan 12. nóvember! Í dag lendum við á halastjörnu, rifjum upp hið makalausa stríð Ástrala við emúa og kveðjum síðustu íbúa Flateyjar á Skjálfanda. Sagan er nefnilega stundum stórbrotin, stundum tregafull og einstaka sinnum með fiður og herforingjahúfu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1892",
+      "texti": "William Heffelfinger fékk 500 dali fyrir að leika með Allegheny Athletic Association og varð þar með fyrsti atvinnumaðurinn í amerískum fótbolta. Um leið varð umslag með peningum óopinber hluti af leikskipulaginu."
+    },
+    {
+      "ar": "1912",
+      "texti": "Lík Roberts Falcons Scotts og félaga hans fundust á Ross-íshellunni á Suðurskautslandinu, átta mánuðum eftir að þeir fórust í hinum örlagaríka Terra Nova-leiðangri."
+    },
+    {
+      "ar": "1932",
+      "texti": "Ástralski herinn hóf að nýju hernað gegn emúum í Vestur-Ástralíu, að beiðni heimastjórnarinnar. Emúastríðið er sjaldgæft dæmi um að fuglar hafi valdið hernum verulegum heilabrotum."
+    },
+    {
+      "ar": "1970",
+      "texti": "Bhola-hvirfilbylurinn gekk á land í Austur-Pakistan, þar sem nú er Bangladess, og varð mannskæðasti hitabeltisstormur sögunnar. Að minnsta kosti 250.000 manns létust."
+    },
+    {
+      "ar": "2014",
+      "texti": "Lendingarfarið Philae frá Evrópsku geimferðastofnuninni settist á halastjörnuna 67P/Tjurjumov–Gerasímenkó. Þetta var í fyrsta sinn sem geimfar lenti á halastjörnu — heldur ósléttari lendingarstað en Keflavíkurflugvöllur."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1906",
+      "texti": "Ritstjórar sex helstu dagblaða Íslands settu fram Blaðamannaávarpið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1965",
+      "texti": "Hvassaleitisskóli í Reykjavík var settur í fyrsta sinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Flatey á Skjálfanda fór í eyði þegar síðustu tíu íbúarnir fluttu burt. Aðeins fáum árum fyrr höfðu um hundrað manns búið í eynni.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1994",
+      "texti": "Guðmundur Árni Stefánsson baðst lausnar sem félagsmálaráðherra og Rannveig Guðmundsdóttir tók við embættinu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anne Hathaway",
+      "starfsgrein": "leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Auguste Rodin",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1840"
+    },
+    {
+      "nafn": "Bahá'u'lláh",
+      "starfsgrein": "trúarleiðtogi og stofnandi bahá'í-trúarinnar",
+      "ar": "1817"
+    },
+    {
+      "nafn": "Booker T. Jones",
+      "starfsgrein": "tónlistarmaður, lagahöfundur og upptökustjóri",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Benni McCarthy",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1977"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andri Rúnar Bjarnason",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Elínborg Lárusdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1891"
+    },
+    {
+      "nafn": "Úlfur Gunnarsson",
+      "starfsgrein": "læknir",
+      "ar": "1919"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Á hvers konar himintungli lenti Philae árið 2014?",
+      "svor": [
+        "Halastjörnu",
+        "Tungli",
+        "Smástirni",
+        "Mars"
+      ],
+      "rett": 0,
+      "skyring": "Philae lenti á halastjörnunni 67P og skráði sig um leið í geimferðasöguna."
+    },
+    {
+      "spurning": "Hvaða óvenjulegi andstæðingur mætti ástralska hernum í stríði sem hófst að nýju árið 1932?",
+      "svor": [
+        "Kengúrur",
+        "Emúar",
+        "Krókódílar",
+        "Vombatar"
+      ],
+      "rett": 1,
+      "skyring": "Emúarnir reyndust furðu snúnir andstæðingar og létu engan stjórna gönguhraðanum."
+    },
+    {
+      "spurning": "Hvaða íslenska eyja fór í eyði árið 1967?",
+      "svor": [
+        "Hrísey",
+        "Grímsey",
+        "Flatey á Skjálfanda",
+        "Viðey"
+      ],
+      "rett": 2,
+      "skyring": "Síðustu tíu íbúar Flateyjar á Skjálfanda fluttu þaðan árið 1967."
+    }
+  ],
+  "tonlistUSA": "All Night Long (All Night) – Lionel Richie (1983)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fallegt séð inn um glugga en reynist mun ónotalegra þegar út er komið."
+  },
+  "vissir_thu": "Auguste Rodin skapaði Hugsuðinn, eina þekktustu höggmynd heims, en verkið var upphaflega hugsað sem hluti af stærra verki sem nefnt er Hlið helvítis.",
+  "stjornuspa": "Sporðdreki, segulmagn þitt er í dag svo sterkt að jafnvel áttaviti gæti farið hjá sér. Haltu leyndardómsfulla svipnum, en mundu að segja fólki hvað þú vilt í stað þess að ætlast til að það ráði rúnirnar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pudge_heffelfinger.jpg",
+    "ar": "1892",
+    "texti": "William Heffelfinger fékk 500 dali fyrir að leika með Allegheny Athletic Association og varð þar með fyrsti atvinnumaðurinn í amerískum fótbolta. Um leið varð umslag með peningum óopinber hluti af leikskipulaginu.",
+    "heimild": "https://en.wikipedia.org/wiki/Pudge_Heffelfinger",
+    "breidd": 233,
+    "haed": 318
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

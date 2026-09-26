@@ -1,0 +1,148 @@
+{
+  "mmdd": "11-01",
+  "dagur": 1,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:09",
+  "sunset": "17:11",
+  "kvedja": "Góðan 1. nóvember! Í dag göngum við með Karli Bushby, fylgjumst með kirkjuklukku rifna á Hólum og setjum grímu á markvörðinn áður en pökkurinn finnur aftur nefið á honum. Sagan kann sannarlega að hefja mánuð með látum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1141",
+      "texti": "Stefán Englandskonungur og Matthildur keisaraynja létu hvort um sig mikilvægan fanga lausan: Matthildur sleppti Stefáni en hann sleppti Róbert af Gloucester. Fangaskiptin leystu þó engan vanda og borgarastríðið, sem kallað er Stjórnleysið, hélt áfram."
+    },
+    {
+      "ar": "1824",
+      "texti": "Eingangsskipið Columbus kom til The Downs undan Englandi eftir Atlantshafssiglingu. Það var þá stærsta skip sem hafði farið yfir Atlantshafið — engin smásmíði þótt því væri aðeins ætlað eina ferð."
+    },
+    {
+      "ar": "1921",
+      "texti": "Frances Kyle hlaut málflutningsréttindi á Írlandi og varð þar með fyrsta konan til að starfa sem málflutningsmaður á Írlandi eða í Bretlandi."
+    },
+    {
+      "ar": "1959",
+      "texti": "Íshokkímarkvörðurinn Jacques Plante fékk pökk í andlitið en sneri aftur á ísinn með andlitsgrímu. Gríman varð síðar skyldubúnaður markvarða, enda er nefið óheppilegur varahlutur."
+    },
+    {
+      "ar": "1998",
+      "texti": "Karl Bushby lagði af stað frá Punta Arenas í Síle með það háleita markmið að ganga umhverfis heiminn og enda á Englandi. Ferðin stendur enn yfir og er því nokkuð lengri en venjulegur sunnudagsrúntur."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1710",
+      "texti": "Þegar hringt var til messu á Hólum rifnaði kirkjuklukkan „af engri orsök, svo menn vissu“, að sögn Mælifellsannáls. Sjaldan hefur messuboð endað með jafn dularfullum hvelli.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1845",
+      "texti": "Árni Thorlacius hóf samfelldar veðurathuganir í Stykkishólmi. Þar er elsta veðurathugunarstöð Íslands, svo Stykkishólmur hefur lengi haft tölur á reiðum höndum þegar rætt er um veðrið.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1952",
+      "texti": "Síðustu íbúarnir fluttu frá Hesteyri í Jökulfjörðum og lauk þar með fastri búsetu í þorpinu.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "2004",
+      "texti": "Eldgos hófst í Grímsvötnum um klukkan tíu að kvöldi. Jörðin ákvað sem sagt að hefja nóvember með eigin flugeldasýningu.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aishwarya Rai",
+      "starfsgrein": "indversk leikkona og fyrirsæta",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Anthony Kiedis",
+      "starfsgrein": "bandarískur söngvari og lagahöfundur",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Anthony Ramos",
+      "starfsgrein": "bandarískur leikari og söngvari",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Alex Wolff",
+      "starfsgrein": "bandarískur leikari og tónlistarmaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Alfred Wegener",
+      "starfsgrein": "þýskur veðurfræðingur og jarðeðlisfræðingur",
+      "ar": "1880"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Sigurbjörnsson",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Björn Jónsson",
+      "starfsgrein": "lyfsali í Nesi",
+      "ar": "1738"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íshokkímarkvörður lék með andlitsgrímu eftir að hafa fengið pökk í andlitið árið 1959?",
+      "svor": [
+        "Jacques Plante",
+        "Wayne Gretzky",
+        "Al Arbour",
+        "Bobby Orr"
+      ],
+      "rett": 0,
+      "skyring": "Jacques Plante sneri aftur með grímu og hjálpaði þannig til við að gera búnaðinn sjálfsagðan."
+    },
+    {
+      "spurning": "Hvar hófust samfelldar veðurathuganir árið 1845?",
+      "svor": [
+        "Á Hólum",
+        "Í Stykkishólmi",
+        "Á Hesteyri",
+        "Í Grímsvötnum"
+      ],
+      "rett": 1,
+      "skyring": "Árni Thorlacius hóf athuganirnar í Stykkishólmi, þar sem elsta veðurathugunarstöð landsins er."
+    },
+    {
+      "spurning": "Hvert lagði Karl Bushby upp frá árið 1998 í göngu sinni umhverfis heiminn?",
+      "svor": [
+        "Reykjavík",
+        "London",
+        "Punta Arenas",
+        "Sinope"
+      ],
+      "rett": 2,
+      "skyring": "Bushby lagði af stað frá Punta Arenas í Síle og stefndi á England eftir örlítið langan krók."
+    }
+  ],
+  "tonlistUSA": "True Colors – Cyndi Lauper (1986)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "The Terminator (1984)",
+  "ord_dagsins": {
+    "ord": "árdegi",
+    "skyring": "Árdegi er fyrri hluti dagsins, frá morgni fram að hádegi."
+  },
+  "vissir_thu": "Alfred Wegener setti fram kenninguna um meginlandsrek, löngu áður en vísindasamfélagið tók almennt að fallast á að meginlöndin hreyfðust.",
+  "stjornuspa": "Sporðdreki, gamalt leyndarmál gæti skotið upp kollinum eins og gleymd annálsgrein, en þú sérð strax hvað skiptir máli. Haltu pókersvipnum, treystu innsæinu og forðastu að rífast við kirkjuklukkur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empress_Matilda.png/330px-Empress_Matilda.png",
+    "ar": "1141",
+    "texti": "Stefán Englandskonungur og Matthildur keisaraynja létu hvort um sig mikilvægan fanga lausan: Matthildur sleppti Stefáni en hann sleppti Róbert af Gloucester. Fangaskiptin leystu þó engan vanda og borgarastríðið, sem kallað er Stjórnleysið, hélt áfram.",
+    "heimild": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "breidd": 330,
+    "haed": 524
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

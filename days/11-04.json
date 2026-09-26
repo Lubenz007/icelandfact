@@ -1,0 +1,132 @@
+{
+  "mmdd": "11-04",
+  "dagur": 4,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:19",
+  "sunset": "17:01",
+  "kvedja": "Góðan 4. nóvember! Í dag liggur leiðin frá grafhýsi Tútankhamons niður í fyrstu djúplest Lundúna og þaðan rakleiðis á forsetakjörstað — sagan kann sannarlega að skipta um sviðsmynd án þess að blikka. Helltu upp á eitthvað gott og komdu með; hér er nóg að grafa upp, jafnvel án haka og skóflu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1780",
+      "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestíska bænda gegn umbótum Búrbóna í spænska varakonungsdæminu Perú. Þetta varð eitt þekktasta andóf frumbyggja gegn nýlendustjórn á svæðinu."
+    },
+    {
+      "ar": "1890",
+      "texti": "City and South London Railway var formlega opnuð milli Lundúnaborgar og Stockwell. Hún var fyrsta djúplesta heims og teygði sig 5,1 kílómetra — stutt ferð sem markaði stórt spor neðanjarðar."
+    },
+    {
+      "ar": "1922",
+      "texti": "Leiðangur undir stjórn breska Egyptalandsfræðingsins Howards Carter fann grafhýsi Tútankhamons. Þar með opnaðist bókstaflega dyragætt að einni frægustu fornleifauppgötvun 20. aldar."
+    },
+    {
+      "ar": "1995",
+      "texti": "Yitzhak Rabin, forsætisráðherra Ísraels, var myrtur af hægriöfgamanninum Yigal Amir eftir friðarsamkomu á Konungatorgi Ísraels í Tel Aviv. Morðið varð þungt áfall fyrir friðarferlið í Mið-Austurlöndum."
+    },
+    {
+      "ar": "2008",
+      "texti": "Barack Obama var kjörinn forseti Bandaríkjanna, fyrstur manna af blönduðum eða afrísk-amerískum uppruna til að ná því embætti. Kosningakvöldið varð samstundis hluti af stjórnmálasögunni."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Achraf Hakimi",
+      "starfsgrein": "marokkóskur knattspyrnumaður",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Art Carney",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Anthony Ruivivar",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Alexz Johnson",
+      "starfsgrein": "kanadísk leikkona og söngvaskáld",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Alfonso II af Napólí",
+      "starfsgrein": "konungur Napólí",
+      "ar": "1448"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jóhannes úr Kötlum",
+      "starfsgrein": "skáld",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Gunnar Huseby",
+      "starfsgrein": "frjálsíþróttamaður og tvöfaldur Evrópumeistari í kúluvarpi",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Ottó N. Þorláksson",
+      "starfsgrein": "verkalýðsfrömuður og fyrsti forseti ASÍ",
+      "ar": "1871"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver stýrði teyminu sem fann grafhýsi Tútankhamons árið 1922?",
+      "svor": [
+        "Howard Carter",
+        "Art Carney",
+        "Alfred Lee Loomis",
+        "Barack Obama"
+      ],
+      "rett": 0,
+      "skyring": "Howard Carter leiddi leiðangurinn sem fann grafhýsið — fornleifafræðilegt lukkupottakast."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn varð tvöfaldur Evrópumeistari í kúluvarpi?",
+      "svor": [
+        "Jóhannes úr Kötlum",
+        "Gunnar Huseby",
+        "Ottó N. Þorláksson",
+        "Achraf Hakimi"
+      ],
+      "rett": 1,
+      "skyring": "Gunnar Huseby varð tvöfaldur Evrópumeistari og lét kúluna tala sínu máli."
+    },
+    {
+      "spurning": "Hvaða tímamót urðu í forsetakosningunum í Bandaríkjunum árið 2008?",
+      "svor": [
+        "Fyrsta konan var kjörin forseti",
+        "Fyrsti sitjandi forsetinn tapaði öllum ríkjum",
+        "Barack Obama varð fyrsti forsetinn af blönduðum eða afrísk-amerískum uppruna",
+        "Kosningunum var frestað um eitt ár"
+      ],
+      "rett": 2,
+      "skyring": "Barack Obama braut sögulegan múr með kjöri sínu árið 2008."
+    }
+  ],
+  "tonlistUSA": "It's Now or Never – Elvis Presley (1960)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "The Incredibles (2004)",
+  "ord_dagsins": {
+    "ord": "fornleif",
+    "skyring": "Fornleif er varðveitt ummerki um mannlíf frá fyrri tíð, til dæmis hlutur, mannvirki eða gröf."
+  },
+  "vissir_thu": "City and South London Railway, sem opnaði 4. nóvember 1890, var fyrsta djúplesta heims og er hluti af Northern-línu Lundúnaneðanjarðarlestarinnar í dag.",
+  "stjornuspa": "Sporðdreki, dragðu fram gamla vasadagatalið og treystu innsæinu; það veit meira en reiknivélin í skrifborðsskúffunni. Leyndarmál gæti komið í ljós, en sýndu meiri stillingu en fornleifafræðingur með nýfundna hurð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/TupacAmaruII.jpg",
+    "ar": "1780",
+    "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestíska bænda gegn umbótum Búrbóna í spænska varakonungsdæminu Perú. Þetta varð eitt þekktasta andóf frumbyggja gegn nýlendustjórn á svæðinu.",
+    "heimild": "https://en.wikipedia.org/wiki/Túpac_Amaru_II",
+    "breidd": 297,
+    "haed": 500
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

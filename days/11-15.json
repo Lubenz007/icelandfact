@@ -1,0 +1,137 @@
+{
+  "mmdd": "11-15",
+  "dagur": 15,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:54",
+  "sunset": "16:27",
+  "kvedja": "Komdu sæll, kæri lesandi! Þessi 15. nóvember teygir sig frá leðjukenndum vígvelli á Englandi til sjálfvirkrar geimferju Sovétmanna — og ABBA-stjarna fær að sjálfsögðu að slá rétta tóninn. Sagan kann nefnilega bæði að marséra, fljúga og taka dansspor.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "655",
+      "texti": "Oswiu af Norðymbralandi sigraði Penda af Mersíu og Æthelhere af Austur-Anglíu í orrustunni við Winwaed í Yorkshire. Engilsaxnesk konungsnöfn voru ekki beinlínis hönnuð með hraðlestur í huga."
+    },
+    {
+      "ar": "1859",
+      "texti": "Fyrsta nútímaendurvakning Ólympíuleikanna fór fram í Aþenu fyrir tilstilli gríska athafnamannsins Evangelos Zappas. Þar var kveikt á gömlum íþróttaanda áður en nútíma Ólympíuleikarnir tóku á sig kunnuglega mynd."
+    },
+    {
+      "ar": "1889",
+      "texti": "Pedro II Brasilíukeisara var steypt af stóli í valdaráni undir forystu Deodoro da Fonseca og Brasilía lýst lýðveldi. Krúnan vék, lýðveldið mætti til leiks og stjórnskipanin skipti um búning."
+    },
+    {
+      "ar": "1959",
+      "texti": "Tveir menn myrtu fjölskyldu í Holcomb í Kansas. Morðin urðu síðar efniviður bókar Truman Capote, In Cold Blood, sem telst brautryðjandaverk í frásögnum af sönnum sakamálum."
+    },
+    {
+      "ar": "1988",
+      "texti": "Sovéska geimfarið Buran, endurnýtanlegt far smíðað sem svar við geimferjuáætlun NASA, fór í loftið mannlaust. Þetta varð eina geimferð þess — glæsileg frumraun sem reyndist jafnframt lokasýningin."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1888",
+      "texti": "Í Reykjavík var 25 ára valdatíð Kristjáns IX fagnað með því að kveikja á kerti í nánast hverjum glugga. Höfuðstaðurinn hefur trúlega sjaldan verið jafn bókstaflega upplýstur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1919",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1948",
+      "texti": "Tilraunastöðin að Keldum hóf formlega starfsemi og varð mikilvæg miðstöð rannsókna á dýrasjúkdómum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1978",
+      "texti": "Farþegaþotan Leifur Eiríksson, flug Loftleiða LL 001, fórst í aðflugi að Colombo á Sri Lanka. Alls létust 197 manns í þessu mikla flugslysi.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anni-Frid Lyngstad",
+      "starfsgrein": "söngkona",
+      "ar": "1945"
+    },
+    {
+      "nafn": "B.o.B",
+      "starfsgrein": "rappari, lagahöfundur og upptökustjóri",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Asia Kate Dillon",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Aneurin Bevan",
+      "starfsgrein": "blaðamaður og stjórnmálamaður",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Bill Melendez",
+      "starfsgrein": "teiknari, raddleikari og leikstjóri",
+      "ar": "1916"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sovéska geimfar fór í sína einu geimferð 15. nóvember 1988?",
+      "svor": [
+        "Buran",
+        "Vostok 1",
+        "Sputnik 1",
+        "Soyuz 11"
+      ],
+      "rett": 0,
+      "skyring": "Buran flaug mannlaust og lét þessa einu ferð duga — stutt en geimlega glæsileg ferilskrá."
+    },
+    {
+      "spurning": "Hvaða ABBA-söngkona á afmæli í dag?",
+      "svor": [
+        "Agnetha Fältskog",
+        "Anni-Frid Lyngstad",
+        "Céline Dion",
+        "Olivia Newton-John"
+      ],
+      "rett": 1,
+      "skyring": "Anni-Frid Lyngstad fæddist 15. nóvember 1945 og varð síðar önnur tveggja söngkvenna ABBA."
+    },
+    {
+      "spurning": "Hvað gerðu Reykvíkingar til að fagna 25 ára valdatíð Kristjáns IX árið 1888?",
+      "svor": [
+        "Skutu upp flugeldum frá Öskjuhlíð",
+        "Reistu konungsstyttu á Austurvelli",
+        "Kveiktu á kerti í nánast hverjum glugga",
+        "Héldu kappróður á Tjörninni"
+      ],
+      "rett": 2,
+      "skyring": "Kertaljós lýstu upp nær hvern glugga og Reykjavík varð að sannkölluðum ljósabæ."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Space Oddity – David Bowie (1975)",
+  "bio": "Casino Royale (2006)",
+  "ord_dagsins": {
+    "ord": "krapplægð",
+    "skyring": "Krapplægð er djúp og kröpp loftþrýstilægð sem getur haft í för með sér snarpan vind og illviðri."
+  },
+  "vissir_thu": "Sovéska geimfarið Buran fór sína einu ferð án áhafnar og lenti sjálfvirkt að henni lokinni.",
+  "stjornuspa": "Sporðdreki, segulmagn þitt er sterkt í dag, svo sterkt að gamalt útvarp gæti farið að spila ABBA þegar þú gengur hjá. Haltu leyndardómsfulla svipnum, en mundu að jafnvel dularfullar sálir þurfa kaffi og kleinubita.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Penda_of_Mercia.jpg/500px-Penda_of_Mercia.jpg",
+    "ar": "655",
+    "texti": "Oswiu af Norðymbralandi sigraði Penda af Mersíu og Æthelhere af Austur-Anglíu í orrustunni við Winwaed í Yorkshire. Engilsaxnesk konungsnöfn voru ekki beinlínis hönnuð með hraðlestur í huga.",
+    "heimild": "https://en.wikipedia.org/wiki/Penda_of_Mercia",
+    "breidd": 330,
+    "haed": 599
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "11-09",
+  "dagur": 9,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:35",
+  "sunset": "16:45",
+  "kvedja": "Góðan dag, kæri lesandi! Níundi nóvember minnir okkur á að handvömm á blaðamannafundi getur fellt múr, en stundum þarf heilan stórmeistara til að fella kóng. Haltu því höfðinu köldu í dag — og peðunum í góðu skjóli.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1822",
+      "texti": "Bandaríska herskipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var greinilega ekki allt pálmatré og rólegheit."
+    },
+    {
+      "ar": "1913",
+      "texti": "Ofsaveður yfir Stóru vötnum Norður-Ameríku náði hámarki, grandaði 19 skipum og varð meira en 250 manns að bana. Veðurguðirnir tóku engum silkihönskum þann daginn."
+    },
+    {
+      "ar": "1938",
+      "texti": "Kristalsnóttin hófst í Þýskalandi og Austurríki þegar stormsveitir SA og almennir borgarar réðust á heimili, fyrirtæki og bænahús gyðinga. Að minnsta kosti 90 létust og 30.000 karlar voru fluttir í fangabúðir."
+    },
+    {
+      "ar": "1985",
+      "texti": "Garrí Kasparov sigraði Anatólí Karpov og varð, aðeins 22 ára, þá yngsti heimsmeistari skáksögunnar. Þar sannaðist að aldur er aukaatriði þegar maður sér nokkra leiki fram í tímann."
+    },
+    {
+      "ar": "1989",
+      "texti": "Austur-þýski embættismaðurinn Günter Schabowski tilkynnti fyrir mistök að landamærin yrðu opnuð þegar í stað. Um kvöldið streymdi fólk að Berlínarmúrnum og fall hans varð að veruleika."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1539",
+      "texti": "Háskólakennarar í Kaupmannahöfn veittu leyfi til prentunar á Nýjatestamentisþýðingu Odds Gottskálkssonar, mikilvægu skrefi í íslenskri bókmennta- og trúarsögu.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1932",
+      "texti": "Gúttóslagurinn braust út í Reykjavík þegar áheyrendur hleyptu upp bæjarstjórnarfundi vegna fyrirhugaðrar launalækkunar í atvinnubótavinnu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1985",
+      "texti": "Minnisvarði um skáldið Matthías Jochumsson var afhjúpaður á fæðingarstað hans á Skógum í Þorskafirði, 150 árum eftir fæðingu hans.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1986",
+      "texti": "Tveimur hvalbátum var sökkt í Reykjavíkurhöfn og samtökin Sea Shepherd lýstu ábyrgð á verknaðinum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alessandro Del Piero",
+      "starfsgrein": "ítalskur knattspyrnumaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Isabella of Valois",
+      "starfsgrein": "frönsk prinsessa og Englandsdrottning",
+      "ar": "1389"
+    },
+    {
+      "nafn": "Bob Gibson",
+      "starfsgrein": "bandarískur hafnaboltamaður og þjálfari",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Anne Sexton",
+      "starfsgrein": "bandarískt skáld",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Andreas Brehme",
+      "starfsgrein": "þýskur knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1960"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dóri Jónsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1901"
+    },
+    {
+      "nafn": "María Guðmundsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1935"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða klaufalega tilkynning reyndist sögulegt rothögg á Berlínarmúrinn?",
+      "svor": [
+        "Að landamærin yrðu opnuð þegar í stað",
+        "Að Austur-Þýskaland tæki upp dollar",
+        "Að múrinn yrði málaður blár",
+        "Að Berlín yrði gerð að fríhöfn"
+      ],
+      "rett": 0,
+      "skyring": "Günter Schabowski sagði fyrir mistök að nýju ferðareglurnar tækju þegar gildi."
+    },
+    {
+      "spurning": "Hversu gamall var Garrí Kasparov þegar hann varð heimsmeistari í skák árið 1985?",
+      "svor": [
+        "19 ára",
+        "22 ára",
+        "27 ára",
+        "31 árs"
+      ],
+      "rett": 1,
+      "skyring": "Kasparov var aðeins 22 ára — varla kominn á miðtaflið í lífinu."
+    },
+    {
+      "spurning": "Hvar á Íslandi átti Gúttóslagurinn sér stað árið 1932?",
+      "svor": [
+        "Á Akureyri",
+        "Á Ísafirði",
+        "Í Reykjavík",
+        "Á Seyðisfirði"
+      ],
+      "rett": 2,
+      "skyring": "Óeirðirnar brutust út við bæjarstjórnarfund í Góðtemplarahúsinu í Reykjavík."
+    }
+  ],
+  "tonlistUSA": "Macarena – Los del Río (1996)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "Skyfall (2012)",
+  "ord_dagsins": {
+    "ord": "handvömm",
+    "skyring": "Handvömm er mistök eða yfirsjón sem verður vegna óvarkárni."
+  },
+  "vissir_thu": "Garrí Kasparov var aðeins 22 ára þegar hann lagði Anatólí Karpov að velli og varð heimsmeistari í skák árið 1985.",
+  "stjornuspa": "Sporðdreki, segulbandstækið virðist vita leyndarmál þín, en láttu það ekki stöðva þig í að hringja mikilvægt símtal. Forðastu stórar axlapúðaákvarðanir eftir hádegi og treystu innsæinu frekar en neonljósunum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Alligator.jpg/500px-USS_Alligator.jpg",
+    "ar": "1822",
+    "texti": "Bandaríska herskipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var greinilega ekki allt pálmatré og rólegheit.",
+    "heimild": "https://en.wikipedia.org/wiki/USS_Alligator_(1820)",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

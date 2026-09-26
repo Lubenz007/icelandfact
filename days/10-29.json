@@ -1,0 +1,148 @@
+{
+  "mmdd": "10-29",
+  "dagur": 29,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:59",
+  "sunset": "17:21",
+  "kvedja": "Góðan dag, kæri sögufélagi! Þennan 29. október förum við úr óeirðum í Bristol niður undir Bospórus, með viðkomu hjá Galileo og Bob Ross — því sagan þarf bæði geimför og nokkur „hamingjusöm lítil tré“.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1792",
+      "texti": "William Robert Broughton, úr leiðangri George Vancouver, kom auga á fjallstind í Oregon og nefndi hann Mount Hood eftir breska flotaforingjanum Samuel Hood."
+    },
+    {
+      "ar": "1831",
+      "texti": "Óeirðir brutust út í Bristol eftir að annað frumvarpið um umbætur á breska þinginu náði ekki fram að ganga. Um 250 urðu fyrir meiðslum eða létust og eignatjón varð gríðarlegt."
+    },
+    {
+      "ar": "1956",
+      "texti": "Í kjölfar þjóðnýtingar Egypta á Súesskurðinum réðust Ísrael, Frakkland og Bretland inn á Sínaískaga. Þar með hófst Súessdeilan af fullum þunga — og heimsveldin komust að því að gömlu leikreglurnar voru að breytast."
+    },
+    {
+      "ar": "1991",
+      "texti": "Geimfarið Galileo varð fyrst allra geimfara til að heimsækja smástirni þegar það flaug fram hjá 951 Gaspra. Þetta var stutt heimsókn, en enginn kvartaði yfir kaffinu."
+    },
+    {
+      "ar": "2013",
+      "texti": "Fyrsti áfangi Marmaray-verkefnisins var opnaður, þar á meðal járnbrautargöng undir Bospórussundi. Með þeim tengdust Evrópa og Asía með lest undir sjó."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1919",
+      "texti": "Alþýðublaðið kom út í fyrsta sinn og Ólafur Friðriksson var fyrsti ritstjóri þess.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1922",
+      "texti": "Rekstur elliheimilis hófst í húsinu Grund við Kaplaskjólsveg í Reykjavík. Átta árum síðar fluttist starfsemin í nýtt hús sem hlaut nafnið Elliheimilið Grund.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1936",
+      "texti": "Raftækjaverksmiðjan Rafha var stofnuð á Íslandi og varð síðar landsmönnum einkar kunn fyrir heimilistæki sín.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2016",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bob Ross",
+      "starfsgrein": "listmálari og sjónvarpsmaður",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Dan Castellaneta",
+      "starfsgrein": "leikari og raddleikari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "A. J. Ayer",
+      "starfsgrein": "heimspekingur og rithöfundur",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Astrid S",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1996"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Flosi Ólafsson",
+      "starfsgrein": "leikari, leikstjóri og rithöfundur",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Einar Már Sigurðarson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Sigurður Einarsson í Holti",
+      "starfsgrein": "prestur, rithöfundur og skáld",
+      "ar": "1898"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar varð fyrst til að heimsækja smástirni?",
+      "svor": [
+        "Galileo",
+        "Voyager 1",
+        "Apollo 11",
+        "Hubble"
+      ],
+      "rett": 0,
+      "skyring": "Galileo flaug fram hjá smástirninu 951 Gaspra árið 1991."
+    },
+    {
+      "spurning": "Hvaða íslenska dagblað hóf göngu sína 29. október 1919?",
+      "svor": [
+        "Morgunblaðið",
+        "Vísir",
+        "Alþýðublaðið",
+        "Tíminn"
+      ],
+      "rett": 2,
+      "skyring": "Alþýðublaðið kom þá út í fyrsta sinn undir ritstjórn Ólafs Friðrikssonar."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er frægur fyrir róandi málverkaþætti og „hamingjusöm lítil tré“?",
+      "svor": [
+        "Dan Castellaneta",
+        "A. J. Ayer",
+        "Flosi Ólafsson",
+        "Bob Ross"
+      ],
+      "rett": 3,
+      "skyring": "Bob Ross breytti landslagsmálun í notalega sjónvarpsstund."
+    }
+  ],
+  "tonlistUSA": "Smooth – Santana ásamt Rob Thomas (1999)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "The Nightmare Before Christmas (1993)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Orðið merkir snemma dags eða fyrir hádegi."
+  },
+  "vissir_thu": "Marmaray-göngin liggja undir Bospórussundi og tengja þannig Evrópu- og Asíuhluta Istanbúl með járnbraut.",
+  "stjornuspa": "Sporðdrekinn finnur í dag leynilega leið í gegnum verkefnin, líkt og lest undir Bospórus. Varastu þó að stinga samstarfsfólkið með kaldhæðninni — eitt hamingjusamt lítið hrós kemur þér lengra.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Captain_William_Broughton_%281762-1821%29_RMG_BHC2576.tiff/lossy-page1-330px-Captain_William_Broughton_%281762-1821%29_RMG_BHC2576.tiff.jpg",
+    "ar": "1792",
+    "texti": "William Robert Broughton, úr leiðangri George Vancouver, kom auga á fjallstind í Oregon og nefndi hann Mount Hood eftir breska flotaforingjanum Samuel Hood.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Robert_Broughton",
+    "breidd": 330,
+    "haed": 400
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

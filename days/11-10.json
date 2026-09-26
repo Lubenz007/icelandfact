@@ -1,0 +1,148 @@
+{
+  "mmdd": "11-10",
+  "dagur": 10,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:38",
+  "sunset": "16:42",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 10. nóvember getum við ferðast frá krossförum við Adríahaf til brúðuleikhúss á Sesame Street og þaðan alla leið í íslenska járnbrautarlest — sem er býsna drjúg dagsferð. Spenntu því sögulega öryggisbeltið og hafðu glottið með í för.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1202",
+      "texti": "Umsátrið um Zara hófst í fjórðu krossferðinni, þegar kaþólskir krossfarar réðust í fyrsta sinn á kaþólska borg. Þar tók ferðin heldur betur óvænta og óþægilega stefnu."
+    },
+    {
+      "ar": "1599",
+      "texti": "Stuðningsmenn hins fallna Sigismundar 3. Vasa voru teknir af lífi opinberlega í Blóðbaðinu í Åbo, við lok sænskrar borgarastyrjaldar."
+    },
+    {
+      "ar": "1871",
+      "texti": "Blaðamaðurinn og landkönnuðurinn Henry Morton Stanley fann trúboðann og landkönnuðinn David Livingstone nærri Tanganjikavatni í því sem nú er Tansanía. Fundurinn varð einn sá frægasti í sögu landkönnunar."
+    },
+    {
+      "ar": "1969",
+      "texti": "Barnasjónvarpsþættirnir Sesame Street hófu göngu sína í Bandaríkjunum. Þar með hófst áratugalöng blanda af stafrófi, talnalærdómi og óvenju viðkunnanlegum brúðum."
+    },
+    {
+      "ar": "2020",
+      "texti": "Breska ríkisstjórnin tilkynnti að síðasta jarðsprengjan á Falklandseyjum hefði verið fjarlægð. Sprengjurnar höfðu verið lagðar af argentínskum hersveitum í Falklandseyjastríðinu 1982."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1913",
+      "texti": "Járnbrautarlest var í fyrsta sinn notuð til fólksflutninga á Íslandi, þegar verktakar fluttu blaðamenn og aðra farþega frá Reykjavíkurhöfn að Öskjuhlíð. Íslensk lestarsaga varð stutt, en þennan dag fékk hún að minnsta kosti farþega.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Þýski kafbáturinn U-300 sökkti íslenska farþegaskipinu Goðafossi og breska olíuskipinu Shirvan út af Garðskaga. Tuttugu og fjórir fórust með Goðafossi, átján með Shirvan og sextán með dráttarbátnum Empire Wold, sem fórst á leið til aðstoðar.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1967",
+      "texti": "Siglufjörður komst í heilsárssamband á landi þegar Strákagöng voru opnuð. Göngin voru 800 metra löng og þá þau lengstu á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2023",
+      "texti": "Grindavíkurbær var rýmdur eftir að stór kvikugangur myndaðist undir bænum. Íbúar þurftu að yfirgefa heimili sín með skömmum fyrirvara vegna þeirrar hættu sem fylgdi jarðhræringunum.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brittany Murphy",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Armand Duplantis",
+      "starfsgrein": "stangarstökkvari",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Ann Reinking",
+      "starfsgrein": "leikkona, dansari og danshöfundur",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Aleksandar Kolarov",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Andrei Tupolev",
+      "starfsgrein": "flugvélahönnuður og verkfræðingur",
+      "ar": "1888"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Pálsson",
+      "starfsgrein": "skólastjóri og rithöfundur",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Hallgrímur Hallgrímsson",
+      "starfsgrein": "byltingarmaður",
+      "ar": "1910"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sígilda barnasjónvarpsþáttur hóf göngu sína 10. nóvember 1969?",
+      "svor": [
+        "Sesame Street",
+        "Prúðuleikararnir",
+        "Teletubbies",
+        "Thomas og vinir hans"
+      ],
+      "rett": 0,
+      "skyring": "Sesame Street opnaði dyrnar að götunni árið 1969 og hefur kennt kynslóðum bókstafi, tölur og brúðusiði."
+    },
+    {
+      "spurning": "Hvar var járnbrautarlest fyrst notuð til fólksflutninga á Íslandi árið 1913?",
+      "svor": [
+        "Frá Akureyrarhöfn að Glerá",
+        "Frá Reykjavíkurhöfn að Öskjuhlíð",
+        "Frá Hafnarfirði að Vífilsstöðum",
+        "Frá Þingvöllum að Laugarvatni"
+      ],
+      "rett": 1,
+      "skyring": "Farþegarnir fengu óvenjulega lestarferð frá Reykjavíkurhöfn að Öskjuhlíð."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er heimsþekktur stangarstökkvari?",
+      "svor": [
+        "Andre De Grasse",
+        "Aleksandar Kolarov",
+        "Armand Duplantis",
+        "Brendon Hartley"
+      ],
+      "rett": 2,
+      "skyring": "Armand Duplantis hefur gert stangarstökk að listgrein þar sem þyngdaraflið fær reglulega frí."
+    }
+  ],
+  "tonlistUSA": "Caribbean Queen (No More Love on the Run) – Billy Ocean (1984)",
+  "tonlistUK": "I Feel for You – Chaka Khan (1984)",
+  "bio": "The Incredibles (2004)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist fallegt og notalegt séð innan frá, en reynist mun kaldara eða leiðinlegra þegar út er komið."
+  },
+  "vissir_thu": "Árásin á Zara árið 1202 var fyrsta árás kaþólskra krossfara á kaþólska borg í sögu krossferðanna.",
+  "stjornuspa": "Sporðdreki, gömul leyndarmál kunna að skríða fram úr skjalaskápnum í dag, en þú tekur á móti þeim eins og sannur rannsóknarblaðamaður með kaffibolla. Forðastu þó að segja „Dr. Livingstone, vænti ég?“ við ókunnuga — nema stemningin sé alveg sérstaklega söguleg.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/500px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg",
+    "ar": "1202",
+    "texti": "Umsátrið um Zara hófst í fjórðu krossferðinni, þegar kaþólskir krossfarar réðust í fyrsta sinn á kaþólska borg. Þar tók ferðin heldur betur óvænta og óþægilega stefnu.",
+    "heimild": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+    "breidd": 330,
+    "haed": 205
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

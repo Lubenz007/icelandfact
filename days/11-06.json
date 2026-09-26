@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-06",
+  "dagur": 6,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:25",
+  "sunset": "16:55",
+  "kvedja": "Góðan 6. nóvember! Í dag göngum við úr konungsskógum miðalda, um vígslu Dómkirkjunnar og alla leið inn í djúpan tón saxófónsins. Takið daginn með hlýju og örlitlu sagnfræðilegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1217",
+      "texti": "Hinrik 3. Englandskonungur gaf út Skógarsáttmálann, sem færði frjálsum mönnum aftur ýmis réttindi til að nýta konungsskóga. Skógurinn var sem sagt ekki lengur alfarið einkagarður krúnunnar."
+    },
+    {
+      "ar": "1868",
+      "texti": "Red Cloud, leiðtogi Oglala Lakota, undirritaði Fort Laramie-sáttmálann. Þar með lauk stríði hans og Stóra-Síoux-verndarsvæðið var stofnað."
+    },
+    {
+      "ar": "1939",
+      "texti": "Gestapo handtók 184 prófessora, stúdenta og starfsmenn Jagellónska háskólans í Kraká sem lið í atlögu nasista að pólsku mennta- og menningarlífi."
+    },
+    {
+      "ar": "1944",
+      "texti": "B-kjarnakljúfurinn í Hanford í Washingtonríki hóf framleiðslu á plútoni. Stöðin átti síðar eftir að framleiða efni fyrir stóran hluta bandaríska kjarnavopnabúrsins."
+    },
+    {
+      "ar": "2012",
+      "texti": "Tammy Baldwin varð fyrst opinberlega samkynhneigða manneskjan til að ná kjöri í öldungadeild Bandaríkjaþings."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1796",
+      "texti": "Dómkirkjan í Reykjavík var vígð og hefur síðan staðið við Austurvöll sem eitt helsta kennileiti miðborgarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1864",
+      "texti": "Bókasafn Akraness var stofnað, lestrarþyrstum Skagamönnum væntanlega til mikillar gleði.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1918",
+      "texti": "Talið var að þriðjungur Reykvíkinga hefði veikst af spænsku veikinni, sem lagðist af miklum þunga á bæinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2010",
+      "texti": "Þjóðfundur um stjórnarskrá Íslands hófst, þar sem almennir borgarar ræddu grunngildi og framtíðarsýn þjóðarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Karl 2. Spánarkonungur",
+      "starfsgrein": "konungur Spánar",
+      "ar": "1661"
+    },
+    {
+      "nafn": "Adolphe Sax",
+      "starfsgrein": "hljóðfærasmiður og uppfinningamaður",
+      "ar": "1814"
+    },
+    {
+      "nafn": "Charles Dow",
+      "starfsgrein": "blaðamaður og hagfræðingur",
+      "ar": "1851"
+    },
+    {
+      "nafn": "Karin Månsdotter",
+      "starfsgrein": "drottning Svíþjóðar",
+      "ar": "1550"
+    },
+    {
+      "nafn": "Ariel Henry",
+      "starfsgrein": "taugaskurðlæknir og stjórnmálamaður",
+      "ar": "1949"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Bollason",
+      "starfsgrein": "körfuknattleiksþjálfari",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Jón Stefánsson",
+      "starfsgrein": "fræðimaður",
+      "ar": "1862"
+    },
+    {
+      "nafn": "Þorkell Þorkelsson",
+      "starfsgrein": "eðlisfræðingur",
+      "ar": "1876"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljóðfæri tengist afmælisbarninu Adolphe Sax?",
+      "svor": [
+        "Saxófónn",
+        "Flygill",
+        "Selló",
+        "Munnharpa"
+      ],
+      "rett": 0,
+      "skyring": "Adolphe Sax fann upp saxófóninn og skildi eigið eftirnafn eftir í lúðrasveitum heimsins."
+    },
+    {
+      "spurning": "Hvaða bygging í Reykjavík var vígð 6. nóvember 1796?",
+      "svor": [
+        "Alþingishúsið",
+        "Dómkirkjan",
+        "Höfði",
+        "Þjóðleikhúsið"
+      ],
+      "rett": 1,
+      "skyring": "Dómkirkjan við Austurvöll var vígð þennan dag árið 1796."
+    },
+    {
+      "spurning": "Hver varð árið 2012 fyrst opinberlega samkynhneigðra stjórnmálamanna til að ná kjöri í öldungadeild Bandaríkjaþings?",
+      "svor": [
+        "Karin Månsdotter",
+        "Tammy Baldwin",
+        "Ariel Henry",
+        "Charles Dow"
+      ],
+      "rett": 1,
+      "skyring": "Tammy Baldwin braut þar mikilvægan múr í bandarískri stjórnmálasögu."
+    }
+  ],
+  "tonlistUSA": "Up Where We Belong – Joe Cocker og Jennifer Warnes (1982)",
+  "tonlistUK": "Space Oddity – David Bowie (1975)",
+  "bio": "The Terminator (1984)",
+  "ord_dagsins": {
+    "ord": "skógarnytjar",
+    "skyring": "Orðið merkir nýtingu þeirra gæða sem skógur veitir, til dæmis viðar, beitar eða berja."
+  },
+  "vissir_thu": "Saxófónninn dregur nafn sitt af uppfinningamanninum Adolphe Sax, sem fæddist 6. nóvember 1814.",
+  "stjornuspa": "Sporðdreki, segulkraftur þinn er sterkur í dag, svo beittu honum af meiri fágun en Gestapo og með betri tón en falskur saxófónn. Gamalt leyndarmál gæti komið upp úr skúffu, en þar gæti líka leynst gleymt súkkulaði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HenryIII.jpg/500px-HenryIII.jpg",
+    "ar": "1217",
+    "texti": "Hinrik 3. Englandskonungur gaf út Skógarsáttmálann, sem færði frjálsum mönnum aftur ýmis réttindi til að nýta konungsskóga. Skógurinn var sem sagt ekki lengur alfarið einkagarður krúnunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+    "breidd": 330,
+    "haed": 372
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

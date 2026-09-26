@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-14",
+  "dagur": 14,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:51",
+  "sunset": "16:30",
+  "kvedja": "Góðan og gleðilegan 14. nóvember! Í dag skjótumst við frá halastjörnu 17. aldar yfir á tunglið, með viðkomu hjá Surtsey, Astrid Lindgren og sjálfum hvíta hvalnum — enda kann sagan vel við langar krókaleiðir.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1680",
+      "texti": "Þýski stjörnufræðingurinn Gottfried Kirch uppgötvaði Halastjörnuna miklu árið 1680, fyrstu halastjörnuna sem fannst með sjónauka. Himinninn var þar með kominn í návígi við nýjustu tækni samtímans."
+    },
+    {
+      "ar": "1851",
+      "texti": "Bandaríska útgáfan af Moby-Dick eftir Herman Melville kom fyrst út. Hvalurinn var gríðarstór, bókin sömuleiðis og Akab skipstjóri ekki beinlínis þekktur fyrir að kunna að sleppa takinu."
+    },
+    {
+      "ar": "1960",
+      "texti": "Ruby Bridges og stúlkurnar þrjár sem kallaðar voru McDonogh Three urðu fyrstu svörtu börnin til að ganga í áður alhvíta grunnskóla í Louisiana. Þær tóku þar hugrökk skref í afnámi kynþáttaaðskilnaðar í skólum New Orleans."
+    },
+    {
+      "ar": "1969",
+      "texti": "Apollo 12 var skotið á loft frá Kennedy-geimstöðinni. Leiðangurinn varð síðar önnur mannaða geimferðin sem lenti á tunglinu — framhaldsmynd sem tókst býsna vel."
+    },
+    {
+      "ar": "2003",
+      "texti": "Stjörnufræðingarnir Michael E. Brown, Chad Trujillo og David L. Rabinowitz uppgötvuðu útstirnið Sednu handan Neptúnusar. Nafnið hæfir köldum og fjarlægum heimi einkar vel."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1894",
+      "texti": "Sjómannafélagið Báran var stofnað í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Fyrsta hitaveita Íslands var tekin í notkun í Reykjavík með 2.800 metra lögn frá þvottalaugunum í Laugardal. Um 70–80 hús tengdust, þar á meðal Sundhöllin og Landspítalinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1963",
+      "texti": "Surtseyjargossins varð vart um klukkan sjö að morgni. Ný eyja hóf þar með að rísa úr sjó suður af Íslandi, án þess svo mikið sem að sækja um byggingarleyfi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1985",
+      "texti": "Hólmfríður Karlsdóttir var kjörin Ungfrú heimur, 22 ára að aldri.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Astrid Lindgren",
+      "starfsgrein": "rithöfundur og handritshöfundur",
+      "ar": "1907"
+    },
+    {
+      "nafn": "Aaron Copland",
+      "starfsgrein": "tónskáld, hljómsveitarstjóri og kennari",
+      "ar": "1900"
+    },
+    {
+      "nafn": "Charles Lyell",
+      "starfsgrein": "jarðfræðingur",
+      "ar": "1797"
+    },
+    {
+      "nafn": "Andrew Strong",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Borna Ćorić",
+      "starfsgrein": "tennisleikari",
+      "ar": "1996"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Bjarnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Andri Ísaksson",
+      "starfsgrein": "prófessor í uppeldisfræði",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Þórður J. Thoroddsen",
+      "starfsgrein": "læknir",
+      "ar": "1856"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bók kom fyrst út í Bandaríkjunum 14. nóvember 1851?",
+      "svor": [
+        "Moby-Dick",
+        "Drakúla",
+        "Litlar konur",
+        "Oliver Twist"
+      ],
+      "rett": 0,
+      "skyring": "Moby-Dick sigldi á bandarískan bókamarkað þennan dag árið 1851."
+    },
+    {
+      "spurning": "Hvaða íslenska náttúrufyrirbæris varð fyrst vart að morgni 14. nóvember 1963?",
+      "svor": [
+        "Heklugossins",
+        "Surtseyjargossins",
+        "Kötlugossins",
+        "Eldfellsgossins"
+      ],
+      "rett": 1,
+      "skyring": "Surtseyjargosið hófst neðansjávar og ný eyja reis smám saman úr Atlantshafinu."
+    },
+    {
+      "spurning": "Hver afmælisbarna dagsins skapaði meðal annars Línu langsokk?",
+      "svor": [
+        "Aaron Copland",
+        "Charles Lyell",
+        "Astrid Lindgren",
+        "Andrew Strong"
+      ],
+      "rett": 2,
+      "skyring": "Astrid Lindgren gaf heimsbyggðinni Línu langsokk og fjölmargar aðrar ógleymanlegar persónur."
+    }
+  ],
+  "tonlistUSA": "Macarena – Los del Río (1996)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "The Incredibles (2004)",
+  "ord_dagsins": {
+    "ord": "blikur",
+    "skyring": "Blikur eru veðurmerki eða vísbendingar um það sem er í vændum, einkum þegar eitthvað óhagstætt nálgast."
+  },
+  "vissir_thu": "Apollo 12 var önnur mannaða geimferðin sem lenti á tunglinu, aðeins nokkrum mánuðum eftir sögulega lendingu Apollo 11.",
+  "stjornuspa": "Sporðdreki, í dag er leyndardómsfull útgeislun þín svo sterk að jafnvel Sedna handan Neptúnusar tekur eftir henni. Dragðu fram flauelsjakkann, treystu innsæinu og forðastu aðeins að eltast við hvíta hvali af fullmikilli ákefð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gottfried_Kirch.jpg/500px-Gottfried_Kirch.jpg",
+    "ar": "1680",
+    "texti": "Þýski stjörnufræðingurinn Gottfried Kirch uppgötvaði Halastjörnuna miklu árið 1680, fyrstu halastjörnuna sem fannst með sjónauka. Himinninn var þar með kominn í návígi við nýjustu tækni samtímans.",
+    "heimild": "https://en.wikipedia.org/wiki/Gottfried_Kirch",
+    "breidd": 330,
+    "haed": 515
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

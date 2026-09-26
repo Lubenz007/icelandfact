@@ -1,0 +1,132 @@
+{
+  "mmdd": "11-05",
+  "dagur": 5,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:22",
+  "sunset": "16:58",
+  "kvedja": "Góðan 5. nóvember, kæri lesandi! Í dag hittum við tveggja ára keisara, læsta svefnherbergishurð, púðurtunnur og geimfar á leið til Mars — sagan kann sannarlega að raða saman ólíklegustu borðfélögum. Haltu fast í kaffibollann; fortíðin er komin á kreik.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1138",
+      "texti": "Lý Anh Tông var settur í hásæti Đại Việt aðeins tveggja ára gamall. Ríkisstjórn hans entist í 37 ár, þótt fyrstu stjórnmálafundirnir hafi væntanlega rekist á hvíldartímann."
+    },
+    {
+      "ar": "1605",
+      "texti": "Guy Fawkes fannst við leit í Westminsterhöll og var handtekinn, enda hluti af Púðursamsærinu sem ætlaði að sprengja lávarðadeild breska þingsins í loft upp."
+    },
+    {
+      "ar": "1854",
+      "texti": "Í Krímstríðinu sigruðu breskar og franskar hersveitir Rússa í orrustunni við Inkerman í núverandi Úkraínu, þrátt fyrir liðsmun og þunga þoku."
+    },
+    {
+      "ar": "1943",
+      "texti": "Óþekkt flugvél varpaði fjórum sprengjum á Vatíkanið, sem hafði lýst yfir hlutleysi í síðari heimsstyrjöldinni. Enn er óvíst hver bar ábyrgð á árásinni."
+    },
+    {
+      "ar": "2013",
+      "texti": "Indverska geimrannsóknastofnunin skaut Mars Orbiter Mission á loft, fyrsta geimfari Indlands sem ætlað var út fyrir nágrenni jarðar."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Art Garfunkel",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Alexa Chung",
+      "starfsgrein": "fyrirsæta og sjónvarpskona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Abedi Pele",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Armin Shimerman",
+      "starfsgrein": "leikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Charles MacArthur",
+      "starfsgrein": "leikskáld og handritshöfundur",
+      "ar": "1895"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arreboe Clausen",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1892"
+    },
+    {
+      "nafn": "Þorgerður Ingólfsdóttir",
+      "starfsgrein": "kórstjóri",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Hlynur Sigtryggsson",
+      "starfsgrein": "veðurfræðingur",
+      "ar": "1921"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar fannst Guy Fawkes þegar Púðursamsærið fór í púður?",
+      "svor": [
+        "Í Buckinghamhöll",
+        "Í Westminsterhöll",
+        "Í Lundúnaturni",
+        "Í Windsor-kastala"
+      ],
+      "rett": 1,
+      "skyring": "Guy Fawkes fannst í Westminsterhöll og samsærið rann þar með út í sandinn."
+    },
+    {
+      "spurning": "Hvaða land skaut Mars Orbiter Mission á loft árið 2013?",
+      "svor": [
+        "Indland",
+        "Japan",
+        "Kína",
+        "Brasilía"
+      ],
+      "rett": 0,
+      "skyring": "Indland sendi geimfarið af stað í sitt fyrsta ferðalag milli reikistjarna."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er þekktur sem knattspyrnumaður frá Gana?",
+      "svor": [
+        "Art Garfunkel",
+        "Armin Shimerman",
+        "Abedi Pele",
+        "Charles MacArthur"
+      ],
+      "rett": 2,
+      "skyring": "Abedi Pele er knattspyrnukappi dagsins; hinir hefðu líklega átt erfiðara með að halda miðjunni."
+    }
+  ],
+  "tonlistUSA": "Islands in the Stream – Kenny Rogers og Dolly Parton (1983)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dag eða stutt tímabil og lifir meðal annars í orðinu dægurmenning."
+  },
+  "vissir_thu": "Mars Orbiter Mission er einnig þekkt undir heitinu Mangalyaan og fór á braut um Mars árið 2014.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamla ráðgátu sem krefst rannsóknar, helst með stækkunargleri og hæfilega dramatískri tónlist. Varastu þó að gera Púðursamsæri úr óuppvaskaðri kaffikönnu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg/330px-The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg",
+    "ar": "1605",
+    "texti": "Guy Fawkes fannst við leit í Westminsterhöll og var handtekinn, enda hluti af Púðursamsærinu sem ætlaði að sprengja lávarðadeild breska þingsins í loft upp.",
+    "heimild": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+    "breidd": 330,
+    "haed": 465
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

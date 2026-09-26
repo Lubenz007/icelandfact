@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-02",
+  "dagur": 2,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:12",
+  "sunset": "17:08",
+  "kvedja": "Góðan og söguríkan 2. nóvember! Í dag fljúgum við frá hirðflækjum Tangveldisins upp í Alþjóðlegu geimstöðina, með viðkomu í einu óvenjulegasta stríði Ástrala — þar sem emúar reyndust hreint ekki auðsigraðir. Festið beltin; samkvæmt íslenskum umferðarlögum frá 1914 megum við þó ekki fara hraðar en 15 kílómetra á klukkustund innanbæjar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "619",
+      "texti": "Gaozu, keisari Tangveldisins, heimilaði austurtyrkneskum keppinautum að ráða kagani Vestur-Tyrkja af dögum. Atburðurinn var meðal þeirra fyrstu í herferðum Tangveldisins gegn Vestur-Tyrkjum."
+    },
+    {
+      "ar": "1917",
+      "texti": "Breska ríkisstjórnin gaf út Balfour-yfirlýsinguna og lýsti stuðningi við þjóðarheimili gyðinga í Palestínu, sem þá var hérað innan Tyrkjaveldis."
+    },
+    {
+      "ar": "1932",
+      "texti": "Ástralski herinn hóf hið svokallaða emústríð gegn stórum hópum ófleygra fugla sem ollu uppskerutjóni í Vestur-Ástralíu. Fuglar hafa sjaldan fengið jafn hernaðarlega móttöku."
+    },
+    {
+      "ar": "1949",
+      "texti": "Hringborðsráðstefnu Hollendinga og Indónesa lauk með samþykki Hollands fyrir því að fullveldi Hollensku Austur-Indía yrði fært til Bandaríkja Indónesíu."
+    },
+    {
+      "ar": "2000",
+      "texti": "William Shepherd, Sergei Krikalev og Yuri Gidzenko komu til Alþjóðlegu geimstöðvarinnar sem fyrsta fastaáhöfn hennar. Þar með varð sporbrautin formlega að heimilisfangi — þótt póstburðurinn væri áfram dálítið stirður."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1906",
+      "texti": "Fyrsta kvikmyndahús Íslands hóf starfsemi í Fjalakettinum við Aðalstræti í Reykjavík undir nafninu Reykjavíkur Biograftheater og varð síðar Gamla bíó.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1912",
+      "texti": "Skátafélag Reykjavíkur var stofnað í Fjósinu, bakhúsi Menntaskólans í Reykjavík. Nafnið á fundarstaðnum var látlaust, en markmiðin öllu ævintýralegri.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1914",
+      "texti": "Lög um notkun bifreiða tóku gildi: ökumenn þurftu að vera orðnir 21 árs og hámarkshraðinn var 15 km/klst í þéttbýli en 35 km/klst utan þess.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1946",
+      "texti": "Íslendingar tóku við yfirstjórn flugumferðar yfir Norður-Atlantshafi, frá Hjaltlandseyjum til Grænlands og norður að norðurpólnum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aga Khan III",
+      "starfsgrein": "trúarleiðtogi og 48. imam sjía-múslima",
+      "ar": "1877"
+    },
+    {
+      "nafn": "Amar Bose",
+      "starfsgrein": "verkfræðingur og stofnandi Bose Corporation",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Alan Jones",
+      "starfsgrein": "kappakstursökumaður og íþróttalýsandi",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Brian Kemp",
+      "starfsgrein": "bandarískur stjórnmálamaður",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Moisés Caicedo",
+      "starfsgrein": "ekvadorskur knattspyrnumaður",
+      "ar": "2001"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bergur Ebbi Benediktsson",
+      "starfsgrein": "rithöfundur og fyrirlesari",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Ásgeir Blöndal Magnússon",
+      "starfsgrein": "málfræðingur og orðabókarhöfundur",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Lúðvík Þorgeirsson",
+      "starfsgrein": "kaupmaður og formaður Knattspyrnufélagsins Fram",
+      "ar": "1910"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða andstæðingi lýsti ástralski herinn stríð á hendur árið 1932?",
+      "svor": [
+        "Emúum",
+        "Kengúrum",
+        "Kanínum",
+        "Kakadúum"
+      ],
+      "rett": 0,
+      "skyring": "Emúarnir höfðu valdið uppskerutjóni, en reyndust óvenju þrjóskir hernaðarandstæðingar."
+    },
+    {
+      "spurning": "Hver var hámarkshraðinn í íslensku þéttbýli samkvæmt bifreiðalögunum sem tóku gildi 1914?",
+      "svor": [
+        "10 km/klst",
+        "15 km/klst",
+        "25 km/klst",
+        "35 km/klst"
+      ],
+      "rett": 1,
+      "skyring": "Hámarkið var 15 km/klst, svo röskur hjólreiðamaður gat næstum haldið í við umferðina."
+    },
+    {
+      "spurning": "Hvaða fyrirtæki stofnaði verkfræðingurinn Amar Bose?",
+      "svor": [
+        "Sony",
+        "Philips",
+        "Bose Corporation",
+        "Panasonic"
+      ],
+      "rett": 2,
+      "skyring": "Amar Bose stofnaði Bose Corporation, fyrirtæki sem varð heimsþekkt fyrir hljómbúnað."
+    }
+  ],
+  "tonlistUSA": "Macarena – Los del Río (1996)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "Skrímsli hf. (2001)",
+  "ord_dagsins": {
+    "ord": "hnattferð",
+    "skyring": "Hnattferð er ferð umhverfis jörðina eða langferð sem liggur víða um heim."
+  },
+  "vissir_thu": "Lewis Hamilton varð heimsmeistari í Formúlu 1 árið 2008 með aðeins eins stigs mun eftir að hafa komist fram úr Timo Glock í síðustu beygjum brasilíska kappakstursins.",
+  "stjornuspa": "Sporðdreki, gömul ráðgáta stingur upp kollinum, en þú leysir hana með blöndu af innsæi og þrákelkni sem hefði gert rannsóknarlögreglumann á áttunda áratugnum stoltan. Forðastu þó að hefja emústríð á heimilinu — sérstaklega fyrir fyrsta kaffibolla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/TangGaozu.jpg/500px-TangGaozu.jpg",
+    "ar": "619",
+    "texti": "Gaozu, keisari Tangveldisins, heimilaði austurtyrkneskum keppinautum að ráða kagani Vestur-Tyrkja af dögum. Atburðurinn var meðal þeirra fyrstu í herferðum Tangveldisins gegn Vestur-Tyrkjum.",
+    "heimild": "https://en.wikipedia.org/wiki/Emperor_Gaozu_of_Tang",
+    "breidd": 330,
+    "haed": 679
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-11",
+  "dagur": 11,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:41",
+  "sunset": "16:39",
+  "kvedja": "Góðan 11. nóvember! Dagurinn ber með sér bæði vopnahlé, konunglegar umbætur og íslenska seiglu — og minnir okkur á að sagan kann bæði að hvísla og skella hurðum. Sporðdrekinn má því halda ró sinni, en hafa broddinn til taks.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1778",
+      "texti": "Í bandaríska frelsisstríðinu réðust breskar hersveitir og bandamenn þeirra úr röðum Írókesa á virki og þorpið Cherry Valley í New York. Fjórtán hermenn og þrjátíu óbreyttir borgarar féllu."
+    },
+    {
+      "ar": "1813",
+      "texti": "Breskar og kanadískar hersveitir hrundu bandarískri árás í orrustunni við Crysler's Farm. Þar með varð tilraun Bandaríkjamanna til að ná Montreal að engu."
+    },
+    {
+      "ar": "1918",
+      "texti": "Vopnahlé milli Þýskalands og bandamanna var undirritað í járnbrautarvagni í Compiègne-skógi í Frakklandi. Þar með lauk bardögum fyrri heimsstyrjaldarinnar — loksins þagnaði stórskotaliðið."
+    },
+    {
+      "ar": "1940",
+      "texti": "Breski flotinn gerði árás á ítalska flotann við Taranto, fyrstu sjóorrustu sögunnar þar sem flugvélar einar voru notaðar til árásar milli flota. Flugmóðurskipið var þar með orðið ógnvænlegur leikmaður á taflborði hafsins."
+    },
+    {
+      "ar": "1999",
+      "texti": "Bresku lávarðadeildarlögin hlutu konunglegt samþykki og sviptu flesta erfðalávarða sjálfkrafa sæti í lávarðadeildinni. Ættartalan ein dugði því ekki lengur sem aðgöngumiði."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1846",
+      "texti": "Bein Reynistaðarbræðra, sem hurfu á Kili árið 1780 og fundust sumarið 1846, voru jarðsett að Reynistað.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1918",
+      "texti": "Lokum fyrri heimsstyrjaldarinnar var fagnað víða, en í Reykjavík blöktu fánar í hálfa stöng vegna spænsku veikinnar. Gleði heimsins og sorg bæjarins mættust á sama degi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1943",
+      "texti": "Leigubílastöðin Hreyfill var stofnuð í Reykjavík og hefur síðan komið ótal farþegum á leiðarenda — stundum með sögur í aftursætinu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2023",
+      "texti": "Grindavík var rýmd vegna yfirvofandi eldgoss eftir að öflug jarðskjálftahrina hafði valdið talsverðum skemmdum á byggingum.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Calista Flockhart",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Adam Beach",
+      "starfsgrein": "kanadískur leikari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Alison Doody",
+      "starfsgrein": "írsk leikkona og fyrirsæta",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Adam Rippon",
+      "starfsgrein": "bandarískur listskautamaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Andy Partridge",
+      "starfsgrein": "enskur tónlistarmaður og lagahöfundur",
+      "ar": "1953"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birkir Már Sævarsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Matthías Jochumsson",
+      "starfsgrein": "prestur og skáld",
+      "ar": "1835"
+    },
+    {
+      "nafn": "Gísli Þorláksson",
+      "starfsgrein": "Hólabiskup",
+      "ar": "1631"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar var vopnahléið árið 1918 undirritað?",
+      "svor": [
+        "Í járnbrautarvagni",
+        "Í konungshöll",
+        "Um borð í herskipi",
+        "Í ráðhúsi Berlínar"
+      ],
+      "rett": 0,
+      "skyring": "Samningurinn var undirritaður í járnbrautarvagni í Compiègne-skógi — óvenjuleg skrifstofa fyrir stóran dag."
+    },
+    {
+      "spurning": "Hvaða bær var rýmdur 11. nóvember 2023 vegna hættu á eldgosi?",
+      "svor": [
+        "Húsavík",
+        "Grindavík",
+        "Stykkishólmur",
+        "Höfn"
+      ],
+      "rett": 1,
+      "skyring": "Grindavík var rýmd eftir mikla jarðskjálftahrinu á Reykjanesi."
+    },
+    {
+      "spurning": "Hver afmælisbarnanna er íslenskur knattspyrnumaður?",
+      "svor": [
+        "Adam Beach",
+        "Andy Partridge",
+        "Birkir Már Sævarsson",
+        "Adam Rippon"
+      ],
+      "rett": 2,
+      "skyring": "Birkir Már Sævarsson er knattspyrnumaðurinn í hópnum; hinir hafa elt annars konar bolta, tóna eða sviðsljós."
+    }
+  ],
+  "tonlistUSA": "When I See You Smile – Bad English (1989)",
+  "tonlistUK": "All Around the World – Lisa Stansfield (1989)",
+  "bio": "Black Panther: Wakanda Forever (2022)",
+  "ord_dagsins": {
+    "ord": "dagmál",
+    "skyring": "Dagmál er gamalt íslenskt heiti á tíma dags, um það bil klukkan níu að morgni."
+  },
+  "vissir_thu": "Vopnahlé fyrri heimsstyrjaldarinnar tók gildi klukkan ellefu að morgni 11. dags 11. mánaðar árið 1918.",
+  "stjornuspa": "Sporðdreki, gamalt leyndarmál gæti skotið upp kollinum eins og gleymt skjal úr skjalasafni — lestu smáa letrið áður en þú bregst við. Í ást og fjármálum borgar sig að beita diplómatíu frekar en broddinum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1778",
+    "texti": "Í bandaríska frelsisstríðinu réðust breskar hersveitir og bandamenn þeirra úr röðum Írókesa á virki og þorpið Cherry Valley í New York. Fjórtán hermenn og þrjátíu óbreyttir borgarar féllu.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

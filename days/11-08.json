@@ -1,0 +1,143 @@
+{
+  "mmdd": "11-08",
+  "dagur": 8,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:32",
+  "sunset": "16:49",
+  "kvedja": "Komdu sæll, kæri lesandi, á þessum söguríka nóvemberdegi. Í dag flökkum við frá glerofnum Murano til emústríðs í Ástralíu og endum undir stjörnum Halleys — sagan kann svo sannarlega að fara ótroðnar slóðir.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "960",
+      "texti": "Býsanski herforinginn Leó Fókas yngri lagði Hamdanída í fyrirsát og gjöreyddi her þeirra í átökum Býsansríkis og araba. Þar reyndist gamla ráðið um að líta vel í kringum sig áður en haldið er af stað býsna gagnlegt."
+    },
+    {
+      "ar": "1291",
+      "texti": "Lög voru sett í Feneyjum sem bundu mestan hluta glergerðar borgarinnar við eyjuna Murano. Þar með varð eyjan að miðstöð glerlistar sem hún er enn fræg fyrir."
+    },
+    {
+      "ar": "1644",
+      "texti": "Shunzhi-keisarinn var settur í hásæti í Beijing eftir fall Ming-ættarinnar. Hann varð fyrsti keisari Qing-ættarinnar til að ríkja yfir Kína."
+    },
+    {
+      "ar": "1932",
+      "texti": "Ástralski herinn dró sig út úr hinu svokallaða emústríði í Vestur-Ástralíu eftir óhagstæða fjölmiðlaumfjöllun. Emúarnir fengu enga orðu, en hafa æ síðan notið óformlegs sigurvegaraorðspors."
+    },
+    {
+      "ar": "2013",
+      "texti": "Fellibylurinn Haiyan gekk á land á Visayas-eyjum Filippseyja og varð að minnsta kosti 6.300 manns að bana. Hann varð mannskæðasti fellibylur sem skráður hefur verið á Filippseyjum í nútímasögu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1879",
+      "texti": "Hið íslenska fornleifafélag var stofnað til að sinna rannsóknum og varðveislu íslenskra fornminja.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1949",
+      "texti": "Fyrstu umferðarljós Íslands voru tekin í notkun á fjórum gatnamótum í miðbæ Reykjavíkur. Borgarbúar þurftu þar með að venjast því að rauður litur gæti stöðvað för þeirra.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1978",
+      "texti": "Friðrik Ólafsson var kjörinn forseti Alþjóða skáksambandsins FIDE og gegndi embættinu næstu fjögur ár.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1983",
+      "texti": "Þyrla Landhelgisgæslunnar, TF-Rán, fórst í Jökulfjörðum og með henni fjórir menn.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alain Delon",
+      "starfsgrein": "fransk-svissneskur leikari og kvikmyndaframleiðandi",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Alfre Woodard",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Bonnie Raitt",
+      "starfsgrein": "bandarísk söngkona, lagahöfundur og gítarleikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Bram Stoker",
+      "starfsgrein": "írskur rithöfundur",
+      "ar": "1847"
+    },
+    {
+      "nafn": "Edmond Halley",
+      "starfsgrein": "enskur stjörnufræðingur og stærðfræðingur",
+      "ar": "1656"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Karl Ísfeld",
+      "starfsgrein": "blaðamaður, rithöfundur og þýðandi",
+      "ar": "1906"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fuglar þóttu hafa betur gegn ástralska hernum árið 1932?",
+      "svor": [
+        "Emúar",
+        "Strútar",
+        "Mörgæsir",
+        "Pelíkanar"
+      ],
+      "rett": 0,
+      "skyring": "Ástralski herinn dró sig úr emústríðinu, en emúarnir héldu sínu striki."
+    },
+    {
+      "spurning": "Hver var kjörinn forseti Alþjóða skáksambandsins FIDE árið 1978?",
+      "svor": [
+        "Bobby Fischer",
+        "Friðrik Ólafsson",
+        "Jón L. Árnason",
+        "Bent Larsen"
+      ],
+      "rett": 1,
+      "skyring": "Friðrik Ólafsson stýrði FIDE í fjögur ár og færði Ísland rækilega inn á alþjóðlegt skákborð."
+    },
+    {
+      "spurning": "Hvaða rithöfundur, fæddur 8. nóvember, skapaði Drakúla greifa?",
+      "svor": [
+        "Edgar Allan Poe",
+        "Oscar Wilde",
+        "Bram Stoker",
+        "Arthur Conan Doyle"
+      ],
+      "rett": 2,
+      "skyring": "Írinn Bram Stoker skapaði Drakúla, sem hefur verið óvenju sprækur í menningunni miðað við aldur."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Woman in Love – Barbra Streisand (1980)",
+  "bio": "Thor: Ragnarok (2017)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist indælt innan frá en reynist mun verra þegar út er komið."
+  },
+  "vissir_thu": "Halastjarnan sem kennd er við Edmond Halley var ekki uppgötvuð af honum; hann reiknaði út að halastjörnur sem áður höfðu sést væru sami hnötturinn og spáði rétt fyrir um endurkomu hans.",
+  "stjornuspa": "Sporðdrekinn ætti að halda ráðagerðum sínum jafn leyndum og uppskrift Murano-meistara að dýrindis gleri. Varastu þó að hefja stríð við stóran ófleygan fugl — stjörnurnar muna enn hvernig það fór fyrir Áströlum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg",
+    "ar": "960",
+    "texti": "Býsanski herforinginn Leó Fókas yngri lagði Hamdanída í fyrirsát og gjöreyddi her þeirra í átökum Býsansríkis og araba. Þar reyndist gamla ráðið um að líta vel í kringum sig áður en haldið er af stað býsna gagnlegt.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab–Byzantine_wars",
+    "breidd": 330,
+    "haed": 169
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

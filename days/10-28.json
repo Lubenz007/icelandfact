@@ -1,0 +1,148 @@
+{
+  "mmdd": "10-28",
+  "dagur": 28,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "08:56",
+  "sunset": "17:24",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 28. október brúum við aldirnar frá Konstantínusi mikla til geimferða Breta, með viðkomu hjá Frelsisstyttunni og gullgrímu faraós — enda kann sagan vel við langar krókaleiðir.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "312",
+      "texti": "Konstantínus mikli sigraði Maxentíus í orrustunni við Milvísku brúna í Róm. Sigurinn varð örlagaríkur á valdaferli Konstantínusar og í sögu Rómaveldis."
+    },
+    {
+      "ar": "1707",
+      "texti": "Hōei-jarðskjálftinn rauf samtímis öll þekkt svæði Nankai-megamisgengisins við Japan. Hann er eini skráði skjálftinn sem hefur leikið þann ógnvænlega jarðfræðilega leik."
+    },
+    {
+      "ar": "1886",
+      "texti": "Grover Cleveland Bandaríkjaforseti vígði Frelsisstyttuna í New York-höfn. Styttan var gjöf Frakka og hefur síðan tekið á móti gestum með kyndilinn á lofti og óvenjugott útsýni."
+    },
+    {
+      "ar": "1925",
+      "texti": "Útfarargríma Tútankamons kom í ljós í fyrsta sinn í um 3.250 ár. Gríman kann upphaflega að hafa verið gerð fyrir Neferneferuaten drottningu."
+    },
+    {
+      "ar": "1971",
+      "texti": "Prospero, fyrsti breski gervihnötturinn sem skotið var á loft með breskri eldflaug, hóf ferð sína frá Woomera í Suður-Ástralíu. Bretar höfðu þar með komið eigin farþega á sporbraut — þótt farþeginn væri heldur fámáll."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1134",
+      "texti": "Magnús Einarsson var vígður biskup í Skálholti af Össuri erkibiskupi í Lundi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1780",
+      "texti": "Reynistaðarbræðurnir Einar og Bjarni lögðu af stað ásamt þremur öðrum með fjárrekstur norður yfir Kjöl. Enginn þeirra komst lifandi á leiðarenda.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1848",
+      "texti": "Dómkirkjan í Reykjavík var vígð að nýju eftir gagngera endurbyggingu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1981",
+      "texti": "Hrauneyjafossvirkjun í Tungnaá var tekin í notkun og vatnsaflið sett til verka.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Annie Potts",
+      "starfsgrein": "leikkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Bill Gates",
+      "starfsgrein": "athafnamaður og góðgerðarsinni",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Caitlyn Jenner",
+      "starfsgrein": "fyrrverandi tugþrautarkona og sjónvarpsstjarna",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Auguste Escoffier",
+      "starfsgrein": "matreiðslumeistari og rithöfundur",
+      "ar": "1846"
+    },
+    {
+      "nafn": "Agnes Obel",
+      "starfsgrein": "söngkona, lagahöfundur og píanóleikari",
+      "ar": "1980"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þórólfur Guðnason",
+      "starfsgrein": "læknir og fyrrverandi sóttvarnalæknir",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Margrét Indriðadóttir",
+      "starfsgrein": "fréttakona og fréttastjóri",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða heimsfræga mannvirki var vígt í New York-höfn árið 1886?",
+      "svor": [
+        "Frelsisstyttan",
+        "Empire State-byggingin",
+        "Brooklyn-brúin",
+        "Gateway-boginn"
+      ],
+      "rett": 0,
+      "skyring": "Frelsisstyttan var gjöf Frakka og var vígð af Grover Cleveland."
+    },
+    {
+      "spurning": "Hvað hét fyrsti breski gervihnötturinn sem fór á loft með breskri eldflaug?",
+      "svor": [
+        "Mercury",
+        "Prospero",
+        "Voyager",
+        "Ariel"
+      ],
+      "rett": 1,
+      "skyring": "Prospero fór á loft árið 1971 og bar nafn sem hæfði sannkölluðum geimleikhússtjóra."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins var meðstofnandi Microsoft?",
+      "svor": [
+        "Auguste Escoffier",
+        "Andy Richter",
+        "Bill Gates",
+        "Alan Smith"
+      ],
+      "rett": 2,
+      "skyring": "Bill Gates fæddist 28. október 1955 og meðstofnaði Microsoft."
+    }
+  ],
+  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
+  "tonlistUK": "That's What I Like – Jive Bunny and the Mastermixers (1989)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "fimbulfamb",
+    "skyring": "Fimbulfamb er innantómt eða ruglingslegt málskrúð sem hljómar gjarnan mikilfenglegar en efnið stendur undir."
+  },
+  "vissir_thu": "Útfarargríma Tútankamons hafði legið hulin í um 3.250 ár þegar hún kom aftur í ljós árið 1925.",
+  "stjornuspa": "Sporðdreki, segulmagn þitt er svo sterkt í dag að jafnvel áttavitinn gæti farið að efast um norðrið. Gamalt leyndarmál bankar á dyrnar, en bjóddu því aðeins inn ef það kemur með kaffi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raphael-Constantine_at_Milvian_Bridge.jpg/500px-Raphael-Constantine_at_Milvian_Bridge.jpg",
+    "ar": "312",
+    "texti": "Konstantínus mikli sigraði Maxentíus í orrustunni við Milvísku brúna í Róm. Sigurinn varð örlagaríkur á valdaferli Konstantínusar og í sögu Rómaveldis.",
+    "heimild": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
+    "breidd": 330,
+    "haed": 426
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

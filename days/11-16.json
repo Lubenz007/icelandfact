@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-16",
+  "dagur": 16,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:58",
+  "sunset": "16:25",
+  "kvedja": "Góðan dag, kæri lesandi! Sextándi nóvember hefur borið okkur allt frá lögbók Justinianusar til LSD, fjársjóða og íslenskrar tungu — sem sannar að sagan kann bæði latínu og dálítið furðulegri tungumál. Haltu fast í hattinn, rétt eins og Hóladómkirkja hefði þurft að gera árið 1624.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "534",
+      "texti": "Önnur útgáfa lögbókar Justinianusar keisara kom út í Austrómverska ríkinu. Þar var rómverskum rétti safnað saman og komið í skipulegt horf — lagaleg tiltekt sem átti eftir að endast betur en flest heimilisbókhald."
+    },
+    {
+      "ar": "1532",
+      "texti": "Francisco Pizarro stýrði óvæntri árás Spánverja í Cajamarca og tók Atahualpa, keisara Inka, til fanga. Atburðurinn varð örlagaríkur þáttur í landvinningum Spánverja í Perú."
+    },
+    {
+      "ar": "1632",
+      "texti": "Gústaf Adolf Svíakonungur féll í orrustunni við Lützen í Þrjátíu ára stríðinu. Svíar unnu orrustuna, en sigurinn var sannarlega dýrkeyptur."
+    },
+    {
+      "ar": "1938",
+      "texti": "Svissneski efnafræðingurinn Albert Hofmann framleiddi LSD í fyrsta sinn í Basel. Áhrif efnisins komu þó ekki að fullu í ljós fyrr en síðar — efnafræðin á það til að geyma óvænt framhald."
+    },
+    {
+      "ar": "2002",
+      "texti": "Fyrsta skráða tilfelli SARS kom fram í Guangdong í Kína. Sjúkdómurinn er öndunarfærasjúkdómur af völdum kórónuveiru sem berst milli dýra og manna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1624",
+      "texti": "Dómkirkjan á Hólum í Hjaltadal, þá um 230 ára gömul, fauk af grunni og gjöreyðilagðist í aftaka norðanveðri.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1907",
+      "texti": "Stytta Einars Jónssonar af Jónasi Hallgrímssyni var afhjúpuð við Amtmannsstíg í Reykjavík á aldarafmæli skáldsins. Hún var síðar flutt í Hljómskálagarðinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1917",
+      "texti": "Reykjavíkurhöfn var formlega tekin í notkun þegar danskir verktakar afhentu bæjaryfirvöldum höfnina.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1996",
+      "texti": "Dagur íslenskrar tungu var haldinn hátíðlegur í fyrsta sinn á fæðingardegi Jónasar Hallgrímssonar.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Burgess Meredith",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1907"
+    },
+    {
+      "nafn": "Aditya Roy Kapur",
+      "starfsgrein": "leikari",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Amar'e Stoudemire",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Bol Bol",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Alexander Popov",
+      "starfsgrein": "sundmaður og þjálfari",
+      "ar": "1971"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jónas Hallgrímsson",
+      "starfsgrein": "skáld og náttúrufræðingur",
+      "ar": "1807"
+    },
+    {
+      "nafn": "Jón Sveinsson",
+      "starfsgrein": "rithöfundur og kaþólskur prestur",
+      "ar": "1857"
+    },
+    {
+      "nafn": "Oddgeir Kristjánsson",
+      "starfsgrein": "lagahöfundur",
+      "ar": "1911"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íslenska skáld á afmæli 16. nóvember, degi íslenskrar tungu?",
+      "svor": [
+        "Jónas Hallgrímsson",
+        "Jón Sveinsson",
+        "Oddgeir Kristjánsson",
+        "Halldór Laxness"
+      ],
+      "rett": 0,
+      "skyring": "Jónas Hallgrímsson fæddist árið 1807 og íslenskan fær því sérstakan hátíðisdag á afmæli hans."
+    },
+    {
+      "spurning": "Hvað kom fyrir dómkirkjuna á Hólum árið 1624?",
+      "svor": [
+        "Hún sökk í jarðskjálfta",
+        "Hún fauk af grunni",
+        "Hún var flutt til Reykjavíkur",
+        "Hún varð að konungshöll"
+      ],
+      "rett": 1,
+      "skyring": "Aftaka norðanveður feykti kirkjunni af grunni — heldur harkaleg húsaskoðun náttúrunnar."
+    },
+    {
+      "spurning": "Hvaða efni framleiddi Albert Hofmann í fyrsta sinn árið 1938?",
+      "svor": [
+        "Pensilín",
+        "LSD",
+        "Insúlín",
+        "Radíum"
+      ],
+      "rett": 1,
+      "skyring": "Hofmann framleiddi LSD í Basel, þótt eiginleikar þess ættu eftir að koma betur í ljós síðar."
+    }
+  ],
+  "tonlistUSA": "We Built This City – Starship (1985)",
+  "tonlistUK": "A Good Heart – Feargal Sharkey (1985)",
+  "bio": "Aleinn heima (1990)",
+  "ord_dagsins": {
+    "ord": "aftakaveður",
+    "skyring": "Aftakaveður er óvenjulega ofsalegt og hættulegt óveður."
+  },
+  "vissir_thu": "Hoxne-sjóðurinn, sem fannst í Suffolk árið 1992, er stærsti fundur rómversks silfurs og gulls sem fundist hefur í Bretlandi.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamalt leyndarmál, eða að minnsta kosti lykilinn sem hefur verið týndur síðan á þriðjudag. Forðastu dramatík fyrir hádegi, en eftir kaffi máttu sveifla þér inn í daginn eins og sápuóperustjarna árið 1981.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ghent%2C_Ghent_University_Library_MS_Bibliotheek_Letteren_en_Wijsbegeerte-Handschriften_0021_fol._24v-25r_Code_of_Justinian.jpg/500px-Ghent%2C_Ghent_University_Library_MS_Bibliotheek_Letteren_en_Wijsbegeerte-Handschriften_0021_fol._24v-25r_Code_of_Justinian.jpg",
+    "ar": "534",
+    "texti": "Önnur útgáfa lögbókar Justinianusar keisara kom út í Austrómverska ríkinu. Þar var rómverskum rétti safnað saman og komið í skipulegt horf — lagaleg tiltekt sem átti eftir að endast betur en flest heimilisbókhald.",
+    "heimild": "https://en.wikipedia.org/wiki/Code_of_Justinian",
+    "breidd": 330,
+    "haed": 243
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

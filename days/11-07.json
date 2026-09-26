@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-07",
+  "dagur": 7,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:28",
+  "sunset": "16:52",
+  "kvedja": "Komdu sæll, kæri lesandi, á þessum viðburðaríka 7. nóvember! Í dag sveiflast sagan frá kirkjuþingi í Konstantínópel til geimfars á leið til Mars — með viðkomu í Skálholti, því sagan fer sjaldnast beina leið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "680",
+      "texti": "Þriðja kirkjuþingið í Konstantínópel kom saman til að útkljá þrætur um eðli og vilja Krists. Guðfræðingar þess tíma kunnu sannarlega að gera flókin álitamál enn hátíðlegri."
+    },
+    {
+      "ar": "1723",
+      "texti": "Samræðukantata Johanns Sebastians Bach, „O Ewigkeit, du Donnerwort“, BWV 60, var frumflutt í Leipzig. Þar mættust ótti og von í tónum, eins og Bach einum var lagið."
+    },
+    {
+      "ar": "1837",
+      "texti": "Bandaríski afnámsmaðurinn og ritstjórinn Elijah Parish Lovejoy var myrtur af hópi stuðningsmanna þrælahalds í Alton í Illinois þegar þeir réðust á prentvél hans og baráttuefni. Dauði hans varð sterkt tákn fyrir málfrelsi og baráttuna gegn þrælahaldi."
+    },
+    {
+      "ar": "1916",
+      "texti": "Jeannette Rankin varð fyrst kvenna til að ná kjöri í fulltrúadeild Bandaríkjaþings. Hún braut þar með pólitískt glerþak áður en hugtakið sjálft komst í tísku."
+    },
+    {
+      "ar": "1996",
+      "texti": "NASA skaut Mars Global Surveyor á loft frá Kennedy-geimferðamiðstöðinni á Canaveralhöfða í Flórída. Geimfarið hélt til Mars til að kortleggja rauðu reikistjörnuna og skoða hana með vísindalegu haukfránu auga."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1550",
+      "texti": "Jón Arason Hólabiskup og synir hans, Björn prestur og Ari lögmaður, voru teknir af lífi í Skálholti eftir harðvítugar valdadeilur kaþólskra og lútherskra manna.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1718",
+      "texti": "Danska herskipið Giötheborg strandaði við Ölfusárósa, en öll áhöfnin bjargaðist. Þar fékk sjóferðin óvæntan endapunkt en sem betur fer engan mannskaða.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1931",
+      "texti": "Héraðsskólinn í Reykholti var vígður, einn níu héraðsskóla sem stofnaðir voru að frumkvæði Jónasar Jónssonar frá Hriflu.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1976",
+      "texti": "Fyrsti hluti Hitaveitu Suðurnesja var tekinn í notkun. Heita vatnið hóf þar með að vinna eitt sitt vinsælasta verk: að halda kuldanum kurteislega utandyra.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Albert Camus",
+      "starfsgrein": "rithöfundur, heimspekingur og blaðamaður",
+      "ar": "1913"
+    },
+    {
+      "nafn": "Adam DeVine",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Amy Purdy",
+      "starfsgrein": "snjóbrettakona, leikkona og fyrirsæta",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Amybeth McNulty",
+      "starfsgrein": "leikkona",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Barbara Liskov",
+      "starfsgrein": "tölvunarfræðingur og fræðikona",
+      "ar": "1939"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eiður Svanberg Guðnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Vilhjálmur Finsen",
+      "starfsgrein": "ritstjóri",
+      "ar": "1883"
+    },
+    {
+      "nafn": "Pétur J. Thorsteinsson",
+      "starfsgrein": "sendiherra og forsetaframbjóðandi",
+      "ar": "1917"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvert stefndi Mars Global Surveyor eftir geimskotið 1996?",
+      "svor": [
+        "Til Venusar",
+        "Til Mars",
+        "Til Júpíters",
+        "Til tunglsins"
+      ],
+      "rett": 1,
+      "skyring": "Mars Global Surveyor hélt, eins og nafnið gaf býsna sterklega til kynna, til Mars."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna kjörin í fulltrúadeild Bandaríkjaþings?",
+      "svor": [
+        "Jeannette Rankin",
+        "Hillary Clinton",
+        "Barbara Liskov",
+        "Amy Purdy"
+      ],
+      "rett": 0,
+      "skyring": "Jeannette Rankin náði þessum sögulega áfanga í kosningunum árið 1916."
+    },
+    {
+      "spurning": "Hvar voru Jón Arason og synir hans teknir af lífi árið 1550?",
+      "svor": [
+        "Á Hólum",
+        "Í Reykholti",
+        "Í Skálholti",
+        "Á Þingvöllum"
+      ],
+      "rett": 2,
+      "skyring": "Aftakan fór fram í Skálholti og markaði dramatísk þáttaskil í trúar- og valdasögu landsins."
+    }
+  ],
+  "tonlistUSA": "I Think We're Alone Now – Tiffany (1987)",
+  "tonlistUK": "You Win Again – Bee Gees (1987)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "þrasgirni",
+    "skyring": "Þrasgirni er tilhneiging til að deila eða þrátta, jafnvel þegar kaffið væri skynsamlegri lausn."
+  },
+  "vissir_thu": "Mars Global Surveyor var skotið á loft 7. nóvember 1996 til að rannsaka og kortleggja yfirborð Mars.",
+  "stjornuspa": "Sporðdreki, segulbandstækið í tilverunni virðist hafa spólað aftur á gamalt leyndarmál sem vill loksins heyrast. Haltu pókersvipnum, en leyfðu þér að dansa þegar enginn sér — helst við stóran hljóðgervilssmell.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/45-manasses-chronicle.jpg/500px-45-manasses-chronicle.jpg",
+    "ar": "680",
+    "texti": "Þriðja kirkjuþingið í Konstantínópel kom saman til að útkljá þrætur um eðli og vilja Krists. Guðfræðingar þess tíma kunnu sannarlega að gera flókin álitamál enn hátíðlegri.",
+    "heimild": "https://en.wikipedia.org/wiki/Third_Council_of_Constantinople",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

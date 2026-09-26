@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-30",
+  "dagur": 30,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "09:03",
+  "sunset": "17:17",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 30. október ber okkur frá uppgjöf herliðs án bardaga til útvarpsmanna sem hleyptu Marsbúum lausum í stofum fólks — og endar svo á íslenskum fótboltasigri. Sagan kann sannarlega að blanda sérkennilegan kokteil, með örlitlu glotti á brúninni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1806",
+      "texti": "Þýska setuliðið í Stettin gafst upp fyrir mun fámennara frönsku liði án þess að til bardaga kæmi, enda taldi það ranglega að ofurefli stæði fyrir utan. Stundum vinnur sannfærandi framkoma fleiri orrustur en fallbyssur."
+    },
+    {
+      "ar": "1938",
+      "texti": "CBS útvarpaði leikgerðinni „The War of the Worlds“. Dagblöð fullyrtu síðar að útsendingin hefði blekkt Bandaríkjamenn til að halda að Marsbúar væru í alvöru mættir í heimsókn."
+    },
+    {
+      "ar": "1960",
+      "texti": "Michael Woodruff framkvæmdi fyrsta árangursríka nýrnaígræðsluna í Bretlandi á Royal Infirmary í Edinborg. Þar var skrifaður mikilvægur kafli í sögu líffæraígræðslna."
+    },
+    {
+      "ar": "1983",
+      "texti": "Argentínumenn gengu að kjörborðinu í fyrstu lýðræðislegu kosningunum í áratug þegar herforingjastjórnin var að líða undir lok. Raúl Alfonsín var kjörinn forseti."
+    },
+    {
+      "ar": "2020",
+      "texti": "Jarðskjálfti af stærðinni 7,0 reið yfir Eyjahaf milli Grikklands og Tyrklands, hrinti af stað flóðbylgju og kostaði 119 manns lífið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1936",
+      "texti": "Mikið tjón varð á Suðvesturlandi vegna sjávarflóða og elstu menn mundu vart annað eins. Hafið minnti rækilega á að það lætur ekki alltaf nægja að vera fallegt á póstkortum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1982",
+      "texti": "Landssöfnunin „Þjóðarátak gegn krabbameini“ afhenti Krabbameinsfélaginu þrettán milljónir króna, mun meira en áður hafði safnast í sambærilegum söfnunum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1984",
+      "texti": "Samningar náðust milli ríkisins og BSRB eftir allsherjarverkfall sem hafði staðið frá 4. október. Eftir langan mánuð máttu samningamenn loksins leggja frá sér kaffibollana.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Íslenska kvennalandsliðið í knattspyrnu vann Írland 3–0 á Laugardalsvelli og tryggði sér sæti á EM 2009, fyrst íslenskra A-landsliða í knattspyrnu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Cale Makar",
+      "starfsgrein": "kanadískur íshokkímaður",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Julia the Elder",
+      "starfsgrein": "rómversk aðalskona og dóttir Ágústusar",
+      "ar": "39 f.Kr."
+    },
+    {
+      "nafn": "Ashley Graham",
+      "starfsgrein": "bandarísk fyrirsæta",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Christopher Wren",
+      "starfsgrein": "enskur arkitekt, eðlisfræðingur og stærðfræðingur",
+      "ar": "1632"
+    },
+    {
+      "nafn": "Artemi Panarin",
+      "starfsgrein": "rússneskur íshokkímaður",
+      "ar": "1991"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björgvin G. Sigurðsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Mörður Árnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Matthías Þórðarson",
+      "starfsgrein": "þjóðminjavörður",
+      "ar": "1877"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða útvarpsleikrit var sagt hafa komið Bandaríkjamönnum í Marsbúakast árið 1938?",
+      "svor": [
+        "The War of the Worlds",
+        "Hamlet",
+        "Dracula",
+        "The Invisible Man"
+      ],
+      "rett": 0,
+      "skyring": "„The War of the Worlds“ sendi Marsbúa í loftið, þótt þeir kæmust sem betur fer aldrei lengra en í útvarpstækin."
+    },
+    {
+      "spurning": "Hvaða lið vann íslenska kvennalandsliðið 3–0 árið 2008 og tryggði sér þar með sæti á EM?",
+      "svor": [
+        "Noreg",
+        "Írland",
+        "Danmörku",
+        "Skotland"
+      ],
+      "rett": 1,
+      "skyring": "Írar urðu fyrir íslenska áhlaupinu á Laugardalsvelli og lokatölurnar urðu 3–0."
+    },
+    {
+      "spurning": "Hvaða frægi arkitekt, fæddur 30. október, hannaði dómkirkju heilags Páls í Lundúnum?",
+      "svor": [
+        "Alfred Sisley",
+        "Christopher Wren",
+        "Michael Woodruff",
+        "Raúl Alfonsín"
+      ],
+      "rett": 1,
+      "skyring": "Christopher Wren hannaði hina frægu dómkirkju og skildi eftir sig myndarlegt spor í borgarlandslagi Lundúna."
+    }
+  ],
+  "tonlistUSA": "Who Can It Be Now? – Men at Work (1982)",
+  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
+  "bio": "Halloween (1978)",
+  "ord_dagsins": {
+    "ord": "háski",
+    "skyring": "Háski merkir mikil hætta eða voði og á sérlega vel við þegar bæði jarðskjálftar og ímyndaðir Marsbúar eru á dagskrá."
+  },
+  "vissir_thu": "Christopher Wren var ekki aðeins arkitekt heldur einnig stærðfræðingur og eðlisfræðingur; maðurinn gat sem sagt bæði reiknað út hvelfinguna og teiknað hana.",
+  "stjornuspa": "Sporðdreki, segulkraftur þinn er svo mikill í dag að jafnvel Marsbúar gætu villst af leið og lent í kaffiboði hjá þér. Varastu þó að gefa upp virkið án bardaga — sérstaklega ef deilan snýst um síðasta kökubita dagsins.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/500px-War_of_the_4th_Coalition.jpg",
+    "ar": "1806",
+    "texti": "Þýska setuliðið í Stettin gafst upp fyrir mun fámennara frönsku liði án þess að til bardaga kæmi, enda taldi það ranglega að ofurefli stæði fyrir utan. Stundum vinnur sannfærandi framkoma fleiri orrustur en fallbyssur.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
