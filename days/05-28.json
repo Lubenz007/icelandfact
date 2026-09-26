@@ -1,0 +1,143 @@
+{
+  "mmdd": "05-28",
+  "dagur": 28,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:34",
+  "sunset": "23:17",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 28. maí leiðir sagan okkur frá sólmyrkva á fornöld að smáflugvél við Rauða torgið og eldgosi undir Vatnajökli — býsna drjúgt ferðalag fyrir einn dag. Spenntu því beltin, en hafðu þau aðeins lausari en sovésku loftvarnirnar árið 1987.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "585 f.Kr.",
+      "texti": "Samkvæmt Heródótosi batt sólmyrkvi skyndilegan enda á orrustu Lýdíumanna og Meda við Halysfljót. Þales frá Míletos hafði spáð myrkvanum, sem hlýtur að teljast til áhrifamestu veðurspáa sögunnar."
+    },
+    {
+      "ar": "1608",
+      "texti": "Claudio Monteverdi frumflutti óperuna L'Arianna við konunglegt brúðkaup í Mantúa. Verkið er nú að mestu glatað, svo tónlistarunnendur verða að láta sér ímyndunaraflið nægja."
+    },
+    {
+      "ar": "1830",
+      "texti": "Andrew Jackson Bandaríkjaforseti undirritaði Indian Removal Act, sem heimilaði samninga um brottflutning frumbyggja frá ættlöndum þeirra. Lögin urðu undanfari mikilla hörmunga og nauðungarflutninga."
+    },
+    {
+      "ar": "1892",
+      "texti": "Skosk-bandaríski náttúruverndarsinninn John Muir stofnaði Sierra Club í Kaliforníu. Samtökin urðu síðar eitt þekktasta náttúruverndarafl Bandaríkjanna."
+    },
+    {
+      "ar": "1987",
+      "texti": "Hinn 18 ára Mathias Rust flaug Cessna 172 frá Helsinki í gegnum sovéskar loftvarnir og lenti ólöglega nærri Rauða torginu í Moskvu. Þetta var óvenjulega dramatísk leið til að sýna að loftvarnakerfi væri ekki alveg vatnshelt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1800",
+      "texti": "Konungur fyrirskipaði vandaðar mælingar á ströndum Íslands. Mælingarnar stóðu frá 1800 til 1818 og kortin komu síðan út á næstu átta árum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1903",
+      "texti": "Eldgos hófst nærri Grænafjalli eða Þórðarhyrnu sunnan Grímsvatna í Vatnajökli. Stórt hlaup hafði farið niður Skeiðará dagana á undan og gosið stóð slitrótt í rúma sjö mánuði.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1967",
+      "texti": "Íþróttafélagið Fylkir var stofnað í Reykjavík. Þar með hófst saga félags sem síðar varð órjúfanlegur hluti af íþróttalífi Árbæjar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Saltvíkurhátíðin hófst á Kjalarnesi og um tíu þúsund unglingar komu þar saman um hvítasunnuna. Það hefur væntanlega verið heldur meira fjör en í venjulegri sunnudagsskólaferð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexa Davalos",
+      "starfsgrein": "leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Carroll Baker",
+      "starfsgrein": "leikkona",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Betty Shabazz",
+      "starfsgrein": "kennari og réttindabaráttukona",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Alec Benjamin",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Carl Larsson",
+      "starfsgrein": "listmálari og rithöfundur",
+      "ar": "1853"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jónas Árnason",
+      "starfsgrein": "leikritaskáld",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ár lenti Mathias Rust smáflugvél sinni nærri Rauða torginu?",
+      "svor": [
+        "1971",
+        "1982",
+        "1987",
+        "1994"
+      ],
+      "rett": 2,
+      "skyring": "Árið var 1987, þegar ungur flugmaður fann óvænta glufu í sovéskum loftvörnum."
+    },
+    {
+      "spurning": "Hvaða náttúruverndarsamtök stofnaði John Muir árið 1892?",
+      "svor": [
+        "Sierra Club",
+        "Greenpeace",
+        "Rauði krossinn",
+        "Skógræktarfélagið"
+      ],
+      "rett": 0,
+      "skyring": "John Muir stofnaði Sierra Club í Kaliforníu."
+    },
+    {
+      "spurning": "Hvar hófst Saltvíkurhátíðin árið 1971?",
+      "svor": [
+        "Í Vestmannaeyjum",
+        "Á Kjalarnesi",
+        "Við Mývatn",
+        "Á Ísafirði"
+      ],
+      "rett": 1,
+      "skyring": "Hátíðin var haldin í Saltvík á Kjalarnesi og dró að sér um tíu þúsund unglinga."
+    }
+  ],
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
+  "tonlistUK": "True – Spandau Ballet (1983)",
+  "bio": "Return of the Jedi (1983)",
+  "ord_dagsins": {
+    "ord": "orðheppinn",
+    "skyring": "Sá sem er orðheppinn á auðvelt með að finna snjöll, viðeigandi eða skemmtileg orð."
+  },
+  "vissir_thu": "Óperan L'Arianna eftir Claudio Monteverdi er að mestu glötuð, en harmþrungið söngatriði hennar, Lamento d'Arianna, hefur varðveist.",
+  "stjornuspa": "Tvíburar finna í dag gamalt erindi, hálfkláraða hugmynd eða símanúmer sem hefði betur fengið að liggja kyrrt. Láttu forvitnina ráða ferðinni, en mundu að ekki þarf hver Cessna að lenda á Rauða torginu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg/500px-Bernardo_Strozzi_-_Claudio_Monteverdi_%28c.1630%29.jpg",
+    "ar": "1608",
+    "texti": "Claudio Monteverdi frumflutti óperuna L'Arianna við konunglegt brúðkaup í Mantúa. Verkið er nú að mestu glatað, svo tónlistarunnendur verða að láta sér ímyndunaraflið nægja.",
+    "heimild": "https://en.wikipedia.org/wiki/Claudio_Monteverdi",
+    "breidd": 330,
+    "haed": 413
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

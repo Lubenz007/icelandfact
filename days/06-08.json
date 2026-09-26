@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-08",
+  "dagur": 8,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:07",
+  "sunset": "23:46",
+  "kvedja": "Góðan 8. júní, kæri lesandi! Í dag gjósa Skaftáreldar úr annálunum, Orwell varar okkur við alræðinu og Bonnie Tyler heldur upp á afmælið — svo dagurinn býður bæði eld, eftirlit og kraftmikla hæsi. Haltu fast í kaffibollann; sagan kann að hrista aðeins upp í okkur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "218",
+      "texti": "Hersveitir Elagabalusar sigruðu lið Macrinusar Rómarkeisara í orrustunni við Antíokkíu. Her Elagabalusar var leiddur af hinum reynslulitla Gannys, sem sýndi að ferilskráin segir ekki alltaf alla söguna."
+    },
+    {
+      "ar": "1783",
+      "texti": "Skaftáreldar hófust í Lakagígum og gosið stóð í átta mánuði. Afleiðingarnar urðu skelfilegar: hungursneyð og víðtæk flúoreitrun fylgdu eldmóðunni."
+    },
+    {
+      "ar": "1929",
+      "texti": "Margaret Bondfield varð fyrst kvenna til að setjast í ríkisstjórn Bretlands þegar Ramsay MacDonald skipaði hana atvinnumálaráðherra. Þar brotnaði loks ein af þykkari glerþökum breskra stjórnmála."
+    },
+    {
+      "ar": "1949",
+      "texti": "Dystópíska skáldsagan Nítján hundruð áttatíu og fjögur eftir George Orwell kom út. Stóri bróðir hefur síðan fylgst með menningarsögunni — að minnsta kosti í orðræðunni."
+    },
+    {
+      "ar": "1972",
+      "texti": "Ljósmyndarinn Nick Ut tók hina heimsfrægu og síðar Pulitzer-verðlaunuðu mynd af níu ára Phan Thi Kim Phuc á flótta eftir napalmárás í Víetnamstríðinu. Myndin varð ein áhrifamesta áminning ljósmyndasögunnar um hrylling stríðs."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1783",
+      "texti": "Skaftáreldar hófust og í kjölfar þeirra gengu Móðuharðindin yfir landið.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1789",
+      "texti": "Öflug jarðskjálftahrina hófst á Suðurlandi. Skjálftar riðu yfir með allt að tíu mínútna millibili og ósköpin stóðu í heila viku.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1965",
+      "texti": "Eldfjallaeyjan Syrtlingur birtist úr hafi sunnan við Vestmannaeyjar, en hafið hafði betur og eyjan hvarf aftur um haustið.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2008",
+      "texti": "Vatnajökulsþjóðgarður var stofnaður og varð þar með nýr rammi utan um stórbrotna náttúru jökla, eldfjalla og óbyggða.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bonnie Tyler",
+      "starfsgrein": "velsk söngkona og lagahöfundur",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Barbara Bush",
+      "starfsgrein": "bandarísk forsetafrú",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Javier Mascherano",
+      "starfsgrein": "argentínskur knattspyrnumaður og þjálfari",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Jeļena Ostapenko",
+      "starfsgrein": "lettnesk tenniskona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Liv Morgan",
+      "starfsgrein": "bandarísk atvinnuglímukona",
+      "ar": "1994"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bragi Þór Hinriksson",
+      "starfsgrein": "leikstjóri",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Guðmundur Kamban",
+      "starfsgrein": "leikskáld",
+      "ar": "1888"
+    },
+    {
+      "nafn": "Gunnlaugur Scheving",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1904"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fræga framtíðarskáldsaga kom út 8. júní 1949?",
+      "svor": [
+        "Nítján hundruð áttatíu og fjögur",
+        "Dýrabær",
+        "Veröld ný og góð",
+        "Fahrenheit 451"
+      ],
+      "rett": 0,
+      "skyring": "Nítján hundruð áttatíu og fjögur kom út þennan dag og Stóri bróðir hefur varla litið undan síðan."
+    },
+    {
+      "spurning": "Hvaða náttúruhamfarir hófust á Íslandi 8. júní 1783?",
+      "svor": [
+        "Skaftáreldar",
+        "Heimaeyjargos",
+        "Kötlugosið 1918",
+        "Öskjugosið 1875"
+      ],
+      "rett": 0,
+      "skyring": "Skaftáreldar hófust í Lakagígum og urðu undanfari Móðuharðindanna."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er argentínsk knattspyrnukempa?",
+      "svor": [
+        "Javier Mascherano",
+        "Jeļena Ostapenko",
+        "Bonnie Tyler",
+        "Barbara Bush"
+      ],
+      "rett": 0,
+      "skyring": "Javier Mascherano lét einkum til sín taka á miðjunni og í vörninni, þar sem spariskórnir fengu sjaldan að ráða ferðinni."
+    }
+  ],
+  "tonlistUSA": "Everybody Wants to Rule the World – Tears for Fears (1985)",
+  "tonlistUK": "You'll Never Walk Alone – The Crowd (1985)",
+  "bio": "Ghostbusters (1984)",
+  "ord_dagsins": {
+    "ord": "eldmóða",
+    "skyring": "Eldmóða er þykk móða í andrúmslofti af völdum efna og örsmárra agna frá eldgosi."
+  },
+  "vissir_thu": "Skaftáreldar stóðu í átta mánuði og ollu bæði mikilli hungursneyð og víðtækri flúoreitrun.",
+  "stjornuspa": "Tvíburar, í dag berast þér fréttir úr tveimur áttum í senn, sem hentar þér prýðilega þar sem ein skoðun hefur aldrei verið nóg. Rykið af gömlu kasettutækinu, treystu innsæinu og forðastu að láta Stóra bróður velja lagalistann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Laki_fissure_%283%29.jpg/500px-Laki_fissure_%283%29.jpg",
+    "ar": "1783",
+    "texti": "Skaftáreldar hófust í Lakagígum og gosið stóð í átta mánuði. Afleiðingarnar urðu skelfilegar: hungursneyð og víðtæk flúoreitrun fylgdu eldmóðunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Laki",
+    "breidd": 330,
+    "haed": 221
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

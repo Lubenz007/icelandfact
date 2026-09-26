@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-04",
+  "dagur": 4,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:16",
+  "sunset": "23:36",
+  "kvedja": "Góðan 4. júní, kæri lesandi! Í dag svífum við með Élisabeth Thible, gægjumst á Roquefort-ost og stöldrum við á örlagaríkum tímamótum mannkynssögunnar. Festu beltin — eða körfuna undir loftbelgnum — því sagan kann sjaldnast að fara beina leið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1411",
+      "texti": "Karl 6. Frakkakonungur veitti íbúum Roquefort-sur-Soulzon einkarétt á að þroska Roquefort-ost. Þar með fékk myglan konunglega blessun og ostabakkinn varð ögn virðulegri."
+    },
+    {
+      "ar": "1784",
+      "texti": "Élisabeth Thible varð fyrst kvenna til að fljúga í óbundnum loftbelg. Hún fór um fjóra kílómetra og náði að sögn um 1.500 metra hæð — býsna djarfur sunnudagsrúntur á átjándu öld."
+    },
+    {
+      "ar": "1913",
+      "texti": "Breska kosningaréttarkonan Emily Davison særðist banvænt þegar hestur Georgs 5. konungs tróð hana niður á Epsom-kappreiðunum. Atvikið varð eitt þekktasta tákn baráttunnar fyrir kosningarétti kvenna."
+    },
+    {
+      "ar": "1942",
+      "texti": "Orrustan um Midway hófst með stórfelldri sókn Japana gegn bandarískum sveitum á Midway-rifinu. Orrustan varð síðar talin ein mikilvægasta vendipunkt Atlantshafsstríðsins í Kyrrahafi."
+    },
+    {
+      "ar": "1989",
+      "texti": "Frelsisher alþýðunnar braut mótmælin á Torgi hins himneska friðar í Beijing á bak aftur með hervaldi. Hundruð manna létust eða særðust og atburðurinn markaði djúp spor í samtímasögu Kína."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1832",
+      "texti": "Finnur Magnússon prófessor og Lorentz Angel Krieger stiftamtmaður voru skipaðir fyrstu fulltrúar Íslands á þing Eydana, þ.e. íbúa eyja undir Danmörku.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1924",
+      "texti": "Fyrstu íslensku lögin um ríkisskuldabréf voru sett. Ríkið hafði þar með fengið formlegri leið til að taka lán — því jafnvel þjóðarbú þarf stundum að skrifa skuldina snyrtilega niður.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1959",
+      "texti": "Sjálfsbjörg, landssamband fatlaðra, var stofnað og varð mikilvægur vettvangur réttindabaráttu og félagsstarfs fatlaðs fólks á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1993",
+      "texti": "Fjölskyldu- og húsdýragarðurinn tók til starfa í Reykjavík og hefur síðan kynnt ótal börn fyrir íslenskum húsdýrum, furðulegum hljóðum og ilmi sem gleymist seint.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Angelina Jolie",
+      "starfsgrein": "leikkona, kvikmyndagerðarkona og mannúðarfrömuður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Alexei Navalny",
+      "starfsgrein": "lögmaður og stjórnmálamaður",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Anil Ambani",
+      "starfsgrein": "kaupsýslumaður",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Anthony Braxton",
+      "starfsgrein": "saxófónleikari og tónskáld",
+      "ar": "1945"
+    },
+    {
+      "nafn": "François Quesnay",
+      "starfsgrein": "hagfræðingur og læknir",
+      "ar": "1694"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Anna Ólafsdóttir Björnsson",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Gunnar Dal",
+      "starfsgrein": "heimspekingur og rithöfundur",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Björn Stephensen",
+      "starfsgrein": "dómsmálaritari",
+      "ar": "1769"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða matvara fékk konunglega einokun á þroskun árið 1411?",
+      "svor": [
+        "Roquefort-ostur",
+        "Dijon-sinnep",
+        "Baguette-brauð",
+        "Camembert-ostur"
+      ],
+      "rett": 0,
+      "skyring": "Íbúar Roquefort-sur-Soulzon fengu einkaréttinn — myglan var komin með kórónu."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að fljúga í óbundnum loftbelg?",
+      "svor": [
+        "Emily Davison",
+        "Élisabeth Thible",
+        "Angelina Jolie",
+        "Anna Ólafsdóttir Björnsson"
+      ],
+      "rett": 1,
+      "skyring": "Élisabeth Thible sveif inn í söguna árið 1784 og náði um 1.500 metra hæð."
+    },
+    {
+      "spurning": "Hvaða staður tók til starfa í Reykjavík 4. júní 1993?",
+      "svor": [
+        "Stýrimannaskólinn",
+        "Hrafnista í Hafnarfirði",
+        "Litla kaffistofan",
+        "Fjölskyldu- og húsdýragarðurinn"
+      ],
+      "rett": 3,
+      "skyring": "Fjölskyldu- og húsdýragarðurinn opnaði og íslensku húsdýrin fengu nýjan aðdáendahóp."
+    }
+  ],
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
+  "tonlistUK": "Every Breath You Take – The Police (1983)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "marglyndi",
+    "skyring": "Marglyndi merkir óstöðugleika í skoðunum eða það að vera sífellt að skipta um hug."
+  },
+  "vissir_thu": "Élisabeth Thible söng aríu úr óperu meðan loftbelgurinn hennar hóf sig til flugs árið 1784 — flugskemmtunin var því einnig tónlistarviðburður.",
+  "stjornuspa": "Tvíburar, síminn gæti hringt oftar en góðu hófi gegnir, en ein samræða verður gulls ígildi — líklega sú sem byrjar á undarlegri tilviljun. Haltu báðum skoðunum þínum til haga; önnur þeirra reynist rétt fyrir kvöldmat.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Charles_VI_de_France_-_Dialogues_de_Pierre_Salmon_-_Bib_de_Gen%C3%A8ve_MsFr165f4.jpg/500px-Charles_VI_de_France_-_Dialogues_de_Pierre_Salmon_-_Bib_de_Gen%C3%A8ve_MsFr165f4.jpg",
+    "ar": "1411",
+    "texti": "Karl 6. Frakkakonungur veitti íbúum Roquefort-sur-Soulzon einkarétt á að þroska Roquefort-ost. Þar með fékk myglan konunglega blessun og ostabakkinn varð ögn virðulegri.",
+    "heimild": "https://en.wikipedia.org/wiki/Charles_VI_of_France",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

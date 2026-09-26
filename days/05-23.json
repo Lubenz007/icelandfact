@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-23",
+  "dagur": 23,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:48",
+  "sunset": "23:01",
+  "kvedja": "Góðan 23. maí, kæri lesandi! Í dag fljúgum við frá Jóhönnu af Örk yfir í Airbus, með viðkomu hjá handritunum okkar og örlitlum hrolli úr The Shining. Hafðu kaffið heitt og sögugleraugun innan seilingar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1430",
+      "texti": "Jóhanna af Örk var tekin til fanga af Búrgundum við umsátrið um Compiègne í Hundrað ára stríðinu. Þar tók saga hennar dökka stefnu, þótt frægð hennar ætti aðeins eftir að vaxa."
+    },
+    {
+      "ar": "1568",
+      "texti": "Uppreisn Hollendinga hófst þegar uppreisnarmenn undir stjórn Loðvíks af Nassau réðust inn í Frísland við orrustuna við Heiligerlee. Þar hófst langur kafli sem enginn afgreiddi með einu kurteisisbréfi."
+    },
+    {
+      "ar": "1895",
+      "texti": "Astor-bókasafnið og Lenox-bókasafnið samþykktu sameiningu sem leiddi til stofnunar almenningsbókasafns New York. Góð áminning um að jafnvel bókahillur geta orðið stórveldi."
+    },
+    {
+      "ar": "1974",
+      "texti": "Airbus A300, fyrsta tveggja hreyfla breiðþotan, hóf áætlunarflug hjá Air France. Flugiðnaðinum hafði tekist að gera vélina bæði breiðari og sparneytnari — draumur hvers ferðatöskueiganda."
+    },
+    {
+      "ar": "2021",
+      "texti": "Hvítrússnesk yfirvöld neyddu Ryanair-flug 4978 til lendingar og handtóku stjórnarandstöðublaðamanninn Roman Protasevich. Atvikið vakti hörð alþjóðleg viðbrögð."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1965",
+      "texti": "Danir samþykktu að afhenda Íslendingum handrit úr Árnasafni í Kaupmannahöfn. Gömlu skinnblöðin voru loks á heimleið eftir langa og tilfinningaþrungna deilu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1987",
+      "texti": "Hannes Hlífar Stefánsson varð heimsmeistari sveina í skák, aðeins 14 ára gamall. Flestir á þeim aldri voru að glíma við heimanám, en Hannes glímdi við heimsmeistaratitil.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2003",
+      "texti": "Íslenska alþjóðabjörgunarsveitin hélt til Alsír í rústabjörgun eftir öflugan jarðskjálfta í norðurhluta landsins. Þar lét íslensk þekking á leit og björgun til sín taka langt að heiman.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2010",
+      "texti": "Eldgosinu í Eyjafjallajökli lauk eftir að hafa minnt heimsbyggðina á kraft íslenskrar náttúru — og reynt rækilega á framburð erlendra fréttamanna.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Donald",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Alexandra Eala",
+      "starfsgrein": "tenniskona",
+      "ar": "2005"
+    },
+    {
+      "nafn": "Carl Linnaeus",
+      "starfsgrein": "grasafræðingur, læknir og dýrafræðingur",
+      "ar": "1707"
+    },
+    {
+      "nafn": "Anatoly Karpov",
+      "starfsgrein": "skákmeistari",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Angelo Ogbonna",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1988"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Engilberts",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Sigrún Björk Jakobsdóttir",
+      "starfsgrein": "stjórnmálakona og fyrrverandi bæjarstjóri",
+      "ar": "1966"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sögufræga kona var tekin til fanga við Compiègne árið 1430?",
+      "svor": [
+        "Jóhanna af Örk",
+        "Katrín af Aragon",
+        "Blanka af Kastilíu",
+        "Elísabet I"
+      ],
+      "rett": 0,
+      "skyring": "Jóhanna af Örk féll í hendur Búrgunda þennan dag árið 1430."
+    },
+    {
+      "spurning": "Hvaða íslenski skákmaður varð heimsmeistari sveina aðeins 14 ára gamall?",
+      "svor": [
+        "Friðrik Ólafsson",
+        "Hannes Hlífar Stefánsson",
+        "Jóhann Hjartarson",
+        "Helgi Ólafsson"
+      ],
+      "rett": 1,
+      "skyring": "Hannes Hlífar vann titilinn árið 1987, áður en flestir jafnaldrar hans höfðu lært að þola jafntefli."
+    },
+    {
+      "spurning": "Hvað var sérstakt við Airbus A300 þegar hún hóf þjónustu árið 1974?",
+      "svor": [
+        "Hún var fyrsta rafknúna farþegaþotan",
+        "Hún var fyrsta hljóðfráa farþegaþotan",
+        "Hún var fyrsta tveggja hreyfla breiðþotan",
+        "Hún var fyrsta þotan með tveimur hæðum"
+      ],
+      "rett": 2,
+      "skyring": "Airbus A300 var fyrsta breiðþotan sem knúin var aðeins tveimur hreyflum."
+    }
+  ],
+  "tonlistUSA": "Bette Davis Eyes – Kim Carnes (1981)",
+  "tonlistUK": "Stand and Deliver – Adam and the Ants (1981)",
+  "bio": "The Shining (1980)",
+  "ord_dagsins": {
+    "ord": "grúsk",
+    "skyring": "Grúsk er ítarleg og oft dálítið þrjóskuleg leit að fróðleik í heimildum."
+  },
+  "vissir_thu": "Carl Linnaeus lagði grunn að tvínafnakerfinu sem enn er notað til að gefa lífverum vísindaleg heiti.",
+  "stjornuspa": "Tvíburar ættu að halda báðum skoðunum sínum til haga í dag; önnur gæti reynst rétt fyrir hádegi og hin eftir kaffi. Óvænt skilaboð koma á fleygiferð, svo dustaðu rykið af ímyndaða faxtækinu og svaraðu með glotti.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/500px-Schlacht_von_Azincourt.jpg",
+    "ar": "1430",
+    "texti": "Jóhanna af Örk var tekin til fanga af Búrgundum við umsátrið um Compiègne í Hundrað ára stríðinu. Þar tók saga hennar dökka stefnu, þótt frægð hennar ætti aðeins eftir að vaxa.",
+    "heimild": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

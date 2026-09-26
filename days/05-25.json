@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-25",
+  "dagur": 25,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:42",
+  "sunset": "23:07",
+  "kvedja": "Góðan og gleðilegan 25. maí! Í dag förum við frá argentínskri byltingu upp á Kangchenjunga, skjótumst síðan til tunglsins og endum með fæturna tryggilega á íslenskri grund — sem er sennilega skynsamlegt eftir allt þetta ferðalag.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1810",
+      "texti": "Fyrsta sjálfstæða ríkisstjórn Argentínu, Primera Junta, var stofnuð á opnum borgarafundi í Buenos Aires. Þar með lauk maíbyltingunni og nýr kafli hófst í sjálfstæðisbaráttu landsins."
+    },
+    {
+      "ar": "1895",
+      "texti": "Rithöfundurinn Oscar Wilde var dæmdur í tveggja ára þrælkunarvinnu fyrir það sem bresk lög kölluðu „gróft ósæmi“. Dómurinn varð eitt alræmdasta dæmið um ofsóknir gegn samkynhneigðum á Viktoríutímanum."
+    },
+    {
+      "ar": "1955",
+      "texti": "Bretarnir Joe Brown og George Band urðu fyrstir til að klífa Kangchenjunga, þriðja hæsta fjall heims. Þeir stigu þó vísvitandi ekki á sjálfan tindinn — óvenjulega hógvær endalok á afar óhógværri fjallgöngu."
+    },
+    {
+      "ar": "1979",
+      "texti": "Hreyfill losnaði frá American Airlines-flugi 191 í flugtaki frá O'Hare-flugvelli í Chicago. Vélin fórst og 273 létust í mannskæðasta flugslysi í sögu Bandaríkjanna."
+    },
+    {
+      "ar": "2020",
+      "texti": "George Floyd, svartur Bandaríkjamaður, var myrtur við handtöku hvíts lögreglumanns í Minneapolis. Dauði hans hratt af stað umfangsmiklum mótmælum gegn kynþáttamisrétti og lögregluofbeldi í Bandaríkjunum og víðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1759",
+      "texti": "Tilskipun um fermingar var lögfest á Íslandi og meðal annars ákveðið að börn skyldu almennt vera 14–15 ára við fermingu. Áður hafði mátt ferma börn allt niður í tíu ára aldur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1929",
+      "texti": "Sjálfstæðisflokkurinn var stofnaður af þingmönnum Íhaldsflokksins og Frjálslynda flokksins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1987",
+      "texti": "Jarðskjálfti að stærð 5,7 reið yfir í Vatnafjöllum sunnan Heklu. Þetta var mesti jarðskjálfti á Suðurlandi frá árinu 1912.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1995",
+      "texti": "Ísafjarðarkirkja var vígð og fékk höfuðstaður Vestfjarða þar með nýtt og eftirtektarvert guðshús.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anne Heche",
+      "starfsgrein": "leikkona",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Amy Klobuchar",
+      "starfsgrein": "lögmaður og stjórnmálakona",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Aly Raisman",
+      "starfsgrein": "fimleikakona",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Bill Robinson",
+      "starfsgrein": "leikari og dansari",
+      "ar": "1878"
+    },
+    {
+      "nafn": "Bob Gale",
+      "starfsgrein": "handritshöfundur, leikstjóri og framleiðandi",
+      "ar": "1951"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Markús Örn Antonsson",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi borgarstjóri Reykjavíkur",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Jón frá Pálmholti",
+      "starfsgrein": "rithöfundur",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Samúel Eggertsson",
+      "starfsgrein": "kortagerðarmaður og skrautritari",
+      "ar": "1864"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjall klifu Joe Brown og George Band fyrstir árið 1955 án þess að stíga á sjálfan tindinn?",
+      "svor": [
+        "Everest",
+        "Kangchenjunga",
+        "K2",
+        "Mont Blanc"
+      ],
+      "rett": 1,
+      "skyring": "Kangchenjunga er þriðja hæsta fjall heims og fjallgöngumennirnir námu staðar rétt neðan við tindinn."
+    },
+    {
+      "spurning": "Hvaða íslenski stjórnmálaflokkur var stofnaður 25. maí 1929?",
+      "svor": [
+        "Framsóknarflokkurinn",
+        "Alþýðuflokkurinn",
+        "Sjálfstæðisflokkurinn",
+        "Sósíalistaflokkurinn"
+      ],
+      "rett": 2,
+      "skyring": "Sjálfstæðisflokkurinn varð til þegar þingmenn Íhaldsflokksins og Frjálslynda flokksins tóku höndum saman."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er fyrrverandi borgarstjóri Reykjavíkur?",
+      "svor": [
+        "Jón frá Pálmholti",
+        "Markús Örn Antonsson",
+        "Samúel Eggertsson",
+        "Bob Gale"
+      ],
+      "rett": 1,
+      "skyring": "Markús Örn Antonsson hefur gegnt embætti borgarstjóra Reykjavíkur."
+    }
+  ],
+  "tonlistUSA": "Everything She Wants – Wham! (1985)",
+  "tonlistUK": "19 – Paul Hardcastle (1985)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er dauft ljós eða rökkur, til dæmis þegar dagur færist mjúklega yfir í nótt."
+  },
+  "vissir_thu": "Við fyrstu klifurferðina á Kangchenjunga árið 1955 stigu Joe Brown og George Band vísvitandi ekki á hæsta punkt fjallsins.",
+  "stjornuspa": "Tvíburinn finnur í dag tvær snjallar lausnir á sama vandamálinu og talar sig næstum út úr báðum. Haltu hugmyndunum til haga — ein þeirra gæti reynst gulls ígildi þegar Merkúr hættir að fikta í ritvélinni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Primera_junta_por_Francisco_Fortuny.jpg/500px-Primera_junta_por_Francisco_Fortuny.jpg",
+    "ar": "1810",
+    "texti": "Fyrsta sjálfstæða ríkisstjórn Argentínu, Primera Junta, var stofnuð á opnum borgarafundi í Buenos Aires. Þar með lauk maíbyltingunni og nýr kafli hófst í sjálfstæðisbaráttu landsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Primera_Junta",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-07",
+  "dagur": 7,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:09",
+  "sunset": "23:44",
+  "kvedja": "Góðan dag, kæri lesandi! Sjöundi júní hefur bæði séð ríki viðurkennd, banka opna og hundrað þúsund tónlistarunnendur troða sér í Hyde Park — sem sannar að sagan kann bæði formlegheit og fjör. Helltu upp á kaffið; við skulum fletta saman í dagatalinu með örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "879",
+      "texti": "Jóhannes VIII páfi viðurkenndi Króatíu formlega sem sjálfstætt ríki og Branimir sem hertoga þess. Páfabréf gátu greinilega vegið býsna þungt á miðöldum."
+    },
+    {
+      "ar": "1692",
+      "texti": "Öflugur jarðskjálfti, talinn um 7,5 að stærð, sökkti hluta Port Royal á Jamaíku í hafið og varð um 5.000 manns að bana."
+    },
+    {
+      "ar": "1832",
+      "texti": "Bresku umbótalögin fengu konunglegt samþykki. Lögin rýmkuðu kosningarétt og eru gjarnan talin mikilvægt upphafsskref nútímalýðræðis í Bretlandi."
+    },
+    {
+      "ar": "1929",
+      "texti": "Lateransamningarnir voru staðfestir og Vatíkanið varð að sjálfstæðu ríki. Þar með lauk hinni langvinnu „Rómardeilu“ milli páfastóls og Ítalíu."
+    },
+    {
+      "ar": "1965",
+      "texti": "Hæstiréttur Bandaríkjanna úrskurðaði í málinu Griswold gegn Connecticut að bann ríkisins við notkun getnaðarvarna bryti gegn friðhelgi hjónabands."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1904",
+      "texti": "Íslandsbanki hinn eldri tók til starfa með einkarétt á seðlaútgáfu. Bankinn starfaði til ársins 1930 og seðlaveskið fékk þar með nýjan húsbónda.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Bandaríkin sendu 5.000 manna herlið til Íslands á árum síðari heimsstyrjaldarinnar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1986",
+      "texti": "Sjóminjasafn Íslands var opnað í Hafnarfirði í tengslum við Þjóðminjasafnið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1992",
+      "texti": "Nýr Herjólfur kom til Vestmannaeyja; skipið gat flutt 480 farþega og 62 fólksbíla í hverri ferð.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Allen Iverson",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Bear Grylls",
+      "starfsgrein": "ævintýramaður, rithöfundur og sjónvarpsmaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Anna Torv",
+      "starfsgrein": "leikkona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "George Ezra",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Beau Brummell",
+      "starfsgrein": "tískufrömuður og krikketleikari",
+      "ar": "1778"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Tómas Sæmundsson",
+      "starfsgrein": "prestur og Fjölnismaður",
+      "ar": "1807"
+    },
+    {
+      "nafn": "Jón Thorstensen",
+      "starfsgrein": "læknir",
+      "ar": "1794"
+    },
+    {
+      "nafn": "Matthías Einarsson",
+      "starfsgrein": "læknir",
+      "ar": "1879"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ríki varð formlega til þegar Lateransamningarnir voru staðfestir árið 1929?",
+      "svor": [
+        "San Marínó",
+        "Vatíkanið",
+        "Mónakó",
+        "Liechtenstein"
+      ],
+      "rett": 1,
+      "skyring": "Vatíkanið varð sjálfstætt ríki árið 1929 — smátt að flatarmáli en stórt í sögunni."
+    },
+    {
+      "spurning": "Hversu marga farþega gat nýr Herjólfur flutt árið 1992?",
+      "svor": [
+        "280",
+        "360",
+        "480",
+        "620"
+      ],
+      "rett": 2,
+      "skyring": "Herjólfur gat tekið 480 farþega, auk 62 fólksbíla."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er þekktur fyrir ævintýra- og útivistarþætti?",
+      "svor": [
+        "Allen Iverson",
+        "George Ezra",
+        "Bear Grylls",
+        "Beau Brummell"
+      ],
+      "rett": 2,
+      "skyring": "Bear Grylls hefur gert óbyggðir heimsins að vinnustað sínum — nesti virðist þó oft aukaatriði."
+    }
+  ],
+  "tonlistUSA": "Thank God I'm a Country Boy – John Denver (1975)",
+  "tonlistUK": "Whispering Grass – Windsor Davies og Don Estelle (1975)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fagurt séð inn um glugga en reynist kaldara eða óþægilegra þegar út er komið."
+  },
+  "vissir_thu": "Port Royal á Jamaíku var að stórum hluta byggð á lausum sandi, sem gerði eyðilegginguna í jarðskjálftanum 1692 enn meiri.",
+  "stjornuspa": "Tvíburar, í dag berast þér fréttir hraðar en skeyti á ritstjórnarskrifstofu árið 1929, en þú þarft ekki að svara þeim öllum. Settu góða plötu á fóninn, veldu eitt ævintýri og láttu hitt bíða til morguns.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Jan-VIII.jpg",
+    "ar": "879",
+    "texti": "Jóhannes VIII páfi viðurkenndi Króatíu formlega sem sjálfstætt ríki og Branimir sem hertoga þess. Páfabréf gátu greinilega vegið býsna þungt á miðöldum.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_John_VIII",
+    "breidd": 251,
+    "haed": 427
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

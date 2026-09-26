@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-27",
+  "dagur": 27,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:36",
+  "sunset": "23:14",
+  "kvedja": "Góðan 27. maí, kæri lesandi! Í dag göngum við yfir Golden Gate-brúna, hlustum á Bob Dylan og minnumst þess að íslenskir prestar þurftu forðum að mæta í húsvitjun tvisvar á ári — nokkurs konar samfélagsmiðill með sálmabók og ullarsokkum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1923",
+      "texti": "Frönsku ökumennirnir André Lagache og René Léonard óku flesta hringi í fyrstu 24 stunda kappakstrinum í Le Mans. Þar með hófst ein frægasta þolaksturshefð heims — langur vinnudagur, svo ekki sé meira sagt."
+    },
+    {
+      "ar": "1937",
+      "texti": "Golden Gate-brúin var opnuð milli San Francisco og Marin-sýslu. Hún var þá lengsta hengibrú heims miðað við meginhaf og varð samstundis eitt kunnasta kennileiti Bandaríkjanna."
+    },
+    {
+      "ar": "1963",
+      "texti": "Bob Dylan gaf út plötuna The Freewheelin' Bob Dylan, fyrstu plötu sína með verulegum fjölda frumsaminna laga. Ungur maður með gítar sýndi þar að fáein hljómgrip gátu hrist rækilega upp í samtímanum."
+    },
+    {
+      "ar": "1967",
+      "texti": "Ástralar samþykktu með yfirgnæfandi meirihluta stjórnarskrárbreytingar sem heimiluðu að frumbyggjar væru taldir með í opinberum íbúatölum og að alríkisstjórnin setti um þá sérstök lög í fylkjunum."
+    },
+    {
+      "ar": "2006",
+      "texti": "Jarðskjálfti af stærðinni 6,4 reið yfir nærri Yogyakarta á indónesísku eyjunni Jövu. Meira en 5.700 manns létust í þessum miklu náttúruhamförum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1746",
+      "texti": "Tilskipun um húsvitjanir var gefin út á Íslandi og skyldu prestar heimsækja hvert heimili minnst tvisvar á ári. Enginn gat því auðveldlega falið sig á bak við gardínuna þegar presturinn bankaði.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1857",
+      "texti": "Reglur voru settar um að danskir embættismenn yrðu að standast íslenskupróf áður en þeir fengju embætti á Íslandi. Málfræðin fékk þar með óvenju beittar embættistennur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1981",
+      "texti": "Fjórir menn fórust í flugslysi á Holtavörðuheiði. Þrátt fyrir umfangsmikla leit fannst flak vélarinnar ekki fyrr en 10. júní.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "2011",
+      "texti": "Alþingi viðurkenndi íslenskt táknmál sem fyrsta tungumál heyrnarlausra á Íslandi og íslenskt blindraletur sem fullgilt íslenskt ritmál.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "André 3000",
+      "starfsgrein": "rappari og leikari",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Aymeric Laporte",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Bruce Cockburn",
+      "starfsgrein": "söngvaskáld og gítarleikari",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Amelia Bloomer",
+      "starfsgrein": "blaðamaður og baráttukona",
+      "ar": "1818"
+    },
+    {
+      "nafn": "Elizabeth Charlotte",
+      "starfsgrein": "þýsk prinsessa og bréfritari",
+      "ar": "1652"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birkir Bjarnason",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Þormóður Torfason",
+      "starfsgrein": "sagnaritari",
+      "ar": "1636"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða heimsfræga brú var opnuð 27. maí 1937?",
+      "svor": [
+        "Golden Gate-brúin",
+        "Brooklyn-brúin",
+        "Tower Bridge",
+        "Sydney Harbour-brúin"
+      ],
+      "rett": 0,
+      "skyring": "Golden Gate-brúin opnaði þennan dag og var þá lengsta hengibrú heims miðað við meginhaf."
+    },
+    {
+      "spurning": "Hvaða tungumál fékk viðurkenningu Alþingis sem fyrsta tungumál heyrnarlausra árið 2011?",
+      "svor": [
+        "Esperanto",
+        "Danskt táknmál",
+        "Íslenskt táknmál",
+        "Latína"
+      ],
+      "rett": 2,
+      "skyring": "Íslenskt táknmál hlaut þessa mikilvægu viðurkenningu — og hendurnar fengu loks orðið í lögunum."
+    },
+    {
+      "spurning": "Hvaða íslenski knattspyrnumaður á afmæli 27. maí?",
+      "svor": [
+        "Birkir Bjarnason",
+        "Eiður Smári Guðjohnsen",
+        "Gylfi Þór Sigurðsson",
+        "Aron Einar Gunnarsson"
+      ],
+      "rett": 0,
+      "skyring": "Birkir Bjarnason fæddist árið 1988 og hefur borið íslenska landsliðsbúninginn með sóma."
+    }
+  ],
+  "tonlistUSA": "Groovin' – The Young Rascals (1967)",
+  "tonlistUK": "Silence Is Golden – The Tremeloes (1967)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "húsvitjun",
+    "skyring": "Húsvitjun er formleg heimsókn prests á heimili sóknarbarna, meðal annars til að kanna kunnáttu í kristinfræði og lestri."
+  },
+  "vissir_thu": "The Freewheelin' Bob Dylan var fyrsta plata Dylans sem hafði að geyma verulegan fjölda laga sem hann samdi sjálfur.",
+  "stjornuspa": "Tvíburar, hugmyndir þínar þjóta í dag hraðar en kappakstursbíll í Le Mans, en veldu eina áður en allar taka fram úr hver annarri. Símtal eða óvænt spjall gæti opnað brú að nýju ævintýri — jafnvel þótt hún sé ekki jafn glæsileg og Golden Gate.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Andr%C3%A9_Lagache_en_1926.jpg/500px-Andr%C3%A9_Lagache_en_1926.jpg",
+    "ar": "1923",
+    "texti": "Frönsku ökumennirnir André Lagache og René Léonard óku flesta hringi í fyrstu 24 stunda kappakstrinum í Le Mans. Þar með hófst ein frægasta þolaksturshefð heims — langur vinnudagur, svo ekki sé meira sagt.",
+    "heimild": "https://en.wikipedia.org/wiki/André_Lagache",
+    "breidd": 330,
+    "haed": 333
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

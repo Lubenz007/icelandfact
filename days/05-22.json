@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-22",
+  "dagur": 22,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:51",
+  "sunset": "22:58",
+  "kvedja": "Góðan og gleðilegan 22. maí! Í dag hittast forseti með einkaleyfi, ægilegur jarðskjálfti og gulur köggull á tölvuskjá — sagan kann sannarlega að blanda sérkennilegan kokteil. Vonandi verður dagurinn þinn þó öllu rólegri, með hæfilegu Pac-Man-glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1849",
+      "texti": "Abraham Lincoln fékk einkaleyfi á búnaði sem átti að lyfta bátum yfir hindranir í ám. Hann varð þar með eini forseti Bandaríkjanna sem hefur átt skráð einkaleyfi."
+    },
+    {
+      "ar": "1874",
+      "texti": "Sálumessa Giuseppe Verdis var frumflutt í San Marco-kirkjunni í Mílanó, ári eftir andlát rithöfundarins Alessandro Manzoni. Verdi sýndi þar að messa gæti haft næstum jafn mikinn dramatískan kraft og heil ópera."
+    },
+    {
+      "ar": "1915",
+      "texti": "Lassen Peak í Kaliforníu gaus af miklum krafti. Þetta var eina eldgosið í samliggjandi ríkjum Bandaríkjanna á 20. öld þar til Mount St. Helens tók við keflinu árið 1980."
+    },
+    {
+      "ar": "1960",
+      "texti": "Öflugasti jarðskjálfti sem mælst hefur reið yfir nærri Valdivia í Chile og mældist um 9,5 að stærð. Flóðbylgjur bárust alla leið til Hawaii og Japans."
+    },
+    {
+      "ar": "1980",
+      "texti": "Prófanir á spilakassaleiknum Pac-Man hófust í Shibuya í Tókýó. Litli guli mathákurinn varð síðan eitt þekktasta tákn tölvuleikjamenningar níunda áratugarins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1702",
+      "texti": "Erindisbréf var gefið út vegna gerðar manntals á Íslandi. Verkið tók þrjú ár og var enginn smá sunnudagsrúntur með skriffæri í vasanum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1849",
+      "texti": "Norðurreið Skagfirðinga hófst þegar hópur bænda reið til Möðruvalla, mótmælti embættisfærslu Gríms Jónssonar amtmanns og krafðist afsagnar hans.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1952",
+      "texti": "Fyrstu trén í Kjarnaskógi við Akureyri voru gróðursett. Þar var lagður grunnur að einum kunnasta útivistarskógi Norðlendinga.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2010",
+      "texti": "Keflavíkurflugvelli var lokað vegna eldgossins í Eyjafjallajökli. Askan minnti flugheiminn enn á að íslensk eldfjöll fara ekki eftir brottfarartöflum.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Arthur Conan Doyle",
+      "starfsgrein": "skoskur rithöfundur",
+      "ar": "1859"
+    },
+    {
+      "nafn": "Arturo Vidal",
+      "starfsgrein": "síleskur knattspyrnumaður",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Anna Baryshnikov",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Apolo Ohno",
+      "starfsgrein": "bandarískur skautahlaupari",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Arseniy Yatsenyuk",
+      "starfsgrein": "úkraínískur stjórnmálamaður",
+      "ar": "1974"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Heida Reed",
+      "starfsgrein": "íslensk-bresk leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Jónína Jónatansdóttir",
+      "starfsgrein": "íslenskur verkalýðsleiðtogi",
+      "ar": "1869"
+    },
+    {
+      "nafn": "Thora Friðriksson",
+      "starfsgrein": "íslenskur rithöfundur",
+      "ar": "1866"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða verðandi Bandaríkjaforseti fékk einkaleyfi á bátabúnaði árið 1849?",
+      "svor": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Theodore Roosevelt",
+        "Thomas Jefferson"
+      ],
+      "rett": 0,
+      "skyring": "Abraham Lincoln fékk einkaleyfið og er enn eini Bandaríkjaforsetinn sem hefur átt slíkt."
+    },
+    {
+      "spurning": "Hvar hófust prófanir á Pac-Man árið 1980?",
+      "svor": [
+        "Seúl",
+        "Shibuya í Tókýó",
+        "Los Angeles",
+        "London"
+      ],
+      "rett": 1,
+      "skyring": "Pac-Man hóf veiðar sínar á draugum í Shibuya í Tókýó."
+    },
+    {
+      "spurning": "Hvaða frægi höfundur Sherlock Holmes fæddist 22. maí 1859?",
+      "svor": [
+        "H. G. Wells",
+        "Jules Verne",
+        "Arthur Conan Doyle",
+        "Agatha Christie"
+      ],
+      "rett": 2,
+      "skyring": "Arthur Conan Doyle skapaði spæjarann Sherlock Holmes og hinn þolinmóða dr. Watson."
+    }
+  ],
+  "tonlistUSA": "Sir Duke – Stevie Wonder (1977)",
+  "tonlistUK": "I Don't Want to Talk About It / The First Cut Is the Deepest – Rod Stewart (1977)",
+  "bio": "Shrek (2001)",
+  "ord_dagsins": {
+    "ord": "harðæri",
+    "skyring": "Harðæri er tímabil mikils skorts og erfiðra lífsskilyrða, oft vegna óáranar eða veðráttu."
+  },
+  "vissir_thu": "Abraham Lincoln er eini forseti Bandaríkjanna sem hefur fengið útgefið einkaleyfi.",
+  "stjornuspa": "Tvíburinn finnur í dag tvær snjallar lausnir áður en aðrir hafa lokið við að skilgreina vandamálið. Varastu þó Pac-Man-aðferðina í samskiptum: það er ekki alltaf hyggilegt að gleypa allt sem á vegi þínum verður.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/500px-Abraham_Lincoln_O-77_matte_collodion_print.jpg",
+    "ar": "1849",
+    "texti": "Abraham Lincoln fékk einkaleyfi á búnaði sem átti að lyfta bátum yfir hindranir í ám. Hann varð þar með eini forseti Bandaríkjanna sem hefur átt skráð einkaleyfi.",
+    "heimild": "https://en.wikipedia.org/wiki/Abraham_Lincoln",
+    "breidd": 330,
+    "haed": 425
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

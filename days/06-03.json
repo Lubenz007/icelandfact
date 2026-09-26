@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-03",
+  "dagur": 3,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:18",
+  "sunset": "23:34",
+  "kvedja": "Góðan 3. júní, kæri lesandi! Í dag fljúgum við frá sjóorrustu við Portúgal upp á Annapurna og lendum loks í Eldey, þar sem geirfuglinn minnir okkur á að sagan getur bæði verið stórbrotin og sár. Haltu fast í kaffibollann — fortíðin er stundum ókyrrari en Tvíburi með tvö dagatöl.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1602",
+      "texti": "Enski flotinn sigraði spænsk-portúgalskan flota undan Sesimbra í Portúgal og náði þar stóru kaupskipi á sitt vald. Sjávarútgáfa 17. aldar af því að mæta óboðinn og fara heim með stærsta pakkann."
+    },
+    {
+      "ar": "1844",
+      "texti": "Síðustu tveir geirfuglarnir sem vitað er um voru drepnir í Eldey við Ísland. Þar með hvarf þessi stóri, ófleygi sjófugl úr heiminum."
+    },
+    {
+      "ar": "1950",
+      "texti": "Frönsku fjallgöngumennirnir Maurice Herzog og Louis Lachenal komust á tind Annapurna. Þeir urðu fyrstir manna til að klífa fjall sem rís meira en 8.000 metra yfir sjávarmál."
+    },
+    {
+      "ar": "1968",
+      "texti": "Valerie Solanas skaut listamanninn Andy Warhol og særði hann alvarlega í vinnustofu hans, Factory, í New York. Tveir aðrir særðust einnig í árásinni."
+    },
+    {
+      "ar": "2025",
+      "texti": "Luvsannamsrain Oyun-Erdene, forsætisráðherra Mongólíu, sagði af sér eftir margra vikna mótmæli. Stjórnmálavindarnir á sléttunum reyndust honum heldur hvassir."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1746",
+      "texti": "Húsagatilskipunin var gefin út á Íslandi og fjallaði um réttindi og skyldur húsbænda og hjúa, auk uppeldis barna. Hún teygði þannig anga sína inn á fjölmörg íslensk heimili.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1844",
+      "texti": "Síðustu tveir geirfuglarnir sem vitað er um voru veiddir í Eldey. Dagurinn varð því dapurlegur lokakafli í sögu þessarar íslensku fuglategundar.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1926",
+      "texti": "Fílharmoníuhljómsveit Hamborgar hélt tónleika í Iðnó undir stjórn Jóns Leifs. Tónleikarnir voru sagðir mesti listviðburður sem þá hafði orðið á Íslandi — ekkert smáræði í einum sal.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1989",
+      "texti": "Jóhannes Páll 2. páfi kom til Íslands og söng meðal annars messu við Landakotskirkju, þar sem þúsundir komu saman.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anderson Cooper",
+      "starfsgrein": "fréttamaður og rithöfundur",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Beabadoobee",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Allen Ginsberg",
+      "starfsgrein": "skáld",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Bill Paterson",
+      "starfsgrein": "leikari",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Al Horford",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1986"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðrún frá Lundi",
+      "starfsgrein": "rithöfundur",
+      "ar": "1887"
+    },
+    {
+      "nafn": "Magnús Grímsson",
+      "starfsgrein": "þjóðsagnasafnari",
+      "ar": "1825"
+    },
+    {
+      "nafn": "Guðrún Indriðadóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1882"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjall var klifið í fyrsta sinn 3. júní 1950?",
+      "svor": [
+        "Everest",
+        "Annapurna",
+        "K2",
+        "Kilimanjaro"
+      ],
+      "rett": 1,
+      "skyring": "Maurice Herzog og Louis Lachenal náðu tindi Annapurna og rufu þar með 8.000 metra múrinn."
+    },
+    {
+      "spurning": "Hvar voru síðustu þekktu geirfuglarnir veiddir árið 1844?",
+      "svor": [
+        "Í Grímsey",
+        "Í Flatey",
+        "Í Eldey",
+        "Í Viðey"
+      ],
+      "rett": 2,
+      "skyring": "Eldey varð vettvangur síðasta þekkta kaflans í sögu geirfuglsins."
+    },
+    {
+      "spurning": "Hvaða frægi myndlistarmaður særðist í skotárás í Factory árið 1968?",
+      "svor": [
+        "Andy Warhol",
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "David Hockney"
+      ],
+      "rett": 0,
+      "skyring": "Valerie Solanas skaut Andy Warhol í vinnustofu hans í New York."
+    }
+  ],
+  "tonlistUSA": "Too Much, Too Little, Too Late – Johnny Mathis og Deniece Williams (1978)",
+  "tonlistUK": "Rivers of Babylon – Boney M. (1978)",
+  "bio": "Big (1988)",
+  "ord_dagsins": {
+    "ord": "hjú",
+    "skyring": "Hjú var einstaklingur sem réð sig til þjónustu og starfa á heimili annars, til dæmis vinnumaður eða vinnukona."
+  },
+  "vissir_thu": "Geirfuglinn var ófleygur sjófugl, og síðustu tveir fuglarnir sem vitað er um voru drepnir í Eldey 3. júní 1844.",
+  "stjornuspa": "Tvíburar, gömul skilaboð eða gleymd hugmynd gætu skotið upp kollinum eins og fax úr skrifstofu árið 1987 — taktu mark á innihaldinu, ekki tækninni. Forðastu þó að lofa tvennu í einu; jafnvel þú hefur aðeins einn þriðja júní til umráða.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg/500px-English_Ships_and_the_Spanish_Armada%2C_August_1588_RMG_BHC0262.jpg",
+    "ar": "1602",
+    "texti": "Enski flotinn sigraði spænsk-portúgalskan flota undan Sesimbra í Portúgal og náði þar stóru kaupskipi á sitt vald. Sjávarútgáfa 17. aldar af því að mæta óboðinn og fara heim með stærsta pakkann.",
+    "heimild": "https://en.wikipedia.org/wiki/Anglo-Spanish_War_(1585–1604)",
+    "breidd": 330,
+    "haed": 258
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

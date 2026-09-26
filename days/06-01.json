@@ -1,0 +1,143 @@
+{
+  "mmdd": "06-01",
+  "dagur": 1,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:23",
+  "sunset": "23:28",
+  "kvedja": "Góðan 1. júní, kæri lesandi! Í dag siglum við frá trúfrelsi 17. aldar yfir í kjarnorkuafvopnun, með viðkomu í Hafnarfirði og örlitlu Alanis Morissette-kryddi. Sagan kann svo sannarlega að blanda lagalista.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1660",
+      "texti": "Kvekarinn Mary Dyer var hengd í Boston eftir að hafa ítrekað óhlýðnast lögum sem bönnuðu kvekera í Massachusetts Bay-nýlendunni. Dauði hennar varð síðar sterkt tákn í baráttunni fyrir trúfrelsi."
+    },
+    {
+      "ar": "1868",
+      "texti": "Navahóar og Bandaríkjastjórn undirrituðu Bosque Redondo-sáttmálann, sem heimilaði Navahóum í haldi við Fort Sumner að snúa aftur til ættlanda sinna."
+    },
+    {
+      "ar": "1974",
+      "texti": "Læknirinn Henry Heimlich kynnti í óformlegri grein í læknatímariti aðferð með kviðþrýstingi til að bjarga fólki sem stendur á öndinni. Heimlich-aðferðin átti eftir að verða eitt þekktasta skyndihjálparbragð heims."
+    },
+    {
+      "ar": "1988",
+      "texti": "Samningurinn um meðaldrægar kjarnorkueldflaugar var fullgiltur og bannaði bandarískar og sovéskar landeldflaugar með 500 til 5.500 kílómetra drægni. Það var óvenju áþreifanlegt skref í átt að hlýrra loftslagi í kalda stríðinu."
+    },
+    {
+      "ar": "2018",
+      "texti": "Fulltrúadeild spænska þingsins samþykkti vantraust á ríkisstjórnina, í fyrsta sinn frá lýðræðisvæðingu Spánar sem slík tillaga náði fram að ganga."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1908",
+      "texti": "Fræðslulögin frá 1907 tóku gildi á Íslandi og þar með hófst skólaskylda barna á aldrinum 10 til 14 ára.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1908",
+      "texti": "Hafnarfjörður fékk kaupstaðarréttindi og steig þar með stórt skref í bæjarsögunni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1976",
+      "texti": "Bretar samþykktu 200 mílna efnahagslögsögu Íslands og þar með lauk seinna þorskastríðinu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2007",
+      "texti": "Reykingabann tók gildi á öllum veitinga- og skemmtistöðum landsins. Kaffibollinn fékk loksins að ilma án samkeppni frá tóbaksreyk.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alanis Morissette",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Amy Schumer",
+      "starfsgrein": "grínisti og leikkona",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Andy Griffith",
+      "starfsgrein": "leikari, söngvari og framleiðandi",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Brigham Young",
+      "starfsgrein": "trúarleiðtogi",
+      "ar": "1801"
+    },
+    {
+      "nafn": "Alan Wilder",
+      "starfsgrein": "tónlistarmaður og upptökustjóri",
+      "ar": "1959"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Valgerður Hafstað",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1930"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íslenski bær fékk kaupstaðarréttindi 1. júní 1908?",
+      "svor": [
+        "Hafnarfjörður",
+        "Akranes",
+        "Selfoss",
+        "Ísafjörður"
+      ],
+      "rett": 0,
+      "skyring": "Hafnarfjörður fékk kaupstaðarréttindi sama dag og fræðslulögin tóku gildi."
+    },
+    {
+      "spurning": "Hvaða aðferð kynnti Henry Heimlich árið 1974?",
+      "svor": [
+        "Kælingu við brunasárum",
+        "Kviðþrýsting við köfnun",
+        "Gerviöndun í vatni",
+        "Spelkun handleggs"
+      ],
+      "rett": 1,
+      "skyring": "Kviðþrýstingurinn varð heimsþekktur sem Heimlich-aðferðin."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins söng sig inn í hjörtu heimsins með beittum og persónulegum textum?",
+      "svor": [
+        "Amy Schumer",
+        "Andy Griffith",
+        "Alanis Morissette",
+        "Brigham Young"
+      ],
+      "rett": 2,
+      "skyring": "Alanis Morissette er söngkona og lagahöfundur, fædd árið 1974."
+    }
+  ],
+  "tonlistUSA": "Everything She Wants – Wham! (1985)",
+  "tonlistUK": "Silence Is Golden – The Tremeloes (1967)",
+  "bio": "Upp (2009)",
+  "ord_dagsins": {
+    "ord": "árdegi",
+    "skyring": "Árdegi er fyrri hluti dagsins, frá morgni og fram undir hádegi."
+  },
+  "vissir_thu": "Samningurinn sem var fullgiltur 1. júní 1988 bannaði allar bandarískar og sovéskar landeldflaugar með drægni frá 500 upp í 5.500 kílómetra.",
+  "stjornuspa": "Tvíburar ættu að dusta rykið af vasadagatali, kassettutæki eða annarri virðulegri fortíðartækni; þar leynist hugmynd sem er enn nothæf. Taktu þó aðeins eina ákvörðun í einu, því jafnvel tvöfalt stjörnumerki þarf stundum að standa við sama kaffibollann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/MaryDyerByHowardPyle.jpg/500px-MaryDyerByHowardPyle.jpg",
+    "ar": "1660",
+    "texti": "Kvekarinn Mary Dyer var hengd í Boston eftir að hafa ítrekað óhlýðnast lögum sem bönnuðu kvekera í Massachusetts Bay-nýlendunni. Dauði hennar varð síðar sterkt tákn í baráttunni fyrir trúfrelsi.",
+    "heimild": "https://en.wikipedia.org/wiki/Mary_Dyer",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

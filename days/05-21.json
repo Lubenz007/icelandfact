@@ -1,0 +1,143 @@
+{
+  "mmdd": "05-21",
+  "dagur": 21,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:54",
+  "sunset": "22:55",
+  "kvedja": "Góðan 21. maí, kæri lesandi! Í dag fljúgum við með Lindbergh yfir Atlantshafið, göngum á Everest með íslenskum fjallagörpum og höldum okkur í hæfilegri fjarlægð frá pólitískum fallvöltum valdastólum. Spennið beltin — sagan á það til að taka krappar beygjur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "878",
+      "texti": "Aghlabídar náðu borginni Sýrakúsu á sitt vald í stríðum Araba og Býsansmanna. Borgin var þar með innlimuð í landvinninga múslima á Sikiley."
+    },
+    {
+      "ar": "1703",
+      "texti": "Enski rithöfundurinn Daniel Defoe var fangelsaður fyrir uppreisnarærandi meiðyrði eftir útgáfu háðsádeilubæklings. Penninn reyndist sem sagt bæði beittur og líklegur til að koma eiganda sínum bak við lás og slá."
+    },
+    {
+      "ar": "1851",
+      "texti": "Þing Kólumbíu samþykkti lög um afnám þrælahalds, sem skyldu taka gildi við upphaf næsta árs. Þar var stigið stórt skref í átt að frelsi, þótt samfélagslegar afleiðingar þrælahaldsins hyrfu vitaskuld ekki með einu pennastriki."
+    },
+    {
+      "ar": "1927",
+      "texti": "Charles Lindbergh lauk fyrsta sólófluginu án millilendingar yfir Atlantshafið þegar Spirit of St. Louis lenti við París. Flugið hófst nærri New York og lauk með því að Lindbergh varð heimsfrægur áður en hann hafði náð almennilegum nætursvefni."
+    },
+    {
+      "ar": "1998",
+      "texti": "Suharto sagði af sér forsetaembætti í Indónesíu eftir 32 ár við völd, þegar efnahags- og stjórnmálakreppa hafði grafið undan stuðningi við hann. Jafnvel þrír áratugir í valdastóli veita enga ævarandi seturéttindi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1929",
+      "texti": "Fyrsta kvennastúkan á Íslandi innan Oddfellowreglunnar var stofnuð.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1977",
+      "texti": "Samtök herstöðvaandstæðinga efndu til Straumsvíkurgöngu gegn bandarískri hersetu á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1983",
+      "texti": "Ásmundarsafn, helgað verkum myndhöggvarans Ásmundar Sveinssonar, var formlega opnað við Sigtún í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1997",
+      "texti": "Björn Ólafsson, Einar Stefánsson og Hallgrímur Magnússon urðu fyrstir Íslendinga til að stíga á tind Everestfjalls.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Albrecht Dürer",
+      "starfsgrein": "þýskur myndlistarmaður og koparstungumeistari",
+      "ar": "1471"
+    },
+    {
+      "nafn": "Alexander Pope",
+      "starfsgrein": "enskt skáld, ritgerðahöfundur og þýðandi",
+      "ar": "1688"
+    },
+    {
+      "nafn": "Andrei Sakharov",
+      "starfsgrein": "rússneskur eðlisfræðingur og friðarverðlaunahafi Nóbels",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Al Franken",
+      "starfsgrein": "bandarískur leikari, handritshöfundur og stjórnmálamaður",
+      "ar": "1951"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ari Ólafsson",
+      "starfsgrein": "söngvari",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Ísleifur Einarsson",
+      "starfsgrein": "sýslumaður",
+      "ar": "1765"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða flugmaður lauk fyrsta sólófluginu án millilendingar yfir Atlantshafið árið 1927?",
+      "svor": [
+        "Charles Lindbergh",
+        "Amelia Earhart",
+        "Louis Blériot",
+        "Howard Hughes"
+      ],
+      "rett": 0,
+      "skyring": "Charles Lindbergh lenti Spirit of St. Louis við París eftir flugið sögufræga."
+    },
+    {
+      "spurning": "Hvaða safn var formlega opnað við Sigtún í Reykjavík árið 1983?",
+      "svor": [
+        "Kjarvalsstaðir",
+        "Ásmundarsafn",
+        "Þjóðminjasafnið",
+        "Listasafn Einars Jónssonar"
+      ],
+      "rett": 1,
+      "skyring": "Ásmundarsafn opnaði formlega og hýsir verk Ásmundar Sveinssonar."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins hlaut friðarverðlaun Nóbels?",
+      "svor": [
+        "Alexander Pope",
+        "Albrecht Dürer",
+        "Andrei Sakharov",
+        "Al Franken"
+      ],
+      "rett": 2,
+      "skyring": "Eðlisfræðingurinn Andrei Sakharov varð jafnframt kunnur baráttumaður fyrir mannréttindum."
+    }
+  ],
+  "tonlistUSA": "Let's Dance – David Bowie (1983)",
+  "tonlistUK": "True – Spandau Ballet (1983)",
+  "bio": "The Empire Strikes Back (1980)",
+  "ord_dagsins": {
+    "ord": "víl",
+    "skyring": "Víl merkir sorg, hryggð eða vonleysi og sést meðal annars í orðasambandinu „án víls og vara“."
+  },
+  "vissir_thu": "Charles Lindbergh flaug einn og án millilendingar frá nágrenni New York til Parísar í Spirit of St. Louis árið 1927.",
+  "stjornuspa": "Tvíburar finna í dag gamalt erindi, gleymt símanúmer eða hugmynd sem hefði sómt sér vel árið 1983. Ræðið málið við báðar hliðar persónuleikans áður en þið takið ákvörðun — en látið þær ekki stofna nefnd.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg",
+    "ar": "878",
+    "texti": "Aghlabídar náðu borginni Sýrakúsu á sitt vald í stríðum Araba og Býsansmanna. Borgin var þar með innlimuð í landvinninga múslima á Sikiley.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab–Byzantine_wars",
+    "breidd": 330,
+    "haed": 169
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

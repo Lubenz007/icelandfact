@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-29",
+  "dagur": 29,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:31",
+  "sunset": "23:20",
+  "kvedja": "Góðan 29. maí, kæri lesandi! Í dag klífum við Everest, hlýðum á tónlist sem kom Parísarbúum úr jafnvægi og rifjum upp íslenskan kosningasigur sem munaði aðeins einu sæti. Haltu fast í kaffibollann — sagan kann stundum að hristast.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1176",
+      "texti": "Langbarðabandalagið sigraði her Heilaga rómverska keisaradæmisins í orrustunni við Legnano á Ítalíu. Þar fékk Friðrik rauðskeggur heldur óþægilega áminningu um að skegg tryggir ekki sigur."
+    },
+    {
+      "ar": "1453",
+      "texti": "Konstantínópel féll í hendur Tyrkja undir stjórn Mehmets 2. og þar með lauk sögu Austrómverska ríkisins. Heimsveldi sem hafði staðið öldum saman kvaddi sögusviðið með miklum hvelli."
+    },
+    {
+      "ar": "1851",
+      "texti": "Sojourner Truth flutti hina áhrifamiklu ræðu „Ain't I a Woman?“ á kvenréttindaþingi í Akron. Ræðan varð síðar eitt þekktasta ákall 19. aldar um réttindi kvenna og svartra Bandaríkjamanna."
+    },
+    {
+      "ar": "1913",
+      "texti": "Frumsýning ballettsins Le Sacre du printemps eftir Igor Stravinsky olli nærri því uppþoti í París vegna óvenjulegrar tónlistar og danshöfundarverks. Þetta var eitt þeirra sjaldgæfu kvölda þegar ballettskór og hneykslun dönsuðu saman."
+    },
+    {
+      "ar": "1953",
+      "texti": "Edmund Hillary og Tenzing Norgay urðu fyrstir manna til að ná tindi Everestfjalls. Þar var hvorki rauður dregill né kaffistofa, en útsýnið mun hafa bætt það upp."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1947",
+      "texti": "Farþegaflugvél Flugfélags Íslands rakst á Hestfjall í Héðinsfirði og fórust allir 25 sem um borð voru. Flugslysið er einn mannskæðasti flugatburður Íslandssögunnar.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1999",
+      "texti": "Selma Björnsdóttir varð í öðru sæti fyrir Ísland í Söngvakeppni evrópskra sjónvarpsstöðva, en Charlotte Nilsson sigraði fyrir Svíþjóð. Silfrið sveið örlítið, enda virtist sigurinn um stund vera innan seilingar.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2008",
+      "texti": "Jarðskjálfti af stærðinni 6,2 reið yfir Suðurland klukkan 15:46 og olli töluverðu tjóni, einkum á Selfossi. Þar minnti jörðin rækilega á að hún ræður sjálf dagskránni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2010",
+      "texti": "Sveitarstjórnarkosningar voru haldnar um landið og Besti flokkurinn varð stærstur í Reykjavík með sex borgarfulltrúa. Íslensk stjórnmál fengu þennan dag óvenjustóran skammt af gríni.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Annette Bening",
+      "starfsgrein": "leikkona",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Andrey Arshavin",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Aaron McGruder",
+      "starfsgrein": "höfundur og teiknimyndasmiður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Abdoulaye Wade",
+      "starfsgrein": "fræðimaður og fyrrverandi forseti Senegal",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Alfonsina Storni",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1892"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Friðriksson",
+      "starfsgrein": "júdómaður",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Finnur Jónsson",
+      "starfsgrein": "málfræðingur",
+      "ar": "1858"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tveir fjallgöngumenn náðu fyrstir tindi Everest 29. maí 1953?",
+      "svor": [
+        "Edmund Hillary og Tenzing Norgay",
+        "Robert Scott og Roald Amundsen",
+        "George Mallory og Andrew Irvine",
+        "Reinhold Messner og Peter Habeler"
+      ],
+      "rett": 0,
+      "skyring": "Edmund Hillary og Tenzing Norgay stóðu á hæsta tindi heims árið 1953."
+    },
+    {
+      "spurning": "Hvar urðu miklar skemmdir í jarðskjálftanum á Íslandi árið 2008?",
+      "svor": [
+        "Á Ísafirði",
+        "Á Selfossi",
+        "Á Egilsstöðum",
+        "Í Stykkishólmi"
+      ],
+      "rett": 1,
+      "skyring": "Skjálftinn olli mestu tjóni á Selfossi og nágrenni."
+    },
+    {
+      "spurning": "Hvaða íslenska söngkona varð í öðru sæti í Söngvakeppni evrópskra sjónvarpsstöðva árið 1999?",
+      "svor": [
+        "Lena Meyer-Landrut",
+        "Charlotte Nilsson",
+        "Selma Björnsdóttir",
+        "Annette Bening"
+      ],
+      "rett": 2,
+      "skyring": "Selma Björnsdóttir hafnaði í öðru sæti og þjóðin var bæði stolt og örlítið svekkt."
+    }
+  ],
+  "tonlistUSA": "Help Me, Rhonda – The Beach Boys (1965)",
+  "tonlistUK": "Long Live Love – Sandie Shaw (1965)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "kviðlingur",
+    "skyring": "Kviðlingur er stutt kvæði, oft létt eða spaugilegt."
+  },
+  "vissir_thu": "Upprunaleg upptaka Bing Crosby á White Christmas frá 1942 varð síðar mest selda smáskífa heims, með meira en 50 milljón seld eintök.",
+  "stjornuspa": "Tvíburar ættu að hafa vasadagbókina við höndina, því snjöll hugmynd gæti skotið upp kollinum milli kaffibolla og símtals. Varastu þó að lofa þig á tvo staði í einu — jafnvel Tvíburar eiga aðeins eitt dagatal.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Communal_fight_in_Bologna_%28Sercambi%29.jpg/500px-Communal_fight_in_Bologna_%28Sercambi%29.jpg",
+    "ar": "1176",
+    "texti": "Langbarðabandalagið sigraði her Heilaga rómverska keisaradæmisins í orrustunni við Legnano á Ítalíu. Þar fékk Friðrik rauðskeggur heldur óþægilega áminningu um að skegg tryggir ekki sigur.",
+    "heimild": "https://en.wikipedia.org/wiki/Guelphs_and_Ghibellines",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

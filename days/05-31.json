@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-31",
+  "dagur": 31,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:25",
+  "sunset": "23:25",
+  "kvedja": "Góðan dag og gleðilegan 31. maí! Í dag förum við úr rykmekki Rómar yfir í handritahillur Feneyja og endum með fjallgöngu á Snæfellsnesi — sagan ferðast sannarlega létt, þótt farangurinn sé stundum þungur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "455",
+      "texti": "Petronius Maximus, keisari Vesturrómverska ríkisins, var grýttur til bana af múgi þegar hann reyndi að flýja Róm áður en Vandalar komu og rændu borgina. Keisarastarfið bauð greinilega ekki upp á öruggan starfslokasamning."
+    },
+    {
+      "ar": "1215",
+      "texti": "Mongólski herinn undir stjórn Djengis Khan náði Zhongdu, þar sem Peking stendur nú, höfuðborg Jin-ættarinnar í Kína."
+    },
+    {
+      "ar": "1468",
+      "texti": "Bessarion kardínáli tilkynnti að hann gæfi lýðveldinu Feneyjum 746 grísk og latnesk handrit. Gjöfin varð grundvöllur Biblioteca Marciana — bókagjöf sem þurfti meira en eina burðarpokaferð."
+    },
+    {
+      "ar": "1902",
+      "texti": "Síðara Búastríðinu lauk með undirritun Vereeniging-sáttmálans í Pretoríu í Suður-Afríku."
+    },
+    {
+      "ar": "1981",
+      "texti": "Skipulagður hópur lögreglumanna og stjórnarstuddra singalesískra vopnasveita hóf þriggja daga árásir sem leiddu til brennunnar á almenningsbókasafninu í Jaffna á Srí Lanka. Meira en 97.000 rit og munir eyðilögðust í einu alvarlegasta dæmi 20. aldar um eyðingu bókmenningar af þjóðernislegum hvötum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1735",
+      "texti": "Ásgrímur Böðvarsson kleif stærri Lóndranginn á Snæfellsnesi fyrstur manna svo vitað sé. Þar var hvorki merkt gönguleið né kaffihús á toppnum.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1909",
+      "texti": "Hornsteinn var lagður að heilsuhælinu fyrir berklaveika á Vífilsstöðum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1973",
+      "texti": "Richard Nixon Bandaríkjaforseti og Georges Pompidou Frakklandsforseti héldu heimsmálafund á Kjarvalsstöðum. Henry Kissinger og Valéry Giscard d'Estaing voru einnig í för, svo þar hefur varla skort þungavigtarsamtöl.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Alþingi kom í fyrsta sinn saman í einni deild eftir að hafa starfað í tveimur deildum í 116 ár.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Iga Świątek",
+      "starfsgrein": "tenniskona",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Archie Panjabi",
+      "starfsgrein": "leikkona",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Andy Hurley",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Akira Ifukube",
+      "starfsgrein": "tónskáld og kennari",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Alida Valli",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1921"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Benedikt Erlingsson",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Arilíus Marteinsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Jóhann Páll Jóhannsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1992"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mannvirki kleif Ásgrímur Böðvarsson árið 1735?",
+      "svor": [
+        "Stærri Lóndrang",
+        "Kirkjufell",
+        "Hvannadalshnúk",
+        "Esjuna"
+      ],
+      "rett": 0,
+      "skyring": "Ásgrímur kleif stærri Lóndrang á Snæfellsnesi — án þess að geta birt toppmyndina á samfélagsmiðlum."
+    },
+    {
+      "spurning": "Hvers konar safn fékk 746 grísk og latnesk handrit að gjöf árið 1468?",
+      "svor": [
+        "Listasafn í Flórens",
+        "Bókasafn í Feneyjum",
+        "Skjalasafn í París",
+        "Háskólasafn í Oxford"
+      ],
+      "rett": 1,
+      "skyring": "Handritagjöf Bessarions varð grundvöllur Biblioteca Marciana í Feneyjum."
+    },
+    {
+      "spurning": "Hvað breyttist hjá Alþingi 31. maí 1991?",
+      "svor": [
+        "Það fluttist til Akureyrar",
+        "Það var lagt niður um sumarið",
+        "Það kom saman í einni deild",
+        "Þingmönnum var fækkað í tólf"
+      ],
+      "rett": 2,
+      "skyring": "Alþingi varð einnar deildar þing eftir 116 ára starf í tveimur deildum."
+    }
+  ],
+  "tonlistUSA": "MMMBop – Hanson (1997)",
+  "tonlistUK": "I Wanna Be the Only One – Eternal featuring BeBe Winans (1997)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "bókfell",
+    "skyring": "Bókfell er sérstaklega verkað dýraskinn sem áður var notað sem efniviður í handrit."
+  },
+  "vissir_thu": "Bessarion kardínáli gaf Feneyjum 746 grísk og latnesk handrit árið 1468, og gjöfin varð kjarninn í hinu merka Biblioteca Marciana.",
+  "stjornuspa": "Tvíburar finna í dag gamla hugmynd í andlegri skúffu og uppgötva að hún passar enn, líkt og furðu vel varðveitt flauelsjakka úr áttunda áratugnum. Talið af innlifun, en munið að hlusta líka — jafnvel útvarpstæki þarf loftnet.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Solidus_of_Petronius_Maximus.png/330px-Solidus_of_Petronius_Maximus.png",
+    "ar": "455",
+    "texti": "Petronius Maximus, keisari Vesturrómverska ríkisins, var grýttur til bana af múgi þegar hann reyndi að flýja Róm áður en Vandalar komu og rændu borgina. Keisarastarfið bauð greinilega ekki upp á öruggan starfslokasamning.",
+    "heimild": "https://en.wikipedia.org/wiki/Petronius_Maximus",
+    "breidd": 330,
+    "haed": 304
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

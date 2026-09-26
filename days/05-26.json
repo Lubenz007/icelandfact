@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-26",
+  "dagur": 26,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:39",
+  "sunset": "23:10",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 26. maí flýjum við með Vilhjálmi af Ockham frá Avignon, fylgjum hermönnum frá Dunkerque og minnumst þess þegar íslensk umferð færðist yfir á hægri kantinn — vonandi án þess að kaffibollinn færi á hliðina.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "946",
+      "texti": "Edmund 1. Englandskonungur var myrtur í Pucklechurch á messudegi heilags Ágústínusar. Konungleg hátíðahöld tóku þar heldur óvænta og dapurlega stefnu."
+    },
+    {
+      "ar": "1328",
+      "texti": "Enska munknum Vilhjálmi af Ockham, sem gerði hina svonefndu rakvél Ockhams fræga, tókst að yfirgefa Avignon á laun vegna ógnar frá Jóhannesi 22. páfa."
+    },
+    {
+      "ar": "1822",
+      "texti": "Mannskæðasti eldsvoði í sögu Noregs varð í kirkju í Grue og kostaði að minnsta kosti 113 manns lífið."
+    },
+    {
+      "ar": "1940",
+      "texti": "Bandamenn hófu umfangsmikinn brottflutning breskra, franskra og belgískra hermanna sem þýski herinn hafði króað af við Dunkerque."
+    },
+    {
+      "ar": "2020",
+      "texti": "Mótmæli vegna morðsins á George Floyd brutust út á Minneapolis–Saint Paul-svæðinu. Þau breiddust síðan út um Bandaríkin og víða um heim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1056",
+      "texti": "Ísleifur Gissurarson var vígður biskup til Skálholts, þá um fimmtugt, og varð þar með fyrsti íslenski biskupinn.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1885",
+      "texti": "Garðyrkjufélag Íslands var stofnað — merkisdagur fyrir þjóð sem síðar lærði að rækta ótrúlegustu hluti með yl, þrautseigju og nægu kaffi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1929",
+      "texti": "Björgunarbáturinn Þorsteinn, fyrsti báturinn sem Slysavarnafélag Íslands eignaðist, var vígður í Reykjavík. Hann var síðar staðsettur í Sandgerði og er enn varðveittur þar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1968",
+      "texti": "H-dagurinn rann upp og hægri umferð tók gildi á Íslandi. Þjóðin skipti um vegarhelming, en sem betur fer ekki öll í einu og án leiðbeininga.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Al Jolson",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1886"
+    },
+    {
+      "nafn": "Alan Hollinghurst",
+      "starfsgrein": "rithöfundur og ljóðskáld",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Anthony Ervin",
+      "starfsgrein": "sundmaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Micah Parsons",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Yeji",
+      "starfsgrein": "söngkona",
+      "ar": "2000"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Brynjólfur Bjarnason",
+      "starfsgrein": "heimspekingur og stjórnmálamaður",
+      "ar": "1898"
+    },
+    {
+      "nafn": "Geir Zoëga",
+      "starfsgrein": "útgerðarmaður",
+      "ar": "1830"
+    },
+    {
+      "nafn": "Héðinn Valdimarsson",
+      "starfsgrein": "verkalýðsforingi",
+      "ar": "1892"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrsti íslenski biskupinn?",
+      "svor": [
+        "Ísleifur Gissurarson",
+        "Brynjólfur Bjarnason",
+        "Geir Zoëga",
+        "Héðinn Valdimarsson"
+      ],
+      "rett": 0,
+      "skyring": "Ísleifur Gissurarson var vígður til Skálholts árið 1056 og ruddi þannig biskupum landsins brautina."
+    },
+    {
+      "spurning": "Hvaða stórbreyting varð á íslenskum vegum 26. maí 1968?",
+      "svor": [
+        "Hámarkshraði var afnuminn",
+        "Vinstri umferð tók gildi",
+        "Hægri umferð tók gildi",
+        "Öllum malarvegum var lokað"
+      ],
+      "rett": 2,
+      "skyring": "Á H-deginum færðist umferðin yfir á hægri vegarhelminginn og ökumenn þurftu að hugsa örlítið meira en venjulega."
+    },
+    {
+      "spurning": "Hvaðan voru hermenn bandamanna fluttir á brott árið 1940?",
+      "svor": [
+        "Dunkerque",
+        "Avignon",
+        "Grue",
+        "Liverpool"
+      ],
+      "rett": 0,
+      "skyring": "Brottflutningurinn frá Dunkerque bjargaði miklum fjölda breskra, franskra og belgískra hermanna."
+    }
+  ],
+  "tonlistUSA": "The Streak – Ray Stevens (1974)",
+  "tonlistUK": "Sugar Baby Love – The Rubettes (1974)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist indælt þegar horft er út um glugga en reynist mun síðra þegar út er komið."
+  },
+  "vissir_thu": "Rakvél Ockhams er sú aðferðafræðilega regla að þegar fleiri en ein skýring kemur til greina skuli ekki gera ráð fyrir fleiri forsendum en nauðsynlegt er.",
+  "stjornuspa": "Tvíburar finna í dag gamla hugmynd í hugarskúffunni og pússa hana þar til hún glansar eins og ný. Varist þó að skipta um skoðun jafnhratt og Íslendingar skiptu um vegarhelming á H-deginum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Edmund_I_-_MS_Royal_14_B_VI.jpg/500px-Edmund_I_-_MS_Royal_14_B_VI.jpg",
+    "ar": "946",
+    "texti": "Edmund 1. Englandskonungur var myrtur í Pucklechurch á messudegi heilags Ágústínusar. Konungleg hátíðahöld tóku þar heldur óvænta og dapurlega stefnu.",
+    "heimild": "https://en.wikipedia.org/wiki/Edmund_I",
+    "breidd": 330,
+    "haed": 302
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

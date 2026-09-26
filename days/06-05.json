@@ -1,0 +1,148 @@
+{
+  "mmdd": "06-05",
+  "dagur": 5,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:13",
+  "sunset": "23:39",
+  "kvedja": "Góðan 5. júní! Í dag göngum við frá grímudansi við hirð Jakobs konungs yfir í Marshalláætlunina, með viðkomu í Surtsey og brjóstsykurskjallara Nóa — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1610",
+      "texti": "Grímudansverkið Tethys' Festival var flutt í Whitehall-höll til heiðurs Hinriki Friðrik við útnefningu hans sem prins af Wales. Hirðlífið kunni þá vel að blanda saman stjórnmálum, skrauti og dálitlu leikrænu glimmeri."
+    },
+    {
+      "ar": "1832",
+      "texti": "Júníuppreisnin, uppreisn andstæðinga konungsveldisins, braust út í París. Hún varð síðar ódauðleg í bókmenntum, ekki síst fyrir tilstilli Vesalinganna eftir Victor Hugo."
+    },
+    {
+      "ar": "1947",
+      "texti": "George Marshall, utanríkisráðherra Bandaríkjanna, lagði í ræðu við Harvard-háskóla grunninn að umfangsmikilli efnahagsaðstoð við stríðshrjáða Evrópu. Endurreisnaráætlunin varð brátt þekkt sem Marshalláætlunin."
+    },
+    {
+      "ar": "1981",
+      "texti": "Bandaríska sóttvarnastofnunin birti lýsingu á fyrstu klínísku tilfellum alnæmis. Þar hófst nýr og erfiður kafli í sögu læknisfræði og lýðheilsu."
+    },
+    {
+      "ar": "1989",
+      "texti": "Óþekktur mótmælandi, síðar nefndur „Skriðdrekamaðurinn“, stöðvaði einn síns liðs röð kínverskra skriðdreka í tengslum við mótmælin á Torgi hins himneska friðar. Myndin af honum varð eitt þekktasta tákn borgaralegs hugrekkis á 20. öld."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1885",
+      "texti": "Bríet Bjarnhéðinsdóttir skrifaði í Fjallkonuna um menntun og réttindi kvenna. Þetta var fyrsta greinin sem íslensk kona skrifaði í opinbert blað.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1920",
+      "texti": "Brjóstsykursgerðin Nói hóf starfsemi í kjallara við Túngötu í Reykjavík. Smátt var byrjað, en sælgætissagan átti eftir að verða býsna bragðgóð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Surtseyjargosinu lauk eftir að hafa staðið yfir í þrjú og hálft ár. Ný eyja hafði bókstaflega risið úr sæ, eins og jarðsagan hefði tekið upp á því að stunda landvinninga.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2023",
+      "texti": "Um 2.500 félagsmenn BSRB lögðu niður störf á um 150 vinnustöðum í 29 sveitarfélögum víða um Ísland.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Chaeryeong",
+      "starfsgrein": "söng- og danskona",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Dave",
+      "starfsgrein": "rappari",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Yulia Lipnitskaya",
+      "starfsgrein": "listhlaupari á skautum",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Art Donovan",
+      "starfsgrein": "leikmaður í amerískum fótbolta og útvarpsmaður",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Allvar Gullstrand",
+      "starfsgrein": "augnlæknir og Nóbelsverðlaunahafi",
+      "ar": "1862"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Vilhjálmur Einarsson",
+      "starfsgrein": "frjálsíþróttamaður",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Magnús Eiríksson",
+      "starfsgrein": "guðfræðingur",
+      "ar": "1806"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eyja lauk að gjósa 5. júní 1967 eftir þriggja og hálfs árs umbrot?",
+      "svor": [
+        "Heimaey",
+        "Surtsey",
+        "Grímsey",
+        "Viðey"
+      ],
+      "rett": 1,
+      "skyring": "Surtsey reis úr sjó sunnan Íslands og gosinu lauk árið 1967."
+    },
+    {
+      "spurning": "Hvar hóf brjóstsykursgerðin Nói starfsemi árið 1920?",
+      "svor": [
+        "Í kjallara við Túngötu",
+        "Í verbúð við Grandagarð",
+        "Í bakhúsi við Laugaveg",
+        "Í skemmu við Elliðaár"
+      ],
+      "rett": 0,
+      "skyring": "Nói hóf starfsemina í kjallara við Túngötu í Reykjavík — hógvær byrjun með sætum eftirköstum."
+    },
+    {
+      "spurning": "Hvaða endurreisnaráætlun kynnti George Marshall hugmyndina að í Harvard-ræðu árið 1947?",
+      "svor": [
+        "Schengenáætluninni",
+        "Marshalláætluninni",
+        "Versalaáætluninni",
+        "Apolloáætluninni"
+      ],
+      "rett": 1,
+      "skyring": "Marshalláætlunin studdi við efnahagslega endurreisn Evrópu eftir síðari heimsstyrjöld."
+    }
+  ],
+  "tonlistUSA": "Ebony and Ivory – Paul McCartney og Stevie Wonder (1982)",
+  "tonlistUK": "House of Fun – Madness (1982)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "dægrastytting",
+    "skyring": "Dægrastytting er afþreying eða iðja sem styttir manni stundir."
+  },
+  "vissir_thu": "Vilhjálmur Einarsson vann silfurverðlaun í þrístökki á Ólympíuleikunum í Melbourne árið 1956.",
+  "stjornuspa": "Tvíburar finna í dag gamalt erindi, nýja hugmynd og að minnsta kosti tvær skoðanir á sama málinu. Haltu glansandi hugmyndinni, en settu hina í skúffu við hliðina á símaskránni og kasettutækinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/IJonesKnightmasque.jpg/330px-IJonesKnightmasque.jpg",
+    "ar": "1610",
+    "texti": "Grímudansverkið Tethys' Festival var flutt í Whitehall-höll til heiðurs Hinriki Friðrik við útnefningu hans sem prins af Wales. Hirðlífið kunni þá vel að blanda saman stjórnmálum, skrauti og dálitlu leikrænu glimmeri.",
+    "heimild": "https://en.wikipedia.org/wiki/Masque",
+    "breidd": 330,
+    "haed": 595
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

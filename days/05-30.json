@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-30",
+  "dagur": 30,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:28",
+  "sunset": "23:22",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 30. maí mætast Hinrik áttundi, Bach, geimfarar og íslenskir klettaklifrarar á síðum sögunnar — samkvæmi sem jafnvel Tvíburar ættu erfitt með að skipuleggja. Komdu þér vel fyrir og njóttu dagsins með örlitlu söguglotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1536",
+      "texti": "Jane Seymour giftist Hinriki 8. Englandskonungi og varð drottning Englands. Konungurinn var þá þegar orðinn nokkuð alræmdur fyrir að láta hjónabönd sín taka óvæntar beygjur."
+    },
+    {
+      "ar": "1723",
+      "texti": "Johann Sebastian Bach tók við embætti Thomaskantor í Leipzig og flutti kantötuna Die Elenden sollen essen í Nikulásarkirkjunni. Þar hófst einn af frjóustu köflum tónlistarsögunnar."
+    },
+    {
+      "ar": "1866",
+      "texti": "Gamanóperan Selda brúðurin eftir Bedřich Smetana var frumflutt í Prag. Verkið varð síðar ein þekktasta ópera tékkneskrar tónlistar."
+    },
+    {
+      "ar": "1922",
+      "texti": "Lincoln-minnisvarðinn í Washington var vígður, með hinni mikilfenglegu styttu Daniels Chester French af Abraham Lincoln. Forsetinn situr þar enn og horfir yfir höfuðborgina með svip manns sem hefur séð sitt lítið af hverju."
+    },
+    {
+      "ar": "2020",
+      "texti": "Crew Dragon Demo-2 lagði af stað til Alþjóðlegu geimstöðvarinnar og varð fyrsta mannaða atvinnugeimferðin þangað. Einkafyrirtæki var þar með komið í skutluakstur út fyrir gufuhvolfið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1581",
+      "texti": "Mikill jarðskjálfti reið yfir Suðurland; bæir á Rangárvöllum og í Hvolhreppi hrundu og mannskaði varð.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1768",
+      "texti": "Eggert Ólafsson skáld og varalögmaður fórst á Breiðafirði ásamt eiginkonu sinni og sex öðrum á heimleið úr vetursetu í Sauðlauksdal.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1829",
+      "texti": "Jónas Hallgrímsson flutti prófræðu sína í Bessastaðakirkju, löngu áður en ljóð hans urðu skyldulesning og þjóðargersemi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1894",
+      "texti": "Eldey var klifin í fyrsta sinn af Eldeyjar-Hjalta, Hjalta Jónssyni, og tveimur öðrum Vestmannaeyingum. Förin þótti með eindæmum hættuleg — og enginn var þar með öryggisbelti úr útivistarverslun.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Agnès Varda",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Benny Goodman",
+      "starfsgrein": "klarínettuleikari og hljómsveitarstjóri",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Alexei Leonov",
+      "starfsgrein": "geimfari og flugmaður",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Big L",
+      "starfsgrein": "rappari",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Aleksandr Golovin",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1996"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arna Lára Jónsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Ari Johnsen",
+      "starfsgrein": "óperusöngvari",
+      "ar": "1860"
+    },
+    {
+      "nafn": "Sigurður Sigurðarson",
+      "starfsgrein": "vígslubiskup",
+      "ar": "1944"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónskáld tók við embætti Thomaskantor í Leipzig árið 1723?",
+      "svor": [
+        "Johann Sebastian Bach",
+        "Bedřich Smetana",
+        "Benny Goodman",
+        "Wolfgang Amadeus Mozart"
+      ],
+      "rett": 0,
+      "skyring": "Bach tók við embættinu og hóf þar einstaklega afkastamikið tímabil."
+    },
+    {
+      "spurning": "Hvaða íslenski klettur var klifinn í fyrsta sinn 30. maí 1894?",
+      "svor": [
+        "Drangey",
+        "Eldey",
+        "Surtsey",
+        "Málmey"
+      ],
+      "rett": 1,
+      "skyring": "Eldeyjar-Hjalti og félagar náðu toppi Eldeyjar í hinni mestu hættuför."
+    },
+    {
+      "spurning": "Hvað var sérstakt við Crew Dragon Demo-2 árið 2020?",
+      "svor": [
+        "Það lenti á tunglinu",
+        "Það flutti fyrsta ferðamanninn til Mars",
+        "Það var fyrsta mannaða atvinnugeimferðin til Alþjóðlegu geimstöðvarinnar",
+        "Það var fyrsta geimfarið frá Íslandi"
+      ],
+      "rett": 2,
+      "skyring": "Demo-2 markaði tímamót þegar atvinnugeimfar flutti fólk til Alþjóðlegu geimstöðvarinnar."
+    }
+  ],
+  "tonlistUSA": "Everything Is Beautiful – Ray Stevens (1970)",
+  "tonlistUK": "Back Home – England World Cup Squad (1970)",
+  "bio": "Finding Nemo (2003)",
+  "ord_dagsins": {
+    "ord": "kviðlingur",
+    "skyring": "Kviðlingur er stutt kvæði, gjarnan létt, spaugilegt eða ort af sérstöku tilefni."
+  },
+  "vissir_thu": "Alexei Leonov varð árið 1965 fyrsti maðurinn til að fara út úr geimfari og svífa í geimnum.",
+  "stjornuspa": "Tvíburar finna gamalt erindi, óvænta hugmynd eða gleymda plötu sem setur daginn skemmtilega úr skorðum. Varastu þó að lofa þig á tvo staði samtímis — jafnvel tvíburastjörnumerki fær aðeins einn almanaksdag í einu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Hans_Holbein_the_Younger_-_Jane_Seymour%2C_Queen_of_England_-_Google_Art_Project.jpg/500px-Hans_Holbein_the_Younger_-_Jane_Seymour%2C_Queen_of_England_-_Google_Art_Project.jpg",
+    "ar": "1536",
+    "texti": "Jane Seymour giftist Hinriki 8. Englandskonungi og varð drottning Englands. Konungurinn var þá þegar orðinn nokkuð alræmdur fyrir að láta hjónabönd sín taka óvæntar beygjur.",
+    "heimild": "https://en.wikipedia.org/wiki/Jane_Seymour",
+    "breidd": 330,
+    "haed": 531
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

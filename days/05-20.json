@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-20",
+  "dagur": 20,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "03:57",
+  "sunset": "22:51",
+  "kvedja": "Góðan 20. maí! Í dag spannar sagan allt frá kirkjuþingi í Níkeu til metrakerfisins og nashyrnings sem vakti furðu í Lissabon — býsna drjúgt dagsverk. Stilltu mælistikuna rétt, fáðu þér kaffibolla og njóttu ferðarinnar með mér.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "325",
+      "texti": "Konstantínus mikli setti fyrsta kirkjuþingið í Níkeu formlega. Þar komu kirkjuleiðtogar saman til að útkljá trúfræðileg ágreiningsefni, sem voru síst einfaldari en ættarmót með erfðadeilu."
+    },
+    {
+      "ar": "1515",
+      "texti": "Nashyrningurinn Ulysses steig á land í Lissabon og varð fyrsti fulltrúi tegundar sinnar í Evrópu í um þúsund ár. Koma hans vakti gríðarlega athygli og hann varð síðar frægur af tréskurðarmynd."
+    },
+    {
+      "ar": "1875",
+      "texti": "Fulltrúar sautján ríkja undirrituðu metrasamþykktina og lögðu grunn að alþjóðlegu samstarfi um mælingar og þróun metrakerfisins. Loksins mátti rífast um lengdir á sameiginlegum forsendum."
+    },
+    {
+      "ar": "1983",
+      "texti": "Rannsóknarhópur undir forystu franska veirufræðingsins Luc Montagnier birti uppgötvun sína á HIV. Vísindamennirnir voru þó ekki enn vissir um að veiran ylli alnæmi."
+    },
+    {
+      "ar": "2013",
+      "texti": "Öflugur hvirfilbylur gekk yfir Moore í Oklahoma, varð 24 að bana og olli tjóni sem metið var á um tvo milljarða Bandaríkjadala."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1802",
+      "texti": "Síðustu stúdentarnir voru útskrifaðir úr Hólaskóla og þar með lauk merkum kafla í íslenskri menntasögu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1818",
+      "texti": "Siglufjörður varð löggiltur verslunarstaður, löngu áður en síldin gerði bæinn að einni fjörugustu verstöð landsins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1922",
+      "texti": "Vinna hófst við Flóaáveituna, mestu áveituframkvæmdir sem ráðist hafði verið í á Íslandi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1944",
+      "texti": "Þjóðaratkvæðagreiðsla um stofnun lýðveldis á Íslandi hófst og stóð í fjóra daga. Kjósendur fengu þar tækifæri til að marka einhver stærstu tímamót stjórnmálasögunnar.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charles Spencer",
+      "starfsgrein": "blaðamaður og rithöfundur",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Busta Rhymes",
+      "starfsgrein": "rappari, upptökustjóri og leikari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Anthony Zerbe",
+      "starfsgrein": "leikari",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Albano Carrisi",
+      "starfsgrein": "söngvari, leikari og víngerðarmaður",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Ali Sami Yen",
+      "starfsgrein": "knattspyrnumaður, þjálfari og stofnandi Galatasaray",
+      "ar": "1886"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ásmundur Sveinsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Sigfús Daðason",
+      "starfsgrein": "ljóðskáld",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Bergur Sigurbjörnsson",
+      "starfsgrein": "stjórnmálamaður og ritstjóri",
+      "ar": "1917"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða óvenjulegi ferðalangur steig á land í Lissabon árið 1515?",
+      "svor": [
+        "Nashyrningurinn Ulysses",
+        "Fíllinn Hannibal",
+        "Gíraffinn Konstantínus",
+        "Flóðhesturinn Bach"
+      ],
+      "rett": 0,
+      "skyring": "Ulysses var nashyrningur og fyrsti fulltrúi tegundarinnar í Evrópu í um þúsund ár."
+    },
+    {
+      "spurning": "Hvaða íslenski staður varð löggiltur verslunarstaður árið 1818?",
+      "svor": [
+        "Hólar",
+        "Siglufjörður",
+        "Selfoss",
+        "Stykkishólmur"
+      ],
+      "rett": 1,
+      "skyring": "Siglufjörður hlaut verslunarréttindin, áður en síldarævintýrið hófst af fullum krafti."
+    },
+    {
+      "spurning": "Hvaða alþjóðlega kerfi fékk traustari grunn með samningi sautján ríkja árið 1875?",
+      "svor": [
+        "Morsekerfið",
+        "Tugatölukerfið",
+        "Metrakerfið",
+        "Tímabeltakerfið"
+      ],
+      "rett": 2,
+      "skyring": "Metrasamþykktin efldi alþjóðlegt samstarf um metrakerfið og nákvæmar mælingar."
+    }
+  ],
+  "tonlistUSA": "Groovin’ – The Young Rascals (1967)",
+  "tonlistUK": "Silence Is Golden – The Tremeloes (1967)",
+  "bio": "The Empire Strikes Back (1980)",
+  "ord_dagsins": {
+    "ord": "álnavara",
+    "skyring": "Álnavara er vefnaðarvara sem áður var seld eftir lengdarmálinu alin."
+  },
+  "vissir_thu": "Metrasamþykktin var undirrituð 20. maí 1875 og þess vegna er alþjóðlegi mælifræðidagurinn haldinn þennan dag.",
+  "stjornuspa": "Nautið finnur gamlan vasareikni, setur Abba á fóninn og gerir fjármálaáætlun sem jafnvel metrakerfið gæti öfundað. Varastu þó að mæla rómantík í sentímetrum — þar dugar innsæið betur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg/500px-%CE%9C%CE%B9%CF%87%CE%B1%CE%AE%CE%BB_%CE%94%CE%B1%CE%BC%CE%B1%CF%83%CE%BA%CE%B7%CE%BD%CF%8C%CF%82_-_%CE%91%CE%84_%CE%9F%CE%B9%CE%BA%CE%BF%CF%85%CE%BC%CE%B5%CE%BD%CE%B9%CE%BA%CE%AE_%CE%A3%CF%8D%CE%BD%CE%BF%CE%B4%CE%BF%CF%82_7741.jpg",
+    "ar": "325",
+    "texti": "Konstantínus mikli setti fyrsta kirkjuþingið í Níkeu formlega. Þar komu kirkjuleiðtogar saman til að útkljá trúfræðileg ágreiningsefni, sem voru síst einfaldari en ættarmót með erfðadeilu.",
+    "heimild": "https://en.wikipedia.org/wiki/First_Council_of_Nicaea",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

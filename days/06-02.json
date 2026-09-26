@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-02",
+  "dagur": 2,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:20",
+  "sunset": "23:31",
+  "kvedja": "Góðan dag, kæri lesandi! Annar júní býður okkur í ferð frá klettavirki í Karíbahafi yfir í konunglega krýningu og fyrsta íslenska íþróttafélagið — sagan ferðast sannarlega létt á Tvíburafótunum. Haltu fast í kaffibollann; fortíðin kann að vera bæði hátíðleg og dálítið óútreiknanleg.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1805",
+      "texti": "Í Napóleonsstríðunum endurheimti fransk-spænskur floti Diamond Rock við Martiník úr höndum Breta. Óbyggður klettur getur nefnilega orðið að hernaðarlegu stórmáli ef hann stendur á nógu hentugum stað."
+    },
+    {
+      "ar": "1886",
+      "texti": "Grover Cleveland Bandaríkjaforseti gekk að eiga Frances Folsom í Hvíta húsinu. Hann er eini sitjandi forseti Bandaríkjanna sem hefur gengið í hjónaband í sjálfu forsetasetrinu."
+    },
+    {
+      "ar": "1953",
+      "texti": "Elísabet II var krýnd drottning í Westminster Abbey í Lundúnum. Athöfnin varð jafnframt stór sjónvarpsviðburður og færði konunglega viðhöfn inn í stofur almennings."
+    },
+    {
+      "ar": "1967",
+      "texti": "Þýski háskólaneminn Benno Ohnesorg var skotinn til bana í Vestur-Berlín þegar hann mótmælti heimsókn Íranssjahs Mohammads Reza Pahlavi. Atvikið varð síðar innblástur að nafni herskáu 2. júní-hreyfingarinnar."
+    },
+    {
+      "ar": "2023",
+      "texti": "Tvær farþegalestir og kyrrstæð vöruflutningalest lentu í hörmulegum árekstri nærri Balasore í Odisha á Indlandi. Alls létust 296 og meira en 1.200 særðust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1541",
+      "texti": "Ögmundur Pálsson, síðasti kaþólski biskupinn í Skálholti, var handtekinn og fluttur nauðugur úr landi. Hann lést á leiðinni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1707",
+      "texti": "Stóra bóla barst með farskipi til Eyrarbakka og breiddist síðan út um Ísland. Sóttin geisaði til um 1709 og varð mannskæðasta farsótt landsins frá svartadauða árið 1402.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1867",
+      "texti": "Reykjavig skydeforening, síðar Skotfélag Reykjavíkur, var stofnað og varð fyrsta íþróttafélag Íslands. Skothúsvegur dregur nafn sitt af æfingahúsi félagsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1934",
+      "texti": "Dalvíkurskjálftinn reið yfir Norðurland, um 6,2 að stærð, og olli miklu tjóni á Dalvík og í nágrenni. Þar minnti jörðin rækilega á að hún liggur ekki alltaf kyrr þótt landsmenn vilji það.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Awkwafina",
+      "starfsgrein": "leikkona, rappari og grínisti",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Andy Cohen",
+      "starfsgrein": "sjónvarpsmaður",
+      "ar": "1968"
+    },
+    {
+      "nafn": "A.J. Styles",
+      "starfsgrein": "fjölbragðaglímumaður",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Abby Wambach",
+      "starfsgrein": "knattspyrnukona og þjálfari",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Alessandro Cagliostro",
+      "starfsgrein": "dulspekingur og landkönnuður",
+      "ar": "1743"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eggert Þór Bernharðsson",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Pétur Sigurgeirsson",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1919"
+    },
+    {
+      "nafn": "Þorgils gjallandi",
+      "starfsgrein": "rithöfundur",
+      "ar": "1851"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða forseti gekk í hjónaband í Hvíta húsinu árið 1886?",
+      "svor": [
+        "Grover Cleveland",
+        "Abraham Lincoln",
+        "Theodore Roosevelt",
+        "Woodrow Wilson"
+      ],
+      "rett": 0,
+      "skyring": "Grover Cleveland sagði já í Hvíta húsinu og sparaði sér þannig að minnsta kosti ferðina úr vinnunni."
+    },
+    {
+      "spurning": "Hvaða félag, stofnað árið 1867, telst fyrsta íþróttafélag Íslands?",
+      "svor": [
+        "Knattspyrnufélag Reykjavíkur",
+        "Skotfélag Reykjavíkur",
+        "Glímufélagið Ármann",
+        "Íþróttafélag Reykjavíkur"
+      ],
+      "rett": 1,
+      "skyring": "Skotfélag Reykjavíkur var brautryðjandinn og Skothúsvegur geymir enn minningu þess í borgarlandinu."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er þekkt bandarísk knattspyrnukona?",
+      "svor": [
+        "Awkwafina",
+        "Abby Wambach",
+        "Andy Cohen",
+        "Barbara Pym"
+      ],
+      "rett": 1,
+      "skyring": "Abby Wambach átti markaskóna, en hin þrjú hefðu líklega valið allt annan leikvöll."
+    }
+  ],
+  "tonlistUSA": "Let's Hear It for the Boy – Deniece Williams (1984)",
+  "tonlistUK": "Wake Me Up Before You Go-Go – Wham! (1984)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "annáll",
+    "skyring": "Annáll er rit þar sem atburðir eru skráðir í tímaröð, gjarnan ár frá ári."
+  },
+  "vissir_thu": "Grover Cleveland er eini sitjandi forseti Bandaríkjanna sem hefur gengið í hjónaband í Hvíta húsinu.",
+  "stjornuspa": "Tvíburar finna gamalt erindi, gleymt símanúmer eða hugmynd sem hefði sómt sér vel árið 1984. Taktu samt aðeins eina ákvörðun í einu — jafnvel tvöfaldur persónuleiki þarf kaffihlé.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/500px-Napoleonic_Wars_%28revision%29.jpg",
+    "ar": "1805",
+    "texti": "Í Napóleonsstríðunum endurheimti fransk-spænskur floti Diamond Rock við Martiník úr höndum Breta. Óbyggður klettur getur nefnilega orðið að hernaðarlegu stórmáli ef hann stendur á nógu hentugum stað.",
+    "heimild": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

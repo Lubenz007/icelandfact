@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-06",
+  "dagur": 6,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:11",
+  "sunset": "23:41",
+  "kvedja": "Góðan 6. júní, kæri lesandi! Í dag förum við frá prentsmiðjunni á Hólum til tunglsins með örlitlu stoppi í Normandí—og Bubbi sér auðvitað um undirspilið. Spennið því sögubeltið; tímavélin er komin í gang.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1513",
+      "texti": "Her Mílanómanna og svissneskra málaliða sigraði Frakka í orrustunni við Novara. Frakkar urðu að hörfa frá hertogadæminu Mílanó og út úr Ítalíu."
+    },
+    {
+      "ar": "1674",
+      "texti": "Shivaji var krýndur fyrsti chhatrapati Marathaveldisins eftir að hafa leitt andspyrnu gegn Bijapur-súltánsdæminu og Mógúlveldinu. Þetta var krýning með talsvert meiri pólitískum þunga en venjuleg afmæliskóróna."
+    },
+    {
+      "ar": "1822",
+      "texti": "Kanadíski ferðalangurinn Alexis St. Martin varð fyrir skoti í kviðinn af slysni. Rannsóknir lækna á sárinu leiddu síðar til aukins skilnings á meltingarferlinu."
+    },
+    {
+      "ar": "1912",
+      "texti": "Mesta eldgos 20. aldar hófst á Alaskaskaga og myndaði eldfjallið Novarupta. Þar minnti jörðin mannkynið á að hún ræður yfir eigin flugeldasýningu."
+    },
+    {
+      "ar": "1944",
+      "texti": "Aðgerð Overlord hófst þegar herir Bandamanna gengu á land á ströndum Normandí í Frakklandi. Þetta var mesta landgönguaðgerð sögunnar og einn af örlagaríkustu dögum síðari heimsstyrjaldarinnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1584",
+      "texti": "Guðbrandsbiblía var gefin út á Hólum í Hjaltadal. Útgáfan varð eitt mikilvægasta rit íslenskrar tungu og prentsögu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1800",
+      "texti": "Alþingi var lagt niður á Íslandi. Þinghald á Þingvöllum lagðist þar með af um tíma, þótt Alþingi ætti síðar eftir að snúa aftur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1891",
+      "texti": "Fyrsta skurðaðgerð á Íslandi með fullri smitgát var framkvæmd á sjúkrahúsinu á Þingeyri. Loksins höfðu sýklar fengið formlega ósk um að halda sig til hlés.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1915",
+      "texti": "Íþróttafélagið Þór var stofnað á Akureyri. Nafnið var sótt til þrumuguðsins, sem telst býsna kröftug byrjun fyrir íþróttafélag.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Albert II",
+      "starfsgrein": "fyrrverandi Belgíukonungur",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Alexander Pushkin",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1799"
+    },
+    {
+      "nafn": "Alix af Hessen",
+      "starfsgrein": "rússnesk keisaraynja",
+      "ar": "1872"
+    },
+    {
+      "nafn": "Aram Khachaturian",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1903"
+    },
+    {
+      "nafn": "David Scott",
+      "starfsgrein": "geimfari og verkfræðingur",
+      "ar": "1932"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bubbi Morthens",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Þorvaldur Thoroddsen",
+      "starfsgrein": "jarðfræðingur og landfræðingur",
+      "ar": "1855"
+    },
+    {
+      "nafn": "Guðmundur Finnbogason",
+      "starfsgrein": "heimspekingur",
+      "ar": "1873"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða stórvirki íslenskrar prentsögu kom út á Hólum árið 1584?",
+      "svor": [
+        "Guðbrandsbiblía",
+        "Heimskringla",
+        "Sturlunga saga",
+        "Vídalínspostilla"
+      ],
+      "rett": 0,
+      "skyring": "Guðbrandsbiblía kom út á Hólum og varð sannkallaður þungavigtargripur íslenskrar málsögu."
+    },
+    {
+      "spurning": "Hvaða eldfjall myndaðist í hinu gríðarlega eldgosi á Alaskaskaga árið 1912?",
+      "svor": [
+        "Etna",
+        "Novarupta",
+        "Krakatau",
+        "Vesúvíus"
+      ],
+      "rett": 1,
+      "skyring": "Novarupta myndaðist í mesta eldgosi 20. aldar."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins stjórnaði Apollo 15?",
+      "svor": [
+        "Albert II",
+        "David Scott",
+        "Alexander Pushkin",
+        "Aram Khachaturian"
+      ],
+      "rett": 1,
+      "skyring": "David Scott stjórnaði Apollo 15 og á því öllu lengri ferðasögu en flest afmælisbörn."
+    }
+  ],
+  "tonlistUSA": "Chapel of Love – The Dixie Cups (1964)",
+  "tonlistUK": "Stand and Deliver – Adam and the Ants (1981)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "mundangshóf",
+    "skyring": "Mundangshóf merkir hófsemi eða það að kunna sér hóf."
+  },
+  "vissir_thu": "Aðgerð Overlord, sem hófst 6. júní 1944, var mesta landgönguaðgerð sögunnar.",
+  "stjornuspa": "Tvíburar finna í dag gleymdan miða í jakkavasa og túlka hann sem skilaboð frá fortíðinni—sem er mun skemmtilegra en að kalla hann rusl. Haltu báðum skoðunum þínum til haga; önnur þeirra gæti reynst rétt fyrir kvöldmat.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Italia._Cambiamenti_territoriali_%281495-1535%29.png/500px-Italia._Cambiamenti_territoriali_%281495-1535%29.png",
+    "ar": "1513",
+    "texti": "Her Mílanómanna og svissneskra málaliða sigraði Frakka í orrustunni við Novara. Frakkar urðu að hörfa frá hertogadæminu Mílanó og út úr Ítalíu.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai",
+    "breidd": 330,
+    "haed": 304
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

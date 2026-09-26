@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-24",
+  "dagur": 24,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Tvíburar",
+  "sunrise": "03:45",
+  "sunset": "23:04",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 24. maí sveiflast sagan frá andlegri vakningu Johns Wesley yfir Brooklyn-brúna og alla leið í fyrsta Eurovision-kvöldið — býsna drjúg dagskrá fyrir einn dag. Helltu upp á kaffið; Mokkakaffi á einmitt afmæli og sagan tekur sinn bolla með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1738",
+      "texti": "John Wesley upplifði það sem hann lýsti sem andlegri endurfæðingu á samkomu í Aldersgate í Lundúnum. Reynslan varð honum hvatning til að hrinda af stað meþódistahreyfingunni."
+    },
+    {
+      "ar": "1883",
+      "texti": "Brooklyn-brúin í New York var opnuð og var þá lengsta hengibrú heims. Hún tengdi ekki aðeins saman bakka heldur varð fljótt eitt kunnasta kennileiti borgarinnar."
+    },
+    {
+      "ar": "1930",
+      "texti": "Breski flugmaðurinn Amy Johnson lenti í Darwin og varð þar með fyrsta konan til að fljúga einsömul frá Englandi til Ástralíu. Þetta var heldur lengri leið en hefðbundinn sunnudagsrúntur."
+    },
+    {
+      "ar": "1956",
+      "texti": "Fyrsta Eurovision-keppnin var haldin í Lugano í Sviss. Þar hófst sú evrópska hefð að leysa ágreining með söngvum, stigum og óvenjulega miklu glimmeri."
+    },
+    {
+      "ar": "1976",
+      "texti": "Í blindri vínsmökkun í París gáfu franskir dómarar kalifornískum vínum hærri einkunnir en frönskum. Niðurstaðan kom vínheiminum rækilega á óvart og varð þekkt sem Parísardómurinn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1839",
+      "texti": "Þegnskylduvinna var tekin upp í Reykjavík og bæjarbúum gert að vinna við gatnagerð. Fyrirkomulagið stóð í sex ár áður en skattheimta tók við — enda ekki allir jafn ákafir með skóflu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "HMS Hood fórst í orrustunni við þýska orrustuskipið Bismarck í Grænlandssundi, um 250 mílur vestur af Íslandi. Aðeins þrír úr áhöfn Hood komust lífs af en 1.418 fórust.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1958",
+      "texti": "Mokkakaffi á Skólavörðustíg var opnað. Kaffihúsið varð síðar ein af rótgrónustu kaffistofnunum Reykjavíkur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2004",
+      "texti": "Alþingi samþykkti umdeilt frumvarp um eignarhald á fjölmiðlum. Forseti Íslands synjaði lögunum síðar staðfestingar.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alfred Molina",
+      "starfsgrein": "leikari",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Rodrigo De Paul",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Tarjei Sandvik Moe",
+      "starfsgrein": "leikari",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Archie Shepp",
+      "starfsgrein": "saxófónleikari og tónskáld",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Abraham Geiger",
+      "starfsgrein": "rabbíni og fræðimaður",
+      "ar": "1810"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björgvin Páll Gústavsson",
+      "starfsgrein": "handknattleiksmaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Bjössi Sax",
+      "starfsgrein": "saxófónleikari",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Bjarni Ómar",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1969"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða stórborgarbrú var opnuð 24. maí 1883?",
+      "svor": [
+        "Brooklyn-brúin",
+        "Golden Gate-brúin",
+        "Tower Bridge",
+        "Sydney Harbour-brúin"
+      ],
+      "rett": 0,
+      "skyring": "Brooklyn-brúin var lengsta hengibrú heims þegar hún var opnuð."
+    },
+    {
+      "spurning": "Í hvaða borg fór fyrsta Eurovision-keppnin fram árið 1956?",
+      "svor": [
+        "París",
+        "Lugano",
+        "Vín",
+        "Róm"
+      ],
+      "rett": 1,
+      "skyring": "Lugano í Sviss hýsti fyrsta Eurovision-kvöld sögunnar."
+    },
+    {
+      "spurning": "Hvaða íslenski handknattleiksmaður á afmæli 24. maí?",
+      "svor": [
+        "Aron Pálmarsson",
+        "Ólafur Stefánsson",
+        "Björgvin Páll Gústavsson",
+        "Guðjón Valur Sigurðsson"
+      ],
+      "rett": 2,
+      "skyring": "Markvörðurinn Björgvin Páll Gústavsson fæddist árið 1985."
+    }
+  ],
+  "tonlistUSA": "Get Back – The Beatles með Billy Preston (1969)",
+  "tonlistUK": "Suicide Is Painless – The Mash (1980)",
+  "bio": "Indiana Jones and the Last Crusade (1989)",
+  "ord_dagsins": {
+    "ord": "þegnskylduvinna",
+    "skyring": "Þegnskylduvinna er vinna sem íbúum eða þegnum er skylt að inna af hendi í almannaþágu."
+  },
+  "vissir_thu": "Þegar Brooklyn-brúin var opnuð árið 1883 var hún lengsta hengibrú heims.",
+  "stjornuspa": "Tvíburar, samskiptatækin suða eins og gamall ritsími og tvö góð tækifæri berast nær samtímis. Veldu annað áður en þú breytir einföldu erindi í heila Eurovision-keppni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/AgnusDeiWindow.jpg/500px-AgnusDeiWindow.jpg",
+    "ar": "1738",
+    "texti": "John Wesley upplifði það sem hann lýsti sem andlegri endurfæðingu á samkomu í Aldersgate í Lundúnum. Reynslan varð honum hvatning til að hrinda af stað meþódistahreyfingunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Moravian_Church",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
