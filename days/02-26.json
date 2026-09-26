@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-26",
+  "dagur": 26,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:47",
+  "sunset": "18:35",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. febrúar sleppur Napóleon úr útlegð, djassið kemst á plötu og Hekla minnir okkur á að Ísland sefur stundum með annað augað opið. Haltu því fast í kaffibollann og njóttu dagsins með sögulegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1606",
+      "texti": "Hollenski landkönnuðurinn Willem Janszoon steig á land í Ástralíu, fyrstur Evrópumanna svo vitað sé. Hann taldi sig þó vera á Nýju-Gíneu — landafræðin var ekki alltaf samvinnuþýð."
+    },
+    {
+      "ar": "1815",
+      "texti": "Napóleon Bónaparte slapp frá eyjunni Elbu, þar sem hann hafði verið í útlegð. Þar með hófst síðasti valdatilburður hans, tímabilið sem síðar varð þekkt sem hundrað dagarnir."
+    },
+    {
+      "ar": "1917",
+      "texti": "Original Dixieland Jass Band tók upp „Livery Stable Blues“, fyrstu djasssmáskífuna sem gefin var út. Djassinn var þar með kominn á plötu og átti ekki afturkvæmt."
+    },
+    {
+      "ar": "1935",
+      "texti": "Skoski verkfræðingurinn Robert Watson-Watt sýndi í fyrsta sinn fram á notagildi ratsjár með aðstoð útvarpsstöðvar í Daventry og tveggja loftneta. Ósýnilegar útvarpsbylgjur fengu skyndilega afar sýnilegt hlutverk."
+    },
+    {
+      "ar": "2008",
+      "texti": "Fílharmóníusveit New York lék í Pjongjang í fyrstu umfangsmiklu bandarísku menningarheimsókninni til Norður-Kóreu frá Kóreustríðinu. Um stund fengu fiðlur og horn að annast erindreksturinn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1719",
+      "texti": "Bærinn Lækjamót í Víðidal brann og hjónin Guðbrandur Arngrímsson sýslumaður og Ragnheiður Jónsdóttir létust í eldinum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1913",
+      "texti": "Kristólína Kragh, fyrsti íslenski hárgreiðslumeistarinn, opnaði hárgreiðslustofu í Reykjavík. Höfuðborgarbúar gátu þar með mætt sögunni nýgreiddir.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2000",
+      "texti": "Eldgos hófst í Heklu og stóð í um það bil ellefu daga. Fjallið hafði sem sagt ákveðið að minna rækilega á sig.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2017",
+      "texti": "Snjódýpt í Reykjavík mældist 51 sentimetri, mesti jafnfallni febrúarsnjór þar frá upphafi mælinga árið 1921.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Buffalo Bill",
+      "starfsgrein": "hermaður, veiðimaður og sýningamaður",
+      "ar": "1846"
+    },
+    {
+      "nafn": "Emmanuel Adebayor",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Lee Chae-rin",
+      "starfsgrein": "söngkona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Betty Hutton",
+      "starfsgrein": "leikkona, söngkona og dansari",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Ahmed Zewail",
+      "starfsgrein": "efnafræðingur og Nóbelsverðlaunahafi",
+      "ar": "1946"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birna Þórðardóttir",
+      "starfsgrein": "félagsfræðingur og aðgerðarsinni",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Björn Kristjánsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1858"
+    },
+    {
+      "nafn": "Þórður Jónassen",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1800"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Frá hvaða eyju slapp Napóleon 26. febrúar 1815?",
+      "svor": [
+        "Elbu",
+        "Korsíku",
+        "Sikiley",
+        "Sankti Helenu"
+      ],
+      "rett": 0,
+      "skyring": "Napóleon slapp frá Elbu, enda var kyrrseta aldrei hans sterkasta grein."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf ellefu daga gos árið 2000?",
+      "svor": [
+        "Katla",
+        "Askja",
+        "Hekla",
+        "Snæfellsjökull"
+      ],
+      "rett": 2,
+      "skyring": "Hekla hóf gosið og hélt sýningunni gangandi í um ellefu daga."
+    },
+    {
+      "spurning": "Hvaða uppfinningu sýndi Robert Watson-Watt fram á notagildi árið 1935?",
+      "svor": [
+        "Sjónvarps",
+        "Ratsjár",
+        "Gufuvélar",
+        "Rafhlöðu"
+      ],
+      "rett": 1,
+      "skyring": "Watson-Watt sýndi hvernig ratsjá gat greint hluti með útvarpsbylgjum."
+    }
+  ],
+  "tonlistUSA": "Baby, Come to Me – Patti Austin og James Ingram (1983)",
+  "tonlistUK": "Too Shy – Kajagoogoo (1983)",
+  "bio": "The Silence of the Lambs (1991)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist indælt þegar horft er út um glugga en reynist ónotalegt þegar út er komið."
+  },
+  "vissir_thu": "Þegar Willem Janszoon steig á land í Ástralíu árið 1606 taldi hann sig vera staddan á Nýju-Gíneu.",
+  "stjornuspa": "Fiskur, innsæið þitt er í dag eins og gömul ratsjá: örlítið brakandi en furðulega nákvæmt. Forðastu þó að taka Napóleon þér til fyrirmyndar og strjúka úr öllum leiðinlegum skyldum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg/500px-Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg",
+    "ar": "1815",
+    "texti": "Napóleon Bónaparte slapp frá eyjunni Elbu, þar sem hann hafði verið í útlegð. Þar með hófst síðasti valdatilburður hans, tímabilið sem síðar varð þekkt sem hundrað dagarnir.",
+    "heimild": "https://en.wikipedia.org/wiki/Napoleon",
+    "breidd": 330,
+    "haed": 550
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

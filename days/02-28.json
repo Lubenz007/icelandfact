@@ -1,0 +1,143 @@
+{
+  "mmdd": "02-28",
+  "dagur": 28,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:40",
+  "sunset": "18:42",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn á síðasta dag febrúar! Í dag siglum við frá skipssköðum við Íslandsstrendur yfir í ljóseindir Ramans og páfa sem ákvað að tímabært væri að stimpla sig út — sagan kann sannarlega að skipta snöggt um gír.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1897",
+      "texti": "Franskar hersveitir settu Ranavalonu III, síðasta sjálfstæða þjóðhöfðingja konungsríkisins Madagaskar, af. Þar með lauk konungsveldinu og nýlendutíminn tók við með sínum þunga skugga."
+    },
+    {
+      "ar": "1904",
+      "texti": "Knattspyrnufélagið sem síðar varð S.L. Benfica var stofnað í Lissabon undir nafninu Sport Lisboa. Fá félög hafa síðan gert rauðan lit jafn heimilislegan á portúgölskum knattspyrnuvöllum."
+    },
+    {
+      "ar": "1928",
+      "texti": "Indverski eðlisfræðingurinn C. V. Raman og samstarfsmenn hans uppgötvuðu fyrirbærið sem nú nefnist Raman-dreifing. Uppgötvunin færði Raman síðar Nóbelsverðlaunin í eðlisfræði, fyrst allra Asíubúa."
+    },
+    {
+      "ar": "1947",
+      "texti": "Hermenn þjóðernisstjórnarinnar skutu á mótmælendur í Taípei og hrundu af stað víðtækum uppreisnum á Taívan. Í kjölfarið fylgdu blóðugar ofsóknir sem urðu hluti af tímabilinu sem nefnt er Hvíta ógnarstjórnin."
+    },
+    {
+      "ar": "2013",
+      "texti": "Benedikt XVI lét af embætti páfa og varð fyrstur til þess í nærri sex aldir. Jafnvel í Páfagarði kemur sem sagt að því að menn loka skrifstofunni og afhenda lyklana."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1920",
+      "texti": "Þilskipið Valtýr fórst fyrir sunnan land og með því þrjátíu manns. Slysið minnir á þann háa toll sem sjósókn hefur lagt á íslensk samfélög.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1941",
+      "texti": "Belgíska flutningaskipið Persier strandaði á Dynskógafjöru austan Hjörleifshöfða. Skipinu var náð út og það dregið til Reykjavíkur, en þar brotnaði það í tvennt við Kleppsvík.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1950",
+      "texti": "Breska olíuflutningaskipið Clam strandaði við Reykjanes. Björgunarsveitin Þorbjörn í Grindavík bjargaði 23 mönnum, en 27 fórust, flestir þeirra frá Kína.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "2015",
+      "texti": "Eldgosinu í Holuhrauni lauk eftir mánaðalanga eldsumbrotahrinu. Jörðin hafði þá sagt sitt — í bili, eins og hún vill gjarnan bæta við hér á landi.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Luka Dončić",
+      "starfsgrein": "slóvenskur körfuknattleiksmaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Ali Larter",
+      "starfsgrein": "bandarísk leikkona og fyrirsæta",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Alex Caruso",
+      "starfsgrein": "bandarískur körfuknattleiksmaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Barry McGuigan",
+      "starfsgrein": "írsk-breskur hnefaleikamaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Alfred von Schlieffen",
+      "starfsgrein": "þýskur hernaðarfræðingur",
+      "ar": "1833"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Jónsson",
+      "starfsgrein": "kaupfélagsstjóri",
+      "ar": "1861"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða félag var stofnað í Lissabon árið 1904 undir nafninu Sport Lisboa?",
+      "svor": [
+        "S.L. Benfica",
+        "F.C. Porto",
+        "Sporting CP",
+        "Boavista"
+      ],
+      "rett": 0,
+      "skyring": "Sport Lisboa varð síðar S.L. Benfica, rauðklætt stórveldi portúgalskrar knattspyrnu."
+    },
+    {
+      "spurning": "Hversu mörgum bjargaði Björgunarsveitin Þorbjörn af olíuflutningaskipinu Clam árið 1950?",
+      "svor": [
+        "17",
+        "23",
+        "27",
+        "30"
+      ],
+      "rett": 1,
+      "skyring": "Björgunarmennirnir frá Grindavík náðu að bjarga 23 mönnum við afar erfiðar aðstæður."
+    },
+    {
+      "spurning": "Hver þessara körfuknattleiksmanna er fæddur 28. febrúar 1999?",
+      "svor": [
+        "Alex Caruso",
+        "Adrian Dantley",
+        "Luka Dončić",
+        "Barry McGuigan"
+      ],
+      "rett": 2,
+      "skyring": "Luka Dončić fæddist árið 1999 og hefur síðan reynst býsna sleipur með körfubolta í höndunum."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "No Limit – 2 Unlimited (1993)",
+  "bio": "Nói albínói (2003)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, einkum þegar dagur er að kvöldi kominn."
+  },
+  "vissir_thu": "Benedikt XVI var fyrsti páfinn í nærri 600 ár sem lét af embætti af eigin vilja.",
+  "stjornuspa": "Fiskur, gömul plánetuskífa hvíslar að nú sé rétti tíminn til að fylgja innsæinu, en ekki endilega manninum sem selur töfraseyði á markaðstorginu. Rómantíkin dafnar ef þú leggur frá þér vasadagatalið og leyfir örlögunum að rugla aðeins í dagskránni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Ranavalona.jpg/500px-Ranavalona.jpg",
+    "ar": "1897",
+    "texti": "Franskar hersveitir settu Ranavalonu III, síðasta sjálfstæða þjóðhöfðingja konungsríkisins Madagaskar, af. Þar með lauk konungsveldinu og nýlendutíminn tók við með sínum þunga skugga.",
+    "heimild": "https://en.wikipedia.org/wiki/Ranavalona_III",
+    "breidd": 330,
+    "haed": 416
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

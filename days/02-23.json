@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-23",
+  "dagur": 23,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:57",
+  "sunset": "18:26",
+  "kvedja": "Góðan 23. febrúar! Í dag horfum við frá handriti Dick Turpins upp í Stóra Magellanskýið og komum við á Selvogsbanka — sagan ferðast sannarlega án þess að kaupa miða. Haltu fast í kaffibollann; dagurinn hefur bæði stjörnuljós og seltu í farteskinu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1739",
+      "texti": "Upp komst um hver enski þjóðvegaræninginn Dick Turpin var þegar fyrrverandi skólafélagi þekkti rithönd hans. Penninn reyndist þar býsna beittur óvinur."
+    },
+    {
+      "ar": "1778",
+      "texti": "Prússneski herforinginn Friedrich Wilhelm von Steuben kom sem sjálfboðaliði til Valley Forge í Pennsylvaníu og gekk til liðs við meginlandsherinn í bandaríska frelsisstríðinu."
+    },
+    {
+      "ar": "1886",
+      "texti": "Bandaríski uppfinningamaðurinn Charles Martin Hall fann ódýra aðferð til að framleiða ál, málminn sem síðar varð sjálfsagður gestur í flugvélum, eldhúsum og nestispökkum."
+    },
+    {
+      "ar": "1945",
+      "texti": "Joe Rosenthal tók hina frægu ljósmynd af því þegar bandaríski fáninn var reistur á Iwo Jima. Myndin hlaut Pulitzer-verðlaun og varð síðar fyrirmynd minnisvarða bandaríska landgönguliðsins."
+    },
+    {
+      "ar": "1987",
+      "texti": "Sprengistjarnan SN 1987A sást frá Jörðu í Stóra Magellanskýinu. Hún varð fyrsta sprengistjarnan sem nútímastjörnufræðingar gátu rannsakað í miklum smáatriðum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1889",
+      "texti": "Hið íslenska kennarafélag var stofnað.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1912",
+      "texti": "Þilskipið Geir frá Hafnarfirði fórst í ofsaveðri á Selvogsbanka með 27 manna áhöfn. Í sama veðri tók út fimm menn af Langanesi og einn af Haffara.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1976",
+      "texti": "Varðskipið Óðinn og breska freigátan HMS Scylla lentu í árekstri.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1985",
+      "texti": "Torfi Ólafsson setti heimsmet unglinga í réttstöðulyftu þegar hann lyfti 322,5 kílóum.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bhagyashree",
+      "starfsgrein": "indversk leikkona",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Bernard Cornwell",
+      "starfsgrein": "enskur rithöfundur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Andrew Wiggins",
+      "starfsgrein": "kanadískur körfuknattleiksmaður",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Casemiro",
+      "starfsgrein": "brasilískur knattspyrnumaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Jamal Murray",
+      "starfsgrein": "kanadískur körfuknattleiksmaður",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dóra Þórhallsdóttir",
+      "starfsgrein": "íslensk forsetafrú",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Jón Gíslason",
+      "starfsgrein": "íslenskur þýðandi",
+      "ar": "1909"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað kom upp um þjóðvegaræningjann Dick Turpin?",
+      "svor": [
+        "Rithönd hans",
+        "Skóspor hans",
+        "Silfurhnappur",
+        "Hesturinn hans"
+      ],
+      "rett": 0,
+      "skyring": "Fyrrverandi skólafélagi þekkti rithönd Turpins — stafsetning getur greinilega verið örlagavaldur."
+    },
+    {
+      "spurning": "Hvaða himinfyrirbæri sást í Stóra Magellanskýinu árið 1987?",
+      "svor": [
+        "Halastjarnan Halley",
+        "Sprengistjarnan SN 1987A",
+        "Almyrkvi á sólu",
+        "Nýtt tungl Satúrnusar"
+      ],
+      "rett": 1,
+      "skyring": "SN 1987A gaf nútímastjörnufræðingum óvenjugott tækifæri til að rannsaka sprengistjörnu."
+    },
+    {
+      "spurning": "Hversu miklu lyfti Torfi Ólafsson í heimsmeti unglinga árið 1985?",
+      "svor": [
+        "272,5 kg",
+        "300 kg",
+        "322,5 kg",
+        "350 kg"
+      ],
+      "rett": 2,
+      "skyring": "Torfi lyfti 322,5 kílóum í réttstöðulyftu — enginn léttur sunnudagspoki þar."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Should Have Known Better – Jim Diamond (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "stirðbusalegur",
+    "skyring": "Orðið lýsir þeim sem er klunnalegur, óliðugur eða stirður í framkomu."
+  },
+  "vissir_thu": "Ál var eitt sinn svo dýrmætt að það þótti við hæfi að hafa áltopp á Washington-minnisvarðanum þegar hann var fullgerður árið 1884.",
+  "stjornuspa": "Fiskurinn syndir í dag milli fortíðarþrár og framtíðardrauma eins og sprengistjarna í diskókúlu. Treystu innsæinu, en láttu það ekki velja lykilorðið þitt eða bjóða í gamlan skipskúta.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Asalto_al_coche.jpg/500px-Asalto_al_coche.jpg",
+    "ar": "1739",
+    "texti": "Upp komst um hver enski þjóðvegaræninginn Dick Turpin var þegar fyrrverandi skólafélagi þekkti rithönd hans. Penninn reyndist þar býsna beittur óvinur.",
+    "heimild": "https://en.wikipedia.org/wiki/Highwayman",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

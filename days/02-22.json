@@ -1,0 +1,143 @@
+{
+  "mmdd": "02-22",
+  "dagur": 22,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "09:00",
+  "sunset": "18:23",
+  "kvedja": "Góðan 22. febrúar! Í dag siglum við kringum hnöttinn með herskipaflota, klónum kind og kíkjum í Fríkirkjuna — býsna drjúgt dagsverk áður en kaffið kólnar. Sagan minnir okkur nefnilega á að jafnvel sauðkind getur orðið heimsfræg ef réttu vísindamennirnir standa að baki henni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1371",
+      "texti": "Róbert 2. varð konungur Skota og fyrsti þjóðhöfðinginn af Stewart-ætt. Þar hófst konungsætt sem átti eftir að setja ríkan svip á sögu Bretlandseyja."
+    },
+    {
+      "ar": "1909",
+      "texti": "Sextán orrustuskip bandaríska flotans, hinn svonefndi Hvíti floti mikli undir forystu Connecticut, luku siglingu sinni umhverfis hnöttinn. Þetta var bæði sjóferð og býsna hávær sýning á vaxandi veldi Bandaríkjanna."
+    },
+    {
+      "ar": "1980",
+      "texti": "Bandaríska íshokkíliðið vann óvæntan sigur á Sovétríkjunum á vetrarólympíuleikunum í Lake Placid. Leikurinn varð þekktur sem „kraftaverkið á ísnum“ — enda var kalda stríðið sjaldan jafn bókstaflega kalt."
+    },
+    {
+      "ar": "1997",
+      "texti": "Vísindamenn við Roslin-stofnunina í Skotlandi tilkynntu um tilvist kindarinnar Dollýjar, fyrsta spendýrsins sem tókst að klóna úr fullorðinni frumu. Aldrei fyrr hafði ein ær vakið jafn margar spurningar um framtíð lífvísindanna."
+    },
+    {
+      "ar": "2011",
+      "texti": "Jarðskjálfti af stærðinni 6,3 reið yfir Christchurch á Nýja-Sjálandi. Alls létust 185 manns og eignatjón nam um 40 milljörðum nýsjálenskra dala."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1903",
+      "texti": "Fríkirkjan í Reykjavík var vígð og hefur síðan verið eitt kunnasta kennileiti borgarinnar við Tjörnina.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1952",
+      "texti": "Þjóðminjasafnshúsið við Suðurgötu í Reykjavík var tekið í notkun og þjóðararfurinn fékk þar myndarlegt þak yfir höfuðið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1984",
+      "texti": "Snjóflóð féll úr Ólafsvíkurenni á steypustöðina Bjarg í Ólafsvík.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1991",
+      "texti": "Sigríður Snævarr varð sendiherra Íslands í Svíþjóð og fyrst íslenskra kvenna til að gegna sendiherraembætti.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Arthur Schopenhauer",
+      "starfsgrein": "þýskur heimspekingur og rithöfundur",
+      "ar": "1788"
+    },
+    {
+      "nafn": "Christine Keeler",
+      "starfsgrein": "ensk fyrirsæta og dansari",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Brian Laudrup",
+      "starfsgrein": "danskur knattspyrnumaður og íþróttafréttamaður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Branislav Ivanović",
+      "starfsgrein": "serbneskur knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Bruce Forsyth",
+      "starfsgrein": "enskur söngvari og sjónvarpsmaður",
+      "ar": "1928"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Erlendur Eiríksson",
+      "starfsgrein": "leikari",
+      "ar": "1970"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dýr varð að heimsfrægri vísindastjörnu þegar tilvist þess var tilkynnt árið 1997?",
+      "svor": [
+        "Kindin Dollý",
+        "Hundurinn Laika",
+        "Hesturinn Búkefalos",
+        "Björninn Paddington"
+      ],
+      "rett": 0,
+      "skyring": "Kindin Dollý var fyrsta spendýrið sem tókst að klóna úr fullorðinni frumu."
+    },
+    {
+      "spurning": "Hvað var sigur Bandaríkjanna á Sovétríkjunum í íshokkí árið 1980 kallaður?",
+      "svor": [
+        "Undrið í snjónum",
+        "Kraftaverkið á ísnum",
+        "Slagurinn við Lake Placid",
+        "Gullið kalda"
+      ],
+      "rett": 1,
+      "skyring": "Óvænti sigurinn varð ódauðlegur undir heitinu „kraftaverkið á ísnum“."
+    },
+    {
+      "spurning": "Hvaða tímamótum náði Sigríður Snævarr árið 1991?",
+      "svor": [
+        "Hún varð fyrsti kvenráðherra Íslands",
+        "Hún varð fyrsta konan í Hæstarétti",
+        "Hún varð fyrst íslenskra kvenna til að gegna sendiherraembætti",
+        "Hún varð fyrsti kvenrektor Háskóla Íslands"
+      ],
+      "rett": 2,
+      "skyring": "Sigríður varð sendiherra Íslands í Svíþjóð og braut þar með mikilvægt blað í utanríkisþjónustunni."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Where Do You Go To (My Lovely) – Peter Sarstedt (1969)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "hnattferð",
+    "skyring": "Hnattferð er ferð umhverfis jörðina, líkt og Hvíti floti mikli lauk árið 1909."
+  },
+  "vissir_thu": "Stewart-ættin, sem komst fyrst til valda í Skotlandi með Róberti 2. árið 1371, dregur nafn sitt af embættinu „steward“, eða ráðsmanni.",
+  "stjornuspa": "Fiskurinn syndir í dag gegn straumnum og finnur þar eitthvað sem allir hinir misstu af — líklega góða hugmynd eða gleymda tíkallinn í úlpuvasanum. Treystu innsæinu, en láttu það ekki velja lykilorðin þín.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Robert_II%2C_King_of_Scotland_seal.png/500px-Robert_II%2C_King_of_Scotland_seal.png",
+    "ar": "1371",
+    "texti": "Róbert 2. varð konungur Skota og fyrsti þjóðhöfðinginn af Stewart-ætt. Þar hófst konungsætt sem átti eftir að setja ríkan svip á sögu Bretlandseyja.",
+    "heimild": "https://en.wikipedia.org/wiki/Robert_II_of_Scotland",
+    "breidd": 330,
+    "haed": 327
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

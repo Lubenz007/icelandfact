@@ -1,0 +1,137 @@
+{
+  "mmdd": "02-29",
+  "dagur": 29,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "",
+  "sunset": "",
+  "kvedja": "Gleðilegan hlaupársdag, kæri lesandi! Í dag teygir almanakið úr sér, Tokyo Skytree gnæfir yfir sögunni og hundrað ára Reykvíkingar fá heiðurssæti við borðið. Njóttu aukadagsins — hann kemur ekki aftur í heimsókn fyrr en eftir fjögur ár.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1704",
+      "texti": "Í stríði Önnu drottningar réðust franskar hersveitir og frumbyggjar á enska bæinn Deerfield í Massachusetts. Meira en fimmtíu nýlendubúar féllu í árásinni."
+    },
+    {
+      "ar": "1940",
+      "texti": "Hattie McDaniel varð fyrst Afríku-Bandaríkjamanna til að hljóta Óskarsverðlaun þegar hún var verðlaunuð fyrir aukahlutverk sitt í Á hverfanda hveli. Söguleg stund, þótt kynþáttaaðskilnaður setti dapurlegan svip á hátíðina."
+    },
+    {
+      "ar": "1960",
+      "texti": "Mannskæðasti jarðskjálfti í sögu Marokkó lagði stóran hluta Agadir í rúst. Að minnsta kosti tólf þúsund manns létust."
+    },
+    {
+      "ar": "1980",
+      "texti": "Fyrsta tölublað franska gamanblaðsins La Bougie du Sapeur kom út. Blaðið birtist aðeins á hlaupársdag og því geta áskrifendur beðið ansi lengi eftir næsta eintaki."
+    },
+    {
+      "ar": "2012",
+      "texti": "Smíði Tokyo Skytree lauk í Japan. Turninn varð sá hæsti í heimi og þriðja hæsta mannvirki jarðar — enginn smáræðis hlaupársauki þar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1884",
+      "texti": "Blaðið Fjallkonan hóf göngu sína og kom síðan út tvisvar eða þrisvar í mánuði fram á vorið 1911.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1968",
+      "texti": "Mikil flóð og jakaburður í Ölfusá ollu verulegum skemmdum á Selfossi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1992",
+      "texti": "Reykjavíkurborg fagnaði því að íbúarnir væru orðnir hundrað þúsund. Öllum Reykvíkingum sem náð höfðu hundrað ára aldri var boðið til veislu í Höfða.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2008",
+      "texti": "Íbúar Hafnarfjarðar urðu 25.000 í fyrsta sinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ferran Torres",
+      "starfsgrein": "spænskur knattspyrnumaður",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Tyrese Haliburton",
+      "starfsgrein": "bandarískur körfuknattleiksmaður",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Benedikt Höwedes",
+      "starfsgrein": "þýskur knattspyrnumaður",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Alex Rocco",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Balthus",
+      "starfsgrein": "fransk-svissneskur listmálari og myndskreytir",
+      "ar": "1908"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mannvirki var fullbyggt á hlaupársdag árið 2012?",
+      "svor": [
+        "Tokyo Skytree",
+        "Eiffelturninn",
+        "Empire State-byggingin",
+        "Burj Khalifa"
+      ],
+      "rett": 0,
+      "skyring": "Tokyo Skytree reis fullbúið yfir Tókýó og varð hæsti turn heims."
+    },
+    {
+      "spurning": "Hvaða borg fagnaði hundrað þúsund íbúum árið 1992?",
+      "svor": [
+        "Akureyri",
+        "Reykjavík",
+        "Hafnarfjörður",
+        "Kópavogur"
+      ],
+      "rett": 1,
+      "skyring": "Reykjavík náði þessum áfanga og aldnir borgarbúar fengu veislu í Höfða."
+    },
+    {
+      "spurning": "Hver varð fyrst Afríku-Bandaríkjamanna til að vinna Óskarsverðlaun?",
+      "svor": [
+        "Balthus",
+        "Hattie McDaniel",
+        "Alex Rocco",
+        "Ann Lee"
+      ],
+      "rett": 1,
+      "skyring": "Hattie McDaniel vann verðlaunin fyrir besta aukahlutverk árið 1940."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "Stay – Shakespears Sister (1992)",
+  "bio": "Lömbin þagna (1991)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og lifir meðal annars í orðinu dægurlag."
+  },
+  "vissir_thu": "Franska gamanblaðið La Bougie du Sapeur kemur aðeins út 29. febrúar, svo fjögurra ára bið milli tölublaða telst þar fullkomlega eðlileg.",
+  "stjornuspa": "Fiskurinn syndir inn í hlaupársdag með innsæið í botni og vasana fulla af hugmyndum. Forðastu þó að lofa nokkru til næsta 29. febrúar — það er óþarflega langur greiðslufrestur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/QueenAnnesWarBefore.svg/500px-QueenAnnesWarBefore.svg.png",
+    "ar": "1704",
+    "texti": "Í stríði Önnu drottningar réðust franskar hersveitir og frumbyggjar á enska bæinn Deerfield í Massachusetts. Meira en fimmtíu nýlendubúar féllu í árásinni.",
+    "heimild": "https://en.wikipedia.org/wiki/Queen_Anne's_War",
+    "breidd": 330,
+    "haed": 235
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

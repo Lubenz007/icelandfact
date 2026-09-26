@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-25",
+  "dagur": 25,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:50",
+  "sunset": "18:32",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 25. febrúar teygir sig frá rómverskum erfðamálum til friðsamlegrar byltingar á Filippseyjum, með viðkomu í Skálholti og Háskólabíói. Sagan fer víða — og gleymir sjaldan að taka með sér dálítið pólitískt umrót í nesti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "138",
+      "texti": "Hadrianus Rómarkeisari ættleiddi Antoninus Pius og útnefndi hann þar með arftaka sinn. Valdaskipti í Róm gátu verið býsna fjölskylduleg, þótt fjölskyldan væri stundum valin eftir hentugleika."
+    },
+    {
+      "ar": "628",
+      "texti": "Kavad 2. steypti föður sínum, Khosrow 2., af stóli Persaveldis Sasanída. Þar með féll síðasti mikli konungur veldisins — og fjölskylduboðið varð væntanlega nokkuð stirt."
+    },
+    {
+      "ar": "1870",
+      "texti": "Hiram Rhodes Revels frá Mississippi varð fyrsti svarti Bandaríkjamaðurinn til að taka sæti á Bandaríkjaþingi. Það var sögulegt skref á endurreisnartímanum eftir borgarastyrjöldina."
+    },
+    {
+      "ar": "1956",
+      "texti": "Nikita Khrushchev fordæmdi persónudýrkun og einræði Jósefs Stalíns í ræðu á 20. þingi sovéska kommúnistaflokksins. Ræðan markaði afgerandi uppgjör við hluta af arfleifð Stalínstímans."
+    },
+    {
+      "ar": "1986",
+      "texti": "Ferdinand Marcos og Imelda eiginkona hans hrökkluðust frá völdum á Filippseyjum eftir friðsamlegu People Power-byltinguna. Corazon Aquino tók við forsetaembættinu og nýr kafli hófst í sögu landsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1672",
+      "texti": "Þórður Þorláksson var vígður biskup í Skálholti.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1909",
+      "texti": "Alþingi samþykkti vantrauststillögu gegn Birni Jónssyni, ráðherra Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Alþingi samþykkti einróma að sambandslögin um konungssamband Íslands og Danmerkur væru fallin úr gildi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1966",
+      "texti": "Bandaríska djasssöngkonan Ella Fitzgerald kom til Íslands og hélt tónleika í Háskólabíói — heldur betur gestur á íslenskum vetrardegi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Gianluigi Donnarumma",
+      "starfsgrein": "ítalskur knattspyrnumarkvörður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Anson Mount",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Anthony Burgess",
+      "starfsgrein": "enskur rithöfundur og leikskáld",
+      "ar": "1917"
+    },
+    {
+      "nafn": "Amin Maalouf",
+      "starfsgrein": "líbansk-franskur rithöfundur og blaðamaður",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Noah Jupe",
+      "starfsgrein": "enskur leikari",
+      "ar": "2005"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þorsteinn Eggertsson",
+      "starfsgrein": "myndlistarmaður og textahöfundur",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Magnús Kjartansson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1919"
+    },
+    {
+      "nafn": "Pétur Hoffmann Salómonsson",
+      "starfsgrein": "sjómaður og safnari",
+      "ar": "1897"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver tók við forsetaembætti Filippseyja eftir People Power-byltinguna 1986?",
+      "svor": [
+        "Corazon Aquino",
+        "Imelda Marcos",
+        "Nikita Khrushchev",
+        "Hiram Rhodes Revels"
+      ],
+      "rett": 0,
+      "skyring": "Corazon Aquino tók við þegar Marcos-hjónin hrökkluðust frá völdum."
+    },
+    {
+      "spurning": "Hvaða heimsfræga söngkona hélt tónleika í Háskólabíói árið 1966?",
+      "svor": [
+        "Billie Holiday",
+        "Ella Fitzgerald",
+        "Nina Simone",
+        "Judy Garland"
+      ],
+      "rett": 1,
+      "skyring": "Ella Fitzgerald flutti djassinn alla leið norður í Háskólabíó."
+    },
+    {
+      "spurning": "Hver varð fyrsti svarti Bandaríkjamaðurinn til að taka sæti á Bandaríkjaþingi?",
+      "svor": [
+        "Anthony Burgess",
+        "Hadrianus",
+        "Hiram Rhodes Revels",
+        "Amin Maalouf"
+      ],
+      "rett": 2,
+      "skyring": "Hiram Rhodes Revels tók sæti á þinginu árið 1870 og skráði sig þar með í sögubækurnar."
+    }
+  ],
+  "tonlistUSA": "Jump – Van Halen (1984)",
+  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
+  "bio": "The Silence of the Lambs (1991)",
+  "ord_dagsins": {
+    "ord": "aftanskin",
+    "skyring": "Aftanskin er birta eða roði á himni að kvöldlagi eftir að sól er farin að lækka eða sest."
+  },
+  "vissir_thu": "Corazon Aquino var fyrsta konan til að gegna embætti forseta Filippseyja.",
+  "stjornuspa": "Fiskurinn finnur í dag gamla mixtape-spólu, gleymt símanúmer eða hugmynd sem átti að sigra heiminn árið 1986. Dustaðu rykið af draumnum, en mundu að ekki þarf allt retro að fá axlapúða.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/KhosrauIIGoldCoinCroppedHistoryofIran.jpg/330px-KhosrauIIGoldCoinCroppedHistoryofIran.jpg",
+    "ar": "628",
+    "texti": "Kavad 2. steypti föður sínum, Khosrow 2., af stóli Persaveldis Sasanída. Þar með féll síðasti mikli konungur veldisins — og fjölskylduboðið varð væntanlega nokkuð stirt.",
+    "heimild": "https://en.wikipedia.org/wiki/Khosrow_II",
+    "breidd": 330,
+    "haed": 321
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-24",
+  "dagur": 24,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:53",
+  "sunset": "18:29",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn í 24. febrúar, þar sem óperan tekur sín fyrstu stóru skref, forseti lendir í sögulegum vandræðum og Skálholt verður eldi að bráð. Dragðu fram kaffibollann — sagan er sjaldan hljóðlát, en hún er afskaplega góður borðfélagi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "303",
+      "texti": "Díókletíanus Rómarkeisari gaf út fyrsta tilskipunarbréfið í síðustu og hörðustu ofsókn Rómaveldis gegn kristnum mönnum. Þetta varð upphafið að einum myrkasta kafla trúarsögu veldisins."
+    },
+    {
+      "ar": "1607",
+      "texti": "Ópera Claudio Monteverdis, L'Orfeo, var frumflutt í Mantúa. Verkið er gjarnan talið fyrsta fullþroskaða óperan — augnablikið þegar tónlistarleikhúsið steig fram og hreinsaði dramatískt úr sér."
+    },
+    {
+      "ar": "1803",
+      "texti": "Í málinu Marbury gegn Madison úrskurðaði Hæstiréttur Bandaríkjanna í fyrsta sinn að lög frá Bandaríkjaþingi brytu gegn stjórnarskránni. Þar með var lagður grunnur að stjórnarskrárendurskoðun dómstóla í Bandaríkjunum."
+    },
+    {
+      "ar": "1868",
+      "texti": "Andrew Johnson varð fyrsti forseti Bandaríkjanna sem fulltrúadeild Bandaríkjaþings ákærði til embættismissis. Forsetastóllinn reyndist skyndilega öllu óþægilegri en hann leit út fyrir að vera."
+    },
+    {
+      "ar": "1989",
+      "texti": "United Airlines-flug 811 varð fyrir stjórnlausu þrýstingsfalli skömmu eftir brottför frá Honolulu þegar hluti skrokksins rifnaði upp. Sæti köstuðust úr vélinni og níu farþegar létust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1195",
+      "texti": "Páll Jónsson var vígður biskup í Skálholti.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1630",
+      "texti": "Skálholtsstaður brann, þrettán hús eyðilögðust og mikil verðmæti fóru forgörðum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1863",
+      "texti": "Forngripasafn Íslands var stofnað að frumkvæði Sigurðar Guðmundssonar málara. Safnið varð síðar grunnurinn að Þjóðminjasafni Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1924",
+      "texti": "Stytta Einars Jónssonar af Ingólfi Arnarsyni var afhjúpuð á Arnarhóli í Reykjavík, þar sem landnámsmaðurinn hefur síðan horft yfir borgina af mikilli festu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Barry Bostwick",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Antony Matheus dos Santos",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Abe Vigoda",
+      "starfsgrein": "leikari",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Alain Prost",
+      "starfsgrein": "kappakstursökumaður",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Beth Broderick",
+      "starfsgrein": "leikkona og leikstjóri",
+      "ar": "1959"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sveinbjörn Egilsson",
+      "starfsgrein": "rektor, skáld og þýðandi",
+      "ar": "1791"
+    },
+    {
+      "nafn": "Hans J. G. Schierbeck",
+      "starfsgrein": "landlæknir",
+      "ar": "1847"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónverk var frumflutt í Mantúa árið 1607 og er talið fyrsta fullþroskaða óperan?",
+      "svor": [
+        "Rinaldo",
+        "L'Orfeo",
+        "Aida",
+        "Tosca"
+      ],
+      "rett": 1,
+      "skyring": "L'Orfeo eftir Monteverdi steig á svið árið 1607 og óperuformið var þar með komið með vind í seglin."
+    },
+    {
+      "spurning": "Hvaða forseti varð árið 1868 fyrstur Bandaríkjaforseta til að vera ákærður til embættismissis?",
+      "svor": [
+        "Abraham Lincoln",
+        "Ulysses S. Grant",
+        "Andrew Johnson",
+        "James Buchanan"
+      ],
+      "rett": 2,
+      "skyring": "Andrew Johnson varð fyrstur forseta til að hljóta þessa óþægilegu færslu í sögubækurnar."
+    },
+    {
+      "spurning": "Hvar var stytta Einars Jónssonar af Ingólfi Arnarsyni afhjúpuð árið 1924?",
+      "svor": [
+        "Á Austurvelli",
+        "Á Arnarhóli",
+        "Á Skólavörðuholti",
+        "Við Tjörnina"
+      ],
+      "rett": 1,
+      "skyring": "Styttan var afhjúpuð á Arnarhóli, þar sem Ingólfur stendur enn og fylgist með umferðinni."
+    }
+  ],
+  "tonlistUSA": "Opposites Attract – Paula Abdul (1990)",
+  "tonlistUK": "Nothing Compares 2 U – Sinéad O'Connor (1990)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "málafylgja",
+    "skyring": "Málafylgja er stuðningur við málstað eða það að tala máli einhvers."
+  },
+  "vissir_thu": "L'Orfeo eftir Monteverdi er meira en fjögurra alda gömul en er enn reglulega sett upp í óperuhúsum heimsins.",
+  "stjornuspa": "Fiskurinn finnur í dag að innsæið syngur eins og Monteverdi, þótt verkefnalistinn hljómi fremur eins og falskur lúðrablástur. Treystu hugmyndafluginu, en láttu það ekki sannfæra þig um að reikningarnir borgi sig sjálfir.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Flagellation_St_Erasmus_Crypta_Balbi.jpg/500px-Flagellation_St_Erasmus_Crypta_Balbi.jpg",
+    "ar": "303",
+    "texti": "Díókletíanus Rómarkeisari gaf út fyrsta tilskipunarbréfið í síðustu og hörðustu ofsókn Rómaveldis gegn kristnum mönnum. Þetta varð upphafið að einum myrkasta kafla trúarsögu veldisins.",
+    "heimild": "https://en.wikipedia.org/wiki/Diocletianic_Persecution",
+    "breidd": 330,
+    "haed": 264
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

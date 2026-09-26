@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-10",
+  "dagur": 10,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:40",
+  "sunset": "17:44",
+  "kvedja": "Góðan og gleðilegan 10. febrúar! Í dag förum við frá falli Bagdad til skákeinvígis manns og vélar, með viðkomu hjá sokknu olíuskipi og teiknimyndaketti sem hafði ekki enn fengið nafnið Tom. Sagan kann sannarlega að troða ótrúlega mörgu í einn vetrardag.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1258",
+      "texti": "Síðasti kalífi Abbasída gafst upp í Bagdad fyrir mongólska her Húlagú Kans. Borgin var síðan lögð í rúst og gríðarlegur fjöldi íbúa hennar féll."
+    },
+    {
+      "ar": "1763",
+      "texti": "Bretland, Frakkland og Spánn undirrituðu Parísarsáttmálann og bundu enda á sjö ára stríðið. Franska nýlenduveldið minnkaði verulega og Bretar hófu langt skeið yfirburða utan Evrópu."
+    },
+    {
+      "ar": "1906",
+      "texti": "Breska orrustuskipinu HMS Dreadnought var hleypt af stokkunum. Skipið þótti svo byltingarkennt að nafn þess varð heiti heillar kynslóðar herskipa."
+    },
+    {
+      "ar": "1996",
+      "texti": "Ofurtölvan Deep Blue sigraði heimsmeistarann Garrí Kasparov í skák við mótaskilyrði, fyrst skáktölva allra til að vinna slíkan sigur. Mannkynið fékk þó að halda taflborðinu."
+    },
+    {
+      "ar": "2009",
+      "texti": "Gervitunglin Iridium 33 og Kosmos 2251 rákust saman á gríðarlegum hraða á lágri braut um jörðu. Þetta var fyrsti slysalegi háhraðaárekstur tveggja heilla gervitungla."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1920",
+      "texti": "Alþingi kom saman til aukaþinghalds og samþykkti stjórnarskrárfrumvarpið frá árinu áður óbreytt.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1943",
+      "texti": "Alþingi samþykkti orlofslög sem tryggðu launafólki einn frídag fyrir hvern unninn mánuð.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1944",
+      "texti": "Þrjár þýskar flugvélar réðust á olíuskipið El Grillo á Seyðisfirði og sökktu því með sprengjum.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "2020",
+      "texti": "Íslenska tónskáldið Hildur Guðnadóttir hlaut Óskarsverðlaun fyrir tónlist sína í kvikmyndinni Joker.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Chloë Grace Moretz",
+      "starfsgrein": "leikkona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Cliff Burton",
+      "starfsgrein": "tónlistarmaður og lagahöfundur",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Bertolt Brecht",
+      "starfsgrein": "leikskáld, ljóðskáld og leikstjóri",
+      "ar": "1898"
+    },
+    {
+      "nafn": "Alexander Payne",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1961"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sigurbergur Sigsteinsson",
+      "starfsgrein": "íþróttamaður og þjálfari",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Ólafur Ísleifsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Kristín Vídalín Jacobson",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1864"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ofurtölva sigraði Garrí Kasparov í skák árið 1996?",
+      "svor": [
+        "Deep Blue",
+        "Kosmos 2251",
+        "Dreadnought",
+        "El Grillo"
+      ],
+      "rett": 0,
+      "skyring": "Deep Blue vann skákina og lét reikniritin líta býsna sjálfsörugg út."
+    },
+    {
+      "spurning": "Hvar var olíuskipinu El Grillo sökkt árið 1944?",
+      "svor": [
+        "Á Faxaflóa",
+        "Á Seyðisfirði",
+        "Á Eyjafirði",
+        "Á Breiðafirði"
+      ],
+      "rett": 1,
+      "skyring": "El Grillo lá á Seyðisfirði þegar þýskar flugvélar gerðu árásina."
+    },
+    {
+      "spurning": "Fyrir tónlist í hvaða kvikmynd hlaut Hildur Guðnadóttir Óskarsverðlaun?",
+      "svor": [
+        "Casablanca",
+        "Joker",
+        "Deep Blue",
+        "Dreadnought"
+      ],
+      "rett": 1,
+      "skyring": "Hildur hlaut verðlaunin fyrir hina áhrifamiklu tónlist í Joker."
+    }
+  ],
+  "tonlistUSA": "Opposites Attract – Paula Abdul (1990)",
+  "tonlistUK": "Spaceman – Babylon Zoo (1996)",
+  "bio": "Joker (2019)",
+  "ord_dagsins": {
+    "ord": "gervallur",
+    "skyring": "Orðið merkir allur saman eða allur í heild sinni."
+  },
+  "vissir_thu": "HMS Dreadnought hafði svo mikil áhrif á hönnun orrustuskipa að eldri skip voru í kjölfarið kölluð „pre-dreadnought“ og nýju skipin „dreadnought“.",
+  "stjornuspa": "Vatnsberi, í dag kemur framtíðin til þín eins og Deep Blue að skákborði: úthugsuð, dálítið dularfull og tilbúin með óvæntan leik. Treystu hugmyndafluginu, en forðastu árekstra á braut um jörðu — einkum fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/500px-Abbasid_banner.svg.png",
+    "ar": "1258",
+    "texti": "Síðasti kalífi Abbasída gafst upp í Bagdad fyrir mongólska her Húlagú Kans. Borgin var síðan lögð í rúst og gríðarlegur fjöldi íbúa hennar féll.",
+    "heimild": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+    "breidd": 330,
+    "haed": 198
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

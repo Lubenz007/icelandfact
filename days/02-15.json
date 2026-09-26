@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-15",
+  "dagur": 15,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:24",
+  "sunset": "18:00",
+  "kvedja": "Góðan 15. febrúar, kæri lesandi! Í dag fljúgum við frá grafhýsi í Egyptalandi yfir í hlynlauf Kanada og endum með loftstein yfir Rússlandi — sagan ferðast nefnilega sjaldan á sparneytnum smábíl. Haltu fast í kaffibollann og njóttu ferðarinnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1898",
+      "texti": "Bandaríska orrustuskipið USS Maine sprakk og sökk í höfninni í Havana á Kúbu; meira en 260 manns fórust. Atburðurinn ýtti undir spennu sem leiddi til stríðs Bandaríkjanna og Spánar."
+    },
+    {
+      "ar": "1906",
+      "texti": "Ítalskir fornleifafræðingar undir stjórn Ernestos Schiaparelli fundu grafhýsi Kha og Merit í verkamannaþorpinu Deir el-Medina í Egyptalandi. Þar hafði fornöldin beðið þolinmóð í nokkur árþúsund eftir gestum."
+    },
+    {
+      "ar": "1949",
+      "texti": "Gerald Lankester Harding og Roland de Vaux hófu uppgröft í helli 1 við Qumran á Vesturbakkanum, þar sem fyrstu sjö Dauðahafshandritin höfðu fundist."
+    },
+    {
+      "ar": "1965",
+      "texti": "Kanada tók rauða og hvíta hlynlaufsfánann formlega í notkun í stað Canadian Red Ensign. Hlynlaufið varð þar með eitt þekktasta laufblað heims, án þess að þurfa nokkru sinni að ljóstillífa."
+    },
+    {
+      "ar": "2013",
+      "texti": "Loftsteinn sprakk yfir Tsjeljabínsk-héraði í Rússlandi og höggbylgjan særði um 1.500 manns. Flest meiðslin urðu þegar rúður brotnuðu undan þrýstingnum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1662",
+      "texti": "Ragnheiður Brynjólfsdóttir eignaðist son sinn og Daða Halldórssonar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1917",
+      "texti": "Kristín Ólafsdóttir varð fyrsta konan til að ljúka læknaprófi frá Háskóla Íslands og ruddi þar með merkilega braut í íslenskri menntasögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1923",
+      "texti": "Ingibjörg H. Bjarnason varð fyrsta konan til að taka sæti á Alþingi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1972",
+      "texti": "Ríkisstjórn Íslands ákvað að færa fiskveiðilögsöguna út í 50 mílur, stórt skref í baráttunni fyrir yfirráðum yfir fiskimiðunum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Callum Turner",
+      "starfsgrein": "leikari",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Alex Borstein",
+      "starfsgrein": "leikkona og raddleikkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Amber Riley",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Cesar Romero",
+      "starfsgrein": "leikari",
+      "ar": "1907"
+    },
+    {
+      "nafn": "Art Spiegelman",
+      "starfsgrein": "myndasöguhöfundur",
+      "ar": "1948"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Alfreð Þorsteinsson",
+      "starfsgrein": "stjórnmálamaður og íþróttaforkólfur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Bjarni Jónsson",
+      "starfsgrein": "stærðfræðingur",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Oddný Guðmundsdóttir",
+      "starfsgrein": "farkennari og rithöfundur",
+      "ar": "1908"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tákn fékk heiðurssæti á nýjum fána Kanada árið 1965?",
+      "svor": [
+        "Hlynlauf",
+        "Ísbjörn",
+        "Bjór",
+        "Rauður elgur"
+      ],
+      "rett": 0,
+      "skyring": "Hlynlaufið sigraði og hefur blakað prúðmannlega á kanadíska fánanum síðan."
+    },
+    {
+      "spurning": "Hver varð fyrst íslenskra kvenna til að taka sæti á Alþingi?",
+      "svor": [
+        "Kristín Ólafsdóttir",
+        "Oddný Guðmundsdóttir",
+        "Ingibjörg H. Bjarnason",
+        "Ragnheiður Brynjólfsdóttir"
+      ],
+      "rett": 2,
+      "skyring": "Ingibjörg H. Bjarnason tók sæti á Alþingi árið 1923 og markaði tímamót."
+    },
+    {
+      "spurning": "Yfir hvaða rússneska héraði sprakk loftsteinn árið 2013?",
+      "svor": [
+        "Kalíníngrad",
+        "Tsjeljabínsk",
+        "Kamtsjatka",
+        "Múrmansk"
+      ],
+      "rett": 1,
+      "skyring": "Tsjeljabínsk varð skyndilega miðpunktur himnesks hvells sem enginn hafði pantað."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Know Him So Well – Elaine Paige og Barbara Dickson (1985)",
+  "bio": "The Breakfast Club (1985)",
+  "ord_dagsins": {
+    "ord": "fornleifafundur",
+    "skyring": "Fornleifafundur er hlutur eða minjar frá fyrri tíð sem koma í ljós við leit, uppgröft eða fyrir tilviljun."
+  },
+  "vissir_thu": "Höggbylgjan frá loftsteininum yfir Tsjeljabínsk árið 2013 braut fjölda rúða og særði um 1.500 manns, þótt loftsteinninn sjálfur hæfði ekki borgina.",
+  "stjornuspa": "Vatnsberi, í dag skaltu flagga hugmyndum þínum jafn djarflega og Kanada hlynlaufinu árið 1965. Ef eitthvað fellur af himnum skaltu þó láta innsæið nægja og standa fjarri gluggunum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/500px-Emblem_of_the_United_States_Navy.svg.png",
+    "ar": "1898",
+    "texti": "Bandaríska orrustuskipið USS Maine sprakk og sökk í höfninni í Havana á Kúbu; meira en 260 manns fórust. Atburðurinn ýtti undir spennu sem leiddi til stríðs Bandaríkjanna og Spánar.",
+    "heimild": "https://en.wikipedia.org/wiki/United_States_Navy",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-18",
+  "dagur": 18,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:14",
+  "sunset": "18:10",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 18. febrúar siglum við frá fornri heimsöld yfir í uppreisn á hafi, frelsisbaráttu í Búlgaríu og geimskutlu sem fékk far á bakinu á Boeing 747 — sagan kann greinilega bæði dramatík og dálítið skrýtna samgöngumáta.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "3102 f.Kr.",
+      "texti": "Samkvæmt hindúískum ritum hófst Kali Yuga, síðasta skeiðið af fjórum í hringrás heimsaldanna. Það er óvenju langur kafli í dagatalinu — og enginn kaffitími skráður."
+    },
+    {
+      "ar": "1766",
+      "texti": "Þrælaðir fangar frá Madagaskar hófu uppreisn um borð í Meermin, þrælaskipi Hollenska Austur-Indíafélagsins. Atburðarásin endaði með eyðileggingu skipsins við Agulhashöfða í Suður-Afríku og leiðtogar uppreisnarinnar voru handsamaðir á ný."
+    },
+    {
+      "ar": "1873",
+      "texti": "Vasil Levski, ein helsta þjóðhetja Búlgaríu, var tekinn af lífi í Sofíu af yfirvöldum Tyrkjaveldis vegna baráttu sinnar fyrir sjálfstæðu búlgörsku lýðveldi."
+    },
+    {
+      "ar": "1943",
+      "texti": "Kjarnameðlimir Hvítu rósarinnar, þýskrar andspyrnuhreyfingar gegn nasistum, voru handteknir af Gestapo. Hópurinn hafði dreift bæklingum þar sem almenningur var hvattur til að veita stjórn Hitlers mótspyrnu."
+    },
+    {
+      "ar": "2014",
+      "texti": "Ofbeldisfull átök mótmælenda, óeirðalögreglu og óþekktra skyttna hófust í Kænugarði. Fimm dögum síðar lauk atburðarásinni með því að Viktor Janúkóvítsj, forseti Úkraínu, hrökklaðist frá völdum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1875",
+      "texti": "Eldgos hófst í Sveinagjá á Mývatnsöræfum, þar sem landið minnti rækilega á að það ræður sjálft hitastillingunni.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1878",
+      "texti": "Alþýðuskólinn í Flensborg í Hafnarfirði var stofnaður. Þar varð fyrsti vísir að kennaramenntun á Íslandi, þar til Kennaraskóli Íslands tók við því hlutverki árið 1908.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1885",
+      "texti": "Snjóflóð féll á fjórtán íbúðarhús á Seyðisfirði og 24 manns fórust í hamförunum.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1910",
+      "texti": "Tuttugu manns fórust þegar snjóflóð féll á Hnífsdal, einn mannskæðasti snjóflóðaatburður Íslandssögunnar.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bobby Robson",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1933"
+    },
+    {
+      "nafn": "Audre Lorde",
+      "starfsgrein": "rithöfundur og baráttukona",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Alessandro Volta",
+      "starfsgrein": "eðlisfræðingur og uppfinningamaður",
+      "ar": "1745"
+    },
+    {
+      "nafn": "Andrei Kirilenko",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Anders Zorn",
+      "starfsgrein": "listmálari",
+      "ar": "1860"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Auðuns",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Arnbjörg Sveinsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Jón Sigurðsson frá Kaldaðarnesi",
+      "starfsgrein": "þýðandi",
+      "ar": "1886"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða búlgarska þjóðhetja var tekin af lífi árið 1873?",
+      "svor": [
+        "Vasil Levski",
+        "Alessandro Volta",
+        "Bobby Robson",
+        "Anders Zorn"
+      ],
+      "rett": 0,
+      "skyring": "Vasil Levski barðist fyrir stofnun sjálfstæðs búlgarsks lýðveldis."
+    },
+    {
+      "spurning": "Hvar hóf Alþýðuskólinn í Flensborg starfsemi?",
+      "svor": [
+        "Á Seyðisfirði",
+        "Í Hafnarfirði",
+        "Á Hnífsdal",
+        "Við Mývatn"
+      ],
+      "rett": 1,
+      "skyring": "Skólinn var stofnaður í Hafnarfirði árið 1878 og varð mikilvægur undanfari kennaramenntunar."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins tengist uppfinningu rafhlöðunnar?",
+      "svor": [
+        "Audre Lorde",
+        "Andrei Kirilenko",
+        "Alessandro Volta",
+        "Bobby Robson"
+      ],
+      "rett": 2,
+      "skyring": "Alessandro Volta smíðaði fyrstu rafhlöðuna og gaf voltinu nafn sitt í kaupbæti."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Know Him So Well – Elaine Paige og Barbara Dickson (1985)",
+  "bio": "The Silence of the Lambs (1991)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, einkum þegar dagur er að kvöldi kominn."
+  },
+  "vissir_thu": "Einingin volt er nefnd eftir ítalska eðlisfræðingnum Alessandro Volta, sem fæddist þennan dag árið 1745.",
+  "stjornuspa": "Vatnsberi, hugmyndir þínar koma í dag eins og skeyti úr gamalli ritsímavél: háværar, óvæntar og furðu nytsamlegar. Treystu innsæinu, en athugaðu samt hvort hatturinn og úlpan séu þín áður en þú yfirgefur kaffihúsið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/4th_millennium_BC_montage.jpg/500px-4th_millennium_BC_montage.jpg",
+    "ar": "3102 f.Kr.",
+    "texti": "Samkvæmt hindúískum ritum hófst Kali Yuga, síðasta skeiðið af fjórum í hringrás heimsaldanna. Það er óvenju langur kafli í dagatalinu — og enginn kaffitími skráður.",
+    "heimild": "https://en.wikipedia.org/wiki/4th_millennium_BC",
+    "breidd": 330,
+    "haed": 186
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

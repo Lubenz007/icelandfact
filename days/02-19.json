@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-19",
+  "dagur": 19,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "09:10",
+  "sunset": "18:13",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag skjótumst við frá eldfjalli í Perú yfir á Old Trafford og endum með byltingarkennda bók Betty Friedan — 19. febrúar kann greinilega ekki að sitja kyrr.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1600",
+      "texti": "Eldfjallið Huaynaputina í Perú gaus í mesta skráða eldgosi Suður-Ameríku. Þar lét náttúran ekki nægja að ræskja sig heldur tók hún heila álfu í kennslustund."
+    },
+    {
+      "ar": "1811",
+      "texti": "Í Geboraorrustunni nærri Badajoz sigruðu færri franskir hermenn undir stjórn Édouards Mortier spænska herinn og voru nærri búnir að gereyða honum."
+    },
+    {
+      "ar": "1910",
+      "texti": "Fyrsti knattspyrnuleikurinn var leikinn á Old Trafford þegar Manchester United tók á móti Liverpool. Liverpool vann 4–3, svo heimavöllurinn hóf ferilinn með nokkuð óþægilegri móttökuathöfn."
+    },
+    {
+      "ar": "1942",
+      "texti": "Franklin D. Roosevelt Bandaríkjaforseti undirritaði tilskipun 9066, sem heimilaði nauðungarflutning meira en 112.000 Bandaríkjamanna af japönskum uppruna í fangabúðir. Þetta er einn svartasti bletturinn í bandarískri sögu síðari heimsstyrjaldar."
+    },
+    {
+      "ar": "1963",
+      "texti": "Bók Betty Friedan, The Feminine Mystique, kom fyrst út og átti stóran þátt í að hrinda af stað annarri bylgju femínismans í Bandaríkjunum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1886",
+      "texti": "Fyrstu íslensku lögin um friðun hvala voru sett. Hvalirnir fengu þar með lagalegt skjól, löngu áður en hvalaskoðunarbátar urðu algeng sjón.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1930",
+      "texti": "Svonefnd Stóra bomba hófst með heimsókn Helga Tómassonar, yfirlæknis á Kleppi, til Jónasar Jónssonar frá Hriflu dómsmálaráðherra.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1960",
+      "texti": "Viðreisnarstjórnin hóf umfangsmiklar efnahagsumbætur með auknu frelsi í inn- og útflutningi og 30 prósenta gengislækkun.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1976",
+      "texti": "Ísland sleit stjórnmálasambandi við Bretland vegna deilna um fiskveiðiheimildir. Þorskastríðið var þá orðið svo kalt að jafnvel diplómatísku kaffibollarnir frusu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Millie Bobby Brown",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "2004"
+    },
+    {
+      "nafn": "Benicio del Toro",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Andrew Mountbatten-Windsor",
+      "starfsgrein": "fyrrverandi meðlimur bresku konungsfjölskyldunnar",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Amy Tan",
+      "starfsgrein": "rithöfundur",
+      "ar": "1952"
+    },
+    {
+      "nafn": "André Breton",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1896"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hannes Hólmsteinn Gissurarson",
+      "starfsgrein": "prófessor og stjórnmálafræðingur",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Adolf H. Berndsen",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1957"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða frægi knattspyrnuvöllur hýsti sinn fyrsta leik 19. febrúar 1910?",
+      "svor": [
+        "Old Trafford",
+        "Wembley",
+        "Anfield",
+        "Camp Nou"
+      ],
+      "rett": 0,
+      "skyring": "Old Trafford var vígður með leik Manchester United og Liverpool — og gestirnir stálu sigrinum."
+    },
+    {
+      "spurning": "Hvaða bók Betty Friedan kom fyrst út árið 1963?",
+      "svor": [
+        "The Second Sex",
+        "The Feminine Mystique",
+        "A Room of One's Own",
+        "The Bell Jar"
+      ],
+      "rett": 1,
+      "skyring": "The Feminine Mystique varð áhrifamikill neisti annarrar bylgju femínismans í Bandaríkjunum."
+    },
+    {
+      "spurning": "Hvaða land sleit Ísland stjórnmálasambandi við árið 1976 vegna fiskveiðideilna?",
+      "svor": [
+        "Danmörku",
+        "Noregi",
+        "Bretlandi",
+        "Frakklandi"
+      ],
+      "rett": 2,
+      "skyring": "Bretland var mótherjinn í þessari hvössu lotu þorskastríðanna."
+    }
+  ],
+  "tonlistUSA": "Baby, Come to Me – Patti Austin og James Ingram (1983)",
+  "tonlistUK": "Too Shy – Kajagoogoo (1983)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "eldspýja",
+    "skyring": "Eldspýja er súla eða gusa af glóandi hrauni og gjósku sem þeytist upp úr eldgíg."
+  },
+  "vissir_thu": "Old Trafford hóf leikjasögu sína með sjö marka leik: Liverpool vann Manchester United 4–3 við opnun vallarins árið 1910.",
+  "stjornuspa": "Fiskurinn syndir í dag milli stórra hugmynda og smávægilegrar gleymsku — skrifaðu innkaupalistann áður en þú hyggst breyta heiminum. Kvöldið hentar vel fyrir tónlist, drauma og samtal sem tekur óvænta en skemmtilega stefnu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Peninsular_war_collage.jpg/500px-Peninsular_war_collage.jpg",
+    "ar": "1811",
+    "texti": "Í Geboraorrustunni nærri Badajoz sigruðu færri franskir hermenn undir stjórn Édouards Mortier spænska herinn og voru nærri búnir að gereyða honum.",
+    "heimild": "https://en.wikipedia.org/wiki/Peninsular_War",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "02-16",
+  "dagur": 16,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:21",
+  "sunset": "18:04",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 16. febrúar skautum við frá orrustu á ísilögðu Eystrasalti yfir í stofnun KR og endum með vandlega stilltan tón — sagan kann sannarlega að halda takti. Gríptu kaffibollann; fortíðin er mætt og hún gleymdi ekki takkaskónum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1270",
+      "texti": "Litháar unnu afgerandi sigur á Livóníureglunni í orrustunni við Karuse, sem háð var á frosnu Eystrasalti. Þar varð hafísinn bókstaflega að vígvelli."
+    },
+    {
+      "ar": "1859",
+      "texti": "Franska ríkisstjórnin ákvað að tónninn A4 skyldi hafa tíðnina 435 hertz. Þetta var fyrsta tilraunin til að samræma tónhæð á tónleikum — svo hljómsveitir heimsins væru að minnsta kosti ósammála á sama tónsviði."
+    },
+    {
+      "ar": "1918",
+      "texti": "Ráð Litáens undirritaði sjálfstæðisakt sem lýsti yfir endurreisn sjálfstæðs litháísks ríkis."
+    },
+    {
+      "ar": "1961",
+      "texti": "DuSable-safnið var formlega stofnað í Chicago, fyrst safna sem helgað var rannsóknum og varðveislu á sögu, menningu og listum Afríku-Ameríkana."
+    },
+    {
+      "ar": "2013",
+      "texti": "Að minnsta kosti 91 lést og 190 særðust þegar sprengja, falin í vatnstanki, sprakk á markaði í Hazara Town í Pakistan."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1899",
+      "texti": "Knattspyrnufélag Reykjavíkur, KR, var stofnað. Þar með hófst saga eins elsta og þekktasta íþróttafélags landsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1920",
+      "texti": "Hæstiréttur Íslands kom saman í fyrsta sinn og nýr kafli hófst í íslenskri réttarsögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1927",
+      "texti": "Heimdallur, félag ungra sjálfstæðismanna í Reykjavík, var stofnaður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2011",
+      "texti": "Íslenska flutningaskipið Goðafoss strandaði í Ytre Hvaler-þjóðgarðinum skammt undan Fredrikstad við Noregsstrendur.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Agyness Deyn",
+      "starfsgrein": "fyrirsæta, leikkona og söngkona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Andy Taylor",
+      "starfsgrein": "söngvari, gítarleikari og upptökustjóri",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Ernst Haeckel",
+      "starfsgrein": "líffræðingur, læknir og heimspekingur",
+      "ar": "1834"
+    },
+    {
+      "nafn": "Bebeto",
+      "starfsgrein": "knattspyrnumaður og knattspyrnuþjálfari",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Koffee",
+      "starfsgrein": "söngkona, lagahöfundur og rappari",
+      "ar": "2000"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kristinn Pétursson",
+      "starfsgrein": "blikksmiður",
+      "ar": "1889"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íslenska íþróttafélag var stofnað 16. febrúar 1899?",
+      "svor": [
+        "Knattspyrnufélag Reykjavíkur",
+        "Knattspyrnufélagið Valur",
+        "Íþróttafélagið Fram",
+        "Fimleikafélag Hafnarfjarðar"
+      ],
+      "rett": 0,
+      "skyring": "KR var stofnað árið 1899 og hefur síðan safnað bæði bikurum og býsna mörgum sögum."
+    },
+    {
+      "spurning": "Á hvaða óvenjulega undirlagi var orrustan við Karuse háð árið 1270?",
+      "svor": [
+        "Á hraunbreiðu",
+        "Á frosnu Eystrasalti",
+        "Á þaki kastala",
+        "Á sandrifum við Signu"
+      ],
+      "rett": 1,
+      "skyring": "Orrustan var háð á ísilögðu Eystrasalti, þar sem fótfestan hefur væntanlega skipt óvenjumiklu máli."
+    },
+    {
+      "spurning": "Hvaða knattspyrnukappi, fæddur 16. febrúar 1964, er meðal afmælisbarna dagsins?",
+      "svor": [
+        "Romário",
+        "Sócrates",
+        "Bebeto",
+        "Cafu"
+      ],
+      "rett": 2,
+      "skyring": "Brasilíski framherjinn Bebeto fæddist 16. febrúar 1964."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Know Him So Well – Elaine Paige og Barbara Dickson (1985)",
+  "bio": "The Breakfast Club (1985)",
+  "ord_dagsins": {
+    "ord": "hjarn",
+    "skyring": "Hjarn er harður eða frosinn snjór, gjarnan með skel eða íslag á yfirborðinu."
+  },
+  "vissir_thu": "Árið 1859 ákvað franska ríkisstjórnin að tónninn A4 skyldi vera 435 hertz; það var fyrsta tilraunin til að staðla tónhæð á tónleikum.",
+  "stjornuspa": "Vatnsberi, í dag berst þér hugmynd sem virðist komin með hraðpósti frá árinu 1985 — gefðu henni séns áður en þú dustar rykið af axlapúðunum. Óvænt samtal getur hitt réttan tón, jafnvel þótt enginn hafi stillt þig á 435 hertz.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LivoniaKnight.jpg/330px-LivoniaKnight.jpg",
+    "ar": "1270",
+    "texti": "Litháar unnu afgerandi sigur á Livóníureglunni í orrustunni við Karuse, sem háð var á frosnu Eystrasalti. Þar varð hafísinn bókstaflega að vígvelli.",
+    "heimild": "https://en.wikipedia.org/wiki/Livonian_Crusade",
+    "breidd": 330,
+    "haed": 384
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

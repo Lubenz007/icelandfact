@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-21",
+  "dagur": 21,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "09:04",
+  "sunset": "18:20",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 21. febrúar ber okkur frá skoskum konungshöllum til prentsmiðju Cherokee-þjóðarinnar og áfram í Hólaprentsmiðju — sagan þarf sannarlega ekki vegabréf, aðeins gott minni og sæmilega skó.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1437",
+      "texti": "Jakob 1. Skotakonungur var myrtur í Perth í misheppnuðu valdaráni sem Walter Stewart, jarl af Atholl, frændi hans og fyrrverandi bandamaður, stóð að. Konungleg fjölskylduboð hafa sjaldan endað jafn illa."
+    },
+    {
+      "ar": "1828",
+      "texti": "Fyrsta tölublað Cherokee Phoenix kom út. Það var fyrsta dagblaðið sem gefið var út á tungumáli frumbyggja Norður-Ameríku."
+    },
+    {
+      "ar": "1866",
+      "texti": "Lucy Hobbs Taylor varð fyrst kvenna til að hljóta doktorsgráðu frá tannlæknaháskóla. Hún braut þar með bæði glerþak og ýmsar gamlar hugmyndir um hver mætti halda á tannlæknabor."
+    },
+    {
+      "ar": "1952",
+      "texti": "Lögregla í Dhaka í Austur-Pakistan skaut á námsmenn sem kröfðust þess að bengalska yrði viðurkennt sem opinbert tungumál og nokkrir létust. Atburðurinn varð áhrifamikið tákn baráttunnar fyrir móðurmálinu."
+    },
+    {
+      "ar": "1965",
+      "texti": "Bandaríski réttindabaráttumaðurinn Malcolm X var myrtur meðan hann hélt ræðu í Audubon Ballroom í New York. Hann var aðeins 39 ára."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1599",
+      "texti": "Svonefnd Leikmannabiblía var gefin út á Hólum í Hjaltadal. Aðeins tvö eintök hennar eru nú þekkt, annað á Íslandi og hitt í Íþöku í Bandaríkjunum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1630",
+      "texti": "Jarðskjálftar hófust á Suðurlandi, ollu nokkru tjóni og breyttu hveravirkni í Biskupstungum. Jörðin minnti með öðrum orðum á að hún væri ekki alveg sest í helgan stein.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1945",
+      "texti": "Fimmtán manns fórust þegar þýskur kafbátur grandaði Dettifossi, skipi Eimskipafélags Íslands, norður af Írlandi. Þrjátíu manns var bjargað.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1962",
+      "texti": "Báturinn Stuðlaberg frá Seyðisfirði fórst við Suðurland og með honum ellefu menn. Slysið varð þjóðinni þungt áfall.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Rickman",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Ashley Greene",
+      "starfsgrein": "leikkona",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Anaïs Nin",
+      "starfsgrein": "ritgerðahöfundur og dagbókarhöfundur",
+      "ar": "1903"
+    },
+    {
+      "nafn": "Anthony Daniels",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Antonio López de Santa Anna",
+      "starfsgrein": "hershöfðingi og stjórnmálamaður",
+      "ar": "1794"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Þorsteinsson",
+      "starfsgrein": "Hólabiskup",
+      "ar": "1633"
+    },
+    {
+      "nafn": "Jörundur Brynjólfsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1884"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dagblað kom fyrst út árið 1828 og markaði tímamót í útgáfu á tungumálum frumbyggja Norður-Ameríku?",
+      "svor": [
+        "Cherokee Phoenix",
+        "The Northern Star",
+        "Boston Gazette",
+        "New York Herald"
+      ],
+      "rett": 0,
+      "skyring": "Cherokee Phoenix var fyrsta dagblaðið sem gefið var út á tungumáli frumbyggja Norður-Ameríku."
+    },
+    {
+      "spurning": "Hvaða leikari, kunnur fyrir ógleymanlega rödd og svipbrigði, fæddist 21. febrúar 1946?",
+      "svor": [
+        "Anthony Hopkins",
+        "Alan Rickman",
+        "Michael Caine",
+        "Ian McKellen"
+      ],
+      "rett": 1,
+      "skyring": "Alan Rickman fæddist þennan dag árið 1946 og gat gert eina augabrún að heilli leiksýningu."
+    },
+    {
+      "spurning": "Hvar var Leikmannabiblían gefin út árið 1599?",
+      "svor": [
+        "Í Skálholti",
+        "Á Bessastöðum",
+        "Á Hólum í Hjaltadal",
+        "Á Þingvöllum"
+      ],
+      "rett": 2,
+      "skyring": "Leikmannabiblían kom úr prentsmiðjunni á Hólum í Hjaltadal."
+    }
+  ],
+  "tonlistUSA": "Livin' on a Prayer – Bon Jovi (1987)",
+  "tonlistUK": "Shaddap You Face – Joe Dolce (1981)",
+  "bio": "The Silence of the Lambs (1991)",
+  "ord_dagsins": {
+    "ord": "orðheldni",
+    "skyring": "Orðheldni er sá eiginleiki að standa við það sem maður hefur lofað."
+  },
+  "vissir_thu": "Anthony Daniels, sem fæddist sama dag og Alan Rickman árið 1946, lék vélmennið C-3PO í Star Wars-myndunum.",
+  "stjornuspa": "Fiskur, innsæið þitt suðar í dag eins og gömul útvarpsstöð sem er alveg að ná réttri tíðni. Hlustaðu vel, en láttu ekki hvert brak verða að konunglegu samsæri.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/James_I_in_the_Froman_Armorial.jpg/500px-James_I_in_the_Froman_Armorial.jpg",
+    "ar": "1437",
+    "texti": "Jakob 1. Skotakonungur var myrtur í Perth í misheppnuðu valdaráni sem Walter Stewart, jarl af Atholl, frændi hans og fyrrverandi bandamaður, stóð að. Konungleg fjölskylduboð hafa sjaldan endað jafn illa.",
+    "heimild": "https://en.wikipedia.org/wiki/James_I_of_Scotland",
+    "breidd": 330,
+    "haed": 633
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

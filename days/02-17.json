@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-17",
+  "dagur": 17,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:17",
+  "sunset": "18:07",
+  "kvedja": "Góðan 17. febrúar! Í dag ræsum við fyrsta veðurgervihnöttinn, hlustum á dísilvél ganga í heila mínútu og minnumst þess að jafnvel Puccini fékk slæma dóma áður en fiðrildið hans lærði að fljúga. Sagan kann nefnilega vel við sig þegar hún fær annað tækifæri.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1621",
+      "texti": "Myles Standish var kjörinn fyrsti yfirmaður varnarliðs Plymouth-nýlendunnar. Nýlendulífið kallaði greinilega bæði á kornrækt og skipulagða vaktaskrá."
+    },
+    {
+      "ar": "1815",
+      "texti": "Bandaríkin staðfestu Gent-sáttmálann, sem hafði verið undirritaður árið áður, og bundu þar með formlegan enda á stríðið við Breta sem kennt er við árið 1812."
+    },
+    {
+      "ar": "1894",
+      "texti": "Fyrsta gangfæra dísilvél Rudolfs Diesel var sett í gang og gekk í eina mínútu. Stutt sýning, en áhrifin á samgöngur og iðnað urðu öllu langlífari."
+    },
+    {
+      "ar": "1913",
+      "texti": "Armory Show, fyrsta stóra sýning nútímalistar í Bandaríkjunum, var opnuð í New York. Þar fengu margir gestir að sjá list sem leit ekki endilega út eins og stofumynd hjá frænku."
+    },
+    {
+      "ar": "1959",
+      "texti": "Vanguard 2, fyrsti veðurgervihnötturinn, var sendur á loft til að mæla dreifingu skýjahulu. Þar með hófst nýr kafli í þeirri eilífu viðleitni mannkyns að vita hvort taka ætti regnhlíf."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1737",
+      "texti": "Tólf manns fórust í ofviðri á Norðurlandi og mikið annað tjón varð. Vetrarveðrin minntu harkalega á hver réð ferðinni.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1906",
+      "texti": "Ísafold birti fyrstu íslensku fréttamyndina, teikningu af Friðriki áttunda þar sem hann ávarpaði mannfjölda.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1943",
+      "texti": "Þormóður frá Bíldudal fórst á Faxaflóa á leið til Reykjavíkur. Með skipinu fórust 31 maður, þar af 22 frá Bíldudal.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1947",
+      "texti": "Ingólfur Arnarson, fyrsti nýsköpunartogarinn, kom til landsins eftir smíði í Bretlandi og markaði nýjan kafla í íslenskri útgerð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Billie Joe Armstrong",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Bonnie Wright",
+      "starfsgrein": "leikkona, kvikmyndagerðarkona og aðgerðasinni",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Alejandro Jodorowsky",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Adriano",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Arcangelo Corelli",
+      "starfsgrein": "fiðluleikari og tónskáld",
+      "ar": "1653"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Magnús Ólafsson",
+      "starfsgrein": "leikari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Pétur Havsteen",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1812"
+    },
+    {
+      "nafn": "Pétur Sigurðsson",
+      "starfsgrein": "háskólaritari og knattspyrnumaður",
+      "ar": "1896"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað mældi Vanguard 2, fyrsti veðurgervihnötturinn?",
+      "svor": [
+        "Dreifingu skýjahulu",
+        "Seltu Atlantshafsins",
+        "Vindhraða á Mars",
+        "Þykkt hafíss við Ísland"
+      ],
+      "rett": 0,
+      "skyring": "Vanguard 2 fylgdist með skýjahulu úr geimnum, þar sem ekkert skyggir á útsýnið nema skýin sjálf."
+    },
+    {
+      "spurning": "Hversu lengi gekk fyrsta gangfæra dísilvél Rudolfs Diesel árið 1894?",
+      "svor": [
+        "Tíu sekúndur",
+        "Ein mínúta",
+        "Ein klukkustund",
+        "Heill sólarhringur"
+      ],
+      "rett": 1,
+      "skyring": "Vélin gekk í eina mínútu, sem reyndist býsna afdrifarík mínúta."
+    },
+    {
+      "spurning": "Hvað hét skipið sem fórst á Faxaflóa árið 1943?",
+      "svor": [
+        "Ingólfur Arnarson",
+        "Vanguard 2",
+        "Þormóður",
+        "Ísafold"
+      ],
+      "rett": 2,
+      "skyring": "Þormóður frá Bíldudal fórst á leið til Reykjavíkur með 31 manni."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Know Him So Well – Elaine Paige og Barbara Dickson (1985)",
+  "bio": "The Silence of the Lambs (1991)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fallegt þegar horft er út um glugga en reynist kalt eða ónotalegt þegar út er komið."
+  },
+  "vissir_thu": "Madama Butterfly eftir Giacomo Puccini fékk slæmar viðtökur við frumflutninginn í La Scala árið 1904, en eftir endurskoðun varð óperan ein sú þekktasta í heimi.",
+  "stjornuspa": "Vatnsberi, gömul hugmynd sem þú lagðir til hliðar gæti gengið betur í annarri tilraun, rétt eins og ópera eftir Puccini. Stilltu þó væntingunum í hóf; ekki þarf hver mínúta að breyta iðnsögunni eins og dísilvélin gerði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Myles_Standish.jpg/500px-Myles_Standish.jpg",
+    "ar": "1621",
+    "texti": "Myles Standish var kjörinn fyrsti yfirmaður varnarliðs Plymouth-nýlendunnar. Nýlendulífið kallaði greinilega bæði á kornrækt og skipulagða vaktaskrá.",
+    "heimild": "https://en.wikipedia.org/wiki/Myles_Standish",
+    "breidd": 330,
+    "haed": 407
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

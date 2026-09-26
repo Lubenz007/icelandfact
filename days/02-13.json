@@ -1,0 +1,132 @@
+{
+  "mmdd": "02-13",
+  "dagur": 13,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:30",
+  "sunset": "17:54",
+  "kvedja": "Góðan og gleðilegan 13. febrúar! Í dag förum við frá barnungum Svíakonungi niður í holræsi Louisville og þaðan alla leið út í geim — sönnun þess að sagan kann sjaldnast að sitja kyrr. Taktu daginn með Vatnsberans ró og örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1660",
+      "texti": "Karl 11. varð konungur Svíþjóðar aðeins fjögurra ára gamall eftir lát föður síns. Flest börn á þeim aldri þurfa að hafa áhyggjur af týndum vettlingum, ekki heilu konungsríki."
+    },
+    {
+      "ar": "1867",
+      "texti": "Vinna hófst við að hylja mengaða ána Senne í Brussel og leggja hana að stórum hluta undir borgina. Framkvæmdin átti að greiða fyrir endurnýjun miðborgarinnar og bæta afar bágborið hreinlæti."
+    },
+    {
+      "ar": "1960",
+      "texti": "Bandarískir háskólanemar af afrískum uppruna hófu fyrstu setumótmælin í Nashville við þrjá hádegisverðarstaði. Friðsamlegu mótmælin voru liður í baráttunni gegn kynþáttaaðskilnaði í Bandaríkjunum."
+    },
+    {
+      "ar": "1981",
+      "texti": "Hexangufur kviknuðu í holræsakerfi Louisville í Kentucky og sprengingar eyðilögðu rúmlega 21 kílómetra af fráveitulögnum. Þetta var bókstaflega dagurinn þegar allt fór í loft upp neðanjarðar."
+    },
+    {
+      "ar": "2012",
+      "texti": "Evrópska geimferðastofnunin skaut fyrstu Vega-eldflauginni á loft frá geimferðamiðstöðinni í Frönsku Gvæjana. Þar með hófst nýr kafli í flutningi smærri gervitungla út í geim."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Aung San",
+      "starfsgrein": "hershöfðingi og stjórnmálamaður",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Bess Truman",
+      "starfsgrein": "forsetafrú Bandaríkjanna",
+      "ar": "1885"
+    },
+    {
+      "nafn": "Eleanor Farjeon",
+      "starfsgrein": "rithöfundur, skáld og leikskáld",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Bo Svenson",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Ben Collins",
+      "starfsgrein": "kappakstursökumaður",
+      "ar": "1975"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Halldóra Briem",
+      "starfsgrein": "arkitekt",
+      "ar": "1913"
+    },
+    {
+      "nafn": "Örlygur Sigurðsson",
+      "starfsgrein": "teiknari og rithöfundur",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Hálfdán Björnsson",
+      "starfsgrein": "náttúrufræðingur",
+      "ar": "1927"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu gamall var Karl 11. þegar hann varð konungur Svíþjóðar?",
+      "svor": [
+        "Fjögurra ára",
+        "Átta ára",
+        "Tólf ára",
+        "Sextán ára"
+      ],
+      "rett": 0,
+      "skyring": "Karl 11. var aðeins fjögurra ára og því líklega yngsti maðurinn við ríkisstjórnarborðið."
+    },
+    {
+      "spurning": "Í hvaða bandarísku borg fóru fyrstu setumótmælin frá árinu 1960 fram?",
+      "svor": [
+        "Boston",
+        "Nashville",
+        "Seattle",
+        "Denver"
+      ],
+      "rett": 1,
+      "skyring": "Nemendur settust niður í Nashville og hjálpuðu um leið til við að hreyfa við heilu samfélagi."
+    },
+    {
+      "spurning": "Hvað nefnist eldflaugin sem Evrópska geimferðastofnunin skaut fyrst á loft árið 2012?",
+      "svor": [
+        "Ariane",
+        "Orion",
+        "Vega",
+        "Atlas"
+      ],
+      "rett": 2,
+      "skyring": "Vega hóf jómfrúarflug sitt frá Frönsku Gvæjana þennan dag."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Needles and Pins – The Searchers (1964)",
+  "bio": "Groundhog Day (1993)",
+  "ord_dagsins": {
+    "ord": "andvari",
+    "skyring": "Andvari er hægur og mildur vindur, rétt eins og náttúran sé að hvísla."
+  },
+  "vissir_thu": "Senne, aðaláin í Brussel, var svo menguð á 19. öld að stór hluti hennar var hulinn og felldur inn í fráveitukerfi borgarinnar.",
+  "stjornuspa": "Vatnsberi, í dag færðu hugmynd sem er svo langt á undan sinni samtíð að hún ætti helst að vera send upp með Vega-eldflaug. Skrifaðu hana niður áður en andvarinn feykir henni burt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Karl_XI%2C_1655-1697%2C_konung_av_Sverige_pfalzgreve_av_Zweibr%C3%BCcken_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_15083.tif/lossy-page1-330px-Karl_XI%2C_1655-1697%2C_konung_av_Sverige_pfalzgreve_av_Zweibr%C3%BCcken_%28David_Kl%C3%B6cker_Ehrenstrahl%29_-_Nationalmuseum_-_15083.tif.jpg",
+    "ar": "1660",
+    "texti": "Karl 11. varð konungur Svíþjóðar aðeins fjögurra ára gamall eftir lát föður síns. Flest börn á þeim aldri þurfa að hafa áhyggjur af týndum vettlingum, ekki heilu konungsríki.",
+    "heimild": "https://en.wikipedia.org/wiki/Charles_XI_of_Sweden",
+    "breidd": 330,
+    "haed": 434
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

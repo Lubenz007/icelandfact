@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-20",
+  "dagur": 20,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "09:07",
+  "sunset": "18:16",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 20. febrúar sprettur eldfjall upp úr maísakri, ópera fær kaldar kveðjur og geimfar smellir af 7.137 tunglmyndum áður en það brotlendir samkvæmt áætlun. Sagan kann greinilega að setja upp sýningu — stundum með heldur óvenjulegum lokaatriðum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1685",
+      "texti": "Frönsk nýlenda í Texas hófst þegar Robert de La Salle og nýlenduhópur hans gengu á land nærri Matagorda-flóa. Frakkar höfðu þar með mætt í hverfið, þótt dvölin yrði ekki langlíf."
+    },
+    {
+      "ar": "1816",
+      "texti": "Gamanóperan Rakarinn í Sevilla eftir Gioachino Rossini var frumflutt í Teatro Argentina í Róm við baul og háðsglósur áhorfenda. Verkið átti þó eftir að verða ein ástsælasta ópera heims — frumsýningardómar eru ekki alltaf eilífðardómar."
+    },
+    {
+      "ar": "1872",
+      "texti": "Metropolitan-listasafnið opnaði í New York. Safnið er nú hið stærsta í Bandaríkjunum og varðveitir meira en tvær milljónir listaverka."
+    },
+    {
+      "ar": "1943",
+      "texti": "Sprunga opnaðist í maísakri í Michoacán í Mexíkó og úr henni reis eldfjallið Parícutin. Gosið hélt áfram í níu ár og bjó til gjallkeilu þar sem áður var ræktað land."
+    },
+    {
+      "ar": "1965",
+      "texti": "Geimfarið Ranger 8 sendi 7.137 ljósmyndir af tunglinu til jarðar á síðustu 23 mínútum ferðar sinnar. Að því loknu brotlenti það samkvæmt áætlun í Mare Tranquillitatis — heldur harkaleg leið til að ljúka myndatöku."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1902",
+      "texti": "Sambandskaupfélag Þingeyinga var stofnað, en það varð síðar að Sambandi íslenskra samvinnufélaga.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1911",
+      "texti": "Fiskifélag Íslands var stofnað til að sinna málefnum íslensks sjávarútvegs.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1943",
+      "texti": "Bensínskömmtun hófst á Íslandi, svo ökumenn þurftu að fara sparlega með hvern dropa.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1991",
+      "texti": "Þyrla Landhelgisgæslunnar bjargaði allri átta manna áhöfn Steindórs GK eftir að skipið strandaði undir Krýsuvíkurbjargi.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Olivia Rodrigo",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Brian Littrell",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Ciro Immobile",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Antonio Inoki",
+      "starfsgrein": "glímukappi og stjórnmálamaður",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Angelica Schuyler Church",
+      "starfsgrein": "samkvæmiskona",
+      "ar": "1756"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnar Grétarsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Louisa Matthíasdóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1917"
+    },
+    {
+      "nafn": "Valur Ingimundarson",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1962"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldfjall tók að myndast í maísakri árið 1943?",
+      "svor": [
+        "Parícutin",
+        "Etna",
+        "Hekla",
+        "Vesúvíus"
+      ],
+      "rett": 0,
+      "skyring": "Parícutin spratt upp úr akri í Mexíkó og gaus síðan í níu ár."
+    },
+    {
+      "spurning": "Hversu margar myndir sendi Ranger 8 frá tunglinu á síðustu 23 mínútum ferðarinnar?",
+      "svor": [
+        "713",
+        "2.137",
+        "7.137",
+        "17.137"
+      ],
+      "rett": 2,
+      "skyring": "Ranger 8 náði að senda 7.137 myndir áður en fyrirhugað brotlendingaratriði hófst."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er íslensk myndlistarkona?",
+      "svor": [
+        "Olivia Rodrigo",
+        "Louisa Matthíasdóttir",
+        "Angelica Schuyler Church",
+        "Amanda Blake"
+      ],
+      "rett": 1,
+      "skyring": "Louisa Matthíasdóttir fæddist árið 1917 og varð þekkt íslensk myndlistarkona."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – George Michael (1985)",
+  "tonlistUK": "Town Called Malice – The Jam (1982)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "kögur",
+    "skyring": "Kögur er jaðar eða skrautlegur faldur úr hangandi þráðum, til dæmis á klæði."
+  },
+  "vissir_thu": "Parícutin er sérstakt meðal eldfjalla vegna þess að menn urðu vitni að því þegar það tók að myndast frá grunni á akri árið 1943.",
+  "stjornuspa": "Fiskurinn finnur í dag gamla lagaplötu, ógreiddan reikning eða tilfinningu sem hann hélt að væri löngu týnd. Treystu innsæinu, en ekki láta það velja hárgreiðslu úr árgangi 1985.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LaSallesExpeditiontoLouisiana.JPG/500px-LaSallesExpeditiontoLouisiana.JPG",
+    "ar": "1685",
+    "texti": "Frönsk nýlenda í Texas hófst þegar Robert de La Salle og nýlenduhópur hans gengu á land nærri Matagorda-flóa. Frakkar höfðu þar með mætt í hverfið, þótt dvölin yrði ekki langlíf.",
+    "heimild": "https://en.wikipedia.org/wiki/French_colonization_of_Texas",
+    "breidd": 330,
+    "haed": 242
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,132 @@
+{
+  "mmdd": "02-11",
+  "dagur": 11,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:37",
+  "sunset": "17:47",
+  "kvedja": "Góðan 11. febrúar! Í dag siglum við frá Magellansundi yfir í fyrstu vísindaskáldsöguna í sjónvarpi og endum við fangelsishliðið þar sem Nelson Mandela gekk út í frelsið. Saga dagsins er sannarlega með margar rásir – og eina tölvuveiru í farangrinum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1584",
+      "texti": "Spænski landkönnuðurinn Pedro Sarmiento de Gamboa stofnaði bæinn Nombre de Jesús við Magellansund. Þetta var fyrri af tveimur skammlífum spænskum nýlendum þar – staðsetningin reyndist ekki beinlínis sumarleyfisparadís."
+    },
+    {
+      "ar": "1826",
+      "texti": "London University, síðar University College London, var stofnaður sem fyrsti veraldlegi háskóli Englands. Þar með var opnað fyrir háskólanám án þess að trúfélagsaðild fylgdi með í skólatöskunni."
+    },
+    {
+      "ar": "1938",
+      "texti": "BBC sýndi sjónvarpsaðlögun á hluta leikritsins R.U.R. eftir tékkneska rithöfundinn Karel Čapek. Þetta var fyrsta útsending vísindaskáldskapar í sjónvarpi."
+    },
+    {
+      "ar": "1990",
+      "texti": "Nelson Mandela gekk frjáls úr Victor Verster-fangelsinu nærri Paarl í Suður-Afríku eftir 27 ára pólitíska fangavist. Augnablikið varð eitt áhrifamesta tákn endaloka aðskilnaðarstefnunnar."
+    },
+    {
+      "ar": "2001",
+      "texti": "Tölvuormurinn Anna Kournikova var settur í umferð af tvítugum hollenskum námsmanni og náði til milljóna notenda. Nafn tennisstjörnunnar reyndist öflug beita fyrir forvitna tölvueigendur."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Daniil Medvedev",
+      "starfsgrein": "rússneskur tennisleikari",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Brandy Norwood",
+      "starfsgrein": "bandarísk söngkona og leikkona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Bryan Gil",
+      "starfsgrein": "spænskur knattspyrnumaður",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Arne Jacobsen",
+      "starfsgrein": "danskur arkitekt og hönnuður",
+      "ar": "1902"
+    },
+    {
+      "nafn": "Antony Flew",
+      "starfsgrein": "enskur heimspekingur",
+      "ar": "1923"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Reynir Örn Leósson",
+      "starfsgrein": "íslenskur aflraunamaður",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Sveinn Ólafsson",
+      "starfsgrein": "íslenskur alþingismaður",
+      "ar": "1863"
+    },
+    {
+      "nafn": "Jón Jakobsson",
+      "starfsgrein": "sýslumaður Eyfirðinga",
+      "ar": "1738"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu lengi hafði Nelson Mandela verið pólitískur fangi þegar honum var sleppt árið 1990?",
+      "svor": [
+        "17 ár",
+        "22 ár",
+        "27 ár",
+        "32 ár"
+      ],
+      "rett": 2,
+      "skyring": "Mandela hafði setið í fangelsi í 27 ár – lengur en margur geymir sama sófann."
+    },
+    {
+      "spurning": "Hvaða verk varð fyrsta vísindaskáldsagan sem sýnd var í sjónvarpi?",
+      "svor": [
+        "R.U.R.",
+        "Frankenstein",
+        "Tímavélin",
+        "Metropolis"
+      ],
+      "rett": 0,
+      "skyring": "BBC sjónvarpaði hluta úr R.U.R. eftir Karel Čapek árið 1938."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt fyrir tennis?",
+      "svor": [
+        "Bryan Gil",
+        "Arne Jacobsen",
+        "Daniil Medvedev",
+        "Antony Flew"
+      ],
+      "rett": 2,
+      "skyring": "Daniil Medvedev er rússneskur tennisleikari og lætur spaðann sjá um stóran hluta málflutningsins."
+    }
+  ],
+  "tonlistUSA": "Karma Chameleon – Culture Club (1984)",
+  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
+  "bio": "The Lego Movie (2014)",
+  "ord_dagsins": {
+    "ord": "ísing",
+    "skyring": "Ísing er íslag sem myndast þegar undirkældir vatnsdropar frjósa á yfirborði hluta."
+  },
+  "vissir_thu": "R.U.R. eftir Karel Čapek varð árið 1938 fyrsta vísindaskáldverkið sem sýnt var í sjónvarpi.",
+  "stjornuspa": "Vatnsberi, hugmyndir þínar í dag eru svo framúrstefnulegar að Karel Čapek hefði líklega viljað fá þig í höfundateymið. Varastu þó viðhengi í tölvupósti sem lofa tennisstjörnum, frægð eða ókeypis framtíð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png/500px-Pedro_Sarmiento_de_Gamboa_%28RPS_16-11-2014%29_Alcal%C3%A1_de_Henares.png",
+    "ar": "1584",
+    "texti": "Spænski landkönnuðurinn Pedro Sarmiento de Gamboa stofnaði bæinn Nombre de Jesús við Magellansund. Þetta var fyrri af tveimur skammlífum spænskum nýlendum þar – staðsetningin reyndist ekki beinlínis sumarleyfisparadís.",
+    "heimild": "https://en.wikipedia.org/wiki/Pedro_Sarmiento_de_Gamboa",
+    "breidd": 330,
+    "haed": 329
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

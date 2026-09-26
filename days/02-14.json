@@ -1,0 +1,132 @@
+{
+  "mmdd": "02-14",
+  "dagur": 14,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:27",
+  "sunset": "17:57",
+  "kvedja": "Góðan 14. febrúar, kæri lesandi! Dagurinn býður upp á ást, uppreisnir, risaeðlu í teiknimynd og ljósmynd af örsmárri jörðinni okkar — býsna myndarlegan sögulegan blómvönd. Mundu bara að tala fallega við fólkið þitt; mannkynið virðist nefnilega best úr sex milljarða kílómetra fjarlægð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1804",
+      "texti": "Serbneskir höfðingjar völdu Đorđe Petrović sem leiðtoga sinn og hófu uppreisn gegn Tyrkjaveldi. Það var engin smávægileg dagskrárbreyting heldur upphaf stórra umbrota á Balkanskaga."
+    },
+    {
+      "ar": "1895",
+      "texti": "Gamanleikur Oscars Wilde, The Importance of Being Earnest, var frumsýndur í London. Verkið varð síðar eitt tilvitnaðasta leikrit enskrar tungu — enda gat Wilde beitt orðunum eins og skylmingamaður sverði."
+    },
+    {
+      "ar": "1914",
+      "texti": "Teiknimyndin Gertie the Dinosaur kom út og hafði síðar mikil áhrif á brautryðjendur á borð við Fleischer-bræður og Walt Disney. Risaeðlur höfðu sem sagt áhrif á kvikmyndasöguna löngu áður en þær komust í Jurassic Park."
+    },
+    {
+      "ar": "1990",
+      "texti": "Geimfarið Voyager 1 tók ljósmyndina Pale Blue Dot af jörðinni úr 40,5 stjarnfræðieininga fjarlægð, eða um 6,06 milljörðum kílómetra. Á myndinni er heimkynni alls mannkyns aðeins fölblár depill í geimnum."
+    },
+    {
+      "ar": "2005",
+      "texti": "Steve Chen, Chad Hurley og Jawed Karim stofnuðu myndskeiðaveituna YouTube. Þar með var lagður grunnur að óteljandi kennslumyndböndum, tónlistarmyndböndum og köttum sem detta ofan í pappakassa."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Babur",
+      "starfsgrein": "keisari og stofnandi Mógúlveldisins",
+      "ar": "1483"
+    },
+    {
+      "nafn": "Christopher Latham Sholes",
+      "starfsgrein": "blaðamaður og uppfinningamaður ritvélar",
+      "ar": "1819"
+    },
+    {
+      "nafn": "Alan Parker",
+      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Cadel Evans",
+      "starfsgrein": "hjólreiðamaður",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Bacary Sagna",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1983"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þórarinn B. Þorláksson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Jóhanna Kristjónsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Böðvar Guðlaugsson",
+      "starfsgrein": "rithöfundur og skáld",
+      "ar": "1922"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar tók ljósmyndina Pale Blue Dot árið 1990?",
+      "svor": [
+        "Voyager 1",
+        "Apollo 11",
+        "Viking 1",
+        "Hubble"
+      ],
+      "rett": 0,
+      "skyring": "Voyager 1 leit um öxl og sýndi okkur jörðina sem örsmáan, fölbláan depil."
+    },
+    {
+      "spurning": "Hvaða netvettvangur var stofnaður 14. febrúar 2005?",
+      "svor": [
+        "Wikipedia",
+        "YouTube",
+        "Instagram",
+        "Spotify"
+      ],
+      "rett": 1,
+      "skyring": "YouTube var stofnað þennan dag og internetið varð samstundis tilbúnara fyrir myndskeið af köttum."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna stofnaði Mógúlveldið?",
+      "svor": [
+        "Alan Parker",
+        "Cadel Evans",
+        "Babur",
+        "Bacary Sagna"
+      ],
+      "rett": 2,
+      "skyring": "Babur stofnaði Mógúlveldið; hinir þrír völdu sér öllu friðsamlegri starfsvettvang."
+    }
+  ],
+  "tonlistUSA": "Livin' on a Prayer – Bon Jovi (1987)",
+  "tonlistUK": "I Knew You Were Waiting (For Me) – Aretha Franklin og George Michael (1987)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "jarðkringla",
+    "skyring": "Jarðkringla er gamalt og myndrænt orð yfir jörðina eða heiminn."
+  },
+  "vissir_thu": "Ljósmyndin Pale Blue Dot var tekin úr um 6,06 milljarða kílómetra fjarlægð og sýnir jörðina sem örsmáan ljósdepil.",
+  "stjornuspa": "Vatnsberi, í dag skaltu hugsa stórt en muna að jafnvel jörðin verður að litlum depli sé horft úr nægilegri fjarlægð. Gamalt kynni gæti skotið upp kollinum eins og risaeðla í teiknimynd — taktu því með húmor.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg/500px-Kara%C4%91or%C4%91e_Petrovi%C4%87%2C_by_Vladimir_Borovikovsky%2C_1816.jpg",
+    "ar": "1804",
+    "texti": "Serbneskir höfðingjar völdu Đorđe Petrović sem leiðtoga sinn og hófu uppreisn gegn Tyrkjaveldi. Það var engin smávægileg dagskrárbreyting heldur upphaf stórra umbrota á Balkanskaga.",
+    "heimild": "https://en.wikipedia.org/wiki/Karađorđe",
+    "breidd": 330,
+    "haed": 461
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

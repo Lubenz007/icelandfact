@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-27",
+  "dagur": 27,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:43",
+  "sunset": "18:38",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 27. febrúar sveiflumst við frá skoskum samningaborðum og japönskum fánum yfir í kolefnisaldursgreiningu, kvikmyndagerð og dálítið af Pokémon—sagan kann sannarlega að blanda góðan kokteil. Haltu fast í kaffibollann; fortíðin er komin á kreik.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1560",
+      "texti": "Berwick-samningurinn var undirritaður og lagði línurnar fyrir komu ensks flota og herliðs til Skotlands, þar sem ætlunin var að hrekja burt franska hermenn sem studdu ríkisstjórn Maríu af Guise."
+    },
+    {
+      "ar": "1814",
+      "texti": "Í Skagastríðinu sigruðu spænskar, breskar og portúgalskar hersveitir undir stjórn Wellingtons franska herinn í orrustunni við Orthez. Frakkar neyddust til að hörfa austur á bóginn."
+    },
+    {
+      "ar": "1870",
+      "texti": "Núverandi fáni Japans var fyrst tekinn upp sem borgaralegt siglingamerki kaupskipa. Rauða sólin fékk þar með formlegt hlutverk á hafi úti."
+    },
+    {
+      "ar": "1940",
+      "texti": "Bandarísku lífefnafræðingarnir Martin Kamen og Sam Ruben uppgötvuðu kolefni-14. Geislavirka samsætan varð síðar lykillinn að aldursgreiningu fornleifa og jarðfræðilegra sýna—eins konar klukka fortíðarinnar."
+    },
+    {
+      "ar": "2015",
+      "texti": "Rússneski stjórnmálamaðurinn Boris Nemtsov, ötull gagnrýnandi Vladimírs Pútíns, var myrtur í miðborg Moskvu. Morðið vakti hörð viðbrögð innan Rússlands og víða um heim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1638",
+      "texti": "Skammvinnt eldgos varð austanlands, „í fjöllum, eyðimörkum og óbyggðum“, eins og Sjávarborgarannáll orðaði það með hæfilega dulúðlegum hætti.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1927",
+      "texti": "Kolakrani var reistur í Reykjavíkurhöfn og þótti þá með fullkomnustu tækjum sinnar tegundar á Norðurlöndum. Hann stóð í tæp 41 ár.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1928",
+      "texti": "Togarinn Jón forseti strandaði við Stafnes. Fimmtán skipverjar fórust en tíu var bjargað.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1953",
+      "texti": "Í ofviðri fauk barnaskólahúsið í Hnífsdal af grunni og splundraðist. Tveir kennarar og 36 börn voru í húsinu og slösuðust sum barnanna.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Baldwin",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Adrian Smith",
+      "starfsgrein": "enskur gítarleikari og lagahöfundur",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Alphonse Areola",
+      "starfsgrein": "franskur knattspyrnumaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Baltasar Kormákur",
+      "starfsgrein": "íslenskur leikari, leikstjóri og framleiðandi",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Charles Best",
+      "starfsgrein": "bandarísk-kanadískur lífeðlis- og lífefnafræðingur",
+      "ar": "1899"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Baltasar Kormákur",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Sveinn Björnsson",
+      "starfsgrein": "fyrsti forseti Íslands",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Bjarkey Gunnarsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1965"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppgötvun árið 1940 gerði vísindamönnum kleift að aldursgreina fornleifar með nýjum hætti?",
+      "svor": [
+        "Kolefni-14",
+        "Radíum",
+        "Helín",
+        "Plútóníum"
+      ],
+      "rett": 0,
+      "skyring": "Kolefni-14 varð að eins konar armbandsúri fornleifafræðinnar, þótt það passi illa um úlnliðinn."
+    },
+    {
+      "spurning": "Hvar strandaði togarinn Jón forseti árið 1928?",
+      "svor": [
+        "Við Hnífsdal",
+        "Við Stafnes",
+        "Við Hornafjörð",
+        "Við Grímsey"
+      ],
+      "rett": 1,
+      "skyring": "Togarinn strandaði við Stafnes og fórst þar stór hluti áhafnarinnar."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna varð fyrsti forseti Íslands?",
+      "svor": [
+        "Baltasar Kormákur",
+        "Charles Best",
+        "Sveinn Björnsson",
+        "Adrian Smith"
+      ],
+      "rett": 2,
+      "skyring": "Sveinn Björnsson varð fyrsti forseti lýðveldisins Íslands."
+    }
+  ],
+  "tonlistUSA": "Centerfold – The J. Geils Band (1982)",
+  "tonlistUK": "Baby One More Time – Britney Spears (1999)",
+  "bio": "Titanic (1998)",
+  "ord_dagsins": {
+    "ord": "fárviðri",
+    "skyring": "Fárviðri er ákaflega mikið og hættulegt óveður."
+  },
+  "vissir_thu": "Kolefni-14 myndast stöðugt í lofthjúpi jarðar fyrir áhrif geimgeisla og nýtist til að aldursgreina lífrænar leifar.",
+  "stjornuspa": "Fiskurinn finnur gamalt mixtape, gleymda kvittun eða stórkostlega hugmynd í skúffu dagsins. Treystu innsæinu, en ekki láta það velja lykilorðið þitt eða kaupa sófasett á afborgunum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/500px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+    "ar": "1560",
+    "texti": "Berwick-samningurinn var undirritaður og lagði línurnar fyrir komu ensks flota og herliðs til Skotlands, þar sem ætlunin var að hrekja burt franska hermenn sem studdu ríkisstjórn Maríu af Guise.",
+    "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Berwick_(1560)",
+    "breidd": 330,
+    "haed": 257
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

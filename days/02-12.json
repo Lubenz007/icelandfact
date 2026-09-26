@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-12",
+  "dagur": 12,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:34",
+  "sunset": "17:51",
+  "kvedja": "Góðan 12. febrúar, kæri lesandi! Í dag sveiflast sagan frá gylltum skjaldarmerkjum og Gershwin yfir í smástirnið Eros — býsna drjúg dagskrá fyrir einn vetrardag. Haltu fast í kaffibollann; fortíðin kann að lenda þar sem síst skyldi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1502",
+      "texti": "Ísabella 1. Kastilíudrottning bannaði íslam í Kastilíuríki og neyddi þar með nær alla múslima meðal þegna sinna til að taka kristna trú."
+    },
+    {
+      "ar": "1909",
+      "texti": "Ferjan SS Penguin rakst á sker í Wellingtonhöfn og sökk. Alls fórust 75 manns í mannskæðasta sjóslysi Nýja-Sjálands á 20. öld."
+    },
+    {
+      "ar": "1924",
+      "texti": "George Gershwin frumflutti „Rhapsody in Blue“ í Aeolian Hall í New York. Þar mættust djass og klassík svo eftirminnilega að tónverkið hljómar enn eins og stórborg að vakna."
+    },
+    {
+      "ar": "1968",
+      "texti": "Svartir sorphirðustarfsmenn í Memphis hófu verkfall eftir að tveir samstarfsmenn þeirra létust við vinnu. Verkfallið stóð í meira en tvo mánuði og varð mikilvægur þáttur í réttindabaráttu verkafólks og svartra Bandaríkjamanna."
+    },
+    {
+      "ar": "2001",
+      "texti": "Geimfarið NEAR Shoemaker lenti á smástirninu Eros og varð fyrsta geimfarið til að lenda á smástirni. Það má með sanni kalla lendingu á grýttum stað."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1919",
+      "texti": "Skjaldarmerki Íslands var staðfest með konungsúrskurði. Merkinu var síðar breytt við stofnun lýðveldisins 17. júní 1944.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1940",
+      "texti": "Eldey var friðuð með lögum; bannað var að ganga á eyjuna án leyfis ríkisstjórnarinnar og að granda þar fuglum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1950",
+      "texti": "Íþróttafélagið Breiðablik UBK var stofnað. Kópavogur eignaðist þar með félag sem síðar varð rækilega áberandi á íslenskum íþróttavöllum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1989",
+      "texti": "Í illviðri settist selta á einangrara í spennistöðinni á Geithálsi og olli rafmagnsleysi um allt Ísland. Veðrið slökkti með öðrum orðum ljósin hjá heilli þjóð.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Abraham Lincoln",
+      "starfsgrein": "lögmaður og Bandaríkjaforseti",
+      "ar": "1809"
+    },
+    {
+      "nafn": "Anna Pavlova",
+      "starfsgrein": "ballettdansari og leikkona",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Arsenio Hall",
+      "starfsgrein": "leikari og spjallþáttastjórnandi",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Annette Crosbie",
+      "starfsgrein": "leikkona",
+      "ar": "1934"
+    },
+    {
+      "nafn": "13. Dalai Lama",
+      "starfsgrein": "andlegur leiðtogi Tíbeta",
+      "ar": "1876"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Trausti",
+      "starfsgrein": "rithöfundur",
+      "ar": "1873"
+    },
+    {
+      "nafn": "Steingrímur Steinþórsson",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Lárus Pálsson",
+      "starfsgrein": "leikari",
+      "ar": "1914"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Á hvaða himinhnetti lenti NEAR Shoemaker árið 2001?",
+      "svor": [
+        "Smástirninu Eros",
+        "Tunglinu",
+        "Mars",
+        "Halastjörnunni Halley"
+      ],
+      "rett": 0,
+      "skyring": "NEAR Shoemaker lenti á Eros og varð fyrsta geimfarið til að lenda á smástirni."
+    },
+    {
+      "spurning": "Hvaða tónverk George Gershwins var frumflutt 12. febrúar 1924?",
+      "svor": [
+        "Boléro",
+        "Rhapsody in Blue",
+        "Carmina Burana",
+        "The Planets"
+      ],
+      "rett": 1,
+      "skyring": "„Rhapsody in Blue“ var frumflutt í New York og brúaði bilið milli djass og klassíkur."
+    },
+    {
+      "spurning": "Hvað olli rafmagnsleysi um allt Ísland árið 1989?",
+      "svor": [
+        "Eldgos undir jökli",
+        "Bilun í sæstreng",
+        "Selta á einangrurum í spennistöð",
+        "Óvenjulegt sólgos"
+      ],
+      "rett": 2,
+      "skyring": "Illviðri bar seltu á einangrara við Geitháls og þjóðin sat skyndilega í myrkri."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Think We're Alone Now – Tiffany (1988)",
+  "bio": "Groundhog Day (1993)",
+  "ord_dagsins": {
+    "ord": "árla",
+    "skyring": "Orðið merkir snemma dags eða snemma morguns."
+  },
+  "vissir_thu": "NEAR Shoemaker var fyrsta geimfarið sem lenti á smástirni þegar það settist á Eros árið 2001.",
+  "stjornuspa": "Vatnsberi, gömul hugmynd sem þú lagðir til hliðar gæti reynst jafn lífseig og sígilt Gershwin-lag. Rykið af henni, en forðastu að lenda harkalega — það hæfir geimförum betur en fólki.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/IsabellaofCastile03.jpg/500px-IsabellaofCastile03.jpg",
+    "ar": "1502",
+    "texti": "Ísabella 1. Kastilíudrottning bannaði íslam í Kastilíuríki og neyddi þar með nær alla múslima meðal þegna sinna til að taka kristna trú.",
+    "heimild": "https://en.wikipedia.org/wiki/Isabella_I_of_Castile",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
