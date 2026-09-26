@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-17",
+  "dagur": 17,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "05:49",
+  "sunset": "21:06",
+  "kvedja": "Góðan 17. apríl! Í dag teygir sagan sig frá dönskum konungi og fölskum skákmeistara alla leið til Stjörnustríðs og fjarreikistjörnu — býsna drjúg dagskrá fyrir einn fimmtudag. Hrúturinn má því alveg sperra hornin, en helst án þess að velta taflborðinu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1080",
+      "texti": "Knútur 4. tók við konungdómi í Danmörku eftir lát Haralds 3., bróður síns. Konungaskipti voru sjaldnast einfalt fjölskylduboð á miðöldum."
+    },
+    {
+      "ar": "1783",
+      "texti": "Vélræni Tyrkinn, sviksamleg „skákvél“ Wolfgangs von Kempelen, hóf ferð um Evrópu. Undraapparatið var í raun stjórnað af manni sem faldi sig inni í vélinni — snjall skákmaður með afar þröngt skrifstofurými."
+    },
+    {
+      "ar": "1951",
+      "texti": "Peak District var útnefnt fyrsta þjóðgarðsvæði Bretlands. Þar með fengu breskar heiðar og hæðir opinbera viðurkenningu fyrir að vera einstaklega gönguvænar."
+    },
+    {
+      "ar": "1973",
+      "texti": "George Lucas hóf að skrifa þrettán blaðsíðna kvikmyndahugmynd sem síðar varð grunnurinn að Star Wars. Lítið handritsskjal tók þannig fyrstu skrefin í átt að heilli vetrarbraut."
+    },
+    {
+      "ar": "2014",
+      "texti": "NASA tilkynnti fund Kepler-186f, fyrstu fjarreikistjörnunnar með svipaðan radíus og jörðin sem fannst á lífvænlegu svæði annarrar stjörnu. Það sannaði ekki að þar væri líf, en kveikti sannarlega í ímyndunaraflinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1895",
+      "texti": "Hvítabandið var stofnað í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1913",
+      "texti": "Járnbraut milli Öskjuhlíðar og Reykjavíkurhafnar var tekin í notkun til grjótflutninga — sjaldséður kafli í íslenskri járnbrautarsögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1913",
+      "texti": "Ölgerðin Egill Skallagrímsson tók til starfa og hóf þar með langa sögu sína í íslenskri drykkjarframleiðslu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1994",
+      "texti": "Gerðarsafn, listasafn Kópavogs, var opnað.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Antonio Nusa",
+      "starfsgrein": "norskur knattspyrnumaður",
+      "ar": "2005"
+    },
+    {
+      "nafn": "Avi Kaplan",
+      "starfsgrein": "bandarískur söngvari og lagahöfundur",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Bella Freud",
+      "starfsgrein": "enskur fatahönnuður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Boomer Esiason",
+      "starfsgrein": "bandarískur íþróttamaður og íþróttafréttamaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Afrika Bambaataa",
+      "starfsgrein": "bandarískur plötusnúður",
+      "ar": "1957"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eyjólfur Kristjánsson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Birgitta Jónsdóttir",
+      "starfsgrein": "skáld og stjórnmálamaður",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Jón Sigurðsson",
+      "starfsgrein": "fyrrverandi ráðherra og bankastjóri",
+      "ar": "1941"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimævintýri spratt úr þrettán blaðsíðna hugmynd sem George Lucas hóf að skrifa 17. apríl 1973?",
+      "svor": [
+        "Star Wars",
+        "Star Trek",
+        "Alien",
+        "Blade Runner"
+      ],
+      "rett": 0,
+      "skyring": "Hugmyndin varð grunnurinn að Star Wars og vetrarbrautin hefur varla þagnað síðan."
+    },
+    {
+      "spurning": "Hvað leyndist inni í hinum svonefnda Vélræna Tyrkja?",
+      "svor": [
+        "Gufuvél",
+        "Falinn skákmaður",
+        "Segulstýrt taflborð",
+        "Apaköttur í einkennisbúningi"
+      ],
+      "rett": 1,
+      "skyring": "Falinn maður stjórnaði skákinni og lét vélina hirða heiðurinn."
+    },
+    {
+      "spurning": "Hvað var íslenska járnbrautin sem tekin var í notkun árið 1913 einkum notuð til að flytja?",
+      "svor": [
+        "Fisk",
+        "Farþega",
+        "Grjót",
+        "Mjólk"
+      ],
+      "rett": 2,
+      "skyring": "Brautin lá milli Öskjuhlíðar og Reykjavíkurhafnar og flutti grjót."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Bright Eyes – Art Garfunkel (1979)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "langlundargeð",
+    "skyring": "Langlundargeð er hæfileikinn til að sýna mikla þolinmæði og stillingu þegar á reynir."
+  },
+  "vissir_thu": "Vélræni Tyrkinn tefldi ekki sjálfur: innan í skápnum sat falinn maður og stjórnaði leiknum.",
+  "stjornuspa": "Hrúturinn finnur í dag gamla hugmynd í skúffu sem gæti reynst verðmætari en hún lítur út fyrir að vera — þótt hún verði líklega ekki næsta Star Wars. Farðu djarflega af stað, en gáðu fyrst hvort einhver skákmaður leynist inni í vélinni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Christian-albrecht-von-benzon%2C_the_death_of_Canute_the_Holy.jpg/500px-Christian-albrecht-von-benzon%2C_the_death_of_Canute_the_Holy.jpg",
+    "ar": "1080",
+    "texti": "Knútur 4. tók við konungdómi í Danmörku eftir lát Haralds 3., bróður síns. Konungaskipti voru sjaldnast einfalt fjölskylduboð á miðöldum.",
+    "heimild": "https://en.wikipedia.org/wiki/Canute_IV_of_Denmark",
+    "breidd": 330,
+    "haed": 278
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

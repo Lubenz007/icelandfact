@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-12",
+  "dagur": 12,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:07",
+  "sunset": "20:50",
+  "kvedja": "Góðan 12. apríl, kæri lesandi! Í dag skjótumst við frá ráninu á Konstantínópel alla leið út í geim með Júrí Gagarín, með viðkomu á hengibrú sem þoldi illa taktfastan mars. Sagan kann greinilega best við sig þegar enginn stendur alveg kyrr.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1204",
+      "texti": "Hermenn fjórðu krossferðarinnar réðust inn í Konstantínópel og hófu rán borgarinnar. Býsansríkið leystist tímabundið upp, enda erfitt að halda heimsveldi gangandi þegar krossfararnir eru komnir inn í stofu."
+    },
+    {
+      "ar": "1831",
+      "texti": "Broughton-hengibrúin nærri Manchester hrundi, að sögn vegna vélræns samhljóms sem myndaðist þegar hermenn gengu í takt yfir hana. Stundum er samstilltur gangur einfaldlega of vel heppnaður."
+    },
+    {
+      "ar": "1961",
+      "texti": "Júrí Gagarín fór fyrstur manna út í geim um borð í Vostok 1. Hann fór einn hring um jörðina á 108 mínútum og kom mannkyninu þar með formlega á kort alheimsins."
+    },
+    {
+      "ar": "1980",
+      "texti": "Kanadíski íþróttamaðurinn Terry Fox hóf Vonarmaraþonið frá St. John's á gervifæti til að safna fé til krabbameinsrannsókna. Ferðin varð að einu þekktasta þrek- og góðgerðarátaki Kanada."
+    },
+    {
+      "ar": "1994",
+      "texti": "Lögfræðihjónin Laurence Canter og Martha Siegel birtu fyrstu stórfelldu viðskiptaauglýsinguna á Usenet. Ruslpósturinn var þar með mættur til leiks og hafði, því miður, engan áhuga á að fara aftur heim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1540",
+      "texti": "Lokið var við prentun Nýja testamentisins í þýðingu Odds Gottskálkssonar, fyrstu prentuðu bókarinnar sem vitað er um á íslensku.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1919",
+      "texti": "Átján manns fórust í snjóflóðum við Siglufjörð og síldarverksmiðja gjöreyðilagðist.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1952",
+      "texti": "Vélbáturinn Veiga sökk við Vestmannaeyjar. Tveir fórust en sex björguðust í gúmmíbjörgunarbát, í fyrsta sinn sem slíkur bátur var notaður til björgunar hér við land.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2010",
+      "texti": "Rannsóknarnefnd Alþingis birti níu binda skýrslu sína um aðdraganda og orsakir bankahrunsins.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Garcia",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Brendon Urie",
+      "starfsgrein": "söngvari, lagahöfundur og tónlistarmaður",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Bobby Moore",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Beverly Cleary",
+      "starfsgrein": "rithöfundur",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Ann Miller",
+      "starfsgrein": "leikkona, söngkona og dansari",
+      "ar": "1923"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Friðrik Friðriksson",
+      "starfsgrein": "leikari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Viktor Arnar Ingólfsson",
+      "starfsgrein": "spennusagnahöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Sigríður Þorvaldsdóttir",
+      "starfsgrein": "leikstjóri og leikari",
+      "ar": "1941"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað var Júrí Gagarín lengi að fara einn hring um jörðina?",
+      "svor": [
+        "54 mínútur",
+        "108 mínútur",
+        "180 mínútur",
+        "24 klukkustundir"
+      ],
+      "rett": 1,
+      "skyring": "Vostok 1 lauk hringferðinni á 108 mínútum, rétt rúmum kaffitíma á kosmískan mælikvarða."
+    },
+    {
+      "spurning": "Hvaða mannvirki hrundi árið 1831 þegar hermenn gengu í takt yfir það?",
+      "svor": [
+        "Viti",
+        "Járnbrautarstöð",
+        "Hengibrú",
+        "Kastalaturn"
+      ],
+      "rett": 2,
+      "skyring": "Það var Broughton-hengibrúin, sem kunni greinilega ekki að meta hergöngutónlist."
+    },
+    {
+      "spurning": "Hvaða íslenska rit markaði tímamót í prentsögunni árið 1540?",
+      "svor": [
+        "Íslendingabók",
+        "Nýja testamentið í þýðingu Odds Gottskálkssonar",
+        "Passíusálmarnir",
+        "Konungsbók eddukvæða"
+      ],
+      "rett": 1,
+      "skyring": "Þýðing Odds er fyrsta prentaða bókin sem vitað er um á íslensku."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Let's Dance – David Bowie (1983)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "samhljómur",
+    "skyring": "Samhljómur er samræmi eða samsvörun, en í eðlisfræði getur hann meðal annars lýst sveiflum sem magnast við tiltekna tíðni."
+  },
+  "vissir_thu": "Júrí Gagarín var aðeins 27 ára þegar hann varð fyrsti maðurinn til að fara út í geim.",
+  "stjornuspa": "Hrúturinn finnur í dag sterka löngun til að brjóta blað í sögunni, eða að minnsta kosti opna nýtt skjal. Forðastu þó að ganga í takt yfir hengibrýr; stjörnurnar mæla með frjálslegu göngulagi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/500px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg",
+    "ar": "1204",
+    "texti": "Hermenn fjórðu krossferðarinnar réðust inn í Konstantínópel og hófu rán borgarinnar. Býsansríkið leystist tímabundið upp, enda erfitt að halda heimsveldi gangandi þegar krossfararnir eru komnir inn í stofu.",
+    "heimild": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+    "breidd": 330,
+    "haed": 205
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

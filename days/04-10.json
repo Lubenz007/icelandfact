@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-10",
+  "dagur": 10,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:14",
+  "sunset": "20:44",
+  "kvedja": "Góðan 10. apríl! Í dag sveiflumst við frá páskatónlist Bachs til svarthols í M87, með viðkomu í íslenskum kaupstöðum og dálitlu Bítlafári. Sagan kann greinilega vel við fjölbreytt dagskrárblöð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "847",
+      "texti": "Leó 4. var vígður páfi án samþykkis keisarans, skömmu eftir árás Saracena á Róm. Það þurfti greinilega bæði trú og talsverða dirfsku í embættið."
+    },
+    {
+      "ar": "1815",
+      "texti": "Tambora á Indónesíu hóf öflugasta eldgos sem skráð hefur verið í sögulegum heimildum. Að minnsta kosti 71.000 manns létust og gosið hafði áhrif á hitastig um allan heim."
+    },
+    {
+      "ar": "1925",
+      "texti": "Skáldsagan The Great Gatsby eftir F. Scott Fitzgerald kom fyrst út hjá Scribner's. Gatsby hefur síðan haldið áfram að skála við lesendur, þótt veislan reynist heldur dapurleg undir niðri."
+    },
+    {
+      "ar": "1944",
+      "texti": "Slóvakísku gyðingafangarnir Rudolf Vrba og Alfréd Wetzler flúðu úr Auschwitz. Skýrsla þeirra varð ein fyrsta ítarlega frásögnin af fjöldamorðunum í útrýmingarbúðunum."
+    },
+    {
+      "ar": "2019",
+      "texti": "Vísindamenn Event Horizon Telescope birtu fyrstu myndina af svartholinu í miðju vetrarbrautarinnar M87. Mannkynið leit þar í fyrsta sinn beint á skugga svarthols — og myndin olli engum vonbrigðum þótt fyrirsætan væri 55 milljón ljósár í burtu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1656",
+      "texti": "Feðgarnir Jón Jónsson eldri og Jón Jónsson yngri frá Kirkjubóli í Skutulsfirði voru brenndir á báli fyrir galdur eftir kæru síra Jóns Magnússonar á Eyri. Atburðurinn er þekktur sem Kirkjubólsmálið.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1933",
+      "texti": "Togarinn Skúli fógeti strandaði vestan við Staðarhverfi í Grindavík. Slysavarnadeildin Þorbjörn bjargaði 24 mönnum með fluglínutækjum, en tólf höfðu farist áður en björgunarmenn komu á vettvang.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1940",
+      "texti": "Eftir hernám Þjóðverja í Danmörku fól Alþingi ríkisstjórn Íslands að fara með konungsvaldið. Þetta var örlagaríkt skref í átt að fullu sjálfstæði landsins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1974",
+      "texti": "Grindavík, Bolungarvík, Dalvík og Eskifjörður urðu kaupstaðir með lögum. Fjórir staðir fengu þannig kaupstaðarbúninginn sama dag, án þess þó að þurfa að deila bæjarstjóra.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aliko Dangote",
+      "starfsgrein": "nígerískur kaupsýslumaður",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Alex Pettyfer",
+      "starfsgrein": "enskur leikari",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Chuck Connors",
+      "starfsgrein": "bandarískur leikari og hafnaboltamaður",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Babyface",
+      "starfsgrein": "bandarískur söngvari, lagahöfundur og upptökustjóri",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Bernardo Houssay",
+      "starfsgrein": "argentínskur lífeðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1887"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Runólfsson",
+      "starfsgrein": "bóndi og rafstöðvasmiður",
+      "ar": "1891"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldfjall hóf stórgos 10. apríl 1815 og hafði áhrif á hitastig víða um heim?",
+      "svor": [
+        "Tambora",
+        "Hekla",
+        "Vesúvíus",
+        "Krakatau"
+      ],
+      "rett": 0,
+      "skyring": "Tambora lét svo sannarlega í sér heyra árið 1815 og áhrifin bárust langt út fyrir Indónesíu."
+    },
+    {
+      "spurning": "Hvað birtu vísindamenn Event Horizon Telescope árið 2019?",
+      "svor": [
+        "Fyrstu myndina af yfirborði Venusar",
+        "Fyrstu myndina af skugga svarthols",
+        "Kort af öllum vetrarbrautum alheimsins",
+        "Nærmynd af halastjörnu"
+      ],
+      "rett": 1,
+      "skyring": "Myndin sýndi skugga svartholsins í miðju vetrarbrautarinnar M87."
+    },
+    {
+      "spurning": "Hvað varð um Grindavík, Bolungarvík, Dalvík og Eskifjörð árið 1974?",
+      "svor": [
+        "Þau sameinuðust í eitt sveitarfélag",
+        "Þau urðu kaupstaðir",
+        "Þau fengu öll nýja flugvelli",
+        "Þau voru gerð að sýslum"
+      ],
+      "rett": 1,
+      "skyring": "Staðirnir fjórir urðu kaupstaðir með lögum 10. apríl 1974."
+    }
+  ],
+  "tonlistUSA": "Let It Be – The Beatles (1970)",
+  "tonlistUK": "Bridge over Troubled Water – Simon & Garfunkel (1970)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "eldibrandur",
+    "skyring": "Eldibrandur er brennandi eða hálfbrunninn viðarkubbur, gjarnan tekinn úr eldi."
+  },
+  "vissir_thu": "Svartholið sem myndað var í M87 er um 55 milljón ljósár frá jörðinni, svo myndin sýnir í raun ævafornt ljós.",
+  "stjornuspa": "Hrúturinn ætti að grípa frumkvæðið í dag, en muna að ekki þarf hvert samtal að verða orrusta við Mollwitz. Settu upp þinn fínasta áttunda áratugar kraga, treystu innsæinu og láttu aðra um að finna fjarstýringuna.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/PopeLeoIV_%28cropped%29.jpg/500px-PopeLeoIV_%28cropped%29.jpg",
+    "ar": "847",
+    "texti": "Leó 4. var vígður páfi án samþykkis keisarans, skömmu eftir árás Saracena á Róm. Það þurfti greinilega bæði trú og talsverða dirfsku í embættið.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Leo_IV",
+    "breidd": 330,
+    "haed": 537
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

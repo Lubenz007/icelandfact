@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-15",
+  "dagur": 15,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "05:57",
+  "sunset": "21:00",
+  "kvedja": "Góðan og gleðilegan 15. apríl! Dagurinn hefur fært okkur allt frá orðabókum og gulum páskaliljum til hafskipa, hafnabolta og logandi dómkirkju — sagan kann greinilega ekki að hafa aðeins eitt járn í eldinum. Fáðu þér kaffisopa og komdu með mér í stutta ferð um aldirnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1755",
+      "texti": "Orðabók Samuels Johnson, A Dictionary of the English Language, kom fyrst út og varð eitt áhrifamesta orðabókarverk enskrar tungu. Þar með fengu enskumælandi loks veglegan stað til að fletta upp orðum — og rífast um stafsetningu."
+    },
+    {
+      "ar": "1802",
+      "texti": "Systkinin William og Dorothy Wordsworth gengu fram á langa breiðu af páskaliljum við Ullswater. Sjónin varð William síðar innblástur að hinu þekkta ljóði „I Wandered Lonely as a Cloud“."
+    },
+    {
+      "ar": "1912",
+      "texti": "Farþegaskipið Titanic sökk suðaustur af Nýfundnalandi eftir árekstur við ísjaka. Meira en 1.500 manns fórust í einu þekktasta sjóslysi sögunnar."
+    },
+    {
+      "ar": "1947",
+      "texti": "Jackie Robinson lék sinn fyrsta leik í bandarísku atvinnudeildinni í hafnabolta og varð fyrsti Afríku-Bandaríkjamaðurinn til að rjúfa kynþáttamúr deildarinnar. Frumraunin markaði tímamót langt út fyrir íþróttavöllinn."
+    },
+    {
+      "ar": "2019",
+      "texti": "Mikill eldur olli alvarlegum skemmdum á Notre-Dame-dómkirkjunni í París. Tréspíra kirkjunnar hrundi og stór hluti þaksins eyðilagðist."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1448",
+      "texti": "Marcellus de Niveriis var skipaður biskup í Skálholti, en kom aldrei til Íslands. Embættið fékk því biskup sem lét ferðalagið alfarið eiga sig.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1785",
+      "texti": "Með konungsúrskurði var Skálholtsskóli lagður niður og ákveðið að flytja biskupsstólinn til Reykjavíkur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1803",
+      "texti": "Reykjavík varð sérstakt lögsagnarumdæmi og Rasmus Frydensberg tók við sem fyrsti bæjarfógetinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2002",
+      "texti": "Íslenski íþróttavefurinn Fótbolti.net var stofnaður og boltinn fór þar með formlega að rúlla á veraldarvefnum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alice Braga",
+      "starfsgrein": "brasilísk leikkona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Guru Nanak",
+      "starfsgrein": "stofnandi síkatrúar og fyrsti síkagúrúinn",
+      "ar": "1469"
+    },
+    {
+      "nafn": "Katrín 1. af Rússlandi",
+      "starfsgrein": "keisaraynja Rússlands",
+      "ar": "1684"
+    },
+    {
+      "nafn": "Bessie Smith",
+      "starfsgrein": "bandarísk blússöngkona og leikkona",
+      "ar": "1894"
+    },
+    {
+      "nafn": "Arturo Gatti",
+      "starfsgrein": "ítalsk-kanadískur hnefaleikamaður",
+      "ar": "1972"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ari Matthíasson",
+      "starfsgrein": "leikari",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Bjarni Sæmundsson",
+      "starfsgrein": "náttúrufræðingur",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Halldór Brynjólfsson",
+      "starfsgrein": "Hólabiskup",
+      "ar": "1692"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða náttúrusýn kveikti ljóðneistann hjá William Wordsworth árið 1802?",
+      "svor": [
+        "Breiða af páskaliljum",
+        "Flockur af svönum",
+        "Snævi þakið fjall",
+        "Regnbogi yfir London"
+      ],
+      "rett": 0,
+      "skyring": "Páskaliljurnar við Ullswater urðu að einni frægustu blómasýn bókmenntanna."
+    },
+    {
+      "spurning": "Hvað varð Reykjavík að árið 1803?",
+      "svor": [
+        "Biskupsdæmi",
+        "Sérstöku lögsagnarumdæmi",
+        "Fríhöfn",
+        "Konunglegri höfuðborg"
+      ],
+      "rett": 1,
+      "skyring": "Reykjavík varð sérstakt lögsagnarumdæmi og fékk sinn fyrsta bæjarfógeta."
+    },
+    {
+      "spurning": "Hvaða íþrótt tengist tímamótafrumraun Jackie Robinson árið 1947?",
+      "svor": [
+        "Körfubolti",
+        "Hnefaleikar",
+        "Hafnabolti",
+        "Amerískur fótbolti"
+      ],
+      "rett": 2,
+      "skyring": "Robinson rauf kynþáttamúr bandarísku atvinnudeildarinnar í hafnabolta."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Matchstalk Men and Matchstalk Cats and Dogs – Brian and Michael (1978)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "kergja",
+    "skyring": "Kergja er þrjóskuleg mótþróa- eða þvermóðskutilfinning."
+  },
+  "vissir_thu": "Notre-Dame-dómkirkjan í París er kennd við „Frú vora“, það er Maríu mey.",
+  "stjornuspa": "Hrúturinn ætti að ráðast á verkefnalistann eins og árið sé 1983 og enginn hafi enn fundið upp tölvupóst. Gættu þess þó að eldmóðurinn verði ekki að Notre-Dame-stórbruna; stundum vinnst dagurinn með kaffibolla og örlitilli biðlund.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/JohnsonDictionary.png/500px-JohnsonDictionary.png",
+    "ar": "1755",
+    "texti": "Orðabók Samuels Johnson, A Dictionary of the English Language, kom fyrst út og varð eitt áhrifamesta orðabókarverk enskrar tungu. Þar með fengu enskumælandi loks veglegan stað til að fletta upp orðum — og rífast um stafsetningu.",
+    "heimild": "https://en.wikipedia.org/wiki/A_Dictionary_of_the_English_Language",
+    "breidd": 330,
+    "haed": 527
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

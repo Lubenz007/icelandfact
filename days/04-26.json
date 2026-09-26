@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-26",
+  "dagur": 26,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:18",
+  "sunset": "21:34",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 26. apríl! Í dag fljúga loftsteinar yfir Frakklandi, tölvuvírusar naga harða diska og Vestur-Íslendingar skauta beint á verðlaunapall sögunnar — svo það er rétt að halda fast um kaffibollann.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1478",
+      "texti": "Pazzi-fjölskyldan gerði blóðuga tilraun til að bola Medici-ættinni frá völdum í Flórens. Lorenzo de' Medici slapp lifandi en bróðir hans, Giuliano, var drepinn í dómkirkjunni — ítölsk valdabarátta í sínu dramatískasta formi."
+    },
+    {
+      "ar": "1803",
+      "texti": "Þúsundir loftsteinsbrota féllu yfir L'Aigle í Frakklandi. Regnið úr geimnum varð mikilvægt skref í því að sannfæra vísindamenn um að loftsteinar kæmu raunverulega utan úr geimnum."
+    },
+    {
+      "ar": "1937",
+      "texti": "Condor-sveit þýska flughersins varpaði sprengjum á bæinn Guernica í spænsku borgarastyrjöldinni. Eyðileggingin og dauði óbreyttra borgara urðu síðar innblástur að einu frægasta málverki Pablo Picasso."
+    },
+    {
+      "ar": "1964",
+      "texti": "Tanganyika og Zanzibar sameinuðust og mynduðu Tansaníu, með Julius Nyerere sem fyrsta forseta ríkisins. Nýtt land var þar með komið á kortið — bókstaflega."
+    },
+    {
+      "ar": "1986",
+      "texti": "Gufusprenging varð í kjarnorkuverinu í Tsjernóbýl og leiddi til elds, kjarnabræðslu og umfangsmikillar geislamengunar. Meira en 336.000 manns voru síðar fluttir frá heimilum sínum víða um Evrópu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1834",
+      "texti": "Ofsaveður brast á á Faxaflóa og fórust 42 menn af tveimur skipum og fjórtán bátum. Dagurinn varð einn hinna sviplegu áminningardaga um hve dýru verði sjósókn gat verið keypt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1920",
+      "texti": "Winnipeg Falcons, kanadískt íshokkílið sem var að mestu skipað Vestur-Íslendingum, varð Ólympíumeistari í Antwerpen. Íslensk ætt, kanadísk treyja og gull um hálsinn — býsna góð blanda.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1944",
+      "texti": "Gamall öskuhaugur fannst við húsgrunnsgröft við Tjarnargötu í Reykjavík, með beinum meðal annars úr svínum og geirfuglum. Talið hefur verið að þar hafi jafnvel fundist öskuhaugur Ingólfs Arnarsonar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1978",
+      "texti": "Kvikmyndasjóður Íslands og Kvikmyndasafn Íslands voru stofnuð. Íslensk kvikmyndamenning fékk þar bæði veganesti til framtíðar og hirslu fyrir fortíðina.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Judge",
+      "starfsgrein": "hafnaboltamaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Amber Midthunder",
+      "starfsgrein": "leikkona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Marcus Aurelius",
+      "starfsgrein": "rómverskur keisari og heimspekingur",
+      "ar": "121"
+    },
+    {
+      "nafn": "Akseli Gallen-Kallela",
+      "starfsgrein": "finnskur myndlistarmaður",
+      "ar": "1865"
+    },
+    {
+      "nafn": "Bernard Malamud",
+      "starfsgrein": "rithöfundur",
+      "ar": "1914"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andri Freyr Hilmarsson",
+      "starfsgrein": "dagskrárgerðarmaður",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Einar Vilberg Hjartarson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Björn Zoëga",
+      "starfsgrein": "læknir",
+      "ar": "1964"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tvö landsvæði sameinuðust árið 1964 og mynduðu Tansaníu?",
+      "svor": [
+        "Tanganyika og Zanzibar",
+        "Kenía og Zanzibar",
+        "Tanganyika og Madagaskar",
+        "Úganda og Tanganyika"
+      ],
+      "rett": 0,
+      "skyring": "Tanganyika og Zanzibar tóku höndum saman og Tansanía varð til."
+    },
+    {
+      "spurning": "Hvaða lið, að mestu skipað Vestur-Íslendingum, varð Ólympíumeistari árið 1920?",
+      "svor": [
+        "Reykjavík Ravens",
+        "Winnipeg Falcons",
+        "Manitoba Bears",
+        "Antwerp Vikings"
+      ],
+      "rett": 1,
+      "skyring": "Winnipeg Falcons skautuðu alla leið á efsta þrep verðlaunapallsins."
+    },
+    {
+      "spurning": "Hvaða frægi heimspekingur og rómverski keisari fæddist 26. apríl árið 121?",
+      "svor": [
+        "Neró",
+        "Ágústus",
+        "Marcus Aurelius",
+        "Konstantínus mikli"
+      ],
+      "rett": 2,
+      "skyring": "Marcus Aurelius sameinaði keisarakórónu og stóíska yfirvegun — ekki alveg algeng starfslýsing."
+    }
+  ],
+  "tonlistUSA": "Kiss – Prince and the Revolution (1986)",
+  "tonlistUK": "A Different Corner – George Michael (1986)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "hrapsteinn",
+    "skyring": "Hrapsteinn er loftsteinn eða brot úr honum sem hefur fallið alla leið niður á yfirborð jarðar."
+  },
+  "vissir_thu": "Loftsteinaregninu yfir L'Aigle árið 1803 fylgdu svo mörg brot að það varð tímamót í viðurkenningu vísindamanna á uppruna loftsteina utan jarðar.",
+  "stjornuspa": "Nautið finnur í dag gamalt erindi neðst í skúffu og leysir það með festu sem Marcus Aurelius hefði kinkað kolli yfir. Forðastu þó að taka allar ákvarðanir eins og Medici-ættin sitji hinum megin við borðið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Bertoldo_di_giovanni%2C_medaglia_della_congiura_dei_pazzi_%28lorenzo%29%2C_1478.JPG/500px-Bertoldo_di_giovanni%2C_medaglia_della_congiura_dei_pazzi_%28lorenzo%29%2C_1478.JPG",
+    "ar": "1478",
+    "texti": "Pazzi-fjölskyldan gerði blóðuga tilraun til að bola Medici-ættinni frá völdum í Flórens. Lorenzo de' Medici slapp lifandi en bróðir hans, Giuliano, var drepinn í dómkirkjunni — ítölsk valdabarátta í sínu dramatískasta formi.",
+    "heimild": "https://en.wikipedia.org/wiki/Pazzi_conspiracy",
+    "breidd": 330,
+    "haed": 340
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-25",
+  "dagur": 25,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:21",
+  "sunset": "21:31",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 25. apríl óma bæði La Marseillaise og ABBA, á meðan kafbátur siglir hljóðlega kringum hnöttinn og Sykurmolarnir minna okkur á að lífið getur sannarlega verið of gott. Naut dagsins má þó taka þessu öllu með ró og helst með kaffibolla innan seilingar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1644",
+      "texti": "Mingættin féll í Kína þegar Chongzhen-keisari svipti sig lífi í miðri bændauppreisn Li Zicheng. Þar lauk heilu keisaratímabili með heldur dramatískari hætti en venjulegum stjórnarskiptum."
+    },
+    {
+      "ar": "1792",
+      "texti": "Franska tónskáldið Claude Joseph Rouget de Lisle samdi La Marseillaise, sem síðar varð þjóðsöngur Frakklands. Fá lög hafa síðan fengið jafn marga til að rétta úr bakinu."
+    },
+    {
+      "ar": "1920",
+      "texti": "Á ráðstefnunni í San Remo samþykktu helstu bandamenn fyrri heimsstyrjaldarinnar skiptingu umboða Þjóðabandalagsins yfir fyrrverandi landsvæðum Tyrkjaveldis í Mið-Austurlöndum."
+    },
+    {
+      "ar": "1960",
+      "texti": "Bandaríski kafbáturinn Triton lauk fyrstu siglingunni umhverfis jörðina sem farin var alfarið neðansjávar. Það var hnattferð án sjávarútsýnis, sem hlýtur að teljast nokkuð sérstök ferðamennska."
+    },
+    {
+      "ar": "2015",
+      "texti": "Jarðskjálfti af stærðinni 7,8 reið yfir Nepal og varð meira en átta þúsund manns að bana. Hamfarirnar ollu gríðarlegu tjóni og höfðu áhrif langt út fyrir upptakasvæðið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1915",
+      "texti": "Mikill bruni varð í miðbæ Reykjavíkur þegar Hótel Reykjavík og ellefu önnur hús við Austurstræti, Pósthússtræti og Hafnarstræti brunnu. Tveir menn fórust.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Óperettan Í álögum var frumsýnd, fyrst íslenskra óperetta.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1988",
+      "texti": "Life's Too Good, fyrsta breiðskífa Sykurmolanna, kom út í Bretlandi og íslenskt popp tók hraustlegt stökk út í heim.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2012",
+      "texti": "Agnes M. Sigurðardóttir var kjörin fyrsti kvenbiskup íslensku þjóðkirkjunnar.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Al Pacino",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Játvarður 2. Englandskonungur",
+      "starfsgrein": "konungur",
+      "ar": "1284"
+    },
+    {
+      "nafn": "Björn Ulvaeus",
+      "starfsgrein": "tónlistarmaður og lagahöfundur",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Andy Bell",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Albert Uderzo",
+      "starfsgrein": "myndasöguhöfundur og teiknari",
+      "ar": "1927"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sveinn Pálsson",
+      "starfsgrein": "læknir og náttúrufræðingur",
+      "ar": "1772"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða lag samdi Rouget de Lisle árið 1792?",
+      "svor": [
+        "La Marseillaise",
+        "Fernando",
+        "Í álögum",
+        "Húsavík – My Home Town"
+      ],
+      "rett": 0,
+      "skyring": "La Marseillaise varð síðar þjóðsöngur Frakklands og er engin venjuleg raula-við-uppvaskið melódía."
+    },
+    {
+      "spurning": "Hvað afrekaði kafbáturinn Triton árið 1960?",
+      "svor": [
+        "Hann sigldi fyrstur undir Norðurpólinn",
+        "Hann lauk fyrstu hnattferðinni alfarið neðansjávar",
+        "Hann fann flak Titanic",
+        "Hann fór fyrstur um Súesskurðinn"
+      ],
+      "rett": 1,
+      "skyring": "Triton fór hringinn í kringum jörðina án þess að þurfa að koma upp til að dást að útsýninu."
+    },
+    {
+      "spurning": "Hvaða íslenska hljómsveit gaf út Life's Too Good árið 1988?",
+      "svor": [
+        "Stuðmenn",
+        "Mezzoforte",
+        "Sykurmolarnir",
+        "Nýdönsk"
+      ],
+      "rett": 2,
+      "skyring": "Sykurmolarnir sendu frá sér sína fyrstu breiðskífu og íslenskt popp fékk myndarlegan vegabréfsstimpil."
+    }
+  ],
+  "tonlistUSA": "Dancing Queen – ABBA (1977)",
+  "tonlistUK": "Fernando – ABBA (1976)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "árdegi",
+    "skyring": "Árdegi er fyrri hluti dagsins, frá morgni fram að hádegi."
+  },
+  "vissir_thu": "Björn Ulvaeus, sem fæddist þennan dag árið 1945, var einn af meðlimum sænsku hljómsveitarinnar ABBA.",
+  "stjornuspa": "Nautið finnur í dag gamla mixtæpu, gleymdan fimmhundruðkall eða óvænta ástæðu til að panta köku. Vertu staðfast en ekki svo þrjóskur að jafnvel Triton-kafbáturinn þurfi að sigla kringum þig.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Shanhaiguan.gif/330px-Shanhaiguan.gif",
+    "ar": "1644",
+    "texti": "Mingættin féll í Kína þegar Chongzhen-keisari svipti sig lífi í miðri bændauppreisn Li Zicheng. Þar lauk heilu keisaratímabili með heldur dramatískari hætti en venjulegum stjórnarskiptum.",
+    "heimild": "https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

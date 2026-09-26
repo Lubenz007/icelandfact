@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-27",
+  "dagur": 27,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:14",
+  "sunset": "21:37",
+  "kvedja": "Góðan 27. apríl, kæri lesandi! Í dag fljúgum við með Airbus-risa, hlustum á Beethoven og rifjum upp þegar íslensk áhöfn sigldi vestur um haf — allt án þess að þurfa að pakka tannbursta. Megi dagurinn verða sögulegur á notalega, en helst ekki sprengifima, vísu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1522",
+      "texti": "Sameinaður her Spánar og Páfaríkisins sigraði franskan og feneyskan her í orrustunni við Bicocca. Skotvopn og víggirðingar reyndust þar bitastæðari en gömul riddaramennska."
+    },
+    {
+      "ar": "1650",
+      "texti": "Sáttmálamenn sigruðu konungssinna í orrustunni við Carbisdale í Skotlandi. Þar lauk innrás sem hafði hafist frá Orkneyjum heldur snögglega og illa fyrir innrásarherinn."
+    },
+    {
+      "ar": "1810",
+      "texti": "Ludwig van Beethoven samdi Bagatellu nr. 25 í a-moll, betur þekkta sem „Für Elise“. Lagið varð síðar eitt kunnasta píanóverk heims, þótt sjálf Elise sé enn dálítil söguleg ráðgáta."
+    },
+    {
+      "ar": "1967",
+      "texti": "Heimssýningin Expo 67 var opnuð í Montreal með þátttöku 62 þjóða. Þegar upp var staðið höfðu meira en 50 milljónir gesta sótt sýninguna — býsna myndarleg húsfyllir."
+    },
+    {
+      "ar": "2005",
+      "texti": "Airbus A380, stærsta farþegaþota heims, fór í jómfrúarflug sitt frá Toulouse í Frakklandi. Vélin var svo stór að venjulegt handfarangursvesen virtist næstum smávægilegt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1915",
+      "texti": "Gullfoss sigldi frá Reykjavík til New York og sneri aftur mánuði síðar. Þetta var fyrsta ferð skips með íslenskri áhöfn milli Íslands og Ameríku frá dögum Leifs heppna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Hátíðarljóðin „Land míns föður“ eftir Jóhannes úr Kötlum og „Hver á sér fegra föðurland“ eftir Huldu voru valin fyrir lýðveldishátíðina 17. júní.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1977",
+      "texti": "Önnur goshrina Kröfluelda hófst og stóð í þrjá daga. Jörðin við Kröflu minnti þar með rækilega á að hún væri ekki alveg sest í helgan stein.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2013",
+      "texti": "Alþingiskosningar voru haldnar og Framsóknarflokkurinn vann stórsigur með því að bæta við sig tíu þingmönnum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anthony Elanga",
+      "starfsgrein": "sænskur knattspyrnumaður",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Ace Frehley",
+      "starfsgrein": "bandarískur gítarleikari og lagahöfundur",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Anna Chancellor",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Anouk Aimée",
+      "starfsgrein": "frönsk leikkona",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Arch Manning",
+      "starfsgrein": "bandarískur leikmaður í amerískum fótbolta",
+      "ar": "2004"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dóra Stefánsdóttir",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Jón Stefánsson",
+      "starfsgrein": "hermaður, þekktur sem Filippseyjakappi",
+      "ar": "1873"
+    },
+    {
+      "nafn": "Jakob Björnsson",
+      "starfsgrein": "bæjarstjóri á Akureyri",
+      "ar": "1950"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónverk samdi Beethoven 27. apríl 1810?",
+      "svor": [
+        "Für Elise",
+        "Tunglskinssónötuna",
+        "Örlagasinfóníuna",
+        "Óðinn til gleðinnar"
+      ],
+      "rett": 0,
+      "skyring": "„Für Elise“ fæddist þennan dag og hefur æ síðan haldið píanónemum hæfilega uppteknum."
+    },
+    {
+      "spurning": "Hvaðan hóf Airbus A380 sitt fyrsta flug árið 2005?",
+      "svor": [
+        "London",
+        "Seattle",
+        "Toulouse",
+        "Montreal"
+      ],
+      "rett": 2,
+      "skyring": "Risavélin hóf sig til lofts frá Toulouse í Frakklandi."
+    },
+    {
+      "spurning": "Hvað hét íslenska skipið sem sigldi frá Reykjavík til New York árið 1915?",
+      "svor": [
+        "Dettifoss",
+        "Gullfoss",
+        "Goðafoss",
+        "Brúarfoss"
+      ],
+      "rett": 1,
+      "skyring": "Gullfoss endurtók Atlantshafsafrek Íslendinga, þó með vél í stað víkingasegls."
+    }
+  ],
+  "tonlistUSA": "We Are the World – USA for Africa (1985)",
+  "tonlistUK": "Puppet on a String – Sandie Shaw (1967)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Orðið merkir fyrri hluta dags, einkum tímann fyrir hádegi."
+  },
+  "vissir_thu": "Expo 67 í Montreal dró að sér meira en 50 milljónir gesta, þótt íbúar Kanada væru þá aðeins um 20 milljónir.",
+  "stjornuspa": "Nautið finnur í dag gamalt kassettutæki, ógreiddan reikning eða óvænta visku aftast í skúffu. Haltu ró þinni og treystu innsæinu — en ekki láta þrjóskuna verða jafnþunga og Airbus A380.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Battle_of_Pavia_-_Unknown_Artist_-_Google_Cultural_Institute.jpg/500px-Battle_of_Pavia_-_Unknown_Artist_-_Google_Cultural_Institute.jpg",
+    "ar": "1522",
+    "texti": "Sameinaður her Spánar og Páfaríkisins sigraði franskan og feneyskan her í orrustunni við Bicocca. Skotvopn og víggirðingar reyndust þar bitastæðari en gömul riddaramennska.",
+    "heimild": "https://en.wikipedia.org/wiki/Italian_War_of_1521–1526",
+    "breidd": 330,
+    "haed": 214
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

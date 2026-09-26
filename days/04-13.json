@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-13",
+  "dagur": 13,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:04",
+  "sunset": "20:53",
+  "kvedja": "Góðan 13. apríl, kæri lesandi! Í dag ómar Messías í Dyflinni, James Bond pantar sér fyrsta drykkinn og Tiger Woods mætir á teiginn með sögubækurnar í golfpokanum. Það er greinilega enginn venjulegur vormánudagur hjá Hrútnum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1742",
+      "texti": "Óratórían Messías eftir Georg Friedrich Händel var frumflutt í Dyflinni. Verkið hefur síðan haldið kórum heimsins rækilega við efnið."
+    },
+    {
+      "ar": "1829",
+      "texti": "Lög um réttarbætur kaþólikka hlutu konunglegt samþykki og afléttu veigamestu takmörkunum sem gilt höfðu um kaþólikka í Bretlandi."
+    },
+    {
+      "ar": "1953",
+      "texti": "Casino Royale eftir Ian Fleming kom út, fyrsta bókin um breska njósnarann James Bond. Þar hófst bókmenntaferill manns sem kunni jafnt að meta leyniverkefni og fágaðan klæðaburð."
+    },
+    {
+      "ar": "1973",
+      "texti": "Catch a Fire, tímamótaplata Bob Marley and the Wailers, kom út og hjálpaði til við að bera reggítónlist frá Jamaíku út um heimsbyggðina."
+    },
+    {
+      "ar": "1997",
+      "texti": "Tiger Woods, aðeins 21 árs, varð yngsti kylfingurinn til að vinna Masters-mótið og setti um leið met fyrir lægsta heildarskor yfir fjóra hringi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1203",
+      "texti": "Guðmundur Arason var vígður Hólabiskup, 43 ára að aldri.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1565",
+      "texti": "Stóridómur var leiddur í lög á Íslandi og markaði harðneskjulegan kafla í íslenskri réttarsögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1844",
+      "texti": "Jón Sigurðsson var kosinn á þing með 50 atkvæðum af 52. Hann sat á þingi til ársins 1879 og gegndi þar oft forsetastörfum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2007",
+      "texti": "Bílanaust og Olíufélagið ESSO sameinuðust og stofnuðu N1.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Allison Williams",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Katrín af Medici",
+      "starfsgrein": "Frakklandsdrottning",
+      "ar": "1519"
+    },
+    {
+      "nafn": "Al Green",
+      "starfsgrein": "söngvari, lagahöfundur og prestur",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Alessandro Bastoni",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Alfred Mosher Butts",
+      "starfsgrein": "arkitekt og höfundur Scrabble",
+      "ar": "1899"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Atli Fannar Bjarkason",
+      "starfsgrein": "blaðamaður og ritstjóri",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Þorbjörg Sigurðardóttir Bergmann",
+      "starfsgrein": "kaupsýslukona",
+      "ar": "1876"
+    },
+    {
+      "nafn": "Jes Zimsen",
+      "starfsgrein": "kaupmaður",
+      "ar": "1877"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða frægi njósnari birtist fyrst í skáldsögunni Casino Royale árið 1953?",
+      "svor": [
+        "James Bond",
+        "Sherlock Holmes",
+        "Jason Bourne",
+        "Hercule Poirot"
+      ],
+      "rett": 0,
+      "skyring": "James Bond hóf bókmenntaferilinn í Casino Royale eftir Ian Fleming."
+    },
+    {
+      "spurning": "Hversu gamall var Tiger Woods þegar hann vann Masters-mótið árið 1997?",
+      "svor": [
+        "18 ára",
+        "21 árs",
+        "25 ára",
+        "29 ára"
+      ],
+      "rett": 1,
+      "skyring": "Tiger Woods var aðeins 21 árs og varð yngsti sigurvegari mótsins."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn bjó til orðaspilið Scrabble?",
+      "svor": [
+        "Al Green",
+        "Alessandro Bastoni",
+        "Alfred Mosher Butts",
+        "Atli Fannar Bjarkason"
+      ],
+      "rett": 2,
+      "skyring": "Alfred Mosher Butts hannaði Scrabble, leikinn sem getur breytt fjölskylduboði í málþing um orðabækur."
+    }
+  ],
+  "tonlistUSA": "Shape of You – Ed Sheeran (2017)",
+  "tonlistUK": "Shape of You – Ed Sheeran (2017)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "fannfergi",
+    "skyring": "Fannfergi merkir mikla snjósöfnun eða þungan snjó sem leggst yfir land."
+  },
+  "vissir_thu": "Casino Royale var fyrsta útgefna skáldsagan um James Bond og kom út 13. apríl 1953.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir slíkum eldmóði að jafnvel James Bond myndi biðja hann að fara varlega. Taktu frumkvæðið, en teldu upp að tíu áður en þú lýsir yfir sigri á Masters-mótinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg/500px-Coat_of_Arms_of_the_United_Kingdom_%281816-1837%29.svg.png",
+    "ar": "1829",
+    "texti": "Lög um réttarbætur kaþólikka hlutu konunglegt samþykki og afléttu veigamestu takmörkunum sem gilt höfðu um kaþólikka í Bretlandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Roman_Catholic_Relief_Act_1829",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

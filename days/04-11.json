@@ -1,0 +1,148 @@
+{
+  "mmdd": "04-11",
+  "dagur": 11,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:11",
+  "sunset": "20:47",
+  "kvedja": "Góðan 11. apríl! Í dag sveiflum við okkur úr snjóþungum páskavetri yfir í tónleikahöllina í Amsterdam og endum á knattspyrnuvelli þar sem markataflan fékk nærri því vinnuálagssjokk. Sagan kann sannarlega að blanda saman ólíklegustu hráefnum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1888",
+      "texti": "Concertgebouw í Amsterdam var vígt. Tónleikahöllin hefur síðan öðlast orðspor sem eitt besta tónlistarhús heims, enda hljómburðurinn þar líkastur því að byggingin sjálf kunni að syngja."
+    },
+    {
+      "ar": "1913",
+      "texti": "Krikketskálinn á Nevill Ground á Englandi var eyðilagður í íkveikju sem eignuð var herskáum súffragettum. Atvikið var hluti af víðtækri baráttu Women's Social and Political Union fyrir kosningarétti kvenna."
+    },
+    {
+      "ar": "1963",
+      "texti": "Jóhannes páfi XXIII gaf út alfræðibréfið Pacem in terris. Það var fyrsta páfabréfið sem beint var til „allra manna góðs vilja“ en ekki aðeins kaþólikka."
+    },
+    {
+      "ar": "1979",
+      "texti": "Her Tansaníu og Frelsisfylking Úganda náðu Kampala á sitt vald og steyptu Idi Amin forseta af stóli. Þar með lauk einum alræmdasta valdaferli Afríku á 20. öld."
+    },
+    {
+      "ar": "2001",
+      "texti": "Ástralía sigraði Amerísku Samóa 31–0 í undankeppni heimsmeistaramóts karla í knattspyrnu. Þetta varð stærsti sigur sem skráður hafði verið í landsleik í íþróttinni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1700",
+      "texti": "Svo mikil snjókoma var á norðanverðu Íslandi að hvergi var messað þótt páskadagur væri. Veturinn fékk af þessu hið eftirminnilega heiti „páskavetur“.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1909",
+      "texti": "Ungmennafélagið Afturelding var stofnað í Mosfellsbæ. Félagið átti síðar eftir að verða rótgróinn þáttur í íþrótta- og félagslífi bæjarins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1912",
+      "texti": "Mánaðarlöngu verkfalli kvenna í fiskverkun í Hafnarfirði lauk með samningum. Þetta var fyrsta verkfall kvenna á Íslandi og jafnvel fyrsta skipulagða verkfall landsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1959",
+      "texti": "Rannveig Þorsteinsdóttir varð fyrst kvenna til að öðlast réttindi til málflutnings fyrir Hæstarétti. Þar var brotið mikilvægt blað í íslenskri réttarsögu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alessandra Ambrosio",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Andrew Wiles",
+      "starfsgrein": "stærðfræðingur",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Bill Irwin",
+      "starfsgrein": "leikari og trúður",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Alberto Ginastera",
+      "starfsgrein": "tónskáld og píanóleikari",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Septimius Severus",
+      "starfsgrein": "Rómarkeisari",
+      "ar": "145"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Helgi Jónsson",
+      "starfsgrein": "grasafræðingur",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Jóninna Sigurðardóttir",
+      "starfsgrein": "matreiðslukennari",
+      "ar": "1879"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu mörg mörk skoraði Ástralía gegn Amerísku Samóa árið 2001?",
+      "svor": [
+        "21",
+        "25",
+        "31",
+        "37"
+      ],
+      "rett": 2,
+      "skyring": "Ástralir unnu 31–0 og markataflan þurfti vart kaffihlé."
+    },
+    {
+      "spurning": "Hvaða íslenska félag var stofnað 11. apríl 1909?",
+      "svor": [
+        "Afturelding",
+        "Fram",
+        "Valur",
+        "Víkingur"
+      ],
+      "rett": 0,
+      "skyring": "Afturelding var stofnuð í Mosfellsbæ þennan dag árið 1909."
+    },
+    {
+      "spurning": "Hvaða höfuðborg féll í hendur tansaníska hersins og bandamanna hans árið 1979?",
+      "svor": [
+        "Nairobi",
+        "Kampala",
+        "Kigali",
+        "Lusaka"
+      ],
+      "rett": 1,
+      "skyring": "Fall Kampala hrakti Idi Amin frá völdum í Úganda."
+    }
+  ],
+  "tonlistUSA": "Can't Buy Me Love – The Beatles (1964)",
+  "tonlistUK": "Can't Buy Me Love – The Beatles (1964)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "páskavetur",
+    "skyring": "Heiti sem festist við veturinn 1700, þegar gríðarleg snjókoma kom í veg fyrir messuhald á Íslandi um páska."
+  },
+  "vissir_thu": "Andrew Wiles öðlaðist heimsfrægð fyrir að sanna síðustu setningu Fermats, stærðfræðigátu sem hafði staðið óleyst í meira en þrjár og hálfa öld.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir krafti sem gæti annaðhvort leitt til stórvirkja eða þess að húsgögn verði færð án nokkurrar ástæðu. Settu upp þitt öruggasta glott, en mundu að jafnvel keisarar og knattspyrnulið þurfa stundum að gefa boltann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Concertgebouw_from_Museumplein_2539.jpg/500px-Concertgebouw_from_Museumplein_2539.jpg",
+    "ar": "1888",
+    "texti": "Concertgebouw í Amsterdam var vígt. Tónleikahöllin hefur síðan öðlast orðspor sem eitt besta tónlistarhús heims, enda hljómburðurinn þar líkastur því að byggingin sjálf kunni að syngja.",
+    "heimild": "https://en.wikipedia.org/wiki/Concertgebouw,_Amsterdam",
+    "breidd": 330,
+    "haed": 208
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

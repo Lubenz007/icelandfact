@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-20",
+  "dagur": 20,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:39",
+  "sunset": "21:15",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 20. apríl! Í dag sveiflast sagan frá hólmgöngum og jarðskjálftum yfir í djass, kappakstur og geimflaugar — sem sannar að almanakið kann svo sannarlega að halda fjölbreytta veislu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1818",
+      "texti": "Í Englandi féll sögulegt sakamál niður þegar stefnandi hafnaði hólmgöngu sem réttarúrræði og hinn ákærði gekk því laus. Miðaldirnar voru greinilega ekki alveg búnar að skila lyklunum."
+    },
+    {
+      "ar": "1914",
+      "texti": "Eldur og skotbardagi milli þjóðvarðliðs Colorado og kolanámuverkamanna í verkfalli leiddu til Ludlow-fjöldamorðanna, þar sem 17 létust."
+    },
+    {
+      "ar": "1939",
+      "texti": "Billie Holiday hljóðritaði lagið „Strange Fruit“, áhrifamikið verk sem síðar varð eitt af táknum bandarísku réttindabaráttunnar."
+    },
+    {
+      "ar": "2008",
+      "texti": "Danica Patrick vann Indy Japan 300 og varð þar með fyrsta konan til að sigra í IndyCar-kappakstri."
+    },
+    {
+      "ar": "2023",
+      "texti": "Starship-geimfar SpaceX fór í sína fyrstu skotferð en sprakk um fjórum mínútum eftir flugtak. Stutt ferð, en býsna tilkomumikil."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1602",
+      "texti": "Einokunarverslun Dana hófst á Íslandi þegar konungur veitti borgurum í Kaupmannahöfn, Málmey og Helsingjaeyri einkarétt á verslun við landið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1706",
+      "texti": "Miklir jarðskjálftar riðu yfir Suðurland og 24 bæir féllu til grunna í Ölfusi og Flóa. Gömul kona lést á Kotferju en annars varð ekki manntjón.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1950",
+      "texti": "Þjóðleikhúsið var vígt í Reykjavík og íslensk leiklist eignaðist þar með sitt glæsilega þjóðarhús.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2023",
+      "texti": "Edda, Hús íslenskra fræða, var opnuð almenningi í Reykjavík — sannkallað heimili handrita, tungumáls og þjóðlegrar forvitni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexander Zverev",
+      "starfsgrein": "tennisleikari",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Andy Serkis",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Carmen Electra",
+      "starfsgrein": "fyrirsæta og leikkona",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Crispin Glover",
+      "starfsgrein": "leikari og kvikmyndagerðarmaður",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Betty Cuthbert",
+      "starfsgrein": "spretthlaupari",
+      "ar": "1938"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Þorbergsdóttir",
+      "starfsgrein": "dómari",
+      "ar": "1933"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða söngkona hljóðritaði „Strange Fruit“ árið 1939?",
+      "svor": [
+        "Billie Holiday",
+        "Ella Fitzgerald",
+        "Nina Simone",
+        "Sarah Vaughan"
+      ],
+      "rett": 0,
+      "skyring": "Billie Holiday hljóðritaði lagið, sem varð síðar öflugt tákn réttindabaráttunnar."
+    },
+    {
+      "spurning": "Hvað var vígt í Reykjavík 20. apríl 1950?",
+      "svor": [
+        "Edda",
+        "Þjóðleikhúsið",
+        "Keflavíkurflugvöllur",
+        "Ráðhús Reykjavíkur"
+      ],
+      "rett": 1,
+      "skyring": "Þjóðleikhúsið var vígt þennan dag og sviðsljósin fengu loksins þjóðlegt þak yfir sig."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að vinna IndyCar-kappakstur?",
+      "svor": [
+        "Betty Cuthbert",
+        "Carmen Electra",
+        "Danica Patrick",
+        "Billie Holiday"
+      ],
+      "rett": 2,
+      "skyring": "Danica Patrick skrifaði kappaksturssögu með sigri í Indy Japan 300 árið 2008."
+    }
+  ],
+  "tonlistUSA": "You're in Love – Wilson Phillips (1991)",
+  "tonlistUK": "The One and Only – Chesney Hawkes (1991)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "hólmganga",
+    "skyring": "Hólmganga er formlegt einvígi sem áður gat jafnvel verið notað til að útkljá deilur eða dómsmál."
+  },
+  "vissir_thu": "Starship-flaug SpaceX sprakk í fyrstu skotferð sinni árið 2023 um fjórum mínútum eftir flugtak.",
+  "stjornuspa": "Nautið finnur í dag gamalt kassettutæki innra með sér og vill spóla rólega áfram, helst með góðu lagi og engum óþarfa geimflaugahasar. Haltu þínu striki, en mundu að jafnvel þrjóskasta Naut má skipta um stefnu án þess að tapa kúrekastílnum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Court_of_King%27s_Bench.JPG/500px-Court_of_King%27s_Bench.JPG",
+    "ar": "1818",
+    "texti": "Í Englandi féll sögulegt sakamál niður þegar stefnandi hafnaði hólmgöngu sem réttarúrræði og hinn ákærði gekk því laus. Miðaldirnar voru greinilega ekki alveg búnar að skila lyklunum.",
+    "heimild": "https://en.wikipedia.org/wiki/Court_of_King's_Bench_(England)",
+    "breidd": 330,
+    "haed": 524
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

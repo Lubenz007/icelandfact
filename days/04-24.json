@@ -1,0 +1,148 @@
+{
+  "mmdd": "04-24",
+  "dagur": 24,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:25",
+  "sunset": "21:28",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 24. apríl rúmast bæði írsk uppreisn, geimsjónauki og hestamannafélag í sögubókinni—sem sannar að sagan kann hvorki að sitja kyrr né halda sig við eitt áhugamál. Naut dagsins má þó alveg fara rólega yfir þetta allt með kaffibolla og hæfilegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1837",
+      "texti": "Mikill eldur braust út í Surat á Indlandi og eyðilagði um þrjá fjórðu hluta borgarinnar. Þetta var sannarlega dagur þegar tryggingaskilmálar hefðu þurft að vera með stóru letri."
+    },
+    {
+      "ar": "1904",
+      "texti": "Rússneska keisaradæmið aflétti 40 ára banni við útgáfu rita á litháísku með latnesku letri, enda hafði tilraunin til rússneskvæðingar ekki borið tilætlaðan árangur."
+    },
+    {
+      "ar": "1916",
+      "texti": "Írskir lýðveldissinnar undir forystu Patricks Pearse hófu páskauppreisnina gegn breskum yfirráðum og lýstu yfir sjálfstæðu írsku lýðveldi."
+    },
+    {
+      "ar": "1990",
+      "texti": "Hubble-geimsjónaukanum var skotið á loft um borð í geimskutlunni Discovery. Þar með fékk mannkynið ný gleraugu til að virða alheiminn fyrir sér."
+    },
+    {
+      "ar": "2013",
+      "texti": "Rana Plaza-byggingin í Savar í Bangladess hrundi og 1.134 létust. Slysið varð mannskæðasta byggingarhrun af slysni í nútímasögunni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1333",
+      "texti": "Erlingur Sighvatsson, Bjarni Þórðarson og Eindriði Oddson klöppuðu nöfn sín á Kingigtorssuaq-rúnasteininn langt norður á Grænlandi. Ártalið er þó talið óvisst.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1862",
+      "texti": "Sigurður málari skrifaði hugvekju í Þjóðólf og hvatti til stofnunar Forngripasafns. Stundum hefst safn með grein, góðri hugmynd og dálítilli þrjósku.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1922",
+      "texti": "Hestamannafélagið Fákur var stofnað í Reykjavík og hóf þar með langa reið sína í íslensku félagslífi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1977",
+      "texti": "Skákmeistarinn Vlastimil Hort setti heimsmet í fjöltefli á Seltjarnarnesi með því að tefla við 550 manns á rúmum sólarhring. Það hefur væntanlega orðið fátt um rólega kaffipása.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Barbra Streisand",
+      "starfsgrein": "söngkona, leikkona og framleiðandi",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Aidan Gillen",
+      "starfsgrein": "leikari",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Ashleigh Barty",
+      "starfsgrein": "tenniskona",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Anthony Trollope",
+      "starfsgrein": "rithöfundur",
+      "ar": "1815"
+    },
+    {
+      "nafn": "Ben Davies",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Malmquist",
+      "starfsgrein": "fréttamaður",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Sigursveinn D. Kristinsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1911"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sjónauka var skotið á loft um borð í geimskutlunni Discovery árið 1990?",
+      "svor": [
+        "Hubble-geimsjónaukanum",
+        "James Webb-geimsjónaukanum",
+        "Kepler-sjónaukanum",
+        "Spitzer-sjónaukanum"
+      ],
+      "rett": 0,
+      "skyring": "Hubble fór á loft með Discovery og hefur síðan sent okkur stórbrotnar fjölskyldumyndir af alheiminum."
+    },
+    {
+      "spurning": "Hversu mörgum tefldi Vlastimil Hort gegn í heimsmetstilrauninni á Seltjarnarnesi?",
+      "svor": [
+        "150",
+        "300",
+        "550",
+        "900"
+      ],
+      "rett": 2,
+      "skyring": "Hort tefldi við 550 manns, sem er óvenju stór biðröð eftir skák."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt sem bæði söngkona og leikkona?",
+      "svor": [
+        "Ashleigh Barty",
+        "Barbra Streisand",
+        "Anthony Trollope",
+        "Ben Davies"
+      ],
+      "rett": 1,
+      "skyring": "Barbra Streisand hefur unnið stórvirki jafnt á tónlistarsviðinu sem hvíta tjaldinu."
+    }
+  ],
+  "tonlistUSA": "Nothing Compares 2 U – Sinéad O'Connor (1990)",
+  "tonlistUK": "Vogue – Madonna (1990)",
+  "bio": "Pretty Woman (1990)",
+  "ord_dagsins": {
+    "ord": "glóaldin",
+    "skyring": "Glóaldin er gamalt og myndrænt íslenskt orð yfir appelsínu."
+  },
+  "vissir_thu": "Hubble-geimsjónaukinn var nefndur eftir bandaríska stjörnufræðingnum Edwin Hubble.",
+  "stjornuspa": "Nautið finnur gamlan seðil í jakka, en líklegra er að hann sé innkaupalisti en fjársjóður. Haltu samt fast í þína þrjósku—í dag kallast hún staðfesta og fer þér einkar vel.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/%2APanorama_of_Surat%2C_a_colored_aquatint_by_Alfred_Robert_Freebairn%2C_1830%2A_%28BL%29.jpg/500px-%2APanorama_of_Surat%2C_a_colored_aquatint_by_Alfred_Robert_Freebairn%2C_1830%2A_%28BL%29.jpg",
+    "ar": "1837",
+    "texti": "Mikill eldur braust út í Surat á Indlandi og eyðilagði um þrjá fjórðu hluta borgarinnar. Þetta var sannarlega dagur þegar tryggingaskilmálar hefðu þurft að vera með stóru letri.",
+    "heimild": "https://en.wikipedia.org/wiki/1837_Surat_fire",
+    "breidd": 330,
+    "haed": 228
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

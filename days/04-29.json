@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-29",
+  "dagur": 29,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:07",
+  "sunset": "21:43",
+  "kvedja": "Góðan 29. apríl, kæri lesandi! Í dag förum við frá Botany Bay út í geiminn, með viðkomu í kanadísku grjóthruni og frönsku andspyrnunni — sagan kann sannarlega ekki að ferðast með handfarangur. Naut dagsins má þó taka þessu öllu með sinni rómuðu yfirvegun og góðum kaffibolla.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1770",
+      "texti": "James Cook og áhöfn HMS Endeavour gengu á land við Botany Bay í fyrstu ferð hans. Þetta var fyrsta skráða landganga Evrópumanna á austurströnd Ástralíu."
+    },
+    {
+      "ar": "1826",
+      "texti": "Skoski stjörnufræðingurinn James Dunlop uppgötvaði Centaurus A frá Parramatta í Ástralíu. Síðar kom í ljós að þar var á ferðinni ein nálægasta útvarpsvetrarbraut jarðar."
+    },
+    {
+      "ar": "1903",
+      "texti": "Gríðarlegt berghlaup gróf hluta kanadíska námubæjarins Frank undir um 110 milljónum tonna af grjóti. Um 70 manns létust í hamförunum."
+    },
+    {
+      "ar": "1944",
+      "texti": "Breski njósnarinn Nancy Wake stökk í fallhlíf yfir Auvergne í Frakklandi. Þar varð hún tengiliður bresku leyniþjónustunnar Special Operations Executive og franskra andspyrnumanna."
+    },
+    {
+      "ar": "1997",
+      "texti": "Efnavopnasamningurinn tók gildi í þeim 87 ríkjum sem höfðu þá fullgilt hann. Samningurinn bannaði framleiðslu, birgðasöfnun og notkun efnavopna — eitt af þeim skiptum þegar penninn reyndi af alefli að sigra sverðið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1106",
+      "texti": "Jón Ögmundsson var vígður biskup á Hólum og varð fyrsti biskup Hólastiftis.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1899",
+      "texti": "Kristilegt félag ungra kvenna, KFUK, var stofnað á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1945",
+      "texti": "Félag íslenskra rithöfunda var stofnað — enda lengi verið nóg af sögum, kvæðum og skoðunum á þessari eyju.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Breskur togari, sem var í haldi vegna landhelgisbrots, sigldi úr Reykjavíkurhöfn með tvo íslenska lögregluþjóna um borð áleiðis til Bretlands. Togarinn náðist aftur síðar sama dag.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andre Agassi",
+      "starfsgrein": "tennisleikari",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Alexander II of Russia",
+      "starfsgrein": "Rússakeisari",
+      "ar": "1818"
+    },
+    {
+      "nafn": "Bob Bryan",
+      "starfsgrein": "tennisleikari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Mirra Andreeva",
+      "starfsgrein": "tennisleikari",
+      "ar": "2007"
+    },
+    {
+      "nafn": "Xochitl Gomez",
+      "starfsgrein": "leikkona",
+      "ar": "2006"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Ava Ólafsdóttir",
+      "starfsgrein": "rithöfundur og listfræðingur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Indriði Einarsson",
+      "starfsgrein": "leikskáld",
+      "ar": "1851"
+    },
+    {
+      "nafn": "Richard Thors",
+      "starfsgrein": "framkvæmdastjóri",
+      "ar": "1888"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar gekk James Cook á land 29. apríl 1770?",
+      "svor": [
+        "Botany Bay",
+        "Baffinsland",
+        "Góðrarvonarhöfða",
+        "Tasmaníu"
+      ],
+      "rett": 0,
+      "skyring": "Cook og áhöfn Endeavour gengu á land við Botany Bay á austurströnd Ástralíu."
+    },
+    {
+      "spurning": "Hvaða hættulegu vopn bannaði samningurinn sem tók gildi árið 1997?",
+      "svor": [
+        "Langboga",
+        "Efnavopn",
+        "Fallbyssur",
+        "Kappreiðasverð"
+      ],
+      "rett": 1,
+      "skyring": "Efnavopnasamningurinn bannaði meðal annars framleiðslu, söfnun og notkun efnavopna."
+    },
+    {
+      "spurning": "Hvaða íslenski rithöfundur á afmæli í dag?",
+      "svor": [
+        "Auður Ava Ólafsdóttir",
+        "Halldór Laxness",
+        "Sigríður Hagalín Björnsdóttir",
+        "Þórbergur Þórðarson"
+      ],
+      "rett": 0,
+      "skyring": "Auður Ava Ólafsdóttir fæddist 29. apríl 1958."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Bright Eyes – Art Garfunkel (1979)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "skutilsveinn",
+    "skyring": "Skutilsveinn er þjónn eða fylgdarmaður höfðingja, einkum í frásögnum af fyrri tíð."
+  },
+  "vissir_thu": "Söngvar úr söngleiknum Hair, sem var frumsýndur á Broadway árið 1968, urðu að þekktum baráttusöngvum andstöðunnar við Víetnamstríðið.",
+  "stjornuspa": "Nautið finnur gamalt skipulag, ryksugan minnisbók eða gleymda hugmynd og ákveður að þetta sé allt saman aftur komið í tísku. Farðu hægt en ákveðið — þannig vinnast bæði þrjóskufullar orrustur og síðasta kakan á kaffistofunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Cook%27sFirstVoyage54.png/500px-Cook%27sFirstVoyage54.png",
+    "ar": "1770",
+    "texti": "James Cook og áhöfn HMS Endeavour gengu á land við Botany Bay í fyrstu ferð hans. Þetta var fyrsta skráða landganga Evrópumanna á austurströnd Ástralíu.",
+    "heimild": "https://en.wikipedia.org/wiki/First_voyage_of_James_Cook",
+    "breidd": 330,
+    "haed": 166
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

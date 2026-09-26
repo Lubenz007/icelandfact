@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-28",
+  "dagur": 28,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:11",
+  "sunset": "21:40",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 28. apríl flökkum við frá falli heimsveldis og uppreisn á Bounty yfir í langlífustu plötu vinsældalistanna — sagan kann svo sannarlega að skipta um gír. Haltu fast um kaffibollann; dagurinn er bæði viðburðaríkur og örlítið uppreisnargjarn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "224",
+      "texti": "Parþaveldi féll fyrir Sasanídum eftir ósigur í orrustunni við Hormozdgan. Þar með lauk einum kafla í sögu Írans og annar, býsna voldugur, hófst."
+    },
+    {
+      "ar": "1611",
+      "texti": "Háskólinn Santo Tomas var stofnaður í Manila. Hann er einn elsti starfandi háskóli Asíu og meðal stærstu kaþólsku háskóla heims."
+    },
+    {
+      "ar": "1789",
+      "texti": "Fletcher Christian leiddi uppreisn skipverja á HMS Bounty gegn William Bligh skipstjóra í Suður-Kyrrahafi. Fá skip hafa siglt jafn rækilega inn í sögubækurnar."
+    },
+    {
+      "ar": "1945",
+      "texti": "Benito Mussolini, fyrrverandi einræðisherra Ítalíu, var tekinn af lífi af ítölskum andspyrnumönnum í Giulino þegar síðari heimsstyrjöldin nálgaðist lok sín í Evrópu."
+    },
+    {
+      "ar": "1973",
+      "texti": "Plata Pink Floyd, The Dark Side of the Moon, kom inn á bandaríska Billboard-listann. Þar átti hún eftir að dvelja í metvikurnar 942 — lengur en flestir endast í sama sófanum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1118",
+      "texti": "Þorlákur Runólfsson var vígður Skálholtsbiskup í Danmörku.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1237",
+      "texti": "Bæjarbardagi var háður í Borgarfirði milli sveita Þorleifs Þórðarsonar og Sturlu Sighvatssonar. Yfir þrjátíu manns féllu í átökunum.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1819",
+      "texti": "Konungur fyrirskipaði að tugthúsið í Reykjavík yrði embættisbústaður stiftamtmanns. Í húsinu er nú skrifstofa forsætisráðherra.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2009",
+      "texti": "Íslenska varðskipinu Þór var hleypt af stokkunum í Chile.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ann-Margret",
+      "starfsgrein": "leikkona, söngkona og dansari",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Bruno Kirby",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Alice Waters",
+      "starfsgrein": "matreiðslumaður og rithöfundur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Victoria De Angelis",
+      "starfsgrein": "tónlistarkona",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Otho",
+      "starfsgrein": "rómverskur keisari",
+      "ar": "32"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hildur Hákonardóttir",
+      "starfsgrein": "myndlistarkona og rithöfundur",
+      "ar": "1938"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skip varð vettvangur frægrar uppreisnar 28. apríl 1789?",
+      "svor": [
+        "HMS Bounty",
+        "HMS Victory",
+        "Mayflower",
+        "Titanic"
+      ],
+      "rett": 0,
+      "skyring": "Fletcher Christian leiddi uppreisnina á HMS Bounty — enginn venjulegur vinnudagur á dekki."
+    },
+    {
+      "spurning": "Hversu margar vikur var The Dark Side of the Moon á Billboard-listanum?",
+      "svor": [
+        "242 vikur",
+        "542 vikur",
+        "742 vikur",
+        "942 vikur"
+      ],
+      "rett": 3,
+      "skyring": "Platan sat á listanum í 942 vikur og virðist varla hafa fundið útganginn."
+    },
+    {
+      "spurning": "Hvar var íslenska varðskipinu Þór hleypt af stokkunum árið 2009?",
+      "svor": [
+        "Í Noregi",
+        "Á Íslandi",
+        "Í Chile",
+        "Í Danmörku"
+      ],
+      "rett": 2,
+      "skyring": "Þór var sjósettur í Chile, býsna langt frá íslenskum heimahögum."
+    }
+  ],
+  "tonlistUSA": "Against All Odds (Take a Look at Me Now) – Phil Collins (1984)",
+  "tonlistUK": "Hello – Lionel Richie (1984)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "uppivöðslusemi",
+    "skyring": "Uppivöðslusemi er frekja eða ágeng framkoma þar sem menn ryðjast áfram án mikillar tillitssemi."
+  },
+  "vissir_thu": "The Dark Side of the Moon með Pink Floyd var alls 942 vikur á Billboard-listanum, sem er met.",
+  "stjornuspa": "Nautið finnur í dag gamlan seðil í vasa, rifjar upp hálfklárað verkefni og ákveður að annað hvort ljúka því eða setja það aftur í skúffuna af mikilli reisn. Treystu þrautseigjunni, en mundu að jafnvel plötuspilari þarf stundum að skipta um hlið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Map_of_the_Parthian_Empire_under_Mithridates_II.svg/500px-Map_of_the_Parthian_Empire_under_Mithridates_II.svg.png",
+    "ar": "224",
+    "texti": "Parþaveldi féll fyrir Sasanídum eftir ósigur í orrustunni við Hormozdgan. Þar með lauk einum kafla í sögu Írans og annar, býsna voldugur, hófst.",
+    "heimild": "https://en.wikipedia.org/wiki/Parthian_Empire",
+    "breidd": 330,
+    "haed": 184
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

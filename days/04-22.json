@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-22",
+  "dagur": 22,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:32",
+  "sunset": "21:21",
+  "kvedja": "Komdu sæl og blessuð á þessum söguríka 22. apríl! Í dag siglum við með Cabral til Brasilíu, fylgjumst með tveggja senta peningi fá einkunnarorð og stöldrum loks við í Þjóðleikhúsinu—allt án þess að þurfa vegabréf eða spariföt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1073",
+      "texti": "Gregoríus 7. var kjörinn páfi eftir lát Alexanders 2. Þar með hófst áhrifamikill páfadómur sem átti eftir að setja svip sinn á valdabaráttu kirkju og veraldlegra höfðingja."
+    },
+    {
+      "ar": "1500",
+      "texti": "Floti undir stjórn Pedro Álvares Cabral lagðist við akkeri undan strönd núverandi Brasilíu. Cabral gerði síðar tilkall til landsins fyrir hönd portúgalska heimsveldisins."
+    },
+    {
+      "ar": "1864",
+      "texti": "Bandaríkjaþing samþykkti myntlög sem heimiluðu sláttu tveggja senta penings. Hann varð fyrsti bandaríski peningurinn sem bar orðin „In God We Trust“."
+    },
+    {
+      "ar": "1945",
+      "texti": "Um 600 fangar í Jasenovac-fangabúðunum gerðu uppreisn gegn Ustaše-stjórninni. Aðeins um 80 tókst að flýja; hinir voru drepnir."
+    },
+    {
+      "ar": "2016",
+      "texti": "Parísarsamkomulagið um loftslagsmál var lagt fram til undirritunar og 175 aðilar skrifuðu undir. Sjaldan hafa jafn margar undirskriftir borið jafn þunga von um svalari framtíð."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1917",
+      "texti": "Jón Helgason var vígður biskup. Hann var jafnframt fræðimaður og skrifaði meðal annars Árbækur Reykjavíkur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Bresk flugvél fórst rétt við Nýja garð í Reykjavík og öll áhöfn hennar lést. Slysið varð skuggi yfir borginni á síðustu mánuðum heimsstyrjaldarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1950",
+      "texti": "Leikritið Íslandsklukkan eftir Halldór Kiljan Laxness var frumsýnt í Þjóðleikhúsinu. Klukkan sló þar með nýjan og eftirminnilegan tón í íslenskri leiklistarsögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amber Heard",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Immanuel Kant",
+      "starfsgrein": "þýskur heimspekingur",
+      "ar": "1724"
+    },
+    {
+      "nafn": "Aaron Spelling",
+      "starfsgrein": "bandarískur sjónvarpsframleiðandi og handritshöfundur",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Henry Fielding",
+      "starfsgrein": "enskur rithöfundur og leikskáld",
+      "ar": "1707"
+    },
+    {
+      "nafn": "Machine Gun Kelly",
+      "starfsgrein": "bandarískur tónlistarmaður og leikari",
+      "ar": "1990"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Aron Einar Gunnarsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Snorri Hjartarson",
+      "starfsgrein": "skáld",
+      "ar": "1906"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða land sá Cabral undan stafni árið 1500?",
+      "svor": [
+        "Brasilíu",
+        "Ísland",
+        "Indland",
+        "Ástralíu"
+      ],
+      "rett": 0,
+      "skyring": "Floti Cabrals lagðist við akkeri undan strönd núverandi Brasilíu."
+    },
+    {
+      "spurning": "Hvaða verk Halldórs Kiljans Laxness var frumsýnt í Þjóðleikhúsinu 22. apríl 1950?",
+      "svor": [
+        "Sjálfstætt fólk",
+        "Íslandsklukkan",
+        "Gerpla",
+        "Salka Valka"
+      ],
+      "rett": 1,
+      "skyring": "Íslandsklukkan tók að tifa á sviði Þjóðleikhússins þennan dag."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins var þýskur heimspekingur?",
+      "svor": [
+        "Henry Fielding",
+        "Aaron Spelling",
+        "Immanuel Kant",
+        "Aron Einar Gunnarsson"
+      ],
+      "rett": 2,
+      "skyring": "Immanuel Kant fæddist árið 1724 og varð einn áhrifamesti heimspekingur Vesturlanda."
+    }
+  ],
+  "tonlistUSA": "Like a Prayer – Madonna (1989)",
+  "tonlistUK": "Eternal Flame – The Bangles (1989)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Orðið merkir snemma dags eða að morgni og er einkum notað í formlegu eða bókmenntalegu máli."
+  },
+  "vissir_thu": "Tveggja senta peningurinn frá 1864 var fyrsti bandaríski myntpeningurinn sem bar einkunnarorðin „In God We Trust“.",
+  "stjornuspa": "Nautið finnur gamlan geisladisk, gleymda kvittun eða hugmynd sem á skilið annað tækifæri—retro er jú aðeins framtíðin í brúnum fötum. Haltu þínu striki, en mundu að jafnvel þrjóskasta naut má stundum skipta um lag á kassettunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Exultet_Rolls_of_Southern_Italy%2C_detail_of_Pope_Gregory_VII.jpg/500px-Exultet_Rolls_of_Southern_Italy%2C_detail_of_Pope_Gregory_VII.jpg",
+    "ar": "1073",
+    "texti": "Gregoríus 7. var kjörinn páfi eftir lát Alexanders 2. Þar með hófst áhrifamikill páfadómur sem átti eftir að setja svip sinn á valdabaráttu kirkju og veraldlegra höfðingja.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Gregory_VII",
+    "breidd": 330,
+    "haed": 529
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

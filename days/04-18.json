@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-18",
+  "dagur": 18,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "05:46",
+  "sunset": "21:09",
+  "kvedja": "Góðan 18. apríl! Í dag ríðum við með Paul Revere, lítum inn hjá Superman og fylgjumst með Glasgowhúsinu hverfa í eldhaf — sagan kann svo sannarlega að halda mörgum boltum á lofti. Helltu upp á og njóttu dagsins með fróðleiksglotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1689",
+      "texti": "Íbúar Boston og héraðssveitir gerðu uppreisn í kjölfar dýrlegu byltingarinnar og handtóku embættismenn yfirráðasvæðisins Nýja-Englands. Stjórnsýslan fékk sem sagt óvæntan frídag — undir vopnuðu eftirliti."
+    },
+    {
+      "ar": "1775",
+      "texti": "Paul Revere og William Dawes lögðu upp í fræga miðnæturreið til að vara íbúa Lexington og Concord við komu breskra hermanna; Samuel Prescott bættist síðar í hópinn. Viðvörunin varð einn kunnasti undanfari bandaríska frelsisstríðsins."
+    },
+    {
+      "ar": "1881",
+      "texti": "Náttúrugripasafnið í Lundúnum opnaði almenningi og máluð loft þess voru afhjúpuð. Þar fékk náttúrufræðin loksins húsakynni sem voru næstum jafn tilkomumikil og risaeðlurnar."
+    },
+    {
+      "ar": "1938",
+      "texti": "Superman, sköpunarverk Jerry Siegel og Joe Shuster, birtist fyrst í Action Comics #1. Með honum varð fyrsta eiginlega ofurhetjumyndasagan til og nærbuxur utan yfir buxur skyndilega að tískuyfirlýsingu."
+    },
+    {
+      "ar": "2023",
+      "texti": "Fox News samþykkti að greiða Dominion Voting Systems 787 milljónir Bandaríkjadala til að ljúka meiðyrðamáli tengdu forsetakosningunum 2020. Það var uppgjör með svo mörgum núllum að jafnvel reiknivélin þurfti að draga andann."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1244",
+      "texti": "Kægil-Björn Dufgusson var drepinn af mönnum Kolbeins unga í Króksfirði, á róstusömum Sturlungaöld.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1872",
+      "texti": "Mikið tjón varð á Húsavík í jarðskjálfta og á annað hundrað manns missti húsaskjól.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1903",
+      "texti": "Glasgowhúsið í Reykjavík, þá stærsta hús landsins, brann til kaldra kola. Mannbjörg varð, sem var ljós punktur á afar dökkum degi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Hermann Jónasson tók við af Jónasi Jónssyni frá Hriflu sem formaður Framsóknarflokksins.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Conan O'Brien",
+      "starfsgrein": "sjónvarpsmaður, grínisti og handritshöfundur",
+      "ar": "1963"
+    },
+    {
+      "nafn": "David Tennant",
+      "starfsgrein": "leikari",
+      "ar": "1971"
+    },
+    {
+      "nafn": "America Ferrera",
+      "starfsgrein": "leikkona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Vanessa Kirby",
+      "starfsgrein": "leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Andrew Ng",
+      "starfsgrein": "gervigreindarfræðingur",
+      "ar": "1976"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Indriði G. Þorsteinsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Ólafur Halldórsson",
+      "starfsgrein": "íslenskufræðingur",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Magnús Kristjánsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1862"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ofurhetja steig fyrst fram í Action Comics #1 árið 1938?",
+      "svor": [
+        "Superman",
+        "Batman",
+        "Köngulóarmaðurinn",
+        "Kapteinn Ameríka"
+      ],
+      "rett": 0,
+      "skyring": "Superman flaug fyrst inn í myndasögusöguna þennan dag árið 1938."
+    },
+    {
+      "spurning": "Í hvaða bæ urðu nærri hundrað manns húsnæðislaus eftir jarðskjálfta árið 1872?",
+      "svor": [
+        "Í Stykkishólmi",
+        "Á Húsavík",
+        "Á Höfn",
+        "Í Keflavík"
+      ],
+      "rett": 1,
+      "skyring": "Jarðskjálftinn olli miklu tjóni á Húsavík og svipti fjölda fólks húsaskjóli."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er skoskur leikari?",
+      "svor": [
+        "Conan O'Brien",
+        "Andrew Ng",
+        "David Tennant",
+        "Indriði G. Þorsteinsson"
+      ],
+      "rett": 2,
+      "skyring": "David Tennant er skoskur leikari og afmælisbarn dagsins."
+    }
+  ],
+  "tonlistUSA": "We Are the World – USA for Africa (1985)",
+  "tonlistUK": "We Are the World – USA for Africa (1985)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "árdegi",
+    "skyring": "Árdegi er fyrri hluti dags, einkum tíminn fyrir hádegi."
+  },
+  "vissir_thu": "Action Comics #1, þar sem Superman birtist fyrst, bar júnídagsetningu þótt blaðið kæmi í sölu 18. apríl 1938.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir hetjumóði í Superman-stíl, en ætti þó að sleppa skikkjunni ef vindur er. Gamalt verkefni kallar á miðnæturreið — eða að minnsta kosti ákveðið tölvuskeyti fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg/500px-William_of_Orange_III_and_his_Dutch_army_land_in_Brixham%2C_1688.jpg",
+    "ar": "1689",
+    "texti": "Íbúar Boston og héraðssveitir gerðu uppreisn í kjölfar dýrlegu byltingarinnar og handtóku embættismenn yfirráðasvæðisins Nýja-Englands. Stjórnsýslan fékk sem sagt óvæntan frídag — undir vopnuðu eftirliti.",
+    "heimild": "https://en.wikipedia.org/wiki/Glorious_Revolution",
+    "breidd": 330,
+    "haed": 229
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-21",
+  "dagur": 21,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:35",
+  "sunset": "21:18",
+  "kvedja": "Góðan og gleðilegan 21. apríl! Í dag röltum við frá goðsagnakenndri stofnun Rómar til handritanna sem sigldu heim til Íslands — og komum við í Brasilíu og á knattspyrnuvelli Víkings á leiðinni. Sagan ferðast nefnilega létt, þótt ferðataskan sé full af ártölum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "753 f.Kr.",
+      "texti": "Samkvæmt útreikningum rómverska fræðimannsins Varrós var Róm stofnuð þennan dag af hinum goðsagnakenndu bræðrum Rómúlusi og Remusi. Rómverjar kunnu sannarlega að hefja borgarsögu sína með látum."
+    },
+    {
+      "ar": "900",
+      "texti": "Höfðingi í Tondo á eyjunni Luzon gaf upp skuld og lét skrá það á koparplötu. Laguna-koparplatan er elsta þekkta dagsetta skjalið sem fundist hefur á Filippseyjum."
+    },
+    {
+      "ar": "1526",
+      "texti": "Babúr sigraði og felldi Ibrahim Khan Lodi í fyrstu orrustunni við Panipat. Sigurinn markaði upphaf Mógúlveldisins á Indlandi."
+    },
+    {
+      "ar": "1960",
+      "texti": "Hin skipulagða borg Brasília var formlega vígð og tók við af Rio de Janeiro sem höfuðborg Brasilíu. Þar varð borgarskipulagið nánast að þjóðartákni úr steinsteypu."
+    },
+    {
+      "ar": "2021",
+      "texti": "Indónesíski kafbáturinn Nanggala laskaðist, sökk í Balíhafi og allir 53 um borð fórust. Atburðurinn varð einn mannskæðasti kafbátsskaði síðari ára."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1648",
+      "texti": "Samkvæmt Setbergsannál var snjór í mitti á sléttlendi á Suðvesturlandi. Vorið hefur greinilega tekið sér óvenjulangan kaffitíma.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1800",
+      "texti": "Sex bátar fórust úr Staðarsveit og Bjarneyjum í miklu norðanveðri og með þeim 37 manns.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1908",
+      "texti": "Knattspyrnufélagið Víkingur var stofnað í Reykjavík og hóf þar með langa sögu sína í íslenskum íþróttum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Fyrstu íslensku handritin komu heim frá Danmörku: Flateyjarbók og Konungsbók Eddukvæða. Heimkoman var stór stund í íslenskri menningar- og sjálfstæðissögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andie MacDowell",
+      "starfsgrein": "leikkona, fyrirsæta og framleiðandi",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Alistair MacLean",
+      "starfsgrein": "rithöfundur og handritshöfundur",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Xavi Simons",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Isabella Danaprinsessa",
+      "starfsgrein": "dönsk prinsessa",
+      "ar": "2007"
+    },
+    {
+      "nafn": "Jan van Riebeeck",
+      "starfsgrein": "nýlendustjórnandi og stofnandi Höfðaborgar",
+      "ar": "1619"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Eir Vilhjálmsdóttir",
+      "starfsgrein": "prestur og brautryðjandi",
+      "ar": "1937"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg varð höfuðborg Brasilíu árið 1960?",
+      "svor": [
+        "Brasília",
+        "São Paulo",
+        "Salvador",
+        "Recife"
+      ],
+      "rett": 0,
+      "skyring": "Brasília tók við höfuðborgarhlutverkinu af Rio de Janeiro og gerði það með miklum arkitektúrbrag."
+    },
+    {
+      "spurning": "Hvaða tvö handrit komu fyrst heim frá Danmörku árið 1971?",
+      "svor": [
+        "Landnáma og Njála",
+        "Flateyjarbók og Konungsbók Eddukvæða",
+        "Möðruvallabók og Sturlunga",
+        "Grágás og Skarðsbók"
+      ],
+      "rett": 1,
+      "skyring": "Flateyjarbók og Konungsbók Eddukvæða voru fyrstu handritin sem sneru heim."
+    },
+    {
+      "spurning": "Hvaða íslenska félag var stofnað 21. apríl 1908?",
+      "svor": [
+        "Knattspyrnufélagið Valur",
+        "Knattspyrnufélag Reykjavíkur",
+        "Knattspyrnufélagið Víkingur",
+        "Knattspyrnufélagið Fram"
+      ],
+      "rett": 2,
+      "skyring": "Víkingur var stofnaður í Reykjavík þennan dag árið 1908."
+    }
+  ],
+  "tonlistUSA": "Call Me – Blondie (1980)",
+  "tonlistUK": "Working My Way Back to You – The Detroit Spinners (1980)",
+  "bio": "Annie Hall (1977)",
+  "ord_dagsins": {
+    "ord": "annáll",
+    "skyring": "Annáll er rit þar sem atburðir eru skráðir í tímaröð, oft ár frá ári."
+  },
+  "vissir_thu": "Brasília var reist sem skipulögð höfuðborg og tók formlega við hlutverkinu af Rio de Janeiro 21. apríl 1960.",
+  "stjornuspa": "Nautið finnur í dag gamalt plan sem er enn furðu nothæft — líkt og rómverskan vatnsstokk, nema vonandi ódýrara í viðhaldi. Haltu þínu striki, en leyfðu öðrum að halda að hugmyndin hafi verið þeirra.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Map_of_Tondo_%281570%29.png/500px-Map_of_Tondo_%281570%29.png",
+    "ar": "900",
+    "texti": "Höfðingi í Tondo á eyjunni Luzon gaf upp skuld og lét skrá það á koparplötu. Laguna-koparplatan er elsta þekkta dagsetta skjalið sem fundist hefur á Filippseyjum.",
+    "heimild": "https://en.wikipedia.org/wiki/Tondo_(historical_polity)",
+    "breidd": 330,
+    "haed": 360
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

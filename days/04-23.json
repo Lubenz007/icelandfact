@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-23",
+  "dagur": 23,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:28",
+  "sunset": "21:24",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 23. apríl! Í dag rúllum við frá Bach yfir í Ramones, með viðkomu hjá Halldóri Laxness og ZX Spectrum — því sagan kann sannarlega að skipta um takt án þess að biðja um leyfi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1685",
+      "texti": "Jakob 2. var krýndur konungur Englands eftir lát Karls 2., bróður síns. Hann varð síðasti kaþólikkinn til að bera enska konungstitilinn."
+    },
+    {
+      "ar": "1724",
+      "texti": "Johann Sebastian Bach stjórnaði frumflutningi kantötunnar „Du Hirte Israel, höre“, BWV 104. Tónlistin fjallar um góða hirðinn og er svo sveitalega ljúf að næstum má heyra ullina vaxa."
+    },
+    {
+      "ar": "1945",
+      "texti": "Í síðari heimsstyrjöldinni frelsaði 90. fótgönguliðadeild Bandaríkjahers Flossenbürg-fangabúðirnar í Þýskalandi og leysti 1.500 fanga úr haldi."
+    },
+    {
+      "ar": "1976",
+      "texti": "Ramones gáfu út sína fyrstu breiðskífu. Platan varð afar áhrifamikil í mótun pönkrokksins og sannaði að stundum þarf aðeins nokkra hljóma, leðurjakka og ríflegt sjálfstraust."
+    },
+    {
+      "ar": "2009",
+      "texti": "Stjörnufræðingar greindu gammablossann GRB 090423, sem kom frá fjarlægasta fyrirbæri alheims sem þá hafði fundist. Ljósið hafði sannarlega lagt snemma af stað."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1889",
+      "texti": "Kaupfélag Skagfirðinga var stofnað og varð síðar öflugur þátttakandi í atvinnu- og verslunarsögu héraðsins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1964",
+      "texti": "Leikfélag Reykjavíkur hélt upp á 400 ára afmæli Williams Shakespeare með hátíðarsýningu á „Rómeó og Júlíu“.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1972",
+      "texti": "Á sjötugsafmæli Halldórs Laxness var skáldið útnefnt heiðursborgari Mosfellsbæjar og heiðursdoktor við Háskóla Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1983",
+      "texti": "Í Alþingiskosningunum fékk Kvennalistinn þrjár konur kjörnar á Alþingi og markaði þannig eftirminnileg tímamót í íslenskum stjórnmálum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Dessner",
+      "starfsgrein": "gítarleikari, lagahöfundur og upptökustjóri",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Alistair Brownlee",
+      "starfsgrein": "þríþrautarmaður",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Bernadette Devlin McAliskey",
+      "starfsgrein": "mannréttindafrömuður og stjórnmálakona",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Alexandra Kosteniuk",
+      "starfsgrein": "skákkona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Annie Easley",
+      "starfsgrein": "tölvunarfræðingur, stærðfræðingur og verkfræðingur",
+      "ar": "1933"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Halldór Laxness",
+      "starfsgrein": "rithöfundur og Nóbelsverðlaunahafi",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljómsveit gaf út áhrifamikla frumraun sína 23. apríl 1976?",
+      "svor": [
+        "Ramones",
+        "The Rolling Stones",
+        "The Clash",
+        "Sex Pistols"
+      ],
+      "rett": 0,
+      "skyring": "Ramones mættu með hraða, húmor og hljóma sem áttu eftir að bergmála um allt pönkrokkið."
+    },
+    {
+      "spurning": "Hversu margir fangar voru leystir úr haldi þegar Flossenbürg-fangabúðirnar voru frelsaðar?",
+      "svor": [
+        "500",
+        "1.000",
+        "1.500",
+        "3.000"
+      ],
+      "rett": 2,
+      "skyring": "Bandaríska herdeildin frelsaði 1.500 fanga árið 1945."
+    },
+    {
+      "spurning": "Hvað fékk Kvennalistinn margar konur kjörnar á Alþingi árið 1983?",
+      "svor": [
+        "Tvær",
+        "Þrjár",
+        "Fjórar",
+        "Fimm"
+      ],
+      "rett": 1,
+      "skyring": "Þrjár konur náðu kjöri fyrir Kvennalistann — lítið orð, stórt skref."
+    }
+  ],
+  "tonlistUSA": "Nothing Compares 2 U – Sinéad O'Connor (1990)",
+  "tonlistUK": "Vogue – Madonna (1990)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "torleiði",
+    "skyring": "Torleiði er erfið eða illfær leið, hvort sem hún liggur um fjöll, sögubækur eða mánudagsmorgun."
+  },
+  "vissir_thu": "Halldór Laxness fæddist 23. apríl 1902 og hlaut bókmenntaverðlaun Nóbels árið 1955.",
+  "stjornuspa": "Nautið finnur í dag gamlan seðil í vasa, hugmynd í skúffu eða köku sem einhver hélt að væri gleymd. Haltu ró þinni og stattu fast á þínu — en mundu að jafnvel þrjóskasta Naut má skipta um skoðun þegar kaffi er í boði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg/500px-King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+    "ar": "1685",
+    "texti": "Jakob 2. var krýndur konungur Englands eftir lát Karls 2., bróður síns. Hann varð síðasti kaþólikkinn til að bera enska konungstitilinn.",
+    "heimild": "https://en.wikipedia.org/wiki/Charles_II_of_England",
+    "breidd": 330,
+    "haed": 421
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

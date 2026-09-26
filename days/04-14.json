@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-14",
+  "dagur": 14,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:00",
+  "sunset": "20:57",
+  "kvedja": "Góðan 14. apríl! Í dag flettum við orðabók Websters, höldum niðri í okkur andanum með Apollo 13 og minnumst þess að íslensk aska getur hæglega sett alla Evrópu á bið. Sagan er nefnilega sjaldan lognmolla — jafnvel þegar hún er skrifuð í orðabók.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1828",
+      "texti": "Noah Webster tryggði sér höfundarrétt að fyrstu útgáfu orðabókar sinnar um bandaríska ensku. Þar með fékk bandarísk stafsetning sitt eigið vegarnesti — og Bretar eitt og annað til að hnykkla brýrnar yfir."
+    },
+    {
+      "ar": "1865",
+      "texti": "Leikarinn og stuðningsmaður Suðurríkjanna John Wilkes Booth skaut Abraham Lincoln Bandaríkjaforseta banvænu skoti í Ford-leikhúsinu í Washington."
+    },
+    {
+      "ar": "1935",
+      "texti": "Gífurlegur rykstormur gekk yfir Oklahoma og norðurhluta Texas á tímum Dust Bowl. Talið er að um 300 milljónir tonna af gróðurmold hafi fokið burt — moldviðri í bókstaflega risavöxnum mælikvarða."
+    },
+    {
+      "ar": "1970",
+      "texti": "Súrefniskútur sprakk um borð í Apollo 13 og lamaði raf- og lífsbjargarkerfi geimfarsins. Geimfarinn Jack Swigert tilkynnti jarðstjórninni: „Houston, we've had a problem here“ — heldur óþægileg vanlýsing á stöðunni."
+    },
+    {
+      "ar": "2010",
+      "texti": "Mikið öskugos í Eyjafjallajökli hófst og öskustrókurinn olli víðtækri röskun á flugi um Evrópu næstu daga. Jökull með örnefni sem útlendir fréttamenn réðu illa við varð skyndilega miðpunktur heimsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1695",
+      "texti": "Hafís barst inn á Faxaflóa í fyrsta sinn síðan 1615, eftir að hafa rekið suður með Austurlandi, vestur með Suðurlandi og fyrir Reykjanes.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1962",
+      "texti": "Handritastofnun Íslands, sem síðar hlaut nafnið Árnastofnun, var stofnuð með sérstökum lögum þegar lausn handritamálsins var loks í sjónmáli.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1963",
+      "texti": "Hrímfaxi, flugvél Flugfélags Íslands, fórst við Osló. Tólf manns létust, flestir þeirra Íslendingar.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1987",
+      "texti": "Flugstöð Leifs Eiríkssonar á Keflavíkurflugvelli var vígð og varð nýtt anddyri landsins fyrir ótal ferðalanga.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adrien Brody",
+      "starfsgrein": "leikari",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Anthony Michael Hall",
+      "starfsgrein": "leikari",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Abigail Breslin",
+      "starfsgrein": "leikkona",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Anderson Silva",
+      "starfsgrein": "bardagaíþróttamaður og hnefaleikamaður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Abraham Ortelius",
+      "starfsgrein": "kortagerðarmaður og landfræðingur",
+      "ar": "1527"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sigríður Zoëga",
+      "starfsgrein": "ljósmyndari",
+      "ar": "1889"
+    },
+    {
+      "nafn": "Ólöf Pálsdóttir",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Haraldur Bessason",
+      "starfsgrein": "fræðimaður og háskólakennari",
+      "ar": "1931"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimferð lenti í alvarlegum vanda 14. apríl 1970?",
+      "svor": [
+        "Apollo 13",
+        "Apollo 8",
+        "Gemini 4",
+        "Voyager 1"
+      ],
+      "rett": 0,
+      "skyring": "Apollo 13 varð fyrir sprengingu í súrefniskúti, en áhöfnin komst heil heim."
+    },
+    {
+      "spurning": "Hvaða íslenska mannvirki var vígt árið 1987?",
+      "svor": [
+        "Ráðhús Reykjavíkur",
+        "Flugstöð Leifs Eiríkssonar",
+        "Harpa",
+        "Perlan"
+      ],
+      "rett": 1,
+      "skyring": "Flugstöð Leifs Eiríkssonar var vígð á Keflavíkurflugvelli 14. apríl 1987."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins var kortagerðarmaður?",
+      "svor": [
+        "Adrien Brody",
+        "Anthony Michael Hall",
+        "Abraham Ortelius",
+        "Anderson Silva"
+      ],
+      "rett": 2,
+      "skyring": "Abraham Ortelius var flæmskur kortagerðarmaður og landfræðingur."
+    }
+  ],
+  "tonlistUSA": "We Are the World – USA for Africa (1985)",
+  "tonlistUK": "Hello – Lionel Richie (1984)",
+  "bio": "The Super Mario Bros. Movie (2023)",
+  "ord_dagsins": {
+    "ord": "moldviðri",
+    "skyring": "Moldviðri er veður þar sem vindur þyrlar upp miklu magni af þurrum jarðvegi eða ryki."
+  },
+  "vissir_thu": "Hin fræga tilkynning frá Apollo 13 var í raun „Houston, we've had a problem here“, þótt hún sé oft höfð í nútíð sem „Houston, we have a problem“.",
+  "stjornuspa": "Hrúturinn finnur gamalt stórvirki í skúffu og lýsir því þegar í stað sem byltingarkenndri nýjung. Mars mælir þó með að þú lesir smáa letrið áður en þú sendir skeyti til Houston.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Auerbach_open.jpg/500px-Auerbach_open.jpg",
+    "ar": "1828",
+    "texti": "Noah Webster tryggði sér höfundarrétt að fyrstu útgáfu orðabókar sinnar um bandaríska ensku. Þar með fékk bandarísk stafsetning sitt eigið vegarnesti — og Bretar eitt og annað til að hnykkla brýrnar yfir.",
+    "heimild": "https://en.wikipedia.org/wiki/Lexicography",
+    "breidd": 330,
+    "haed": 179
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

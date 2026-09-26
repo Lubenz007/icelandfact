@@ -1,0 +1,148 @@
+{
+  "mmdd": "04-19",
+  "dagur": 19,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "05:42",
+  "sunset": "21:12",
+  "kvedja": "Góðan 19. apríl, kæri lesandi! Í dag hefjast byltingar við Lexington, Mae West móðgar siðgæðisverði og Simpson-fjölskyldan mætir fyrst á skjáinn — sagan kann sannarlega að blanda saman púðrinu og poppkorninu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1775",
+      "texti": "Bandaríska frelsisstríðið hófst með orrustunum við Lexington og Concord í Massachusetts. Skotin þar urðu upphafið að byltingu sem breytti gangi heimssögunnar."
+    },
+    {
+      "ar": "1861",
+      "texti": "Fyrsta blóðið í bandaríska borgarastríðinu rann þegar stuðningsmenn Suðurríkjanna réðust á liðsmenn frá Massachusetts í Baltimore, á leið þeirra til Washington."
+    },
+    {
+      "ar": "1927",
+      "texti": "Leikkonan Mae West var dæmd í tíu daga fangelsi fyrir að „spilla siðferði æskunnar“ með leikriti sínu Sex. Dómurinn dró þó tæpast úr frægð hennar — hneyksli eru stundum prýðileg auglýsing."
+    },
+    {
+      "ar": "1971",
+      "texti": "Sovétríkin skutu Saljút 1 á loft frá Baikonur-geimferðamiðstöðinni. Hún var fyrsta geimstöðin sem send var út í geiminn."
+    },
+    {
+      "ar": "1987",
+      "texti": "Simpson-fjölskyldan birtist í fyrsta sinn í stuttmyndinni „Good Night“ í The Tracey Ullman Show. Enginn grunaði þá að gul fjölskylda frá Springfield ætti eftir að verða sjónvarpsstofugestur í áratugi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1244",
+      "texti": "Tumi Sighvatsson yngri var drepinn á Reykhólum, enn einn blóðugur kaflinn í átökum Sturlungaaldar.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1246",
+      "texti": "Haugsnesfundur var háður í Blönduhlíð, þar sem Brandur Kolbeinsson og Þórður kakali börðust um völd. Meira en hundrað féllu og er bardaginn talinn mannskæðasta orusta sem háð hefur verið á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1409",
+      "texti": "Bréf var skrifað í Hvalsey á Grænlandi til staðfestingar á brúðkaupi sem haldið hafði verið árið áður. Það er síðasta staðfesta heimildin um búsetu norrænna manna á Grænlandi.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1923",
+      "texti": "Alþýðubókasafn Reykjavíkur, sem síðar hlaut nafnið Borgarbókasafn Reykjavíkur, tók til starfa. Þar fékk borgarbúinn aðgang að heilu ævintýrunum fyrir lítið annað en bókasafnsskírteini.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ashley Judd",
+      "starfsgrein": "leikkona",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Ali Wong",
+      "starfsgrein": "grínisti og leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Ferdinand I of Austria",
+      "starfsgrein": "Austurríkiskeisari",
+      "ar": "1793"
+    },
+    {
+      "nafn": "Antonio Carluccio",
+      "starfsgrein": "matreiðslumaður og rithöfundur",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Bernie Worrell",
+      "starfsgrein": "hljómborðsleikari og lagahöfundur",
+      "ar": "1944"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Barbara Árnason",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Guðmundur Steinsson",
+      "starfsgrein": "leikskáld",
+      "ar": "1925"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða styrjöld hófst með orrustunum við Lexington og Concord?",
+      "svor": [
+        "Bandaríska frelsisstríðið",
+        "Bandaríska borgarastríðið",
+        "Krímstríðið",
+        "Stríðið 1812"
+      ],
+      "rett": 0,
+      "skyring": "Orrusturnar árið 1775 mörkuðu upphaf bandaríska frelsisstríðsins."
+    },
+    {
+      "spurning": "Hvað var Saljút 1 fyrst sinnar tegundar til að vera?",
+      "svor": [
+        "Geimferja",
+        "Geimstöð",
+        "Tunglbíll",
+        "Veðurgervitungl"
+      ],
+      "rett": 1,
+      "skyring": "Saljút 1 var fyrsta geimstöðin sem skotið var á loft."
+    },
+    {
+      "spurning": "Hvar var Haugsnesfundur háður árið 1246?",
+      "svor": [
+        "Í Borgarfirði",
+        "Á Reykjanesi",
+        "Í Blönduhlíð",
+        "Á Fljótsdalshéraði"
+      ],
+      "rett": 2,
+      "skyring": "Haugsnesfundur var háður í Blönduhlíð í Skagafirði."
+    }
+  ],
+  "tonlistUSA": "Call Me – Blondie (1980)",
+  "tonlistUK": "Working My Way Back to You/Forgive Me, Girl – The Detroit Spinners (1980)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "mannskæður",
+    "skyring": "Mannskæður atburður veldur dauða margra manna, líkt og Haugsnesfundur árið 1246."
+  },
+  "vissir_thu": "Simpson-fjölskyldan birtist fyrst sem persónur í stuttum innskotum í The Tracey Ullman Show, áður en hún fékk eigin sjónvarpsþætti.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir byltingaranda ársins 1775 og vill helst hefja þrjú verkefni fyrir hádegi. Mundu þó að jafnvel geimstöð þarf traustan skotpall — fáðu þér kaffi og lestu smáa letrið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1775",
+    "texti": "Bandaríska frelsisstríðið hófst með orrustunum við Lexington og Concord í Massachusetts. Skotin þar urðu upphafið að byltingu sem breytti gangi heimssögunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

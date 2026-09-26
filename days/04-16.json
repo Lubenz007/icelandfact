@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-16",
+  "dagur": 16,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "05:53",
+  "sunset": "21:03",
+  "kvedja": "Góðan 16. apríl! Í dag fljúgum við yfir Ermarsund með Harriet Quimby, lítum inn í fangaklefa Martins Luther King og fögnum komu Gullfoss til Reykjavíkur — allt án þess að týna hattinum. Sagan kann sannarlega að halda mörgum boltum á lofti í einu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "69",
+      "texti": "Rómverski keisarinn Otho svipti sig lífi eftir ósigur gegn hersveitum Vitelliusar við Bedriacum. Keisarastarfið í Róm var þetta ár álíka öruggt og sæti á þrífættum kolli."
+    },
+    {
+      "ar": "1520",
+      "texti": "Íbúar Toledo í Kastilíu hófu uppreisn gegn stjórn Karls 1. þegar konungsvaldið reyndi að víkja róttækum borgarfulltrúum úr embætti."
+    },
+    {
+      "ar": "1862",
+      "texti": "Þrælahald var afnumið í Washingtonborg þegar lög um frelsun þræla gegn bótum tóku gildi."
+    },
+    {
+      "ar": "1963",
+      "texti": "Martin Luther King yngri skrifaði Bréfið úr Birmingham-fangelsinu og varði þar friðsamlega andspyrnu gegn kynþáttamisrétti."
+    },
+    {
+      "ar": "2014",
+      "texti": "Suður-kóreska ferjan MV Sewol hvolfdi og sökk undan Donggeochado. Alls létust 306, flestir þeirra nemendur úr Danwon-framhaldsskólanum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1899",
+      "texti": "Franska spítalaskipið St. Paul strandaði við Meðalland.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1915",
+      "texti": "Gullfoss, fyrsta skip Eimskipafélags Íslands og fyrsta vélknúna millilandaskipið sem smíðað var fyrir Íslendinga, kom til Reykjavíkur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1954",
+      "texti": "AA-samtökin á Íslandi voru stofnuð.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1957",
+      "texti": "Bæjarráð Reykjavíkur samþykkti að friða Árbæ og næsta nágrenni hans og gera svæðið að almenningsgarði.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anya Taylor-Joy",
+      "starfsgrein": "leikkona",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Bill Belichick",
+      "starfsgrein": "þjálfari í amerískum fótbolta",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Akon",
+      "starfsgrein": "söngvari og rappari",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Aaron Lennon",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Anatole France",
+      "starfsgrein": "rithöfundur og nóbelsskáld",
+      "ar": "1844"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðjón Samúelsson",
+      "starfsgrein": "húsameistari ríkisins",
+      "ar": "1887"
+    },
+    {
+      "nafn": "Anna Kolbrún Árnadóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Sigurður Guðmundsson",
+      "starfsgrein": "vígslubiskup",
+      "ar": "1920"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar skrifaði Martin Luther King yngri hið fræga bréf sitt árið 1963?",
+      "svor": [
+        "Í Birmingham-fangelsinu",
+        "Í Hvíta húsinu",
+        "Í Toledo",
+        "Um borð í Gullfossi"
+      ],
+      "rett": 0,
+      "skyring": "Bréfið úr Birmingham-fangelsinu varð áhrifamikil vörn fyrir friðsamlegri andspyrnu."
+    },
+    {
+      "spurning": "Hvaða skip kom til Reykjavíkur 16. apríl 1915?",
+      "svor": [
+        "St. Paul",
+        "Gullfoss",
+        "MV Sewol",
+        "Katina P"
+      ],
+      "rett": 1,
+      "skyring": "Gullfoss var fyrsta skip Eimskipafélags Íslands og vakti því verðskuldaða athygli."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er þekkt fyrir þjálfun í amerískum fótbolta?",
+      "svor": [
+        "Akon",
+        "Aaron Lennon",
+        "Bill Belichick",
+        "Anatole France"
+      ],
+      "rett": 2,
+      "skyring": "Bill Belichick er þjálfarinn í hópnum; hinir mega þó gjarnan mæta á æfingu."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Let's Dance – David Bowie (1983)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "árdegi",
+    "skyring": "Árdegi er fyrri hluti dags, frá morgni og fram að hádegi."
+  },
+  "vissir_thu": "Harriet Quimby varð 16. apríl 1912 fyrsta konan til að fljúga yfir Ermarsund.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir hetjumóði sem gæti dugað til að fljúga yfir Ermarsund — eða að minnsta kosti ganga frá því sem hefur setið á hakanum. Stilltu þó ákafanum í hóf; ekki þarf hver kaffibolli að verða uppreisn í Toledo.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Roman_Empire_69.svg/500px-Roman_Empire_69.svg.png",
+    "ar": "69",
+    "texti": "Rómverski keisarinn Otho svipti sig lífi eftir ósigur gegn hersveitum Vitelliusar við Bedriacum. Keisarastarfið í Róm var þetta ár álíka öruggt og sæti á þrífættum kolli.",
+    "heimild": "https://en.wikipedia.org/wiki/AD_69",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
