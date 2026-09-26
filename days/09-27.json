@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-27",
+  "dagur": 27,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:23",
+  "sunset": "19:11",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 27. september! Í dag leggjum við af stað með fyrstu gufulestinni, ráðum rúnir faraóanna og endum hjá GNU — því sagan kann svo sannarlega að skipta um gír.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1422",
+      "texti": "Melno-samningurinn var undirritaður og markaði landamæri Prússlands og Litáens. Mörkin héldust nær óbreytt í um 500 ár, sem telst óvenjulega langur líftími fyrir strik á stjórnmálakorti."
+    },
+    {
+      "ar": "1822",
+      "texti": "Jean-François Champollion tilkynnti fyrstu árangursríku skrefin við að ráða egypsku myndletrið á Rósettusteininum. Þar með tóku fornir faraóar loksins að tala við nútímann."
+    },
+    {
+      "ar": "1908",
+      "texti": "Fyrsti Ford Model T-bíllinn var fullgerður í Detroit. Bíllinn átti stóran þátt í að gera einkabíla að almenningseign í Bandaríkjunum — og umferðarteppur að framtíðarverkefni."
+    },
+    {
+      "ar": "1983",
+      "texti": "Richard Stallman kynnti áform sín um GNU, frjálst Unix-líkt stýrikerfi. Tilkynningin varð eitt af upphafsskrefum frjálsrar hugbúnaðarhreyfingar."
+    },
+    {
+      "ar": "2014",
+      "texti": "Eldfjallið Ontake í miðhluta Japans gaus óvænt og 63 létust. Gosið var mannskæðasta eldgos í Japan í meira en heila öld."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1264",
+      "texti": "Þórður Andrésson, goðorðsmaður á Völlum á Rangárvöllum, var veginn af mönnum Gissurar Þorvaldssonar jarls. Eftir dauða sinn var Þórður nefndur síðasti Oddaverjinn.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1922",
+      "texti": "Fyrsta íslenska myntin fór í dreifingu í Reykjavík: 10 aura og 25 aura peningar. Krónupeningurinn lét hins vegar bíða eftir sér til ársins 1925.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Menningar- og minningarsjóður kvenna var stofnaður á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2002",
+      "texti": "Skálinn, viðbygging við Alþingishúsið, var vígður í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Avril Lavigne",
+      "starfsgrein": "kanadísk söngkona og lagahöfundur",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Anna Camp",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Cosimo de' Medici",
+      "starfsgrein": "ítalskur valdhafi og listverndari",
+      "ar": "1389"
+    },
+    {
+      "nafn": "Agustín de Iturbide",
+      "starfsgrein": "mexíkóskur hermaður og keisari",
+      "ar": "1783"
+    },
+    {
+      "nafn": "Arthur Penn",
+      "starfsgrein": "bandarískur kvikmyndaleikstjóri",
+      "ar": "1922"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bríet Bjarnhéðinsdóttir",
+      "starfsgrein": "ritstjóri og kvenréttindafrömuður",
+      "ar": "1856"
+    },
+    {
+      "nafn": "Jón Steinar Gunnlaugsson",
+      "starfsgrein": "lögmaður og fyrrverandi hæstaréttardómari",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Guðrún Nordal",
+      "starfsgrein": "íslenskufræðingur",
+      "ar": "1960"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða farartæki var fullgert í fyrsta sinn 27. september 1908?",
+      "svor": [
+        "Ford Model T",
+        "Volkswagen Bjalla",
+        "Rolls-Royce Silver Ghost",
+        "Citroën 2CV"
+      ],
+      "rett": 0,
+      "skyring": "Ford Model T rann inn í söguna árið 1908 og hjálpaði til við að koma almenningi undir stýri."
+    },
+    {
+      "spurning": "Hvaða íslenska brautryðjandi kvenréttinda fæddist þennan dag árið 1856?",
+      "svor": [
+        "Vigdís Finnbogadóttir",
+        "Bríet Bjarnhéðinsdóttir",
+        "Auður Auðuns",
+        "Ingibjörg H. Bjarnason"
+      ],
+      "rett": 1,
+      "skyring": "Bríet Bjarnhéðinsdóttir var einn áhrifamesti frumkvöðull íslenskrar kvenréttindabaráttu."
+    },
+    {
+      "spurning": "Hvað kynnti Richard Stallman árið 1983?",
+      "svor": [
+        "Google",
+        "Ford Model T",
+        "GNU-verkefnið",
+        "Rósettusteininn"
+      ],
+      "rett": 2,
+      "skyring": "GNU var stórt skref í átt að hugbúnaði sem notendur mættu nota, rannsaka, breyta og deila."
+    }
+  ],
+  "tonlistUSA": "Shake Ya Tailfeather – Nelly, P. Diddy og Murphy Lee (2003)",
+  "tonlistUK": "Don't Leave Me This Way – The Communards (1986)",
+  "bio": "The Shawshank Redemption (1994)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er dauf birta eða rökkur, þegar dagur og nótt virðast semja um vaktaskipti."
+  },
+  "vissir_thu": "Landamærin sem Melno-samningurinn markaði árið 1422 héldust nær óbreytt í um 500 ár.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur skálin sé full af skyldum og hin af tertu. Segðu já við góðu samtali, en nei við því að stofna þitt eigið keisaradæmi fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Teutonic_Order_1410.png/500px-Teutonic_Order_1410.png",
+    "ar": "1422",
+    "texti": "Melno-samningurinn var undirritaður og markaði landamæri Prússlands og Litáens. Mörkin héldust nær óbreytt í um 500 ár, sem telst óvenjulega langur líftími fyrir strik á stjórnmálakorti.",
+    "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Melno",
+    "breidd": 330,
+    "haed": 287
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

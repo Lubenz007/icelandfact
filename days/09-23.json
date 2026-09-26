@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-23",
+  "dagur": 23,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:12",
+  "sunset": "19:26",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 23. september leiðir okkur frá valdatafli miðalda til Firefox og rokks Bruce Springsteen — enda kann sagan sjaldnast að sitja kyrr. Vogin heldur jafnvæginu á meðan við reynum að gera slíkt hið sama, með sögulegt glott í öðru munnvikinu.",
+  "nafnadagur": "Snorri",
+  "atburdir": [
+    {
+      "ar": "1122",
+      "texti": "Kallistus II páfi og Hinrik V keisari gerðu Wormssamkomulagið og bundu þar með enda á langvarandi deilur um hver mætti skipa biskupa. Miðaldastjórnmál voru stundum eins og þrætubók, nema með mítur og veldissprota."
+    },
+    {
+      "ar": "1642",
+      "texti": "Orrustan við Powick Bridge, fyrstu átök helstu herja konungssinna og þingmanna í ensku borgarastyrjöldinni, lauk með sigri konungssinna."
+    },
+    {
+      "ar": "1780",
+      "texti": "Breski liðsforinginn John André var handtekinn af bandarískum föðurlandsvinum og þá komst upp um ráðabrugg Benedict Arnold um að afhenda Bretum West Point."
+    },
+    {
+      "ar": "1952",
+      "texti": "Richard Nixon flutti svonefnda Checkers-ræðu í sjónvarpi og höfðaði beint til bandarísks almennings. Með ræðunni varð sjónvarpið að öflugu pólitísku vopni — og hundurinn Checkers að óvæntri aukapersónu."
+    },
+    {
+      "ar": "2002",
+      "texti": "Mozilla Organization gaf út fyrstu útgáfu vafrans sem síðar varð þekktur sem Firefox. Refurinn var þar með kominn á kreik um veraldarvefinn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1241",
+      "texti": "Snorri Sturluson, skáld, rithöfundur, goðorðsmaður og lögsögumaður, var veginn í Reykholti í Borgarfirði.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1906",
+      "texti": "Hornsteinn var lagður að húsi Landsbókasafnsins á Arnarhólstúni í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1973",
+      "texti": "Leifar fellibylsins Ellenar gengu yfir Suðvesturland og ollu miklu tjóni á húsum, bátum og bílum; í Reykjavík náði vindhraðinn 200 kílómetrum á klukkustund.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1993",
+      "texti": "Nýr flugvöllur var tekinn í notkun á Egilsstöðum, með 2.000 metra langri flugbraut. Framkvæmdin kostaði 790 milljónir króna.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bruce Springsteen",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Ágústus",
+      "starfsgrein": "Rómarkeisari",
+      "ar": "63 f.Kr."
+    },
+    {
+      "nafn": "Anthony Mackie",
+      "starfsgrein": "leikari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Aldo Moro",
+      "starfsgrein": "fræðimaður og stjórnmálamaður",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Alfieri Maserati",
+      "starfsgrein": "kappakstursmaður og verkfræðingur",
+      "ar": "1887"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Ágústsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Inga Lára Lárusdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1883"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða vafri birtist í sinni fyrstu útgáfu árið 2002?",
+      "svor": [
+        "Firefox",
+        "Safari",
+        "Opera",
+        "Chrome"
+      ],
+      "rett": 0,
+      "skyring": "Mozilla Organization gaf út fyrstu útgáfu Firefox 23. september 2002."
+    },
+    {
+      "spurning": "Hvar var Snorri Sturluson veginn árið 1241?",
+      "svor": [
+        "Á Þingvöllum",
+        "Í Reykholti",
+        "Á Hólum",
+        "Í Skálholti"
+      ],
+      "rett": 1,
+      "skyring": "Snorri var veginn í Reykholti í Borgarfirði, þar sem sagan fékk sérlega dapurlegan endi."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er gjarnan kallað „The Boss“?",
+      "svor": [
+        "Anthony Mackie",
+        "Alfieri Maserati",
+        "Bruce Springsteen",
+        "Aldo Moro"
+      ],
+      "rett": 2,
+      "skyring": "Bruce Springsteen ber viðurnefnið „The Boss“, þótt hann hafi sjálfur ekki verið sérlega hrifinn af því."
+    }
+  ],
+  "tonlistUSA": "Missing You – John Waite (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "The Shawshank Redemption (1994)",
+  "ord_dagsins": {
+    "ord": "veðurhamur",
+    "skyring": "Veðurhamur er ákaflega vont eða ofsafengið veður."
+  },
+  "vissir_thu": "Ágústus, sem fæddist þennan dag árið 63 f.Kr., var fyrsti keisari Rómaveldis.",
+  "stjornuspa": "Vogin finnur í dag fullkomið jafnvægi milli skyldurækni og þess að setja góða plötu á fóninn. Forðastu þó pólitískar sjónvarpsræður fyrir hádegi — þær geta ruggað vogarskálunum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Calixtus_II.jpg/330px-Calixtus_II.jpg",
+    "ar": "1122",
+    "texti": "Kallistus II páfi og Hinrik V keisari gerðu Wormssamkomulagið og bundu þar með enda á langvarandi deilur um hver mætti skipa biskupa. Miðaldastjórnmál voru stundum eins og þrætubók, nema með mítur og veldissprota.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Callixtus_II",
+    "breidd": 330,
+    "haed": 551
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

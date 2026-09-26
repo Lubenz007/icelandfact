@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-25",
+  "dagur": 25,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:18",
+  "sunset": "19:19",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 25. september! Í dag röltum við frá víkingabardaga og risafuruskógum yfir í jafnréttisbaráttu, stangarstökksbrons og afmæli leikara — sagan kann sannarlega að pakka vel í ferðatöskuna.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1066",
+      "texti": "Harold Godwinson sigraði Harald harðráða Noregskonung og bandamann hans, Tostig Godwinson, í orrustunni við Stafnfurðubryggju. Þar með lauk síðustu innrás Norðmanna í Bretlandseyjar — og víkingaöldin fékk heldur dramatísk lok."
+    },
+    {
+      "ar": "1237",
+      "texti": "Hinrik III Englandskonungur og Alexander II Skotakonungur undirrituðu York-sáttmálann. Þar voru landamæri Englands og Skotlands ákveðin og hafa þau að mestu haldist óbreytt síðan, sem telst býsna gott langtímasamkomulag."
+    },
+    {
+      "ar": "1790",
+      "texti": "Pekingóperan varð til þegar fjórir frægir leikhópar frá Anhui komu til Beijing í tilefni af áttræðisafmæli Qianlong-keisara. Afmælisveislan reyndist þannig dálítið áhrifameiri en hefðbundið kaffi og kringla."
+    },
+    {
+      "ar": "1890",
+      "texti": "Sequoia-þjóðgarðurinn var stofnaður í Kaliforníu til að vernda risafurur á svæði þar sem skógarhögg hafði sótt að þeim. Trén þar minna mann óþyrmilega á að sumir gestir sögunnar voru komnir löngu á undan okkur."
+    },
+    {
+      "ar": "1957",
+      "texti": "Bandarískir hermenn fylgdu níu svörtum nemendum inn í Central High School í Little Rock í Arkansas þegar skólinn var afkynþáttaaðgreindur. Dagurinn varð eitt þekktasta tákn bandarísku réttindabaráttunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1654",
+      "texti": "Grímur Jónsson var brenndur á báli fyrir galdur í Trékyllisvík á Ströndum. Fimm dögum fyrr höfðu Þórður Guðbrandsson og Egill Bjarnason hlotið sömu örlög þar.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1850",
+      "texti": "Fyrsta heildarlöggjöf Íslands um erfðir tók gildi og samkvæmt henni skyldu dætur njóta sama erfðaréttar og synir. Þar steig löggjöfin mikilvægt skref í átt að jafnrétti.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1975",
+      "texti": "Lagarfossvirkjun var vígð og við gangsetningu hennar tvöfaldaðist raforkuframleiðsla í Austfirðingafjórðungi. Það hefur eflaust verið upplýsandi dagur í bókstaflegri merkingu.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "2000",
+      "texti": "Vala Flosadóttir vann bronsverðlaun í stangarstökki á Ólympíuleikunum í Sydney. Með því stökk hún rakleitt inn í íslenska íþróttasögu.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bella Ramsey",
+      "starfsgrein": "leikari",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Barbara Walters",
+      "starfsgrein": "sjónvarpsfréttamaður og þáttastjórnandi",
+      "ar": "1929"
+    },
+    {
+      "nafn": "bell hooks",
+      "starfsgrein": "rithöfundur og aðgerðasinni",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Aida Turturro",
+      "starfsgrein": "leikkona",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Adolfo Suárez",
+      "starfsgrein": "lögmaður og stjórnmálamaður",
+      "ar": "1932"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bera Nordal",
+      "starfsgrein": "listfræðingur",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Gestur Pálsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1852"
+    },
+    {
+      "nafn": "Helgi Tómasson",
+      "starfsgrein": "læknir",
+      "ar": "1896"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða norski konungur féll í orrustunni við Stafnfurðubryggju árið 1066?",
+      "svor": [
+        "Haraldur harðráði",
+        "Alexander II",
+        "Hinrik III",
+        "Qianlong-keisari"
+      ],
+      "rett": 0,
+      "skyring": "Haraldur harðráði féll í orrustunni, sem markaði lok síðustu innrásar Norðmanna í Bretlandseyjar."
+    },
+    {
+      "spurning": "Hvaða afrek vann Vala Flosadóttir á Ólympíuleikunum í Sydney árið 2000?",
+      "svor": [
+        "Gull í hástökki",
+        "Silfur í langstökki",
+        "Brons í stangarstökki",
+        "Brons í spjótkasti"
+      ],
+      "rett": 2,
+      "skyring": "Vala vann brons í stangarstökki og lyfti um leið íslenskri frjálsíþróttasögu í hæstu hæðir."
+    },
+    {
+      "spurning": "Hvað var Sequoia-þjóðgarðinum ætlað að vernda þegar hann var stofnaður árið 1890?",
+      "svor": [
+        "Kóralrif",
+        "Risafurur",
+        "Jökla",
+        "Villta vísunda"
+      ],
+      "rett": 1,
+      "skyring": "Garðurinn var stofnaður til að vernda risafurur gegn ágangi skógarhöggs."
+    }
+  ],
+  "tonlistUSA": "Abracadabra – Steve Miller Band (1982)",
+  "tonlistUK": "Eye of the Tiger – Survivor (1982)",
+  "bio": "The Princess Bride (1987)",
+  "ord_dagsins": {
+    "ord": "árroði",
+    "skyring": "Árroði er rauðleitur bjarmi á himni við sólarupprás."
+  },
+  "vissir_thu": "Landamærin sem England og Skotland sömdu um í York-sáttmálanum árið 1237 eru að mestu enn hin sömu í dag.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skylduverka og þess að setja gamla plötu á fóninn. Varastu þó að verja hálfum deginum í að velja lag — ákvörðunarfælni er ekki sama og vandvirkni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bayeux_tapestry_stitches_detail..jpg/500px-Bayeux_tapestry_stitches_detail..jpg",
+    "ar": "1066",
+    "texti": "Harold Godwinson sigraði Harald harðráða Noregskonung og bandamann hans, Tostig Godwinson, í orrustunni við Stafnfurðubryggju. Þar með lauk síðustu innrás Norðmanna í Bretlandseyjar — og víkingaöldin fékk heldur dramatísk lok.",
+    "heimild": "https://en.wikipedia.org/wiki/Harold_Godwinson",
+    "breidd": 330,
+    "haed": 278
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

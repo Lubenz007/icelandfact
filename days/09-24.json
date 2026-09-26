@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-24",
+  "dagur": 24,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:15",
+  "sunset": "19:22",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 24. september sveiflast sagan frá samúræjum og hæstaréttardómurum yfir í mjólkurverð og fyrstu skurðaðgerð Borgarspítalans — sem sannar að fortíðin kann bæði að sveifla sverði og senda reikning. Vogin ræður deginum, svo við skulum vega og meta allt saman með bros á vör.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1568",
+      "texti": "Við San Juan de Ulúa, þar sem nú er Veracruz í Mexíkó, neyddi spænskur floti enska sjóræningja í þjónustu krúnunnar til að hætta verslun sinni. Alþjóðaviðskipti voru greinilega ekki alltaf leyst með fundargerðum og kaffibollum."
+    },
+    {
+      "ar": "1789",
+      "texti": "Bandarísku réttarfarslögin voru undirrituð og lögðu grunninn að alríkisdómstólakerfi landsins. Jafnframt var ákveðið að sex dómarar skyldu sitja í Hæstarétti Bandaríkjanna."
+    },
+    {
+      "ar": "1877",
+      "texti": "Í orrustunni við Shiroyama vann keisaraher Japans lokasigur á uppreisnarmönnum frá Satsuma undir stjórn Saigō Takamori. Þar með lauk Satsuma-uppreisninni og síðasti stóri bardagi samúræjanna varð að sögu."
+    },
+    {
+      "ar": "1964",
+      "texti": "Warren-nefndin afhenti forseta Bandaríkjanna skýrslu sína um morðið á John F. Kennedy. Niðurstaðan var að Lee Harvey Oswald hefði verið einn að verki."
+    },
+    {
+      "ar": "2019",
+      "texti": "Hæstiréttur Bretlands komst einróma að þeirri niðurstöðu að ráð Boris Johnson forsætisráðherra til Elísabetar II um að fresta þingstörfum hefði verið ólögmætt. Ellefu dómarar voru sammála — sem telst nánast kraftaverk í stjórnmálum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1963",
+      "texti": "Mjólkurvörur hækkuðu um 25 prósent, mesta hækkun sem þá var vitað um, og daginn eftir hækkuðu kjötvörur um þriðjung. Þrátt fyrir það mældist verðbólga á ársgrundvelli „aðeins“ 14 prósent.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1968",
+      "texti": "Fyrsta skurðaðgerðin var framkvæmd á Borgarspítalanum og Friðrik Einarsson yfirlæknir hélt á hnífnum. Tuttugu og fimm árum síðar var tímamótanna minnst með opnun nýrrar skurðstofu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1979",
+      "texti": "Fjölbrautaskóli Norðurlands vestra var settur á Sauðárkróki. Þar með bættist ný og mikilvæg menntastofnun við skólaflóru Norðurlands.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1993",
+      "texti": "Samtök iðnaðarins voru stofnuð í Reykjavík og tóku við hlutverki sex félaga úr íslenskum iðnaði. Það má kalla sameiningu með skrúfjárn, reiknivél og framtíðarsýn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Platt",
+      "starfsgrein": "leikari, söngvari og lagahöfundur",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Ally McCoist",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Anthony Newley",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Albrecht von Wallenstein",
+      "starfsgrein": "hershöfðingi",
+      "ar": "1583"
+    },
+    {
+      "nafn": "Ashton B. Carter",
+      "starfsgrein": "embættismaður og fræðimaður",
+      "ar": "1954"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Finnbogi Rútur Valdimarsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1906"
+    },
+    {
+      "nafn": "Gestur Guðfinnsson",
+      "starfsgrein": "blaðamaður",
+      "ar": "1910"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppreisn lauk með orrustunni við Shiroyama árið 1877?",
+      "svor": [
+        "Satsuma-uppreisninni",
+        "Boxarauppreisninni",
+        "Sepoy-uppreisninni",
+        "Taiping-uppreisninni"
+      ],
+      "rett": 0,
+      "skyring": "Shiroyama var lokabardagi Satsuma-uppreisnarinnar og ósigur samúræja Saigō Takamori."
+    },
+    {
+      "spurning": "Hver framkvæmdi fyrstu skurðaðgerðina á Borgarspítalanum árið 1968?",
+      "svor": [
+        "Finnbogi Rútur Valdimarsson",
+        "Friðrik Einarsson",
+        "Gestur Guðfinnsson",
+        "Ally McCoist"
+      ],
+      "rett": 1,
+      "skyring": "Friðrik Einarsson yfirlæknir framkvæmdi aðgerðina — Ally McCoist hélt sig sem betur fer við fótboltann."
+    },
+    {
+      "spurning": "Hvað áttu Warren-nefndin og Lee Harvey Oswald sameiginlegt í fréttum dagsins árið 1964?",
+      "svor": [
+        "Nefndin skipaði hann dómara",
+        "Nefndin taldi hann hafa myrt John F. Kennedy einn síns liðs",
+        "Nefndin rannsakaði gullmarkaðinn",
+        "Nefndin sýknaði hann af öllum grun"
+      ],
+      "rett": 1,
+      "skyring": "Skýrsla Warren-nefndarinnar komst að þeirri niðurstöðu að Oswald hefði verið einn að verki."
+    }
+  ],
+  "tonlistUSA": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "jafndægur",
+    "skyring": "Jafndægur er sá tími árs þegar dagur og nótt eru um það bil jafn löng."
+  },
+  "vissir_thu": "Bandaríski Hæstirétturinn hafði upphaflega sex dómara samkvæmt réttarfarslögunum frá 1789, en í dag eru þeir níu.",
+  "stjornuspa": "Vogin finnur jafnvægið milli þess að taka skynsamlega ákvörðun og að fresta henni þar til allir hafa fengið kaffi. Gamalt bréf eða óvænt símtal gæti hreyft við deginum — svaraðu með þeirri reisn sem sæmir sendiherra árið 1974.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Tvr%C4%91ava_u_Veracruzu.jpg/500px-Tvr%C4%91ava_u_Veracruzu.jpg",
+    "ar": "1568",
+    "texti": "Við San Juan de Ulúa, þar sem nú er Veracruz í Mexíkó, neyddi spænskur floti enska sjóræningja í þjónustu krúnunnar til að hætta verslun sinni. Alþjóðaviðskipti voru greinilega ekki alltaf leyst með fundargerðum og kaffibollum.",
+    "heimild": "https://en.wikipedia.org/wiki/San_Juan_de_Ulúa",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

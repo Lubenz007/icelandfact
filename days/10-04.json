@@ -1,0 +1,132 @@
+{
+  "mmdd": "10-04",
+  "dagur": 4,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:44",
+  "sunset": "18:47",
+  "kvedja": "Góðan 4. október! Í dag leggjum við af stað frá logandi skipum á Poyang-vatni, komum við í fyrsta kennsludegi Háskóla Íslands og endum hjá Buster Keaton, sem hefði líklega tekið öllu saman með steinrunnu andliti. Haltu kaffinu heitu og forvitninni enn heitari.",
+  "nafnadagur": "Frans",
+  "atburdir": [
+    {
+      "ar": "1363",
+      "texti": "Zhu Yuanzhang vann orrustuna á Poyang-vatni í uppreisn rauðu vefjarhattanna með því að senda viljandi logandi skip gegn óvininum. Þetta var sjóhernaður þar sem brunavarnir hefðu sannarlega átt fullt í fangi."
+    },
+    {
+      "ar": "1633",
+      "texti": "Herir pólsk-litháíska samveldisins rufu umsátur Rússa um Smolensk í Smolenskstríðinu."
+    },
+    {
+      "ar": "1876",
+      "texti": "Texas A&M-háskólinn tók til starfa sem fyrsta opinbera háskólastofnunin í Texas."
+    },
+    {
+      "ar": "1927",
+      "texti": "Gutzon Borglum og um 400 verkamenn hófu að höggva Mount Rushmore í fjallið. Verkefnið varð öllu viðameira en hefðbundin brjóstmynd á stofuhillu."
+    },
+    {
+      "ar": "1943",
+      "texti": "Í síðari heimsstyrjöldinni gerðu bandamenn Operation Leader, loftárás á þýskar skipaferðir nærri Bodø í Noregi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1911",
+      "texti": "Kennsla hófst í Háskóla Íslands og þar með tók íslenskt háskólastarf formlega til óspilltra málanna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1970",
+      "texti": "Rauðsokkahreyfingin var stofnuð á Íslandi og varð áhrifamikill kraftur í íslenskri jafnréttisbaráttu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Fjölbrautaskólinn í Breiðholti hóf starfsemi sína.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1984",
+      "texti": "Allsherjarverkfall BSRB hófst og stóð til 30. október. Skólar lokuðust, strætisvagnar hættu að ganga og lítið heyrðist frá Ríkisútvarpinu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alicia Silverstone",
+      "starfsgrein": "leikari, framleiðandi og höfundur",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Caitríona Balfe",
+      "starfsgrein": "leikari",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Anne Rice",
+      "starfsgrein": "rithöfundur",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Buster Keaton",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1895"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjall hófu Gutzon Borglum og verkamenn hans að höggva árið 1927?",
+      "svor": [
+        "Mount Rushmore",
+        "Mont Blanc",
+        "Kilimanjaro",
+        "Snæfellsjökul"
+      ],
+      "rett": 0,
+      "skyring": "Mount Rushmore varð að risastóru forsetagalleríi í graníti."
+    },
+    {
+      "spurning": "Hvaða íslenski skóli hóf kennslu 4. október 1911?",
+      "svor": [
+        "Menntaskólinn á Akureyri",
+        "Háskóli Íslands",
+        "Háskólinn á Bifröst",
+        "Listaháskóli Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Háskóli Íslands hóf kennslu þennan dag árið 1911."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn varð frægt fyrir steinrunnið svipmót í þöglum gamanmyndum?",
+      "svor": [
+        "Anne Rice",
+        "Alicia Silverstone",
+        "Buster Keaton",
+        "Caitríona Balfe"
+      ],
+      "rett": 2,
+      "skyring": "Buster Keaton gat látið áhorfendur veltast um af hlátri án þess að bregða svip."
+    }
+  ],
+  "tonlistUSA": "Macarena – Los del Río (1996)",
+  "tonlistUK": "Breakfast at Tiffany's – Deep Blue Something (1996)",
+  "bio": "Joker (2019)",
+  "ord_dagsins": {
+    "ord": "morgungjöf",
+    "skyring": "Gjöf sem brúðgumi gaf brúði sinni morguninn eftir brúðkaup samkvæmt eldri sið."
+  },
+  "vissir_thu": "Mount Rushmore var höggvið í granítfjall og vinna við minnismerkið hófst 4. október 1927.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að fá sér aðra kökusneið. Venus ráðleggur þér að taka stóra ákvörðun með reisn, en ekki fyrr en kaffið er komið í bollann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Red_Turban.png/500px-Red_Turban.png",
+    "ar": "1363",
+    "texti": "Zhu Yuanzhang vann orrustuna á Poyang-vatni í uppreisn rauðu vefjarhattanna með því að senda viljandi logandi skip gegn óvininum. Þetta var sjóhernaður þar sem brunavarnir hefðu sannarlega átt fullt í fangi.",
+    "heimild": "https://en.wikipedia.org/wiki/Red_Turban_Rebellions",
+    "breidd": 330,
+    "haed": 233
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

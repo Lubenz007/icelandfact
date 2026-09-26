@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-03",
+  "dagur": 3,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:41",
+  "sunset": "18:50",
+  "kvedja": "Komdu sæl og blessaður á þessum viðburðaríka 3. október! Dagurinn sveiflast frá furstadæminu Granada og leyndardómi Edgars Allans Poe yfir í íslenska heimastjórn, óperusöng og fótboltasnilld Zlatans — sannkölluð Vog, sem vill hafa allt í jafnvægi, helst með dálitlum tilþrifum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1392",
+      "texti": "Muhammad VII varð tólfti soldán furstadæmisins Granada. Þar með tók hann við einu síðasta vígi múslima á Íberíuskaga."
+    },
+    {
+      "ar": "1849",
+      "texti": "Bandaríski rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar."
+    },
+    {
+      "ar": "1952",
+      "texti": "Bretland framkvæmdi fyrstu kjarnorkutilraun sína og varð þar með þriðja kjarnorkuvopnaríki heims. Það var heldur óhugnanleg innkoma í afar fámennan klúbb."
+    },
+    {
+      "ar": "1991",
+      "texti": "Nadine Gordimer varð fyrst Suður-Afríkubúa til að hljóta Nóbelsverðlaunin í bókmenntum. Verk hennar fjölluðu meðal annars af mikilli skerpu um aðskilnaðarstefnuna í heimalandinu."
+    },
+    {
+      "ar": "2013",
+      "texti": "Bátur með farandfólk á leið frá Líbíu til Ítalíu sökk undan eyjunni Lampedusa. Meira en 360 manns létust í þessum skelfilega harmleik."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1903",
+      "texti": "Danakonungur samþykkti ákvörðun danska þingsins um heimastjórn á Íslandi. Sama dag var ákveðið að skjaldarmerki landsins skyldi sýna hvítan íslenskan fálka á bláum grunni.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1927",
+      "texti": "Olíuverzlun Íslands, sem síðar varð Olís, var stofnuð. Þar hófst saga fyrirtækis sem Íslendingar áttu síðar eftir að tengja jafnt við eldsneyti sem skyndibita á ferðalögum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1973",
+      "texti": "Í þorskastríðunum yfirgáfu bresk herskip 50 sjómílna fiskveiðilögsögu Íslands. Samkomulag við Breta fylgdi svo um miðjan október.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1980",
+      "texti": "Íslenska óperan var formlega stofnuð. Þar með fékk óperulistin traustari heimahöfn hér á landi — og dramatíkin gat loksins verið sungin af fullum krafti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alicia Vikander",
+      "starfsgrein": "sænsk leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Gwen Stefani",
+      "starfsgrein": "bandarísk söngkona, lagahöfundur og fatahönnuður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Lena Headey",
+      "starfsgrein": "bresk leikkona",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Zlatan Ibrahimović",
+      "starfsgrein": "sænskur knattspyrnumaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Stevie Ray Vaughan",
+      "starfsgrein": "bandarískur gítarleikari og söngvari",
+      "ar": "1954"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Stephan G. Stephansson",
+      "starfsgrein": "skáld",
+      "ar": "1853"
+    },
+    {
+      "nafn": "Filippía Kristjánsdóttir",
+      "starfsgrein": "skáldkona",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Pétur Pétursson",
+      "starfsgrein": "biskup",
+      "ar": "1808"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar fannst Edgar Allan Poe ruglaður og hálfmeðvitundarlaus árið 1849?",
+      "svor": [
+        "Baltimore",
+        "Boston",
+        "New York",
+        "Philadelphia"
+      ],
+      "rett": 0,
+      "skyring": "Poe fannst í Baltimore, en kringumstæður síðustu daga hans eru enn sveipaðar myrkri sem hæfir sögum hans óþægilega vel."
+    },
+    {
+      "spurning": "Hvaða Íslendingur fékk heimastjórn samþykkta sem afmælisgjöf 3. október 1903?",
+      "svor": [
+        "Íslenska óperan",
+        "Íslenska þjóðin",
+        "Olíuverzlun Íslands",
+        "Landhelgisgæslan"
+      ],
+      "rett": 1,
+      "skyring": "Ákvörðunin um heimastjórn varðaði landið allt og markaði stórt skref í sjálfstæðisbaráttunni."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er þekktur fyrir knattspyrnu?",
+      "svor": [
+        "Stevie Ray Vaughan",
+        "Lena Headey",
+        "Zlatan Ibrahimović",
+        "Gwen Stefani"
+      ],
+      "rett": 2,
+      "skyring": "Zlatan Ibrahimović gerði garðinn frægan á knattspyrnuvellinum — og var sjaldan feiminn við að minna fólk á það."
+    }
+  ],
+  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUK": "Prince Charming – Adam and the Ants (1981)",
+  "bio": "Mean Girls (2004)",
+  "ord_dagsins": {
+    "ord": "orðheppinn",
+    "skyring": "Sá sem er orðheppinn á auðvelt með að finna viðeigandi, skemmtileg eða snjöll orð."
+  },
+  "vissir_thu": "Bretland varð þriðja ríki heims til að eignast kjarnorkuvopn þegar það framkvæmdi fyrstu kjarnorkutilraun sína árið 1952.",
+  "stjornuspa": "Vogin finnur gamalt vasadagatalið, setur vínilplötu á fóninn og reynir að sætta tvo vini sem rífast um hvor hlið kassettunnar sé betri. Láttu jafnvægisskynið ráða, en mundu að jafnvel þú þarft ekki að bera axlapúða beggja vegna.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+    "ar": "1849",
+    "texti": "Bandaríski rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar.",
+    "heimild": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+    "breidd": 330,
+    "haed": 464
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

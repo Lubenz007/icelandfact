@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-05",
+  "dagur": 5,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:46",
+  "sunset": "18:43",
+  "kvedja": "Góðan 5. október, kæri lesandi! Í dag göngum við frá Versölum að Miðnesheiði, með viðkomu hjá Bítlunum og James Bond — sannkallaður sögulegur rúntur með glotti í baksýnisspeglinum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "869",
+      "texti": "Fjórða kirkjuþingið í Konstantínópel var sett til að ræða stöðu Fótíosar 1. patríarka. Þingið er talið áttunda almenna kirkjuþing kaþólsku kirkjunnar."
+    },
+    {
+      "ar": "1789",
+      "texti": "Þúsundir Parísarkvenna og samherja þeirra gengu til Versala vegna brauðskorts og hás verðs. Þegar brauðið þrýtur getur jafnvel konungshöllin átt von á heimsókn."
+    },
+    {
+      "ar": "1936",
+      "texti": "Um 200 menn lögðu af stað í 468 kílómetra göngu frá Jarrow til London með áskorun um að iðnaður yrði endurreistur í heimabæ þeirra."
+    },
+    {
+      "ar": "1962",
+      "texti": "Fyrsta smáskífa Bítlanna, „Love Me Do“, kom út í Bretlandi. Sama dag var fyrsta James Bond-myndin, Dr. No, frumsýnd — býsna breskur föstudagur."
+    },
+    {
+      "ar": "2000",
+      "texti": "Í mótmælum vegna meintra kosningasvika í Júgóslavíu var hjólaskóflu ekið inn í byggingu ríkissjónvarpsins. Upp frá því festist heitið „jarðýtubyltingin“ við mótmælin."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1615",
+      "texti": "Í Spánverjavígunum var hópur baskneskra hvalveiðimanna drepinn við Skaganaust yst á Dýrafirði.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1946",
+      "texti": "Alþingi samþykkti að veita Bandaríkjunum afnot af landi á Miðnesheiði. Samningurinn varð þegar í stað mikið deilumál.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1963",
+      "texti": "Keflvíska hljómsveitin Hljómar kom opinberlega fram í fyrsta sinn og íslenska bítlaæðið fór að fá sinn eigin hljómgrunn.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1991",
+      "texti": "Blönduvirkjun var vígð og vatnsaflið formlega tekið til starfa.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bernie Mac",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Albert Guðmundsson",
+      "starfsgrein": "knattspyrnumaður og stjórnmálamaður",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Bernard Bolzano",
+      "starfsgrein": "stærðfræðingur og heimspekingur",
+      "ar": "1781"
+    },
+    {
+      "nafn": "André Kuipers",
+      "starfsgrein": "læknir og geimfari",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Bobo Baldé",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1975"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Albert Guðmundsson",
+      "starfsgrein": "knattspyrnu- og stjórnmálamaður",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Jón Thoroddsen eldri",
+      "starfsgrein": "sýslumaður",
+      "ar": "1818"
+    },
+    {
+      "nafn": "Ásthildur Kjartansdóttir",
+      "starfsgrein": "leikstjóri",
+      "ar": "1950"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvert gengu Parísarkonur árið 1789 vegna brauðskorts og hás verðs?",
+      "svor": [
+        "Til Versala",
+        "Til Bastillunnar",
+        "Til Calais",
+        "Til Marseille"
+      ],
+      "rett": 0,
+      "skyring": "Gangan lá til Versala, þar sem konungsvaldið fékk óvænta og afar ákveðna heimsókn."
+    },
+    {
+      "spurning": "Hvaða tvö bresku menningarfyrirbæri komu fram 5. október 1962?",
+      "svor": [
+        "Monty Python og Doctor Who",
+        "„Love Me Do“ og Dr. No",
+        "The Rolling Stones og Goldfinger",
+        "Sherlock og Yellow Submarine"
+      ],
+      "rett": 1,
+      "skyring": "Bítlarnir og Bond deildu þessum merkisdegi — annar með munnhörpu, hinn með martíní."
+    },
+    {
+      "spurning": "Hvaða íslenska hljómsveit kom fyrst opinberlega fram 5. október 1963?",
+      "svor": [
+        "Trúbrot",
+        "Sykurmolarnir",
+        "Hljómar",
+        "Stuðmenn"
+      ],
+      "rett": 2,
+      "skyring": "Það voru Hljómar frá Keflavík sem stigu fram á sviðið þennan dag."
+    }
+  ],
+  "tonlistUSA": "Mack the Knife – Bobby Darin (1959)",
+  "tonlistUK": "Those Were the Days – Mary Hopkin (1968)",
+  "bio": "Dr. No (1962)",
+  "ord_dagsins": {
+    "ord": "orðheppinn",
+    "skyring": "Sá sem er orðheppinn er laginn við að finna snjöll og viðeigandi orð."
+  },
+  "vissir_thu": "Vissir þú að fyrsta smáskífa Bítlanna og fyrsta James Bond-kvikmyndin komu báðar út í Bretlandi 5. október 1962?",
+  "stjornuspa": "Vogin ætti að vega orð sín vandlega í dag, en ekki svo lengi að kaffið kólni. Gamall kunningi eða gleymd hugmynd gæti skotið upp kollinum eins og lag á vínylplötu — leyfðu nálinni að falla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg/500px-Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg",
+    "ar": "869",
+    "texti": "Fjórða kirkjuþingið í Konstantínópel var sett til að ræða stöðu Fótíosar 1. patríarka. Þingið er talið áttunda almenna kirkjuþing kaþólsku kirkjunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Fourth_Council_of_Constantinople_(Catholic_Church)",
+    "breidd": 330,
+    "haed": 324
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

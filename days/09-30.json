@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-30",
+  "dagur": 30,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:32",
+  "sunset": "19:01",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 30. september! Í dag sveiflum við okkur frá Töfraflautunni til fyrstu sjónvarpsútsendinga á Íslandi og minnumst þess að sagan er stundum ópera, stundum jarðskjálfti og stundum einfaldlega góð kvöldstund fyrir framan skjáinn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1139",
+      "texti": "Ofsalegur jarðskjálfti reið yfir Kákasus nærri Ganja. Talið er að allt að 300.000 manns hafi farist, þótt slíkar fornar tölur séu eðli málsins samkvæmt óvissar."
+    },
+    {
+      "ar": "1791",
+      "texti": "Wolfgang Amadeus Mozart stjórnaði frumflutningi Töfraflautunnar í Vínarborg. Þetta var síðasta ópera hans og hefur hún síðan töfrað áheyrendur með næturdrottningum, bjölluspili og óvenju söngelskum fuglafangara."
+    },
+    {
+      "ar": "1882",
+      "texti": "Vulcan Street-rafstöðin í Appleton í Wisconsin tók til starfa. Hún var fyrsta vatnsaflsmiðstöð Norður-Ameríku sem þjónaði bæði heimilum og fyrirtækjum."
+    },
+    {
+      "ar": "1938",
+      "texti": "Leiðtogar Þýskalands, Ítalíu, Bretlands og Frakklands undirrituðu Münchenarsamkomulagið, sem skyldaði Tékkóslóvakíu til að láta Súdetahéruðin af hendi við Þýskaland. Friðarvonirnar sem fylgdu reyndust því miður skammlífar."
+    },
+    {
+      "ar": "1998",
+      "texti": "ICANN var formlega stofnað til að samræma meðal annars úthlutun léna og IP-talna á internetinu. Ekki sérlega dramatískt á blaði, en án slíkrar umsýslu væri veraldarvefurinn fljótt orðinn að stafrænu sokkaskúffunni okkar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1148",
+      "texti": "Bærinn í Hítardal í Mýrasýslu brann til kaldra kola og meira en 70 manns fórust, þar á meðal Magnús Einarsson Skálholtsbiskup. Þetta er mannskæðasti eldsvoði Íslandssögunnar.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1949",
+      "texti": "Stjörnubíó tók til starfa í Reykjavík og bætti nýjum ljóma við kvikmyndalíf höfuðborgarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1966",
+      "texti": "Reglulegar útsendingar Sjónvarpsins hófust. Íslensk kvöldstund fékk þar með nýjan miðpunkt og stofustóllinn aukið menningarlegt mikilvægi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2006",
+      "texti": "Bandaríkjaher yfirgaf formlega herstöðina á Keflavíkurflugvelli og Íslendingar tóku við stjórn hennar.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ari Behn",
+      "starfsgrein": "rithöfundur og leikskáld",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Angie Dickinson",
+      "starfsgrein": "leikkona",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Andy Bechtolsheim",
+      "starfsgrein": "verkfræðingur og frumkvöðull",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Barry Marshall",
+      "starfsgrein": "læknir og Nóbelsverðlaunahafi",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Aliya Mustafina",
+      "starfsgrein": "fimleikakona",
+      "ar": "1994"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gunnar Ingi Birgisson",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi bæjarstjóri",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Jón Borgfirðingur",
+      "starfsgrein": "fræðimaður og lögregluþjónn",
+      "ar": "1826"
+    },
+    {
+      "nafn": "Ragnheiður Elín Árnadóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1967"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ópera Mozarts var frumflutt 30. september 1791?",
+      "svor": [
+        "Töfraflautan",
+        "Carmen",
+        "Aida",
+        "Rakarinn frá Sevilla"
+      ],
+      "rett": 0,
+      "skyring": "Töfraflautan var síðasta ópera Mozarts og hann stjórnaði sjálfur frumflutningnum."
+    },
+    {
+      "spurning": "Hvaða íslenski fjölmiðill hóf reglulegar útsendingar þennan dag árið 1966?",
+      "svor": [
+        "Rás 2",
+        "Sjónvarpið",
+        "Stöð 2",
+        "Bylgjan"
+      ],
+      "rett": 1,
+      "skyring": "Sjónvarpið hóf útsendingar og stofur landsmanna urðu samstundis ögn bjartari."
+    },
+    {
+      "spurning": "Hvað samræmir stofnunin ICANN meðal annars?",
+      "svor": [
+        "Alþjóðleg flugleiðakort",
+        "Útgáfu vegabréfa",
+        "Úthlutun léna og IP-talna",
+        "Dreifingu sjónvarpsefnis"
+      ],
+      "rett": 2,
+      "skyring": "ICANN hjálpar til við að halda skipulagi á lénum og IP-tölum internetsins."
+    }
+  ],
+  "tonlistUSA": "Fantasy – Mariah Carey (1995)",
+  "tonlistUK": "Dancing Queen – ABBA (1976)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist fallegt innan frá en reynist ónotalegt þegar út er komið."
+  },
+  "vissir_thu": "Vatnsaflsstöðin Vulcan Street, sem tók til starfa árið 1882, knúði meðal annars pappírsverksmiðjur og heimili með rafmagni úr Fox-ánni í Wisconsin.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og kaffibolla, en aðeins eftir svolitlar samningaviðræður við sjálfa sig. Kvöldið hentar vel fyrir tónlist, gömul bíómyndaspjöll og ákvarðanir sem mega bíða til morguns.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/500px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
+    "ar": "1791",
+    "texti": "Wolfgang Amadeus Mozart stjórnaði frumflutningi Töfraflautunnar í Vínarborg. Þetta var síðasta ópera hans og hefur hún síðan töfrað áheyrendur með næturdrottningum, bjölluspili og óvenju söngelskum fuglafangara.",
+    "heimild": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

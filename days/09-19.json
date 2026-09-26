@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-19",
+  "dagur": 19,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "07:00",
+  "sunset": "19:40",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 19. september leiðir okkur frá miðaldabardaga til frosins Alpubúa og skipsflaks á Skeiðarársandi — sagan kann svo sannarlega að pakka vel í dagsferð. Settu upp fróðleikshattinn og hafðu glottið með í för.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1356",
+      "texti": "Enskt herlið undir stjórn Játvarðs svarta prins vann afgerandi sigur í orrustunni við Poitiers og tók Jóhann 2. Frakkakonung höndum. Það telst óneitanlega slæmur dagur á konunglegu ferilskránni."
+    },
+    {
+      "ar": "1692",
+      "texti": "Í Salem var Giles Corey kraminn til bana fyrir að neita að svara ákæru um galdra. Sagt er að síðustu orð hans hafi verið krafa um „meiri þunga“."
+    },
+    {
+      "ar": "1893",
+      "texti": "Nýja-Sjáland varð fyrst ríkja til að innleiða almennan kosningarétt eftir öfluga baráttu kvenréttindahreyfingar undir forystu Kate Sheppard."
+    },
+    {
+      "ar": "1940",
+      "texti": "Pólski andspyrnuleiðtoginn Witold Pilecki lét Þjóðverja vísvitandi handtaka sig og senda til Auschwitz svo hann gæti aflað upplýsinga innan úr fangabúðunum. Hugrekkið verður vart mælt á venjulegum kvarða."
+    },
+    {
+      "ar": "1991",
+      "texti": "Tveir þýskir ferðamenn fundu Ötzi í Ölpunum, einstaklega vel varðveitta náttúrulega múmíu manns sem hafði lifað um 3300 fyrir Krist."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1667",
+      "texti": "Skipið Het Wapen van Amsterdam, jafnan kallað Gullskipið, strandaði á Skeiðarársandi með farm sem talinn var geyma gull og dýra steina. Um 140 manns fórust og umfangsmikil leit á 20. öld skilaði engum árangri.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1905",
+      "texti": "Hengibrú yfir Jökulsá í Öxarfirði var vígð. Hafið milli stöpla var 70 metrar, sem var engin smásmíði á þeim tíma.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1977",
+      "texti": "Jón L. Árnason varð heimsmeistari sveina í skák, aðeins 16 ára. Eini keppandinn sem vann hann var Garrí Kasparov, sem varð þó að sætta sig við þriðja sætið.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1978",
+      "texti": "Fatlað fólk gekk í kröfugöngu í Reykjavík og krafðist jafnréttis. Þar var réttlætinu ýtt úr orðum og út á götu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aleksandr Karelin",
+      "starfsgrein": "glímukappi og stjórnmálamaður",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Brent Faiyaz",
+      "starfsgrein": "söngvari",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Leó 6. hinn vitri",
+      "starfsgrein": "keisari Býsansríkis",
+      "ar": "866"
+    },
+    {
+      "nafn": "Arthur Rackham",
+      "starfsgrein": "teiknari",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Alun Wyn Jones",
+      "starfsgrein": "ruðningsmaður",
+      "ar": "1985"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jóhann Hafstein",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Hjörtur Torfason",
+      "starfsgrein": "dómari",
+      "ar": "1935"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Í hvaða landi var almennur kosningaréttur fyrst innleiddur árið 1893?",
+      "svor": [
+        "Nýja-Sjálandi",
+        "Frakklandi",
+        "Kanada",
+        "Danmörku"
+      ],
+      "rett": 0,
+      "skyring": "Nýja-Sjáland ruddi brautina eftir baráttu kvenréttindahreyfingar Kate Sheppard."
+    },
+    {
+      "spurning": "Hvað var Jón L. Árnason gamall þegar hann varð heimsmeistari sveina í skák?",
+      "svor": [
+        "14 ára",
+        "16 ára",
+        "18 ára",
+        "20 ára"
+      ],
+      "rett": 1,
+      "skyring": "Jón var aðeins 16 ára og lét jafnvel verðandi stórmeistara hafa fyrir hlutunum."
+    },
+    {
+      "spurning": "Hvar fannst Ötzi árið 1991?",
+      "svor": [
+        "Í Andesfjöllum",
+        "Í Himalajafjöllum",
+        "Í Ölpunum",
+        "Í Pýreneafjöllum"
+      ],
+      "rett": 2,
+      "skyring": "Ötzi beið frosinn í Ölpunum þar til tveir þýskir ferðamenn rákust á hann."
+    }
+  ],
+  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUK": "Prince Charming – Adam and the Ants (1981)",
+  "bio": "Goodfellas (1990)",
+  "ord_dagsins": {
+    "ord": "kjörþokki",
+    "skyring": "Kjörþokki er sú persónulega útgeislun sem laðar fólk að einhverjum og vekur hrifningu."
+  },
+  "vissir_thu": "Ötzi hafði verið varðveittur í ís í meira en fimm árþúsund þegar hann fannst árið 1991.",
+  "stjornuspa": "Meyjan finnur í dag löngun til að flokka allt frá reikningum til miðaldaslagorða, helst í litamerktar möppur. Mundu þó að jafnvel Ötzi beið í þúsundir ára — ekki þarf allt að klárast fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/500px-Schlacht_von_Azincourt.jpg",
+    "ar": "1356",
+    "texti": "Enskt herlið undir stjórn Játvarðs svarta prins vann afgerandi sigur í orrustunni við Poitiers og tók Jóhann 2. Frakkakonung höndum. Það telst óneitanlega slæmur dagur á konunglegu ferilskránni.",
+    "heimild": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

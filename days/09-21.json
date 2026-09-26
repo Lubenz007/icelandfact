@@ -1,0 +1,143 @@
+{
+  "mmdd": "09-21",
+  "dagur": 21,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "07:06",
+  "sunset": "19:33",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 21. september förum við frá víkingakonungi í Dyflinni yfir í Hobbita í Héraði og þaðan út fyrir tunglið — býsna drjúg dagsferð án þess að þurfa að pakka nesti. Megi dagurinn verða sögulegur, en helst með notalegri hætti en flest það sem rataði í annálana.",
+  "nafnadagur": "Matthías",
+  "atburdir": [
+    {
+      "ar": "1170",
+      "texti": "Enskar og írskar hersveitir lögðu Dyflinni undir sig í innrás Normanna á Írland. Ascall mac Ragnaill, síðasti norræn-gælski konungur borgarinnar, var hrakinn í útlegð."
+    },
+    {
+      "ar": "1776",
+      "texti": "Mikill eldur braust út í New York meðan Bretar héldu borginni í frelsisstríði Bandaríkjanna. Allt að þúsund byggingar urðu eldinum að bráð — afar dýr reykjarmökkur."
+    },
+    {
+      "ar": "1897",
+      "texti": "Dagblaðið The New York Sun svaraði bréfi átta ára Virginíu O'Hanlon með hinum frægu orðum: „Já, Virginía, jólasveinninn er til.“ Þar fékk barnatrúin óvenju myndarlegan ritstjórnardálk."
+    },
+    {
+      "ar": "1937",
+      "texti": "Barnabókin Hobbitinn eftir J. R. R. Tolkien kom fyrst út. Úr varð ævintýri sem ruddi brautina fyrir Hringadróttinssögu — og gerði loðna fætur að bókmenntalegu tískufyrirbæri."
+    },
+    {
+      "ar": "1968",
+      "texti": "Sovéska geimfarið Zond 5 lenti í Indlandshafi og varð fyrsta geimfarið sem sneri heilu og höldnu til jarðar eftir ferð umhverfis tunglið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1615",
+      "texti": "Nokkur spænsk hvalveiðiskip fórust í óveðri við Strandir. Skipbrotið varð undanfari Spánverjavíganna síðar sama haust.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1919",
+      "texti": "Reykjanesviti skemmdist allnokkuð í jarðskjálfta. Jörðin minnti þar með á að jafnvel vitar þurfa stundum að halda sér fast.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1985",
+      "texti": "Ópera Verdis, Grímudansleikur, var flutt í Þjóðleikhúsinu og Kristján Jóhannsson söng aðalhlutverkið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1998",
+      "texti": "Listaháskóli Íslands var stofnaður og íslenskt listnám fékk þar sameiginlegt akademískt heimili.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexander Isak",
+      "starfsgrein": "sænskur knattspyrnumaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Bill Murray",
+      "starfsgrein": "bandarískur leikari og grínisti",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Alfonso Ribeiro",
+      "starfsgrein": "bandarískur leikari og grínisti",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Billy Porter",
+      "starfsgrein": "bandarískur leikari og söngvari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Abdul Hamid II",
+      "starfsgrein": "soldán Tyrkjaveldis",
+      "ar": "1842"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Atli Heimir Sveinsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1938"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bók kom fyrst út 21. september 1937?",
+      "svor": [
+        "Hobbitinn",
+        "Drakúla",
+        "Litli prinsinn",
+        "Ævintýri Lísu í Undralandi"
+      ],
+      "rett": 0,
+      "skyring": "Hobbitinn steig þá sitt fyrsta skref út í heiminn, þótt Bilbó hefði líklega kosið að sitja heima."
+    },
+    {
+      "spurning": "Hvað afrekaði Zond 5 árið 1968?",
+      "svor": [
+        "Það lenti á Mars",
+        "Það flaug fyrst manna til Venusar",
+        "Það sneri örugglega aftur eftir ferð umhverfis tunglið",
+        "Það varð fyrsta geimstöðin"
+      ],
+      "rett": 2,
+      "skyring": "Zond 5 fór umhverfis tunglið og kom síðan örugglega aftur til jarðar."
+    },
+    {
+      "spurning": "Hvaða íslenski skóli var stofnaður 21. september 1998?",
+      "svor": [
+        "Háskólinn á Akureyri",
+        "Listaháskóli Íslands",
+        "Háskólinn á Bifröst",
+        "Tækniskóli Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Listaháskóli Íslands var stofnaður þennan dag árið 1998."
+    }
+  ],
+  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
+  "tonlistUK": "Dancing in the Street – David Bowie og Mick Jagger (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "hvalreki",
+    "skyring": "Hvalreki er annaðhvort hvalur sem rekur á land eða óvæntur og kærkominn ávinningur."
+  },
+  "vissir_thu": "Zond 5 varð árið 1968 fyrsta geimfarið til að snúa örugglega aftur til jarðar eftir að hafa ferðast umhverfis tunglið.",
+  "stjornuspa": "Meyjan finnur í dag lausn á vandamáli sem aðrir hafa lengi geymt í skúffu merktri „skoða síðar“. Varastu þó að leiðrétta alla í herberginu fyrir hádegi — jafnvel fullkomið kommusetningarkerfi þarf kaffihlé.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/MarriageAoifeStrongbow.jpg/500px-MarriageAoifeStrongbow.jpg",
+    "ar": "1170",
+    "texti": "Enskar og írskar hersveitir lögðu Dyflinni undir sig í innrás Normanna á Írland. Ascall mac Ragnaill, síðasti norræn-gælski konungur borgarinnar, var hrakinn í útlegð.",
+    "heimild": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland",
+    "breidd": 330,
+    "haed": 202
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

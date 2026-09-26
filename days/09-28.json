@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-28",
+  "dagur": 28,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:26",
+  "sunset": "19:08",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum septemberdegi stígum við um borð í tímavél sem flytur okkur frá falli Pompeiusar til mygluskálar Flemings — og minnir okkur á að jafnvel óhreint rannsóknarborð getur breytt heiminum. Vogin sér um jafnvægið, en Sagnfræðingurinn um glottið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "48 f.Kr.",
+      "texti": "Pompeius var veginn af Luciusi Septimiusi við Pelusium í Egyptalandi. Þar lauk með blóðugum hætti flótta eins helsta keppinautar Júlíusar Caesars."
+    },
+    {
+      "ar": "1066",
+      "texti": "Vilhjálmur sigursæli og um 600 skipa floti hans lentu við Pevensey á Englandi. Þar með hófst landvinningur Normanna — heimsókn sem Englendingar gátu ekki afþakkað."
+    },
+    {
+      "ar": "1821",
+      "texti": "Sjálfstæðisyfirlýsing Mexíkó frá Spáni var samin í Þjóðarhöllinni í Mexíkóborg. Nýtt ríki var að taka á sig mynd eftir langa sjálfstæðisbaráttu."
+    },
+    {
+      "ar": "1928",
+      "texti": "Alexander Fleming uppgötvaði pensilín þegar hann tók eftir bakteríudrepandi myglu á rannsóknarstofu sinni. Stundum reynist gagnlegasta uppgötvunin vera sú sem vex óboðin í skál."
+    },
+    {
+      "ar": "1978",
+      "texti": "Jóhannes Páll páfi I lést aðeins 33 dögum eftir kjör sitt, að því er virtist úr hjartadrepi. Dauði hans varð til þess að árið 1978 varð fyrsta ár þriggja páfa síðan 1605."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1930",
+      "texti": "Elliheimilið Grund í Reykjavík var vígt og varð síðar ein þekktasta öldrunarstofnun landsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Fyrsti sjúklingurinn lagðist inn á Borgarspítalann í Reykjavík og þar með hófst nýr kafli í heilbrigðisþjónustu borgarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1988",
+      "texti": "Önnur ríkisstjórn Steingríms Hermannssonar tók við völdum. Stjórnarskipti eru ein helsta leið sögunnar til að endurraða stólunum án þess að skipta um hús.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2010",
+      "texti": "Alþingi samþykkti að sækja Geir H. Haarde fyrir Landsdóm á grundvelli laga um ráðherraábyrgð.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Konfúsíus",
+      "starfsgrein": "kínverskur heimspekingur og kennari",
+      "ar": "551 f.Kr."
+    },
+    {
+      "nafn": "Bam Margera",
+      "starfsgrein": "bandarískur hjólabrettamaður, leikari og áhættuleikari",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Ben E. King",
+      "starfsgrein": "bandarískur söngvari og lagahöfundur",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Alexandre Cabanel",
+      "starfsgrein": "franskur listmálari og kennari",
+      "ar": "1823"
+    },
+    {
+      "nafn": "Abhinav Bindra",
+      "starfsgrein": "indverskur skotíþróttamaður",
+      "ar": "1982"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnmundur Ernst Björnsson",
+      "starfsgrein": "leikari",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Björn Gunnlaugsson",
+      "starfsgrein": "landmælingamaður",
+      "ar": "1788"
+    },
+    {
+      "nafn": "Ragnar H. Ragnar",
+      "starfsgrein": "tónskáld og tónlistarkennari",
+      "ar": "1898"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppgötvun gerði Alexander Fleming árið 1928 eftir að hafa tekið eftir óvenjulegri myglu?",
+      "svor": [
+        "Pensilín",
+        "Insúlín",
+        "Radíum",
+        "Bóluefni gegn bólusótt"
+      ],
+      "rett": 0,
+      "skyring": "Myglan leiddi Fleming á slóð pensilínsins og læknisfræðin varð aldrei söm."
+    },
+    {
+      "spurning": "Hver hóf landvinning Normanna á Englandi með lendingu við Pevensey árið 1066?",
+      "svor": [
+        "Hinrik I",
+        "Vilhjálmur sigursæli",
+        "Ríkharður ljónshjarta",
+        "Jóhann landlausi"
+      ],
+      "rett": 1,
+      "skyring": "Vilhjálmur sigursæli mætti með um 600 skip og býsna metnaðarfulla ferðaáætlun."
+    },
+    {
+      "spurning": "Hvaða íslenska stofnun tók á móti fyrsta sjúklingi sínum 28. september 1967?",
+      "svor": [
+        "Landspítalinn",
+        "Elliheimilið Grund",
+        "Borgarspítalinn",
+        "Fjórðungssjúkrahúsið á Akureyri"
+      ],
+      "rett": 2,
+      "skyring": "Fyrsti sjúklingurinn lagðist inn á Borgarspítalann þennan dag árið 1967."
+    }
+  ],
+  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
+  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "bio": "The Peacemaker (1997)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er dauf birta eða rökkur, einkum þegar dagur og nótt takast kurteislega á um völdin."
+  },
+  "vissir_thu": "Jóhannes Páll I sat aðeins 33 daga á páfastóli, og árið 1978 varð því fyrsta ár þriggja páfa síðan 1605.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skyldurækni og þess að fá sér aðra kökusneið. Óvænt skilaboð kunna að berast, svo hafðu símann nærri og dramatíkina í hæfilegri fjarlægð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg/500px-%28Venice%29_Pompey_the_Great%2C_Museo_Archeologico_Nazionale.jpg",
+    "ar": "48 f.Kr.",
+    "texti": "Pompeius var veginn af Luciusi Septimiusi við Pelusium í Egyptalandi. Þar lauk með blóðugum hætti flótta eins helsta keppinautar Júlíusar Caesars.",
+    "heimild": "https://en.wikipedia.org/wiki/Pompey",
+    "breidd": 330,
+    "haed": 501
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-22",
+  "dagur": 22,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "07:09",
+  "sunset": "19:29",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 22. september sveiflum við okkur frá miðaldabardaga til Mars, með viðkomu í sæluhúsi, óperuhöll og sælgætisregni yfir Berlín. Sagan kann sannarlega að pakka ótrúlegustu hlutum í sama dagatalspokann.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1236",
+      "texti": "Lívónsku sverðsbræðurnir biðu afgerandi ósigur fyrir heiðnum hersveitum Samógíta og Semgalla í orrustunni við Saule. Þetta reyndist enginn venjulegur miðaldaskærukliður heldur mikið áfall fyrir riddararegluna."
+    },
+    {
+      "ar": "1869",
+      "texti": "Óperan Das Rheingold eftir Richard Wagner var frumflutt í München. Hún er fyrsti hluti Niflungahringsins, þar sem guðir, gull og fjölskylduvandræði fá nægan tíma á sviðinu."
+    },
+    {
+      "ar": "1948",
+      "texti": "Bandaríski flugherinn hóf aðgerðina „Little Vittles“ undir forystu Gails Halvorsen og lét sælgæti svífa niður til barna meðan á Berlínarloftbrúnni stóð. Sjaldan hefur utanríkisstefna verið jafn bókstaflega sykruð."
+    },
+    {
+      "ar": "1979",
+      "texti": "Bandarískt Vela-gervitungl nam óútskýrt ljósleiftur nærri Prince Edward-eyjum í Indlandshafi. Grunur hefur lengi leikið á að þar hafi farið fram kjarnorkuvopnatilraun, en atvikið er enn sveipað óvissu."
+    },
+    {
+      "ar": "2014",
+      "texti": "Geimfarið MAVEN frá NASA komst á braut um Mars til að rannsaka lofthjúp reikistjörnunnar. Mars fékk þar með nýjan gest sem hafði meiri áhuga á gasi en grænum körlum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1565",
+      "texti": "Magnús Jónsson prúði gekk að eiga Ragnheiði Eggertsdóttur og flutti að Ögri við Ísafjarðardjúp.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1930",
+      "texti": "Ferðafélag Íslands tók fyrsta sæluhús sitt í notkun í Hvítárnesi undir Langjökli, ferðalöngum til skjóls og hvíldar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1957",
+      "texti": "Árbæjarsafn var opnað almenningi með viðhöfn og varð með tímanum einn helsti gluggi borgarbúa inn í hversdagslíf fyrri kynslóða.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2021",
+      "texti": "Grímseyjarkirkja, reist árið 1867, brann til grunna. Ekkert manntjón varð í eldsvoðanum.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anne of Cleves",
+      "starfsgrein": "Englandsdrottning",
+      "ar": "1515"
+    },
+    {
+      "nafn": "Andrea Bocelli",
+      "starfsgrein": "tenórsöngvari og lagahöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Billie Piper",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Bonnie Hunt",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Anna Karina",
+      "starfsgrein": "leikkona og kvikmyndagerðarkona",
+      "ar": "1940"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ragnar Bjarnason",
+      "starfsgrein": "tónlistarmaður og söngvari",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Erla Þórarinsdóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Sigurjón Friðjónsson",
+      "starfsgrein": "skáld og alþingismaður",
+      "ar": "1867"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar komst á braut um Mars 22. september 2014?",
+      "svor": [
+        "MAVEN",
+        "Voyager 1",
+        "Cassini",
+        "Juno"
+      ],
+      "rett": 0,
+      "skyring": "MAVEN fór á braut um Mars til að rannsaka lofthjúp rauðu reikistjörnunnar."
+    },
+    {
+      "spurning": "Hvað lét Gail Halvorsen svífa niður til barna í Berlín?",
+      "svor": [
+        "Bækur",
+        "Sælgæti",
+        "Leikfangalestir",
+        "Ullarsokka"
+      ],
+      "rett": 1,
+      "skyring": "Í aðgerðinni „Little Vittles“ rigndi sælgæti úr lofti, börnunum til mikillar gleði."
+    },
+    {
+      "spurning": "Hvar tók Ferðafélag Íslands fyrsta sæluhús sitt í notkun árið 1930?",
+      "svor": [
+        "Í Þórsmörk",
+        "Í Landmannalaugum",
+        "Í Hvítárnesi",
+        "Í Herðubreiðarlindum"
+      ],
+      "rett": 2,
+      "skyring": "Fyrsta sæluhúsið var í Hvítárnesi undir Langjökli."
+    }
+  ],
+  "tonlistUSA": "Missing You – John Waite (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "Seven (1995)",
+  "ord_dagsins": {
+    "ord": "sæluhús",
+    "skyring": "Sæluhús er skýli eða gististaður ætlaður ferðafólki á fáförnum leiðum."
+  },
+  "vissir_thu": "Das Rheingold er fyrsta óperan af fjórum í Niflungahring Richards Wagners.",
+  "stjornuspa": "Meyjan finnur í dag gamla minnisbók, ósvarað bréf eða skúffu sem hefur beðið eftir skipulagi síðan á síðustu öld. Raðaðu af röggsemi, en skildu eftir örlítið pláss fyrir óvænt ævintýri og eina karamellu úr sælgætisflugvélinni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LivoniaKnight.jpg/330px-LivoniaKnight.jpg",
+    "ar": "1236",
+    "texti": "Lívónsku sverðsbræðurnir biðu afgerandi ósigur fyrir heiðnum hersveitum Samógíta og Semgalla í orrustunni við Saule. Þetta reyndist enginn venjulegur miðaldaskærukliður heldur mikið áfall fyrir riddararegluna.",
+    "heimild": "https://en.wikipedia.org/wiki/Livonian_Crusade",
+    "breidd": 330,
+    "haed": 384
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

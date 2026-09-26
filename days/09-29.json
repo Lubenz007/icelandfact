@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-29",
+  "dagur": 29,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Vog",
+  "sunrise": "07:29",
+  "sunset": "19:04",
+  "kvedja": "Góðan dag og gleðilegan 29. september! Í dag liggur leiðin frá víkingum við Kantaraborg til Landssímans, Maföldu og ókláraðrar Disney-myndar — enda hefur sagan sjaldan beðið eftir að allt væri fullkomlega tilbúið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1011",
+      "texti": "Eftir margra vikna umsátur náði her víkinga Kantaraborg á sitt vald og tók Ælfheah erkibiskup til fanga. Þetta var engin kurteisisheimsókn með kaffi og kleinum."
+    },
+    {
+      "ar": "1760",
+      "texti": "Williamsburg Bray-skólinn tók til starfa að tillögu Benjamins Franklin. Húsið er elsta varðveitta skólabygging Bandaríkjanna sem sérstaklega var reist til menntunar svartra barna."
+    },
+    {
+      "ar": "1941",
+      "texti": "Nasistasveitir hófu, með aðstoð úkraínskra samverkamanna, fjöldamorðin í Babi Jar-gilinu við Kyiv. Meira en 30.000 gyðingar voru myrtir þar á tveimur dögum og þúsundir til viðbótar á næstu mánuðum."
+    },
+    {
+      "ar": "1964",
+      "texti": "Mafalda, hin bráðsnjalla og heimspekilega teiknimyndastúlka Quinos, birtist fyrst í argentínskum dagblöðum. Hún hafði bæði sterkar skoðanir á heiminum og ákaflega litla þolinmæði fyrir súpu."
+    },
+    {
+      "ar": "1991",
+      "texti": "Disney-myndin Beauty and the Beast var frumsýnd ókláruð á kvikmyndahátíðinni í New York. Áhorfendur hrifust þrátt fyrir að hluti myndarinnar væri enn aðeins grófar teikningar — sannkallaður sigur sögunnar á málningunni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1906",
+      "texti": "Landssími Íslands tók til starfa og Hannes Hafstein ráðherra sendi konungi fyrsta símskeytið um nýlagðan neðansjávarstreng. Ísland var skyndilega komið í samband við umheiminn án þess að þurfa að senda mann á árabát.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1922",
+      "texti": "Norræna félagið var stofnað í Reykjavík með það markmið að efla norræna samvinnu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1974",
+      "texti": "Auður Eir Vilhjálmsdóttir varð fyrst kvenna til að vígjast til prests á Íslandi og markaði þar með tímamót í íslenskri kirkjusögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Upphaf bankahrunsins á Íslandi varð sýnilegt þegar ríkissjóður tilkynnti áform um kaup á 75% hlut í Glitni til að koma í veg fyrir gjaldþrot bankans.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anita Ekberg",
+      "starfsgrein": "sænsk-ítölsk leikkona og fyrirsæta",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Andrew Dice Clay",
+      "starfsgrein": "bandarískur grínisti og leikari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Ben Miles",
+      "starfsgrein": "enskur leikari",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Brett Anderson",
+      "starfsgrein": "enskur söngvari og lagahöfundur",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Ann Bancroft",
+      "starfsgrein": "bandarískur landkönnuður og rithöfundur",
+      "ar": "1955"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bólu-Hjálmar",
+      "starfsgrein": "skáld",
+      "ar": "1796"
+    },
+    {
+      "nafn": "Jón Axel Pétursson",
+      "starfsgrein": "sjómaður og bæjarfulltrúi",
+      "ar": "1898"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sívinsæla teiknimyndapersóna birtist fyrst í argentínskum dagblöðum árið 1964?",
+      "svor": [
+        "Mafalda",
+        "Mikki mús",
+        "Viggó viðutan",
+        "Tinni"
+      ],
+      "rett": 0,
+      "skyring": "Mafalda steig fyrst fram árið 1964, full af spurningum um heiminn og tortryggni í garð súpu."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna vígð til prests á Íslandi árið 1974?",
+      "svor": [
+        "Anita Ekberg",
+        "Auður Eir Vilhjálmsdóttir",
+        "Ann Bancroft",
+        "Ingibjörg H. Bjarnason"
+      ],
+      "rett": 1,
+      "skyring": "Auður Eir Vilhjálmsdóttir braut blað í íslenskri kirkjusögu þennan dag."
+    },
+    {
+      "spurning": "Hvaða Disney-mynd var sýnd ókláruð á kvikmyndahátíðinni í New York árið 1991?",
+      "svor": [
+        "The Lion King",
+        "Aladdin",
+        "Beauty and the Beast",
+        "The Little Mermaid"
+      ],
+      "rett": 2,
+      "skyring": "Beauty and the Beast heillaði salinn jafnvel þótt sumar teikningarnar væru enn á vinnslustigi."
+    }
+  ],
+  "tonlistUSA": "Let's Go Crazy – Prince and the Revolution (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "Beauty and the Beast (1991)",
+  "ord_dagsins": {
+    "ord": "lóðs",
+    "skyring": "Lóðs er hafnsögumaður sem leiðbeinir skipi um vandfarnar siglingaleiðir eða inn til hafnar."
+  },
+  "vissir_thu": "Beauty and the Beast var sýnd á kvikmyndahátíðinni í New York áður en hún var fullgerð, en áhorfendur fögnuðu henni engu að síður innilega.",
+  "stjornuspa": "Vogin reynir að halda jafnvægi milli skyldustarfa og kaffibolla, en kaffið hefur óvenjulega sterka samningsstöðu. Taktu ákvörðun með reisn — eða kastaðu krónu og kallaðu það diplómatíu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canterburycathedralaelfhaehwindows.jpg/500px-Canterburycathedralaelfhaehwindows.jpg",
+    "ar": "1011",
+    "texti": "Eftir margra vikna umsátur náði her víkinga Kantaraborg á sitt vald og tók Ælfheah erkibiskup til fanga. Þetta var engin kurteisisheimsókn með kaffi og kleinum.",
+    "heimild": "https://en.wikipedia.org/wiki/Siege_of_Canterbury",
+    "breidd": 330,
+    "haed": 191
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

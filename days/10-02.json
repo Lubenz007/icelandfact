@@ -1,0 +1,153 @@
+{
+  "mmdd": "10-02",
+  "dagur": 2,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:38",
+  "sunset": "18:54",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 2. október, þar sem konungar snúa aftur, ostahjól rúlla um götur og réttlætið brýtur niður múra. Sagan er sjaldnast bragðlaus — og stundum er hún beinlínis með cheddar-keim.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1470",
+      "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn undir forystu Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Ensk miðaldasaga var sem sagt ekki ósvipuð stólaleik, nema með kórónum og herjum."
+    },
+    {
+      "ar": "1766",
+      "texti": "Í mataróeirðum í Nottingham rændu bæjarbúar miklu magni af osti. Einn maður lét lífið þegar reynt var að koma á lögum og reglu, svo þessi sérkennilega „ostauppreisn“ var langt frá því að vera saklaus gleðiganga."
+    },
+    {
+      "ar": "1835",
+      "texti": "Mexíkóskir riddaraliðar, sem áttu að afvopna landnema við Gonzales í Texas, mættu vopnaðri mótspyrnu. Orrustan við Gonzales varð fyrsta vopnaða viðureign Texasbyltingarinnar."
+    },
+    {
+      "ar": "1967",
+      "texti": "Thurgood Marshall sór embættiseið sem fyrsti Bandaríkjamaðurinn af afrískum uppruna til að taka sæti í Hæstarétti Bandaríkjanna. Þar með féll einn mikilvægur múr í bandarískri réttarsögu."
+    },
+    {
+      "ar": "2018",
+      "texti": "Blaðamaðurinn Jamal Khashoggi hjá The Washington Post var myrtur í ræðismannsskrifstofu Sádi-Arabíu í Istanbúl. Morðið vakti alþjóðlega reiði og beindi sjónum að öryggi blaðamanna og ábyrgð stjórnvalda."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1786",
+      "texti": "Oddur Gíslason, prestur á Miklabæ, hvarf á heimleið og var afturgöngunni Miklabæjar-Solveigu kennt um hvarfið. Lík hans fannst ári síðar í læk skammt frá bænum, en þjóðsagan hafði þá þegar fengið vængi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1801",
+      "texti": "Konungur úrskurðaði að Ísland skyldi verða eitt biskupsdæmi og biskupsstóllinn á Hólum var lagður niður.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1940",
+      "texti": "Áfengisskömmtun var tekin upp á Íslandi: karlar fengu fjórar hálfflöskur af sterkum drykkjum á mánuði en konur helming þess. Jafnréttishugtakið átti greinilega enn nokkuð í land.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2010",
+      "texti": "Héðinsfjarðargöng voru vígð og tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð. Fjöllin fengu þar með nýtt hlutverk sem veggir utan um samgöngumannvirki.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alisson Becker",
+      "starfsgrein": "brasilískur knattspyrnumaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Annie Leibovitz",
+      "starfsgrein": "bandarískur ljósmyndari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Avery Brooks",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Badly Drawn Boy",
+      "starfsgrein": "enskur tónlistarmaður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Alex Raymond",
+      "starfsgrein": "bandarískur teiknari og höfundur Flash Gordon",
+      "ar": "1909"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Pálmi Gestsson",
+      "starfsgrein": "leikari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Sigtryggur Baldursson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Árni M. Mathiesen",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1958"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða matvæli rændu óeirðarseggir í Nottingham árið 1766?",
+      "svor": [
+        "Osti",
+        "Kartöflum",
+        "Síld",
+        "Súkkulaði"
+      ],
+      "rett": 0,
+      "skyring": "Mikið magn af osti hvarf í óeirðunum — líklega dramatískasti dagur í sögu breska ostabakkans."
+    },
+    {
+      "spurning": "Hvaða tímamót markaði embættistaka Thurgoods Marshall árið 1967?",
+      "svor": [
+        "Hann varð fyrsti kjörni forseti Hæstaréttar",
+        "Hann varð fyrsti dómarinn af afrískum uppruna í Hæstarétti Bandaríkjanna",
+        "Hann varð yngsti dómari í sögu réttarins",
+        "Hann varð fyrsti erlendi dómarinn í réttinum"
+      ],
+      "rett": 1,
+      "skyring": "Marshall varð fyrsti Bandaríkjamaðurinn af afrískum uppruna til að sitja í Hæstarétti landsins."
+    },
+    {
+      "spurning": "Hvaða göng voru vígð á Íslandi 2. október 2010?",
+      "svor": [
+        "Hvalfjarðargöng",
+        "Vestfjarðagöng",
+        "Héðinsfjarðargöng",
+        "Fáskrúðsfjarðargöng"
+      ],
+      "rett": 2,
+      "skyring": "Héðinsfjarðargöng tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð."
+    }
+  ],
+  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "The Martian (2015)",
+  "ord_dagsins": {
+    "ord": "afturganga",
+    "skyring": "Afturganga er látin manneskja sem samkvæmt þjóðtrú gengur aftur og gerir vart við sig meðal lifenda."
+  },
+  "vissir_thu": "Thurgood Marshall hafði áður en hann varð hæstaréttardómari unnið mikilvæg dómsmál gegn kynþáttaaðskilnaði í bandarískum skólum.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi í dag, líklega eftir að hafa vegið málið aðeins lengur en allir aðrir höfðu þolinmæði fyrir. Dragðu fram flauelsjakkann, stilltu plötuspilarann og mundu að stundum er djarfasta ákvörðunin einfaldlega að velja annan kaffibolla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Edward_IV_Plantagenet.jpg/500px-Edward_IV_Plantagenet.jpg",
+    "ar": "1470",
+    "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn undir forystu Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Ensk miðaldasaga var sem sagt ekki ósvipuð stólaleik, nema með kórónum og herjum.",
+    "heimild": "https://en.wikipedia.org/wiki/Edward_IV",
+    "breidd": 330,
+    "haed": 477
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

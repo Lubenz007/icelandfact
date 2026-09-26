@@ -1,0 +1,148 @@
+{
+  "mmdd": "10-01",
+  "dagur": 1,
+  "manudur": "október",
+  "manudurNr": 10,
+  "stjornumerki": "Vog",
+  "sunrise": "07:35",
+  "sunset": "18:57",
+  "kvedja": "Góðan dag og gleðilegan 1. október! Í dag liggur leiðin frá dularfullu hvarfi í Skagafirði til sjálfstæðisbaráttu í Yosemite og stofnunar Kínverska alþýðulýðveldisins — býsna gott dagsverk fyrir einn almanaksreit.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1890",
+      "texti": "Bandaríkjaþing stofnaði Yosemite-þjóðgarð í Kaliforníu fyrir hvatningu náttúruverndarmannsins Johns Muir og rithöfundarins Roberts Underwood Johnson. Þar með fékk stórbrotin náttúran nokkurs konar formlegan lífvörð."
+    },
+    {
+      "ar": "1918",
+      "texti": "Breskar og arabískar hersveitir náðu Damaskus úr höndum Tyrkjaveldis undir lok fyrri heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1949",
+      "texti": "Mao Zedong lýsti opinberlega yfir stofnun Kínverska alþýðulýðveldisins á Torgi hins himneska friðar í Peking."
+    },
+    {
+      "ar": "1989",
+      "texti": "Danmörk lögleiddi staðfesta samvist para af sama kyni, fyrst allra ríkja. Danir stigu þar sögulegt skref í réttindabaráttu hinsegin fólks."
+    },
+    {
+      "ar": "1998",
+      "texti": "Europol, löggæslustofnun Evrópusambandsins, var komið á fót þegar öll aðildarríkin höfðu fullgilt Europol-samninginn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1786",
+      "texti": "Oddur Gíslason, prestur á Miklabæ í Skagafirði, hvarf á heimleið milli bæja. Þjóðsagan kenndi afturgöngunni Miklabæjar-Solveigu um — enda var sakamáladeild drauganna aldrei þekkt fyrir gagnsæ vinnubrögð.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1874",
+      "texti": "Kvennaskólinn í Reykjavík tók til starfa undir stjórn Þóru Melsteð og markaði mikilvægan áfanga í menntun íslenskra kvenna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1933",
+      "texti": "Ásta Magnúsdóttir var skipuð ríkisféhirðir og varð fyrst kvenna til að gegna opinberu embætti á Íslandi. Hún gegndi stöðunni í aldarfjórðung.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2003",
+      "texti": "Eyririnn var lagður niður og ein króna varð minnsta gjaldmiðilseining Íslands. Þá var loks hægt að hætta að leita að aurunum sem enginn hafði séð lengi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brie Larson",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Hinrik 3. Englandskonungur",
+      "starfsgrein": "Englandskonungur",
+      "ar": "1207"
+    },
+    {
+      "nafn": "André Rieu",
+      "starfsgrein": "hollenskur fiðluleikari og hljómsveitarstjóri",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Annie Besant",
+      "starfsgrein": "bresk-indverskur aðgerðasinni og rithöfundur",
+      "ar": "1847"
+    },
+    {
+      "nafn": "Aaron Ciechanover",
+      "starfsgrein": "ísraelskur líffræðingur og Nóbelsverðlaunahafi",
+      "ar": "1947"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hafsteinn Guðmundsson",
+      "starfsgrein": "íþróttakennari og æskulýðsfrömuður",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Jón Kr. Gunnarsson",
+      "starfsgrein": "skipstjóri",
+      "ar": "1929"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða land varð fyrst til að lögleiða staðfesta samvist para af sama kyni?",
+      "svor": [
+        "Danmörk",
+        "Svíþjóð",
+        "Ísland",
+        "Holland"
+      ],
+      "rett": 0,
+      "skyring": "Danmörk reið á vaðið árið 1989 og sýndi nágrönnunum hvert stefndi."
+    },
+    {
+      "spurning": "Hver lýsti yfir stofnun Kínverska alþýðulýðveldisins árið 1949?",
+      "svor": [
+        "Sun Yat-sen",
+        "Mao Zedong",
+        "Deng Xiaoping",
+        "Chiang Kai-shek"
+      ],
+      "rett": 1,
+      "skyring": "Mao Zedong flutti yfirlýsinguna á Torgi hins himneska friðar í Peking."
+    },
+    {
+      "spurning": "Hvaða íslenski skóli tók til starfa 1. október 1874?",
+      "svor": [
+        "Kennaraskólinn",
+        "Menntaskólinn á Egilsstöðum",
+        "Kvennaskólinn í Reykjavík",
+        "Háskóli Íslands"
+      ],
+      "rett": 2,
+      "skyring": "Kvennaskólinn hóf starfsemi undir stjórn Þóru Melsteð."
+    }
+  ],
+  "tonlistUSA": "Star Wars Theme/Cantina Band – Meco (1977)",
+  "tonlistUK": "Way Down – Elvis Presley (1977)",
+  "bio": "The Sound of Music (1965)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fagurt og notalegt þegar horft er út um glugga en reynist kalt eða óblítt þegar út er komið."
+  },
+  "vissir_thu": "André Rieu, sem á afmæli í dag, er þekktur fyrir að flytja valsatónlist með Johann Strauss-hljómsveit sinni.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur vogarskálin sé full af skyldum og hin af vínarvölsum Andrés Rieu. Klæddu þig þó eftir veðri en ekki glugganum — gluggaveður hefur blekkt göfugri stjörnumerki en þig.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/John_Muir_Watkins_Portrait_circa_1875_Edit.png/500px-John_Muir_Watkins_Portrait_circa_1875_Edit.png",
+    "ar": "1890",
+    "texti": "Bandaríkjaþing stofnaði Yosemite-þjóðgarð í Kaliforníu fyrir hvatningu náttúruverndarmannsins Johns Muir og rithöfundarins Roberts Underwood Johnson. Þar með fékk stórbrotin náttúran nokkurs konar formlegan lífvörð.",
+    "heimild": "https://en.wikipedia.org/wiki/John_Muir",
+    "breidd": 330,
+    "haed": 448
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

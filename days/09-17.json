@@ -1,0 +1,137 @@
+{
+  "mmdd": "09-17",
+  "dagur": 17,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:55",
+  "sunset": "19:47",
+  "kvedja": "Góðan 17. september, kæri lesandi! Í dag flýjum við með Harriet Tubman, stefnum til tunglsins með NASA og fylgjumst með Reykvíkingum kjósa til Alþingis með aðeins örfá atkvæði í hattinum — sagan þarf greinilega hvorki ró né stóran kjörfund til að verða eftirminnileg.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1849",
+      "texti": "Harriet Tubman flúði úr þrældómi í Maryland. Síðar hjálpaði hún öðrum þrælum að komast undan um hið svonefnda neðanjarðarjárnbrautarkerfi, sem var hvorki neðanjarðar né járnbraut en bjargaði mannslífum."
+    },
+    {
+      "ar": "1939",
+      "texti": "Sovétríkin réðust inn í Pólland úr austri, sextán dögum eftir innrás Þýskalands úr vestri. Pólverjar voru þar með klemmdir milli tveggja stórvelda í upphafi síðari heimsstyrjaldar."
+    },
+    {
+      "ar": "1962",
+      "texti": "NASA kynnti geimfarahópinn „Next Nine“, sem valinn var með fyrirhugaðar tungllendingar í huga. Tunglið var skyndilega orðið að vinnustað, þótt kaffistofan væri enn óbyggð."
+    },
+    {
+      "ar": "1980",
+      "texti": "Pólska verkalýðsfélagið Samstaða var stofnað og varð fyrsta sjálfstæða verkalýðsfélagið í ríki austantjalds. Félagið átti síðar stóran þátt í pólskum samfélagsbreytingum."
+    },
+    {
+      "ar": "2011",
+      "texti": "Mótmæli gegn áhrifum stórfyrirtækja á lýðræðið hófust í Zuccotti-garði í New York að frumkvæði Adbusters. Þau urðu þekkt sem Occupy Wall Street og kveiktu sambærileg mótmæli víða um heim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1823",
+      "texti": "Fyrsta skráða grindadrápið í Reykjavík fór fram þegar 450 marsvín voru rekin á land í hafnarkrikanum þar sem Slippurinn stendur nú.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1844",
+      "texti": "Fyrstu Alþingiskosningarnar í Reykjavík fóru fram. Sveinbjörn Egilsson fékk flest atkvæði, aðeins 15, en neitaði þingsetu og því varð Árni Helgason þingmaður með 11 atkvæði.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1917",
+      "texti": "Verslunarráð Íslands var stofnað og fékk íslenskt atvinnulíf þar með sameiginlegan vettvang til að ræða viðskipti, hagsmuni og væntanlega verð á kaffi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1966",
+      "texti": "Vegurinn um Ólafsfjarðarmúla var formlega opnaður og samgöngur við Ólafsfjörð tóku stórt skref fram á við.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anne Bancroft",
+      "starfsgrein": "leikkona",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Baz Luhrmann",
+      "starfsgrein": "leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Anastacia",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Arne Slot",
+      "starfsgrein": "knattspyrnuþjálfari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Alexander Ovechkin",
+      "starfsgrein": "íshokkíleikmaður",
+      "ar": "1985"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hugrakka kona flúði úr þrældómi 17. september 1849?",
+      "svor": [
+        "Harriet Tubman",
+        "Anne Bancroft",
+        "Anastacia",
+        "Nadezhda Durova"
+      ],
+      "rett": 0,
+      "skyring": "Harriet Tubman flúði þennan dag og hjálpaði síðar fjölmörgum öðrum að öðlast frelsi."
+    },
+    {
+      "spurning": "Hvað fékk Sveinbjörn Egilsson mörg atkvæði í fyrstu Alþingiskosningunum í Reykjavík?",
+      "svor": [
+        "11",
+        "15",
+        "45",
+        "450"
+      ],
+      "rett": 1,
+      "skyring": "Sveinbjörn fékk 15 atkvæði en afþakkaði þingsetuna — hvert atkvæði vó sannarlega þungt."
+    },
+    {
+      "spurning": "Hvaða samtök voru stofnuð í Póllandi árið 1980?",
+      "svor": [
+        "Adbusters",
+        "NASA",
+        "Samstaða",
+        "Verslunarráð Íslands"
+      ],
+      "rett": 2,
+      "skyring": "Samstaða varð fyrsta sjálfstæða verkalýðsfélagið í ríki austantjalds."
+    }
+  ],
+  "tonlistUSA": "Maniac – Michael Sembello (1983)",
+  "tonlistUK": "Red Red Wine – UB40 (1983)",
+  "bio": "Forrest Gump (1994)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfbirta eða rökkur, þegar dagur og nótt virðast semja um vaktaskiptin."
+  },
+  "vissir_thu": "Geimfarahópurinn „Next Nine“, sem NASA kynnti árið 1962, var aðeins annar geimfarahópur stofnunarinnar.",
+  "stjornuspa": "Meyjan finnur í dag skrúfu sem enginn annar vissi að væri laus og lagar málið áður en hádegiskaffið kólnar. Varastu þó að skipuleggja tunglferðina niður á mínútu — jafnvel NASA þurfti svigrúm.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg/500px-Carte-de-visite_portrait_of_Harriet_Tubman_%28cropped%29.jpg",
+    "ar": "1849",
+    "texti": "Harriet Tubman flúði úr þrældómi í Maryland. Síðar hjálpaði hún öðrum þrælum að komast undan um hið svonefnda neðanjarðarjárnbrautarkerfi, sem var hvorki neðanjarðar né járnbraut en bjargaði mannslífum.",
+    "heimild": "https://en.wikipedia.org/wiki/Harriet_Tubman",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

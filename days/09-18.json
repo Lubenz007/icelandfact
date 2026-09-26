@@ -1,0 +1,148 @@
+{
+  "mmdd": "09-18",
+  "dagur": 18,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "06:57",
+  "sunset": "19:43",
+  "kvedja": "Góðan 18. september! Í dag liggur leiðin frá keisarahöllum Rómar að goshverum Wyoming og þaðan rakleiðis í markalausan stórleik á Melavellinum — sagan kann greinilega ekki að sitja kyrr. Helltu upp á eitthvað gott og komdu með; við lofum aðeins hóflegu magni af keisurum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "96",
+      "texti": "Nerva tók við völdum í Róm eftir að Domitianus keisari var myrtur. Þar með varð hann fyrstur þeirra sem síðar voru kallaðir „góðu keisararnir fimm“ — titill sem hlýtur að hafa sett nokkra pressu á kaffitímana í höllinni."
+    },
+    {
+      "ar": "1851",
+      "texti": "Dagblaðið The New York Times var stofnað. Blaðið átti síðar eftir að verða stærsta stórborgardagblað Bandaríkjanna."
+    },
+    {
+      "ar": "1870",
+      "texti": "Nathaniel P. Langford sá goshver í Wyoming gjósa með reglulegu millibili og nefndi hann Old Faithful. Náttúran hafði þar með eignast sinn eigin stundvísa sýningarmann."
+    },
+    {
+      "ar": "1918",
+      "texti": "Miðveldin biðu ósigur í orrustunni við Dobro Pole í fyrri heimsstyrjöld. Ósigurinn átti þátt í því að Búlgaría dró sig úr stríðinu og leiddi til frelsunar Vardar-Makedóníu."
+    },
+    {
+      "ar": "1961",
+      "texti": "Flugvél fórst nærri Ndola í Norður-Ródesíu og allir 16 um borð létust. Meðal þeirra var Dag Hammarskjöld, framkvæmdastjóri Sameinuðu þjóðanna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1699",
+      "texti": "Mikið brúðkaup var haldið í Skálholti þegar Jón Vídalín biskup gekk að eiga Sigríði Jónsdóttur frá Leirá. Þar voru 23 prestar — svo vart hefur skort fólk til að blessa veisluna.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1885",
+      "texti": "Landsbanki Íslands var stofnaður. Þar hófst nýr kafli í íslenskri bankasögu, löngu áður en hraðbankinn varð hversdagslegur félagi landsmanna.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1968",
+      "texti": "Valur og portúgalska stórliðið Benfica gerðu markalaust jafntefli í knattspyrnu. Áhorfendur voru 18.243 og þar með var sett vallarmet.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1984",
+      "texti": "Kröflueldum lauk eftir að hafa staðið frá árinu 1975. Jörðin hafði þá haldið sína eigin, býsna langdregnu flugeldasýningu í nærri níu ár.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Carson",
+      "starfsgrein": "taugaskurðlæknir, rithöfundur og stjórnmálamaður",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Aisha Tyler",
+      "starfsgrein": "leikkona, sjónvarpskona og rithöfundur",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Aidan Gallagher",
+      "starfsgrein": "leikari og tónlistarmaður",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Anna Netrebko",
+      "starfsgrein": "óperusöngkona og leikkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Trajanus",
+      "starfsgrein": "rómverskur keisari",
+      "ar": "53"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Már Guðmundsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Annie Mist Þórisdóttir",
+      "starfsgrein": "íþróttakona og heimsmeistari í CrossFit",
+      "ar": "1989"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða náttúruundur fékk nafnið Old Faithful þennan dag árið 1870?",
+      "svor": [
+        "Goshver",
+        "Jökull",
+        "Foss",
+        "Eldfjall"
+      ],
+      "rett": 0,
+      "skyring": "Old Faithful er goshver sem vakti athygli fyrir regluleg gos sín."
+    },
+    {
+      "spurning": "Hve margir prestar voru í brúðkaupi Jóns Vídalíns og Sigríðar Jónsdóttur árið 1699?",
+      "svor": [
+        "7",
+        "12",
+        "23",
+        "41"
+      ],
+      "rett": 2,
+      "skyring": "Prestarnir voru 23, sem telst myndarleg kirkjuleg mæting í eina brúðkaupsveislu."
+    },
+    {
+      "spurning": "Hvaða portúgalska stórlið gerði markalaust jafntefli við Val árið 1968?",
+      "svor": [
+        "Porto",
+        "Benfica",
+        "Sporting",
+        "Braga"
+      ],
+      "rett": 1,
+      "skyring": "Valur hélt Benfica í skefjum fyrir framan 18.243 áhorfendur."
+    }
+  ],
+  "tonlistUSA": "Hard to Say I'm Sorry – Chicago (1982)",
+  "tonlistUK": "Eye of the Tiger – Survivor (1982)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Að eitthvað gerist árdegis merkir að það gerist fyrir hádegi."
+  },
+  "vissir_thu": "Dag Hammarskjöld var framkvæmdastjóri Sameinuðu þjóðanna þegar hann fórst í flugslysinu nærri Ndola árið 1961.",
+  "stjornuspa": "Meyjan finnur í dag óvænt skipulag í gömlum skúffum, gleymdum kvittunum og jafnvel mannkynssögunni sjálfri. Varastu þó að flokka vini þína í stafrófsröð — þeir kunna að mótmæla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/b/b7/The_New_York_Times%2C_January_13%2C_2024.png",
+    "ar": "1851",
+    "texti": "Dagblaðið The New York Times var stofnað. Blaðið átti síðar eftir að verða stærsta stórborgardagblað Bandaríkjanna.",
+    "heimild": "https://en.wikipedia.org/wiki/The_New_York_Times",
+    "breidd": 234,
+    "haed": 426
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

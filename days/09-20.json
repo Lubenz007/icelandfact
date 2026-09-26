@@ -1,0 +1,153 @@
+{
+  "mmdd": "09-20",
+  "dagur": 20,
+  "manudur": "september",
+  "manudurNr": 9,
+  "stjornumerki": "Meyja",
+  "sunrise": "07:03",
+  "sunset": "19:36",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag sveiflum við okkur frá opinskárri Búdda-styttu í Japan yfir á tennisvöllinn í Houston og endum við íslenska sölulúgu — sagan kann sannarlega að halda mörgum boltum á lofti. Njóttu dagsins og mundu að jafnvel Meyjan má skilja eitt skúffuhorn eftir óskipulagt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1498",
+      "texti": "Flóðbylgja af völdum Meiō-jarðskjálftans sópaði burt byggingunni sem hýsti Stóra Búdda í Kōtoku-in í Kamakura. Styttan sjálf stóð af sér hamfarirnar og hefur síðan setið undir berum himni."
+    },
+    {
+      "ar": "1792",
+      "texti": "Franski herinn vann sinn fyrsta stórsigur í stríði fyrstu bandalagsríkjanna í orrustunni við Valmy. Sigurinn varð mikilvæg vítamínsprauta fyrir frönsku byltinguna."
+    },
+    {
+      "ar": "1870",
+      "texti": "Bersaglieri-sveitir Ítalíu brutust inn í Róm um Porta Pia. Þar með lauk veraldlegu valdi páfa og sameining Ítalíu var í reynd fullgerð."
+    },
+    {
+      "ar": "1973",
+      "texti": "Billie Jean King sigraði Bobby Riggs í þremur beinum settum í hinni svokölluðu „orrustu kynjanna“ í Houston. Sjónvarpsviðureignin varð bæði íþróttasaga og táknrænn sigur fyrir jafnréttisbaráttuna."
+    },
+    {
+      "ar": "2011",
+      "texti": "Bandaríkjaher afnam stefnuna „don't ask, don't tell“. Samkynhneigðir hermenn gátu þar með þjónað opinberlega án þess að þurfa að leyna kynhneigð sinni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1654",
+      "texti": "Tveir menn voru brenndir á báli fyrir galdur í Trékyllisvík á Ströndum, myrkur og átakanlegur kafli íslensku galdraaldarinnar.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1900",
+      "texti": "Kirkjurokið gekk yfir landið með hörmulegum afleiðingum. Yfir þrjátíu manns fórust, kirkjurnar á Urðum og Upsum brotnuðu í spón og átján menn úr Ketildölum týndu lífi í sjó.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1940",
+      "texti": "Petsamoförin hófst þegar Esja lagði úr höfn í Reykjavík. Förin var farin til að sækja Íslendinga sem höfðu orðið innlyksa á Norðurlöndum vegna heimsstyrjaldarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2004",
+      "texti": "Verkfall grunnskólakennara hófst og stóð í 39 daga. Það varð eitt lengsta verkfall í sögu íslenskra skóla — löng frímínúta sem enginn hafði sérstaklega beðið um.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Asia Argento",
+      "starfsgrein": "ítölsk leikkona",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Aldis Hodge",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Anne Meara",
+      "starfsgrein": "bandarísk leikkona og leikskáld",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Arthur, Prince of Wales",
+      "starfsgrein": "enskur krónprins",
+      "ar": "1486"
+    },
+    {
+      "nafn": "Andrew Davies",
+      "starfsgrein": "velskur rithöfundur og handritshöfundur",
+      "ar": "1936"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Valur Gíslason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Aðalheiður Hólm Spans",
+      "starfsgrein": "verkalýðsleiðtogi",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Ríkarður Jónsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1888"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver sigraði Bobby Riggs í hinni frægu „orrustu kynjanna“ árið 1973?",
+      "svor": [
+        "Billie Jean King",
+        "Asia Argento",
+        "Anne Meara",
+        "Alannah Currie"
+      ],
+      "rett": 0,
+      "skyring": "Billie Jean King vann í þremur beinum settum og lét tennisspaðann tala skýrt."
+    },
+    {
+      "spurning": "Hvað hófst á Íslandi 20. september 2004 og stóð í 39 daga?",
+      "svor": [
+        "Petsamoförin",
+        "Verkfall grunnskólakennara",
+        "Kirkjurokið",
+        "Aðgerð Pólstjarnan"
+      ],
+      "rett": 1,
+      "skyring": "Verkfall grunnskólakennara stóð í 39 daga og reyndi hressilega á stundatöflur þjóðarinnar."
+    },
+    {
+      "spurning": "Hvaða borg tóku ítalskar hersveitir árið 1870 og fullkomnuðu þannig sameiningu Ítalíu?",
+      "svor": [
+        "Feneyjar",
+        "Flórens",
+        "Róm",
+        "Napólí"
+      ],
+      "rett": 2,
+      "skyring": "Bersaglieri-sveitirnar fóru inn í Róm um Porta Pia og páfaveldið varð aldrei samt."
+    }
+  ],
+  "tonlistUSA": "Sugar, Sugar – The Archies (1969)",
+  "tonlistUK": "Bad Moon Rising – Creedence Clearwater Revival (1969)",
+  "bio": "Goodfellas (1990)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist indælt þegar horft er út um gluggann en reynist mun óblíðara þegar út er komið."
+  },
+  "vissir_thu": "Stóri Búdda í Kamakura hefur setið undir berum himni frá því flóðbylgja eyðilagði bygginguna umhverfis hann árið 1498.",
+  "stjornuspa": "Meyjan finnur í dag gamla minnisbók, týndan penna eða verkefni sem hefði átt að klárast árið 1987. Raðaðu hugsununum eins og kassettum í hillu, en leyfðu einni þeirra að liggja skakkt — það kallast ævintýri.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/1498_Meio_earthquake_intensity.png/500px-1498_Meio_earthquake_intensity.png",
+    "ar": "1498",
+    "texti": "Flóðbylgja af völdum Meiō-jarðskjálftans sópaði burt byggingunni sem hýsti Stóra Búdda í Kōtoku-in í Kamakura. Styttan sjálf stóð af sér hamfarirnar og hefur síðan setið undir berum himni.",
+    "heimild": "https://en.wikipedia.org/wiki/1498_Meiō_earthquake",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
