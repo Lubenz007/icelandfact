@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-26",
+  "dagur": 26,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:29",
+  "sunset": "15:58",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. nóvember hittast gullræningjar, Marsbíll og Lína langsokkur í annálunum — samkvæmi sem jafnvel Bogmaðurinn hefði átt erfitt með að skipuleggja. Fáðu þér sopa, stilltu sögugleraugun og njóttu ferðarinnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1852",
+      "texti": "Gífurlegur jarðskjálfti reið yfir Hollensku Austur-Indíur og framkallaði flóðbylgju sem sópaði burt þorpum, skipum og íbúum. Náttúran minnti þar harkalega á hver héldi í raun um stjórnartaumana."
+    },
+    {
+      "ar": "1917",
+      "texti": "Kanadísk íshokkífélög slitu sig frá National Hockey Association eftir þrálátar deilur við Eddie Livingstone og stofnuðu National Hockey League. NHL varð því til úr ágreiningi — býsna viðeigandi fyrir íþrótt þar sem menn mega stundum takast á með hnefunum."
+    },
+    {
+      "ar": "1942",
+      "texti": "Kvikmyndin Casablanca, með Humphrey Bogart og Ingrid Bergman, var frumsýnd í New York. Tímasetningin tengdist innrás bandamanna í Frönsku Norður-Afríku og töku borgarinnar Casablanca."
+    },
+    {
+      "ar": "1983",
+      "texti": "Sex ræningjar brutust inn í Brink's-Mat-vöruhúsið við Heathrow og stálu gulli, demöntum og reiðufé að verðmæti 26 milljónir punda. Þetta var enginn smá vasapeningur í fríhöfninni."
+    },
+    {
+      "ar": "2011",
+      "texti": "NASA skaut Mars Science Laboratory-geimfarinu á loft frá Cape Canaveral með Marsbílinn Curiosity innanborðs. Forvitnin drap sem sagt ekki köttinn í þetta sinn — hún fór til Mars."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1594",
+      "texti": "Gefin var út tilskipun um að Grallarinn, messusöngsbók Guðbrands Þorlákssonar Hólabiskups, skyldi notaður í báðum biskupsdæmum landsins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1980",
+      "texti": "Geislavirkir, fyrsta breiðskífa Utangarðsmanna, kom út og íslenskt rokk fékk vænan rafstraum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1981",
+      "texti": "Dagblaðið og Vísir sameinuðust og útgáfa DV hófst. Tvö blöð urðu að einu, en fyrirsagnirnar urðu ekkert endilega hógværari.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1993",
+      "texti": "Skilaboðaskjóðan eftir Þorvald Þorsteinsson var frumsýnd í Þjóðleikhúsinu og síðar kölluð „fullkomið listaverk“ í gagnrýni Morgunblaðsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Wan-Bissaka",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Anuel AA",
+      "starfsgrein": "rappari og söngvari",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Antonio Puerta",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Bruce Paltrow",
+      "starfsgrein": "leikstjóri og framleiðandi",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Adolfo Pérez Esquivel",
+      "starfsgrein": "listamaður, mannréttindafrömuður og nóbelsverðlaunahafi",
+      "ar": "1931"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Thor Thors",
+      "starfsgrein": "sendiherra",
+      "ar": "1903"
+    },
+    {
+      "nafn": "Ingólfur Björn Sigurðsson",
+      "starfsgrein": "leikari",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Einar Eyjólfsson",
+      "starfsgrein": "prestur",
+      "ar": "1958"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfarþegi lagði af stað til Mars 26. nóvember 2011?",
+      "svor": [
+        "Curiosity",
+        "InSight",
+        "Voyager 1",
+        "Apollo 11"
+      ],
+      "rett": 0,
+      "skyring": "Curiosity var innanborðs í Mars Science Laboratory þegar því var skotið á loft."
+    },
+    {
+      "spurning": "Hvaða íþróttadeild var stofnuð eftir deilur kanadískra félaga árið 1917?",
+      "svor": [
+        "NBA",
+        "NHL",
+        "NFL",
+        "Formúla 1"
+      ],
+      "rett": 1,
+      "skyring": "NHL fæddist úr íshokkídeilum, enda getur núningur stundum skapað góðan hraða."
+    },
+    {
+      "spurning": "Hvaða íslenska hljómsveit gaf út breiðskífuna Geislavirkir árið 1980?",
+      "svor": [
+        "Stuðmenn",
+        "Þursaflokkurinn",
+        "Utangarðsmenn",
+        "Sykurmolarnir"
+      ],
+      "rett": 2,
+      "skyring": "Geislavirkir var fyrsta breiðskífa Utangarðsmanna."
+    }
+  ],
+  "tonlistUSA": "Anti-Hero – Taylor Swift (2022)",
+  "tonlistUK": "Anti-Hero – Taylor Swift (2022)",
+  "bio": "Casablanca (1942)",
+  "ord_dagsins": {
+    "ord": "grallari",
+    "skyring": "Grallari er gömul messusöngsbók með söngvum og tónum fyrir kirkjulegar athafnir."
+  },
+  "vissir_thu": "Casablanca var frumsýnd í New York sama ár og hún gerist að mestu leyti, 1942, og frumsýningin var tímasett með hliðsjón af hernaðaraðgerðum bandamanna í Norður-Afríku.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, ferðalög og dálítið óþarfa sjálfstraust — helst í flauelsjakka. Ef einhver reynir að draga úr þér kjark skaltu minna viðkomandi á að Curiosity komst alla leið til Mars.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eddie_Livingstone.jpg/500px-Eddie_Livingstone.jpg",
+    "ar": "1917",
+    "texti": "Kanadísk íshokkífélög slitu sig frá National Hockey Association eftir þrálátar deilur við Eddie Livingstone og stofnuðu National Hockey League. NHL varð því til úr ágreiningi — býsna viðeigandi fyrir íþrótt þar sem menn mega stundum takast á með hnefunum.",
+    "heimild": "https://en.wikipedia.org/wiki/Eddie_Livingstone",
+    "breidd": 330,
+    "haed": 499
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

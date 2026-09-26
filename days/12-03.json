@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-03",
+  "dagur": 3,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:49",
+  "sunset": "15:43",
+  "kvedja": "Góðan 3. desember, kæri lesandi! Í dag förum við úr miðaldavígi í Búrma yfir á hjartaskurðarborð í Höfðaborg og endum með leikjafjarstýringu í hönd — sagan kann svo sannarlega að skipta snögglega um gír.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1283",
+      "texti": "Í fyrstu innrás Mongóla í Búrma féll virkið við Ngasaunggyan eftir tveggja mánaða umsátur. Þar dugði hvorki þolinmæði né þykkir virkisveggir til."
+    },
+    {
+      "ar": "1910",
+      "texti": "Freda Du Faur varð fyrst kvenna til að klífa Aoraki, einnig nefnt Mount Cook, hæsta fjall Nýja-Sjálands. Hún braut þar bæði hæðarmet og samfélagslegar hindranir."
+    },
+    {
+      "ar": "1967",
+      "texti": "Christiaan Barnard framkvæmdi fyrstu vel heppnuðu hjartaígræðsluna í manni á Groote Schuur-sjúkrahúsinu í Höfðaborg. Þeginn var Louis Washkansky og læknavísindin tóku stórt skref inn í nýjan tíma."
+    },
+    {
+      "ar": "1994",
+      "texti": "Sony gaf út PlayStation, leikjatölvu sem varð síðar fyrsti tölvuleikjavettvangurinn til að seljast í 100 milljónum eintaka. Stofusjónvarpið fékk þar með nýtt og ærið krefjandi hlutverk."
+    },
+    {
+      "ar": "2024",
+      "texti": "Yoon Suk Yeol, forseti Suður-Kóreu, lýsti yfir herlögum í landinu. Ákvörðunin kallaði þegar fram hörð pólitísk viðbrögð og markaði dramatískan dag í sögu landsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1481",
+      "texti": "Einar Björnsson jungkæri náði Bjarna Þórarinssyni góða manni á sitt vald á Brjánslæk á Barðaströnd og lét taka hann af lífi. Miðaldirnar buðu sjaldan upp á mild málalok.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1857",
+      "texti": "Kona og tvö börn fórust í Kollsvík við Patreksfjörð þegar hvirfilbylur braut niður bæjarhús. Atburðurinn minnir á hve skyndilega íslensk veðrátta getur sýnt sína grimmustu hlið.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1916",
+      "texti": "Íþróttafélagið Skallagrímur var stofnað í Borgarnesi. Nafnið var sótt beint í sagnaarfinn, enda þarf öflugt íþróttafélag helst að hljóma eins og það geti varið héraðið.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1970",
+      "texti": "Verslunarmiðstöðin Glæsibær var tekin í notkun í Reykjavík og þar var meðal annars stærsta matvöruverslun landsins á þeim tíma, verslun Silla og Valda.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amanda Seyfried",
+      "starfsgrein": "leikkona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Brendan Fraser",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Anna Chlumsky",
+      "starfsgrein": "leikkona",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Andy Williams",
+      "starfsgrein": "söngvari",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Anna Freud",
+      "starfsgrein": "sálfræðingur og sálgreinir",
+      "ar": "1895"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ari Trausti Guðmundsson",
+      "starfsgrein": "jarðfræðingur",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Elísabet Hulda Snorradóttir",
+      "starfsgrein": "fegurðardrottning",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Jens Eyjólfsson",
+      "starfsgrein": "byggingameistari",
+      "ar": "1879"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fyrirtæki gaf út PlayStation árið 1994?",
+      "svor": [
+        "Sony",
+        "Nintendo",
+        "Sega",
+        "Atari"
+      ],
+      "rett": 0,
+      "skyring": "Sony setti PlayStation á markað og stofan varð aldrei alveg söm á eftir."
+    },
+    {
+      "spurning": "Hvar var fyrsta vel heppnaða hjartaígræðslan í manni framkvæmd?",
+      "svor": [
+        "Dublin",
+        "Höfðaborg",
+        "Stokkhólmi",
+        "Boston"
+      ],
+      "rett": 1,
+      "skyring": "Christiaan Barnard framkvæmdi aðgerðina í Höfðaborg árið 1967."
+    },
+    {
+      "spurning": "Hvaða íþróttafélag var stofnað í Borgarnesi árið 1916?",
+      "svor": [
+        "Valur",
+        "Skallagrímur",
+        "Fram",
+        "Víkingur"
+      ],
+      "rett": 1,
+      "skyring": "Skallagrímur varð fyrir valinu — nafn sem kemur sér vel þegar blásið er til leiks."
+    }
+  ],
+  "tonlistUSA": "All Night Long (All Night) – Lionel Richie (1983)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "Toy Story (1995)",
+  "ord_dagsins": {
+    "ord": "málæði",
+    "skyring": "Málæði er tilhneiging til að tala mikið, eiginleiki sem getur verið bæði félagsleg gjöf og prófraun fyrir sessunautinn."
+  },
+  "vissir_thu": "PlayStation varð fyrsti tölvuleikjavettvangurinn til að ná 100 milljónum seldra eintaka.",
+  "stjornuspa": "Bogmaður, í dag blundar í þér landkönnuður með kort í öðrum vasanum og bilaðan áttavita í hinum. Fylgdu forvitninni, en lestu smáa letrið áður en þú lýsir yfir eigin herlögum á heimilinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Mongol_invasions_of_Burma_%281277-87%29.png/330px-Mongol_invasions_of_Burma_%281277-87%29.png",
+    "ar": "1283",
+    "texti": "Í fyrstu innrás Mongóla í Búrma féll virkið við Ngasaunggyan eftir tveggja mánaða umsátur. Þar dugði hvorki þolinmæði né þykkir virkisveggir til.",
+    "heimild": "https://en.wikipedia.org/wiki/First_Mongol_invasion_of_Burma",
+    "breidd": 330,
+    "haed": 654
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

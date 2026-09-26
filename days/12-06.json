@@ -1,0 +1,148 @@
+{
+  "mmdd": "12-06",
+  "dagur": 6,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:57",
+  "sunset": "15:38",
+  "kvedja": "Góðan 6. desember! Í dag röltum við frá yfirdómi á Alþingi til nýfæddrar Surtseyjar og rifjum upp þegar Napster fékk tónlistarbransann til að hækka brúnirnar. Sagan kann sannarlega að blanda saman lagabókstaf, hrauni og rokki — með dálitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1912",
+      "texti": "Brjóstmynd Nefertítar fannst við fornleifauppgröft í Amarna í Egyptalandi. Hún var síðar flutt til Þýskalands og hefur lengi verið meðal umdeildustu fornminja heims."
+    },
+    {
+      "ar": "1933",
+      "texti": "Bandaríski dómarinn John M. Woolsey úrskurðaði að skáldsaga James Joyce, Ulysses, væri ekki klámfengin og mætti því flytja hana inn til Bandaríkjanna. Bókmenntirnar fengu grænt ljós, þótt lesendur þyrftu enn töluvert nesti."
+    },
+    {
+      "ar": "1957",
+      "texti": "Fyrsta tilraun Bandaríkjamanna til að skjóta gervihnetti á loft endaði með sprengingu á skotpallinum við Cape Canaveral. Geimkapphlaupið hófst sem sagt ekki beinlínis með reisn."
+    },
+    {
+      "ar": "1967",
+      "texti": "Bandaríski læknirinn Adrian Kantrowitz og samstarfsfólk hans framkvæmdu fyrstu hjartaígræðslu heims í barn á Maimonides-sjúkrahúsinu í New York."
+    },
+    {
+      "ar": "1999",
+      "texti": "Samtök bandaríska hljómplötuiðnaðarins höfðuðu mál gegn skráaskiptaþjónustunni Napster og sökuðu hana um að auðvelda víðtæk höfundarréttarbrot. Þar með hófst mikill slagur um tónlist á stafrænu öldinni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1593",
+      "texti": "Yfirdómur var stofnaður á Alþingi og starfaði í rúmar tvær aldir.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1954",
+      "texti": "Flugfreyjufélag Íslands var stofnað.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1963",
+      "texti": "Fyrstu mennirnir stigu á land í Surtsey, þrír franskir blaðamenn. Vestmannaeyingar komust sjálfir út í eyna viku síðar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1982",
+      "texti": "Samtök um kvennaathvarf opnuðu Kvennaathvarfið í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Agnes Moorehead",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1900"
+    },
+    {
+      "nafn": "Alfred Eisenstaedt",
+      "starfsgrein": "þýsk-bandarískur ljósmyndari og blaðamaður",
+      "ar": "1898"
+    },
+    {
+      "nafn": "Alberto Contador",
+      "starfsgrein": "spænskur hjólreiðamaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Bruce Nauman",
+      "starfsgrein": "bandarískur myndlistarmaður",
+      "ar": "1941"
+    },
+    {
+      "nafn": "A Boogie wit da Hoodie",
+      "starfsgrein": "bandarískur rappari og söngvari",
+      "ar": "1995"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kristján Eldjárn",
+      "starfsgrein": "fornleifafræðingur og þriðji forseti Íslands",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Futuregrapher",
+      "starfsgrein": "íslenskur raftónlistarmaður",
+      "ar": "1983"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skráaskiptaþjónusta lenti í málaferlum við bandaríska hljómplötuiðnaðinn árið 1999?",
+      "svor": [
+        "Napster",
+        "Spotify",
+        "MySpace",
+        "YouTube"
+      ],
+      "rett": 0,
+      "skyring": "Napster varð helsta táknmynd fyrstu stóru deilnanna um stafræna tónlist."
+    },
+    {
+      "spurning": "Hverjir urðu fyrstir til að stíga á land í Surtsey árið 1963?",
+      "svor": [
+        "Þrír franskir blaðamenn",
+        "Fjórir norskir jarðfræðingar",
+        "Tveir íslenskir sjómenn",
+        "Danskur kvikmyndahópur"
+      ],
+      "rett": 0,
+      "skyring": "Þrír franskir blaðamenn urðu á undan Vestmannaeyingum um heila viku."
+    },
+    {
+      "spurning": "Hvaða skáldsaga var úrskurðuð óklámfengin í Bandaríkjunum árið 1933?",
+      "svor": [
+        "Ulysses",
+        "Moby-Dick",
+        "The Great Gatsby",
+        "Dracula"
+      ],
+      "rett": 0,
+      "skyring": "Úrskurðurinn opnaði bandarískar dyr fyrir Ulysses eftir James Joyce."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Super Trouper – ABBA (1980)",
+  "bio": "Star Trek: The Motion Picture (1979)",
+  "ord_dagsins": {
+    "ord": "orðheppinn",
+    "skyring": "Sá er orðheppinn sem er fljótur að finna snjöll, viðeigandi eða skemmtileg orð."
+  },
+  "vissir_thu": "Þrír franskir blaðamenn urðu fyrstu mennirnir til að stíga á land í Surtsey, aðeins nokkrum vikum eftir að gosið sem myndaði eyjuna hófst.",
+  "stjornuspa": "Bogmaður, í dag er rétti tíminn til að dusta rykið af gömlu áætluninni og setja hana í gang — helst áður en hún verður sjálf að sögulegri heimild. Farðu djarflega, en mundu að ekki þarf hvert smáerindi að verða geimkapphlaup.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Nofretete_Neues_Museum.jpg/500px-Nofretete_Neues_Museum.jpg",
+    "ar": "1912",
+    "texti": "Brjóstmynd Nefertítar fannst við fornleifauppgröft í Amarna í Egyptalandi. Hún var síðar flutt til Þýskalands og hefur lengi verið meðal umdeildustu fornminja heims.",
+    "heimild": "https://en.wikipedia.org/wiki/Nefertiti_Bust",
+    "breidd": 330,
+    "haed": 483
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-20",
+  "dagur": 20,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "10:11",
+  "sunset": "16:13",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn í 20. nóvember þar sem hvalur sökkti skipi, Windows birtist á skjánum og Íslendingar reyndu að fækka sveitarfélögum með heldur hóflegum árangri. Sagan minnir okkur á að bæði hvalir og kjósendur geta verið óútreiknanlegir — og það er einmitt hluti af töfrunum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1739",
+      "texti": "Í stríðinu sem kennt er við eyra Jenkins kom breskur floti að Portobello í spænsku nýlendunum í Ameríku og hertók byggðina daginn eftir. Nafn stríðsins hljómar næstum eins og kráarsaga, en átökin voru bláköld heimsvaldastefna."
+    },
+    {
+      "ar": "1820",
+      "texti": "Bandaríska hvalveiðiskipið Essex sökk um 3.700 kílómetra vestur af Suður-Ameríku eftir árás búrhvals. Atburðurinn varð síðar einn innblástursgjafa Hermans Melville að Moby-Dick."
+    },
+    {
+      "ar": "1945",
+      "texti": "Nürnberg-réttarhöldin yfir 24 háttsettum nasistum hófust í Þýskalandi. Þar voru leiðtogar nasistastjórnarinnar sóttir til saka vegna helfararinnar og annarra stríðsglæpa síðari heimsstyrjaldar."
+    },
+    {
+      "ar": "1969",
+      "texti": "Hópur bandarískra frumbyggja hóf hernám Alcatraz-eyju í San Francisco-flóa. Aðgerðin stóð í 19 mánuði og vakti mikla athygli á réttindabaráttu frumbyggja."
+    },
+    {
+      "ar": "1985",
+      "texti": "Microsoft gaf Windows 1.0 út fyrir almenning. Gluggarnir voru enn fremur frumstæðir, en tölvuheimurinn var þar með farinn að opna þá upp á gátt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1763",
+      "texti": "Dómkirkjan á Hólum í Hjaltadal, sú sem enn stendur, var vígð. Byggingin var fjármögnuð með norsku og dönsku gjafafé.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1772",
+      "texti": "Snjóflóð féll á tvo bæi á Látraströnd; fjórir menn fórust en einum var bjargað úr flóðinu eftir tíu daga.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1959",
+      "texti": "Viðreisnarstjórnin tók við völdum undir forystu Ólafs Thors. Þrátt fyrir nokkrar breytingar sat hún í tæp tólf ár, lengur en nokkur önnur ríkisstjórn Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1993",
+      "texti": "Kosið var um tillögur að sameiningu sveitarfélaga sem hefðu fækkað þeim úr 196 í 43. Af 32 tillögum fékk aðeins ein samþykki kjósenda — sameiningarvélin fór því ekki beinlínis á yfirsnúning.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andrea Riseborough",
+      "starfsgrein": "leikkona",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Bob Einstein",
+      "starfsgrein": "leikari og handritshöfundur",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Benoit Mandelbrot",
+      "starfsgrein": "stærðfræðingur og hagfræðingur",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Alistair Cooke",
+      "starfsgrein": "blaðamaður og rithöfundur",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Barbara Hendricks",
+      "starfsgrein": "sópransöngkona og leikkona",
+      "ar": "1948"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ásthildur Lóa Þórsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Sigríður Víðis Jónsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Kristín Svava Tómasdóttir",
+      "starfsgrein": "skáld",
+      "ar": "1985"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dýr réðst á hvalveiðiskipið Essex árið 1820?",
+      "svor": [
+        "Háhyrningur",
+        "Búrhvalur",
+        "Steypireyður",
+        "Risasmokkfiskur"
+      ],
+      "rett": 1,
+      "skyring": "Það var búrhvalur sem sökkti Essex og lagði þar með óvart grunn að mikilli bókmenntasögu."
+    },
+    {
+      "spurning": "Hvaða stýrikerfi kom fyrst út fyrir almenning 20. nóvember 1985?",
+      "svor": [
+        "Windows 1.0",
+        "Mac OS X",
+        "Windows 95",
+        "Android"
+      ],
+      "rett": 0,
+      "skyring": "Windows 1.0 opnaði fyrstu gluggana, þótt þeir væru öllu látlausari en nú tíðkast."
+    },
+    {
+      "spurning": "Hversu margar af 32 sameiningartillögum sveitarfélaga voru samþykktar árið 1993?",
+      "svor": [
+        "Ein",
+        "Átta",
+        "Sextán",
+        "Allar"
+      ],
+      "rett": 0,
+      "skyring": "Aðeins ein tillaga var samþykkt; sveitarfélögin héldu fast í sitt eins og köttur í gluggakistu."
+    }
+  ],
+  "tonlistUSA": "No Diggity – Blackstreet featuring Dr. Dre (1996)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "Toy Story (1995)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist fallegt og notalegt séð inn um glugga en reynist mun verra þegar út er komið."
+  },
+  "vissir_thu": "Benoit Mandelbrot bjó til orðið „fractal“ árið 1975 um mynstur sem sýna svipaða gerð á mismunandi stærðarkvörðum.",
+  "stjornuspa": "Sporðdreki, gamall leyndardómur gæti skriðið fram úr skúffu í dag, líklega við hliðina á týndum lykli eða reikningi frá 1985. Haltu ró þinni, beittu innsæinu og mundu að dramatísk þögn getur verið áhrifaríkari en heilt erindi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_new_and_correct_map_of_the_trading_part_of_the_West_Indies.png/500px-A_new_and_correct_map_of_the_trading_part_of_the_West_Indies.png",
+    "ar": "1739",
+    "texti": "Í stríðinu sem kennt er við eyra Jenkins kom breskur floti að Portobello í spænsku nýlendunum í Ameríku og hertók byggðina daginn eftir. Nafn stríðsins hljómar næstum eins og kráarsaga, en átökin voru bláköld heimsvaldastefna.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear",
+    "breidd": 330,
+    "haed": 186
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

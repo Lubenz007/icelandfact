@@ -1,0 +1,143 @@
+{
+  "mmdd": "11-18",
+  "dagur": 18,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "10:04",
+  "sunset": "16:19",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 18. nóvember förum við frá bannfæringu keisara yfir í Mark Twain, geimferðir og Minecraft — saga dagsins kann sannarlega að skipta um gír. Haltu fast í kaffibollann; Sporðdrekinn ætlar ekki að láta okkur leiðast.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1210",
+      "texti": "Innocentius 3. páfi bannfærði Ottó 4. keisara hins heilaga rómverska ríkis eftir að keisarinn krafðist þess að Wormssamkomulagið yrði ógilt. Samskipti kirkju og krúnu voru sjaldan einfalt kaffiboð."
+    },
+    {
+      "ar": "1865",
+      "texti": "Smásagan „The Celebrated Jumping Frog of Calaveras County“ kom út og varð fyrsti stórsigur bandaríska rithöfundarins Marks Twain. Stundum þarf aðeins einn stökkvandi frosk til að koma ferli á flug."
+    },
+    {
+      "ar": "1956",
+      "texti": "Ræða Nikita Khrushchevs í pólska sendiráðinu í Moskvu var þýdd á ensku með orðunum „We will bury you“. Vesturlenskir sendifulltrúar gengu úr salnum, enda var kalda stríðið ekki þekkt fyrir blæbrigðaríkar kaffispjallsþýðingar."
+    },
+    {
+      "ar": "2003",
+      "texti": "Hæstiréttur Massachusetts úrskurðaði í málinu Goodridge gegn lýðheilsuráðuneytinu og varð ríkið þar með fyrst bandarískra ríkja til að lögleiða hjónabönd samkynhneigðra."
+    },
+    {
+      "ar": "2011",
+      "texti": "Sandkassaleikurinn Minecraft yfirgaf beta-stigið þegar útgáfa 1.0 kom formlega út. Upp frá því mátti byggja heilu heimsveldin úr kubbum — og missa þau jafnharðan fyrir laumuskrímsli."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1709",
+      "texti": "Biskupsstofan á Hólum í Hjaltadal brann, barn fórst í eldinum og mikið af verðmætum munum glataðist.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1897",
+      "texti": "Blaðamannafélag Íslands var stofnað — tímamót fyrir stétt sem hefur æ síðan spurt spurninga, elt skilafresti og drukkið ómælt kaffi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1906",
+      "texti": "Stórbruni varð á Akureyri; sjö hús brunnu og um 80 manns misstu heimili sín.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1981",
+      "texti": "Áttunda hrina Kröfluelda hófst og stóð í fimm daga. Jörðin minnti rækilega á að hún á síðasta orðið í jarðfræðilegum samræðum.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Chloë Sevigny",
+      "starfsgrein": "leikkona, fyrirsæta og fatahönnuður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Alan Moore",
+      "starfsgrein": "rithöfundur og myndasagnahöfundur",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Alan Shepard",
+      "starfsgrein": "geimfari",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Allyson Felix",
+      "starfsgrein": "spretthlaupari",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Alec Issigonis",
+      "starfsgrein": "bílahönnuður",
+      "ar": "1906"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Svavar Guðnason",
+      "starfsgrein": "listmálari",
+      "ar": "1909"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tölvuleikur kom formlega út í útgáfu 1.0 árið 2011?",
+      "svor": [
+        "Minecraft",
+        "Tetris",
+        "Fortnite",
+        "SimCity"
+      ],
+      "rett": 0,
+      "skyring": "Minecraft yfirgaf beta-stigið og kubbaheimurinn varð formlega fullvaxta."
+    },
+    {
+      "spurning": "Hvaða íslenski bær varð fyrir stórbruna árið 1906?",
+      "svor": [
+        "Húsavík",
+        "Akureyri",
+        "Ísafjörður",
+        "Selfoss"
+      ],
+      "rett": 1,
+      "skyring": "Á Akureyri brunnu sjö hús og um 80 manns misstu heimili sín."
+    },
+    {
+      "spurning": "Hver hannaði hinn sígilda Mini-bíl?",
+      "svor": [
+        "Alan Moore",
+        "Alan Shepard",
+        "Alec Issigonis",
+        "Allyson Felix"
+      ],
+      "rett": 2,
+      "skyring": "Alec Issigonis hannaði Mini, smábíl með óvenjustóran sess í bílasögunni."
+    }
+  ],
+  "tonlistUSA": "We Built This City – Starship (1985)",
+  "tonlistUK": "A Good Heart – Feargal Sharkey (1985)",
+  "bio": "Harry Potter and the Goblet of Fire (2005)",
+  "ord_dagsins": {
+    "ord": "veðrahamur",
+    "skyring": "Veðrahamur er ofsafengið eða mjög óstillt veður."
+  },
+  "vissir_thu": "Alan Shepard varð fyrsti Bandaríkjamaðurinn til að fara út í geim árið 1961.",
+  "stjornuspa": "Sporðdreki, gömul leyndarmál kunna að skríða fram eins og miði úr vasadagatali frá 1985 — taktu þeim með glotti en ekki rannsóknarnefnd. Heppnin fylgir þér ef þú treystir innsæinu og forðast að svara öllum skilaboðum með dramatískum þagnarþunga.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Ottta4Brunsvicky.jpg/500px-Ottta4Brunsvicky.jpg",
+    "ar": "1210",
+    "texti": "Innocentius 3. páfi bannfærði Ottó 4. keisara hins heilaga rómverska ríkis eftir að keisarinn krafðist þess að Wormssamkomulagið yrði ógilt. Samskipti kirkju og krúnu voru sjaldan einfalt kaffiboð.",
+    "heimild": "https://en.wikipedia.org/wiki/Otto_IV,_Holy_Roman_Emperor",
+    "breidd": 330,
+    "haed": 342
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

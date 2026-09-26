@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-19",
+  "dagur": 19,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "10:07",
+  "sunset": "16:16",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag siglum við með Mayflower, hlýðum á Lincoln, fögnum þúsundasta marki Pelés og rifjum upp þegar Hvítá tók sér óvænt kaffihlé. Sagan kann sannarlega að velja sér fjölbreyttan matseðil.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1620",
+      "texti": "Farþegarnir á Mayflower komu auga á Cape Cod eftir ferðina frá Englandi til Nýja heimsins. Landið var loksins í sjónmáli, sem hefur eflaust verið kærkomnari sýn en enn einn hafragrautarskammturinn."
+    },
+    {
+      "ar": "1863",
+      "texti": "Abraham Lincoln flutti Gettysburgarávarpið við vígslu hermannagrafreits í Pennsylvaníu. Ræðan var örstutt en varð ein sú frægasta í sögu Bandaríkjanna."
+    },
+    {
+      "ar": "1942",
+      "texti": "Sovéski herinn hóf Úranusaraðgerðina við Stalíngrad með það að markmiði að umkringja heri Öxulveldanna. Aðgerðin sneri gangi orrustunnar Sovétmönnum í hag."
+    },
+    {
+      "ar": "1969",
+      "texti": "Brasilíski knattspyrnusnillingurinn Pelé skoraði þúsundasta mark sitt þegar Santos mætti Vasco da Gama í Rio de Janeiro. Flestir væru sáttir við eitt slíkt markasafn."
+    },
+    {
+      "ar": "2002",
+      "texti": "Gríska olíuflutningaskipið Prestige brotnaði í tvennt og sökk undan strönd Galisíu eftir að hafa lekið 420 þúsund tunnum af olíu. Þetta varð versta umhverfisslys í sögu Spánar og Portúgals."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1594",
+      "texti": "Hvítá í Árnessýslu þornaði upp á tveimur stöðum í stormi og samkvæmt Skarðsárannál var hægt að ganga þurrum fótum út í hólma. Þar sýndi íslenskt veður enn og aftur að það lætur ekki vatnsföll segja sér fyrir verkum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1875",
+      "texti": "Thorvaldsensfélagið var stofnað í Reykjavík af 24 konum. Það er elsta kvenfélag Reykjavíkur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1946",
+      "texti": "Ísland gerðist aðili að Sameinuðu þjóðunum og settist þar með formlega við alþjóðlega fundarborðið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1974",
+      "texti": "Geirfinnur Einarsson hvarf í Keflavík og hófst í kjölfarið það sem síðar varð þekkt sem Guðmundar- og Geirfinnsmálið.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Allison Janney",
+      "starfsgrein": "leikkona",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Karl 1. Englandskonungur",
+      "starfsgrein": "konungur Englands, Skotlands og Írlands",
+      "ar": "1600"
+    },
+    {
+      "nafn": "Adam Driver",
+      "starfsgrein": "leikari",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Abdel Fattah el-Sisi",
+      "starfsgrein": "herforingi og forseti Egyptalands",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Barry Jenkins",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1979"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bertel Thorvaldsen",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1770"
+    },
+    {
+      "nafn": "Pétur Eggerz",
+      "starfsgrein": "leikari",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Halldór Halldórsson",
+      "starfsgrein": "stærðfræðingur",
+      "ar": "1948"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða knattspyrnukappi skoraði þúsundasta mark sitt 19. nóvember 1969?",
+      "svor": [
+        "Pelé",
+        "Diego Maradona",
+        "Johan Cruyff",
+        "Franz Beckenbauer"
+      ],
+      "rett": 0,
+      "skyring": "Pelé náði þessum stórkostlega áfanga með Santos í Rio de Janeiro."
+    },
+    {
+      "spurning": "Hvaða á varð samkvæmt annál tímabundið svo vatnslítil árið 1594 að ganga mátti þurrum fótum út í hólma?",
+      "svor": [
+        "Jökulsá á Fjöllum",
+        "Hvítá í Árnessýslu",
+        "Þjórsá",
+        "Blanda"
+      ],
+      "rett": 1,
+      "skyring": "Hvítá lét storminn hafa af sér vatnið á tveimur stöðum, ef marka má Skarðsárannál."
+    },
+    {
+      "spurning": "Hvaða heimsstofnun gekk Ísland í árið 1946?",
+      "svor": [
+        "Atlantshafsbandalagið",
+        "Evrópuráðið",
+        "Sameinuðu þjóðirnar",
+        "Evrópusambandið"
+      ],
+      "rett": 2,
+      "skyring": "Ísland varð aðili að Sameinuðu þjóðunum 19. nóvember 1946."
+    }
+  ],
+  "tonlistUSA": "All Night Long (All Night) – Lionel Richie (1983)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "Leikfangasaga (1995)",
+  "ord_dagsins": {
+    "ord": "árbítur",
+    "skyring": "Árbítur er gamalt orð yfir morgunverð eða mat sem snæddur er árla dags."
+  },
+  "vissir_thu": "Gettysburgarávarp Lincolns, sem varð ein frægasta ræða Bandaríkjasögunnar, var flutt við vígslu hermannagrafreits 19. nóvember 1863.",
+  "stjornuspa": "Sporðdreki, í dag skaltu vera jafn hnitmiðaður og Lincoln í Gettysburg og jafn markviss og Pelé fyrir framan markið. Varastu þó að láta skap þitt haga sér eins og Hvítá í stormi og hverfa alveg af vettvangi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg/500px-Copyrighted_and_Published_by_A_S_Burbank%2C_The_Mayflower_at_Sea_%28NBY_21340%29.jpg",
+    "ar": "1620",
+    "texti": "Farþegarnir á Mayflower komu auga á Cape Cod eftir ferðina frá Englandi til Nýja heimsins. Landið var loksins í sjónmáli, sem hefur eflaust verið kærkomnari sýn en enn einn hafragrautarskammturinn.",
+    "heimild": "https://en.wikipedia.org/wiki/Mayflower",
+    "breidd": 330,
+    "haed": 213
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

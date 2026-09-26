@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-30",
+  "dagur": 30,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:41",
+  "sunset": "15:49",
+  "kvedja": "Góðan og gleðilegan 30. nóvember! Í dag sparkar sagan bolta í Glasgow, kveikir á hitaveitunni í Reykjavík og lætur meira að segja loftstein detta inn um þakið — svo hafðu kaffibollann innan seilingar og hjálminn sömuleiðis.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1700",
+      "texti": "Sænskar hersveitir undir stjórn Karls 12. unnu sigur á rússneska hernum í orrustunni við Narva í Norðurlandaófriðnum mikla."
+    },
+    {
+      "ar": "1803",
+      "texti": "Leiðangur undir stjórn Francisco Javier de Balmis lagði af stað frá A Coruña á Spáni til að bólusetja milljónir manna í Suður-Ameríku og Asíu gegn bólusótt — heilbrigðisátak á tímum seglskipa."
+    },
+    {
+      "ar": "1872",
+      "texti": "Skotland og England mættust á Hamilton Crescent í Glasgow í fyrsta opinbera landsleik knattspyrnusögunnar. Leiknum lauk markalausum, svo fyrsta landsleikjamarkið varð að bíða."
+    },
+    {
+      "ar": "1936",
+      "texti": "Alan Turing birti fyrstu ítarlegu lýsinguna á Turing-vélinni, fræðilegu tæki sem gat líkt eftir rökvísi hvers kyns reiknirits og varð ein af undirstöðum tölvunarfræðinnar."
+    },
+    {
+      "ar": "1954",
+      "texti": "Loftsteinn braust gegnum þak í Sylacauga í Alabama og hæfði sofandi konu. Þetta var fyrsta staðfesta tilfellið þar sem maður slasaðist af fyrirbæri utan úr geimnum — heldur ókurteis himnasending."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1916",
+      "texti": "Goðafoss strandaði í hríðarveðri við Straumnes norðan Aðalvíkur á Hornströndum. Skipið náðist ekki aftur á flot, en öllum um borð var bjargað.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1943",
+      "texti": "Heitt vatn frá Reykjum í Mosfellssveit barst til Reykjavíkur og Listasafn Einars Jónssonar varð fyrst húsa til að tengjast hinni nýju hitaveitu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1965",
+      "texti": "Íslenskir bankar keyptu Skarðsbók á uppboði í London, en hún var þá eina forníslenska handritið í heiminum í einkaeigu.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2007",
+      "texti": "Kárahnjúkavirkjun var gangsett við formlega athöfn og eitt stærsta virkjunarverkefni Íslandssögunnar þar með tekið formlega í notkun.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Stiller",
+      "starfsgrein": "leikari, leikstjóri og handritshöfundur",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Billy Idol",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Bo Jackson",
+      "starfsgrein": "hafnabolta- og ruðningsleikmaður",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Colin Mochrie",
+      "starfsgrein": "grínisti og leikari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Andrea Palladio",
+      "starfsgrein": "arkitekt og byggingarlistafræðingur",
+      "ar": "1508"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Friðrik G. Olgeirsson",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Haraldur Níelsson",
+      "starfsgrein": "guðfræðingur",
+      "ar": "1868"
+    },
+    {
+      "nafn": "Ásgeir Jónsson frá Gottorp",
+      "starfsgrein": "rithöfundur",
+      "ar": "1876"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tvö lönd léku fyrsta opinbera landsleik knattspyrnusögunnar?",
+      "svor": [
+        "Skotland og England",
+        "England og Wales",
+        "Skotland og Írland",
+        "Frakkland og Belgía"
+      ],
+      "rett": 0,
+      "skyring": "Skotland og England gerðu markalaust jafntefli í Glasgow árið 1872."
+    },
+    {
+      "spurning": "Hvað varð fyrst húsa í Reykjavík til að tengjast nýju hitaveitunni árið 1943?",
+      "svor": [
+        "Alþingishúsið",
+        "Landspítalinn",
+        "Listasafn Einars Jónssonar",
+        "Hótel Borg"
+      ],
+      "rett": 2,
+      "skyring": "Listasafn Einars Jónssonar fékk ylinn fyrst — listin þurfti greinilega ekki að skjálfa lengur."
+    },
+    {
+      "spurning": "Hvaða fræðimaður birti lýsingu á fræðilegu reiknivélinni sem síðar var kennd við hann?",
+      "svor": [
+        "Isaac Newton",
+        "Alan Turing",
+        "Albert Einstein",
+        "Niels Bohr"
+      ],
+      "rett": 1,
+      "skyring": "Alan Turing lagði með Turing-vélinni mikilvægan fræðilegan grunn að nútímatölvum."
+    }
+  ],
+  "tonlistUSA": "No Diggity – Blackstreet featuring Dr. Dre (1996)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Rocky IV (1985)",
+  "ord_dagsins": {
+    "ord": "hrapsteinn",
+    "skyring": "Hrapsteinn er loftsteinn sem hefur komist í gegnum lofthjúpinn og fallið til jarðar."
+  },
+  "vissir_thu": "Loftsteinninn sem féll í Sylacauga árið 1954 fór fyrst í gegnum húsþak áður en hann hæfði sofandi konu og varð fyrsta staðfesta geimfyrirbærið til að valda manni áverka.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, víðar buxur og ferðalag sem gæti allt eins hafist við landakortið á eldhúsveggnum. Gættu þess þó að lofa ekki meiru en þú getur staðið við — jafnvel bjartsýni þarf stundum vasareikni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Great_Northern_War_Collage.jpg/500px-Great_Northern_War_Collage.jpg",
+    "ar": "1700",
+    "texti": "Sænskar hersveitir undir stjórn Karls 12. unnu sigur á rússneska hernum í orrustunni við Narva í Norðurlandaófriðnum mikla.",
+    "heimild": "https://en.wikipedia.org/wiki/Great_Northern_War",
+    "breidd": 330,
+    "haed": 376
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "11-29",
+  "dagur": 29,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:38",
+  "sunset": "15:51",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 29. nóvember mætast Pong, Barcelona og Thriller í sögulegu partíi sem hefði líklega þurft bæði stærri spilakassa og betra dansgólf. Bogmaður dagsins má því óhræddur skjóta ör sinni inn í daginn — en helst ekki í sjónvarpsskjáinn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "903",
+      "texti": "Abbasídakalífadæmið náði leiðtogum Karmata á sitt vald í orrustunni við Hama í Sýrlandi. Sigurinn ruddi brautina fyrir endurheimt Egyptalands undan Túlúnídum."
+    },
+    {
+      "ar": "1781",
+      "texti": "Áhöfn breska þrælaskipsins Zong hóf að varpa meira en 130 hnepptum Afríkumönnum í hafið þegar vatnsbirgðir skipsins þurru. Morðin voru framin í þeirri skelfilegu von að unnt yrði að innheimta tryggingabætur."
+    },
+    {
+      "ar": "1899",
+      "texti": "Svissneski knattspyrnufrumkvöðullinn Joan Gamper stofnaði FC Barcelona. Félagið átti síðar eftir að verða eitt hið sigursælasta í spænskri knattspyrnu — og heldur fyrirferðarmikið í umræðum um hver sé bestur."
+    },
+    {
+      "ar": "1972",
+      "texti": "Atari tilkynnti útgáfu tölvuleiksins Pong, sem varð meðal fyrstu tölvuleikja til að ná almennum vinsældum bæði í spilakössum og heimilistölvum. Tvær spaðalínur og einn punktur reyndust furðu öflug uppskrift."
+    },
+    {
+      "ar": "2012",
+      "texti": "Allsherjarþing Sameinuðu þjóðanna samþykkti ályktun 67/19 og veitti Palestínu stöðu áheyrnarríkis utan samtakanna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1906",
+      "texti": "Verkið „Rís þú unga Íslands merki“, ljóð Einars Benediktssonar við lag Sigfúsar Einarssonar, var frumflutt í Iðnaðarmannahúsinu í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Kommúnistaflokkur Íslands var stofnaður eftir klofning úr Alþýðuflokknum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1953",
+      "texti": "Samtök herskálabúa voru stofnuð í Camp Knox í Vesturbæ Reykjavíkur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1986",
+      "texti": "Lottó, happdrætti Íslenskrar getspár, hóf göngu sína og landsmenn tóku að bera saman töluraðir af mikilli alvöru.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anna Faris",
+      "starfsgrein": "leikkona",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Andrew McCarthy",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Ann Dunham",
+      "starfsgrein": "mannfræðingur og fræðikona",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Brian Baumgartner",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Egas Moniz",
+      "starfsgrein": "læknir, taugalæknir og Nóbelsverðlaunahafi",
+      "ar": "1874"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Didda",
+      "starfsgrein": "skáld",
+      "ar": "1964"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða knattspyrnufélag var stofnað 29. nóvember 1899?",
+      "svor": [
+        "FC Barcelona",
+        "Real Madrid",
+        "Liverpool FC",
+        "Juventus"
+      ],
+      "rett": 0,
+      "skyring": "Joan Gamper stofnaði FC Barcelona, löngu áður en félagið fór að safna bikurum eins og sumir safna ísskápsseglum."
+    },
+    {
+      "spurning": "Hvaða tölvuleik tilkynnti Atari um útgáfu árið 1972?",
+      "svor": [
+        "Pac-Man",
+        "Pong",
+        "Tetris",
+        "Space Invaders"
+      ],
+      "rett": 1,
+      "skyring": "Pong sannaði að tvær línur og skoppandi punktur gátu haldið heilli kynslóð við efnið."
+    },
+    {
+      "spurning": "Hvaða íslenska happdrætti hóf göngu sína 29. nóvember 1986?",
+      "svor": [
+        "Getraunir",
+        "Lottó",
+        "Happdrætti Háskólans",
+        "Vikinglotto"
+      ],
+      "rett": 1,
+      "skyring": "Lottó hóf göngu sína árið 1986 og með því hófst regluleg leit þjóðarinnar að sex sérlega samvinnuþýðum tölum."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Super Trouper – ABBA (1980)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "húmbúkk",
+    "skyring": "Húmbúkk er notað um sýndarmennsku, blekkingar eða innantómt skrum."
+  },
+  "vissir_thu": "Michael Jackson gaf út Thriller 29. nóvember 1982, en platan varð síðar mest selda hljómplata allra tíma.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á djarfa áætlun, víðar buxur og lag sem hljómar vel úr kassettutæki. Mundu þó að jafnvel frjálslyndasta ör þarf stefnu — annars endar hún mögulega í stofuplöntunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/500px-Abbasid_banner.svg.png",
+    "ar": "903",
+    "texti": "Abbasídakalífadæmið náði leiðtogum Karmata á sitt vald í orrustunni við Hama í Sýrlandi. Sigurinn ruddi brautina fyrir endurheimt Egyptalands undan Túlúnídum.",
+    "heimild": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+    "breidd": 330,
+    "haed": 198
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

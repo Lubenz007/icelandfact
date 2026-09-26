@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-21",
+  "dagur": 21,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "10:14",
+  "sunset": "16:11",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 21. nóvember ætlum við að hlusta á hljóðrita Edisons, aka yfir Verrazzano-Narrows-brúna og halda svo upp á afmæli Bjarkar — en sleppum helst eldsvoðum og blóðugum sunnudögum. Sagan er nefnilega fjölbreytt ferðalag og sjaldnast með beinu flugi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1620",
+      "texti": "Fjörutíu og einn farþegi Mayflower undirritaði Mayflower-sáttmálann meðan skipið lá við akkeri þar sem nú er Provincetown Harbor. Sáttmálinn varð fyrsta stjórnskjal Plymouth-nýlendunnar."
+    },
+    {
+      "ar": "1877",
+      "texti": "Thomas Edison tilkynnti uppfinningu hljóðritans, tækis sem gat bæði tekið upp og spilað hljóð. Mannsröddin var þar með komin með endurspilunarhnapp."
+    },
+    {
+      "ar": "1922",
+      "texti": "Rebecca Latimer Felton varð fyrst kvenna til að taka sæti í öldungadeild Bandaríkjaþings. Setan var aðeins einn dagur, en áfanginn engu að síður sögulegur."
+    },
+    {
+      "ar": "1964",
+      "texti": "Verrazzano-Narrows-brúin milli Staten Island og Brooklyn var opnuð fyrir umferð. Hún var þá lengsta hengibrú heims."
+    },
+    {
+      "ar": "1980",
+      "texti": "Eldur kom upp á MGM Grand-hótelinu við Las Vegas Strip og varð 85 manns að bana; 650 til viðbótar særðust. Atburðurinn varð einn mannskæðasti hótelbruni í sögu Bandaríkjanna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1393",
+      "texti": "Barist var á Núpi í Dýrafirði milli manna Björns Einarssonar í Vatnsfirði og Þórðar Sigmundssonar á Núpi. Tveir féllu, margir særðust og Björn flúði í kirkju eftir að menn Þórðar höfðu betur.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1869",
+      "texti": "Skotfélag Keflavíkur var stofnað og telst það eitt allra fyrsta íþróttafélag landsins.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1931",
+      "texti": "Fyrsta leikritið var flutt í Ríkisútvarpinu þegar leiknir voru kaflar úr Bóndanum á Hrauni eftir Jóhann Sigurjónsson.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1981",
+      "texti": "Landssamband framsóknarkvenna var stofnað á Íslandi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Carly Rae Jepsen",
+      "starfsgrein": "söngkona, lagahöfundur og leikkona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Cherry Jones",
+      "starfsgrein": "leikkona",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Christopher Tolkien",
+      "starfsgrein": "rithöfundur og fræðimaður",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Alex James",
+      "starfsgrein": "tónlistarmaður og bassaleikari",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Alan Smith",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1962"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björk Guðmundsdóttir",
+      "starfsgrein": "tónlistarkona",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Helgi Hóseasson",
+      "starfsgrein": "mótmælandi",
+      "ar": "1919"
+    },
+    {
+      "nafn": "Arnljótur Ólafsson",
+      "starfsgrein": "hagfræðingur og stjórnmálamaður",
+      "ar": "1823"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppfinningu kynnti Thomas Edison árið 1877?",
+      "svor": [
+        "Hljóðritann",
+        "Ritvélina",
+        "Símtækið",
+        "Kvikmyndavélina"
+      ],
+      "rett": 0,
+      "skyring": "Hljóðritinn gat bæði varðveitt og endurspilað hljóð — sannkölluð töfrakrukka síns tíma."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að sitja í öldungadeild Bandaríkjaþings?",
+      "svor": [
+        "Cherry Jones",
+        "Rebecca Latimer Felton",
+        "Carly Rae Jepsen",
+        "Björk Guðmundsdóttir"
+      ],
+      "rett": 1,
+      "skyring": "Rebecca Latimer Felton sat aðeins einn dag, en skrifaði sig samt rækilega í sögubækurnar."
+    },
+    {
+      "spurning": "Hvaða íslenska tónlistarkona á afmæli 21. nóvember?",
+      "svor": [
+        "Emilíana Torrini",
+        "Björk Guðmundsdóttir",
+        "Sigríður Thorlacius",
+        "Bríet"
+      ],
+      "rett": 1,
+      "skyring": "Björk fæddist árið 1965 og hefur síðan gert íslenska sérvisku að heimslist."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Would I Lie to You? – Charles & Eddie (1992)",
+  "bio": "Ástin grípur alla (2003)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða tiltekið tímabil og birtist meðal annars í orðinu dægurlag."
+  },
+  "vissir_thu": "Verrazzano-Narrows-brúin var lengsta hengibrú heims þegar hún var opnuð árið 1964.",
+  "stjornuspa": "Sporðdreki, gömul ráðgáta bankar upp á og þú leysir hana með innsæi, kaffibolla og hæfilega dramatísku augnaráði. Varastu þó að stinga alla sem eru ósammála þér — stundum nægir einfaldlega hnyttin athugasemd.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Mayflower_Compact_1620_cph.3g07155.jpg/500px-The_Mayflower_Compact_1620_cph.3g07155.jpg",
+    "ar": "1620",
+    "texti": "Fjörutíu og einn farþegi Mayflower undirritaði Mayflower-sáttmálann meðan skipið lá við akkeri þar sem nú er Provincetown Harbor. Sáttmálinn varð fyrsta stjórnskjal Plymouth-nýlendunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Mayflower_Compact",
+    "breidd": 330,
+    "haed": 232
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

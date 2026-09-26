@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-27",
+  "dagur": 27,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:32",
+  "sunset": "15:56",
+  "kvedja": "Góðan 27. nóvember! Í dag siglum við frá sjóorrustu á Jangtse yfir í erfðaskrá Nobels og endum á silfurstökki Vilhjálms Einarssonar — sagan kann sannarlega að taka langstökk. Bogmenn mega því spenna bogann, en helst ekki skjóta kaffibollanum niður.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1161",
+      "texti": "Floti Song-veldisins sigraði skip Jin-veldisins í sjóorrustu á Jangtsefljóti í Jin–Song-stríðunum. Fljótið var þar með bæði vígvöllur og samgönguæð, sem er heldur meira fjör en í venjulegri sunnudagssiglingu."
+    },
+    {
+      "ar": "1703",
+      "texti": "Ofsaveðrið mikla reið yfir sunnanvert Bretland og eyðilagði fyrsta Eddystone-vitann undan Plymouth. Veðrið var eitt hið versta sem vitað er til að hafi gengið yfir svæðið."
+    },
+    {
+      "ar": "1895",
+      "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði erfðaskrá sína og ráðstafaði mestum hluta auðæfa sinna til stofnunar Nóbelsverðlaunanna. Fáar undirskriftir hafa síðar glatt jafn marga vísindamenn, rithöfunda og friðarsinna."
+    },
+    {
+      "ar": "1963",
+      "texti": "Lyndon B. Johnson Bandaríkjaforseti flutti ræðuna „Let Us Continue“ á sameiginlegum fundi Bandaríkjaþings, fimm dögum eftir morðið á John F. Kennedy. Þar hvatti hann til þjóðareiningar og framgangs borgararéttindalöggjafar."
+    },
+    {
+      "ar": "2001",
+      "texti": "Stjörnufræðingar tilkynntu að natríum hefði greinst í lofthjúpi fjarreikistjörnunnar HD 209458 b. Þetta var í fyrsta sinn sem lofthjúpur fjarreikistjörnu var mældur — afar fjarlægur ilmur af salti, ef svo má segja."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1450",
+      "texti": "Kristján 1. gaf út Langaréttarbót í Kaupmannahöfn til að koma á friði og lögum á Íslandi. Þar var meðal annars bannaður ribbaldaskapur, gripdeildir og fjölmennar yfirreiðir valdsmanna.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1857",
+      "texti": "Póstskipið Sölöven fórst undan Svörtuloftum og Drei Annas undan Mýrum, bæði með allri áhöfn og farþegum. Meðal þeirra sem fórust voru þekktir borgarar úr Reykjavík.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1956",
+      "texti": "Vilhjálmur Einarsson, aðeins 22 ára, stökk 16,25 metra í þrístökki á Ólympíuleikunum í Melbourne. Stökkið var Íslands- og Norðurlandamet, Ólympíumet um stund og skilaði honum silfurverðlaunum.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2010",
+      "texti": "Kosningar til stjórnlagaþings fóru fram á Íslandi. Kjósendur fengu þar óvenju langan lista frambjóðenda til að glíma við í kjörklefanum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alison Pill",
+      "starfsgrein": "kanadísk leikkona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Charlie Burchill",
+      "starfsgrein": "skoskur gítarleikari og lagahöfundur",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Chaim Weizmann",
+      "starfsgrein": "efnafræðingur og fyrsti forseti Ísraels",
+      "ar": "1874"
+    },
+    {
+      "nafn": "Alexander Dubček",
+      "starfsgrein": "slóvakískur stjórnmálamaður",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Anders Celsius",
+      "starfsgrein": "sænskur stjörnufræðingur, eðlisfræðingur og stærðfræðingur",
+      "ar": "1701"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Edda Heiðrún Backman",
+      "starfsgrein": "leikkona",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Elsa G. Vilmundardóttir",
+      "starfsgrein": "jarðfræðingur",
+      "ar": "1932"
+    },
+    {
+      "nafn": "María Reyndal",
+      "starfsgrein": "leikkona og leikstjóri",
+      "ar": "1970"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað gerði Alfred Nobel hinn 27. nóvember 1895?",
+      "svor": [
+        "Undirritaði erfðaskrána sem lagði grunn að Nóbelsverðlaununum",
+        "Fann upp hitamælinn",
+        "Varð forseti Svíþjóðar",
+        "Sigldi fyrstur yfir Atlantshafið"
+      ],
+      "rett": 0,
+      "skyring": "Erfðaskrá Nobels varð að einni kunnustu verðlaunasjóðshugmynd sögunnar."
+    },
+    {
+      "spurning": "Hversu langt stökk Vilhjálmur Einarsson í þrístökki á Ólympíuleikunum 1956?",
+      "svor": [
+        "15,75 metra",
+        "16,25 metra",
+        "16,95 metra",
+        "17,25 metra"
+      ],
+      "rett": 1,
+      "skyring": "Stökkið upp á 16,25 metra færði Vilhjálmi silfur og Íslandi ógleymanlega íþróttastund."
+    },
+    {
+      "spurning": "Hvaða frumefni greindist í lofthjúpi fjarreikistjörnunnar HD 209458 b?",
+      "svor": [
+        "Helín",
+        "Járn",
+        "Natríum",
+        "Kvikasilfur"
+      ],
+      "rett": 2,
+      "skyring": "Natríumið markaði fyrstu mælinguna á lofthjúpi fjarreikistjörnu."
+    }
+  ],
+  "tonlistUSA": "Truly – Lionel Richie (1982)",
+  "tonlistUK": "I Don't Wanna Dance – Eddy Grant (1982)",
+  "bio": "Frozen (2013)",
+  "ord_dagsins": {
+    "ord": "ribbaldaskapur",
+    "skyring": "Ribbaldaskapur merkir ósvífna óreglu, óspektir eða ofbeldisfullan yfirgang."
+  },
+  "vissir_thu": "Ólympíustökk Vilhjálms Einarssonar, 16,25 metrar, var nýtt Ólympíumet í nokkrar mínútur áður en Brasilíumaðurinn Adhemar da Silva stökk lengra.",
+  "stjornuspa": "Bogmaðurinn finnur gamalt snælduhulstur, gleymda símanúmerabók eða aðra retro-gersemi og túlkar það sem skilaboð frá örlögunum. Stjörnurnar mæla með djörfu skrefi, en minna á að jafnvel Vilhjálmur Einarsson þurfti almennilegt atrennuskeið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/500px-China_-_Song_Dynasty-en.svg.png",
+    "ar": "1161",
+    "texti": "Floti Song-veldisins sigraði skip Jin-veldisins í sjóorrustu á Jangtsefljóti í Jin–Song-stríðunum. Fljótið var þar með bæði vígvöllur og samgönguæð, sem er heldur meira fjör en í venjulegri sunnudagssiglingu.",
+    "heimild": "https://en.wikipedia.org/wiki/Song_dynasty",
+    "breidd": 330,
+    "haed": 324
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

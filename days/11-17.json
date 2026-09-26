@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-17",
+  "dagur": 17,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Sporðdreki",
+  "sunrise": "10:01",
+  "sunset": "16:22",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 17. nóvember tökum við krókaleið frá skoskum konungskjörum yfir í kaupstaðardrauma og endum með Disney-hafmeyju — því sagan ferðast sjaldan beina leið. Haltu fast í kaffibollann; fortíðin kann að skvetta úr sporðinum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1292",
+      "texti": "John Balliol var valinn konungur Skota fram yfir Robert de Brus. Konungskjör á miðöldum voru greinilega öllu dramatískari en hefðbundinn fundur í húsfélagi."
+    },
+    {
+      "ar": "1558",
+      "texti": "Elísabet 1. tók við krúnu Englands og Írlands og þar með hófst Elísabetartímabilið, eitt kunnasta skeið enskrar menningar- og stjórnmálasögu."
+    },
+    {
+      "ar": "1796",
+      "texti": "Frakkar unnu sigur í orrustunni við Arcole í frönsku byltingarstríðunum með herbragði sem miðaði að því að skera á undanhaldsleið Austurríkismanna."
+    },
+    {
+      "ar": "1950",
+      "texti": "Fjórtándi Dalai Lama tók við fullum veraldlegum völdum sem leiðtogi Tíbets, aðeins fimmtán ára gamall. Flest ungmenni á þeim aldri þurfa sem betur fer aðeins að hafa áhyggjur af heimavinnu."
+    },
+    {
+      "ar": "1989",
+      "texti": "Walt Disney Pictures frumsýndi Litlu hafmeyjuna og markaði þar með upphaf Disney-endurreisnarinnar. Ariel synti sem sagt ekki aðeins upp á yfirborðið heldur dró heilt kvikmyndaver með sér."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1390",
+      "texti": "Skriða féll á Lönguhlíð ytri í Hörgárdal. Hrafn Bótólfsson lögmaður, kona hans og fleiri fórust í hamförunum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1786",
+      "texti": "Reykjavík, Grundarfjörður, Ísafjörður, Akureyri, Eskifjörður og Vestmannaeyjar fengu kaupstaðarréttindi. Allir staðirnir misstu þau síðar aftur nema Reykjavík, þótt sumir endurheimtu kaupstaðarstöðu síðar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1913",
+      "texti": "Morgunblaðið birti fyrstu íslensku fréttamyndirnar, dúkristur sem gerðar voru vegna morðmáls í Dúkskoti í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1988",
+      "texti": "Linda Pétursdóttir var kjörin Ungfrú heimur, aðeins átján ára gömul.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Danny DeVito",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Cyril Ramaphosa",
+      "starfsgrein": "stjórnmálamaður og forseti Suður-Afríku",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Christopher Paolini",
+      "starfsgrein": "rithöfundur",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Vespasian",
+      "starfsgrein": "Rómarkeisari",
+      "ar": "9"
+    },
+    {
+      "nafn": "Arman",
+      "starfsgrein": "myndlistarmaður og myndhöggvari",
+      "ar": "1928"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bolli Gústavsson",
+      "starfsgrein": "prestur",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Marta María Stephensen",
+      "starfsgrein": "matreiðslubókarhöfundur",
+      "ar": "1770"
+    },
+    {
+      "nafn": "Ebenezer Henderson",
+      "starfsgrein": "skoskur prestur og Íslandsvinur",
+      "ar": "1784"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða kvikmynd hóf svonefnda Disney-endurreisn árið 1989?",
+      "svor": [
+        "Litla hafmeyjan",
+        "Aladdín",
+        "Konungur ljónanna",
+        "Fríða og dýrið"
+      ],
+      "rett": 0,
+      "skyring": "Litla hafmeyjan synti í bíó og varð upphafið að nýju blómaskeiði Disney."
+    },
+    {
+      "spurning": "Hversu gamall var fjórtándi Dalai Lama þegar hann tók við fullum veraldlegum völdum í Tíbet?",
+      "svor": [
+        "12 ára",
+        "15 ára",
+        "18 ára",
+        "21 árs"
+      ],
+      "rett": 1,
+      "skyring": "Hann var aðeins fimmtán ára, sem telst óvenju ungur aldur til að bera heila þjóð á herðunum."
+    },
+    {
+      "spurning": "Hver var kjörin Ungfrú heimur 17. nóvember 1988?",
+      "svor": [
+        "Marta María Stephensen",
+        "Linda Pétursdóttir",
+        "Vigdís Finnbogadóttir",
+        "Björk Guðmundsdóttir"
+      ],
+      "rett": 1,
+      "skyring": "Linda Pétursdóttir hreppti titilinn átján ára gömul."
+    }
+  ],
+  "tonlistUSA": "When I See You Smile – Bad English (1989)",
+  "tonlistUK": "All Around the World – Lisa Stansfield (1989)",
+  "bio": "Litla hafmeyjan (1989)",
+  "ord_dagsins": {
+    "ord": "dúkrista",
+    "skyring": "Dúkrista er grafíkmynd unnin með því að skera mynd í dúk og þrykkja hana síðan á pappír."
+  },
+  "vissir_thu": "Danny DeVito, Cyril Ramaphosa og rithöfundurinn Christopher Paolini eiga allir afmæli 17. nóvember.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamla hugmynd sem glóir enn undir yfirborðinu, rétt eins og gleymd fyrirsögn í gulnuðu dagblaði. Dustaðu af henni, en stingdu ekki samstarfsfólkið nema brýna nauðsyn beri til.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/John%2C_King_of_Scotland_%28seal%29.png/500px-John%2C_King_of_Scotland_%28seal%29.png",
+    "ar": "1292",
+    "texti": "John Balliol var valinn konungur Skota fram yfir Robert de Brus. Konungskjör á miðöldum voru greinilega öllu dramatískari en hefðbundinn fundur í húsfélagi.",
+    "heimild": "https://en.wikipedia.org/wiki/John_Balliol",
+    "breidd": 330,
+    "haed": 336
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

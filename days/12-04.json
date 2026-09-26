@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-04",
+  "dagur": 4,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:52",
+  "sunset": "15:41",
+  "kvedja": "Góðan 4. desember! Í dag skyggnumst við frá orrustuvöllum miðalda og sjaldséðri göngu Venusar alla leið að golfvelli í Vestmannaeyjum og reykvísku skemmtanalífi. Sagan ferðast víða, en gleymir sem betur fer aldrei að taka með sér nesti og örlítið glott.",
+  "nafnadagur": "Barbara",
+  "atburdir": [
+    {
+      "ar": "1370",
+      "texti": "Í orrustunni við Pontvallain unnu Frakkar tvo afgerandi sigra á enskum her sem hafði klofnað vegna ósættis meðal foringjanna. Í stríði, líkt og í hópverkefnum, getur slæm samvinna reynst dýr."
+    },
+    {
+      "ar": "1639",
+      "texti": "Jeremiah Horrocks og William Crabtree urðu fyrstir manna til að fylgjast með Venus ganga fyrir sólina. Þetta var fágæt himnasýning, löngu áður en hægt var að horfa á hana í beinni útsendingu."
+    },
+    {
+      "ar": "1829",
+      "texti": "Bresk yfirvöld bönnuðu satí, þann sið að ekkja væri brennd á bálkesti eiginmanns síns, í hlutum Breska Indlands. Bannið kom eftir áralanga baráttu umbótamannsins Ram Mohan Roy."
+    },
+    {
+      "ar": "1872",
+      "texti": "Seglskipið Mary Celeste fannst mannlaust á hafi úti við aðstæður sem aldrei hafa verið skýrðar til fulls. Skipið varð þar með ein frægasta ráðgáta siglingasögunnar."
+    },
+    {
+      "ar": "1978",
+      "texti": "Dianne Feinstein tók við embætti borgarstjóra San Francisco eftir morðið á George Moscone og varð fyrsta konan til að gegna embættinu. Hún tók við borginni á afar dimmum og erfiðum tíma."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1938",
+      "texti": "Golfklúbbur Vestmannaeyja var stofnaður. Þar hefur síðan verið hægt að glíma við vind, landslag og golfkúlu í einu og sama högginu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1954",
+      "texti": "Kvikmyndin Salka Valka, gerð eftir sögu Halldórs Laxness, var frumsýnd í Nýja bíói og Austurbæjarbíói í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Veitingahúsið Glaumbær, einn vinsælasti skemmtistaður Reykjavíkur um árabil, gjöreyðilagðist í eldsvoða.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2021",
+      "texti": "Íslenska landsliðið vann gull í hópfimleikum kvenna og silfur í hópfimleikum karla á Evrópumótinu í TeamGym í Portúgal.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Cassandra Wilson",
+      "starfsgrein": "djasssöngkona og lagahöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Albert Bandura",
+      "starfsgrein": "sálfræðingur og fræðimaður",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Alex North",
+      "starfsgrein": "kvikmyndatónskáld og hljómsveitarstjóri",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Bernard King",
+      "starfsgrein": "körfuknattleiksmaður og íþróttalýsandi",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Anna McGarrigle",
+      "starfsgrein": "tónlistarkona og lagahöfundur",
+      "ar": "1944"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hannes Hafstein",
+      "starfsgrein": "skáld og ráðherra Íslands",
+      "ar": "1861"
+    },
+    {
+      "nafn": "Ásgerður Búadóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Eva Dögg Davíðsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1988"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dularfulla skip fannst mannlaust árið 1872?",
+      "svor": [
+        "Mary Celeste",
+        "Titanic",
+        "Santa María",
+        "Beagle"
+      ],
+      "rett": 0,
+      "skyring": "Mary Celeste fannst yfirgefið og varð ein lífseigasta ráðgáta sjósögunnar."
+    },
+    {
+      "spurning": "Hvaða íslenska kvikmynd var frumsýnd í Reykjavík 4. desember 1954?",
+      "svor": [
+        "Börn náttúrunnar",
+        "Salka Valka",
+        "Land og synir",
+        "Rauða skikkjan"
+      ],
+      "rett": 1,
+      "skyring": "Salka Valka rataði þá af bókarsíðunum og upp á hvíta tjaldið."
+    },
+    {
+      "spurning": "Hvað fylgdust Horrocks og Crabtree með árið 1639?",
+      "svor": [
+        "Halastjörnu rekast á Júpíter",
+        "Almyrkva á tungli",
+        "Venusi ganga fyrir sólina",
+        "Nýju tungli birtast við Satúrnus"
+      ],
+      "rett": 2,
+      "skyring": "Þeir sáu Venus ganga fyrir sólina, fágætan og afar glæsilegan himinviðburð."
+    }
+  ],
+  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
+  "tonlistUK": "Under Pressure – Queen og David Bowie (1981)",
+  "bio": "Raiders of the Lost Ark (1981)",
+  "ord_dagsins": {
+    "ord": "árla",
+    "skyring": "Orðið merkir snemma morguns eða snemma dags."
+  },
+  "vissir_thu": "Mary Celeste fannst á reki án áhafnar, en örlög fólksins um borð hafa aldrei verið skýrð með fullri vissu.",
+  "stjornuspa": "Bogmaður, í dag liggur leiðin fram á við, jafnvel þótt áttavitinn sé eilítið skakkur og kortið frá síðustu öld. Segðu já við ævintýrinu, en athugaðu fyrst hvort þú sért í réttum skóm.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/500px-Schlacht_von_Azincourt.jpg",
+    "ar": "1370",
+    "texti": "Í orrustunni við Pontvallain unnu Frakkar tvo afgerandi sigra á enskum her sem hafði klofnað vegna ósættis meðal foringjanna. Í stríði, líkt og í hópverkefnum, getur slæm samvinna reynst dýr.",
+    "heimild": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

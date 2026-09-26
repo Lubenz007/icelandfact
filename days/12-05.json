@@ -1,0 +1,127 @@
+{
+  "mmdd": "12-05",
+  "dagur": 5,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:55",
+  "sunset": "15:40",
+  "kvedja": "Góðan 5. desember! Í dag öslar sagan úr nornabrennuanda 15. aldar í Lundúnaþoku og áfram inn á hraðbrautina — með suðurpólskulda í kaupbæti. Haltu á þér hita, kæri lesandi, og mundu að fortíðin kann sjaldnast að fara stystu leiðina.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1484",
+      "texti": "Innocentius VIII páfi gaf út páfabréfið Summis desiderantes affectibus og veitti dóminíkananum Heinrich Kramer skýrt umboð til að sækja fólk til saka fyrir galdra í Þýskalandi. Skjalið varð myrkur kafli í sögu galdraofsókna."
+    },
+    {
+      "ar": "1775",
+      "texti": "Henry Knox ofursti kom til Fort Ticonderoga til að skipuleggja flutning á 60 tonnum af stórskotaliði til stuðnings umsátrinu um Boston. Þetta var enginn sunnudagsrúntur með kerru."
+    },
+    {
+      "ar": "1914",
+      "texti": "Imperial Trans-Antarctic leiðangurinn hófst með það metnaðarfulla markmið að fara fyrstur yfir Suðurskautslandið á landi. Þar reyndust ísinn og örlögin þó hafa eigin ferðaáætlun."
+    },
+    {
+      "ar": "1952",
+      "texti": "Móðan mikla í Lundúnum hófst og lá yfir borginni í fimm daga. Hún olli um 12.000 dauðsföllum og varð síðar hvati að bresku hreinaloftslögunum frá 1956."
+    },
+    {
+      "ar": "1972",
+      "texti": "Gough Whitlam tók við sem 21. forsætisráðherra Ástralíu og myndaði tveggja manna stjórn með Lance Barnard. Þar með lauk 23 ára valdatíð Frjálslynda flokksins og Country Party."
+    }
+  ],
+  "atburdir_island": [],
+  "afmaeli": [
+    {
+      "nafn": "Anthony Martial",
+      "starfsgrein": "franskur knattspyrnumaður",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Adan Canto",
+      "starfsgrein": "mexíkóskur leikari",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Amy Acker",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Alexander Sørloth",
+      "starfsgrein": "norskur knattspyrnumaður",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Arnold Sommerfeld",
+      "starfsgrein": "þýskur eðlisfræðingur",
+      "ar": "1868"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Anna Sigurðardóttir",
+      "starfsgrein": "stofnandi Kvennasögusafns Íslands",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Björn Halldórsson",
+      "starfsgrein": "prestur í Sauðlauksdal",
+      "ar": "1724"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg hvarf undir hina mannskæðu móðu árið 1952?",
+      "svor": [
+        "Lundúnir",
+        "París",
+        "Berlín",
+        "Dublin"
+      ],
+      "rett": 0,
+      "skyring": "Móðan mikla lagðist yfir Lundúnir í fimm daga og hafði skelfilegar afleiðingar."
+    },
+    {
+      "spurning": "Hve mikið stórskotalið ætlaði Henry Knox að flytja frá Fort Ticonderoga?",
+      "svor": [
+        "Sex tonn",
+        "Sextán tonn",
+        "Sextíu tonn",
+        "Hundrað tonn"
+      ],
+      "rett": 2,
+      "skyring": "Knox skipulagði flutning á heilum 60 tonnum — býsna þung söguleg farangursheimild."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er norskur knattspyrnumaður?",
+      "svor": [
+        "Anthony Martial",
+        "Alexander Sørloth",
+        "Adan Canto",
+        "Arnold Sommerfeld"
+      ],
+      "rett": 1,
+      "skyring": "Alexander Sørloth er norski knattspyrnumaðurinn í hópnum."
+    }
+  ],
+  "tonlistUSA": "I Heard It Through the Grapevine – Marvin Gaye (1968)",
+  "tonlistUK": "Bohemian Rhapsody – Queen (1975)",
+  "bio": "Rocky IV (1985)",
+  "ord_dagsins": {
+    "ord": "hrímþoka",
+    "skyring": "Þoka þar sem undirkældir dropar frjósa á yfirborði og mynda hrím."
+  },
+  "vissir_thu": "Arnold Sommerfeld leiðbeindi fjölmörgum eðlisfræðingum sem síðar hlutu Nóbelsverðlaun, þótt hann fengi verðlaunin aldrei sjálfur.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á stórhug og leiðangursanda, en athugaðu vistirnar áður en þú leggur af stað yfir þitt persónulega Suðurskautsland. Óvænt hugmynd gæti reynst gulls ígildi, svo lengi sem þú reynir ekki að flytja 60 tonn af henni í einu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Niccol%C3%B2_di_forzore_spinelli%2C_medaglia_di_innocenzo_viii_01.JPG/500px-Niccol%C3%B2_di_forzore_spinelli%2C_medaglia_di_innocenzo_viii_01.JPG",
+    "ar": "1484",
+    "texti": "Innocentius VIII páfi gaf út páfabréfið Summis desiderantes affectibus og veitti dóminíkananum Heinrich Kramer skýrt umboð til að sækja fólk til saka fyrir galdra í Þýskalandi. Skjalið varð myrkur kafli í sögu galdraofsókna.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Innocent_VIII",
+    "breidd": 330,
+    "haed": 331
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-01",
+  "dagur": 1,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:44",
+  "sunset": "15:47",
+  "kvedja": "Góðan og gleðilegan 1. desember! Í dag kveikjum við á fullveldinu, vitanum og söguljósinu sjálfu — og minnumst þess að jafnvel stórar þjóðfélagsbreytingar geta hafist á því einu að manneskja neiti að standa upp úr strætósæti. Haltu þínu striki í dag, með hlýju og örlitlu sagnfræðingsglotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1822",
+      "texti": "Pedro I var krýndur fyrsti keisari Brasilíu, aðeins sjö vikum eftir að valdatíð hans hófst á 24 ára afmælisdeginum. Sumir fá köku á afmælinu, aðrir heilt keisaradæmi."
+    },
+    {
+      "ar": "1918",
+      "texti": "Með undirritun Sambandslaganna viðurkenndi Danmörk Ísland sem frjálst og fullvalda ríki í konungssambandi við Danmörku."
+    },
+    {
+      "ar": "1955",
+      "texti": "Rosa Parks var handtekin í Montgomery í Alabama eftir að hún neitaði að láta hvítum manni eftir sæti sitt í strætisvagni. Atvikið varð kveikjan að strætisvagnasniðgöngunni í Montgomery og mikilvægu skrefi í bandarísku réttindabaráttunni."
+    },
+    {
+      "ar": "1991",
+      "texti": "Yfir 92 prósent kjósenda samþykktu sjálfstæðisyfirlýsingu Úkraínu í þjóðaratkvæðagreiðslu. Niðurstaðan var svo afgerandi að kjörkassarnir þurftu vart að hvísla."
+    },
+    {
+      "ar": "2019",
+      "texti": "Vivianne Miedema skoraði sex mörk og lagði upp fjögur þegar Arsenal vann Bristol City 11–1. Leikurinn sló markamet ensku úrvalsdeildar kvenna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1878",
+      "texti": "Fyrsti viti Íslands, Reykjanesviti á Valahnúk, var tekinn í notkun og hóf að leiðbeina sjófarendum við hrikalega ströndina.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1918",
+      "texti": "Sambandslagasamningur Íslands og Danmerkur gekk í gildi og Ísland varð frjálst og fullvalda ríki. Íslenski fáninn var dreginn að húni sem fullgildur þjóðfáni, en hátíðahöld voru látlaus vegna spánsku veikinnar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1972",
+      "texti": "Áhugafólk um varðveislu Bernhöftstorfunnar gekk blysför um miðborg Reykjavíkur. Húsvernd var þar bókstaflega sett í sviðsljósið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1994",
+      "texti": "Þjóðarbókhlaðan var opnuð í Reykjavík og fékk þjóðin þar veglegt heimili fyrir bækur, handrit og fróðleiksfýsn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bette Midler",
+      "starfsgrein": "söngkona, leikkona og framleiðandi",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Alexandra af Danmörku",
+      "starfsgrein": "Bretadrottning og keisaraynja Indlands",
+      "ar": "1844"
+    },
+    {
+      "nafn": "Brad Delson",
+      "starfsgrein": "gítarleikari og upptökustjóri",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Candace Bushnell",
+      "starfsgrein": "blaðamaður og rithöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Andrew Adamson",
+      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1966"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eggert Stefánsson",
+      "starfsgrein": "söngvari",
+      "ar": "1890"
+    },
+    {
+      "nafn": "Eggert Ólafsson",
+      "starfsgrein": "skáld og náttúrufræðingur",
+      "ar": "1726"
+    },
+    {
+      "nafn": "Halldór Stefánsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1892"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða kona var handtekin 1. desember 1955 fyrir að neita að gefa eftir sæti sitt í strætisvagni?",
+      "svor": [
+        "Rosa Parks",
+        "Bette Midler",
+        "Candace Bushnell",
+        "Alexandra af Danmörku"
+      ],
+      "rett": 0,
+      "skyring": "Rosa Parks stóð föst á sínu með því að sitja kyrr og varð tákn réttindabaráttunnar."
+    },
+    {
+      "spurning": "Hvað var tekið í notkun á Valahnúk árið 1878?",
+      "svor": [
+        "Fyrsta sjálfvirka símstöðin",
+        "Fyrsti viti Íslands",
+        "Fyrsta útvarpsloftnetið",
+        "Fyrsta almenningsbókasafnið"
+      ],
+      "rett": 1,
+      "skyring": "Reykjanesviti varð fyrsti viti landsins og lýsti sjófarendum leið."
+    },
+    {
+      "spurning": "Hversu mörg mörk skoraði Vivianne Miedema í 11–1 sigri Arsenal árið 2019?",
+      "svor": [
+        "Fjögur",
+        "Fimm",
+        "Sex",
+        "Átta"
+      ],
+      "rett": 2,
+      "skyring": "Miedema skoraði sex mörk og lagði auk þess upp fjögur — býsna drjúgur vinnudagur."
+    }
+  ],
+  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
+  "tonlistUK": "I Should Have Known Better – Jim Diamond (1984)",
+  "bio": "Frozen (2013)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Orðið merkir fyrri hluta dags, einkum tímann fyrir hádegi."
+  },
+  "vissir_thu": "Í þjóðaratkvæðagreiðslunni um sjálfstæði Úkraínu árið 1991 greiddu meira en 92 prósent atkvæði með sjálfstæði.",
+  "stjornuspa": "Bogmaður, í dag blæs fullveldisvindur í seglin og þú finnur óvænta löngun til að lýsa upp skammdegið eins og Reykjanesviti. Gættu þess þó að lofa ekki heilu keisaradæmi áður en kaffið er komið í bollann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/DpedroI-brasil-full_%28cropped%29.jpg/500px-DpedroI-brasil-full_%28cropped%29.jpg",
+    "ar": "1822",
+    "texti": "Pedro I var krýndur fyrsti keisari Brasilíu, aðeins sjö vikum eftir að valdatíð hans hófst á 24 ára afmælisdeginum. Sumir fá köku á afmælinu, aðrir heilt keisaradæmi.",
+    "heimild": "https://en.wikipedia.org/wiki/Pedro_I_of_Brazil",
+    "breidd": 330,
+    "haed": 427
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

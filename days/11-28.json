@@ -1,0 +1,137 @@
+{
+  "mmdd": "11-28",
+  "dagur": 28,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:35",
+  "sunset": "15:53",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 28. nóvember hittast konungleg vísindi, íslenskt gosdrykkjafjör og fyrsti tifandi púlsarinn í einum sögulegum hrærigraut. Helltu í bollann og gakktu hægt um gleðinnar dyr — sagan hefur stundum bæði gos og glundroða í farteskinu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1660",
+      "texti": "Robert Boyle, John Wilkins, Christopher Wren og fleiri vísindamenn komu saman í Gresham College í London og lögðu grunninn að því félagi sem nú nefnist Royal Society. Vísindin voru þar með komin með sitt eigið virðulega félagsheimili."
+    },
+    {
+      "ar": "1811",
+      "texti": "Fimmti píanókonsert Beethovens var frumfluttur í Gewandhaus í Leipzig. Verkið er oft kallað Keisarakonsertinn, enda ekkert hálfkák á ferðinni þegar Beethoven settist við tónsmíðaborðið."
+    },
+    {
+      "ar": "1925",
+      "texti": "Grand Ole Opry fór fyrst í loftið á útvarpsstöðinni WSM í Nashville. Þátturinn varð langlífasta útvarpsútsending Bandaríkjanna og sveitatónlistin fékk þar heimilisfang til frambúðar."
+    },
+    {
+      "ar": "1967",
+      "texti": "Jocelyn Bell Burnell tók eftir dálitlu „krafskenndu“ merki í gögnum útvarpssjónauka. Merkið reyndist koma frá PSR B1919+21, fyrsta púlsaranum sem fannst."
+    },
+    {
+      "ar": "2016",
+      "texti": "LaMia-flug 2933 fórst nærri Medellín í Kólumbíu og 71 lést, þar á meðal margir leikmenn brasilíska knattspyrnufélagsins Chapecoense. Harmleikurinn vakti djúpa sorg langt út fyrir heim knattspyrnunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1700",
+      "texti": "Gregoríska tímatalið, svonefndur nýi stíll, gekk í gildi á Íslandi. Landsmenn skiptu þannig um tímatal, þótt klukkur og dagatöl hafi tæplega hætt að valda heilabrotum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1905",
+      "texti": "Gosdrykkjagerðin Sanitas var stofnuð í Reykjavík. Þar hófst kafli í íslenskri drykkjarsögu sem var öllu freyðandi en flest fundargerðarbókin.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Bústaðakirkja var vígð í Reykjavík og varð áberandi kennileiti í Bústaðahverfi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2021",
+      "texti": "Önnur ríkisstjórn Katrínar Jakobsdóttur tók við völdum, skipuð Vinstri grænum, Sjálfstæðisflokki og Framsóknarflokki. Flokkarnir þrír höfðu þá setið saman í ríkisstjórn frá 2017.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Ritchson",
+      "starfsgrein": "leikari, fyrirsæta og söngvari",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Anna Nicole Smith",
+      "starfsgrein": "fyrirsæta, leikkona og sjónvarpsstjarna",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Alfonso Cuarón",
+      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Aimee Garcia",
+      "starfsgrein": "leikkona og höfundur",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Alberto Moravia",
+      "starfsgrein": "rithöfundur og blaðamaður",
+      "ar": "1907"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvað leyndist á bak við „krafskennda“ merkið sem Jocelyn Bell Burnell tók eftir árið 1967?",
+      "svor": [
+        "Fyrsti fundni púlsarinn",
+        "Ný reikistjarna",
+        "Sólgos",
+        "Bilun í kaffivélinni"
+      ],
+      "rett": 0,
+      "skyring": "Merkið kom frá PSR B1919+21, fyrsta púlsaranum sem fannst."
+    },
+    {
+      "spurning": "Hvaða íslenska fyrirtæki var stofnað í Reykjavík árið 1905?",
+      "svor": [
+        "Kísiliðjan",
+        "Sanitas",
+        "Time Inc.",
+        "Grand Ole Opry"
+      ],
+      "rett": 1,
+      "skyring": "Sanitas hóf þar sína freyðandi vegferð í íslenskri gosdrykkjasögu."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn er mexíkóskur kvikmyndaleikstjóri?",
+      "svor": [
+        "Alan Ritchson",
+        "Alberto Moravia",
+        "Alfonso Cuarón",
+        "Alexander Godunov"
+      ],
+      "rett": 2,
+      "skyring": "Alfonso Cuarón fæddist 28. nóvember 1961 og varð einn þekktasti kvikmyndaleikstjóri Mexíkó."
+    }
+  ],
+  "tonlistUSA": "You Light Up My Life – Debby Boone (1977)",
+  "tonlistUK": "Under Pressure – Queen og David Bowie (1981)",
+  "bio": "Rocky (1976)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Að árdegis merkir að morgni eða fyrir hádegi."
+  },
+  "vissir_thu": "Grand Ole Opry, sem fór fyrst í loftið 28. nóvember 1925, er langlífasta útvarpsútsending Bandaríkjanna.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, en reyndu að stofna ekki vísindafélag fyrr en eftir hádegiskaffið. Gamalt verkefni gæti skotið upp kollinum eins og púlsari í útvarpsgögnum — reglulega, dularfullt og ómögulegt að hunsa.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/500px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
+    "ar": "1660",
+    "texti": "Robert Boyle, John Wilkins, Christopher Wren og fleiri vísindamenn komu saman í Gresham College í London og lögðu grunninn að því félagi sem nú nefnist Royal Society. Vísindin voru þar með komin með sitt eigið virðulega félagsheimili.",
+    "heimild": "https://en.wikipedia.org/wiki/Robert_Boyle",
+    "breidd": 330,
+    "haed": 417
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

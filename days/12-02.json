@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-02",
+  "dagur": 2,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:47",
+  "sunset": "15:45",
+  "kvedja": "Komdu sæll, kæri lesandi! Annar desember hefur bæði séð kjarnorkuöldina vakna, byltingarmenn stíga á land og íslenskt veður slá sérlega óþægilegt met — sagan kann greinilega ekki að sitja auðum höndum. Helltu upp á eitthvað heitt og taktu daginn með dálitlu Bogmannsglotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1823",
+      "texti": "James Monroe Bandaríkjaforseti setti fram Monroe-kenninguna og lýsti andstöðu við frekari nýlendustefnu Evrópuríkja í Ameríku. Þar með var dregin býsna ákveðin lína í alþjóðasandinn."
+    },
+    {
+      "ar": "1942",
+      "texti": "Vísindamenn Manhattan-verkefnisins undir stjórn Enricos Fermi komu af stað fyrstu sjálfbæru keðjuverkun kjarnaklofnunar í tilraunakjarnakljúfnum Chicago Pile-1. Kjarnorkuöldin hófst þannig undir áhorfendapöllum í Chicago."
+    },
+    {
+      "ar": "1956",
+      "texti": "Snekkjan Granma náði ströndum Kúbu með Fidel Castro, Che Guevara og 80 aðra liðsmenn 26. júlí-hreyfingarinnar innanborðs. Ferðin varð einn af upphafsköflum kúbversku byltingarinnar."
+    },
+    {
+      "ar": "1988",
+      "texti": "Benazir Bhutto tók við embætti forsætisráðherra Pakistans og varð fyrst kvenna til að leiða ríkisstjórn ríkis þar sem múslímar voru í meirihluta."
+    },
+    {
+      "ar": "2001",
+      "texti": "Orkurisinn Enron óskaði eftir gjaldþrotavernd, innan við tveimur mánuðum eftir að bókhaldsbrot fyrirtækisins komu upp. Um ellefu milljarðar Bandaríkjadala í verðmæti hluthafa gufuðu upp — dýr lexía í skapandi bókhaldi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1914",
+      "texti": "Sigurður Eggerz forsætisráðherra sendi 2.000 orða símskeyti frá Kaupmannahöfn til Íslands um umræður ríkisráðsins um stjórnarskrár- og fánamálið. Þetta var lengsta skeyti sem þá hafði borist til landsins.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1929",
+      "texti": "Mikið austanveður gekk yfir Ísland og í Vestmannaeyjum mældist loftþrýstingurinn 919,7 millibör, sá lægsti sem mælst hafði á landinu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1941",
+      "texti": "Togarinn Sviði fórst utan við Snæfellsnes og með honum öll 25 manna áhöfnin.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1979",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi og landsmenn gengu að kjörborðinu — þeirri friðsælu en stundum spennuþrungnu miðstöð lýðræðisins.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Rodgers",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Alfred Enoch",
+      "starfsgrein": "leikari",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Ann Patchett",
+      "starfsgrein": "rithöfundur",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Antonín Panenka",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Alexander Haig",
+      "starfsgrein": "hershöfðingi og stjórnmálamaður",
+      "ar": "1924"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Benedikt Sveinsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1877"
+    },
+    {
+      "nafn": "Anna G. Jónasdóttir",
+      "starfsgrein": "stjórnmálafræðingur og fræðikona",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Þórhallur Bjarnarson",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1855"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skip flutti Fidel Castro og Che Guevara til Kúbu árið 1956?",
+      "svor": [
+        "Granma",
+        "Sviði",
+        "Endeavor",
+        "Model A"
+      ],
+      "rett": 0,
+      "skyring": "Granma bar byltingarmennina að ströndum Kúbu — heldur sögulegri ferð en venjulegur sunnudagssigling."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að leiða ríkisstjórn ríkis þar sem múslímar voru í meirihluta?",
+      "svor": [
+        "Ann Patchett",
+        "Anna G. Jónasdóttir",
+        "Benazir Bhutto",
+        "Helga Brynjólfsdóttir"
+      ],
+      "rett": 2,
+      "skyring": "Benazir Bhutto tók við embætti forsætisráðherra Pakistans árið 1988."
+    },
+    {
+      "spurning": "Hvar mældist loftþrýstingurinn 919,7 millibör í óveðrinu árið 1929?",
+      "svor": [
+        "Á Akureyri",
+        "Í Vestmannaeyjum",
+        "Í Reykjavík",
+        "Á Ísafirði"
+      ],
+      "rett": 1,
+      "skyring": "Metið mældist í Vestmannaeyjum, þar sem veðrið hafði greinilega ákveðið að fara alla leið."
+    }
+  ],
+  "tonlistUSA": "You Light Up My Life – Debby Boone (1977)",
+  "tonlistUK": "Mull of Kintyre – Wings (1977)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "hestakorn",
+    "skyring": "Hestakorn er forn niðrandi mannlýsing og merkir lítilfjörlegur eða vesæll maður."
+  },
+  "vissir_thu": "Fyrsta sjálfbæra keðjuverkun kjarnaklofnunar fór fram í Chicago Pile-1 undir áhorfendapöllum íþróttavallar við Háskólann í Chicago.",
+  "stjornuspa": "Bogmaður, í dag berst þér hugmynd með hraða símskeytis frá 1914, en lestu smáa letrið áður en þú sendir hana áfram. Ævintýraþráin er sterk, svo miðaðu hátt — en kannski ekki alveg upp í Chicago Pile-1.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg/500px-James_Monroe_White_House_portrait_1819_%28cropped%29%282%29.jpg",
+    "ar": "1823",
+    "texti": "James Monroe Bandaríkjaforseti setti fram Monroe-kenninguna og lýsti andstöðu við frekari nýlendustefnu Evrópuríkja í Ameríku. Þar með var dregin býsna ákveðin lína í alþjóðasandinn.",
+    "heimild": "https://en.wikipedia.org/wiki/James_Monroe",
+    "breidd": 330,
+    "haed": 410
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "11-22",
+  "dagur": 22,
+  "manudur": "nóvember",
+  "manudurNr": 11,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:17",
+  "sunset": "16:08",
+  "kvedja": "Komdu sæll, kæri lesandi! Þennan dag finnum við sjóræningja í síðasta bardaganum, fyrsta tölvuteiknaða stórmyndin siglir á hvíta tjaldið og ungur Norðmaður mátar skákheiminn. Sagan kann svo sannarlega að blanda saman púðureyk, poppkorni og peðum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1574",
+      "texti": "Spænski landkönnuðurinn Juan Fernández fann eyjaklasa undan strönd Chile sem síðar var nefndur eftir honum. Það er býsna myndarleg landfræðileg nafngjöf."
+    },
+    {
+      "ar": "1718",
+      "texti": "Sjóræninginn Svartskeggur féll í bardaga við breska sjóliða undan strönd Norður-Karólínu. Þar lauk ævintýralegum ferli eins frægasta sjóræningja sögunnar."
+    },
+    {
+      "ar": "1873",
+      "texti": "Franska gufuskipið Ville du Havre rakst á skoskt járnseglskip á Norður-Atlantshafi og sökk. Alls létust 226 manns í slysinu."
+    },
+    {
+      "ar": "1995",
+      "texti": "Toy Story var frumsýnd í bandarískum kvikmyndahúsum, fyrst allra kvikmynda í fullri lengd til að vera gerð eingöngu með tölvugerðu myndefni. Leikföngin höfðu greinilega beðið eftir því að tölvurnar næðu þeim."
+    },
+    {
+      "ar": "2013",
+      "texti": "Norski stórmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák. Carlsen var aðeins 22 ára þegar hann settist í hásæti skákheimsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1228",
+      "texti": "Skip fórst við Vestmannaeyjar, en átján menn komust lífs af.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1907",
+      "texti": "Giftar konur í Reykjavík fengu kosningarétt og kjörgengi til sveitarstjórnar og nýttu sér réttinn nokkrum mánuðum síðar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1986",
+      "texti": "Steingrímur Hermannsson, þáverandi forsætisráðherra, keypti fyrsta lottómiðann í Reykjavík. Þjóðin fékk þar með opinbert leyfi til að láta sig dreyma um sex réttar tölur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Línuskipið Eldhamar GK 13 strandaði á Hópsnesi við Grindavík og fimm af sex skipverjum fórust.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Billie Jean King",
+      "starfsgrein": "tennisleikari",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Auliʻi Cravalho",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Alden Ehrenreich",
+      "starfsgrein": "leikari",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Abigail Adams",
+      "starfsgrein": "forsetafrú Bandaríkjanna",
+      "ar": "1744"
+    },
+    {
+      "nafn": "Benjamin Britten",
+      "starfsgrein": "tónskáld, píanóleikari og hljómsveitarstjóri",
+      "ar": "1913"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Axel Andrésson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1895"
+    },
+    {
+      "nafn": "Ásgeir Elíasson",
+      "starfsgrein": "knattspyrnumaður og knattspyrnuþjálfari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Kjartan Bjargmundsson",
+      "starfsgrein": "leikari",
+      "ar": "1956"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða kvikmynd ruddi tölvugerðu leikföngunum leið á hvíta tjaldið árið 1995?",
+      "svor": [
+        "Toy Story",
+        "Shrek",
+        "Finding Nemo",
+        "The Lion King"
+      ],
+      "rett": 0,
+      "skyring": "Toy Story var fyrsta kvikmyndin í fullri lengd sem var gerð eingöngu með tölvugerðu myndefni."
+    },
+    {
+      "spurning": "Hver keypti fyrsta lottómiðann í Reykjavík árið 1986?",
+      "svor": [
+        "Vigdís Finnbogadóttir",
+        "Steingrímur Hermannsson",
+        "Davíð Oddsson",
+        "Ásgeir Elíasson"
+      ],
+      "rett": 1,
+      "skyring": "Steingrímur Hermannsson forsætisráðherra fékk þann sögulega miða í hendur."
+    },
+    {
+      "spurning": "Hvern sigraði Magnus Carlsen í heimsmeistaraeinvíginu í skák árið 2013?",
+      "svor": [
+        "Garry Kasparov",
+        "Bobby Fischer",
+        "Viswanathan Anand",
+        "Vladimir Kramnik"
+      ],
+      "rett": 2,
+      "skyring": "Carlsen lagði Viswanathan Anand að velli og varð heimsmeistari aðeins 22 ára."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Super Trouper – ABBA (1980)",
+  "bio": "Toy Story (1995)",
+  "ord_dagsins": {
+    "ord": "víking",
+    "skyring": "Orðið getur merkt sjóhernað eða ránsferð, eins og í orðasambandinu að fara í víking."
+  },
+  "vissir_thu": "Billie Jean King vann 39 risamótstitla á ferlinum, þar af 12 í einliðaleik.",
+  "stjornuspa": "Bogmaður, í dag ertu eins og landkönnuður með áttavita í annarri hendi og skákpeð í hinni. Stefndu óhræddur fram á við, en athugaðu fyrst hvort einhver hafi skipt kortinu út fyrir lottómiða.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29_%28cropped%29.jpg/500px-Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29_%28cropped%29.jpg",
+    "ar": "1718",
+    "texti": "Sjóræninginn Svartskeggur féll í bardaga við breska sjóliða undan strönd Norður-Karólínu. Þar lauk ævintýralegum ferli eins frægasta sjóræningja sögunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Blackbeard",
+    "breidd": 330,
+    "haed": 474
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
