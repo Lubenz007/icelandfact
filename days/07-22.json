@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-22",
+  "dagur": 22,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "04:01",
+  "sunset": "23:04",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn í 22. júlí, þar sem gufubíll kemur fyrstur í mark en fær samt ekki bikarinn og tveir hundar skjótast út í geim. Sagan minnir okkur þannig á að reglurnar geta verið snúnar, en gott er þó alltaf að komast heill heim.",
+  "nafnadagur": "Magdalena",
+  "atburdir": [
+    {
+      "ar": "1209",
+      "texti": "Krossfaraher tók borgina Béziers í Frakklandi og myrti íbúa hennar í fyrstu stóru hernaðaraðgerð Albigensakrossferðarinnar. Þetta varð einn óhugnanlegasti kafli trúarátaka miðalda."
+    },
+    {
+      "ar": "1817",
+      "texti": "Windham William Sadler varð fyrstur til að fara yfir Írlandshaf með loftbelg. Ferðalagið var öllu vindasamara en hefðbundin ferjusigling."
+    },
+    {
+      "ar": "1894",
+      "texti": "Jules-Albert de Dion kom fyrstur í mark í fyrstu bílakeppni heims, en sigraði ekki þar sem gufuknúni bíllinn hans uppfyllti ekki reglurnar. Stundum nægir greinilega ekki að vera fljótastur."
+    },
+    {
+      "ar": "1951",
+      "texti": "Sovésku hundarnir Dezik og Tsygan fóru í geimskot frá Kapustin Jar og urðu fyrstu hundarnir til að fljúga út í geim og snúa heilir aftur. Þeir fengu þó hvorki geimbúning að eigin vali né sigurpall."
+    },
+    {
+      "ar": "1997",
+      "texti": "Mangasagan One Piece eftir Eiichiro Oda hóf göngu sína í Weekly Shōnen Jump. Hún varð síðar söluhæsta mangasyrpa sögunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1705",
+      "texti": "Magnús Sigurðsson í Bræðratungu var dæmdur til að greiða Árna Magnússyni 300 dali fyrir hneykslanleg ófrægðarbréf. Penninn getur verið beittari en sverðið, en stundum líka talsvert dýrari.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1929",
+      "texti": "Landakotskirkja í Reykjavík var vígð. Turn hennar hefur síðan sett tignarlegan svip á vesturbæinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2011",
+      "texti": "Eden í Hveragerði brann til kaldra kola. Þar með hvarf eitt kunnasta kennileiti bæjarins í eldi.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Albert Brooks",
+      "starfsgrein": "leikari, grínisti og kvikmyndagerðarmaður",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Alex Trebek",
+      "starfsgrein": "sjónvarpsmaður og spurningaþáttastjórnandi",
+      "ar": "1940"
+    },
+    {
+      "nafn": "A.J. Cook",
+      "starfsgrein": "leikkona",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Alan Menken",
+      "starfsgrein": "tónskáld og píanóleikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Alexander Calder",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1898"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Aðalsteinn Ásberg Sigurðsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Elías Mar",
+      "starfsgrein": "rithöfundur",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Steindór Hjörleifsson",
+      "starfsgrein": "leikari",
+      "ar": "1926"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða farartæki notaði Windham William Sadler þegar hann fór yfir Írlandshaf?",
+      "svor": [
+        "Loftbelg",
+        "Gufubát",
+        "Svifdreka",
+        "Gufuknúinn bíl"
+      ],
+      "rett": 0,
+      "skyring": "Sadler sveif yfir hafið í loftbelg árið 1817, löngu áður en flugfreyjur buðu upp á kaffi."
+    },
+    {
+      "spurning": "Hvaða kunna bygging í Reykjavík var vígð 22. júlí 1929?",
+      "svor": [
+        "Hallgrímskirkja",
+        "Höfði",
+        "Landakotskirkja",
+        "Þjóðleikhúsið"
+      ],
+      "rett": 2,
+      "skyring": "Landakotskirkja var vígð árið 1929 og hefur síðan gnæft yfir vesturbænum."
+    },
+    {
+      "spurning": "Hvað hétu hundarnir sem urðu fyrstir hunda til að fljúga út í geim og koma heilir heim?",
+      "svor": [
+        "Belka og Strelka",
+        "Dezik og Tsygan",
+        "Laika og Bars",
+        "Pollux og Castor"
+      ],
+      "rett": 1,
+      "skyring": "Dezik og Tsygan fóru í vel heppnað geimskot árið 1951."
+    }
+  ],
+  "tonlistUSA": "Toy Soldiers – Martika (1989)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "The Dark Knight (2008)",
+  "ord_dagsins": {
+    "ord": "farangur",
+    "skyring": "Farangur er hafurtask eða sá búnaður sem hafður er með í ferðalag."
+  },
+  "vissir_thu": "Jules-Albert de Dion kom fyrstur í mark í fyrstu bílakeppni heims árið 1894 en var ekki úrskurðaður sigurvegari, því gufubíll hans samræmdist ekki reglum keppninnar.",
+  "stjornuspa": "Krabbi, í dag skaltu treysta skelinni en ekki loka þig alveg inni í henni; jafnvel loftbelgur þarf að sleppa böndum til að komast eitthvað. Gamalt verkefni bankar aftur upp á, líklega með jafn miklum þokka og gufubíll í umferðarteppu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Mairie_de_B%C3%A9ziers_%2853452788943%29.jpg/500px-Mairie_de_B%C3%A9ziers_%2853452788943%29.jpg",
+    "ar": "1209",
+    "texti": "Krossfaraher tók borgina Béziers í Frakklandi og myrti íbúa hennar í fyrstu stóru hernaðaraðgerð Albigensakrossferðarinnar. Þetta varð einn óhugnanlegasti kafli trúarátaka miðalda.",
+    "heimild": "https://en.wikipedia.org/wiki/Béziers",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

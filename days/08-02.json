@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-02",
+  "dagur": 2,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:36",
+  "sunset": "22:29",
+  "kvedja": "Góðan 2. ágúst, kæri lesandi! Í dag förum við úr orrustu Filippusar 2. yfir í fyrstu neðanjarðarbrautir Lundúna og endum hjá Studio Ghibli — sannkölluð söguleg hraðferð með örlitlu ævintýraryki.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "338 f.Kr.",
+      "texti": "Filippus 2. af Makedóníu sigraði herlið Aþenu og Þebu í orrustunni við Chaeroneu og tryggði Makedóníu yfirráð yfir mestum hluta Grikklands. Þar með breyttist valdahlutfallið rækilega, án þess að nokkur þyrfti skoðanakönnun."
+    },
+    {
+      "ar": "1100",
+      "texti": "Vilhjálmur 2. Englandskonungur féll á veiðum í New Forest þegar ör frá einum manna hans gekk í gegnum lunga hans. Atvikið varð bæði konunglegur harmleikur og ein dularfyllsta veiðisaga enskrar sögu."
+    },
+    {
+      "ar": "1870",
+      "texti": "Tower Subway undir ánni Thames í Lundúnum var opnuð og varð ein elsta neðanjarðarbraut heims. Lundúnabúar voru þannig farnir að ferðast undir jörðu löngu áður en það varð dagleg þolraun með kaffibolla í hendi."
+    },
+    {
+      "ar": "1932",
+      "texti": "Eðlisfræðingurinn Carl David Anderson staðfesti tilvist andefnis með uppgötvun jáeindarinnar við California Institute of Technology. Uppgötvunin færði honum síðar Nóbelsverðlaunin í eðlisfræði."
+    },
+    {
+      "ar": "1986",
+      "texti": "Teiknimyndin Castle in the Sky var frumsýnd í Japan, fyrst kvikmynda Studio Ghibli. Þar hófst ævintýraferð sem átti eftir að fylla kvikmyndasali heimsins af fljúgandi borgum, furðuverum og aðdáendum með tár í augum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1874",
+      "texti": "Þjóðhátíð vegna þúsund ára afmælis Íslandsbyggðar var haldin um land allt. Íslendingar hafa löngum kunnað að gera sér dagamun þegar tilefnið spannar heilt árþúsund.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1907",
+      "texti": "Ungmennafélag Íslands var stofnað og varð síðar öflug hreyfing á sviði íþrótta, æskulýðsstarfs og félagsmála um landið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1924",
+      "texti": "Erik H. Nelson flaug frá Kirkwall á Orkneyjum til Hornafjarðar í fyrsta fluginu yfir Atlantshaf til Íslands. Lendingin hefur eflaust verið kærkomin eftir hafsvæðið mikla og fá bensínspjöld á leiðinni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1988",
+      "texti": "Þrír menn fórust þegar kanadísk flugvél skall til jarðar í Reykjavík, milli Hringbrautar og flugbrautarendans.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charli XCX",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Apollonia Kotero",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Butch Vig",
+      "starfsgrein": "tónlistarmaður og upptökustjóri",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Andrew Gold",
+      "starfsgrein": "söngvari, lagahöfundur og upptökustjóri",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Alain Giresse",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1952"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Baldvin Einarsson",
+      "starfsgrein": "lögfræðingur og sjálfstæðisbaráttumaður",
+      "ar": "1801"
+    },
+    {
+      "nafn": "Andrea Jóhanna Ólafsdóttir",
+      "starfsgrein": "forsetaframbjóðandi",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Eyþór Árnason",
+      "starfsgrein": "leikari og skáld",
+      "ar": "1954"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða kvikmynd hóf ævintýraferð Studio Ghibli árið 1986?",
+      "svor": [
+        "Castle in the Sky",
+        "Spirited Away",
+        "My Neighbor Totoro",
+        "Princess Mononoke"
+      ],
+      "rett": 0,
+      "skyring": "Castle in the Sky var fyrsta kvikmynd Studio Ghibli og hóf sig á loft 2. ágúst 1986."
+    },
+    {
+      "spurning": "Hvert flaug Erik H. Nelson frá Orkneyjum árið 1924?",
+      "svor": [
+        "Reykjavíkur",
+        "Akureyrar",
+        "Hornafjarðar",
+        "Ísafjarðar"
+      ],
+      "rett": 2,
+      "skyring": "Nelson lenti á Hornafirði eftir fyrsta flugið yfir Atlantshaf til Íslands."
+    },
+    {
+      "spurning": "Hvaða öreind uppgötvaði Carl David Anderson árið 1932?",
+      "svor": [
+        "Rafeindina",
+        "Jáeindina",
+        "Nifteindina",
+        "Róteindina"
+      ],
+      "rett": 1,
+      "skyring": "Jáeindin staðfesti að andefni væri meira en hugmynd með sérlega framúrstefnulegt nafn."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Wherever I Lay My Hat (That's My Home) – Paul Young (1983)",
+  "bio": "Castle in the Sky (1986)",
+  "ord_dagsins": {
+    "ord": "dægurlag",
+    "skyring": "Dægurlag er lag sem nýtur almennra vinsælda á tilteknum tíma."
+  },
+  "vissir_thu": "Flak farþegaflugvélarinnar Star Dust, sem fórst í Andesfjöllum 2. ágúst 1947, fannst ekki fyrr en árið 1998.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og aðalstjarna í gömlu Technicolor-myndinni, jafnvel þótt erindið sé aðeins út í búð. Haltu reisninni, en mundu að líka konungur frumskógarins þarf stundum að finna innkaupalistann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg/500px-Phillip_II%2C_king_of_Macedonia%2C_Roman_copy_of_Greek_original%2C_Ny_Carlsberg_Glyptotek%2C_Copenhagen_%2836420294055%29.jpg",
+    "ar": "338 f.Kr.",
+    "texti": "Filippus 2. af Makedóníu sigraði herlið Aþenu og Þebu í orrustunni við Chaeroneu og tryggði Makedóníu yfirráð yfir mestum hluta Grikklands. Þar með breyttist valdahlutfallið rækilega, án þess að nokkur þyrfti skoðanakönnun.",
+    "heimild": "https://en.wikipedia.org/wiki/Philip_II_of_Macedon",
+    "breidd": 330,
+    "haed": 437
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

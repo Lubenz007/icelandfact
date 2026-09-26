@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-21",
+  "dagur": 21,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:58",
+  "sunset": "23:07",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 21. júlí mætast stærðfræðiheilar, galdraheimar og íslenskir hreppstjórar í einkennisbúningum — sem er sannarlega fjölbreytt samkvæmi. Helltu upp á eitthvað gott og gakktu með mér um króka sögunnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "365",
+      "texti": "Öflugur jarðskjálfti varð nærri Krít og hrinti af stað flóðbylgju sem olli víðtækri eyðileggingu um austanvert Miðjarðarhaf. Náttúran minnti rækilega á hver héldi í raun um stjórnartaumana."
+    },
+    {
+      "ar": "1378",
+      "texti": "Réttindalausir verkamenn í Flórens gerðu uppreisn, tóku stjórn lýðveldisins með valdi og kröfðust aðgangs að opinberum embættum. Þetta var engin kurteisleg beiðni um sæti við borðið."
+    },
+    {
+      "ar": "1925",
+      "texti": "Bandaríski líffræðikennarinn John T. Scopes var fundinn sekur um að hafa kennt þróunarkenninguna í trássi við Butler-lög Tennessee. Réttarhöldin urðu að frægu uppgjöri vísinda, trúar og skólastefnu."
+    },
+    {
+      "ar": "1960",
+      "texti": "Sirimavo Bandaranaike tók við embætti forsætisráðherra Ceylon og varð þar með fyrsta konan í heiminum sem var lýðræðislega kjörin þjóðarleiðtogi. Glerþakið fékk þarna býsna sögulegt högg."
+    },
+    {
+      "ar": "2007",
+      "texti": "Harry Potter and the Deathly Hallows, lokabókin í bókaflokki J. K. Rowling, kom út og seldist í 15 milljónum eintaka á fyrsta sólarhringnum. Muggar reyndust með eindæmum fljótir að draga upp veskið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1808",
+      "texti": "Sveitalögreglu Íslands var komið á með tilskipun og hreppstjórar gerðir að lögregluþjónum. Einkennisbúningurinn var meðal annars gult vesti, blá treyja og ekta silfurborði — löggæsla með ósviknum glæsibrag.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1936",
+      "texti": "Sverðfisk rak á land á Breiðdalsvík, en slíkir fiskar sjást sjaldan svo norðarlega. Austfirðingar fengu því heldur óvenjulegan gest úr suðlægari höfum.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1963",
+      "texti": "Skálholtskirkja var vígð við hátíðlega athöfn að viðstöddum áttatíu prestum, próföstum og biskupum. Þar hefur vart skort hempur eða hátíðarsvip.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1989",
+      "texti": "Fyrstu íslensku IP-tengingunni við útlönd var komið á frá Tæknigarði við Háskóla Íslands. Þar var lagður lítill en örlagaríkur stafrænn stígur út í hinn stóra heim.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Betty Gilpin",
+      "starfsgrein": "leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Andriy Voronin",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Amar Singh Chamkila",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Alfonso I d'Este",
+      "starfsgrein": "hertogi af Ferrara",
+      "ar": "1476"
+    },
+    {
+      "nafn": "Andrew Rayel",
+      "starfsgrein": "plötusnúður og tónlistarframleiðandi",
+      "ar": "1992"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðni Bergsson",
+      "starfsgrein": "knattspyrnumaður og lögmaður",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Tómas Árnason",
+      "starfsgrein": "alþingismaður og ráðherra",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bók rauk út úr bókabúðum 21. júlí 2007 eins og hún hefði fengið galdrakúst?",
+      "svor": [
+        "Harry Potter and the Deathly Hallows",
+        "The Hobbit",
+        "The Da Vinci Code",
+        "The Hunger Games"
+      ],
+      "rett": 0,
+      "skyring": "Lokabók Harry Potter-flokksins seldist í 15 milljónum eintaka á fyrsta sólarhringnum."
+    },
+    {
+      "spurning": "Hvaðan var fyrstu íslensku IP-tengingunni við útlönd komið á árið 1989?",
+      "svor": [
+        "Frá Alþingishúsinu",
+        "Frá Tæknigarði við Háskóla Íslands",
+        "Frá Skálholti",
+        "Frá Landeyjahöfn"
+      ],
+      "rett": 1,
+      "skyring": "Tæknigarður varð stafrænn útvörður Íslands þennan dag árið 1989."
+    },
+    {
+      "spurning": "Hvaða tímamótum náði Sirimavo Bandaranaike árið 1960?",
+      "svor": [
+        "Hún varð fyrsti kvenkyns forseti Sameinuðu þjóðanna",
+        "Hún varð fyrsta konan til að vinna Nóbelsverðlaun",
+        "Hún varð fyrsta lýðræðislega kjörna konan í heiminum til að leiða ríkisstjórn",
+        "Hún varð fyrsta konan til að fljúga yfir Atlantshafið"
+      ],
+      "rett": 2,
+      "skyring": "Bandaranaike tók við sem forsætisráðherra Ceylon og skráði sig þar með í heimssöguna."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "Barbie (2023)",
+  "ord_dagsins": {
+    "ord": "leistabrækur",
+    "skyring": "Leistabrækur eru þröngar, síðar buxur sem ná niður að ökkla og voru meðal annars hluti af eldri einkennisbúningum."
+  },
+  "vissir_thu": "Sirimavo Bandaranaike varð árið 1960 fyrsta konan í heiminum sem var lýðræðislega kjörin til að leiða ríkisstjórn.",
+  "stjornuspa": "Krabbi, í dag finnurðu gamalt erindi í skúffu sem reynist annaðhvort gullmoli eða ógreiddur reikningur — stjörnurnar neita að segja hvort. Treystu innsæinu, en hafðu vasareikninn við höndina.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Procopius_siliqua_-_RIC_013e.jpg/330px-Procopius_siliqua_-_RIC_013e.jpg",
+    "ar": "365",
+    "texti": "Öflugur jarðskjálfti varð nærri Krít og hrinti af stað flóðbylgju sem olli víðtækri eyðileggingu um austanvert Miðjarðarhaf. Náttúran minnti rækilega á hver héldi í raun um stjórnartaumana.",
+    "heimild": "https://en.wikipedia.org/wiki/AD_365",
+    "breidd": 330,
+    "haed": 167
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

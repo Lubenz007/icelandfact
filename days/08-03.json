@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-03",
+  "dagur": 3,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:39",
+  "sunset": "22:25",
+  "kvedja": "Góðan 3. ágúst, kæri lesandi! Í dag stökkvum við frá fallbyssuslysi skosks konungs yfir í risaeðlur sem steingerðust í miðjum slagsmálum og endum svo í tuttugu þúsund manna gleði í Húsafellsskógi. Sagan kann sannarlega að halda fjölbreytta verslunarmannahelgi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1347",
+      "texti": "Franski bærinn Calais gafst upp fyrir Englendingum eftir ellefu mánaða umsátur í Hundrað ára stríðinu. Þar með lauk Crécy-herförinni, en ófriðurinn sjálfur átti enn langt í land."
+    },
+    {
+      "ar": "1460",
+      "texti": "Jakob 2. Skotakonungur lést þegar fallbyssa sprakk við Roxburgh-kastala. Konungleg staða veitti greinilega enga undanþágu frá varasömum hergögnum."
+    },
+    {
+      "ar": "1936",
+      "texti": "Bandaríski frjálsíþróttamaðurinn Jesse Owens vann fyrstu af fjórum gullverðlaunum sínum á Ólympíuleikunum í Berlín. Afrek hans gerðu hugmyndir nasistaforystunnar um yfirburði svonefnds arísks kynstofns rækilega að engu."
+    },
+    {
+      "ar": "1971",
+      "texti": "Steingervingurinn Fighting Dinosaurs fannst í Djadochta-jarðmynduninni í Mongólíu. Þar varðveittust Velociraptor og Protoceratops í miðjum bardaga, eins konar 80 milljón ára gömul kyrrmynd úr náttúrulífsþætti."
+    },
+    {
+      "ar": "1997",
+      "texti": "Sky Tower var opnaður í Auckland á Nýja-Sjálandi. Turninn er 328 metra hár og var þá hæsta frístandandi mannvirki suðurhvelsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1905",
+      "texti": "Bændur fjölmenntu til Reykjavíkur til að mótmæla lagningu ritsíma til Íslands og vildu fremur loftskeytasamband. Tæknideilur eru því síður en svo uppfinning samfélagsmiðlaaldar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1918",
+      "texti": "Björgunarfélag Vestmannaeyja var stofnað, enda sjórinn bæði lífgjafi og vágestur í sögu Eyjamanna.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1969",
+      "texti": "Um tuttugu þúsund manns sóttu Sumarhátíðina í Húsafellsskógi, eða um tíundi hluti þjóðarinnar. Hún telst fjölmennasta útihátíð sem haldin hefur verið hérlendis um verslunarmannahelgi.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1980",
+      "texti": "Vigdís Finnbogadóttir opnaði minjasafn á Hrafnseyri og þar var einnig vígð kapella, hvort tveggja til minningar um Jón Sigurðsson forseta.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brahim Díaz",
+      "starfsgrein": "spænsk-marokkóskur knattspyrnumaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Elisha Otis",
+      "starfsgrein": "bandarískur athafnamaður og stofnandi Otis-lyftufyrirtækisins",
+      "ar": "1811"
+    },
+    {
+      "nafn": "Brent Kutzle",
+      "starfsgrein": "bandarískur bassaleikari og upptökustjóri",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Connie Converse",
+      "starfsgrein": "bandarísk tónlistarkona og lagahöfundur",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Alfred Deakin",
+      "starfsgrein": "ástralskur lögmaður og forsætisráðherra",
+      "ar": "1856"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Agnar Kofoed-Hansen",
+      "starfsgrein": "flugmaður og lögreglustjóri",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Eyjólfur Sverrisson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Jóhannes Gunnarsson",
+      "starfsgrein": "kaþólskur prestur og biskup",
+      "ar": "1897"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða íþróttamaður vann fyrstu af fjórum gullverðlaunum sínum í Berlín 1936?",
+      "svor": [
+        "Jesse Owens",
+        "Brahim Díaz",
+        "Eyjólfur Sverrisson",
+        "Alec Bohm"
+      ],
+      "rett": 0,
+      "skyring": "Jesse Owens hóf þennan dag gullsöfnun sem stakk heldur betur í stúf við áróður nasista."
+    },
+    {
+      "spurning": "Hvar komu um tuttugu þúsund manns saman á Sumarhátíð árið 1969?",
+      "svor": [
+        "Í Atlavík",
+        "Í Húsafellsskógi",
+        "Á Hrafnseyri",
+        "Í Vestmannaeyjum"
+      ],
+      "rett": 1,
+      "skyring": "Húsafellsskógur tók við mannfjölda sem samsvaraði um tíunda hverjum Íslendingi."
+    },
+    {
+      "spurning": "Hvað varð Jakobi 2. Skotakonungi að bana árið 1460?",
+      "svor": [
+        "Hann féll af hesti",
+        "Hann drukknaði",
+        "Fallbyssa sprakk",
+        "Hann varð undir kastalavegg"
+      ],
+      "rett": 2,
+      "skyring": "Fallbyssa sprakk við Roxburgh-kastala og batt skyndilegan enda á valdatíð konungs."
+    }
+  ],
+  "tonlistUSA": "Shout – Tears for Fears (1985)",
+  "tonlistUK": "Into the Groove – Madonna (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "ritsími",
+    "skyring": "Ritsími er eldra orð yfir símskeytatækni þar sem boð voru send sem rituð merki um raflínu."
+  },
+  "vissir_thu": "Steingervingurinn Fighting Dinosaurs varðveitir Velociraptor og Protoceratops svo þétt saman að þeir virðast hafa verið grafnir í miðjum bardaga.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og kvikmyndastjarna inn á frumsýningu, jafnvel þótt erindið sé aðeins út með ruslið. Varastu þó að láta stoltið springa eins og skoska fallbyssu; hlýtt glott kemur þér lengra en konunglegar tilskipanir.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/500px-Schlacht_von_Azincourt.jpg",
+    "ar": "1347",
+    "texti": "Franski bærinn Calais gafst upp fyrir Englendingum eftir ellefu mánaða umsátur í Hundrað ára stríðinu. Þar með lauk Crécy-herförinni, en ófriðurinn sjálfur átti enn langt í land.",
+    "heimild": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

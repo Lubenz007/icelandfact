@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-05",
+  "dagur": 5,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:46",
+  "sunset": "22:19",
+  "kvedja": "Góðan 5. ágúst! Í dag ökum við með Berthu Benz, skjótumst með Juno til Júpíters og lítum við á Þingvöllum — sögulegt ferðalag sem krefst hvorki bensínkorts né geimbúnings. Sagnfræðingurinn óskar þér ljónshugar og góðs dags með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1506",
+      "texti": "Stórhertogadæmið Litháen vann einn sinn glæsilegasta sigur á Tatörum í orrustunni við Kletsk. Þar var sannarlega enginn skortur á sögulegum látum."
+    },
+    {
+      "ar": "1816",
+      "texti": "Sir John Barrow hjá breska flotamálaráðuneytinu hafnaði tillögu Francis Ronalds um rafmagnssíma og taldi tækið „algjörlega óþarft“. Framtíðarsýnin var greinilega ekki alltaf með fullt samband."
+    },
+    {
+      "ar": "1888",
+      "texti": "Bertha Benz ók 106 kílómetra frá Mannheim til Pforzheim í Benz Patent-Motorwagen og fór þar með í fyrstu langferð sögunnar á bifreið. Hún sýndi um leið að bíllinn var meira en dýrt stofustáss með hjólum."
+    },
+    {
+      "ar": "1962",
+      "texti": "Bandaríska leikkonan og fyrirsætan Marilyn Monroe fannst látin á heimili sínu í Brentwood í Los Angeles eftir of stóran skammt af barbitúrötum. Fráfall hennar aðeins 36 ára gamallar varð eitt umtalaðasta andlát Hollywood-sögunnar."
+    },
+    {
+      "ar": "2011",
+      "texti": "NASA skaut geimfarinu Juno á loft í átt að Júpíter sem hluta af New Frontiers-áætluninni. Þar hófst löng ferð til stærstu plánetu sólkerfisins — verkefni sem var ekki beinlínis skroppið út í búð."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1848",
+      "texti": "Fyrsti Þingvallafundurinn var haldinn, þar sem íslensk þjóðmál og sjálfstæðiskröfur voru tekin til umræðu undir berum himni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1874",
+      "texti": "Fjögurra daga þjóðhátíð hófst á Þingvöllum í tilefni af þúsund ára Íslandsbyggð.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1919",
+      "texti": "Fyrsti knattspyrnuleikurinn hér á landi gegn erlendu liði var leikinn í Reykjavík. Úrvalslið Vals og Víkings tapaði 7:0 fyrir danska liðinu Akademisk Boldklub — gestrisnin var kannski fullríkuleg.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1956",
+      "texti": "Tveir Íslendingar og einn Bandaríkjamaður klifu Hraundranga í Öxnadal, sem fram að því hafði verið talinn ókleifur.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Yauch",
+      "starfsgrein": "rappari og leikstjóri",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Anthony Edwards",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Angry Anderson",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Bob Clark",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Abbé Pierre",
+      "starfsgrein": "prestur og mannúðarfrömuður",
+      "ar": "1912"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Ingi Hrafnsson",
+      "starfsgrein": "fjölmiðlamaður",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Guðmundur frá Miðdal",
+      "starfsgrein": "listamaður",
+      "ar": "1895"
+    },
+    {
+      "nafn": "Gísli J. Ástþórsson",
+      "starfsgrein": "ritstjóri og teiknari",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver ók fyrstu langferð sögunnar á bifreið?",
+      "svor": [
+        "Bertha Benz",
+        "Marilyn Monroe",
+        "Betsy Jolas",
+        "Anna Rawson"
+      ],
+      "rett": 0,
+      "skyring": "Bertha Benz ók 106 kílómetra árið 1888 og fær því heiðurssæti í bílasögunni."
+    },
+    {
+      "spurning": "Hvert stefndi geimfarið Juno þegar því var skotið á loft árið 2011?",
+      "svor": [
+        "Til Mars",
+        "Til Júpíters",
+        "Til Satúrnusar",
+        "Til Venusar"
+      ],
+      "rett": 1,
+      "skyring": "Juno hélt til Júpíters, enda var stærsta plánetan verðugt viðfangsefni."
+    },
+    {
+      "spurning": "Hvaða íslenska kennileiti, áður talið ókleift, var klifið 5. ágúst 1956?",
+      "svor": [
+        "Esjan",
+        "Herðubreið",
+        "Hraundrangi",
+        "Hvannadalshnúkur"
+      ],
+      "rett": 2,
+      "skyring": "Hraundrangi í Öxnadal lét loks undan þremur ótrauðum fjallgöngumönnum."
+    }
+  ],
+  "tonlistUSA": "Macarena – Los del Río (1996)",
+  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "bio": "Barbie (2023)",
+  "ord_dagsins": {
+    "ord": "ókleifur",
+    "skyring": "Ókleifur er sá staður sem talinn er svo torfær eða brattur að ekki verði komist þar upp."
+  },
+  "vissir_thu": "Langferð Berthu Benz árið 1888 var 106 kílómetrar, vegalengd sem dugði til að sýna heiminum að vélknúin ökutæki gætu nýst til raunverulegra ferðalaga.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og kvikmyndastjarna á rauðum dregli, þótt dregillinn kunni að vera gömul mottan í forstofunni. Sýndu hugrekki Berthu Benz, en mundu að jafnvel konungleg sjálfstraustsvél þarf stundum að stoppa og fylla á tankinn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sir_John_Barrow%2C_1st_Bt_by_John_Jackson.jpg/500px-Sir_John_Barrow%2C_1st_Bt_by_John_Jackson.jpg",
+    "ar": "1816",
+    "texti": "Sir John Barrow hjá breska flotamálaráðuneytinu hafnaði tillögu Francis Ronalds um rafmagnssíma og taldi tækið „algjörlega óþarft“. Framtíðarsýnin var greinilega ekki alltaf með fullt samband.",
+    "heimild": "https://en.wikipedia.org/wiki/Sir_John_Barrow,_1st_Baronet",
+    "breidd": 330,
+    "haed": 415
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

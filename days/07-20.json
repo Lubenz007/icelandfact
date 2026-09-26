@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-20",
+  "dagur": 20,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:55",
+  "sunset": "23:10",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 20. júlí röltum við frá miðaldaborginni Berwick alla leið til tunglsins, með viðkomu í Skálholti og á Mars — enginn getur sakað söguna um að hugsa smátt. Spenntu beltin, eða geimbúninginn, og njóttu ferðarinnar.",
+  "nafnadagur": "Þorlákur",
+  "atburdir": [
+    {
+      "ar": "1333",
+      "texti": "Skoski bærinn Berwick-upon-Tweed gafst upp fyrir her Játvarðar 3. Englandskonungs eftir umsátur. Þar með lauk einum kafla í annarri sjálfstæðisstyrjöld Skota, en sannarlega ekki allri þrætunni."
+    },
+    {
+      "ar": "1793",
+      "texti": "Skoski landkönnuðurinn Alexander Mackenzie náði Kyrrahafsströndinni við Bella Coola og lauk fyrstu skráðu þverun Norður-Ameríku norðan Mexíkó. Þetta var ferðalag án hraðbrauta, bensínstöðva eða þægilegra vegakorta."
+    },
+    {
+      "ar": "1807",
+      "texti": "Frönsku bræðurnir Claude og Nicéphore Niépce fengu einkaleyfi á Pyréolophore, einni fyrstu brunavél heims. Þar má greina fjarlægan forföður vélarinnar sem síðar kom heiminum á hjól."
+    },
+    {
+      "ar": "1969",
+      "texti": "Tunglferjan Eagle úr Apollo 11 lenti á Kyrrðarhafinu á tunglinu. Sex og hálfri klukkustund síðar urðu Neil Armstrong og Buzz Aldrin fyrstu mennirnir til að ganga þar um."
+    },
+    {
+      "ar": "2015",
+      "texti": "Sjálfsvígsárás í Suruç í Tyrklandi varð 34 að bana og særði 104 til viðbótar. Samtökin sem kenndu sig við Íslamska ríkið lýstu ábyrgð á ódæðinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1198",
+      "texti": "Bein Þorláks Þórhallssonar biskups voru tekin upp og lögð í skrín í Skálholti. Dagurinn varð síðar þekktur sem Þorláksmessa á sumar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1627",
+      "texti": "Guðbrandur Þorláksson, biskup á Hólum, lést eftir 56 ár í embætti. Enginn annar íslenskur biskup hefur setið jafn lengi — það er starfsaldur sem kallar á býsna veglega kaffikörfu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1783",
+      "texti": "Jón Steingrímsson flutti hina svokölluðu Eldmessu á Kirkjubæjarklaustri þegar hraun úr Skaftáreldum ógnaði byggðinni. Framrás hraunsins stöðvaðist skammt frá og var það þakkað trúarhita prestsins.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1973",
+      "texti": "Stofnfundur Flugleiða hf. var haldinn og þar sameinuðust Flugfélag Íslands og Loftleiðir í eitt félag. Sameiningin tók formlega gildi 1. ágúst.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alycia Debnam-Carey",
+      "starfsgrein": "áströlsk leikkona",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Anton Du Beke",
+      "starfsgrein": "enskur dansari og sjónvarpsmaður",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Andrew Stockdale",
+      "starfsgrein": "ástralskur söngvari, lagahöfundur og gítarleikari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Alberto Santos-Dumont",
+      "starfsgrein": "brasilískur flugmaður og frumkvöðull í flugi",
+      "ar": "1873"
+    },
+    {
+      "nafn": "Anne Hutchinson",
+      "starfsgrein": "ensk púrítanapredikari",
+      "ar": "1591"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Brian Pilkington",
+      "starfsgrein": "ensk-íslenskur myndlistarmaður og barnabókahöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Stefán Jóhann Stefánsson",
+      "starfsgrein": "íslenskur stjórnmálamaður",
+      "ar": "1894"
+    },
+    {
+      "nafn": "Jakob Benediktsson",
+      "starfsgrein": "íslenskur málfræðingur og orðabókarstjóri",
+      "ar": "1907"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar lenti tunglferjan Eagle 20. júlí 1969?",
+      "svor": [
+        "Á Kyrrðarhafinu",
+        "Í Regnbogaflóa",
+        "Á Stormahafinu",
+        "Í Kuldahafinu"
+      ],
+      "rett": 0,
+      "skyring": "Eagle lenti á Kyrrðarhafinu, sem var óvenju viðeigandi nafn á jafn taugatrekkjandi áfangastað."
+    },
+    {
+      "spurning": "Hvaða prestur flutti Eldmessuna á Kirkjubæjarklaustri árið 1783?",
+      "svor": [
+        "Guðbrandur Þorláksson",
+        "Jón Steingrímsson",
+        "Þorlákur Þórhallsson",
+        "Hallgrímur Pétursson"
+      ],
+      "rett": 1,
+      "skyring": "Það var Jón Steingrímsson, sem hefur æ síðan verið kallaður Eldklerkurinn."
+    },
+    {
+      "spurning": "Hvaða tvö íslensku flugfélög sameinuðust í Flugleiðum hf.?",
+      "svor": [
+        "Flugfélag Íslands og Loftleiðir",
+        "Loftleiðir og Arnarflug",
+        "Flugfélag Íslands og Cargolux",
+        "Arnarflug og Flugfélag Norðurlands"
+      ],
+      "rett": 0,
+      "skyring": "Flugfélag Íslands og Loftleiðir lögðu saman krafta sína — og flugu sameinuð inn í nýjan kafla."
+    }
+  ],
+  "tonlistUSA": "In the Year 2525 – Zager and Evans (1969)",
+  "tonlistUK": "Something in the Air – Thunderclap Newman (1969)",
+  "bio": "The Dark Knight Rises (2012)",
+  "ord_dagsins": {
+    "ord": "eldklerkur",
+    "skyring": "Viðurnefni Jóns Steingrímssonar, sem flutti Eldmessuna við Skaftárelda árið 1783."
+  },
+  "vissir_thu": "Viking 1 varð árið 1976 fyrsta geimfarið til að lenda með fullum árangri á Mars og sinna þar fyrirhuguðu rannsóknarverkefni sínu.",
+  "stjornuspa": "Krabbi, tunglið kallar á þig, en þú skalt láta nægja að horfa upp í kvöld — Apollo-far er líklega ekki í fjárhagsáætluninni. Gamalt verkefni fær vængi ef þú blandar saman þrautseigju Eldklerksins og örlitlu geimferðahugrekki.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Alexander_MacKenzie_by_Thomas_Lawrence_%28c.1800%29.jpg/500px-Alexander_MacKenzie_by_Thomas_Lawrence_%28c.1800%29.jpg",
+    "ar": "1793",
+    "texti": "Skoski landkönnuðurinn Alexander Mackenzie náði Kyrrahafsströndinni við Bella Coola og lauk fyrstu skráðu þverun Norður-Ameríku norðan Mexíkó. Þetta var ferðalag án hraðbrauta, bensínstöðva eða þægilegra vegakorta.",
+    "heimild": "https://en.wikipedia.org/wiki/Alexander_Mackenzie_(explorer)",
+    "breidd": 330,
+    "haed": 399
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

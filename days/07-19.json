@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-19",
+  "dagur": 19,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:52",
+  "sunset": "23:13",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag sveiflum við okkur frá miðaldabardögum og kvenréttindafundi yfir í fyrsta Frakklandshjólreiðasigurinn og ljósmynd af jörðinni frá Satúrnusi — býsna drjúg ferð án þess að þurfa einu sinni að pakka tannbursta.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "998",
+      "texti": "Í orrustunni við Apamea snerist sigurvænleg staða Býsansmanna snögglega við þegar kúrdískur riddari felldi herforingjann Damian Dalassenos. Fatímídar nýttu ringulreiðina og sneru taflinu sér í hag."
+    },
+    {
+      "ar": "1545",
+      "texti": "Enska herskipið Mary Rose sökk undan Portsmouth í orrustunni á Solent. Flakið lá á hafsbotni þar til því var lyft upp árið 1982 — heldur lengri viðgerðartími en skipstjórinn hafði líklega ætlað."
+    },
+    {
+      "ar": "1848",
+      "texti": "Tveggja daga Seneca Falls-ráðstefnan hófst í New York-ríki, fyrsta kvenréttinda- og femínistaráðstefnan í Bandaríkjunum. Þar var stigið stórt skref í baráttunni fyrir borgaralegum réttindum kvenna."
+    },
+    {
+      "ar": "1903",
+      "texti": "Franski hjólreiðamaðurinn Maurice Garin vann fyrstu Frakklandshjólreiðarnar. Þar með hófst keppni sem síðar varð ein frægasta þolraun íþróttasögunnar."
+    },
+    {
+      "ar": "2013",
+      "texti": "Geimfarið Cassini ljósmyndaði Satúrnus með jörðina örsmáa í fjarska. Jarðarbúum var boðið að veifa til Satúrnusar, þótt viðbrögðin þaðan hafi verið fremur fáleg."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1255",
+      "texti": "Á Þveráreyrum í Eyjafirði var háður Þverárfundur, eða Þverárbardagi, þar sem hundruð manna börðust og á annan tug féllu. Meðal hinna föllnu var Eyjólfur ofsi Þorsteinsson.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1627",
+      "texti": "Tyrkjaráninu lauk þegar ræningjarnir héldu til Algeirsborgar með um 400 manns sem þeir höfðu numið á brott úr Grindavík, Vestmannaeyjum og af Austfjörðum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1813",
+      "texti": "Hans Frisak, norskur mælingamaður, og Jón Árnason hreppstjóri urðu fyrstir manna til að ganga á Hvannadalshnjúk í Öræfajökli.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1930",
+      "texti": "Síldarverksmiðjur ríkisins hófu síldarbræðslu á Siglufirði. Þar komst síldarævintýrið bókstaflega í bræðslu.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Benedict Cumberbatch",
+      "starfsgrein": "leikari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Anthony Edwards",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Edgar Degas",
+      "starfsgrein": "listmálari og myndhöggvari",
+      "ar": "1834"
+    },
+    {
+      "nafn": "Allen Collins",
+      "starfsgrein": "gítarleikari og lagahöfundur",
+      "ar": "1952"
+    },
+    {
+      "nafn": "A. J. Cronin",
+      "starfsgrein": "læknir og rithöfundur",
+      "ar": "1896"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Aron Pálmarsson",
+      "starfsgrein": "handknattleiksmaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Birgir Ísleifur Gunnarsson",
+      "starfsgrein": "stjórnmálamaður, borgarstjóri og seðlabankastjóri",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Erró",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1932"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver vann fyrstu Frakklandshjólreiðarnar árið 1903?",
+      "svor": [
+        "Maurice Garin",
+        "Edgar Degas",
+        "Damian Dalassenos",
+        "Hans Frisak"
+      ],
+      "rett": 0,
+      "skyring": "Maurice Garin hjólaði fyrstur í sigur í þessari síðar heimsfrægu keppni."
+    },
+    {
+      "spurning": "Hvaða geimfar tók ljósmynd af Satúrnusi og jörðinni árið 2013?",
+      "svor": [
+        "Voyager 1",
+        "Cassini",
+        "New Shepard",
+        "Apollo 11"
+      ],
+      "rett": 1,
+      "skyring": "Cassini tók myndina og jarðarbúum var meira að segja boðið að veifa."
+    },
+    {
+      "spurning": "Hverjir gengu fyrstir á Hvannadalshnjúk samkvæmt atburði dagsins?",
+      "svor": [
+        "Aron Pálmarsson og Erró",
+        "Hans Frisak og Jón Árnason",
+        "Maurice Garin og A. J. Cronin",
+        "Birgir Ísleifur Gunnarsson og Edgar Degas"
+      ],
+      "rett": 1,
+      "skyring": "Hans Frisak og Jón Árnason náðu tindinum árið 1813, án nútímalegra gönguforrita."
+    }
+  ],
+  "tonlistUSA": "Holding Back the Years – Simply Red (1986)",
+  "tonlistUK": "Papa Don't Preach – Madonna (1986)",
+  "bio": "The Dark Knight (2008)",
+  "ord_dagsins": {
+    "ord": "hafvilla",
+    "skyring": "Hafvilla er það þegar menn villast eða missa áttir á sjó."
+  },
+  "vissir_thu": "Þegar Cassini ljósmyndaði Satúrnus árið 2013 sást jörðin aðeins sem örsmár ljósdepill í fjarska.",
+  "stjornuspa": "Krabbinn finnur í dag gamla hugmynd í skúffu hugans og sér að hún er alls ekki úrelt, aðeins dálítið rykug. Burstaðu af henni, settu góða plötu á fóninn og láttu sem árið sé 1986.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg",
+    "ar": "998",
+    "texti": "Í orrustunni við Apamea snerist sigurvænleg staða Býsansmanna snögglega við þegar kúrdískur riddari felldi herforingjann Damian Dalassenos. Fatímídar nýttu ringulreiðina og sneru taflinu sér í hag.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab–Byzantine_wars",
+    "breidd": 330,
+    "haed": 169
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

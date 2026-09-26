@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-06",
+  "dagur": 6,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:49",
+  "sunset": "22:15",
+  "kvedja": "Góðan 6. ágúst! Í dag liggur leiðin frá blóðugum vígvöllum fornaldar að fyrstu skrefum Veraldarvefsins, með viðkomu í kartöflukeri í Sauðlauksdal. Sagan kann sannarlega að blanda saman hinu háleita og hinu hversdagslega — rétt eins og góður Íslendingur í veislu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "686",
+      "texti": "Í orrustunni við Khazir sigruðu sveitir hliðhollar Alíætt Umayyad-kalífadæmið og náðu í kjölfarið yfirráðum yfir Mósúl í núverandi Írak."
+    },
+    {
+      "ar": "1777",
+      "texti": "Orrustan við Oriskany var háð í bandaríska frelsisstríðinu, skammt frá Fort Stanwix í New York. Hún varð ein blóðugasta orrusta stríðsins."
+    },
+    {
+      "ar": "1945",
+      "texti": "Bandaríska sprengjuflugvélin Enola Gay varpaði kjarnorkusprengjunni Little Boy á Hiroshima í Japan. Um 70.000 manns létust samstundis og dagurinn markaði skelfileg tímamót í sögu hernaðar."
+    },
+    {
+      "ar": "1965",
+      "texti": "Lyndon B. Johnson Bandaríkjaforseti undirritaði kosningaréttarlögin, sem bönnuðu meðal annars lestrarpróf og aðrar aðferðir sem höfðu verið notaðar til að svipta svarta Bandaríkjamenn kosningarétti."
+    },
+    {
+      "ar": "1991",
+      "texti": "Tim Berners-Lee birti opinbert boð um samstarf að samtengdu kerfi stiklutextaskjala á internetinu. Veraldarvefurinn var þar með farinn að banka upp á hjá almenningi — og heimurinn hefur varla lokað vafranum síðan."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1759",
+      "texti": "Björn Halldórsson í Sauðlauksdal fékk útsæðiskartöflur sendar frá Kaupmannahöfn og setti þær niður í ker. Uppskeran varð lítil, en tilraunin var forsmekkurinn að kartöflurækt hans árið eftir.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1809",
+      "texti": "Jörgen Jörgensen, sem kallaður var konungurinn, efndi til dansleiks í Klúbbnum í Reykjavík. Byltingarstjórn er greinilega léttari í spori þegar fiðlan er stillt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1907",
+      "texti": "Lárus Rist fimleikakennari synti yfir Oddeyrarál til að sýna fram á gagnsemi sundkunnáttu fyrir sjómenn. Hann lagði af stað alklæddur en losaði sig við fötin á leiðinni.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1960",
+      "texti": "Steingrímsstöð, 26 MW virkjun í Soginu, var tekin í notkun við hátíðlega athöfn.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Warhol",
+      "starfsgrein": "myndlistarmaður, ljósmyndari og kvikmyndaleikstjóri",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Alexander Fleming",
+      "starfsgrein": "líf- og lyfjafræðingur",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Alfred Tennyson",
+      "starfsgrein": "skáld",
+      "ar": "1809"
+    },
+    {
+      "nafn": "Barbara Windsor",
+      "starfsgrein": "leikkona",
+      "ar": "1937"
+    },
+    {
+      "nafn": "David Robinson",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1965"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hulda",
+      "starfsgrein": "skáld",
+      "ar": "1881"
+    },
+    {
+      "nafn": "Matthías Á. Mathiesen",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Dagur Sigurðarson",
+      "starfsgrein": "skáld",
+      "ar": "1937"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tækninýjung bauð Tim Berners-Lee almenningi að taka þátt í að þróa árið 1991?",
+      "svor": [
+        "Veraldarvefinn",
+        "Gervihnattasjónvarp",
+        "Farsímakerfið",
+        "Geisladiskinn"
+      ],
+      "rett": 0,
+      "skyring": "Veraldarvefurinn var rétta svarið — staðurinn þar sem mannkynið fann bæði þekkingu og endalausar kattamyndir."
+    },
+    {
+      "spurning": "Hvað setti Björn Halldórsson niður í ker í Sauðlauksdal árið 1759?",
+      "svor": [
+        "Túlípana",
+        "Útsæðiskartöflur",
+        "Kaffibaunir",
+        "Tóbaksplöntur"
+      ],
+      "rett": 1,
+      "skyring": "Þetta voru útsæðiskartöflur, þótt fyrsta uppskeran hafi ekki beinlínis fyllt hlöðuna."
+    },
+    {
+      "spurning": "Hvaða myndlistarmaður, fæddur 6. ágúst 1928, varð einn helsti fulltrúi popplistar?",
+      "svor": [
+        "Pablo Picasso",
+        "Salvador Dalí",
+        "Andy Warhol",
+        "Henri Matisse"
+      ],
+      "rett": 2,
+      "skyring": "Andy Warhol er maðurinn — súpudósir hafa sjaldan komist jafn nærri listasögulegum ódauðleika."
+    }
+  ],
+  "tonlistUSA": "Wild Thing – The Troggs (1966)",
+  "tonlistUK": "Do Wah Diddy Diddy – Manfred Mann (1964)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "goðorð",
+    "skyring": "Goðorð var valdastaða í íslenska þjóðveldinu sem goði fór með, fremur en afmarkað landsvæði í nútímaskilningi."
+  },
+  "vissir_thu": "Vissir þú að Alexander Fleming og Andy Warhol áttu sama afmælisdag, þótt 47 ár væru á milli þeirra?",
+  "stjornuspa": "Ljónið finnur í dag gamlan glansjakka innra með sér og ákveður að sviðsljósið hafi beðið nógu lengi. Mundu þó að jafnvel aðalstjarnan þarf að leyfa öðrum að klára setninguna.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Second_Fitna_Territorial_Control_Map_ca_686.svg/500px-Second_Fitna_Territorial_Control_Map_ca_686.svg.png",
+    "ar": "686",
+    "texti": "Í orrustunni við Khazir sigruðu sveitir hliðhollar Alíætt Umayyad-kalífadæmið og náðu í kjölfarið yfirráðum yfir Mósúl í núverandi Írak.",
+    "heimild": "https://en.wikipedia.org/wiki/Second_Fitna",
+    "breidd": 330,
+    "haed": 215
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

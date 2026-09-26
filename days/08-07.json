@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-07",
+  "dagur": 7,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:52",
+  "sunset": "22:12",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 7. ágúst! Í dag syndum við yfir Beringssund, lítum inn í tölvusögu Harvard og fylgjum Fjalla-Eyvindi og Höllu á Sprengisandi — ágætis dagsferð, svo lengi sem nestið er gott.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1461",
+      "texti": "Kínverski Ming-hershöfðinginn Cao Qin gerði misheppnaða valdaránstilraun gegn Tianshun-keisara. Valdarán eru vandasöm verk, einkum þegar keisarinn neitar að taka þátt."
+    },
+    {
+      "ar": "1782",
+      "texti": "Bandaríski herheiðurinn Badge of Military Merit var stofnaður fyrir meginlandsherinn. Hann varð síðar fyrirrennari Purple Heart-heiðursmerkisins."
+    },
+    {
+      "ar": "1909",
+      "texti": "Alice Huyler Ramsey kom til San Francisco 59 dögum eftir brottför frá New York og varð fyrst kvenna til að aka bíl þvert yfir samliggjandi ríki Bandaríkjanna."
+    },
+    {
+      "ar": "1944",
+      "texti": "IBM afhenti Harvard-háskóla fyrsta forritastýrða reiknivélina, sem síðar varð þekkt sem Mark I. Hún var engin fartölva, nema ferðalangurinn hefði haft með sér vörubíl."
+    },
+    {
+      "ar": "1987",
+      "texti": "Lynne Cox varð fyrst til að synda milli Bandaríkjanna og Sovétríkjanna þegar hún fór frá Little Diomede til Big Diomede í Beringssundi á tveimur klukkustundum og fimm mínútum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1727",
+      "texti": "Öræfajökull tók að gjósa og svo mikið öskufall varð fyrstu þrjá dagana að vart sá mun dags og nætur. Gosið stóð í eitt ár.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1772",
+      "texti": "Útilegumennirnir Fjalla-Eyvindur Jónsson og Halla Jónsdóttir voru handtekin á Sprengisandi. Eyvindur slapp skömmu síðar, frelsaði Höllu og héldu þau áfram útilegulífi sínu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1939",
+      "texti": "Haukur Einarsson synti Grettissund frá Drangey til lands á mettímanum þremur klukkustundum og 20 mínútum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2000",
+      "texti": "Leiguflugvél á leið frá þjóðhátíð í Vestmannaeyjum, með sex manns um borð, hrapaði í sjóinn í Skerjafirði.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charlize Theron",
+      "starfsgrein": "suðurafrísk leikkona",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Abbie Cornish",
+      "starfsgrein": "áströlsk leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Abebe Bikila",
+      "starfsgrein": "eþíópískur langhlaupari",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Constantius II",
+      "starfsgrein": "rómverskur keisari",
+      "ar": "317"
+    },
+    {
+      "nafn": "Alexandre Aja",
+      "starfsgrein": "franskur kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1978"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andrés Indriðason",
+      "starfsgrein": "rithöfundur",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Jónas Jónasson frá Hrafnagili",
+      "starfsgrein": "þjóðfræðingur",
+      "ar": "1856"
+    },
+    {
+      "nafn": "Sigurbergur Elísson",
+      "starfsgrein": "íþróttaforystumaður",
+      "ar": "1899"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað hét forritastýrða reiknivélin sem IBM afhenti Harvard árið 1944?",
+      "svor": [
+        "Mark I",
+        "Deep Blue",
+        "ENIAC",
+        "Colossus"
+      ],
+      "rett": 0,
+      "skyring": "Mark I var sannkallaður risi í reikningi, bæði í bókstaflegri og sögulegri merkingu."
+    },
+    {
+      "spurning": "Hversu lengi var Lynne Cox að synda milli Bandaríkjanna og Sovétríkjanna?",
+      "svor": [
+        "59 mínútur",
+        "Tvær klukkustundir og fimm mínútur",
+        "Þrjár klukkustundir og 20 mínútur",
+        "Fimm klukkustundir og sjö mínútur"
+      ],
+      "rett": 1,
+      "skyring": "Cox lauk sundinu á tveimur klukkustundum og fimm mínútum — án þess að þurfa vegabréfsstimpil á miðri leið."
+    },
+    {
+      "spurning": "Hvaðan synti Haukur Einarsson Grettissund árið 1939?",
+      "svor": [
+        "Frá Viðey",
+        "Frá Grímsey",
+        "Frá Drangey",
+        "Frá Flatey"
+      ],
+      "rett": 2,
+      "skyring": "Haukur synti frá Drangey til lands á þremur klukkustundum og 20 mínútum."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Help! – The Beatles (1965)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "brigantína",
+    "skyring": "Brigantína er tvímastra seglskip, yfirleitt með þverseglum á framsiglu og langseglum á aftursiglu."
+  },
+  "vissir_thu": "Eyjarnar Little Diomede og Big Diomede í Beringssundi tilheyra hvor sínu ríkinu, Bandaríkjunum og Rússlandi, þótt aðeins fáir kílómetrar skilji þær að.",
+  "stjornuspa": "Ljónið finnur í dag gamlan glanspening í vasa fortíðarinnar og ákveður vitaskuld að hann sé kóróna. Haltu höfðinu hátt, en mundu að jafnvel keisarar þurfa stundum að lesa leiðbeiningarnar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Map_of_Ming_Chinese_empire_1415_%28cropped_2%29.jpg/500px-Map_of_Ming_Chinese_empire_1415_%28cropped_2%29.jpg",
+    "ar": "1461",
+    "texti": "Kínverski Ming-hershöfðinginn Cao Qin gerði misheppnaða valdaránstilraun gegn Tianshun-keisara. Valdarán eru vandasöm verk, einkum þegar keisarinn neitar að taka þátt.",
+    "heimild": "https://en.wikipedia.org/wiki/Ming_dynasty",
+    "breidd": 330,
+    "haed": 395
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

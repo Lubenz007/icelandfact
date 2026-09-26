@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-28",
+  "dagur": 28,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:20",
+  "sunset": "22:45",
+  "kvedja": "Góðan og gleðilegan 28. júlí! Í dag röltum við frá krossförum og konunglegum aftökum yfir í fornleifafundi, glæsilega brúarsmíði og sundafrek — sagan kann sannarlega að skipta um sundbol á miðri leið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1148",
+      "texti": "Umsátrinu um Damaskus lauk með afgerandi sigri múslima. Ósigurinn varð þungt högg fyrir síðari krossferðina, sem leystist í kjölfarið upp."
+    },
+    {
+      "ar": "1540",
+      "texti": "Hinrik 8. Englandskonungur lét hálshöggva Thomas Cromwell, fyrrverandi aðalráðherra sinn, fyrir landráð og villutrú. Að vera í innsta hring konungs var greinilega starf með óvenjulega slæmum starfslokum."
+    },
+    {
+      "ar": "1821",
+      "texti": "José de San Martín hershöfðingi lýsti yfir sjálfstæði Perú undan spænska heimsveldinu. Þar með hófst nýr kafli í sögu landsins, þótt sjálfstæðisbaráttunni væri ekki að fullu lokið."
+    },
+    {
+      "ar": "1939",
+      "texti": "Við rannsókn á skipsgreftri frá 7. öld í Sutton Hoo á Englandi fundu fornleifafræðingar hinn fræga Sutton Hoo-hjálm, sem gjarnan er tengdur Rædwald konungi Austur-Anglíu."
+    },
+    {
+      "ar": "2001",
+      "texti": "Á heimsmeistaramótinu í sundi í Fukuoka varð Ástralinn Ian Thorpe fyrstur sundmanna til að vinna sex gullverðlaun á einu heimsmeistaramóti FINA. Það má með sanni kalla að synda heim með mótið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1662",
+      "texti": "Erfðahyllingin var undirrituð á Kópavogsfundinum og markaði mikilvægan áfanga í stjórnskipunarsögu Íslands undir Danakonungi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1895",
+      "texti": "Brúin yfir Þjórsá við Þjótanda var vígð að viðstöddu fjölmenni. Hún þjónaði ferðalöngum í rúmlega hálfa öld.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1957",
+      "texti": "Kirkja í Saurbæ á Hvalfjarðarströnd var vígð og nefnd Hallgrímskirkja til minningar um Hallgrím Pétursson, sem þjónaði þar síðustu áratugi sína í embætti.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1985",
+      "texti": "Íslandsmet var sett í fallhlífastökki á Akureyri þegar fimm fallhlífastökkvarar mynduðu stjörnu og héldu henni í 45 sekúndur — stjörnusýning í bókstaflegri merkingu.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Beatrix Potter",
+      "starfsgrein": "barnabókahöfundur og myndskreytir",
+      "ar": "1866"
+    },
+    {
+      "nafn": "Alexis Arquette",
+      "starfsgrein": "leikkona",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Dana White",
+      "starfsgrein": "athafnamaður og forseti UFC",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Alberto Fujimori",
+      "starfsgrein": "verkfræðingur og fyrrverandi forseti Perú",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Afroman",
+      "starfsgrein": "rappari og grínisti",
+      "ar": "1974"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birgitta Haukdal",
+      "starfsgrein": "söngkona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Jóhannes Jósefsson",
+      "starfsgrein": "glímukappi",
+      "ar": "1883"
+    },
+    {
+      "nafn": "Ólafía Einarsdóttir",
+      "starfsgrein": "sagnfræðingur og doktor í tímatalsfræðum",
+      "ar": "1924"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða land lýsti José de San Martín sjálfstætt árið 1821?",
+      "svor": [
+        "Perú",
+        "Mexíkó",
+        "Brasilía",
+        "Kúba"
+      ],
+      "rett": 0,
+      "skyring": "San Martín lýsti yfir sjálfstæði Perú undan spænska heimsveldinu."
+    },
+    {
+      "spurning": "Hvað fundu fornleifafræðingar við Sutton Hoo árið 1939?",
+      "svor": [
+        "Rómverskan skjöld",
+        "Víkingasverð",
+        "Sutton Hoo-hjálminn",
+        "Gullkórónu Hinriks 8."
+      ],
+      "rett": 2,
+      "skyring": "Hinn svipmikli Sutton Hoo-hjálmur kom í ljós við rannsókn á skipsgreftrinum."
+    },
+    {
+      "spurning": "Hversu lengi héldu fallhlífastökkvararnir fimm stjörnumynduninni yfir Akureyri árið 1985?",
+      "svor": [
+        "15 sekúndur",
+        "30 sekúndur",
+        "45 sekúndur",
+        "60 sekúndur"
+      ],
+      "rett": 2,
+      "skyring": "Stjarnan hélt sér í 45 sekúndur, sem dugði til Íslandsmetis."
+    }
+  ],
+  "tonlistUSA": "When Doves Cry – Prince (1984)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "kviðlingur",
+    "skyring": "Kviðlingur er stutt kvæði, gjarnan ort af léttleika eða með dálítilli ádeilu."
+  },
+  "vissir_thu": "Beatrix Potter var ekki aðeins höfundur og myndskreytir barnabóka heldur skapaði hún sjálf myndirnar af Pétri kanínu og öðrum þekktum persónum sínum.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og aðalstjarna í litmynd frá sjötta áratugnum, með hárið fullkomið og bakgrunnstónlistina á sínum stað. Leyfðu öðrum þó að fá eina línu í handritinu — þeir gætu komið þér skemmtilega á óvart.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Combat_deuxi%C3%A8me_croisade.jpg/500px-Combat_deuxi%C3%A8me_croisade.jpg",
+    "ar": "1148",
+    "texti": "Umsátrinu um Damaskus lauk með afgerandi sigri múslima. Ósigurinn varð þungt högg fyrir síðari krossferðina, sem leystist í kjölfarið upp.",
+    "heimild": "https://en.wikipedia.org/wiki/Crusades",
+    "breidd": 330,
+    "haed": 215
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

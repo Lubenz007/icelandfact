@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-30",
+  "dagur": 30,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:27",
+  "sunset": "22:39",
+  "kvedja": "Góðan og gleðilegan 30. júlí! Í dag förum við frá Bach í Leipzig yfir á knattspyrnuvelli Montevideo og Wembley, með viðkomu á Lágheiði — sagan ferðast nefnilega sjaldan eftir beinni línu. Ljón dagsins mega svo taka sér Arnold Schwarzenegger til fyrirmyndar og ganga inn í daginn eins og þau eigi framhaldsmyndina.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1724",
+      "texti": "Kantata Johanns Sebastians Bach, Wo Gott der Herr nicht bei uns hält, var frumflutt í Leipzig. Þar fékk 124. Davíðssálmur tónrænan hátíðarbúning sem aðeins Bach gat saumað."
+    },
+    {
+      "ar": "1811",
+      "texti": "Miguel Hidalgo y Costilla, einn helsti leiðtogi sjálfstæðisstríðs Mexíkó, var tekinn af lífi af spænskum hersveitum í Chihuahua."
+    },
+    {
+      "ar": "1930",
+      "texti": "Úrúgvæ vann Argentínu 4–2 í Montevideo og varð fyrsti heimsmeistari karla í knattspyrnu. Heimamenn byrjuðu því heimsmeistarasöguna með bikarinn í eigin stofu."
+    },
+    {
+      "ar": "1966",
+      "texti": "England varð heimsmeistari karla í knattspyrnu eftir 4–2 sigur á Vestur-Þýskalandi í framlengdum úrslitaleik í London. Þetta er enn eini heimsmeistaratitill enska karlalandsliðsins."
+    },
+    {
+      "ar": "1981",
+      "texti": "Allt að 50.000 manns, einkum konur og börn, tóku þátt í hungurmótmælum í Łódź vegna efnahagskreppu og matarskorts í Póllandi. Þau urðu stærstu mótmæli sinnar tegundar í landinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1874",
+      "texti": "Kristján 9. Danakonungur kom til Íslands vegna þjóðhátíðarinnar í byrjun ágúst og varð þar með fyrsti konungur Íslands til að heimsækja landið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1909",
+      "texti": "Giftar konur og þær vinnukonur sem greiddu opinber gjöld fengu kosningarétt á Íslandi — mikilvægt skref, þótt jafnræðisgangan væri enn langt frá markinu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1946",
+      "texti": "Bifreið var í fyrsta sinn ekið úr Fljótum um Lágheiði til Ólafsfjarðar. Ferðin tók sex klukkustundir, svo nestið hefur varla verið óþarft.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2000",
+      "texti": "Stafkirkja var vígð í Vestmannaeyjum, gjöf Norðmanna til Íslendinga og einkar glæsileg kveðja yfir hafið.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Arnold Schwarzenegger",
+      "starfsgrein": "leikari, vaxtarræktarmaður og stjórnmálamaður",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Buddy Guy",
+      "starfsgrein": "blússöngvari og gítarleikari",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Alton Brown",
+      "starfsgrein": "kokkur, rithöfundur og sjónvarpsmaður",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Anita Hill",
+      "starfsgrein": "lögfræðingur og fræðikona",
+      "ar": "1956"
+    },
+    {
+      "nafn": "André Gomes",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Laxness",
+      "starfsgrein": "handverkskona",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Anna Borg",
+      "starfsgrein": "leikkona",
+      "ar": "1903"
+    },
+    {
+      "nafn": "Emil Gunnar Guðmundsson",
+      "starfsgrein": "leikari",
+      "ar": "1954"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða þjóð hampaði fyrsta heimsmeistaratitlinum í knattspyrnu árið 1930?",
+      "svor": [
+        "Úrúgvæ",
+        "Argentína",
+        "Brasilía",
+        "England"
+      ],
+      "rett": 0,
+      "skyring": "Úrúgvæ vann Argentínu 4–2 á heimavelli og fékk fyrsta gullstimpil knattspyrnusögunnar."
+    },
+    {
+      "spurning": "Hve lengi tók fyrsta bílferðin úr Fljótum um Lágheiði til Ólafsfjarðar árið 1946?",
+      "svor": [
+        "Tvær klukkustundir",
+        "Fjórar klukkustundir",
+        "Sex klukkustundir",
+        "Tólf klukkustundir"
+      ],
+      "rett": 2,
+      "skyring": "Ferðin tók sex klukkustundir — nútímabílstjóri hefði líklega spurt hvar næsta hraðhleðslustöð væri."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins varð ríkisstjóri Kaliforníu?",
+      "svor": [
+        "Buddy Guy",
+        "Alton Brown",
+        "André Gomes",
+        "Arnold Schwarzenegger"
+      ],
+      "rett": 3,
+      "skyring": "Arnold Schwarzenegger skipti um stund á kvikmyndatjaldinu og skrifstofu ríkisstjórans."
+    }
+  ],
+  "tonlistUSA": "Eye of the Tiger – Survivor (1982)",
+  "tonlistUK": "Wherever I Lay My Hat (That's My Home) – Paul Young (1983)",
+  "bio": "Terminator 2: Judgment Day (1991)",
+  "ord_dagsins": {
+    "ord": "glópagull",
+    "skyring": "Glópagull er gljáandi steind, oftast pýrít, sem getur líkst gulli en reynist ekki vera það."
+  },
+  "vissir_thu": "Úrslitaleikir heimsmeistaramóta karla í knattspyrnu fóru fram 30. júlí bæði 1930 og 1966 og enduðu báðir 4–2.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og sviðsljósið hafi verið fundið upp sérstaklega fyrir það, en ætti samt að leyfa öðrum að komast að kaffivélinni. Gömul hugmynd fær nýjan glans — gættu bara að hún sé ekki glópagull.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/500px-Johann_Sebastian_Bach.jpg",
+    "ar": "1724",
+    "texti": "Kantata Johanns Sebastians Bach, Wo Gott der Herr nicht bei uns hält, var frumflutt í Leipzig. Þar fékk 124. Davíðssálmur tónrænan hátíðarbúning sem aðeins Bach gat saumað.",
+    "heimild": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "breidd": 330,
+    "haed": 428
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

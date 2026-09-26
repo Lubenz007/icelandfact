@@ -1,0 +1,138 @@
+{
+  "mmdd": "08-04",
+  "dagur": 4,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:43",
+  "sunset": "22:22",
+  "kvedja": "Góðan dag, kæri lesandi! Fjórði ágúst hefur borið með sér allt frá miðaldabardögum og ráðgátum til afreka í sundi—sagan kann svo sannarlega að skipta um gír án þess að gefa stefnuljós. Við skulum því stinga okkur til sunds í daginn, en helst án umsáturs um Gíbraltar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1265",
+      "texti": "Konungsher undir stjórn Játvarðar prins sigraði uppreisnarlið Simon de Montfort í orrustunni við Evesham á Englandi. Þar urðu mikil þáttaskil í síðara barónastríðinu."
+    },
+    {
+      "ar": "1704",
+      "texti": "Sameinaður ensk-hollenskur floti, í bandalagi við Karl erkihertoga, hertók Gíbraltar af Spánverjum. Kletturinn reyndist heldur betur þrálátur vinningur í evrópsku valdatafli."
+    },
+    {
+      "ar": "1892",
+      "texti": "Faðir og stjúpmóðir Lizzie Borden fundust myrt á heimili sínu í Fall River í Massachusetts. Lizzie var síðar ákærð en sýknuð og málið varð ein frægasta morðgáta Bandaríkjanna."
+    },
+    {
+      "ar": "1914",
+      "texti": "Bretland lýsti yfir stríði á hendur Þýskalandi eftir innrás Þjóðverja í Belgíu. Þar með dróst breska heimsveldið inn í fyrri heimsstyrjöldina."
+    },
+    {
+      "ar": "2020",
+      "texti": "Gífurleg sprenging varð í ammóníumnítrati sem geymt var í höfninni í Beirút í Líbanon. Hún kostaði 218 manns lífið og olli tjóni sem metið var á um 15 milljarða Bandaríkjadala."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1907",
+      "texti": "Ungmennafélag Íslands var stofnað og Jóhannes Jósefsson varð fyrsti formaður þess. Þar hófst langur kafli félagsstarfs, íþrótta og ungmennaanda um land allt.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1928",
+      "texti": "Ásta Jóhannesdóttir synti um fjóra kílómetra frá Viðey til Reykjavíkur á tæpum tveimur klukkustundum. Það var engin róleg sunnudagssundferð í ylvolgri laug.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bobby Shmurda",
+      "starfsgrein": "bandarískur rappari",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Antonio Valencia",
+      "starfsgrein": "ekvadorskur knattspyrnumaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Ali al-Sistani",
+      "starfsgrein": "íransk-írakskur klerkur og fræðimaður",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Andy Hallett",
+      "starfsgrein": "bandarískur leikari og söngvari",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Lorenzo di Pierfrancesco de' Medici",
+      "starfsgrein": "flórenskur listaverndari",
+      "ar": "1463"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Árni Ragnar Árnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Magnús Kjartansson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1949"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða vígi hertóku enskar og hollenskar sveitir árið 1704?",
+      "svor": [
+        "Gíbraltar",
+        "Malta",
+        "Korsíku",
+        "Krít"
+      ],
+      "rett": 0,
+      "skyring": "Gíbraltar féll í hendur bandamanna og varð býsna langlífur vinningur."
+    },
+    {
+      "spurning": "Hvaðan synti Ásta Jóhannesdóttir til Reykjavíkur árið 1928?",
+      "svor": [
+        "Akranesi",
+        "Viðey",
+        "Kjalarnesi",
+        "Gróttu"
+      ],
+      "rett": 1,
+      "skyring": "Ásta lagði af stað frá Viðey og synti um fjóra kílómetra."
+    },
+    {
+      "spurning": "Hvaða knattspyrnumaður á afmæli 4. ágúst?",
+      "svor": [
+        "Antonio Valencia",
+        "Diego Forlán",
+        "Luis Suárez",
+        "Alexis Sánchez"
+      ],
+      "rett": 0,
+      "skyring": "Ekvadorski knattspyrnumaðurinn Antonio Valencia fæddist árið 1985."
+    }
+  ],
+  "tonlistUSA": "When Doves Cry – Prince (1984)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "Barbie (2023)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, einkum við dagrenningu eða sólarlag."
+  },
+  "vissir_thu": "Gíbraltar var hertókið árið 1704 í spænska erfðastríðinu og Bretar fara enn með yfirráð þar.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og kvikmyndastjarna á frumsýningu, jafnvel þótt erindið sé aðeins út í búð. Haltu höfðinu hátt, en mundu að jafnvel konungur dýranna þarf stundum að hlusta á kortið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Civil_War_in_England.jpg",
+    "ar": "1265",
+    "texti": "Konungsher undir stjórn Játvarðar prins sigraði uppreisnarlið Simon de Montfort í orrustunni við Evesham á Englandi. Þar urðu mikil þáttaskil í síðara barónastríðinu.",
+    "heimild": "https://en.wikipedia.org/wiki/Second_Barons'_War",
+    "breidd": 263,
+    "haed": 279
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

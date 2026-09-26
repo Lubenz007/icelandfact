@@ -1,0 +1,148 @@
+{
+  "mmdd": "08-01",
+  "dagur": 1,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:33",
+  "sunset": "22:32",
+  "kvedja": "Gleðilegan 1. ágúst, kæri lesandi! Í dag blöndum við saman rómverskum stórveldum, súrefni, flughetjum og fyrstu tónum MTV — enda kann sagan vel við fjölbreytt lagaval. Ljón dagsins mega svo taka sér sviðið, en helst án þess að lýsa yfir innlimun Egyptalands.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "30 f.Kr.",
+      "texti": "Octavianus sigraði heri Markúsar Antóníusar og Kleópötru við Alexandríu. Með því varð Egyptaland hluti af rómverska valdakerfinu og Octavianus stóð eftir sem ótvíræður sigurvegari."
+    },
+    {
+      "ar": "527",
+      "texti": "Við lát Jústínusar 1. varð Jústiníanus 1. einn keisari Býsansríkis. Þar tók við valdatíð sem átti eftir að setja djúp spor í lög, byggingarlist og sögu Miðjarðarhafsins."
+    },
+    {
+      "ar": "1774",
+      "texti": "Breski vísindamaðurinn Joseph Priestley einangraði súrefnisgas og staðfesti þar með uppgötvun sem Carl Wilhelm Scheele hafði áður gert. Andrúmsloftið varð ekki annað, en skilningur mannanna á því tók stórt stökk."
+    },
+    {
+      "ar": "1911",
+      "texti": "Harriet Quimby varð fyrst kvenna til að hljóta flugmannsskírteini frá Aero Club of America. Hún ruddi sér þannig braut til himins á tímum þegar konum voru víða ætlaðar mun þrengri flugleiðir í lífinu."
+    },
+    {
+      "ar": "1981",
+      "texti": "Tónlistarmyndbandið „Video Killed the Radio Star“ með The Buggles varð fyrsta myndbandið sem MTV sýndi. Lagavalið var svo viðeigandi að það jaðraði við sögulegan orðaleik."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1874",
+      "texti": "Ný stjórnarskrá fyrir Ísland gekk í gildi og sérstakt stjórnarráð Íslands var stofnað í Kaupmannahöfn. Þetta var stórt skref í stjórnskipulegri þróun landsins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1935",
+      "texti": "Talsímasamband við útlönd var opnað, tæpum þremur áratugum eftir að ritsímasamband komst á. Fyrsta símtalið áttu Hermann Jónasson forsætisráðherra og Kristján konungur tíundi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1964",
+      "texti": "Franskir vísindamenn skutu eldflaug frá Mýrdalssandi til að mæla rafeindir og róteindir í gufuhvolfinu. Eldflaugin náði um 400 kílómetra hæð, sem telst býsna röskleg brottför af sandinum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2016",
+      "texti": "Guðni Th. Jóhannesson tók við embætti forseta Íslands af Ólafi Ragnari Grímssyni.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Abdullah bin Abdul Aziz al-Saud",
+      "starfsgrein": "konungur Sádí-Arabíu",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Avi Arad",
+      "starfsgrein": "kvikmyndaframleiðandi og handritshöfundur",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Alexander af Grikklandi",
+      "starfsgrein": "konungur Grikklands",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Austin Rivers",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Boz Burrell",
+      "starfsgrein": "söngvari og bassaleikari",
+      "ar": "1946"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þorkell Ólafsson",
+      "starfsgrein": "prófastur",
+      "ar": "1738"
+    },
+    {
+      "nafn": "Holger Peter Clausen",
+      "starfsgrein": "kaupmaður",
+      "ar": "1831"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða lag fékk þann heiður að verða fyrsta tónlistarmyndbandið sem MTV sýndi?",
+      "svor": [
+        "Video Killed the Radio Star",
+        "Every Breath You Take",
+        "Bohemian Rhapsody",
+        "Like a Prayer"
+      ],
+      "rett": 0,
+      "skyring": "The Buggles opnuðu MTV með „Video Killed the Radio Star“ árið 1981 — titillinn hefði varla getað verið betur valinn."
+    },
+    {
+      "spurning": "Hvað var skotið frá Mýrdalssandi árið 1964?",
+      "svor": [
+        "Veðurloftbelg",
+        "Eldflaug",
+        "Fyrsta íslenska gervitunglinu",
+        "Neyðarblysi"
+      ],
+      "rett": 1,
+      "skyring": "Franskir vísindamenn skutu þar eldflaug sem náði um 400 kílómetra hæð."
+    },
+    {
+      "spurning": "Hver tók við embætti forseta Íslands 1. ágúst 2016?",
+      "svor": [
+        "Vigdís Finnbogadóttir",
+        "Ólafur Ragnar Grímsson",
+        "Guðni Th. Jóhannesson",
+        "Kristján Eldjárn"
+      ],
+      "rett": 2,
+      "skyring": "Guðni Th. Jóhannesson tók við embættinu af Ólafi Ragnari Grímssyni."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "Barbie (2023)",
+  "ord_dagsins": {
+    "ord": "loftsigling",
+    "skyring": "Loftsigling er ferð eða sigling um loftið, einkum með loftfari."
+  },
+  "vissir_thu": "Fyrsta myndbandið á MTV hófst með myndum af geimskoti og tungllendingu áður en The Buggles tóku við skjánum.",
+  "stjornuspa": "Ljónið finnur í dag gamlan glansjakka sjálfstraustsins og klæðist honum eins og árið sé 1981. Taktu sviðið, en mundu að jafnvel stórstjörnur þurfa stundum að stilla loftnetið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Castro_Battle_of_Actium.jpg/500px-Castro_Battle_of_Actium.jpg",
+    "ar": "30 f.Kr.",
+    "texti": "Octavianus sigraði heri Markúsar Antóníusar og Kleópötru við Alexandríu. Með því varð Egyptaland hluti af rómverska valdakerfinu og Octavianus stóð eftir sem ótvíræður sigurvegari.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_Actium",
+    "breidd": 330,
+    "haed": 232
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

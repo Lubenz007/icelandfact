@@ -1,0 +1,137 @@
+{
+  "mmdd": "07-26",
+  "dagur": 26,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:14",
+  "sunset": "22:52",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 26. júlí! Í dag syndum við Grettissund, heilsum upp á esperanto og skyggnumst inn í sálarlífið með Carl Jung — en höldum okkur fjarri ótraustum gólfum í Erfurt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1184",
+      "texti": "Um 60 aðalsmenn létust í Erfurt þegar gólf húss gaf sig og þeir féllu niður í forarþró á neðri hæðinni. Sagan getur sannarlega verið bæði hádramatísk og óþægilega lyktsterk."
+    },
+    {
+      "ar": "1551",
+      "texti": "Riddarar Jóhannesarreglunnar gáfust upp í Castello á Gozo eftir stutt umsátur Tyrkjaveldis; í kjölfarið var fjöldi eyjarskeggja hnepptur í þrældóm og íbúarnir tvístraðust."
+    },
+    {
+      "ar": "1887",
+      "texti": "L. L. Zamenhof gaf út Unua Libro, fyrsta ritið sem lýsti alþjóðamálinu esperanto. Hugmyndin var að auðvelda samskipti þjóða — göfugt markmið á tímum löngu fyrir sjálfvirkar þýðingar."
+    },
+    {
+      "ar": "1953",
+      "texti": "Orrustunni við Samichonfljót, síðustu átökum Kóreustríðsins, lauk aðeins fáeinum klukkustundum áður en vopnahléssamningurinn í Kóreu var undirritaður."
+    },
+    {
+      "ar": "2016",
+      "texti": "Hillary Clinton varð fyrsta konan sem stór bandarískur stjórnmálaflokkur útnefndi sem forsetaefni, þegar hún hlaut útnefningu Demókrataflokksins í Fíladelfíu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1936",
+      "texti": "Pétur Eiríksson, aðeins 19 ára, synti frá Drangey til lands og lauk þar með hinu svokallaða Grettissundi. Afrekið var ekki minna merkilegt fyrir þá sök að hann hafði gengið við hækjur níu ára gamall.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1951",
+      "texti": "Fyrsta vinabæjamót á Íslandi var haldið á Siglufirði á vegum Norræna félagsins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1953",
+      "texti": "Vígð var 250 metra löng brú yfir Jökulsá í Lóni og var hún þá næstlengsta brú landsins.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1959",
+      "texti": "Sundkappinn Eyjólfur Jónsson synti um tíu kílómetra leið frá Kjalarnesi til Reykjavíkur á um fjórum og hálfri klukkustund.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Carl Jung",
+      "starfsgrein": "svissneskur geðlæknir og sálfræðingur",
+      "ar": "1875"
+    },
+    {
+      "nafn": "Aldous Huxley",
+      "starfsgrein": "enskur rithöfundur og heimspekingur",
+      "ar": "1894"
+    },
+    {
+      "nafn": "Betty Davis",
+      "starfsgrein": "bandarísk söngkona og lagahöfundur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Angela Hewitt",
+      "starfsgrein": "kanadísk-ensk píanóleikari",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Angelo di Livio",
+      "starfsgrein": "ítalskur knattspyrnumaður",
+      "ar": "1966"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tungumál steig fyrst almennilega fram á prentsviðinu 26. júlí 1887?",
+      "svor": [
+        "Esperanto",
+        "Volapük",
+        "Latína",
+        "Interlingua"
+      ],
+      "rett": 0,
+      "skyring": "L. L. Zamenhof kynnti esperanto í ritinu Unua Libro."
+    },
+    {
+      "spurning": "Hvaðan synti Pétur Eiríksson til lands árið 1936?",
+      "svor": [
+        "Grímsey",
+        "Drangey",
+        "Viðey",
+        "Papey"
+      ],
+      "rett": 1,
+      "skyring": "Pétur synti Grettissundið frá Drangey aðeins 19 ára gamall."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var svissneskur geðlæknir og sálfræðingur?",
+      "svor": [
+        "Aldous Huxley",
+        "Angelo di Livio",
+        "Carl Jung",
+        "Betty Davis"
+      ],
+      "rett": 2,
+      "skyring": "Carl Jung fæddist 26. júlí 1875 og varð einn áhrifamesti hugsuður sálfræðinnar."
+    }
+  ],
+  "tonlistUSA": "Eye of the Tiger – Survivor (1982)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fallegt innan frá en reynist kalt eða ónotalegt þegar út er komið."
+  },
+  "vissir_thu": "Esperanto dregur nafn sitt af dulnefninu Doktoro Esperanto, sem L. L. Zamenhof notaði við útgáfu Unua Libro; orðið merkir í lauslegri þýðingu „sá sem vonar“.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og aðalstjarna í kvikmynd frá níunda áratugnum: með mikið hár, stór áform og grípandi stef. Mundu þó að jafnvel konungur dýranna má hlusta á aðra — sérstaklega ef þeir kunna esperanto.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Codex_Manesse_Heinrich_VI._%28HRR%29.jpg/500px-Codex_Manesse_Heinrich_VI._%28HRR%29.jpg",
+    "ar": "1184",
+    "texti": "Um 60 aðalsmenn létust í Erfurt þegar gólf húss gaf sig og þeir féllu niður í forarþró á neðri hæðinni. Sagan getur sannarlega verið bæði hádramatísk og óþægilega lyktsterk.",
+    "heimild": "https://en.wikipedia.org/wiki/Erfurt_latrine_disaster",
+    "breidd": 330,
+    "haed": 469
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

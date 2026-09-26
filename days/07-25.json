@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-25",
+  "dagur": 25,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:11",
+  "sunset": "22:55",
+  "kvedja": "Góðan dag, kæri lesandi! Þann 25. júlí hefur sagan bæði endurreist heimsveldi, lokið valdaferli Mussolinis og séð andlit þar sem Mars bauð aðeins upp á grjót og skugga. Við skulum því ganga brosandi inn í daginn — en skoða myndir úr geimnum tvisvar áður en við heilsum nágrönnunum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "306",
+      "texti": "Hersveitir Konstantínusar mikla lýstu hann rómverskan keisara eftir lát föður hans, Konstantíusar Chlorusar. Þar hófst valdaferill sem átti eftir að marka djúp spor í sögu Rómaveldis og kristni."
+    },
+    {
+      "ar": "1261",
+      "texti": "Alexíos Strategópúlos leiddi sveitir Níkeu inn í Konstantínópel, endurreisti Býsansríkið og batt enda á Latínukeisaradæmið. Borgin skipti sem sagt um húsbónda án þess að þurfa að skipta um heimilisfang."
+    },
+    {
+      "ar": "1788",
+      "texti": "Wolfgang Amadeus Mozart lauk við sinfóníu sína nr. 40, aðra af aðeins tveimur varðveittum sinfóníum hans í moll. Tónlistin er enn jafn óróleg og seiðandi, þótt blekið sé löngu þornað."
+    },
+    {
+      "ar": "1943",
+      "texti": "Stóra ráð fasista samþykkti vantraust á Benito Mussolini, sem Viktor Emmanúel III Ítalíukonungur lét handtaka sama dag. Pietro Badoglio tók við völdum og skyndilega var einræðisherrann ekki lengur með síðasta orðið."
+    },
+    {
+      "ar": "2010",
+      "texti": "WikiLeaks birti 75.000 leyniskjöl um stríðið í Afganistan. Lekinn var einn sá umfangsmesti í sögu Bandaríkjahers og vakti miklar deilur um bæði hernaðinn og meðferð trúnaðarupplýsinga."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1510",
+      "texti": "Hekla gaus með miklu öskufalli og grjótflugi. Nokkrir menn fórust í Rangárvallasýslu og einn í Skálholti af völdum grjótflugs.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1912",
+      "texti": "Hannes Hafstein tók við embætti Íslandsráðherra í annað sinn og gegndi því í tæp tvö ár.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1946",
+      "texti": "Alþingi samþykkti að sækja um aðild Íslands að Sameinuðu þjóðunum. Ísland varð síðan formlega aðili 19. nóvember sama ár.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1976",
+      "texti": "Gosbrunnur í syðri hluta Tjarnarinnar í Reykjavík var opnaður. Sendiherra Bandaríkjanna gaf brunninn, svo þar fékk borgin dálitla vatnslist með diplómatísku ívafi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anne Applebaum",
+      "starfsgrein": "blaðamaður og rithöfundur",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Alvin Kamara",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Adnan Khashoggi",
+      "starfsgrein": "kaupsýslumaður",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Alperen Şengün",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Adam Hložek",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2002"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Margrét Lára Viðarsdóttir",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Halldór Halldórsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Þorsteinn Hallgrímsson",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1942"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónskáld lauk við sinfóníu nr. 40 þann 25. júlí 1788?",
+      "svor": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Joseph Haydn",
+        "Johann Sebastian Bach"
+      ],
+      "rett": 0,
+      "skyring": "Mozart lauk verkinu, sem er ein af aðeins tveimur varðveittum sinfóníum hans í moll."
+    },
+    {
+      "spurning": "Hvaða eldfjall gaus á Íslandi árið 1510?",
+      "svor": [
+        "Katla",
+        "Askja",
+        "Hekla",
+        "Snæfellsjökull"
+      ],
+      "rett": 2,
+      "skyring": "Það var Hekla, og gosinu fylgdu bæði öskufall og mannskætt grjótflug."
+    },
+    {
+      "spurning": "Hver þessara íslensku íþróttakvenna á afmæli 25. júlí?",
+      "svor": [
+        "Vala Flosadóttir",
+        "Margrét Lára Viðarsdóttir",
+        "Sara Björk Gunnarsdóttir",
+        "Anníe Mist Þórisdóttir"
+      ],
+      "rett": 1,
+      "skyring": "Knattspyrnukonan Margrét Lára Viðarsdóttir fæddist árið 1986."
+    }
+  ],
+  "tonlistUSA": "It's Still Rock and Roll to Me – Billy Joel (1980)",
+  "tonlistUK": "Xanadu – Olivia Newton-John og Electric Light Orchestra (1980)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "hillingar",
+    "skyring": "Hillingar eru sjónhverfing þar sem ljósbrot láta fjarlæga hluti eða landslag virðast á öðrum stað eða með annarri lögun en raun ber vitni."
+  },
+  "vissir_thu": "Þegar Viking 1 myndaði hið svonefnda „andlit á Mars“ árið 1976 var um skuggamyndun og pareidólíu að ræða — tilhneigingu hugans til að greina kunnugleg form, einkum andlit, í tilviljanakenndu mynstri.",
+  "stjornuspa": "Ljónið finnur í dag fyrir keisaralegu sjálfstrausti, en ætti að forðast að láta hersveitina lýsa sig einvald yfir kaffistofunni. Gamalt lag, glæsileg innkoma og hóflega dramatísk handahreyfing munu færa þér lukku.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg/500px-Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg",
+    "ar": "306",
+    "texti": "Hersveitir Konstantínusar mikla lýstu hann rómverskan keisara eftir lát föður hans, Konstantíusar Chlorusar. Þar hófst valdaferill sem átti eftir að marka djúp spor í sögu Rómaveldis og kristni.",
+    "heimild": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

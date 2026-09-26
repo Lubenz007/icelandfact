@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-24",
+  "dagur": 24,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:07",
+  "sunset": "22:58",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 24. júlí rekumst við á drottningu sem missti kórónuna, brautryðjendur í Salt Lake-dal og geimfara í stuttu stoppi á Keflavíkurflugvelli — sagan kann sannarlega að pakka vel fyrir ferðalag. Megi dagurinn verða viðburðaríkur, en þó helst án pólitískra eldhúsdeilna.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1411",
+      "texti": "Skoskir ættbálkar undir forystu Donalds af Islay og lið Alexanders Stewart háðu orrustuna við Harlaw nærri Inverurie. Þar mættust metnaður, stál og skosk þrjóska í ríkulegum mæli."
+    },
+    {
+      "ar": "1567",
+      "texti": "María Skotadrottning var neydd til að afsala sér krúnunni í þágu eins árs sonar síns, sem varð Jakob 6. Skotakonungur. Hann fékk því konungsstarfið áður en hann hafði náð almennilegum tökum á talmálinu."
+    },
+    {
+      "ar": "1847",
+      "texti": "Brigham Young leiddi fyrsta hóp mormónskra landnema inn í Salt Lake-dal í Utah, sem þá tilheyrði Mexíkó. Ferðin varð einn þekktasti kaflinn í landnemasögu vesturhluta Bandaríkjanna."
+    },
+    {
+      "ar": "1959",
+      "texti": "Nikita Khrushchev og Richard Nixon tókust óvænt á í orðræðu á bandarískri sýningu í Moskvu. Deilan fór fram við sýningareldhús og varð því þekkt sem eldhúsdeilan — kalda stríðið með heimilistækjum."
+    },
+    {
+      "ar": "2019",
+      "texti": "Boris Johnson tók við embætti forsætisráðherra Bretlands eftir sigur í leiðtogakjöri Íhaldsflokksins. Þar með flutti hann úr blaðamennsku og borgarstjórn inn í eitt heitasta sæti breskra stjórnmála."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1896",
+      "texti": "Fjórar nunnur komu til Íslands og settust að í Reykjavík til að hjúkra sjúkum. Nunnur höfðu þá ekki starfað hér á landi síðan fyrir siðaskipti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1956",
+      "texti": "Ríkisstjórn Framsóknarflokks, Alþýðubandalags og Alþýðuflokks tók við völdum undir forsæti Hermanns Jónassonar. Gylfi Þ. Gíslason varð menntamálaráðherra og gegndi því embætti samfleytt í ríkisstjórnum næstu 15 árin.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1961",
+      "texti": "Júrí Gagarín, fyrsti maðurinn í geimnum, kom við á Keflavíkurflugvelli á leið sinni til Kúbu. Það hefur sjálfsagt verið óvenjulega jarðbundið stopp eftir ferðina umhverfis hnöttinn.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1980",
+      "texti": "Ríkisstjórn Íslands undirritaði samning Sameinuðu þjóðanna um afnám allrar mismununar gagnvart konum. Samningurinn tók gildi á Íslandi 18. júní 1985.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anna Paquin",
+      "starfsgrein": "kanadísk-nýsjálensk leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Alexandre Dumas",
+      "starfsgrein": "franskur rithöfundur og leikskáld",
+      "ar": "1802"
+    },
+    {
+      "nafn": "Cailee Spaeny",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Bindi Irwin",
+      "starfsgrein": "ástralskur náttúruverndarsinni og sjónvarpskona",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Alphonse Mucha",
+      "starfsgrein": "tékkneskur myndlistarmaður og teiknari",
+      "ar": "1860"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birkir Jón Jónsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Helga Bachmann",
+      "starfsgrein": "leikkona",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Kjartan Þorvarðsson",
+      "starfsgrein": "knattspyrnumaður og íþróttaforkólfur",
+      "ar": "1898"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða framtíðarleiðtogar háðu hina svokölluðu eldhúsdeilu árið 1959?",
+      "svor": [
+        "Nikita Khrushchev og Richard Nixon",
+        "Charles de Gaulle og Winston Churchill",
+        "John F. Kennedy og Fidel Castro",
+        "Boris Johnson og Míkhaíl Gorbatsjov"
+      ],
+      "rett": 0,
+      "skyring": "Khrushchev og Nixon tókust á við sýningareldhús í Moskvu — óvenjulegur vettvangur fyrir stórveldastjórnmál."
+    },
+    {
+      "spurning": "Hvaða heimsfrægi gestur kom við á Keflavíkurflugvelli árið 1961?",
+      "svor": [
+        "Neil Armstrong",
+        "Júrí Gagarín",
+        "Charles de Gaulle",
+        "Brigham Young"
+      ],
+      "rett": 1,
+      "skyring": "Júrí Gagarín kom þar við skömmu eftir að hann varð fyrsti maðurinn til að ferðast út í geim."
+    },
+    {
+      "spurning": "Hvaða franski rithöfundur, fæddur 24. júlí 1802, samdi frægar ævintýra- og sögulegar skáldsögur?",
+      "svor": [
+        "Victor Hugo",
+        "Jules Verne",
+        "Alexandre Dumas",
+        "Gustave Flaubert"
+      ],
+      "rett": 2,
+      "skyring": "Alexandre Dumas fæddist þennan dag og varð einn vinsælasti sagnahöfundur Frakklands."
+    }
+  ],
+  "tonlistUSA": "(I Can't Get No) Satisfaction – The Rolling Stones (1965)",
+  "tonlistUK": "Mr. Tambourine Man – The Byrds (1965)",
+  "bio": "Björgun óbreytts Ryans (1998)",
+  "ord_dagsins": {
+    "ord": "glýja",
+    "skyring": "Glýja er skær birta eða endurskin sem getur blindað eða gert manni erfitt fyrir að sjá."
+  },
+  "vissir_thu": "Jakob 6. var aðeins eins árs þegar móðir hans, María Skotadrottning, var neydd til að afsala sér völdum honum í hag.",
+  "stjornuspa": "Ljónið ætti að dusta rykið af sínum glæsilegasta jakka og ganga inn í daginn eins og poppstjarna árið 1965. Varastu þó eldhúsdeilur; ekki þarf hvert ósætti um uppvaskið að verða að köldu stríði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Scottish_clan_map.png/500px-Scottish_clan_map.png",
+    "ar": "1411",
+    "texti": "Skoskir ættbálkar undir forystu Donalds af Islay og lið Alexanders Stewart háðu orrustuna við Harlaw nærri Inverurie. Þar mættust metnaður, stál og skosk þrjóska í ríkulegum mæli.",
+    "heimild": "https://en.wikipedia.org/wiki/Scottish_clan",
+    "breidd": 330,
+    "haed": 434
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

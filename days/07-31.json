@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-31",
+  "dagur": 31,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:30",
+  "sunset": "22:35",
+  "kvedja": "Góðan og gleðilegan 31. júlí! Í dag syndum við úr Drangey, klífum K2 og reynum að halda ljósunum logandi — sem reyndist hægara sagt en gert á Indlandi árið 2012. Sagan gleymir greinilega aldrei að hafa nóg á dagskránni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1667",
+      "texti": "Öðru stríði Englands og Hollands lauk með undirritun Breda-sáttmálans. Penninn fékk þar loks að taka við af fallbyssunni."
+    },
+    {
+      "ar": "1777",
+      "texti": "Annað meginlandsþing Bandaríkjanna samþykkti að gera markgreifann de Lafayette að hershöfðingja í byltingarhernum. Hinn ungi Frakki var þar með kominn í bandarísku byltinguna af fullum krafti."
+    },
+    {
+      "ar": "1874",
+      "texti": "Patrick Francis Healy tók við forsetaembætti Georgetown-háskóla og varð fyrsti Afríku-Bandaríkjamaðurinn til að stýra bandarískum háskóla þar sem hvítir nemendur voru í meirihluta."
+    },
+    {
+      "ar": "1954",
+      "texti": "Ítalskir fjallgöngumenn urðu fyrstir til að komast á tind K2, næsthæsta fjalls heims. Þar var hvorki lyfta né kaffistofa á efstu hæð."
+    },
+    {
+      "ar": "2012",
+      "texti": "Stærsta rafmagnsleysi sögunnar skall á 22 ríkjum Indlands og hafði áhrif á meira en 620 milljónir manna, um níu prósent jarðarbúa."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1927",
+      "texti": "Erlingur Pálsson synti Grettissund úr Drangey til lands á 4 klukkustundum og 25 mínútum. Ekki var vitað til þess að nokkur hefði leikið sund Grettis eftir fyrr.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1948",
+      "texti": "Fossvogskirkja í Reykjavík var vígð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Kvikmynd Friðriks Þórs Friðrikssonar, Börn náttúrunnar, var frumsýnd í Stjörnubíói. Myndin átti síðar eftir að fara býsna langt út fyrir dyr bíósins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1992",
+      "texti": "Fyrsta kvenkyns glasabarnið fæddist á Íslandi, stúlka sem vó 14 merkur. Fyrsti íslenski drengurinn sem varð til með sömu aðferð hafði fæðst árið 1988.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Antonio Conte",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Alexis Knapp",
+      "starfsgrein": "leikkona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Ben Chaplin",
+      "starfsgrein": "leikari",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Ahmet Ertegun",
+      "starfsgrein": "lagahöfundur og tónlistarútgefandi",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Friedrich Wöhler",
+      "starfsgrein": "efnafræðingur",
+      "ar": "1800"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Benedikt Sveinsson",
+      "starfsgrein": "athafnamaður",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Júlíana Sveinsdóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1889"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjall fengu ítalskir fjallgöngumenn loks undir iljarnar árið 1954?",
+      "svor": [
+        "K2",
+        "Everest",
+        "Mont Blanc",
+        "Kilimanjaro"
+      ],
+      "rett": 0,
+      "skyring": "K2 varð fyrir valinu, þótt orðið „gönguferð“ nái varla utan um afrekið."
+    },
+    {
+      "spurning": "Hversu lengi var Erlingur Pálsson að synda Grettissund árið 1927?",
+      "svor": [
+        "2 klukkustundir og 10 mínútur",
+        "3 klukkustundir og 50 mínútur",
+        "4 klukkustundir og 25 mínútur",
+        "6 klukkustundir og 5 mínútur"
+      ],
+      "rett": 2,
+      "skyring": "Sundið tók 4 klukkustundir og 25 mínútur — nægur tími til að fá örlítið vatn í eyrun."
+    },
+    {
+      "spurning": "Hvaða knattspyrnustjóri á afmæli 31. júlí?",
+      "svor": [
+        "Carlo Ancelotti",
+        "Antonio Conte",
+        "Pep Guardiola",
+        "Jürgen Klopp"
+      ],
+      "rett": 1,
+      "skyring": "Antonio Conte er afmælisbarn dagsins og líklega jafn ákafur við kertin og á hliðarlínunni."
+    }
+  ],
+  "tonlistUSA": "Kiss and Say Goodbye – The Manhattans (1976)",
+  "tonlistUK": "Fame – Irene Cara (1982)",
+  "bio": "The Mask (1994)",
+  "ord_dagsins": {
+    "ord": "sundkappi",
+    "skyring": "Sundkappi er maður sem þykir afburðagóður eða afreksmikill í sundi."
+  },
+  "vissir_thu": "Rafmagnsleysið á Indlandi 31. júlí 2012 hafði áhrif á meira en 620 milljónir manna, sem jafngilti um níu prósentum alls mannkyns.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og kvikmyndastjarna árið 1994: með sjálfstraust, sviðsljós og örlítið of mikið hársprey. Mundu þó að jafnvel konungur frumskógarins þarf stundum að hlusta á aðra — eða að minnsta kosti þykjast gera það.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Storck%2C_Four_Days_Battle.jpg/500px-Storck%2C_Four_Days_Battle.jpg",
+    "ar": "1667",
+    "texti": "Öðru stríði Englands og Hollands lauk með undirritun Breda-sáttmálans. Penninn fékk þar loks að taka við af fallbyssunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Second_Anglo-Dutch_War",
+    "breidd": 330,
+    "haed": 235
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

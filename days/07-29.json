@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-29",
+  "dagur": 29,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:23",
+  "sunset": "22:42",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 29. júlí! Í dag sveiflast sagan frá skosku ungbarnakrúnunni yfir í hobbitaholur og konunglegt brúðkaup sem fékk 750 milljónir manna til að horfa á sama sjónvarpsefnið — sannkallaður stórdagur með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1014",
+      "texti": "Býsanski herinn sigraði hersveitir Búlgaraveldis í orrustunni við Kleidion í Belasicafjöllum, nærri Klyuch í núverandi Búlgaríu."
+    },
+    {
+      "ar": "1567",
+      "texti": "Jakob 6., enn aðeins ungbarn, var krýndur konungur Skotlands í Stirling. Sumir fá skröltur í vögguna, aðrir heila krúnu."
+    },
+    {
+      "ar": "1818",
+      "texti": "Franski eðlisfræðingurinn Augustin-Jean Fresnel lagði fram ritgerð um ljósbeygju sem varð öflugur stuðningur við bylgjukenninguna um ljós."
+    },
+    {
+      "ar": "1954",
+      "texti": "Föruneyti hringsins, fyrsti hluti Hringadróttinssögu J. R. R. Tolkiens, kom út hjá Allen & Unwin. Þar með hófst bókmenntaferðalag sem reyndist öllu lengra en rölt að næstu hobbitakrá."
+    },
+    {
+      "ar": "1981",
+      "texti": "Karl Bretaprins og lafði Díana Spencer gengu í hjónaband í dómkirkju heilags Páls í Lundúnum. Talið er að um 750 milljónir manna um heim allan hafi fylgst með athöfninni í sjónvarpi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1907",
+      "texti": "Friðrik 8. Danakonungur kom í heimsókn til Íslands, sem stóð til 15. ágúst.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1934",
+      "texti": "Ríkisstjórn Hermanns Jónassonar tók við völdum. Eysteinn Jónsson varð fjármálaráðherra, aðeins 27 ára, og var þá yngstur allra sem gegnt höfðu ráðherraembætti.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1985",
+      "texti": "Kirkja var vígð í Þorlákshöfn til minningar um Þorlák biskup Þórhallsson; hún var fyrsta kirkjan þar síðan 1770.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2011",
+      "texti": "Stjórnlagaráð afhenti Alþingi formlega frumvarp sitt að nýrri stjórnarskrá.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexis de Tocqueville",
+      "starfsgrein": "sagnfræðingur og heimspekingur",
+      "ar": "1805"
+    },
+    {
+      "nafn": "Charlie Christian",
+      "starfsgrein": "djassgítarleikari",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Alexandra Paul",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Andi Peters",
+      "starfsgrein": "sjónvarpsmaður og framleiðandi",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Ayoze Pérez",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Búi Kristjánsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Sturla Þórðarson",
+      "starfsgrein": "sagnaritari",
+      "ar": "1214"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bók Tolkiens kom út 29. júlí 1954?",
+      "svor": [
+        "Föruneyti hringsins",
+        "Hobbitinn",
+        "Silmarillion",
+        "Tveggja turna tal"
+      ],
+      "rett": 0,
+      "skyring": "Föruneyti hringsins hóf útgáfu Hringadróttinssögu — og lesendur lögðu ótrauðir af stað til Mordor."
+    },
+    {
+      "spurning": "Hve margir eru taldir hafa horft á brúðkaup Karls Bretaprins og Díönu í sjónvarpi?",
+      "svor": [
+        "Um 75 milljónir",
+        "Um 250 milljónir",
+        "Um 500 milljónir",
+        "Um 750 milljónir"
+      ],
+      "rett": 3,
+      "skyring": "Áætlaðir 750 milljónir áhorfenda gerðu brúðkaupið að sannkölluðu heimilisboði á heimsvísu."
+    },
+    {
+      "spurning": "Hvar var kirkja vígð 29. júlí 1985?",
+      "svor": [
+        "Í Stykkishólmi",
+        "Í Þorlákshöfn",
+        "Á Húsavík",
+        "Á Ísafirði"
+      ],
+      "rett": 1,
+      "skyring": "Kirkjan var vígð í Þorlákshöfn og var sú fyrsta þar frá árinu 1770."
+    }
+  ],
+  "tonlistUSA": "Jessie's Girl – Rick Springfield (1981)",
+  "tonlistUK": "Green Door – Shakin' Stevens (1981)",
+  "bio": "Raiders of the Lost Ark (1981)",
+  "ord_dagsins": {
+    "ord": "ljósbeygja",
+    "skyring": "Ljósbeygja er sveigja eða dreifing ljóss þegar það fer fram hjá hindrun eða í gegnum þrönga rauf."
+  },
+  "vissir_thu": "Jakob 6. var aðeins þrettán mánaða gamall þegar hann var krýndur konungur Skotlands árið 1567.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og konungur í krýningarathöfn, en ætti samt að muna að hlusta á hirðina. Gamalt verkefni gæti loksins komist á skrið — einkum ef þú hættir að halda ræðu og byrjar að róa.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BG_BYZ.JPG/330px-BG_BYZ.JPG",
+    "ar": "1014",
+    "texti": "Býsanski herinn sigraði hersveitir Búlgaraveldis í orrustunni við Kleidion í Belasicafjöllum, nærri Klyuch í núverandi Búlgaríu.",
+    "heimild": "https://en.wikipedia.org/wiki/Byzantine–Bulgarian_wars",
+    "breidd": 330,
+    "haed": 315
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

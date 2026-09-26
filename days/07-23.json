@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-23",
+  "dagur": 23,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:04",
+  "sunset": "23:01",
+  "kvedja": "Góðan 23. júlí, kæri lesandi! Í dag skjótumst við frá miðaldaflotaorustu yfir í halastjörnur og forsetaembætti, með viðkomu í Reykjavík þar sem bæði fallbyssuskip og jarðskjálftar hafa minnt á sig. Haltu fast í kaffibollann — sagan kann að hrista aðeins upp í deginum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1319",
+      "texti": "Floti undir forystu Jóhannesarriddara sökkti 22 af 28 skipum tyrkneska Aydinid-furstadæmisins. Þetta var engin róleg sunnudagssigling."
+    },
+    {
+      "ar": "1921",
+      "texti": "Fyrsta landsþing kínverska kommúnistaflokksins hófst í húsi í Shanghai. Þar var lagður grunnur að stjórnmálaafli sem átti eftir að gjörbreyta sögu Kína."
+    },
+    {
+      "ar": "1942",
+      "texti": "Gasklefarnir í útrýmingarbúðunum Treblinka voru teknir í notkun og 6.500 gyðingar, sem fluttir höfðu verið frá Varsjárgettóinu daginn áður, voru myrtir. Þetta er einn af myrkustu köflum helfararinnar."
+    },
+    {
+      "ar": "1995",
+      "texti": "Stjörnufræðingarnir Alan Hale og Thomas Bopp uppgötvuðu hvor í sínu lagi halastjörnuna Hale–Bopp. Hún varð síðar ein mest skoðaða halastjarna 20. aldar."
+    },
+    {
+      "ar": "2001",
+      "texti": "Megawati Sukarnoputri sór embættiseið sem fyrsta konan til að gegna forsetaembætti Indónesíu, eftir að forveri hennar hafði verið settur af."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1808",
+      "texti": "Enska skipið Salomine kom til Reykjavíkur, vopnað 20 fallbyssum, og rændi fjárhirslu landsins. Tollfrjáls verslun var þetta sannarlega ekki.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1929",
+      "texti": "Öflugur jarðskjálfti varð í Brennisteinsfjöllum austan Krýsuvíkur og er talinn hafa verið 6,3 stig. Hann fannst harður í Reykjavík og víðar og olli nokkrum skemmdum á húsum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1929",
+      "texti": "Basilíka Krists konungs á Landakoti í Reykjavík var vígð. Kirkjan, jafnan kölluð Landakotskirkja, varð áberandi kennileiti í borginni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2019",
+      "texti": "Sigrún Þuríður Geirsdóttir varð fyrst kvenna til að synda Eyjasund, milli Vestmannaeyja og Landeyjasands.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charisma Carpenter",
+      "starfsgrein": "leikkona",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Alison Krauss",
+      "starfsgrein": "söngkona, lagahöfundur og fiðluleikari",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Anthony Kennedy",
+      "starfsgrein": "lögfræðingur og fyrrverandi hæstaréttardómari",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Amália Rodrigues",
+      "starfsgrein": "fado-söngkona",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Andy Mackay",
+      "starfsgrein": "tónlistarmaður og tónskáld",
+      "ar": "1946"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Carl Billich",
+      "starfsgrein": "hljómsveitarstjóri",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Guðlaugur Arason",
+      "starfsgrein": "rithöfundur",
+      "ar": "1950"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða himinfyrirbæri uppgötvuðu Alan Hale og Thomas Bopp árið 1995?",
+      "svor": [
+        "Halastjörnu",
+        "Tungl Júpíters",
+        "Svarthol",
+        "Nýja reikistjörnu"
+      ],
+      "rett": 0,
+      "skyring": "Þeir uppgötvuðu hvor í sínu lagi Hale–Bopp, sem varð sannkölluð stjarna meðal halastjarna."
+    },
+    {
+      "spurning": "Hvað er talið að jarðskjálftinn í Brennisteinsfjöllum árið 1929 hafi verið sterkur?",
+      "svor": [
+        "4,1 stig",
+        "5,2 stig",
+        "6,3 stig",
+        "7,8 stig"
+      ],
+      "rett": 2,
+      "skyring": "Skjálftinn er talinn hafa verið 6,3 stig og lét rækilega finna fyrir sér."
+    },
+    {
+      "spurning": "Hver varð fyrsta konan til að gegna embætti forseta Indónesíu?",
+      "svor": [
+        "Amália Rodrigues",
+        "Megawati Sukarnoputri",
+        "Alison Krauss",
+        "Charisma Carpenter"
+      ],
+      "rett": 1,
+      "skyring": "Megawati Sukarnoputri tók við forsetaembættinu árið 2001."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Wherever I Lay My Hat (That's My Home) – Paul Young (1983)",
+  "bio": "Barbie (2023)",
+  "ord_dagsins": {
+    "ord": "stjörnuhröp",
+    "skyring": "Stjörnuhröp er ljósrák sem sést þegar örlítil efnisögn úr geimnum hitnar og brennur upp í lofthjúpi jarðar."
+  },
+  "vissir_thu": "Alan Hale og Thomas Bopp komu auga á halastjörnuna Hale–Bopp óháð hvor öðrum sama kvöldið, 23. júlí 1995.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og það eigi bæði sviðið og ljósameistarann. Sýndu rausn, en leyfðu öðrum að fá eina línu í handritinu — þeir gætu jafnvel komið þér skemmtilega á óvart.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coat_of_arms_of_the_Knights_Hospitaller.svg/330px-Coat_of_arms_of_the_Knights_Hospitaller.svg.png",
+    "ar": "1319",
+    "texti": "Floti undir forystu Jóhannesarriddara sökkti 22 af 28 skipum tyrkneska Aydinid-furstadæmisins. Þetta var engin róleg sunnudagssigling.",
+    "heimild": "https://en.wikipedia.org/wiki/Knights_Hospitaller",
+    "breidd": 330,
+    "haed": 385
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

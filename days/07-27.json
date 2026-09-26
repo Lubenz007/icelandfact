@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-27",
+  "dagur": 27,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:17",
+  "sunset": "22:49",
+  "kvedja": "Góðan 27. júlí, kæri lesandi! Í dag siglum við frá miðaldabardögum til Kóreuskagans, með viðkomu í Iðnó og örlitlum Madonnu-takti. Hafðu söguna með þér í dag — hún er sjaldan leiðinleg þegar betur er að gáð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1302",
+      "texti": "Soldánsdæmi Ottómana vann sinn fyrsta stórsigur á Býsansríkinu í orrustunni við Bapheus í Biþýníu. Þar tók að halla undan fæti hjá gömlu stórveldi, enda getur sagan verið miskunnarlaus nágranni."
+    },
+    {
+      "ar": "1689",
+      "texti": "Skoskir og írskir Jakobítar sigruðu lið Vilhjálmssinna í orrustunni við Killiecrankie í Skotlandi. Sigurinn var þó dýrkeyptur og dugði ekki til að tryggja Jakobítum endanlegan sigur."
+    },
+    {
+      "ar": "1778",
+      "texti": "Breski og franski flotinn mættust í orrustunni við Ushant, fyrsta sjóorrustunni milli ríkjanna í bandaríska frelsisstríðinu. Orrustan varð óútkljáð en pólitíska rifrildið á eftir var öllu líflegra."
+    },
+    {
+      "ar": "1953",
+      "texti": "Vopnahlé var undirritað og skipulögðum hernaðarátökum Kóreustríðsins lauk. Jafnframt varð til fjögurra kílómetra breitt herlaust belti sem festi skiptingu Kóreuskagans í sessi."
+    },
+    {
+      "ar": "2020",
+      "texti": "Mikill olíuleki úr Colonial Pipeline-leiðslunni fannst í Mecklenburg-sýslu í Norður-Karólínu. Atvikið varð eitt stærsta bensínmengunarslys Bandaríkjanna á landi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1699",
+      "texti": "Hólmfastur Guðmundsson, hjáleigumaður á Brunnastöðum, var húðstrýktur fyrir að selja kaupmanninum í Keflavík nokkra fiska í trássi við einokunarverslunina. Fiskisala hefur sjaldan kallað á jafn ógnvænlega kvittun.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1903",
+      "texti": "Fyrsta kvikmyndasýningin í Reykjavík fór fram í Iðnó þegar tveir Norðmenn sýndu svonefndar lifandi myndir, meðal annars frá dýragarði í London og krýningu Játvarðs 7.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1929",
+      "texti": "Jarðskjálfti að stærð 6,3 reið yfir á Reykjanesskaga og átti upptök í Brennisteinsfjöllum. Hann fannst greinilega í Reykjavík, þótt erlendar fréttir hafi gert heldur meira úr hamförunum en efni stóðu til.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1987",
+      "texti": "Ísafjarðarkirkja stórskemmdist í eldsvoða. Kirkjan var bárujárnsklætt timburhús sem hafði verið vígt árið 1863.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alex Rodriguez",
+      "starfsgrein": "hafnaboltamaður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Bill Engvall",
+      "starfsgrein": "grínisti og leikari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Alexandre Dumas yngri",
+      "starfsgrein": "rithöfundur og leikskáld",
+      "ar": "1824"
+    },
+    {
+      "nafn": "Betty Thomas",
+      "starfsgrein": "leikkona og leikstjóri",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Abe Cunningham",
+      "starfsgrein": "trommuleikari",
+      "ar": "1973"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ezekiel Carl",
+      "starfsgrein": "rappari",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Haraldur Björnsson",
+      "starfsgrein": "leikari",
+      "ar": "1891"
+    },
+    {
+      "nafn": "Guðbjörg Þorleifsdóttir",
+      "starfsgrein": "húsfreyja",
+      "ar": "1870"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða stríði lauk skipulega með vopnahléi 27. júlí 1953?",
+      "svor": [
+        "Kóreustríðinu",
+        "Víetnamstríðinu",
+        "Krímstríðinu",
+        "Spænska borgarastríðinu"
+      ],
+      "rett": 0,
+      "skyring": "Vopnahléið batt enda á skipulögð átök Kóreustríðsins, þótt formlegur friðarsamningur væri ekki gerður."
+    },
+    {
+      "spurning": "Hvar fengu Reykvíkingar fyrst að sjá „lifandi myndir“ árið 1903?",
+      "svor": [
+        "Í Alþingishúsinu",
+        "Í Iðnó",
+        "Í Dómkirkjunni",
+        "Í Norræna húsinu"
+      ],
+      "rett": 1,
+      "skyring": "Iðnó varð að kvikmyndahúsi dagsins og dýragarðurinn í London birtist á tjaldinu."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekktast fyrir hafnabolta?",
+      "svor": [
+        "Bill Engvall",
+        "Abe Cunningham",
+        "Alex Rodriguez",
+        "Alexandre Dumas yngri"
+      ],
+      "rett": 2,
+      "skyring": "Alex Rodriguez sló boltann af meiri krafti en flestir rithöfundar og trommuleikarar."
+    }
+  ],
+  "tonlistUSA": "Everytime You Go Away – Paul Young (1985)",
+  "tonlistUK": "Frankie – Sister Sledge (1985)",
+  "bio": "The Wolverine (2013)",
+  "ord_dagsins": {
+    "ord": "einokun",
+    "skyring": "Einokun er það þegar einn aðili hefur einkarétt eða yfirburðastöðu á tilteknum markaði eða sviði."
+  },
+  "vissir_thu": "Herlausa beltið milli Norður- og Suður-Kóreu er um fjögurra kílómetra breitt og varð til með vopnahléinu árið 1953.",
+  "stjornuspa": "Ljónið stígur fram eins og kvikmyndastjarna í Iðnó árið 1903, þótt áhorfendurnir séu aðeins vinnufélagar við kaffivélina. Sýndu reisn, hlýju og hóflega dramatík — enginn þarf heila sjóorrustu fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Byzantine-Ottoman_Wars-1-withborders.PNG/500px-Byzantine-Ottoman_Wars-1-withborders.PNG",
+    "ar": "1302",
+    "texti": "Soldánsdæmi Ottómana vann sinn fyrsta stórsigur á Býsansríkinu í orrustunni við Bapheus í Biþýníu. Þar tók að halla undan fæti hjá gömlu stórveldi, enda getur sagan verið miskunnarlaus nágranni.",
+    "heimild": "https://en.wikipedia.org/wiki/Byzantine–Ottoman_wars",
+    "breidd": 330,
+    "haed": 241
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
