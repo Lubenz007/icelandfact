@@ -147,8 +147,9 @@ def fetch_wikimedia(kind, month, day):
             continue
         page = (item.get("pages") or [{}])[0]
         thumb = (page.get("thumbnail") or {}).get("source", "")
+        y = item["year"]
         out.append({
-            "year": item["year"],
+            "year": f"{-y} f.Kr." if isinstance(y, int) and y < 0 else str(y),
             "text": item["text"].replace("(pictured)", "").replace("  ", " ").strip(),
             "title": (page.get("titles") or {}).get("canonical", ""),
             "desc": page.get("description", ""),
