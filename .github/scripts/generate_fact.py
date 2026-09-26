@@ -8,7 +8,7 @@ Two jobs:
 
 Everything historical (events, births, Iceland events) is grounded in
 Wikipedia data that the model may only select from and rephrase. The model
-adds the fun layer: the historian's voice, quiz, word of the day, radio blurb.
+adds the fun layer: the historian's voice, quiz, word of the day.
 
 LLM provider: Azure OpenAI (AZURE_OPENAI_ENDPOINT + AZURE_OPENAI_KEY, optional
 AZURE_OPENAI_DEPLOYMENT) is preferred when configured; Gemini (GEMINI_API_KEY)
@@ -470,7 +470,6 @@ D) ÍSLENDINGAR FÆDDIR ÞENNAN DAG – úr íslensku og ensku Wikipediu, raða�
 - nafnadagur, ord_dagsins, vissir_thu: AÐEINS staðreyndir sem þú ert MJÖG viss um. Betra tómt en rangt. Nafnadagur skv. íslenska nafnadagatalinu (eitt nafn).
 - tonlistUSA/tonlistUK/bio: skemmtiefni eftir bestu vitund – lag/kvikmynd sem var á toppnum/vinsælt þennan mánaðardag eitthvert ár. Frekar besta ágiskun en tómt.
 - kvedja: 2–3 setningar þar sem Sagnfræðingurinn heilsar lesanda og tengir daginn saman á skemmtilegan hátt (má vísa í eitthvað úr atburðunum). Persónulegt, hlýlegt, með glotti.
-- utvarpspistill: 60–90 orð, tilbúinn til upplesturs í útvarpi („Í dag, {day}. {m_name}, …“). Náttúrulegt talmál, lipurt, endar á léttri nótu. Byggt EINGÖNGU á staðfestum atburðum/afmælum sem þú valdir.
 - stjornuspa: retro-stjörnuspá fyrir {zodiac}, 2 setningar, glettin.
 - Allur texti á vandaðri íslensku. Engin enska nema í nöfnum.
 
@@ -498,7 +497,6 @@ Svaraðu EINGÖNGU með JSON á þessu nákvæma formi:
   "bio": "Kvikmynd (ár)",
   "ord_dagsins": {{"ord": "sjaldgæft íslenskt orð", "skyring": "skýring í einni setningu"}},
   "vissir_thu": "Skemmtileg en SÖNN staðreynd.",
-  "utvarpspistill": "…",
   "stjornuspa": "…"
 }}"""
 
@@ -573,7 +571,7 @@ def sanitize(llm, wiki_events, births_ranked, is_events, is_births):
             qs.append({"spurning": q["spurning"], "svor": svor, "rett": rett, "skyring": q.get("skyring", "")})
     llm["spurningar"] = qs[:3]
 
-    for k in ["kvedja", "nafnadagur", "tonlistUSA", "tonlistUK", "bio", "vissir_thu", "utvarpspistill", "stjornuspa"]:
+    for k in ["kvedja", "nafnadagur", "tonlistUSA", "tonlistUK", "bio", "vissir_thu", "stjornuspa"]:
         v = llm.get(k)
         llm[k] = v.strip() if isinstance(v, str) else ""
     od = llm.get("ord_dagsins")

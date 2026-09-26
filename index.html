@@ -322,23 +322,6 @@
       border-top: 1px dotted #bbb;
     }
 
-    /* ── RADIO BOX ── */
-    .radio-box {
-      border: 2px solid #0c0c0a;
-      padding: 0.75rem 0.85rem;
-      margin-top: 0.85rem;
-      background: #fffdf5;
-    }
-    .radio-head {
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      gap: 0.5rem;
-      margin-bottom: 0.4rem;
-    }
-    .radio-title { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; }
-    .radio-text { font-size: clamp(0.76rem, 2.2vw, 0.88rem); line-height: 1.7; }
-    .radio-foot { font-size: 0.58rem; color: #888; margin-top: 0.4rem; letter-spacing: 0.06em; }
     .small-btn {
       background: transparent;
       border: 1px solid #0c0c0a;
@@ -605,15 +588,6 @@
       <div class="quiz-score hidden" id="quiz-score"></div>
     </div>
 
-    <div class="radio-box hidden" id="radio-box">
-      <div class="radio-head">
-        <div class="radio-title">📻 Fyrir útvarpsfólk – tilbúið til upplesturs</div>
-        <button class="small-btn" onclick="copyRadio()" id="radio-copy">Afrita</button>
-      </div>
-      <div class="radio-text" id="radio-text"></div>
-      <div class="radio-foot">Frjálst til upplesturs í útvarpi og hlaðvarpi – nefnið bara saganidag.is.</div>
-    </div>
-
     <div class="share-row">
       <button class="small-btn" onclick="shareThis()">Deila</button>
       <button class="small-btn" id="share-bday-btn" onclick="showTab('bday')">Sjá þinn afmælisdag →</button>
@@ -789,9 +763,6 @@
     }
 
     renderQuiz(f.spurningar);
-
-    if (mode === "today" && f.utvarpspistill) { $("radio-text").textContent = f.utvarpspistill; show("radio-box", true); }
-    else show("radio-box", false);
 
     show("share-bday-btn", mode === "today");
     show("content", true);
@@ -982,13 +953,6 @@
     } else {
       try { await navigator.clipboard.writeText(url); alert("Hlekkur afritaður!"); } catch (e) { prompt("Afritaðu hlekkinn:", url); }
     }
-  }
-
-  async function copyRadio() {
-    const t = $("radio-text").textContent + "\n\n– saganidag.is";
-    try { await navigator.clipboard.writeText(t); $("radio-copy").textContent = "Afritað ✓"; setTimeout(() => $("radio-copy").textContent = "Afrita", 2000); }
-    catch (e) { prompt("Afritaðu textann:", t); }
-    track("radio_copy");
   }
 
   // ─────────── BOOT ───────────

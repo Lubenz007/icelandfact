@@ -1,6 +1,6 @@
 # saganidag.is – Sagan í Dag
 
-Daglegur „dálkur Sagnfræðingsins“: staðfestir atburðir úr íslenskri og heimssögu, afmælisbörn, orð dagsins, spurningakeppni, verðlagið þá, útvarpspistill – og **afmælisdagurinn þinn**: sláðu inn fæðingardag og sjáðu hvað gerðist þá, hve marga daga þú hefur lifað og hvað Morgunblaðið kostaði þegar þú fæddist.
+Daglegur „dálkur Sagnfræðingsins“: staðfestir atburðir úr íslenskri og heimssögu, afmælisbörn, orð dagsins, spurningakeppni, verðlagið þá – og **afmælisdagurinn þinn**: sláðu inn fæðingardag og sjáðu hvað gerðist þá, hve marga daga þú hefur lifað og hvað Morgunblaðið kostaði þegar þú fæddist.
 
 Hýst á GitHub Pages (`saganidag.is` / `icelandfact.alit.is`). Engin bakendaþjónusta, engir lyklar í vafranum: allt efni er kyrrstætt JSON sem GitHub Actions býr til.
 
@@ -21,7 +21,6 @@ mbl_prices.json     ──┘                                                day
 * **Mynd dagsins** er raunveruleg Wikipedia-mynd við einn valinn atburð.
 * **Landshluti** er merktur á hvern íslenskan atburð (Suðurland, Norðurland …).
 * **Spurningakeppni** (3 krossaspurningar) er smíðuð eingöngu úr atburðunum sem voru valdir – svarið er alltaf í gögnunum.
-* **Útvarpspistill** – 60–90 orð tilbúin til upplesturs, með „Afrita“-hnappi. Frjálst til notkunar í útvarpi ef saganidag.is er nefnt.
 * **Verðlag** er reiknað úr vísitölu neysluverðs Hagstofunnar og staðfestum Morgunblaðsverðum – aldrei giskað.
 
 Vafrinn sækir `fact.json` fyrir daginn í dag og `days/MM-DD.json` fyrir afmælisdaga. `?d=03-14&y=1992` opnar afmælissýn beint (deilanlegur hlekkur).
