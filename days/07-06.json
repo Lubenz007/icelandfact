@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-06",
+  "dagur": 6,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:15",
+  "sunset": "23:47",
+  "kvedja": "Góðan 6. júlí, kæri lesandi! Í dag krýnum við konung, opnum brú og flugvöll og leyfum 50 Cent og Dalai Lama að deila afmæliskökunni — sem hlýtur að vera ein óvenjulegasta kaffiboðsnefnd sögunnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1483",
+      "texti": "Ríkharður 3. var krýndur konungur Englands, síðasti konungurinn af York-ætt og jafnframt síðasti Plantagenet-konungurinn."
+    },
+    {
+      "ar": "1614",
+      "texti": "Tyrkjaveldi gerði lokatilraun til að ná Möltu á sitt vald, en riddarar Jóhannesarreglunnar hrundu árásinni."
+    },
+    {
+      "ar": "1809",
+      "texti": "Franski her Napóleons sigraði austurríska her Karls erkihertoga í orrustunni við Wagram, úrslitaorrustu stríðs fimmta bandalagsins."
+    },
+    {
+      "ar": "1940",
+      "texti": "Story-brúin í Brisbane var opnuð við hátíðlega athöfn. Hún var þá lengsta bitabrú Ástralíu."
+    },
+    {
+      "ar": "2009",
+      "texti": "Jadranka Kosor varð fyrsta konan til að gegna embætti forsætisráðherra Króatíu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1926",
+      "texti": "Jón Þorláksson tók við embætti forsætisráðherra Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1946",
+      "texti": "Íslendingar tóku við Reykjavíkurflugvelli af Bretum við hátíðlega athöfn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1950",
+      "texti": "Fyrsta landsmót hestamanna var sett á Þingvöllum — hófatak með sögulegum undirtóni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1954",
+      "texti": "Stórrigningar ollu skriðuföllum og flóðum á Norðurlandi, einkum í Norðurárdal í Skagafirði, þar sem jarðirnar Ytri-Kot og Fremri-Kot urðu mjög illa úti.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "50 Cent",
+      "starfsgrein": "rappari og leikari",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Tenzin Gyatso",
+      "starfsgrein": "14. Dalai Lama",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Burt Ward",
+      "starfsgrein": "leikari",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Bill Haley",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Adi Shamir",
+      "starfsgrein": "dulmálsfræðingur",
+      "ar": "1952"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Vladimir Ashkenazy",
+      "starfsgrein": "rússnesk-íslenskur píanóleikari og hljómsveitarstjóri",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Rannveig Þorsteinsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1904"
+    },
+    {
+      "nafn": "Gísli Guðmundsson",
+      "starfsgrein": "gerlafræðingur og frumkvöðull",
+      "ar": "1884"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða konungur var krýndur á Englandi 6. júlí 1483?",
+      "svor": [
+        "Ríkharður 3.",
+        "Hinrik 8.",
+        "Jóhann landlausi",
+        "Vilhjálmur sigursæli"
+      ],
+      "rett": 0,
+      "skyring": "Ríkharður 3. fékk kórónuna þennan dag, þótt valdatíðin yrði ekki löng."
+    },
+    {
+      "spurning": "Hvar var fyrsta landsmót hestamanna sett árið 1950?",
+      "svor": [
+        "Á Hólum",
+        "Á Þingvöllum",
+        "Í Viðey",
+        "Á Akureyri"
+      ],
+      "rett": 1,
+      "skyring": "Þingvellir hýstu fyrsta landsmótið, enda sviðsmyndin tæplega hægt að toppa."
+    },
+    {
+      "spurning": "Hver varð fyrsta konan til að gegna embætti forsætisráðherra Króatíu?",
+      "svor": [
+        "Bessie Head",
+        "Rannveig Þorsteinsdóttir",
+        "Jadranka Kosor",
+        "Cathy O'Donnell"
+      ],
+      "rett": 2,
+      "skyring": "Jadranka Kosor tók við embættinu 6. júlí 2009."
+    }
+  ],
+  "tonlistUSA": "Rock the Boat – The Hues Corporation (1974)",
+  "tonlistUK": "A Whiter Shade of Pale – Procol Harum (1967)",
+  "bio": "Forrest Gump (1994)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða hálfmyrkur, þegar dagur og nótt skiptast kurteislega á vaktinni."
+  },
+  "vissir_thu": "Dulmálsfræðingurinn Adi Shamir, sem á afmæli í dag, er einn uppfinningarmanna RSA-dulritunaraðferðarinnar; bókstafurinn S í heitinu vísar til hans.",
+  "stjornuspa": "Krabbi, gömul tilfinning bankar upp á eins og lag af slitinni vínylplötu — leyfðu henni að spila, en ekki endilega alla hliðina. Í kvöld gæti huggulegt heimaboð reynst merkilegra en konungskrýning, sérstaklega ef kaka er í boði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Arms_of_Richard_of_York%2C_3rd_Duke_of_York.svg/330px-Arms_of_Richard_of_York%2C_3rd_Duke_of_York.svg.png",
+    "ar": "1483",
+    "texti": "Ríkharður 3. var krýndur konungur Englands, síðasti konungurinn af York-ætt og jafnframt síðasti Plantagenet-konungurinn.",
+    "heimild": "https://en.wikipedia.org/wiki/House_of_York",
+    "breidd": 330,
+    "haed": 385
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

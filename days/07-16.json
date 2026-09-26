@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-16",
+  "dagur": 16,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:43",
+  "sunset": "23:22",
+  "kvedja": "Góðan og gleðilegan 16. júlí! Í dag krýnum við tíu ára konung, hlustum á Mozart, skjótum augunum til Júpíters og rifjum upp knattspyrnuleik sem Brasilíumenn vildu helst setja undir teppið. Sagan kann sannarlega að halda mörgum boltum á lofti í einu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1377",
+      "texti": "Hinn aðeins tíu ára gamli Ríkharður 2. var krýndur Englandskonungur í Westminster Abbey. Flest börn á þeim aldri fengu verkefni yfir sumarið, en Ríkharður fékk heilt konungsríki."
+    },
+    {
+      "ar": "1782",
+      "texti": "Ópera Mozarts, Brottnámið úr kvennabúrinu, var frumflutt í Vínarborg. Jósef 2. keisari á að hafa kvartað yfir „of mörgum nótum“, athugasemd sem Mozart hefur tæplega tekið sem tónlistarlega opinberun."
+    },
+    {
+      "ar": "1945",
+      "texti": "Bandaríkin sprengdu kjarnorkuvopn í fyrsta sinn í Trinity-tilrauninni. Þar með hófst nýtt og ógnvænlegt skeið í mannkynssögunni."
+    },
+    {
+      "ar": "1950",
+      "texti": "Úrúgvæ sigraði Brasilíu 2–1 í úrslitaleik heimsmeistaramótsins í knattspyrnu á Maracanã-leikvanginum í Ríó de Janeiro. Úrslitin urðu Brasilíumönnum slíkt áfall að leikurinn lifir enn í þjóðarminninu."
+    },
+    {
+      "ar": "1994",
+      "texti": "Brot úr halastjörnunni Shoemaker–Levy 9 tóku að rekast á Júpíter. Fyrsti áreksturinn myndaði eldkúlu sem náði um 24.000 kelvina hita — töluvert heitara en hefðbundið júlígrill."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1627",
+      "texti": "Í Tyrkjaráninu voru 242 manns numin á brott frá Vestmannaeyjum af sjóræningjum frá Algeirsborg og seld í þrældóm; 36 til viðbótar voru drepin. Þetta er einn svartasti dagur íslenskrar sögu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1889",
+      "texti": "Hið íslenska náttúrufræðifélag var stofnað og fékk þar með það göfuga hlutverk að beina forvitnum augum að lífríki, jarðfræði og öðrum undrum landsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1933",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi. Kjósendur tóku því fram lýðræðisblýantinn og höfðu sitt að segja um landsstjórnina.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2009",
+      "texti": "Alþingi samþykkti með 33 atkvæðum gegn 28 að senda umsókn um aðild Íslands að Evrópusambandinu; tveir þingmenn sátu hjá. Allir þingflokkar nema Samfylkingin voru klofnir í afstöðu sinni.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Scott",
+      "starfsgrein": "ástralskur kylfingur",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Barry Sanders",
+      "starfsgrein": "bandarískur leikmaður í amerískum fótbolta",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Alexandra Shipp",
+      "starfsgrein": "bandarísk leikkona og söngkona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "AnnaLynne McCord",
+      "starfsgrein": "bandarísk leikkona og framleiðandi",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Apichatpong Weerasethakul",
+      "starfsgrein": "taílenskur kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1970"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þorkell Sigurbjörnsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Kristján frá Djúpalæk",
+      "starfsgrein": "skáld",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Vigfús Sigurðsson",
+      "starfsgrein": "landkönnuður",
+      "ar": "1875"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað var Ríkharður 2. gamall þegar hann var krýndur Englandskonungur?",
+      "svor": [
+        "Tíu ára",
+        "Fjórtán ára",
+        "Átján ára",
+        "Tuttugu og eins árs"
+      ],
+      "rett": 0,
+      "skyring": "Ríkharður var aðeins tíu ára, svo kórónan hefur líklega verið þyngri en skól taskan."
+    },
+    {
+      "spurning": "Hvaða þjóð sigraði Brasilíu 2–1 í úrslitaleik HM árið 1950?",
+      "svor": [
+        "Argentína",
+        "Úrúgvæ",
+        "Ítalía",
+        "Spánn"
+      ],
+      "rett": 1,
+      "skyring": "Úrúgvæ vann hinn sögufræga leik á Maracanã og sló heimamenn út af laginu."
+    },
+    {
+      "spurning": "Hvaða íslenska félag var stofnað 16. júlí 1889?",
+      "svor": [
+        "Rafiðnaðarfélag Norðurlands",
+        "Ferðafélag Íslands",
+        "Hið íslenska náttúrufræðifélag",
+        "Slysavarnafélag Íslands"
+      ],
+      "rett": 2,
+      "skyring": "Hið íslenska náttúrufræðifélag var stofnað þennan dag árið 1889."
+    }
+  ],
+  "tonlistUSA": "Rock Around the Clock – Bill Haley & His Comets (1955)",
+  "tonlistUK": "In the Summertime – Mungo Jerry (1970)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "kviðlingur",
+    "skyring": "Kviðlingur er stutt kvæði eða vísa, gjarnan ort af léttleika eða í gamansömum tón."
+  },
+  "vissir_thu": "Fyrsti árekstur brots úr Shoemaker–Levy 9 við Júpíter myndaði eldkúlu sem náði um 24.000 kelvina hámarkshita.",
+  "stjornuspa": "Krabbi, gömul hugmynd sem þú hefur geymt eins og postulínsstell í efsta skáp gæti loksins komið að gagni. Treystu innsæinu, en mundu að jafnvel stjörnurnar mæla með því að lesa smáa letrið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg/500px-The_Westminster_Portrait_of_Richard_II_of_England_%281390s%29.jpg",
+    "ar": "1377",
+    "texti": "Hinn aðeins tíu ára gamli Ríkharður 2. var krýndur Englandskonungur í Westminster Abbey. Flest börn á þeim aldri fengu verkefni yfir sumarið, en Ríkharður fékk heilt konungsríki.",
+    "heimild": "https://en.wikipedia.org/wiki/Richard_II_of_England",
+    "breidd": 330,
+    "haed": 660
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "07-05",
+  "dagur": 5,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:13",
+  "sunset": "23:49",
+  "kvedja": "Gleðilegan 5. júlí! Í dag sveiflum við okkur frá örlögum síðasta kaþólska biskupsins í Skálholti yfir í rokk Elvis og gullsjóð engilsaxa — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós. Njóttu dagsins og mundu að jafnvel Spam varð síðar menningarfyrirbæri, svo framtíðin er full af möguleikum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1830",
+      "texti": "Algeirsborg gafst upp fyrir frönskum innrásarher og þar með lauk stjórnartíð Algeirsstjórnarinnar. Þetta markaði upphaf langrar og örlagaríkrar nýlendustjórnar Frakka í Alsír."
+    },
+    {
+      "ar": "1841",
+      "texti": "Thomas Cook skipulagði sína fyrstu hópferð og fylgdi um 500 manns frá Leicester til Loughborough. Þar var lagður einn af fyrstu járnbrautarteinunum að nútímaferðamennsku — í óeiginlegri merkingu, að sjálfsögðu."
+    },
+    {
+      "ar": "1937",
+      "texti": "Hormel Foods kynnti niðursoðna kjötmetið Spam. Dósamaturinn varð síðar svo rækilega samofinn dægurmenningu að nafn hans rataði meira að segja yfir á óumbeðinn tölvupóst."
+    },
+    {
+      "ar": "1954",
+      "texti": "Elvis Presley tók upp sína fyrstu smáskífu, „That's All Right“, hjá Sun Records í Memphis. Rokksagan var þar með farin að hrista mjaðmirnar fyrir alvöru."
+    },
+    {
+      "ar": "2009",
+      "texti": "Staffordskírissjóðurinn fannst nærri Hammerwich á Englandi. Í honum voru meira en 1.500 munir og reyndist hann stærsta safn engilsaxnesks gulls sem fundist hafði."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1541",
+      "texti": "Ögmundur Pálsson, síðasti kaþólski biskupinn í Skálholti, var fluttur fangi um borð í skip sem sigldi með hann til Danmerkur. Hann lést á hafi úti á leiðinni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1851",
+      "texti": "Þjóðfundurinn var settur í húsi Lærða skólans í Reykjavík til að ræða frumvarp dönsku ríkisstjórnarinnar um réttarstöðu Íslands. Fundurinn stóð til 9. ágúst og varð eftirminnilegur kafli í sjálfstæðisbaráttunni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1942",
+      "texti": "Fjögur flutningaskip og eitt herskip úr skipalestinni QP 13 fórust á tundurduflum skammt norðan Vestfjarða í slæmu skyggni. Yfir 250 manns fórust og er slysið talið stærsta sjóslys Íslandssögunnar.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1967",
+      "texti": "Surtseyjargosinu lauk eftir þrjú og hálft ár. Eftir stóð ný eyja sunnan Íslands — jarðfræðin hafði þar afgreitt heila nýbyggingu án skipulagsfundar.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Watterson",
+      "starfsgrein": "höfundur og teiknari",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Adam Cole",
+      "starfsgrein": "fjölbragðaglímumaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Alberto Moreno",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Alberto Gilardino",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Chuck Close",
+      "starfsgrein": "listmálari og ljósmyndari",
+      "ar": "1940"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðjón Arnar Kristjánsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1944"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónlistarmaður tók upp „That's All Right“ 5. júlí 1954?",
+      "svor": [
+        "Elvis Presley",
+        "Chuck Berry",
+        "Johnny Cash",
+        "Buddy Holly"
+      ],
+      "rett": 0,
+      "skyring": "Elvis tók lagið upp hjá Sun Records í Memphis og rokkið fékk hressilega vítamínsprautu."
+    },
+    {
+      "spurning": "Hve lengi hafði Surtseyjargosið staðið þegar því lauk árið 1967?",
+      "svor": [
+        "Níu mánuði",
+        "Eitt og hálft ár",
+        "Þrjú og hálft ár",
+        "Sjö ár"
+      ],
+      "rett": 2,
+      "skyring": "Gosið stóð í þrjú og hálft ár, sem er býsna löng fæðing fyrir eina eyju."
+    },
+    {
+      "spurning": "Hvað var sérstakt við Staffordskírissjóðinn sem fannst árið 2009?",
+      "svor": [
+        "Hann var stærsta safn engilsaxnesks gulls sem fundist hafði",
+        "Hann geymdi elstu krúnu Englands",
+        "Hann var eingöngu úr silfri",
+        "Hann fannst undir Lundúnaturni"
+      ],
+      "rett": 0,
+      "skyring": "Sjóðurinn innihélt meira en 1.500 muni og var sannkallaður gullpottur fornleifafræðinnar."
+    }
+  ],
+  "tonlistUSA": "Holding Back the Years – Simply Red (1986)",
+  "tonlistUK": "The Edge of Heaven – Wham! (1986)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, einkum þegar dagur og nótt mætast."
+  },
+  "vissir_thu": "Nútímabikiníið var nefnt eftir Bikini-kóralrifinu, þar sem Bandaríkjamenn gerðu tilraunir með kjarnavopn árið 1946.",
+  "stjornuspa": "Krabbinn ætti að treysta skelinni í dag, en ekki fela sig í henni allan daginn — einhver gæti verið að bjóða upp á kaffi og köku. Gamalt verkefni gengur loks upp ef þú nálgast það með þolinmæði, blýanti og hæfilega dramatískri tónlist.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Attaque_d_Alger_par_la_mer_29_Juin_1830_par_Theodore_Gudin.jpg/500px-Attaque_d_Alger_par_la_mer_29_Juin_1830_par_Theodore_Gudin.jpg",
+    "ar": "1830",
+    "texti": "Algeirsborg gafst upp fyrir frönskum innrásarher og þar með lauk stjórnartíð Algeirsstjórnarinnar. Þetta markaði upphaf langrar og örlagaríkrar nýlendustjórnar Frakka í Alsír.",
+    "heimild": "https://en.wikipedia.org/wiki/Invasion_of_Algiers_(1830)",
+    "breidd": 330,
+    "haed": 225
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "07-10",
+  "dagur": 10,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:25",
+  "sunset": "23:38",
+  "kvedja": "Góðan 10. júlí, kæri lesandi! Í dag förum við úr konunglegu klúðri Lafði Jane Grey yfir í methita í Kaliforníu og endum í hetjulegri hellabjörgun í Taílandi — sagan kann sannarlega að skipta um gír. Haltu þér í skugganum og mundu að níu dagar geta stundum dugað til að komast í sögubækurnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1372",
+      "texti": "Tagilde-sáttmálinn var undirritaður milli Ferdinands 1. Portúgalskonungs og fulltrúa Jóhanns af Gaunt. Þar hófst ensk-portúgalska bandalagið, sem enn er í gildi og hefur því enst betur en flest pólitísk hjónabönd."
+    },
+    {
+      "ar": "1553",
+      "texti": "Lafði Jane Grey var lýst arftaki Játvarðs 6. Englandskonungs og hóf þar með umdeilda valdatíð sína. Hún varð síðar þekkt sem „níu daga drottningin“ — styttri valdatíð en sumar sumarfríspásur."
+    },
+    {
+      "ar": "1913",
+      "texti": "Hitinn í Furnace Creek í Kaliforníu mældist 56,7 gráður á Celsíus. Alþjóðaveðurfræðistofnunin viðurkennir mælinguna sem hæsta lofthita sem skráður hefur verið á jörðinni."
+    },
+    {
+      "ar": "1966",
+      "texti": "Martin Luther King yngri leiddi fjöldafund til stuðnings Chicago Freedom Movement. Hreyfingin var ein metnaðarfyllsta borgararéttindabarátta sem háð var í norðurhluta Bandaríkjanna."
+    },
+    {
+      "ar": "2018",
+      "texti": "Síðustu drengjunum úr taílenska unglingaliðinu í knattspyrnu og þjálfara þeirra var bjargað úr flædda Tham Luang Nang Non-hellinum. Björgunin batt enda á dramatíska aðgerð sem fylgst var með um allan heim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1815",
+      "texti": "Hið íslenska Biblíufélag var stofnað og fékk einkarétt til útgáfu Biblíunnar á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1948",
+      "texti": "Hengibrú yfir Jökulsá á Fjöllum var vígð og stytti veginn milli Norðurlands og Austurlands um 70 kílómetra.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1970",
+      "texti": "Bjarni Benediktsson forsætisráðherra, Sigríður Björnsdóttir kona hans og Benedikt Vilmundarson dóttursonur þeirra fórust þegar Ráðherrabústaðurinn á Þingvöllum brann.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2023",
+      "texti": "Eldgos hófst við Litla-Hrút á Reykjanesskaga.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Arthur Ashe",
+      "starfsgrein": "tennisleikari og blaðamaður",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Adrian Grenier",
+      "starfsgrein": "leikari, framleiðandi og handritshöfundur",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Alice Munro",
+      "starfsgrein": "rithöfundur og Nóbelsverðlaunahafi",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Camille Pissarro",
+      "starfsgrein": "listmálari",
+      "ar": "1830"
+    },
+    {
+      "nafn": "Carl Orff",
+      "starfsgrein": "tónskáld og tónlistarkennari",
+      "ar": "1895"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Valdimar Ásmundsson",
+      "starfsgrein": "ritstjóri og stofnandi Fjallkonunnar",
+      "ar": "1852"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða drottning hóf sína örstuttu valdatíð 10. júlí 1553?",
+      "svor": [
+        "Lafði Jane Grey",
+        "Elísabet 1.",
+        "María Skotadrottning",
+        "Anna drottning"
+      ],
+      "rett": 0,
+      "skyring": "Lafði Jane Grey varð fræg sem „níu daga drottningin“, sem er varla tími til að venjast krúnunni."
+    },
+    {
+      "spurning": "Hvar hófst eldgos 10. júlí 2023?",
+      "svor": [
+        "Í Vestmannaeyjum",
+        "Við Litla-Hrút",
+        "Í Öskju",
+        "Við Heklu"
+      ],
+      "rett": 1,
+      "skyring": "Gosið hófst við Litla-Hrút á Reykjanesskaga."
+    },
+    {
+      "spurning": "Hversu hár hiti mældist í Furnace Creek árið 1913?",
+      "svor": [
+        "46,7 °C",
+        "50,2 °C",
+        "53,4 °C",
+        "56,7 °C"
+      ],
+      "rett": 3,
+      "skyring": "Mælirinn sýndi 56,7 gráður — hitastig sem fær jafnvel Krabbann til að leita skjóls undir næsta steini."
+    }
+  ],
+  "tonlistUSA": "(I Can't Get No) Satisfaction – The Rolling Stones (1965)",
+  "tonlistUK": "I'm Alive – The Hollies (1965)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinnt kuldakast með slæmu veðri, gjarnan þegar árstíðin þykist vera orðin mild."
+  },
+  "vissir_thu": "Ensk-portúgalska bandalagið, sem á rætur að rekja til Tagilde-sáttmálans frá 1372, er enn í gildi.",
+  "stjornuspa": "Krabbi, í dag verður fortíðarþráin sterk og gamalt póstkort gæti orðið merkilegra en nýjasta tækið á heimilinu. Varastu þó að stjórna fjölskyldunni eins og níu daga drottning — hlýja og kaffisopi skila betri árangri.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Monumento_Evocativo_da_Alian%C3%A7a_Portugal_Inglaterra_-_Tagilde_-_Portugal_%2834549107054%29.jpg/500px-Monumento_Evocativo_da_Alian%C3%A7a_Portugal_Inglaterra_-_Tagilde_-_Portugal_%2834549107054%29.jpg",
+    "ar": "1372",
+    "texti": "Tagilde-sáttmálinn var undirritaður milli Ferdinands 1. Portúgalskonungs og fulltrúa Jóhanns af Gaunt. Þar hófst ensk-portúgalska bandalagið, sem enn er í gildi og hefur því enst betur en flest pólitísk hjónabönd.",
+    "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Tagilde",
+    "breidd": 330,
+    "haed": 502
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-03",
+  "dagur": 3,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:09",
+  "sunset": "23:53",
+  "kvedja": "Góðan og söguríkan 3. júlí! Dagurinn spannar allt frá rómverskum keisurum og íslenskum heiðarvegum til Ziggy Stardust, svo það er óhætt að spenna beltin — hvort sem ferðin tekur 15 klukkustundir eða eina snögga lestrarstund.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "324",
+      "texti": "Konstantínus mikli sigraði Licinius í orrustunni við Adríanópel í borgarastyrjöldum fjórveldisskipulags Rómaveldis. Rómversk stjórnmál voru sjaldnast fyrir viðkvæma."
+    },
+    {
+      "ar": "1754",
+      "texti": "George Washington gafst upp í Fort Necessity í Pennsylvaníu í Frakka- og indíánastríðinu. Þetta varð eina hernaðarlega uppgjöfin á ferli hans."
+    },
+    {
+      "ar": "1863",
+      "texti": "Sambandsherinn sigraði her Suðurríkjanna á lokadegi orrustunnar við Gettysburg. Orrustan varð einn helsti vendipunktur bandarísku borgarastyrjaldarinnar."
+    },
+    {
+      "ar": "1973",
+      "texti": "David Bowie kvaddi sviðspersónuna Ziggy Stardust óvænt á lokakvöldi 17 mánaða tónleikaferðar. Stjörnurykið settist, en aðeins um stund."
+    },
+    {
+      "ar": "2005",
+      "texti": "Hjónabönd samkynja para urðu lögleg á Spáni samkvæmt lögum sem spænska þingið hafði samþykkt. Landið varð þar með meðal fyrstu ríkja heims til að stíga það skref."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1674",
+      "texti": "Á brennuöld voru Böðvar Þorsteinsson og Páll Oddsson brenndir á báli á Alþingi — dökkur kafli í íslenskri réttarsögu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1928",
+      "texti": "Bifreið fór um Öxnadalsheiði í fyrsta sinn. Ferðin frá Blönduósi til Akureyrar tók 15 klukkustundir, svo nestispakkinn hefur væntanlega ekki verið neitt smáræði.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1948",
+      "texti": "Marshallaðstoð Bandaríkjamanna barst Íslendingum og nam um 39 milljónum dala.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Vísindamenn tilkynntu formlega að Heimaeyjargosinu í Vestmannaeyjum væri lokið.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Betty Buckley",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Audra McDonald",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Carlos Kleiber",
+      "starfsgrein": "hljómsveitarstjóri",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Anastasia Pavlyuchenkova",
+      "starfsgrein": "tenniskona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Andy Fraser",
+      "starfsgrein": "tónlistarmaður og lagahöfundur",
+      "ar": "1952"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Konráð Gíslason",
+      "starfsgrein": "málfræðingur og Fjölnismaður",
+      "ar": "1808"
+    },
+    {
+      "nafn": "Salome Þorkelsdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Björn Bjarnason frá Viðfirði",
+      "starfsgrein": "fræðimaður, þýðandi og kennari",
+      "ar": "1873"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sviðspersónu lagði David Bowie til hliðar 3. júlí 1973?",
+      "svor": [
+        "Major Tom",
+        "Ziggy Stardust",
+        "Thin White Duke",
+        "Aladdin Sane"
+      ],
+      "rett": 1,
+      "skyring": "Ziggy Stardust fékk óvænt reisupassann á lokakvöldi langrar tónleikaferðar."
+    },
+    {
+      "spurning": "Hvað tók fyrsta bifreiðarferðin um Öxnadalsheiði árið 1928 langan tíma frá Blönduósi til Akureyrar?",
+      "svor": [
+        "Fimm klukkustundir",
+        "Átta klukkustundir",
+        "Tólf klukkustundir",
+        "Fimmtán klukkustundir"
+      ],
+      "rett": 3,
+      "skyring": "Ferðin tók 15 klukkustundir — hægferð með sögulegu ívafi."
+    },
+    {
+      "spurning": "Hvaða orrusta lauk með sigri Sambandshermanna 3. júlí 1863?",
+      "svor": [
+        "Orrustan við Gettysburg",
+        "Orrustan við Waterloo",
+        "Orrustan við Königgrätz",
+        "Orrustan við Adríanópel"
+      ],
+      "rett": 0,
+      "skyring": "Gettysburg varð einn mikilvægasti vendipunktur bandarísku borgarastyrjaldarinnar."
+    }
+  ],
+  "tonlistUSA": "Sussudio – Phil Collins (1985)",
+  "tonlistUK": "Skweeze Me, Pleeze Me – Slade (1973)",
+  "bio": "Aftur til framtíðar (1985)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinnt kuldakast með illviðri, oft að vori eða sumri þegar veðrið ákveður að vera með derring."
+  },
+  "vissir_thu": "Uppgjöf George Washingtons við Fort Necessity árið 1754 var eina hernaðarlega uppgjöfin á öllum ferli hans.",
+  "stjornuspa": "Krabbi, gömul hugmynd sem þú hefur geymt eins og fínasta postulín gæti loksins komið að gagni. Ekki hörfa inn í skelina þótt einhver komi með stór orð — sögulega séð eru þau oft mest loft.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raphael-Constantine_at_Milvian_Bridge.jpg/500px-Raphael-Constantine_at_Milvian_Bridge.jpg",
+    "ar": "324",
+    "texti": "Konstantínus mikli sigraði Licinius í orrustunni við Adríanópel í borgarastyrjöldum fjórveldisskipulags Rómaveldis. Rómversk stjórnmál voru sjaldnast fyrir viðkvæma.",
+    "heimild": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
+    "breidd": 330,
+    "haed": 426
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

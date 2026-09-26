@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-30",
+  "dagur": 30,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:03",
+  "sunset": "23:58",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn á síðasta dag júnímánaðar! Í dag göngum við á línu yfir Niagara, skyggnumst inn í forsetakjör og minnumst þess að sagan er stundum glæsileg, stundum grimm og sjaldnast með öryggisnet.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1398",
+      "texti": "Zhu Yunwen tók við keisaratign Ming-veldisins og varð Jianwen-keisari. Keisarakórónur voru glæsilegar, en starfið sjálft bauð sjaldnast upp á rólega skrifstofudaga."
+    },
+    {
+      "ar": "1559",
+      "texti": "Hinrik 2. Frakkakonungur særðist banvænu sári í burtreið þegar brot úr lensu Gabriels Montgomery stungust í auga hans."
+    },
+    {
+      "ar": "1859",
+      "texti": "Franski línudansarinn Charles Blondin gekk á streng yfir Niagara-gilið og varð heimsfrægur fyrir vikið. Flestir hefðu látið sér nægja að skoða fossana af öruggum útsýnispalli."
+    },
+    {
+      "ar": "1960",
+      "texti": "Belgíska Kongó fékk sjálfstæði frá Belgíu. Í kjölfarið tók við óstöðugleikatímabil sem síðar leiddi til einræðis Joseph-Désiré Mobutu."
+    },
+    {
+      "ar": "1985",
+      "texti": "Bandaríska skólapiltinum Ryan White var neitað um endurkomu í skólann eftir að hann smitaðist af HIV við meðferð við dreyrasýki. Mál hans varð síðar sterkt tákn baráttunnar gegn fordómum tengdum HIV og alnæmi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1564",
+      "texti": "Stóridómur var lögtekinn á Alþingi og herti mjög refsingar fyrir ýmis siðferðis- og kynferðisbrot.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1910",
+      "texti": "Laufey Valdimarsdóttir varð fyrst íslenskra kvenna til að ljúka stúdentsprófi frá Lærða skólanum í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1954",
+      "texti": "Almyrkvi á sólu sást best við suðurströnd Íslands; þar varð dimmt í nokkrar mínútur og stjörnur birtust á himni um hábjartan dag.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1968",
+      "texti": "Kristján Eldjárn var kjörinn forseti Íslands.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charles VIII",
+      "starfsgrein": "Frakkakonungur",
+      "ar": "1470"
+    },
+    {
+      "nafn": "Czesław Miłosz",
+      "starfsgrein": "skáld, rithöfundur og Nóbelsverðlaunahafi",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Alexandra, greifynja af Frederiksborg",
+      "starfsgrein": "dönsk greifynja",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Allegra Versace",
+      "starfsgrein": "ítalsk-bandarísk viðskiptakona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "A. J. Brown",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gunnlaugur M. Sigmundsson",
+      "starfsgrein": "stjórnmálamaður og athafnamaður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Sigurbjörn Einarsson",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Óskar Jónasson",
+      "starfsgrein": "kvikmyndagerðarmaður",
+      "ar": "1963"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ofurhugi gekk á streng yfir Niagara-gilið árið 1859?",
+      "svor": [
+        "Charles Blondin",
+        "Charles VIII",
+        "Kristján Eldjárn",
+        "Gabriel Montgomery"
+      ],
+      "rett": 0,
+      "skyring": "Charles Blondin fór yfir gilið á streng og hafði greinilega skilið lofthræðsluna eftir heima."
+    },
+    {
+      "spurning": "Hver varð fyrst íslenskra kvenna til að ljúka stúdentsprófi frá Lærða skólanum?",
+      "svor": [
+        "Alexandra af Frederiksborg",
+        "Laufey Valdimarsdóttir",
+        "Allegra Versace",
+        "Sunnefa Jónsdóttir"
+      ],
+      "rett": 1,
+      "skyring": "Laufey Valdimarsdóttir braut þar mikilvægan menntamúr árið 1910."
+    },
+    {
+      "spurning": "Hvaða land fékk sjálfstæði frá Belgíu þennan dag árið 1960?",
+      "svor": [
+        "Kongó",
+        "Kenía",
+        "Túnis",
+        "Kólumbía"
+      ],
+      "rett": 0,
+      "skyring": "Belgíska Kongó varð sjálfstætt, þótt stormasamir tímar tækju fljótt við."
+    }
+  ],
+  "tonlistUSA": "Step by Step – New Kids on the Block (1990)",
+  "tonlistUK": "Sacrifice – Elton John (1990)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "burtreið",
+    "skyring": "Burtreið er riddarakeppni þar sem tveir menn ríða hvor gegn öðrum með lensur að vopni."
+  },
+  "vissir_thu": "Við almyrkvann 30. júní 1954 varð svo dimmt við suðurströnd Íslands að stjörnur sáust á himni um miðjan dag.",
+  "stjornuspa": "Krabbi, taktu daginn með reisn Jianwen-keisara en forðastu að leysa heimiliserjur með burtreið. Gamalt símtal eða gleymd hugmynd gæti skotið upp kollinum eins og smellur á vínylplötu—og reynst furðu notadrjúg.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Map_of_Ming_Chinese_empire_1415_%28cropped_2%29.jpg/500px-Map_of_Ming_Chinese_empire_1415_%28cropped_2%29.jpg",
+    "ar": "1398",
+    "texti": "Zhu Yunwen tók við keisaratign Ming-veldisins og varð Jianwen-keisari. Keisarakórónur voru glæsilegar, en starfið sjálft bauð sjaldnast upp á rólega skrifstofudaga.",
+    "heimild": "https://en.wikipedia.org/wiki/Ming_dynasty",
+    "breidd": 330,
+    "haed": 395
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

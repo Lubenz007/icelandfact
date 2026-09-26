@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-14",
+  "dagur": 14,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:37",
+  "sunset": "23:28",
+  "kvedja": "Góðan 14. júlí, kæri lesandi! Í dag stormum við Bastilluna, klífum Matterhorn og ökum yfir Skeiðarárbrú — allt án þess að þurfa að skipta um skó. Sagan kann sannarlega að fylla dagatalið betur en nokkur verkefnalisti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1223",
+      "texti": "Loðvík 8. tók við konungdómi í Frakklandi og hóf þriggja ára valdatíð sína. Hún var stutt, en miðaldakonungar fengu sjaldnast rólega starfsævi."
+    },
+    {
+      "ar": "1789",
+      "texti": "Parísarbúar réðust á Bastilluna, virki og fangelsi sem varð eitt helsta tákn frönsku byltingarinnar. Fá fangelsi hafa fengið jafn langlífan eftirmála."
+    },
+    {
+      "ar": "1865",
+      "texti": "Sjö manna fjallgönguhópur komst fyrstur á tind Matterhorns. Afrekið er jafnan talið marka lok gullaldar fjallamennskunnar."
+    },
+    {
+      "ar": "1902",
+      "texti": "Hinn miðaldalegi klukkuturn Markúsarkirkjunnar í Feneyjum hrundi og eyðilagði jafnframt Loggetta del Sansovino. Feneyingar reistu turninn síðar aftur — steinn fyrir stein og með töluverðri þrjósku."
+    },
+    {
+      "ar": "2016",
+      "texti": "Maður ók vörubíl vísvitandi inn í mannfjölda í Nice í Frakklandi þar sem fólk fagnaði þjóðhátíðardeginum. Árásin kostaði 86 manns lífið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1929",
+      "texti": "Varðskipið Ægir var keypt fyrir Landhelgisgæsluna og varð liðsauki við gæslu fiskimiðanna umhverfis Ísland.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1971",
+      "texti": "Viðreisnarstjórnin lét af völdum eftir tólf ára samfellda stjórnarsetu í kjölfar kosningaósigurs daginn áður.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1974",
+      "texti": "Hringvegurinn var fullgerður þegar Skeiðarárbrú var opnuð. Þar með varð loks hægt að aka hringinn án þess að stórfljót á Skeiðarársandi settu ferðaplönin í uppnám.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Conor McGregor",
+      "starfsgrein": "írskur bardagaíþróttamaður",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Angélique Kidjo",
+      "starfsgrein": "benínsk söngkona, lagahöfundur og baráttukona",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Jules Mazarin",
+      "starfsgrein": "ítalsk-franskur kardínáli og stjórnmálamaður",
+      "ar": "1602"
+    },
+    {
+      "nafn": "Arthur Laurents",
+      "starfsgrein": "bandarískur leikskálds- og handritshöfundur",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Bob Casale",
+      "starfsgrein": "bandarískur tónlistarmaður í Devo",
+      "ar": "1952"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andri Snær Magnason",
+      "starfsgrein": "rithöfundur",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Benedikt Gunnarsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Björn M. Ólsen",
+      "starfsgrein": "fræðimaður og fyrsti rektor Háskóla Íslands",
+      "ar": "1850"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fræga mannvirki réðust Parísarbúar á 14. júlí 1789?",
+      "svor": [
+        "Bastilluna",
+        "Versalahöll",
+        "Notre-Dame",
+        "Sigurbogann"
+      ],
+      "rett": 0,
+      "skyring": "Bastillan varð hið ódauðlega tákn byltingarinnar — og gaf Frökkum ágæta ástæðu til árlegrar veislu."
+    },
+    {
+      "spurning": "Hvaða framkvæmd fullkomnaði Hringveginn árið 1974?",
+      "svor": [
+        "Opnun Hvalfjarðarganga",
+        "Opnun Skeiðarárbrúar",
+        "Lagning vegar um Öxi",
+        "Opnun Borgarfjarðarbrúar"
+      ],
+      "rett": 1,
+      "skyring": "Með Skeiðarárbrú varð hringurinn loks heill, þjóðinni og ferðakortum til mikillar gleði."
+    },
+    {
+      "spurning": "Hvaða fjall var fyrst klifið 14. júlí 1865?",
+      "svor": [
+        "Mont Blanc",
+        "Everest",
+        "Matterhorn",
+        "Kilimanjaro"
+      ],
+      "rett": 2,
+      "skyring": "Sjö manna hópur náði tindi Matterhorns og skráði sig þar með í fjallgöngusöguna."
+    }
+  ],
+  "tonlistUSA": "When Doves Cry – Prince (1984)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "víðförull",
+    "skyring": "Sá sem er víðförull hefur ferðast víða og séð meira af heiminum en heimreiðina eina."
+  },
+  "vissir_thu": "Við fyrstu uppgönguna á Matterhorn árið 1865 komust allir sjö fjallgöngumennirnir á tindinn, en fjórir þeirra fórust á niðurleiðinni.",
+  "stjornuspa": "Krabbi, pláneturnar benda til þess að þú eigir að verja heimilið eins og Bastilluna — en bjóða þó góðum gestum inn. Gamalt verkefni gæti loksins brúast, rétt eins og Hringvegurinn árið 1974.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Louis8.jpg/330px-Louis8.jpg",
+    "ar": "1223",
+    "texti": "Loðvík 8. tók við konungdómi í Frakklandi og hóf þriggja ára valdatíð sína. Hún var stutt, en miðaldakonungar fengu sjaldnast rólega starfsævi.",
+    "heimild": "https://en.wikipedia.org/wiki/Louis_VIII_of_France",
+    "breidd": 330,
+    "haed": 310
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

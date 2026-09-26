@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-08",
+  "dagur": 8,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:20",
+  "sunset": "23:43",
+  "kvedja": "Góðan 8. júlí, kæri lesandi! Í dag förum við frá blóðugum átökum á Grund og frelsisorðum í Fíladelfíu yfir í síldarævintýri, Roswell-ráðgátu og heimsminjar í Surtsey — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1663",
+      "texti": "John Clarke, baptistaprestur og baráttumaður fyrir trúfrelsi, fékk konunglega stofnskrá fyrir Rhode Island. Hún hefur verið kölluð eitt stórbrotnasta frelsisskjal sem samið hefur verið."
+    },
+    {
+      "ar": "1776",
+      "texti": "Sjálfstæðisyfirlýsing Bandaríkjanna var lesin formlega upp opinberlega í fyrsta sinn í Fíladelfíu. Þar fengu byltingarorðin loks rödd, ekki aðeins blek."
+    },
+    {
+      "ar": "1947",
+      "texti": "Eftir fregnir um fund „fljúgandi disks“ nærri Roswell í Nýju-Mexíkó sagði bandaríski herinn að fyrirbærið hefði verið venjulegur veðurbelgur. Sú skýring stöðvaði ekki geimverusögurnar — eiginlega þvert á móti."
+    },
+    {
+      "ar": "2014",
+      "texti": "Þýskaland sigraði Brasilíu 7–1 í undanúrslitum heimsmeistaramóts karla í knattspyrnu á Mineirão-leikvanginum. Úrslitin slógu fjölmörg mótsmet og skildu gestgjafana eftir orðlausa."
+    },
+    {
+      "ar": "2022",
+      "texti": "Shinzō Abe, fyrrverandi forsætisráðherra Japans, var myrtur með heimasmíðuðu skotvopni. Morðið vakti mikinn óhug í Japan og víða um heim."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1362",
+      "texti": "Grundarbardagi var háður á Grund í Eyjafirði, þar sem Eyfirðingar réðust að Smið Andréssyni hirðstjóra og mönnum hans og drápu þá.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1903",
+      "texti": "Síldarsöltun hófst á Siglufirði og þar með fór síldarævintýrið mikla af stað. Það stóð í 65 ár og umbreytti bænum og atvinnulífi hans.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1922",
+      "texti": "Ingibjörg H. Bjarnason var kjörin fyrst kvenna á Alþingi. Hún tók sæti á þinginu 15. febrúar 1923 og ruddi þar sögulega braut.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Surtsey var skráð á heimsminjaskrá UNESCO. Ung eldfjallaeyja fékk þar með alþjóðlegan gæðastimpil — jarðfræðilega séð enn hálfgerður unglingur.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Beck",
+      "starfsgrein": "tónlistarmaður og upptökustjóri",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Anjelica Huston",
+      "starfsgrein": "leikkona og leikstjóri",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Andrew Fletcher",
+      "starfsgrein": "hljómborðsleikari",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Artemisia Gentileschi",
+      "starfsgrein": "listmálari",
+      "ar": "1593"
+    },
+    {
+      "nafn": "Son Heung-min",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1992"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auðunn Blöndal",
+      "starfsgrein": "leikari og skemmtikraftur",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Jakobína Sigurðardóttir",
+      "starfsgrein": "rithöfundur og skáld",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Rannveig Torp Pálmadóttir Böðvarsson",
+      "starfsgrein": "útgerðarkona",
+      "ar": "1924"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða lið vann Brasilíu 7–1 á heimsmeistaramótinu árið 2014?",
+      "svor": [
+        "Argentína",
+        "Þýskaland",
+        "Spánn",
+        "Holland"
+      ],
+      "rett": 1,
+      "skyring": "Þjóðverjar unnu 7–1 og breyttu undanúrslitaleiknum í knattspyrnusögulega furðusýningu."
+    },
+    {
+      "spurning": "Hvaða íslenska náttúruperla komst á heimsminjaskrá UNESCO 8. júlí 2008?",
+      "svor": [
+        "Þingvellir",
+        "Askja",
+        "Surtsey",
+        "Snæfellsjökull"
+      ],
+      "rett": 2,
+      "skyring": "Surtsey var skráð á heimsminjaskrá UNESCO árið 2008."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er þekktur suðurkóreskur knattspyrnumaður?",
+      "svor": [
+        "Beck",
+        "Andrew Fletcher",
+        "Son Heung-min",
+        "Auðunn Blöndal"
+      ],
+      "rett": 2,
+      "skyring": "Son Heung-min er knattspyrnustjarnan í hópnum — hinir myndu líklega velja aðrar stöður á vellinum."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "A Whiter Shade of Pale – Procol Harum (1967)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "hirðstjóri",
+    "skyring": "Hirðstjóri var konunglegur embættismaður sem fór með æðstu stjórn í landinu í umboði konungs."
+  },
+  "vissir_thu": "Síldarævintýrið á Siglufirði, sem hófst með síldarsöltun árið 1903, stóð í 65 ár.",
+  "stjornuspa": "Krabbi, gamall draumur bankar upp á eins og kunningi með vasadiskó og alltof stór sólgleraugu; bjóddu honum inn, en láttu hann ekki endurraða stofunni. Innsæið er í toppformi, þótt það kjósi helst að senda skilaboð með dulmáli og dramatískum augngotum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/United_States_Declaration_of_Independence.jpg/500px-United_States_Declaration_of_Independence.jpg",
+    "ar": "1776",
+    "texti": "Sjálfstæðisyfirlýsing Bandaríkjanna var lesin formlega upp opinberlega í fyrsta sinn í Fíladelfíu. Þar fengu byltingarorðin loks rödd, ekki aðeins blek.",
+    "heimild": "https://en.wikipedia.org/wiki/United_States_Declaration_of_Independence",
+    "breidd": 330,
+    "haed": 392
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

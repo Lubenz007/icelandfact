@@ -1,0 +1,143 @@
+{
+  "mmdd": "07-15",
+  "dagur": 15,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:40",
+  "sunset": "23:25",
+  "kvedja": "Góðan 15. júlí! Í dag rekumst við á stein sem opnaði dyr að fornegypskum ritum, keisara sem lagði niður vopn og popplag sem fékk hálfa plánetuna til að þykjast kunna hestdans. Sagan kann greinilega bæði hieróglýfur og sviðsspor.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1410",
+      "texti": "Pólland og stórhertogadæmið Litháen sigruðu Þýsku riddarana í orrustunni við Grunwald. Orrustan varð úrslitaátök stríðsins milli Pólverja, Litháa og riddarareglunnar."
+    },
+    {
+      "ar": "1799",
+      "texti": "Franskir hermenn við Fort Julien, nærri egypsku hafnarborginni Rashid, fundu Rósettusteininn. Steinninn varð síðar lykillinn að því að ráða fornar egypskar skriftir."
+    },
+    {
+      "ar": "1815",
+      "texti": "Napóleon gafst upp fyrir Frederick Lewis Maitland, skipherra í breska flotanum, um borð í HMS Bellerophon. Þar með lauk Napóleonsstríðunum loks — og Evrópa gat dregið andann."
+    },
+    {
+      "ar": "1983",
+      "texti": "Sega gaf út sína fyrstu heimaleikjatölvu, SG-1000, í Japan. Hún varð upphafið að langri tölvusögu fyrirtækisins, áður en blái broddgölturinn tók til fótanna."
+    },
+    {
+      "ar": "2012",
+      "texti": "Suður-kóreski rapparinn Psy gaf út smellinn „Gangnam Style“. Lagið og dansinn urðu að alþjóðlegu fyrirbæri á leifturhraða."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1980",
+      "texti": "Dansk Sojakagefabrik á Íslandsbryggju í Kaupmannahöfn sprakk í loft upp.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2012",
+      "texti": "Danski fornleifafræðingurinn Olaf Olsen játaði að hafa sem ungur kommúnisti látið Sovétríkjunum í té persónuupplýsingar.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Savage",
+      "starfsgrein": "leikari og tæknibrelluhönnuður",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Aimee Carrero",
+      "starfsgrein": "leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Clive Cussler",
+      "starfsgrein": "rithöfundur og fornleifafræðingur",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Arianna Huffington",
+      "starfsgrein": "blaðamaður og útgefandi",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Brenda Milner",
+      "starfsgrein": "taugasálfræðingur",
+      "ar": "1918"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Alexander Jóhannesson",
+      "starfsgrein": "málfræðingur",
+      "ar": "1888"
+    },
+    {
+      "nafn": "Edda Garðarsdóttir",
+      "starfsgrein": "handknattleikskona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Gunnar Salómonsson",
+      "starfsgrein": "aflraunamaður",
+      "ar": "1907"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fornleifafundur varð lykill að því að ráða fornar egypskar skriftir?",
+      "svor": [
+        "Rósettusteinninn",
+        "Grunwald-skjöldurinn",
+        "Bellerophon-bjallan",
+        "Manitoba-taflan"
+      ],
+      "rett": 0,
+      "skyring": "Rósettusteinninn bar sams konar texta með mismunandi skriftum og varð því ómetanlegur við úrlausn egypskra tákna."
+    },
+    {
+      "spurning": "Um borð í hvaða skipi gafst Napóleon upp árið 1815?",
+      "svor": [
+        "HMS Victory",
+        "HMS Bellerophon",
+        "HMS Beagle",
+        "HMS Endeavour"
+      ],
+      "rett": 1,
+      "skyring": "Napóleon gafst upp um borð í HMS Bellerophon fyrir breska skipherranum Frederick Lewis Maitland."
+    },
+    {
+      "spurning": "Hver gaf út „Gangnam Style“ árið 2012?",
+      "svor": [
+        "Adam Savage",
+        "Psy",
+        "Clive Cussler",
+        "Sega"
+      ],
+      "rett": 1,
+      "skyring": "Psy gerði Gangnam-hverfið að heimsfrægu poppfyrirbæri með laginu og ógleymanlegum dansi."
+    }
+  ],
+  "tonlistUSA": "Alone – Heart (1987)",
+  "tonlistUK": "It's a Sin – Pet Shop Boys (1987)",
+  "bio": "Die Hard (1988)",
+  "ord_dagsins": {
+    "ord": "orðheppinn",
+    "skyring": "Sá sem er orðheppinn er fljótur að finna snjöll, viðeigandi eða skemmtileg orð."
+  },
+  "vissir_thu": "SG-1000, fyrsta heimaleikjatölva Sega, kom út í Japan sama dag og Nintendo setti Famicom-leikjatölvuna á markað þar í landi.",
+  "stjornuspa": "Krabbi, taktu daginn með þeirri ró sem sæmir gömlum bakelítsíma: leyfðu öðrum að hringja, en þú ræður hvort þú svarar. Kvöldið lofar notalegheitum, góðri tónlist og mögulega dansspori sem hefði gert Psy stoltan.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Modern_Reconstruction_of_the_Banner_of_Sigmund_III_Vasa.png/500px-Modern_Reconstruction_of_the_Banner_of_Sigmund_III_Vasa.png",
+    "ar": "1410",
+    "texti": "Pólland og stórhertogadæmið Litháen sigruðu Þýsku riddarana í orrustunni við Grunwald. Orrustan varð úrslitaátök stríðsins milli Pólverja, Litháa og riddarareglunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Crown_of_the_Kingdom_of_Poland",
+    "breidd": 330,
+    "haed": 278
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

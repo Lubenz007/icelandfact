@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-07",
+  "dagur": 7,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:18",
+  "sunset": "23:45",
+  "kvedja": "Góðan 7. júlí, kæri lesandi! Í dag flökkum við frá endurreisn æru Jóhönnu af Örk yfir í friðarerindi skólastúlku og lúkum ferðinni með léttum lúðrablæstri frá Reykjavík. Sagan kann nefnilega bæði að hvísla, þruma og slá taktinn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1456",
+      "texti": "Jóhanna af Örk var sýknuð af villutrú í endurupptöku máls hennar, 25 árum eftir dauða sinn. Réttlætið mætti seint til leiks, en hafði þó loksins meðferðis rétta dóminn."
+    },
+    {
+      "ar": "1798",
+      "texti": "Bandaríkin sögðu upp samningum sínum við Frakkland í kjölfar XYZ-málsins. Úr varð svonefnt hálfstríð, óyfirlýst átök sem fóru alfarið fram á sjó."
+    },
+    {
+      "ar": "1911",
+      "texti": "Fjögur ríki undirrituðu samning um vernd loðsela í Norður-Kyrrahafi og bönnuðu veiðar á þeim úti á rúmsjó. Þetta var merkilegt skref í alþjóðlegri náttúruvernd."
+    },
+    {
+      "ar": "1983",
+      "texti": "Bandaríska skólastúlkan Samantha Smith kom til Sovétríkjanna sem persónulegur gestur Júrís Andropov eftir að hafa skrifað honum bréf. Hún varð fljótt þekkt sem „yngsti sendiherra Bandaríkjanna“."
+    },
+    {
+      "ar": "2016",
+      "texti": "Vopnaður fyrrverandi varaliðsmaður Bandaríkjahers réðst úr launsátri á lögreglumenn í Dallas, drap fimm og særði níu. Árásarmaðurinn var síðar felldur með sprengju sem komið var fyrir á lögregluvélmenni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1211",
+      "texti": "Öflugur Suðurlandsskjálfti reið yfir; margir bæir hrundu og 18 manns fórust.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1874",
+      "texti": "Fyrsti spítali Akureyrar, Gudmanns Minde, var vígður í Aðalstræti 14. Húsið, reist árið 1836, er elsta tvílyfta íbúðarhús Íslands.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1915",
+      "texti": "Íslenskar konur fögnuðu nýfengnum kosningarétti með hátíðarfundi á Austurvelli og stofnuðu sama dag Landspítalasjóð Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Bandaríkjaher kom til Íslands og tók við vörnum landsins af Bretum. Síðustu bandarísku hermennirnir úr þeirri dvöl fóru héðan í apríl 1947.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alesso",
+      "starfsgrein": "plötusnúður, upptökustjóri og tónlistarmaður",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Ana Kasparian",
+      "starfsgrein": "blaðamaður og framleiðandi",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Alberto Aquilani",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Billy Campbell",
+      "starfsgrein": "leikari",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Camillo Golgi",
+      "starfsgrein": "læknir, meinafræðingur og Nóbelsverðlaunahafi",
+      "ar": "1843"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Benedikt Gröndal",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra Íslands",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Katrín Thoroddsen",
+      "starfsgrein": "læknir og alþingiskona",
+      "ar": "1896"
+    },
+    {
+      "nafn": "Margrét Guðnadóttir",
+      "starfsgrein": "læknir og prófessor",
+      "ar": "1929"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver var sýknuð af villutrú árið 1456, löngu eftir dauða sinn?",
+      "svor": [
+        "Jóhanna af Örk",
+        "Katrín af Aragóníu",
+        "María Antoinette",
+        "Eleonóra af Akvitaníu"
+      ],
+      "rett": 0,
+      "skyring": "Jóhanna af Örk fékk æru sína formlega endurreista 25 árum eftir dauðann."
+    },
+    {
+      "spurning": "Hvað stofnuðu íslenskar konur sama dag og þær héldu hátíðarfund á Austurvelli árið 1915?",
+      "svor": [
+        "Kvennaskólann í Reykjavík",
+        "Landspítalasjóð Íslands",
+        "Lúðrasveit Reykjavíkur",
+        "Háskóla Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Þær stofnuðu Landspítalasjóð Íslands og létu þannig fögnuðinn einnig verða að framtakssemi."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins hlaut Nóbelsverðlaun?",
+      "svor": [
+        "Billy Campbell",
+        "Alberto Aquilani",
+        "Camillo Golgi",
+        "Alesso"
+      ],
+      "rett": 2,
+      "skyring": "Ítalski læknirinn og meinafræðingurinn Camillo Golgi var Nóbelsverðlaunahafi."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "ófyrirsynju",
+    "skyring": "Að gera eitthvað ófyrirsynju merkir að gera það að ástæðulausu eða án nægs tilefnis."
+  },
+  "vissir_thu": "Samantha Smith varð þekkt sem „yngsti sendiherra Bandaríkjanna“ eftir friðarbréf sitt og heimsóknina til Sovétríkjanna árið 1983.",
+  "stjornuspa": "Krabbinn ætti að dusta rykið af gömlu heimilisalbúmi; þar gæti leynst ráðlegging frá fortíðinni, eða að minnsta kosti stórkostleg hárgreiðsla. Í ást og fjármálum borgar sig að fara varlega, en í dansi máttu vera fullkomlega ófyrirsynju.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/500px-Joan_of_Arc_miniature_graded.jpg",
+    "ar": "1456",
+    "texti": "Jóhanna af Örk var sýknuð af villutrú í endurupptöku máls hennar, 25 árum eftir dauða sinn. Réttlætið mætti seint til leiks, en hafði þó loksins meðferðis rétta dóminn.",
+    "heimild": "https://en.wikipedia.org/wiki/Joan_of_Arc",
+    "breidd": 330,
+    "haed": 492
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

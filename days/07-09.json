@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-09",
+  "dagur": 9,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:23",
+  "sunset": "23:40",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 9. júlí, þar sem Mozart-fjölskyldan leggur í tónleikaferð, Wimbledon slær fyrsta boltann og Mario mætir loks til leiks. Festu öryggisbeltið — sagan kann bæði að sveifla tennisspaða og kasta tunnum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1640",
+      "texti": "Ráð landstjórans í Virginíu gerði John Punch að fyrsta manneskjunni sem var lögformlega viðurkennd sem þræll í nýlendum Englendinga í Norður-Ameríku. Dapurlegur og afdrifaríkur áfangi í þróun þrælahalds þar vestra."
+    },
+    {
+      "ar": "1763",
+      "texti": "Mozart-fjölskyldan lagði af stað í mikla tónleikaferð um Vestur-Evrópu og sýndi undrabörnin Maria Anna og Wolfgang Amadeus. Þetta var nokkurs konar rokkferðalag átjándu aldar, aðeins með púðurhárkollum og sembölum."
+    },
+    {
+      "ar": "1877",
+      "texti": "Fyrsta Wimbledon-mótið hófst í Lundúnum. Mótið er elsta tennismót heims og hefur síðan orðið nánast jafnfrægt fyrir grasvellina og jarðarberin."
+    },
+    {
+      "ar": "1981",
+      "texti": "Nintendo gaf út spilakassaleikinn Donkey Kong, þar sem Mario birtist í fyrsta sinn. Pípulagningamaðurinn frægi hóf því ferilinn á því að forðast tunnur — ágætis undirbúningur fyrir tölvuleikjafrægð."
+    },
+    {
+      "ar": "2006",
+      "texti": "Ítalía varð heimsmeistari í knattspyrnu í fjórða sinn eftir 1–1 jafntefli gegn Frakklandi og 5–3 sigur í vítaspyrnukeppni. Ítalir héldu heim með bikarinn en Frakkar með eilíft umræðuefni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1916",
+      "texti": "Vopnaður enskur togari tók farþegaskipið Flóru, sem var á leið frá Reykjavík til Siglufjarðar með um 100 farþega, og sigldi því til Bretlands. Farþegarnir komust aftur heim með öðru skipi síðar í mánuðinum.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1940",
+      "texti": "Mikið haglél gekk yfir Hrunamannahrepp og lækir stífluðust af aurburði. Íslenska sumarið minnti með nokkuð ákveðnum hætti á að það ræður dagskránni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1946",
+      "texti": "Skemmtigarðurinn Tívolí í Reykjavík var opnaður með bílabraut, hringekju, Parísarhjóli og danspalli. Höfuðborgarbúar gátu loksins farið í hringi af ásettu ráði.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2011",
+      "texti": "Jökulhlaup í Múlakvísl eyðilagði brúna yfir ána og rauf Þjóðveg 1. Náttúran lokaði þar með hringveginum án þess að leggja fram eina einustu vegavinnuskýrslu.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bon Scott",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Brian Dennehy",
+      "starfsgrein": "leikari",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Chris Cooper",
+      "starfsgrein": "leikari",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Ashley Young",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Barbara Cartland",
+      "starfsgrein": "rithöfundur",
+      "ar": "1901"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Benedikt Hjartarson",
+      "starfsgrein": "sundkappi",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Kristján Albertsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Sigurður Kristófer Pétursson",
+      "starfsgrein": "þýðandi",
+      "ar": "1882"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Í hvaða tölvuleik birtist Mario fyrst?",
+      "svor": [
+        "Donkey Kong",
+        "Dota 2",
+        "Pac-Man",
+        "Tetris"
+      ],
+      "rett": 0,
+      "skyring": "Mario steig fyrst fram í Donkey Kong árið 1981, löngu áður en hann fékk eigið svepparíki."
+    },
+    {
+      "spurning": "Hvaða lið vann heimsmeistaratitil karla í knattspyrnu 9. júlí 2006?",
+      "svor": [
+        "Frakkland",
+        "Brasilía",
+        "Ítalía",
+        "Þýskaland"
+      ],
+      "rett": 2,
+      "skyring": "Ítalía vann Frakkland í vítaspyrnukeppni og tryggði sér sinn fjórða heimsmeistaratitil."
+    },
+    {
+      "spurning": "Hvað eyðilagðist í jökulhlaupinu í Múlakvísl árið 2011?",
+      "svor": [
+        "Viti",
+        "Brú",
+        "Flugvöllur",
+        "Jarðgöng"
+      ],
+      "rett": 1,
+      "skyring": "Brúin yfir Múlakvísl sópaðist burt og Þjóðvegur 1 rofnaði."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Baby Jane – Rod Stewart (1983)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist hið besta séð inn um glugga en reynist kaldara eða leiðinlegra þegar út er komið."
+  },
+  "vissir_thu": "Mario hét upphaflega einfaldlega Jumpman þegar hann birtist í Donkey Kong árið 1981.",
+  "stjornuspa": "Krabbi, í dag skaltu verja heimilið af sömu einurð og Wimbledon-meistari ver uppgjöfina sína. Gamalt kassettutæki, uppskrift eða ljósmynd gæti vakið nostalgíu — en ekki láta hana sannfæra þig um að allt hafi verið betra með símasnúru.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Seal_of_Governor%27s_Council.png/500px-Seal_of_Governor%27s_Council.png",
+    "ar": "1640",
+    "texti": "Ráð landstjórans í Virginíu gerði John Punch að fyrsta manneskjunni sem var lögformlega viðurkennd sem þræll í nýlendum Englendinga í Norður-Ameríku. Dapurlegur og afdrifaríkur áfangi í þróun þrælahalds þar vestra.",
+    "heimild": "https://en.wikipedia.org/wiki/Virginia_Governor's_Council",
+    "breidd": 330,
+    "haed": 208
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

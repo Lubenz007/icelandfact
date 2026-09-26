@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-17",
+  "dagur": 17,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:46",
+  "sunset": "23:19",
+  "kvedja": "Góðan 17. júlí, kæri lesandi! Í dag fljúgum við frá lokum Hundrað ára stríðsins yfir í fyrstu stjörnuljósmyndina, með viðkomu á Laugardalsvelli og örlitlu afmæliskaffi hjá Angelu Merkel. Spennið beltin — sagan getur verið ókyrr, jafnvel þegar dagatalið virðist sakleysislegt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1453",
+      "texti": "Orrustan við Castillon, síðasta orrusta Hundrað ára stríðsins, lauk með ósigri Englendinga. Eftir stóðu þeir aðeins með Calais af fyrri landareignum sínum í Frakklandi."
+    },
+    {
+      "ar": "1850",
+      "texti": "William Cranch Bond og John Adams Whipple tóku daguerreótýpu af stjörnunni Vegu. Þetta var fyrsta ljósmyndin af annarri stjörnu en sólinni — himingeimurinn var sem sagt loksins kominn í myndatöku."
+    },
+    {
+      "ar": "1936",
+      "texti": "Þjóðernissinnaðir herforingjar hófu valdarán gegn spænska lýðveldinu og spænska borgarastyrjöldin hófst. Átökin urðu bæði hörmulegt stríð og forleikur að pólitískum óveðrum Evrópu."
+    },
+    {
+      "ar": "1948",
+      "texti": "Ólympíueldurinn var tendraður í Olympíu í Grikklandi og „boðhlaup friðarins“ hófst fyrir sumarólympíuleikana. Fátt segir hátíð betur en logandi kyndill á hraðferð milli landa."
+    },
+    {
+      "ar": "2014",
+      "texti": "Farþegaþota Malaysia Airlines, flug MH17, var skotin niður yfir austanverðri Úkraínu. Allir 298 sem voru um borð létust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1751",
+      "texti": "Innréttingarnar, hlutafélag sem ætlað var að efla iðnað á Íslandi, voru stofnaðar á Þingvöllum að frumkvæði Skúla Magnússonar landfógeta.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1932",
+      "texti": "Stytta af Leifi heppna Eiríkssyni var afhjúpuð á Skólavörðuholti í Reykjavík. Hún var gjöf Bandaríkjamanna í tilefni af þúsund ára afmæli Alþingis.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1946",
+      "texti": "Íslenska karlalandsliðið í knattspyrnu lék sinn fyrsta landsleik, gegn Dönum á Melavellinum. Danir unnu 3:0, en allar langar knattspyrnusögur verða að byrja einhvers staðar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1959",
+      "texti": "Laugardalsvöllur var opnaður í Reykjavík og eignaðist íslensk knattspyrna þar með nýtt þjóðarleikhús gleði, vonar og taugaspennu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brett Goldstein",
+      "starfsgrein": "leikari, grínisti og handritshöfundur",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Billie Lourd",
+      "starfsgrein": "leikkona",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Angela Merkel",
+      "starfsgrein": "efnafræðingur og stjórnmálamaður",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Alex Winter",
+      "starfsgrein": "leikari og kvikmyndagerðarmaður",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Elbridge Gerry",
+      "starfsgrein": "kaupmaður og stjórnmálamaður",
+      "ar": "1744"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðmundur Í. Guðmundsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Eiríkur Briem",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1846"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða stjarna varð fyrst stjarna önnur en sólin til að nást á ljósmynd?",
+      "svor": [
+        "Vega",
+        "Síríus",
+        "Pólstjarnan",
+        "Betelgás"
+      ],
+      "rett": 0,
+      "skyring": "Vega sat fyrir árið 1850 og þurfti hvorki förðun né endurtöku."
+    },
+    {
+      "spurning": "Hvar var stytta Leifs heppna afhjúpuð árið 1932?",
+      "svor": [
+        "Á Austurvelli",
+        "Á Skólavörðuholti",
+        "Á Þingvöllum",
+        "Við Reykjavíkurhöfn"
+      ],
+      "rett": 1,
+      "skyring": "Leifur fékk sinn stað á Skólavörðuholti, þar sem hann horfir enn býsna ákveðinn til hafs."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var kanslari Þýskalands?",
+      "svor": [
+        "Billie Lourd",
+        "Alex Winter",
+        "Angela Merkel",
+        "Brett Goldstein"
+      ],
+      "rett": 2,
+      "skyring": "Angela Merkel gegndi embætti kanslara Þýskalands frá 2005 til 2021."
+    }
+  ],
+  "tonlistUSA": "Afternoon Delight – Starland Vocal Band (1976)",
+  "tonlistUK": "Fame – Irene Cara (1982)",
+  "bio": "The Dark Knight (2008)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, einkum þegar kvölda tekur."
+  },
+  "vissir_thu": "Orðið „gerrymandering“, um pólitíska kjördæmateikningu, er dregið af nafni afmælisbarnsins Elbridge Gerry og orðinu „salamander“.",
+  "stjornuspa": "Krabbi, gamalt er gott í dag — dustaðu rykið af hugmynd sem þú lagðir til hliðar og sjáðu hvort hún hefur þroskast eins og vínylplata í góðu safni. Varastu þó að hörfa inn í skelina þegar einhver stingur upp á breytingu; jafnvel sagan tekur stundum óvænta beygju.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fran%C3%A7ais_5054%2C_fol._229v%2C_Bataille_de_Castillon_1453_-_d%C3%A9tail.jpg/500px-Fran%C3%A7ais_5054%2C_fol._229v%2C_Bataille_de_Castillon_1453_-_d%C3%A9tail.jpg",
+    "ar": "1453",
+    "texti": "Orrustan við Castillon, síðasta orrusta Hundrað ára stríðsins, lauk með ósigri Englendinga. Eftir stóðu þeir aðeins með Calais af fyrri landareignum sínum í Frakklandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Battle_of_Castillon",
+    "breidd": 330,
+    "haed": 256
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

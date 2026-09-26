@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-02",
+  "dagur": 2,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:07",
+  "sunset": "23:55",
+  "kvedja": "Góðan og gleðilegan 2. júlí! Í dag förum við úr valdaráni í Tang-Kína yfir á fleka Méduse og endum í leyniklefa Harry Potters — sagan kann greinilega ekki að ferðast létt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "626",
+      "texti": "Li Shimin lét ráða keppinauta sína og bræður af dögum í valdaráni um keisarastól Tang-ættarinnar í Kína. Fjölskylduboðin hafa væntanlega verið fremur stirð eftir þetta."
+    },
+    {
+      "ar": "1816",
+      "texti": "Franska freigátan Méduse strandaði undan strönd núverandi Máritaníu og hluti þeirra sem lifðu af komst undan á bráðabirgðafleka. Harmleikurinn varð síðar viðfangsefni hins fræga málverks Fleki Méduse eftir Théodore Géricault."
+    },
+    {
+      "ar": "1964",
+      "texti": "Mannréttindalögin voru undirrituð í Bandaríkjunum og bönnuðu aðskilnað í skólum, á vinnustöðum og öðrum stöðum sem þjónuðu almenningi."
+    },
+    {
+      "ar": "1998",
+      "texti": "Harry Potter og leyniklefinn eftir J. K. Rowling kom út. Þar með fengu lesendur sína aðra ferð til Hogwarts — skóla þar sem jafnvel pípulagnirnar geyma leyndarmál."
+    },
+    {
+      "ar": "2013",
+      "texti": "Alþjóðasamband stjarnfræðinga tilkynnti að fjórða og fimmta tungl Plútós sem fundist höfðu skyldu heita Kerberos og Styx. Litli dvergreikistjörnuhópurinn fékk þannig býsna dramatískan nafnalista."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1178",
+      "texti": "Þorlákur Þórhallsson var vígður biskup í Skálholti við hátíðlega athöfn í Niðarósdómkirkju.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1849",
+      "texti": "Jón Sigurðsson og fleiri alþingismenn kröfðust þess að fundir Alþingis yrðu haldnir í heyranda hljóði — almenningur skyldi fá að heyra hvað fulltrúarnir hefðu fram að færa.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1874",
+      "texti": "Á Oddeyri við Eyjafjörð og víðar á Norðurlandi var haldin þjóðhátíð til að minnast þúsund ára byggðar á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1876",
+      "texti": "Alls 752 Norðlendingar lögðu af stað frá Akureyri með gufuskipinu Verona á leið til Vesturheims. Þetta var stærsti hópur íslenskra vesturfara sem fór í einni ferð.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ashley Tisdale",
+      "starfsgrein": "leikkona, söngkona og framleiðandi",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Bret Hart",
+      "starfsgrein": "fjölbragðaglímukappi",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Alex Morgan",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Alec Douglas-Home",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra Bretlands",
+      "ar": "1903"
+    },
+    {
+      "nafn": "Christoph Willibald Gluck",
+      "starfsgrein": "tónskáld",
+      "ar": "1714"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnar Sævarsson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Alexander Petersson",
+      "starfsgrein": "handknattleiksmaður",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Símon Dalaskáld",
+      "starfsgrein": "skáld og förumaður",
+      "ar": "1844"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bók kom út 2. júlí 1998?",
+      "svor": [
+        "Harry Potter og leyniklefinn",
+        "Harry Potter og fanginn frá Azkaban",
+        "Hobbitinn",
+        "Gullni áttavitinn"
+      ],
+      "rett": 0,
+      "skyring": "Harry Potter og leyniklefinn var önnur bókin í sögunum um galdrastrákinn."
+    },
+    {
+      "spurning": "Hvaðan lögðu 752 íslenskir vesturfarar af stað árið 1876?",
+      "svor": [
+        "Reykjavík",
+        "Akureyri",
+        "Ísafjörður",
+        "Vestmannaeyjar"
+      ],
+      "rett": 1,
+      "skyring": "Hópurinn sigldi frá Akureyri með skoska gufuskipinu Verona."
+    },
+    {
+      "spurning": "Hvaða nöfn fengu tvö tungl Plútós samkvæmt tilkynningu árið 2013?",
+      "svor": [
+        "Atlas og Pan",
+        "Fóbos og Deimos",
+        "Kerberos og Styx",
+        "Títan og Tríton"
+      ],
+      "rett": 2,
+      "skyring": "Kerberos og Styx bættust þá í hinn dálítið drungalega tunglahóp Plútós."
+    }
+  ],
+  "tonlistUSA": "Flashdance... What a Feeling – Irene Cara (1983)",
+  "tonlistUK": "You're the One That I Want – John Travolta og Olivia Newton-John (1978)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "heyrinkunnur",
+    "skyring": "Sá sem er heyrinkunnur er víðfrægur eða almennt kunnur."
+  },
+  "vissir_thu": "Símon Dalaskáld, sem fæddist þennan dag árið 1844, var bæði skáld og förumaður og kenndi sig við Dal í Skagafirði.",
+  "stjornuspa": "Krabbi, gamalt leyndarmál gæti skotið upp kollinum eins og skrímsli úr leyniklefa, en þú leysir málið með innsæi og góðum kaffibolla. Haltu fast í skelina, en mundu að jafnvel sagnfræðingar þurfa stundum að stíga út úr skjalaskápnum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/TangTaizong.jpg/500px-TangTaizong.jpg",
+    "ar": "626",
+    "texti": "Li Shimin lét ráða keppinauta sína og bræður af dögum í valdaráni um keisarastól Tang-ættarinnar í Kína. Fjölskylduboðin hafa væntanlega verið fremur stirð eftir þetta.",
+    "heimild": "https://en.wikipedia.org/wiki/Emperor_Taizong_of_Tang",
+    "breidd": 330,
+    "haed": 684
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

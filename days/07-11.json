@@ -1,0 +1,143 @@
+{
+  "mmdd": "07-11",
+  "dagur": 11,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:28",
+  "sunset": "23:35",
+  "kvedja": "Góðan 11. júlí! Í dag leggjum við úr höfn með Zheng He, setjumst að tafli með Fischer og skjótumst svo undir Hvalfjörð — allt án þess að missa af lestinni frá Waterloo. Sagan kann svo sannarlega að troða miklu í eina sumardagskrá.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1405",
+      "texti": "Floti undir stjórn kínverska sæfarans Zheng He lagði upp í fyrstu fjársjóðsferð Ming-ættarinnar um Suður-Kínahaf og Indlandshaf. Þetta var enginn sunnudagsróður, heldur upphaf stórbrotinnar siglingasögu."
+    },
+    {
+      "ar": "1789",
+      "texti": "Jacques Necker, fjármálastjóra Frakklands, var vikið úr embætti. Brottreksturinn kveikti mótmæli í París sem leiddu til árásarinnar á Bastilluna örfáum dögum síðar."
+    },
+    {
+      "ar": "1848",
+      "texti": "Waterloo Bridge-lestarstöðin í Lundúnum var opnuð af London and South Western Railway. Síðar varð hún fjölfarnasta lestarstöð Bretlands miðað við farþeganotkun."
+    },
+    {
+      "ar": "1960",
+      "texti": "Skáldsagan To Kill a Mockingbird eftir Harper Lee kom út. Bókin fjallar meðal annars um kynþáttamisrétti og missi sakleysis í suðurríkjum Bandaríkjanna."
+    },
+    {
+      "ar": "2010",
+      "texti": "Spánn varð heimsmeistari karla í knattspyrnu í fyrsta sinn eftir 1–0 sigur á Hollandi í framlengdum úrslitaleik. Eitt mark dugði — þegar Andrés Iniesta valdi sér einstaklega hentugan tíma til að skora."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1800",
+      "texti": "Alþingi var afnumið með konunglegri tilskipun og Landsyfirréttur stofnaður í þess stað.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1911",
+      "texti": "Konungur staðfesti lög um jafnan rétt kvenna og karla til menntunar og embætta. Hannes Hafstein hafði flutt frumvarpið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1972",
+      "texti": "Einvígi aldarinnar milli heimsmeistarans Boris Spasskí og áskorandans Bobby Fischer hófst í Reykjavík. Fischer vann einvígið og Ísland varð um stund miðpunktur skákheimsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1998",
+      "texti": "Hvalfjarðargöngin voru opnuð og ferðin um vestanvert landið styttist verulega. Hvalfjörðurinn var þó áfram jafn myndarlegur, þótt fleiri færu nú undir hann.",
+      "landshluti": "Vesturland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Robert the Bruce",
+      "starfsgrein": "Skotakonungur",
+      "ar": "1274"
+    },
+    {
+      "nafn": "Amad Diallo",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Alessia Cara",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Amitav Ghosh",
+      "starfsgrein": "rithöfundur og fræðimaður",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Andrew Bird",
+      "starfsgrein": "söngvari, lagahöfundur og fiðluleikari",
+      "ar": "1973"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Anna S. Þorvaldsdóttir",
+      "starfsgrein": "tónskáld",
+      "ar": "1977"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða lið vann sinn fyrsta heimsmeistaratitil karla í knattspyrnu 11. júlí 2010?",
+      "svor": [
+        "Spánn",
+        "Holland",
+        "Ítalía",
+        "Vestur-Þýskaland"
+      ],
+      "rett": 0,
+      "skyring": "Spánn vann Holland 1–0 eftir framlengingu og lyfti bikarnum í fyrsta sinn."
+    },
+    {
+      "spurning": "Hvaða heimsfræga skákeinvígi hófst í Reykjavík árið 1972?",
+      "svor": [
+        "Kasparov gegn Karpov",
+        "Spasskí gegn Fischer",
+        "Tal gegn Botvinnik",
+        "Carlsen gegn Anand"
+      ],
+      "rett": 1,
+      "skyring": "Boris Spasskí og Bobby Fischer mættust í einvíginu sem jafnan er kallað Einvígi aldarinnar."
+    },
+    {
+      "spurning": "Hvaða íslenska tónskáld heldur upp á afmæli 11. júlí?",
+      "svor": [
+        "Anna S. Þorvaldsdóttir",
+        "Björk Guðmundsdóttir",
+        "Hildur Guðnadóttir",
+        "Jórunn Viðar"
+      ],
+      "rett": 0,
+      "skyring": "Anna S. Þorvaldsdóttir fæddist 11. júlí 1977."
+    }
+  ],
+  "tonlistUSA": "Baby Got Back – Sir Mix-a-Lot (1992)",
+  "tonlistUK": "Ghost Town – The Specials (1981)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "grúsk",
+    "skyring": "Grúsk er ítarleg og oft langvinn leit að fróðleik í heimildum, gjarnan af mikilli ástríðu."
+  },
+  "vissir_thu": "To Kill a Mockingbird hlaut Pulitzer-verðlaunin fyrir skáldverk árið 1961, ári eftir að bókin kom út.",
+  "stjornuspa": "Krabbi, gömul áætlun sem þú hefur geymt í skelinni gæti loksins fengið byr undir báða vængi. Farðu þó ekki fullan Zheng He með málið — stundum dugar lítill bátur og gott nesti.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ZhengHeShips.gif/330px-ZhengHeShips.gif",
+    "ar": "1405",
+    "texti": "Floti undir stjórn kínverska sæfarans Zheng He lagði upp í fyrstu fjársjóðsferð Ming-ættarinnar um Suður-Kínahaf og Indlandshaf. Þetta var enginn sunnudagsróður, heldur upphaf stórbrotinnar siglingasögu.",
+    "heimild": "https://en.wikipedia.org/wiki/Ming_treasure_voyages",
+    "breidd": 330,
+    "haed": 372
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

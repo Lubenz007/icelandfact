@@ -1,0 +1,138 @@
+{
+  "mmdd": "07-13",
+  "dagur": 13,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:34",
+  "sunset": "23:30",
+  "kvedja": "Góðan og gleðilegan 13. júlí! Í dag ríðum við frá miðaldabardaga yfir á fyrsta heimsmeistaramótið í knattspyrnu og endum við segulböndin í Hvíta húsinu — saga dagsins kann greinilega ekki að sitja kyrr.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1260",
+      "texti": "Samógítar sigruðu riddara Þýsku riddarareglunnar og Livóníureglunnar í orrustunni við Durbe. Þetta var þungt högg fyrir krossfarana í Eystrasaltslöndum."
+    },
+    {
+      "ar": "1586",
+      "texti": "Ensk skip frá Levant-félaginu hrundu árás spænskra og maltneskra galeiða í orrustunni við Pantelleria. Kaupskipin reyndust sem sagt ekki alveg tannlaus."
+    },
+    {
+      "ar": "1863",
+      "texti": "Fjögurra daga óeirðir hófust í New York vegna herkvaddarlaga bandaríska borgarastríðsins. Óánægjan varð fljótt að mannskæðum átökum og mikilli eyðileggingu."
+    },
+    {
+      "ar": "1930",
+      "texti": "Fyrsta heimsmeistaramótið í knattspyrnu var sett í Úrúgvæ. Þar hófst sú heimsveisla fótboltans sem síðar fékk milljarða manna til að ræða rangstöðu af mikilli alvöru."
+    },
+    {
+      "ar": "1973",
+      "texti": "Alexander Butterfield upplýsti rannsóknarnefnd öldungadeildar Bandaríkjaþings um leynilegt upptökukerfi í forsetaskrifstofunni. Segulböndin urðu síðan lykilatriði í Watergate-hneykslinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1985",
+      "texti": "Alþingi samþykkti ný útvarpslög sem heimiluðu einkarekstur útvarps- og sjónvarpsstöðva. Lögin tóku gildi 1. janúar árið eftir og breyttu íslensku fjölmiðlalandslagi verulega.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Lamine Yamal",
+      "starfsgrein": "spænskur knattspyrnumaður",
+      "ar": "2007"
+    },
+    {
+      "nafn": "Bob Crane",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Alberto Ascari",
+      "starfsgrein": "ítalskur kappakstursökumaður",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Anker Jørgensen",
+      "starfsgrein": "danskur verkalýðsleiðtogi og forsætisráðherra",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Charlotte Dujardin",
+      "starfsgrein": "ensk hestaíþróttakona",
+      "ar": "1985"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Sigurðsson",
+      "starfsgrein": "íslenskur textasmiður",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Ólafur Túbals",
+      "starfsgrein": "íslenskur myndlistarmaður",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Jón Hróbjartsson",
+      "starfsgrein": "íslenskur myndlistarmaður",
+      "ar": "1877"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Í hvaða landi hófst fyrsta heimsmeistaramótið í knattspyrnu árið 1930?",
+      "svor": [
+        "Brasilíu",
+        "Úrúgvæ",
+        "Argentínu",
+        "Ítalíu"
+      ],
+      "rett": 1,
+      "skyring": "Úrúgvæ bauð heiminn velkominn á fyrsta heimsmeistaramótið — áður en fótboltabúningar urðu að hátækniiðnaði."
+    },
+    {
+      "spurning": "Hver upplýsti um leynilegt upptökukerfi í forsetaskrifstofunni árið 1973?",
+      "svor": [
+        "Alexander Butterfield",
+        "Anker Jørgensen",
+        "Alberto Ascari",
+        "Bob Crane"
+      ],
+      "rett": 0,
+      "skyring": "Alexander Butterfield sagði frá kerfinu og Watergate-málið fékk þar með sína frægustu segulbandsspólu."
+    },
+    {
+      "spurning": "Hvað heimiluðu íslensku útvarpslögin sem samþykkt voru árið 1985?",
+      "svor": [
+        "Aðeins næturútvarp",
+        "Rekstur erlendra dagblaða",
+        "Einkarekstur útvarps- og sjónvarpsstöðva",
+        "Ókeypis sjónvörp á hvert heimili"
+      ],
+      "rett": 2,
+      "skyring": "Lögin opnuðu fyrir einkareknar útvarps- og sjónvarpsstöðvar og öldur ljósvakans urðu öllu fjölbreyttari."
+    }
+  ],
+  "tonlistUSA": "A View to a Kill – Duran Duran (1985)",
+  "tonlistUK": "Frankie – Sister Sledge (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist fallegt þegar horft er út um glugga en reynist ónotalegt þegar út er komið."
+  },
+  "vissir_thu": "Lamine Yamal fæddist 13. júlí 2007 og á því afmæli sama dag og fyrsta heimsmeistaramótið í knattspyrnu hófst árið 1930.",
+  "stjornuspa": "Krabbi, dagurinn hvetur þig til að geyma góðu minningarnar en eyða þeim vandræðalegu — ólíkt Hvíta húsinu árið 1973. Taktu eitt djarft skref áfram, jafnvel þótt þú farir síðan tvö varfærin krabbaskref til hliðar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/LivoniaKnight.jpg/330px-LivoniaKnight.jpg",
+    "ar": "1260",
+    "texti": "Samógítar sigruðu riddara Þýsku riddarareglunnar og Livóníureglunnar í orrustunni við Durbe. Þetta var þungt högg fyrir krossfarana í Eystrasaltslöndum.",
+    "heimild": "https://en.wikipedia.org/wiki/Livonian_Crusade",
+    "breidd": 330,
+    "haed": 384
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

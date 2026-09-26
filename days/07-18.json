@@ -1,0 +1,148 @@
+{
+  "mmdd": "07-18",
+  "dagur": 18,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:49",
+  "sunset": "23:16",
+  "kvedja": "Góðan 18. júlí, kæri lesandi! Dagurinn býður upp á Bach í Leipzig, sögulegt fimleikastökk og íslenska mótmælalest sem hefði varla komist óséð í gegnum hlaðið. Spennið því beltin – sagan kann bæði að syngja, sveiflast og flauta í umferðinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1290",
+      "texti": "Játvarður 1. Englandskonungur gaf út tilskipun um að allir gyðingar skyldu reknir frá Englandi. Þetta var einn dekksti kaflinn í sögu gyðinga þar í landi."
+    },
+    {
+      "ar": "1723",
+      "texti": "Johann Sebastian Bach stjórnaði frumflutningi kantötunnar „Erforsche mich, Gott, und erfahre mein Herz“ í Leipzig. Bach var sjaldnast með rólegan sunnudag."
+    },
+    {
+      "ar": "1863",
+      "texti": "Í bandarísku borgarastyrjöldinni leiddi Robert Gould Shaw 54. herdeild Massachusetts, eina af fyrstu herdeildum svartra hermanna í sambandshernum, í árás á Fort Wagner í Suður-Karólínu."
+    },
+    {
+      "ar": "1936",
+      "texti": "Þjóðernissinnaðir uppreisnarmenn reyndu valdarán gegn öðru spænska lýðveldinu. Tilraunin varð upphaf spænsku borgarastyrjaldarinnar."
+    },
+    {
+      "ar": "1976",
+      "texti": "Á Ólympíuleikunum í Montreal varð Nadia Comăneci fyrst fimleikafólks til að fá fullkomna einkunn, 10, fyrir æfingar sínar á tvíslá. Einkunnataflan var reyndar aðeins hönnuð fyrir 9,99 – fullkomnunin kom tölvunum í opna skjöldu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1918",
+      "texti": "Samningar Íslands og Danmerkur um frumvarp að sambandslögum ríkjanna voru undirritaðir. Þar var stigið stórt skref í átt að fullveldi Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1931",
+      "texti": "Bygging verkamannabústaða við Hringbraut, Bræðraborgarstíg og Ásvallagötu í Reykjavík hófst.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1963",
+      "texti": "Gasverksmiðjan Ísaga við Hlemmtorg brann og miklar sprengingar skemmdu hús í nágrenninu. Þetta var enginn venjulegur ys og þys við Hlemm.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1970",
+      "texti": "Í Laxárdeilunni óku Þingeyingar í 200 bíla lest til Akureyrar til að mótmæla virkjanaáformum. Þar fór mótmælaganga á fjórum hjólum – og mörgum dekkjum.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bam Adebayo",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Ben Askren",
+      "starfsgrein": "bardagaíþróttamaður og hnefaleikamaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Alan Pardew",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Andrei Gromyko",
+      "starfsgrein": "sovéskur stjórnmálamaður og erindreki",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Aaron Beck",
+      "starfsgrein": "geðlæknir og fræðimaður",
+      "ar": "1921"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eggert Þorleifsson",
+      "starfsgrein": "leikari",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Oddur Björnsson",
+      "starfsgrein": "prentari og útgefandi",
+      "ar": "1865"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fimleikakona fékk fyrst allra fullkomna tíu á Ólympíuleikum?",
+      "svor": [
+        "Nadia Comăneci",
+        "Simone Biles",
+        "Olga Korbut",
+        "Věra Čáslavská"
+      ],
+      "rett": 0,
+      "skyring": "Nadia Comăneci náði þessum sögulega áfanga í Montreal árið 1976."
+    },
+    {
+      "spurning": "Hvaða tónskáld stjórnaði frumflutningi kantötu í Leipzig þennan dag árið 1723?",
+      "svor": [
+        "Georg Friedrich Händel",
+        "Antonio Vivaldi",
+        "Johann Sebastian Bach",
+        "Joseph Haydn"
+      ],
+      "rett": 2,
+      "skyring": "Johann Sebastian Bach hélt um tónsprotann – enda hafði hann lag á slíku."
+    },
+    {
+      "spurning": "Hversu margir bílar voru í mótmælalest Þingeyinga til Akureyrar árið 1970?",
+      "svor": [
+        "50",
+        "100",
+        "200",
+        "500"
+      ],
+      "rett": 2,
+      "skyring": "Bílarnir voru 200, svo þetta hefur verið býsna tilkomumikil lest án einnar einustu járnbrautarteinar."
+    }
+  ],
+  "tonlistUSA": "Alone – Heart (1987)",
+  "tonlistUK": "Ghost Town – The Specials (1981)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða hálfbirta, þegar dagur og nótt virðast semja um vaktaskiptin."
+  },
+  "vissir_thu": "Þegar Nadia Comăneci fékk fyrstu fullkomnu tíuna í ólympískum fimleikum sýndi stigataflan 1,00, því hún gat ekki birt einkunnina 10,00.",
+  "stjornuspa": "Krabbi, í dag skaltu treysta skelinni en ekki fela þig í henni; jafnvel Bach þurfti að mæta á sviðið. Gömul hugmynd gæti fengið fullkomna tíu ef þú hættir að stilla henni upp eins og postulínsstyttu og leyfir henni að sveiflast aðeins.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Edward_I_-_Westminster_Abbey_Sedilia.jpg/500px-Edward_I_-_Westminster_Abbey_Sedilia.jpg",
+    "ar": "1290",
+    "texti": "Játvarður 1. Englandskonungur gaf út tilskipun um að allir gyðingar skyldu reknir frá Englandi. Þetta var einn dekksti kaflinn í sögu gyðinga þar í landi.",
+    "heimild": "https://en.wikipedia.org/wiki/Edward_I",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "07-12",
+  "dagur": 12,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:31",
+  "sunset": "23:33",
+  "kvedja": "Góðan og gleðilegan 12. júlí! Í dag förum við úr friðargerð Æthelstans konungs yfir í fyrsta tónleikakvöld Rolling Stones og endum á heimsmeistaratitli Frakka — ansi drjúg dagskrá fyrir einn sumardag. Spennið því tímabeltin og munið að sagan safnar sjaldnast mosa.",
+  "nafnadagur": "Júlíus",
+  "atburdir": [
+    {
+      "ar": "927",
+      "texti": "Æthelstan Englandskonungur tryggði sér undirgefni fjögurra valdamanna í norðri, meðal annars Konstantíns 2. Skotakonungs. Samkomulagið leiddi til sjö ára friðar, sem var dágóður árangur á tímum þegar kórónur komu sjaldan með hvíldarstillingu."
+    },
+    {
+      "ar": "1561",
+      "texti": "Vasilíjdómkirkjan við Rauða torgið í Moskvu var vígð. Turnar hennar eru svo litríkir og sérkennilegir að byggingin minnir helst á konunglegt sælgætishlaðborð."
+    },
+    {
+      "ar": "1943",
+      "texti": "Þýskar og sovéskar hersveitir áttust við í orrustunni við Prokhorovka í síðari heimsstyrjöld. Hún varð hluti af einni umfangsmestu skriðdrekasennu hernaðarsögunnar."
+    },
+    {
+      "ar": "1962",
+      "texti": "Rolling Stones lék á sínum fyrstu tónleikum, á Marquee-klúbbnum í London. Enginn þar inni gat vitað að þetta kvöld væri upphafið að rokksögu sem virtist síðar ætla að endast lengur en sjálft grjótið."
+    },
+    {
+      "ar": "1998",
+      "texti": "Frakkland vann sinn fyrsta heimsmeistaratitil karla í knattspyrnu með 3–0 sigri á Brasilíu. Heimamenn fögnuðu svo hraustlega að Eiffelturninn hefur líklega nötrað örlítið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1636",
+      "texti": "Þennan dag voru 35 Íslendingar keyptir lausir úr Barbaríinu, níu árum eftir Tyrkjaránið svonefnda.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1809",
+      "texti": "Þorskafáninn var dreginn að húni í Hafnarstræti og hylltur með fallbyssuskotum á byltingardögum Jörundar hundadagakonungs. Þorskurinn hefur sjaldan fengið jafn konunglegar móttökur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anna Friel",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Amedeo Modigliani",
+      "starfsgrein": "ítalskur listmálari og myndhöggvari",
+      "ar": "1884"
+    },
+    {
+      "nafn": "Andrew Wyeth",
+      "starfsgrein": "bandarískur myndlistarmaður",
+      "ar": "1917"
+    },
+    {
+      "nafn": "Ben Burtt",
+      "starfsgrein": "bandarískur leikstjóri og hljóðhönnuður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Antonio Cassano",
+      "starfsgrein": "ítalskur knattspyrnumaður",
+      "ar": "1982"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Páll Zóphoníasson",
+      "starfsgrein": "fyrrverandi bæjarstjóri í Vestmannaeyjum",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Oddur Hjaltalín",
+      "starfsgrein": "læknir",
+      "ar": "1782"
+    },
+    {
+      "nafn": "Benedikt Þorsteinsson",
+      "starfsgrein": "lögmaður",
+      "ar": "1688"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljómsveit steig fyrst á svið á Marquee-klúbbnum 12. júlí 1962?",
+      "svor": [
+        "The Beatles",
+        "The Who",
+        "Rolling Stones",
+        "Led Zeppelin"
+      ],
+      "rett": 2,
+      "skyring": "Rolling Stones hóf tónleikaferil sinn þar þetta kvöld árið 1962."
+    },
+    {
+      "spurning": "Hvaða landslið vann Brasilíu 3–0 í úrslitaleik heimsmeistaramótsins 1998?",
+      "svor": [
+        "Frakkland",
+        "Ítalía",
+        "Þýskaland",
+        "Argentína"
+      ],
+      "rett": 0,
+      "skyring": "Frakkar unnu sinn fyrsta heimsmeistaratitil á heimavelli."
+    },
+    {
+      "spurning": "Hvaða íslenska tákn var hyllt með fallbyssuskotum í Hafnarstræti árið 1809?",
+      "svor": [
+        "Fálkinn",
+        "Hrúturinn",
+        "Þorskurinn",
+        "Hrafninn"
+      ],
+      "rett": 2,
+      "skyring": "Þorskafáninn var dreginn að húni — líklega háværasta stund þorsksins í Íslandssögunni."
+    }
+  ],
+  "tonlistUSA": "In the Year 2525 – Zager and Evans (1969)",
+  "tonlistUK": "Mr. Tambourine Man – The Byrds (1965)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "húni",
+    "skyring": "Húnn er efsti hluti masturs eða fánastangar, og að draga fána að húni merkir að hífa hann alveg upp."
+  },
+  "vissir_thu": "Æthelstan er almennt talinn fyrsti konungurinn sem ríkti yfir öllu Englandi.",
+  "stjornuspa": "Krabbi, gömul minning bankar upp á í dag, en hún vill sennilega bara fá kaffibolla og stutta yfirferð. Haltu fast í innsæið, en slepptu klónum af smáatriðum sem skipta minna máli en þú heldur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Athelstan_%28cropped%29.jpg/500px-Athelstan_%28cropped%29.jpg",
+    "ar": "927",
+    "texti": "Æthelstan Englandskonungur tryggði sér undirgefni fjögurra valdamanna í norðri, meðal annars Konstantíns 2. Skotakonungs. Samkomulagið leiddi til sjö ára friðar, sem var dágóður árangur á tímum þegar kórónur komu sjaldan með hvíldarstillingu.",
+    "heimild": "https://en.wikipedia.org/wiki/Æthelstan",
+    "breidd": 330,
+    "haed": 462
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

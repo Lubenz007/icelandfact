@@ -1,0 +1,153 @@
+{
+  "mmdd": "06-29",
+  "dagur": 29,
+  "manudur": "júní",
+  "manudurNr": 6,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:01",
+  "sunset": "23:59",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 29. júní! Dagurinn býður upp á Shakespeare-leikhús í ljósum logum, forsetakjör á Íslandi og dramatík langt úti í geimi — sagan kann greinilega ekki að hafa hægt um sig.",
+  "nafnadagur": "Pétur",
+  "atburdir": [
+    {
+      "ar": "1613",
+      "texti": "Globe-leikhúsið í London brann til kaldra kola þegar fallbyssa, notuð sem sviðsbrella í sýningu á Hinriki 8., kveikti í þakinu. Sérlega óheppileg leið til að fá standandi ovation."
+    },
+    {
+      "ar": "1776",
+      "texti": "Orrustan við Turtle Gut Inlet var háð nærri Cape May í New Jersey og varð fyrsta sjóorrusta einkavopnaðra skipa í bandaríska frelsisstríðinu."
+    },
+    {
+      "ar": "1864",
+      "texti": "Farþegalest fór niður um opna snúningsbrú og í Richelieu-fljót nærri Mont-Saint-Hilaire í Québec. Allt að 99 létust og um 100 særðust í versta járnbrautarslysi í sögu Kanada."
+    },
+    {
+      "ar": "1971",
+      "texti": "Geimfarið Soyuz 11 missti stjórnlaust loft við undirbúning endurkomu til jarðar og geimfararnir Vladislav Volkov, Georgy Dobrovolsky og Viktor Patsayev létust. Þeir eru einu mennirnir sem vitað er að hafi látist úti í geimnum sjálfum."
+    },
+    {
+      "ar": "2020",
+      "texti": "Reddit bannaði stuðningssamfélagið r/The_Donald vegna reglubrota og fjandsamlegrar framkomu gagnvart fyrirtækinu. Stafræna dyravörðurinn sagði einfaldlega: hingað og ekki lengra."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1912",
+      "texti": "Nýja bíó í Reykjavík hóf kvikmyndasýningar á Hótel Íslandi og hreyfimyndirnar fengu nýtt heimili í höfuðstaðnum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Flutningaskipinu Heklu var sökkt á leið frá Íslandi til Bandaríkjanna, talið af þýskum kafbáti. Fjórtán fórust en sex björguðust eftir tíu sólarhringa hrakninga á fleka.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1952",
+      "texti": "Ásgeir Ásgeirsson var kjörinn forseti Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1980",
+      "texti": "Vigdís Finnbogadóttir var kjörin forseti Íslands og varð fyrst kvenna í heiminum til að verða þjóðkjörinn þjóðhöfðingi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Addison Timlin",
+      "starfsgrein": "leikkona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Antoine de Saint-Exupéry",
+      "starfsgrein": "rithöfundur og flugmaður",
+      "ar": "1900"
+    },
+    {
+      "nafn": "Amanda Donohoe",
+      "starfsgrein": "leikkona",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Bernard Herrmann",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1911"
+    },
+    {
+      "nafn": "Anne-Sophie Mutter",
+      "starfsgrein": "fiðluleikari",
+      "ar": "1963"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Embla Ýr Bárudóttir",
+      "starfsgrein": "myndasöguhöfundur",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Stefanía Guðmundsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1876"
+    },
+    {
+      "nafn": "Stefán Baldvin Stefánsson",
+      "starfsgrein": "hreppstjóri og alþingismaður",
+      "ar": "1863"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað varð Globe-leikhúsinu að falli árið 1613?",
+      "svor": [
+        "Fallbyssa sem notuð var sem sviðsbrella",
+        "Elding í miðri sýningu",
+        "Kerti í búningsklefa",
+        "Óánægður leikdómari með kyndil"
+      ],
+      "rett": 0,
+      "skyring": "Fallbyssuskot á sýningu Hinriks 8. kveikti í þakinu og lokaþátturinn varð heldur heitari en ætlað var."
+    },
+    {
+      "spurning": "Hvaða sögulega afrek vann Vigdís Finnbogadóttir árið 1980?",
+      "svor": [
+        "Hún varð fyrsti íslenski ráðherrann",
+        "Hún varð fyrsti þjóðkjörni kvenþjóðhöfðingi heims",
+        "Hún varð fyrsti kvenkyns borgarstjóri Reykjavíkur",
+        "Hún varð fyrsti íslenski framkvæmdastjóri Sameinuðu þjóðanna"
+      ],
+      "rett": 1,
+      "skyring": "Vigdís var fyrst kvenna í heiminum til að verða þjóðkjörinn þjóðhöfðingi."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins skrifaði Litla prinsinn?",
+      "svor": [
+        "Bernard Herrmann",
+        "Antoine de Saint-Exupéry",
+        "Brian d'Arcy James",
+        "Alan Blumlein"
+      ],
+      "rett": 1,
+      "skyring": "Flugmaðurinn og rithöfundurinn Antoine de Saint-Exupéry gaf heiminum Litla prinsinn."
+    }
+  ],
+  "tonlistUSA": "Heaven – Bryan Adams (1985)",
+  "tonlistUK": "You'll Never Walk Alone – The Crowd (1985)",
+  "bio": "Jurassic Park (1993)",
+  "ord_dagsins": {
+    "ord": "dagstjarna",
+    "skyring": "Dagstjarna er skáldlegt heiti yfir sólina."
+  },
+  "vissir_thu": "Áhöfn Soyuz 11 er eina fólkið sem vitað er að hafi látist í geimnum sjálfum, en slysið varð ofan við viðurkennd mörk geimsins.",
+  "stjornuspa": "Krabbi, gömul minning bankar upp á og biður um kaffibolla; hleyptu henni inn, en láttu hana ekki endurraða stofunni. Haltu fast í innsæið og lauslega í budduna — retro-glingur kann að kalla á þig.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Wenceslaus-Hollar-The-second-Globe-playhouse-detail.png/500px-Wenceslaus-Hollar-The-second-Globe-playhouse-detail.png",
+    "ar": "1613",
+    "texti": "Globe-leikhúsið í London brann til kaldra kola þegar fallbyssa, notuð sem sviðsbrella í sýningu á Hinriki 8., kveikti í þakinu. Sérlega óheppileg leið til að fá standandi ovation.",
+    "heimild": "https://en.wikipedia.org/wiki/Globe_Theatre",
+    "breidd": 330,
+    "haed": 216
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

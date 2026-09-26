@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-01",
+  "dagur": 1,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:05",
+  "sunset": "23:56",
+  "kvedja": "Góðan 1. júlí! Í dag göngum við á Snæfellsjökul með Eggerti og Bjarna, stingum Walkman í vasann og fylgjumst með Alþingi vakna til nýs lífs — þó helst ekki allt samtímis. Sagan er nefnilega löng gönguferð, en sem betur fer má hafa tónlist með.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1782",
+      "texti": "Fimm bandarísk kaparaskip réðust á bresku byggðina Lunenburg í Nova Scotia í bandaríska frelsisstríðinu. Þetta var sjórán með pólitískt erindi og töluvert meira púður en pappírsvinna."
+    },
+    {
+      "ar": "1841",
+      "texti": "Thomas Lempriere og James Clark Ross hjuggu merki í sandstein á Isle of the Dead við Tasmaníu. Merkið er einn elsti mælipunktur sem nýttur hefur verið til að rannsaka hækkun sjávarborðs."
+    },
+    {
+      "ar": "1916",
+      "texti": "Fyrsti dagur orrustunnar við Albert, upphafsþáttar Somme-orrustunnar, varð blóðugasti dagur í sögu breska hersins. Mannfallið nam 57.470, þar af létust 19.240."
+    },
+    {
+      "ar": "1960",
+      "texti": "Gana varð lýðveldi og Kwame Nkrumah tók við sem fyrsti forseti landsins. Þar með hófst nýr kafli í sögu ríkis sem hafði aðeins fáum árum áður fengið sjálfstæði."
+    },
+    {
+      "ar": "1979",
+      "texti": "Sony kynnti Walkman, vasavænt tónlistartæki sem gerði fólki kleift að taka eigin lagaval með sér. Skyndilega fékk hversdagslífið einkahljóðrás — og flækt heyrnartólasnúra varð alþjóðlegt vandamál."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1754",
+      "texti": "Eggert Ólafsson og Bjarni Pálsson gengu á Snæfellsjökul, fyrstir manna svo vitað sé. Þetta var afrek á tímum þegar hvorki voru til GPS-tæki né hlýleg fjallaskáli með kakói.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1845",
+      "texti": "Fyrsti fundur endurreists Alþingis var haldinn í sal hins nýja húss Lærða skólans í Reykjavík. Alþingi var þar með aftur komið til starfa eftir langt hlé.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1886",
+      "texti": "Landsbanki Íslands, fyrsti banki landsins, hóf starfsemi við Bakarastíg í Reykjavík og var fyrst aðeins opinn tvo daga í viku. Gatan fékk fljótlega nafnið Bankastræti, enda kann fjármálastarfsemi að setja mark sitt á kortið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1926",
+      "texti": "Landhelgisgæsla Íslands var stofnuð. Síðan hefur hún gætt hafsvæðisins við landið, bjargað fólki og sinnt verkefnum þar sem sjólagið spyr sjaldnast hvort menn séu tilbúnir.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andre Braugher",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Alejandro Garnacho",
+      "starfsgrein": "spænsk-argentínskur knattspyrnumaður",
+      "ar": "2004"
+    },
+    {
+      "nafn": "Alan Ruck",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Kristján 2. Danakonungur",
+      "starfsgrein": "konungur Danmerkur",
+      "ar": "1481"
+    },
+    {
+      "nafn": "Amy Johnson",
+      "starfsgrein": "ensk flugkona",
+      "ar": "1903"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Leifsson",
+      "starfsgrein": "athafnamaður",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Jóhann Hinrik Níelsson",
+      "starfsgrein": "lögfræðingur",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Atli Sigurjónsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1991"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tæki kynnti Sony árið 1979 og breytti gönguferðum í einkatónleika?",
+      "svor": [
+        "Walkman",
+        "Discman",
+        "iPod",
+        "Gramófón"
+      ],
+      "rett": 0,
+      "skyring": "Walkman kom tónlistinni í vasann, ásamt óhjákvæmilegri heyrnartólasnúru."
+    },
+    {
+      "spurning": "Hverjir gengu á Snæfellsjökul árið 1754, fyrstir manna svo vitað sé?",
+      "svor": [
+        "Jón Sigurðsson og Pétur Pétursson",
+        "Eggert Ólafsson og Bjarni Pálsson",
+        "Eiríkur af Pommern og Píningur",
+        "Vilhjálmur Einarsson og Ragnar í Smára"
+      ],
+      "rett": 1,
+      "skyring": "Eggert og Bjarni lögðu á jökulinn löngu áður en útivistarföt fengu rennilása í öllum hugsanlegum litum."
+    },
+    {
+      "spurning": "Hvaða ríki varð lýðveldi 1. júlí 1960?",
+      "svor": [
+        "Gana",
+        "Sómalía",
+        "Belgía",
+        "Kanada"
+      ],
+      "rett": 0,
+      "skyring": "Gana varð lýðveldi og Kwame Nkrumah fyrsti forseti þess."
+    }
+  ],
+  "tonlistUSA": "Ring My Bell – Anita Ward (1979)",
+  "tonlistUK": "Are ‘Friends’ Electric? – Tubeway Army (1979)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "árdegi",
+    "skyring": "Árdegi er fyrri hluti dagsins, frá morgni fram að hádegi."
+  },
+  "vissir_thu": "Landsbanki Íslands var aðeins opinn tvo daga í viku þegar hann hóf starfsemi árið 1886 — nútíma netbankar hefðu þótt hreinn galdraskapur.",
+  "stjornuspa": "Krabbi, í dag skaltu treysta innsæinu, en ekki svo blint að þú gangir á Snæfellsjökul án nesti. Gamalt lag vekur góða minningu; dustaðu rykið af ímyndaða Walkman-tækinu og leyfðu fortíðinni að sveiflast með.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1782",
+    "texti": "Fimm bandarísk kaparaskip réðust á bresku byggðina Lunenburg í Nova Scotia í bandaríska frelsisstríðinu. Þetta var sjórán með pólitískt erindi og töluvert meira púður en pappírsvinna.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

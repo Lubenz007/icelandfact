@@ -1,0 +1,153 @@
+{
+  "mmdd": "07-04",
+  "dagur": 4,
+  "manudur": "júlí",
+  "manudurNr": 7,
+  "stjornumerki": "Krabbi",
+  "sunrise": "03:11",
+  "sunset": "23:51",
+  "kvedja": "Góðan 4. júlí, kæri lesandi! Í dag berast okkur fréttir úr þokukenndri geimöld, kanínuholum við Thames og pólitískum sviptingum í Bretlandi — sagan kann sannarlega að halda mörgum boltum á lofti í einu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1054",
+      "texti": "Kínverskir stjörnufræðingar skráðu skyndilega „gestastjörnu“ á himni. Þar var á ferð sprengistjarna sem myndaði Krabbaþokuna — einkar viðeigandi himinfyrirbæri á degi Krabbans."
+    },
+    {
+      "ar": "1776",
+      "texti": "Meginlandsþingið í Fíladelfíu samþykkti sjálfstæðisyfirlýsingu Bandaríkjanna og lýsti því yfir að nýlendurnar þrettán væru ekki lengur hluti af Breska heimsveldinu."
+    },
+    {
+      "ar": "1862",
+      "texti": "Í bátsferð á Thames sagði Lewis Carroll Alice Liddell og systrum hennar sögu sem varð síðar grunnurinn að bókinni Ævintýrum Lísu í Undralandi. Ekki slæm uppskera úr einni róðrarferð."
+    },
+    {
+      "ar": "1951",
+      "texti": "William Shockley tilkynnti uppfinningu tengitransistorsins. Hann, John Bardeen og Walter Houser Brattain hlutu síðar Nóbelsverðlaunin í eðlisfræði fyrir rannsóknir sínar á hálfleiðurum og transistoráhrifum."
+    },
+    {
+      "ar": "2024",
+      "texti": "Keir Starmer leiddi Verkamannaflokkinn til stórsigurs í bresku þingkosningunum og batt þar með enda á fjórtán ára stjórn Íhaldsflokksins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1627",
+      "texti": "Tyrkjaránið hófst á Austfjörðum þegar sjóræningjar frá Barbaríinu rændu og rupluðu í Berufirði og víðar og hnepptu 110 manns í ánauð.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1685",
+      "texti": "Halldór Finnbogason var brenndur á báli á Þingvöllum, sakaður um að hafa snúið Faðirvorinu upp á andskotann. Þetta varð síðasta galdrabrennan á Íslandi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1957",
+      "texti": "Hulda Jakobsdóttir varð fyrst kvenna til að gegna embætti bæjarstjóra á Íslandi og braut þar býsna þykkt glerþak.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2004",
+      "texti": "Þungarokksveitin Metallica lék í Egilshöll fyrir um 18.000 manns. Þar hefur sjálfsagt mátt mæla bæði desíbel og hálsríg.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Calvin Coolidge",
+      "starfsgrein": "lögmaður og 30. forseti Bandaríkjanna",
+      "ar": "1872"
+    },
+    {
+      "nafn": "Alfredo Di Stéfano",
+      "starfsgrein": "argentínsk-spænskur knattspyrnumaður og þjálfari",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Alan Wilson",
+      "starfsgrein": "bandarískur söngvari, lagahöfundur og gítarleikari",
+      "ar": "1943"
+    },
+    {
+      "nafn": "George Everest",
+      "starfsgrein": "velskur landfræðingur og landmælingamaður",
+      "ar": "1790"
+    },
+    {
+      "nafn": "Angelique Boyer",
+      "starfsgrein": "frönsk-mexíkósk leikkona",
+      "ar": "1988"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eiríkur Hauksson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Sveinbjörn Beinteinsson",
+      "starfsgrein": "skáld og allsherjargoði",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Sigurlaug Bjarnadóttir frá Vigur",
+      "starfsgrein": "alþingismaður og menntaskólakennari",
+      "ar": "1926"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfyrirbæri skráðu kínverskir stjörnufræðingar árið 1054?",
+      "svor": [
+        "Sprengistjörnuna sem myndaði Krabbaþokuna",
+        "Halastjörnuna Halley",
+        "Sólmyrkva yfir Peking",
+        "Fyrsta tungl Júpíters"
+      ],
+      "rett": 0,
+      "skyring": "„Gestastjarnan“ reyndist vera sprengistjarnan sem skildi Krabbaþokuna eftir sig."
+    },
+    {
+      "spurning": "Hvaða sígilda barnabók á rætur að rekja til bátsferðar á Thames 4. júlí 1862?",
+      "svor": [
+        "Pétur Pan",
+        "Ævintýri Lísu í Undralandi",
+        "Vindurinn í pílviðunum",
+        "Gulliver í Putalandi"
+      ],
+      "rett": 1,
+      "skyring": "Lewis Carroll sagði Alice Liddell söguna sem óx síðar upp í Ævintýri Lísu í Undralandi."
+    },
+    {
+      "spurning": "Hvaða hljómsveit fyllti Egilshöll af þungarokki árið 2004?",
+      "svor": [
+        "Iron Maiden",
+        "Black Sabbath",
+        "Metallica",
+        "Deep Purple"
+      ],
+      "rett": 2,
+      "skyring": "Metallica lék fyrir um 18.000 manns í Egilshöll — engin þörf á að hækka í heyrnartækjunum þann daginn."
+    }
+  ],
+  "tonlistUSA": "I Wanna Dance with Somebody (Who Loves Me) – Whitney Houston (1987)",
+  "tonlistUK": "Star Trekkin' – The Firm (1987)",
+  "bio": "Independence Day (1996)",
+  "ord_dagsins": {
+    "ord": "gestastjarna",
+    "skyring": "Gamalt heiti stjörnufræðinga á tímabundnu ljósfyrirbæri á himni, svo sem sprengistjörnu."
+  },
+  "vissir_thu": "Everestfjall ber enskt heiti sitt eftir landmælingamanninum George Everest, sem fæddist 4. júlí 1790.",
+  "stjornuspa": "Krabbi, gömul minning bankar upp á í dag, líklega með kökuform og óklárað erindi. Bjóddu henni inn, en láttu hana ekki endurraða öllum húsgögnunum í huganum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dunhuang_star_map.jpg/500px-Dunhuang_star_map.jpg",
+    "ar": "1054",
+    "texti": "Kínverskir stjörnufræðingar skráðu skyndilega „gestastjörnu“ á himni. Þar var á ferð sprengistjarna sem myndaði Krabbaþokuna — einkar viðeigandi himinfyrirbæri á degi Krabbans.",
+    "heimild": "https://en.wikipedia.org/wiki/Chinese_astronomy",
+    "breidd": 330,
+    "haed": 331
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
