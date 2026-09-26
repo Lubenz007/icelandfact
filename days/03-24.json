@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-24",
+  "dagur": 24,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:15",
+  "sunset": "19:54",
+  "kvedja": "Góðan 24. mars! Í dag sameinast konungsríki, björgunarlína svífur yfir brim og Robert Koch bendir á örsmáan sökudólg sem hafði lengi leikið mannkynið grátt. Sagan er sem sagt bæði stór og smásæ — og aldrei alveg laus við dramatík.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1603",
+      "texti": "Jakob 6. Skotakonungur tók við krúnum Englands og Írlands sem Jakob 1. Ríkin fengu þar með sama konung, þótt þau yrðu ekki samstundis eitt ríki."
+    },
+    {
+      "ar": "1882",
+      "texti": "Þýski læknirinn Robert Koch tilkynnti að hann hefði fundið Mycobacterium tuberculosis, bakteríuna sem veldur berklum. Þar var loks kominn fingur á einn skæðasta sökudólg læknisfræðisögunnar."
+    },
+    {
+      "ar": "1921",
+      "texti": "Fyrsta alþjóðlega íþróttamót kvenna, Kvennaólympíuleikarnir, hófst í Monte Carlo. Konurnar þurftu greinilega að opna eigin dyr inn á völlinn — og gerðu það með myndarbrag."
+    },
+    {
+      "ar": "1980",
+      "texti": "Óscar Romero erkibiskup var myrtur við messugjörð í San Salvador, degi eftir að hann hafði hvatt hermenn til að hætta kúgun stjórnvalda. Morðið varð eitt sterkasta tákn ofbeldis og óréttlætis í El Salvador."
+    },
+    {
+      "ar": "2002",
+      "texti": "Halle Berry varð fyrsta afroameríska konan til að vinna Óskarsverðlaunin sem besta leikkona, fyrir hlutverk Leticiu Musgrove í Monster's Ball. Verðlaunaræðan varð sjálf að eftirminnilegu augnabliki kvikmyndasögunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1548",
+      "texti": "Gissur Einarsson, biskup í Skálholti og fyrsti lútherski biskup Íslands, lést.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1931",
+      "texti": "Fluglínutæki voru notuð í fyrsta sinn við björgun á Íslandi þegar Slysavarnadeildin Þorbjörn bjargaði 38 manna áhöfn franska togarans Cap Fagnet, sem hafði strandað við Hraun austan Grindavíkur.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1959",
+      "texti": "Settar voru reglugerðir um stefnuljós bifreiða og umferðarmerki á Íslandi. Blikkandi ljós fengu þannig skýrara hlutverk í þjóðlífinu — þótt notkun þeirra hafi æ síðan verið misáreiðanleg.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Kjarvalsstaðir á Miklatúni í Reykjavík voru formlega opnaðir með stórri sýningu á verkum Jóhannesar S. Kjarvals.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Sugar",
+      "starfsgrein": "kaupsýslumaður",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Andrew W. Mellon",
+      "starfsgrein": "bankamaður, fjármálamaður og stjórnmálamaður",
+      "ar": "1855"
+    },
+    {
+      "nafn": "Amir Arison",
+      "starfsgrein": "leikari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Agnes Macphail",
+      "starfsgrein": "kennari og stjórnmálakona",
+      "ar": "1890"
+    },
+    {
+      "nafn": "Edmond Becquerel",
+      "starfsgrein": "eðlisfræðingur",
+      "ar": "1820"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gísli Ásmundsson",
+      "starfsgrein": "þýðandi",
+      "ar": "1906"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bakteríu greindi Robert Koch frá árið 1882?",
+      "svor": [
+        "Mycobacterium tuberculosis",
+        "Escherichia coli",
+        "Vibrio cholerae",
+        "Salmonella enterica"
+      ],
+      "rett": 0,
+      "skyring": "Koch hafði uppi á Mycobacterium tuberculosis, bakteríunni sem veldur berklum."
+    },
+    {
+      "spurning": "Hversu mörgum var bjargað af franska togaranum Cap Fagnet árið 1931?",
+      "svor": [
+        "18",
+        "26",
+        "38",
+        "52"
+      ],
+      "rett": 2,
+      "skyring": "Öllum 38 skipverjunum var bjargað með fluglínutækjum við Hraun austan Grindavíkur."
+    },
+    {
+      "spurning": "Hvaða leikkona braut blað í Óskarssögunni árið 2002?",
+      "svor": [
+        "Angela Bassett",
+        "Halle Berry",
+        "Viola Davis",
+        "Whoopi Goldberg"
+      ],
+      "rett": 1,
+      "skyring": "Halle Berry varð fyrst afroamerískra kvenna til að vinna verðlaunin sem besta leikkona."
+    }
+  ],
+  "tonlistUSA": "Bridge Over Troubled Water – Simon & Garfunkel (1970)",
+  "tonlistUK": "Cinderella Rockefella – Esther & Abi Ofarim (1968)",
+  "bio": "Guðfaðirinn (1972)",
+  "ord_dagsins": {
+    "ord": "fluglínutæki",
+    "skyring": "Björgunarbúnaður sem skýtur eða flytur línu milli lands og skips svo koma megi fólki í öruggt skjól."
+  },
+  "vissir_thu": "Alþjóðlegi berkladagurinn er haldinn 24. mars vegna þess að þann dag árið 1882 tilkynnti Robert Koch uppgötvun berklabakteríunnar.",
+  "stjornuspa": "Hrúturinn ætti að hafa frumkvæðið í dag, en þarf ekki að sameina þrjú konungsríki fyrir hádegi. Dustaðu rykið af gömlu hugmyndinni þinni; hún gæti reynst traustari en hún lítur út fyrir að vera.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/JamesIEngland_%28cropped_2%29.jpg/500px-JamesIEngland_%28cropped_2%29.jpg",
+    "ar": "1603",
+    "texti": "Jakob 6. Skotakonungur tók við krúnum Englands og Írlands sem Jakob 1. Ríkin fengu þar með sama konung, þótt þau yrðu ekki samstundis eitt ríki.",
+    "heimild": "https://en.wikipedia.org/wiki/James_VI_and_I",
+    "breidd": 330,
+    "haed": 406
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

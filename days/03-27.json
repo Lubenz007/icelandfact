@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-27",
+  "dagur": 27,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:04",
+  "sunset": "20:03",
+  "kvedja": "Góðan 27. mars! Í dag sveiflast sagan frá blóðugum átökum í Texas til pólskrar samstöðu og japansks kastala sem reis úr viðgerðarpakkanum eins og nýgreiddur hegraungi. Taktu daginn með hæfilegri alvöru og örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1836",
+      "texti": "Að minnsta kosti 425 texaskir stríðsfangar voru teknir af lífi í Goliad-fjöldamorðunum samkvæmt skipun Antonio López de Santa Anna, forseta Mexíkó."
+    },
+    {
+      "ar": "1958",
+      "texti": "Nikita Krústsjov, aðalritari Kommúnistaflokks Sovétríkjanna, tók einnig við embætti forsætisráðherra og safnaði þar með enn fleiri valdataumum í sínar hendur."
+    },
+    {
+      "ar": "1981",
+      "texti": "Samstöðuhreyfingin í Póllandi efndi til fjögurra klukkustunda viðvörunarverkfalls. Að minnsta kosti tólf milljónir lögðu niður störf og varð þetta stærsta verkfall í sögu austurblokkarinnar."
+    },
+    {
+      "ar": "1998",
+      "texti": "Bandaríska matvæla- og lyfjaeftirlitið samþykkti sildenafil, betur þekkt sem Viagra, sem fyrsta samþykkta lyfið þar í landi við ristruflunum. Litla bláa taflan hóf þar með stóran kafla í lyfjasögunni."
+    },
+    {
+      "ar": "2015",
+      "texti": "Himeji-kastali, stærsti og fjölsóttasti kastali Japans, var opnaður á ný eftir fimm ára viðgerðir. Gamla virkið fékk þannig langþráðan vorskrúbb."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1764",
+      "texti": "Eldur lagði hluta Innréttinga Skúla fógeta í rúst. Þrjár vefstofur, tíu vefstólar, hráefni og fullunninn varningur brunnu og tjónið var metið á 3706 ríkisdali og sex skildinga.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1943",
+      "texti": "Breski togarinn War Grey var staðinn að ólöglegum veiðum við Stafnes og sigldi af stað með stýrimann varðskipsins Sæbjargar um borð. Hann stöðvaði ekki fyrr en varðskipið Ægir hafði skotið að honum þrjátíu skotum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1963",
+      "texti": "Um sjö stiga jarðskjálfti átti upptök norður af mynni Skagafjarðar. Hans varð vart víða og sumir brugðu á það ráð að flýja hús sín.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2023",
+      "texti": "Snjóflóð féllu í Neskaupsstað, skemmdu tólf íbúðir og tugi bíla. Fólk hlaut skurði af völdum rúðubrota.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anne Ramsey",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Andrew Farriss",
+      "starfsgrein": "ástralskur rokktónlistarmaður",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Edward Steichen",
+      "starfsgrein": "lúxemborgsk-bandarískur ljósmyndari og listmálari",
+      "ar": "1879"
+    },
+    {
+      "nafn": "Ben Webster",
+      "starfsgrein": "bandarískur djasssaxófónleikari",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Annemarie Moser-Pröll",
+      "starfsgrein": "austurrísk skíðakona",
+      "ar": "1952"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Styrmir Gunnarsson",
+      "starfsgrein": "ritstjóri",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Júlíana Jónsdóttir",
+      "starfsgrein": "skáldkona",
+      "ar": "1838"
+    },
+    {
+      "nafn": "Þórarinn Guðmundsson",
+      "starfsgrein": "fiðluleikari og tónskáld",
+      "ar": "1896"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hve lengi stóð viðvörunarverkfall Samstöðuhreyfingarinnar í Póllandi árið 1981?",
+      "svor": [
+        "Fjórar klukkustundir",
+        "Tólf klukkustundir",
+        "Tveir dagar",
+        "Ein vika"
+      ],
+      "rett": 0,
+      "skyring": "Milljónir Pólverja lögðu niður störf í fjórar klukkustundir og létu sannarlega til sín taka."
+    },
+    {
+      "spurning": "Hvaða frægi japanski kastali var opnaður aftur árið 2015 eftir fimm ára viðgerðir?",
+      "svor": [
+        "Osaka-kastali",
+        "Himeji-kastali",
+        "Matsumoto-kastali",
+        "Nagoya-kastali"
+      ],
+      "rett": 1,
+      "skyring": "Himeji-kastali sneri aftur í sviðsljósið eftir fimm ára yfirhalningu."
+    },
+    {
+      "spurning": "Hvar féll snjóflóð sem skemmdi tólf íbúðir 27. mars 2023?",
+      "svor": [
+        "Í Reykjavík",
+        "Á Ísafirði",
+        "Í Neskaupsstað",
+        "Á Akureyri"
+      ],
+      "rett": 2,
+      "skyring": "Flóðið féll í Neskaupsstað og olli töluverðu eignatjóni."
+    }
+  ],
+  "tonlistUSA": "Bridge over Troubled Water – Simon & Garfunkel (1970)",
+  "tonlistUK": "Back Home – England World Cup Squad (1970)",
+  "bio": "Pretty Woman (1990)",
+  "ord_dagsins": {
+    "ord": "skæni",
+    "skyring": "Skæni er þunn himna eða húð sem myndast á yfirborði vökva eða efnis."
+  },
+  "vissir_thu": "Í pólska viðvörunarverkfallinu 1981 lögðu að minnsta kosti tólf milljónir manna niður störf í aðeins fjórar klukkustundir.",
+  "stjornuspa": "Hrúturinn finnur í dag gamalt verkefni sem hefur beðið jafn þolinmótt og kastali í viðgerð. Rykfallinn metnaður vaknar, en mundu að ekki þarf að ráðast á hvert smáverk eins og það sé virki.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Flag_of_the_Republic_of_Texas_%281836%E2%80%931839%29.svg/500px-Flag_of_the_Republic_of_Texas_%281836%E2%80%931839%29.svg.png",
+    "ar": "1836",
+    "texti": "Að minnsta kosti 425 texaskir stríðsfangar voru teknir af lífi í Goliad-fjöldamorðunum samkvæmt skipun Antonio López de Santa Anna, forseta Mexíkó.",
+    "heimild": "https://en.wikipedia.org/wiki/Republic_of_Texas",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

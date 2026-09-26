@@ -1,0 +1,143 @@
+{
+  "mmdd": "04-03",
+  "dagur": 3,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:39",
+  "sunset": "20:23",
+  "kvedja": "Góðan 3. apríl, kæri lesandi! Í dag fljúgum við yfir Everest, skjótumst á braut um tunglið og endum með iPad í fanginu — sagan kann sannarlega að pakka ólíklegustu hlutum í sama nestisboxið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1043",
+      "texti": "Játvarður góði, sem oft er talinn síðasti konungur Wessex-ættarinnar, var krýndur konungur Englands. Krúnan sat þó ekki lengi kyrr í enskri sögu eftir hans dag."
+    },
+    {
+      "ar": "1721",
+      "texti": "Robert Walpole tók við lykilembættum bresku ríkisstjórnarinnar og varð þar með fyrsti eiginlegi forsætisráðherra Bretlands, þótt starfsheitið væri enn að slípast til."
+    },
+    {
+      "ar": "1860",
+      "texti": "Pony Express hóf starfsemi og flutti póst hraðleiðis yfir Bandaríkin á hestbaki. Þjónustan varð skammlíf en goðsögnin stökk mun lengra en nokkur pósthestur."
+    },
+    {
+      "ar": "1966",
+      "texti": "Sovéska geimfarið Luna 10 fór á braut um tunglið og varð fyrsta geimkönnunarfarið til að ganga á braut um annað himintungl en jörðina eða sólina."
+    },
+    {
+      "ar": "2010",
+      "texti": "Apple setti fyrstu kynslóð iPad á markað. Þar með fékk sófinn nýjan félaga og fingurgómurinn nýtt hlutverk í tölvusögunni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1882",
+      "texti": "Landshöfðingi tilkynnti að komið yrði á fót geymslu fyrir skjalasöfn æðstu embætta, sem varð grunnurinn að Þjóðskjalasafni Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1920",
+      "texti": "Millilandaskipið Ísland var sett í sóttkví við komuna til Reykjavíkur vegna inflúensu um borð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1969",
+      "texti": "Nemendur Menntaskólans í Reykjavík héldu tveggja sólarhringa hungurvöku til að vekja athygli á hungri í heiminum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1974",
+      "texti": "Alþingi lýsti Surtsey friðland og tryggði þannig þessari ungu eldfjallaeyju sérstaka vernd.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Scott",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Alec Baldwin",
+      "starfsgrein": "bandarískur leikari og grínisti",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Amanda Bynes",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Ben Mendelsohn",
+      "starfsgrein": "ástralskur leikari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Anne Lister",
+      "starfsgrein": "enskur dagbókarhöfundur, fjallgöngukona og ferðalangur",
+      "ar": "1791"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón hlaupari",
+      "starfsgrein": "íslenskur frjálsíþróttamaður",
+      "ar": "1926"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hraðvirka póstþjónusta hóf starfsemi árið 1860?",
+      "svor": [
+        "Pony Express",
+        "Royal Mail",
+        "Orient Express",
+        "Luna-pósturinn"
+      ],
+      "rett": 0,
+      "skyring": "Pony Express flutti póst á hestbaki og varð að villta vesturs goðsögn á mettíma."
+    },
+    {
+      "spurning": "Hvaða íslenska eyja var lýst friðland árið 1974?",
+      "svor": [
+        "Grímsey",
+        "Viðey",
+        "Surtsey",
+        "Flatey"
+      ],
+      "rett": 2,
+      "skyring": "Alþingi lýsti Surtsey friðland, enda ekki á hverjum degi sem þjóð eignast splunkunýja eyju."
+    },
+    {
+      "spurning": "Hvað gerði Luna 10 fyrst geimfara árið 1966?",
+      "svor": [
+        "Lenti á Mars",
+        "Fór á braut um tunglið",
+        "Flutti mann út í geim",
+        "Tók fyrstu myndina af jörðinni"
+      ],
+      "rett": 1,
+      "skyring": "Luna 10 varð fyrsta geimkönnunarfarið til að fara á braut um annað himintungl en jörðina eða sólina."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Is This the Way to Amarillo – Tony Christie featuring Peter Kay (2005)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "dægurþras",
+    "skyring": "Dægurþras er hversdagslegt karp eða þrætur um málefni líðandi stundar."
+  },
+  "vissir_thu": "Pony Express starfaði aðeins í um átján mánuði, en varð engu að síður eitt þekktasta tákn bandaríska villta vestursins.",
+  "stjornuspa": "Hrúturinn finnur í dag leið fram úr öllu með sama sjálfstrausti og póstknapi á harðastökki. Mundu bara að ekki þarf hvert erindi að verða að geimferð — stundum nægir að svara tölvupóstinum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Bayeux_Tapestry_scene1_EDWARD_REX.jpg/500px-Bayeux_Tapestry_scene1_EDWARD_REX.jpg",
+    "ar": "1043",
+    "texti": "Játvarður góði, sem oft er talinn síðasti konungur Wessex-ættarinnar, var krýndur konungur Englands. Krúnan sat þó ekki lengi kyrr í enskri sögu eftir hans dag.",
+    "heimild": "https://en.wikipedia.org/wiki/Edward_the_Confessor",
+    "breidd": 330,
+    "haed": 362
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

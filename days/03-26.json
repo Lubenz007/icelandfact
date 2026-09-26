@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-26",
+  "dagur": 26,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:08",
+  "sunset": "20:00",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. mars hittum við fyrir bóluefni, faðmlög utan um tré og kjördæmi svo undarlega löguð að þau eignuðust nýtt orð. Sagan kann greinilega bæði að bjarga heiminum og teikna hann með skjálfandi hendi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1484",
+      "texti": "William Caxton prentaði fyrstu ensku þýðinguna á dæmisögum Esóps. Þar með fengu enskumælandi refir, ljón og skjaldbökur loksins að miðla lífsspeki sinni á prenti."
+    },
+    {
+      "ar": "1812",
+      "texti": "Boston Gazette birti skopmynd sem gaf af sér orðið „gerrymander“, kennt við Elbridge Gerry ríkisstjóra og furðulega löguð kjördæmi. Pólitísk landafræði hafði sjaldan líkst jafn mikið illa heppnaðri pönnuköku."
+    },
+    {
+      "ar": "1953",
+      "texti": "Jonas Salk tilkynnti að bóluefni hans gegn mænusótt hefði verið prófað með góðum árangri á litlum hópi fullorðinna og barna. Þetta var mikilvægt skref í baráttunni gegn einum óttalegasta sjúkdómi 20. aldar."
+    },
+    {
+      "ar": "1974",
+      "texti": "Bændakonur í Chamoli-héraði á Indlandi umkringdu tré til að hindra skógarhögg og lögðu þannig grunn að Chipko-hreyfingunni. Stundum er faðmlag ekki aðeins hlýlegt heldur líka pólitískt."
+    },
+    {
+      "ar": "2024",
+      "texti": "Francis Scott Key-brúin í Baltimore hrundi eftir að gámaskipið MV Dali rakst á burðarsúlu hennar. Sex manns létust í slysinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1687",
+      "texti": "Ólafsvík varð löggilt verslunarhöfn með konungsbréfi og fékk þar með formlegan sess í íslenskri verslunarsögu.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1876",
+      "texti": "Lúðurþeytarafélag Reykjavíkur var stofnað og er talið fyrsta hljómsveit Íslands. Höfuðborgin hefur væntanlega ekki verið söm eftir fyrsta lúðurblásturinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1920",
+      "texti": "Varðskipið Þór kom til Vestmannaeyja, fyrsta björgunar- og varðskip Íslendinga.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1947",
+      "texti": "Knattspyrnusamband Íslands var stofnað. Þar með fékk íslenski fótboltinn formlegt sameiningarafl, löngu áður en þjóðin lærði að syngja „Húh!“ í einum kór.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Arkin",
+      "starfsgrein": "leikari",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Amy Smart",
+      "starfsgrein": "leikkona og fyrrverandi fyrirsæta",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Alan Silvestri",
+      "starfsgrein": "kvikmyndatónskáld og hljómsveitarstjóri",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Bob Woodward",
+      "starfsgrein": "blaðamaður og rithöfundur",
+      "ar": "1943"
+    },
+    {
+      "nafn": "A. E. Housman",
+      "starfsgrein": "skáld og fræðimaður",
+      "ar": "1859"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Erlingur E. Halldórsson",
+      "starfsgrein": "þýðandi",
+      "ar": "1930"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða læknir tilkynnti 26. mars 1953 um árangursríka prófun bóluefnis gegn mænusótt?",
+      "svor": [
+        "Jonas Salk",
+        "Alexander Fleming",
+        "Louis Pasteur",
+        "Robert Koch"
+      ],
+      "rett": 0,
+      "skyring": "Jonas Salk þróaði bóluefnið sem varð stórt framfaraskref í baráttunni gegn mænusótt."
+    },
+    {
+      "spurning": "Hvaða íslenska félag, stofnað 1876, er talið fyrsta hljómsveit landsins?",
+      "svor": [
+        "Sinfóníuhljómsveit Íslands",
+        "Lúðurþeytarafélag Reykjavíkur",
+        "Karlakór Reykjavíkur",
+        "Hljómsveit Þórshafnar"
+      ],
+      "rett": 1,
+      "skyring": "Lúðurþeytarafélag Reykjavíkur hóf íslenska hljómsveitarævintýrið með viðeigandi blæstri."
+    },
+    {
+      "spurning": "Hvaða tónskáld dagsins samdi meðal annars fjölda þekktra kvikmyndatónverka?",
+      "svor": [
+        "Bob Woodward",
+        "Alan Arkin",
+        "Alan Silvestri",
+        "A. E. Housman"
+      ],
+      "rett": 2,
+      "skyring": "Alan Silvestri er afmælisbarn dagsins og einn kunnasti kvikmyndatónhöfundur Bandaríkjanna."
+    }
+  ],
+  "tonlistUSA": "Another Brick in the Wall, Part 2 – Pink Floyd (1980)",
+  "tonlistUK": "Going Underground – The Jam (1980)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem lítur vel út innan frá en reynist kalt, blautt eða leiðinlegt þegar út er komið."
+  },
+  "vissir_thu": "Orðið „gerrymander“ varð til úr eftirnafni Elbridge Gerry og skopmynd af sérkennilega löguðu kjördæmi sem þótti minna á salamöndru.",
+  "stjornuspa": "Hrúturinn finnur gamlan neista í dag og vill helst stofna félag, bjarga skógi eða endurteikna kjördæmi fyrir hádegi. Teldu þó upp að tíu áður en þú blæst í lúðurinn—ekki eru allir nágrannar jafn sögulega sinnaðir.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Caxton-Margaret-of-York-Histoires_de_Troie.jpg/500px-Caxton-Margaret-of-York-Histoires_de_Troie.jpg",
+    "ar": "1484",
+    "texti": "William Caxton prentaði fyrstu ensku þýðinguna á dæmisögum Esóps. Þar með fengu enskumælandi refir, ljón og skjaldbökur loksins að miðla lífsspeki sinni á prenti.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Caxton",
+    "breidd": 330,
+    "haed": 499
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

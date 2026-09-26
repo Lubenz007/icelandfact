@@ -1,0 +1,148 @@
+{
+  "mmdd": "04-09",
+  "dagur": 9,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:18",
+  "sunset": "20:41",
+  "kvedja": "Góðan 9. apríl, kæri lesandi! Í dag fljúgum við frá miðaldabardaga yfir í jómfrúarflug Boeing 737, með viðkomu við Geysi og örlitlu ABBA-glimmeri — sagan ferðast nefnilega sjaldan á almenningsfarrými.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1388",
+      "texti": "Þótt þeir væru miklu færri sigruðu hermenn gamla svissneska sambandsins austurrískan her í orrustunni við Näfels. Svisslendingar sýndu þar að höfðatalan segir ekki alltaf alla söguna."
+    },
+    {
+      "ar": "1860",
+      "texti": "Édouard-Léon Scott de Martinville söng „Au clair de la lune“ inn á hljóðrita sinn og varð upptakan elsta þekkta varðveisla heyranlegrar mannsraddar. Rödd úr fortíðinni hafði loksins fengið geymslupláss."
+    },
+    {
+      "ar": "1939",
+      "texti": "Marian Anderson hélt útitónleika á tröppum Lincoln-minnisvarðans í Washington eftir að henni hafði verið meinað að koma fram í Constitution Hall vegna kynþáttafordóma. Tugþúsundir hlýddu á og tónleikarnir urðu öflugt tákn í baráttunni fyrir borgararéttindum."
+    },
+    {
+      "ar": "1959",
+      "texti": "NASA kynnti Mercury Seven, fyrstu sjö geimfarana í Mercury-áætluninni. Geimkapphlaupið var þar með komið með sitt fyrsta stjörnulið."
+    },
+    {
+      "ar": "1967",
+      "texti": "Boeing 737 fór í sitt fyrsta flug. Vélin átti síðar eftir að verða mest framleidda farþegaþota heims og kunnugleg sjón á flugvöllum víða um jarðkringluna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1894",
+      "texti": "Skotinn James Craig keypti Geysi af bændum í Haukadal fyrir 3000 krónur. Jarðhitinn sjálfur fylgdi með í kaupunum, enda erfitt að setja goshver í flutningabíl.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1911",
+      "texti": "Þingeyrakirkja var vígð. Hin reisulega steinkirkja varð eitt þekktasta kennileiti héraðsins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1942",
+      "texti": "Tveir Íslendingar og 22 Norðmenn fórust með norska skipinu Fanefeld á leið þess frá Bíldudal til Ísafjarðar.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "2011",
+      "texti": "Í þjóðaratkvæðagreiðslu höfnuðu Íslendingar Icesave-samkomulagi ríkisstjórnarinnar við Breta og Hollendinga; 59,7% greiddu atkvæði gegn því en 40,1% með.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charles Baudelaire",
+      "starfsgrein": "franskt ljóðskáld og gagnrýnandi",
+      "ar": "1821"
+    },
+    {
+      "nafn": "Albert Hammond Jr.",
+      "starfsgrein": "bandarískur tónlistarmaður og gítarleikari",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Bianca Belair",
+      "starfsgrein": "bandarísk atvinnuglímukona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Charles Proteus Steinmetz",
+      "starfsgrein": "pólsk-bandarískur stærðfræðingur og verkfræðingur",
+      "ar": "1865"
+    },
+    {
+      "nafn": "Antal Doráti",
+      "starfsgrein": "ungversk-bandarískur hljómsveitarstjóri og tónskáld",
+      "ar": "1906"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ólöf Sigurðardóttir frá Hlöðum",
+      "starfsgrein": "rithöfundur og ljósmóðir",
+      "ar": "1857"
+    },
+    {
+      "nafn": "Þorleifur Skaftason",
+      "starfsgrein": "prestur",
+      "ar": "1683"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða flugvél fór í sitt fyrsta flug 9. apríl 1967?",
+      "svor": [
+        "Boeing 737",
+        "Concorde",
+        "Boeing 747",
+        "Airbus A300"
+      ],
+      "rett": 0,
+      "skyring": "Boeing 737 hóf sig til flugs árið 1967 og varð síðar sannkölluð vinnudrottning háloftanna."
+    },
+    {
+      "spurning": "Hvað keypti James Craig af bændum í Haukadal árið 1894?",
+      "svor": [
+        "Þingeyrakirkju",
+        "Geysi",
+        "Heklu",
+        "Bíldudal"
+      ],
+      "rett": 1,
+      "skyring": "Craig keypti Geysi fyrir 3000 krónur, en goshverinn lét þó ekki segja sér fyrir verkum."
+    },
+    {
+      "spurning": "Hvað hét hópur fyrstu geimfara Mercury-áætlunar NASA?",
+      "svor": [
+        "Apollo Eleven",
+        "Gemini Five",
+        "Mercury Seven",
+        "Saturn Nine"
+      ],
+      "rett": 2,
+      "skyring": "Mercury Seven voru fyrstu sjö geimfararnir sem NASA valdi fyrir Mercury-áætlunina."
+    }
+  ],
+  "tonlistUSA": "Dancing Queen – ABBA (1977)",
+  "tonlistUK": "Knowing Me, Knowing You – ABBA (1977)",
+  "bio": "Fjölskyldugáta (1976)",
+  "ord_dagsins": {
+    "ord": "hljóðriti",
+    "skyring": "Hljóðriti er tæki sem skráir eða varðveitir hljóð."
+  },
+  "vissir_thu": "Upptaka Scott de Martinville frá 1860 var ekki gerð til afspilunar heldur til að sýna hljóðbylgjur á pappír; fyrst löngu síðar tókst að umbreyta henni aftur í heyranlegt hljóð.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir hugrekki Mercury-geimfara og hyggst skjóta öllum verkefnum á loft fyrir hádegi. Mundu þó að jafnvel Boeing 737 þurfti flugbraut — fáðu þér kaffi áður en þú tekur á sprett.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Swiss_Confederacy_%281714%29.svg/330px-Swiss_Confederacy_%281714%29.svg.png",
+    "ar": "1388",
+    "texti": "Þótt þeir væru miklu færri sigruðu hermenn gamla svissneska sambandsins austurrískan her í orrustunni við Näfels. Svisslendingar sýndu þar að höfðatalan segir ekki alltaf alla söguna.",
+    "heimild": "https://en.wikipedia.org/wiki/Old_Swiss_Confederacy",
+    "breidd": 330,
+    "haed": 334
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

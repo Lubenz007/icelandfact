@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-05",
+  "dagur": 5,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:32",
+  "sunset": "20:29",
+  "kvedja": "Góðan 5. apríl, kæri lesandi! Í dag göngum við yfir fyrstu almenningsgarðana, hengibrýr og höfundarréttarlög, en látum Churchill sjá um að hægja ferðina áður en Hrúturinn tekur aftur á rás.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1614",
+      "texti": "Pocahontas giftist enska landnemanum John Rolfe í Virginíu. Hjónabandið stuðlaði að friðartímabili milli Powhatan-fólksins og íbúa Jamestown."
+    },
+    {
+      "ar": "1710",
+      "texti": "Anne-lögin hlutu konunglegt samþykki í Bretlandi og tóku gildi fimm dögum síðar. Þau voru fyrsta breska löggjöfin sem fól stjórnvöldum og dómstólum að setja höfundarrétti formlegar skorður."
+    },
+    {
+      "ar": "1847",
+      "texti": "Birkenhead Park var opnaður á Englandi og er almennt talinn fyrsti almenningsgarður heims sem var fjármagnaður af opinberu fé. Þar með varð sunnudagsröltið að opinberu verkefni."
+    },
+    {
+      "ar": "1955",
+      "texti": "Winston Churchill lét af embætti forsætisráðherra Bretlands, enda fann hann að aldurinn hafði hægt á honum bæði líkamlega og andlega. Hann var þá áttræður og hafði sannarlega skilað sinni vakt."
+    },
+    {
+      "ar": "1998",
+      "texti": "Akashi Kaikyō-brúin milli Awaji-eyju og Kobe í Japan var opnuð fyrir umferð. Hún var þá lengsta hengibrú heims og verkfræðilegt upphrópunarmerki yfir sundið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1940",
+      "texti": "Alþingi samþykkti að hægri umferð yrði tekin upp á Íslandi 1. janúar 1941. Hernám Breta, sem óku vinstra megin, setti þó strik í reikninginn og áformin voru lögð til hliðar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1948",
+      "texti": "Lög voru sett um vísindalega verndun fiskimiða landgrunnsins. Þau urðu síðar mikilvæg undirstaða útfærslu íslensku fiskveiðilögsögunnar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1986",
+      "texti": "Flugvél á leið frá Ísafirði til Reykjavíkur fórst í Ljósufjöllum á Snæfellsnesi. Fimm manns létust en tveir lifðu slysið af.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "2016",
+      "texti": "Sigmundur Davíð Gunnlaugsson sagði af sér embætti forsætisráðherra Íslands í kjölfar uppljóstrana um aflandsfélag hans og eiginkonu hans.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bette Davis",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Agnetha Fältskog",
+      "starfsgrein": "sænsk söngkona og lagahöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Akira Toriyama",
+      "starfsgrein": "japanskur teiknari",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Anthony Horowitz",
+      "starfsgrein": "enskur rithöfundur og handritshöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Albert R. Broccoli",
+      "starfsgrein": "bandarískur kvikmyndaframleiðandi",
+      "ar": "1909"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Árni Thorsteinson",
+      "starfsgrein": "landfógeti og alþingismaður",
+      "ar": "1828"
+    },
+    {
+      "nafn": "Hallgrímur Sveinsson",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1841"
+    },
+    {
+      "nafn": "Gunnar Gíslason",
+      "starfsgrein": "prestur",
+      "ar": "1914"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mannvirki var opnað fyrir umferð 5. apríl 1998?",
+      "svor": [
+        "Akashi Kaikyō-brúin",
+        "Ermarsundsgöngin",
+        "Golden Gate-brúin",
+        "Panamaskurðurinn"
+      ],
+      "rett": 0,
+      "skyring": "Akashi Kaikyō-brúin var þá lengsta hengibrú heims."
+    },
+    {
+      "spurning": "Hvaða söngkona úr ABBA á afmæli í dag?",
+      "svor": [
+        "Bette Davis",
+        "Agnetha Fältskog",
+        "Andrea Arnold",
+        "Adrienne Lecouvreur"
+      ],
+      "rett": 1,
+      "skyring": "Agnetha Fältskog fæddist 5. apríl 1950 og söng sig rækilega inn í poppsöguna."
+    },
+    {
+      "spurning": "Hvaða íslenska lagasetning frá 1948 varð undirstaða útfærslu fiskveiðilögsögunnar?",
+      "svor": [
+        "Lög um hægri umferð",
+        "Lög um kosningarétt",
+        "Lög um vísindalega verndun fiskimiða landgrunnsins",
+        "Lög um stofnun þjóðgarða"
+      ],
+      "rett": 2,
+      "skyring": "Lögin um verndun fiskimiða landgrunnsins lögðu grunn að stórum skrefum í íslenskri hafréttarsögu."
+    }
+  ],
+  "tonlistUSA": "Lovin’ You – Minnie Riperton (1975)",
+  "tonlistUK": "Bye Bye Baby – Bay City Rollers (1975)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "árroði",
+    "skyring": "Árroði er rauðleitur bjarminn sem sést á himni í dögun."
+  },
+  "vissir_thu": "Anne-lögin frá 1710 eru talin fyrsta höfundarréttarlöggjöf Bretlands þar sem höfundarréttur var formlega settur undir stjórn laga og dómstóla.",
+  "stjornuspa": "Hrúturinn ætti að taka Churchill sér til fyrirmyndar og hægja örlítið á sér áður en hann ryðst yfir næstu hengibrú. Gamalt verkefni gæti vaknað til lífsins, líklega úr möppu sem hefur safnað ryki síðan kassettutækið þótti hátækni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Pocahontas_by_Simon_van_de_Passe_%281616%29.png/500px-Pocahontas_by_Simon_van_de_Passe_%281616%29.png",
+    "ar": "1614",
+    "texti": "Pocahontas giftist enska landnemanum John Rolfe í Virginíu. Hjónabandið stuðlaði að friðartímabili milli Powhatan-fólksins og íbúa Jamestown.",
+    "heimild": "https://en.wikipedia.org/wiki/Pocahontas",
+    "breidd": 330,
+    "haed": 480
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

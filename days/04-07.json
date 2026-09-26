@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-07",
+  "dagur": 7,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:25",
+  "sunset": "20:35",
+  "kvedja": "Góðan 7. apríl! Í dag förum við frá páfakjöri og pólferðum alla leið út á sporbraut Mars, með viðkomu í íslensku aftakaveðri sögunnar. Spennið tímabeltin — sagan kann að vera bæði stórbrotin og dálítið óútreiknanleg.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1655",
+      "texti": "Eftir hvorki meira né minna en áttatíu daga páfakjör kusu kardínálar Fabio Chigi, sem tók sér nafnið Alexander 7. Þolinmæði hefur greinilega lengi verið ein af höfuðdyggðum Vatíkansins."
+    },
+    {
+      "ar": "1896",
+      "texti": "Norðurpólsleiðangur Fridtjofs Nansen náði 86°13,6′ norðlægrar breiddar og komst nær pólnum en nokkur fyrri leiðangur. Þar var fátt um kennileiti en nóg af kulda."
+    },
+    {
+      "ar": "1948",
+      "texti": "Sameinuðu þjóðirnar stofnuðu Alþjóðaheilbrigðismálastofnunina, WHO, til að samræma alþjóðlegt samstarf um lýðheilsu."
+    },
+    {
+      "ar": "2001",
+      "texti": "NASA skaut geimfarinu 2001 Mars Odyssey á loft frá Canaveralhöfða. Það varð síðar langlífasta geimfarið í samfelldri virkni á braut um aðra reikistjörnu en jörðina."
+    },
+    {
+      "ar": "2017",
+      "texti": "Maður ók vöruflutningabíl viljandi inn í mannfjölda á Drottninggatan í Stokkhólmi. Fimm létust í árásinni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1549",
+      "texti": "Marteinn Einarsson var vígður biskup í Skálholti.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1906",
+      "texti": "Þrjú skip frá Reykjavík, Ingvar, Emilie og Sophie Wheatly, fórust í aftakaveðri á Faxaflóa. Alls voru 44 menn á Ingvari og Emilie, auk áhafnar Sophie Wheatly.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1943",
+      "texti": "Laugarnesspítali í Reykjavík brann til kaldra kola. Húsið hafði upphaflega verið holdsveikraspítali en var þá í umsjá breska hersins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1968",
+      "texti": "Ný lög um tímareikning tóku gildi klukkan eitt um nótt og síðan hefur allt Ísland miðað klukkuna við miðtíma Greenwich.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Billie Holiday",
+      "starfsgrein": "djasssöngkona og lagahöfundur",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Anne-Marie",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Allen Dulles",
+      "starfsgrein": "lögfræðingur, stjórnarerindreki og forstjóri CIA",
+      "ar": "1893"
+    },
+    {
+      "nafn": "Francis Xavier",
+      "starfsgrein": "trúboði og dýrlingur",
+      "ar": "1506"
+    },
+    {
+      "nafn": "Andrew Sachs",
+      "starfsgrein": "leikari og handritshöfundur",
+      "ar": "1930"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Megas",
+      "starfsgrein": "söngvaskáld",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Andrea Jónsdóttir",
+      "starfsgrein": "útvarpskona",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Einar Bragi Sigurðsson",
+      "starfsgrein": "skáld",
+      "ar": "1921"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfari var skotið á loft 7. apríl 2001?",
+      "svor": [
+        "2001 Mars Odyssey",
+        "Voyager 1",
+        "Cassini",
+        "New Horizons"
+      ],
+      "rett": 0,
+      "skyring": "2001 Mars Odyssey lagði af stað til Mars þennan dag — sannkölluð sunnudagsferð um sólkerfið."
+    },
+    {
+      "spurning": "Hvaða alþjóðastofnun var stofnuð 7. apríl 1948?",
+      "svor": [
+        "Alþjóðavinnumálastofnunin",
+        "Alþjóðaheilbrigðismálastofnunin",
+        "Atlantshafsbandalagið",
+        "Alþjóðagjaldeyrissjóðurinn"
+      ],
+      "rett": 1,
+      "skyring": "Alþjóðaheilbrigðismálastofnunin, WHO, tók til starfa sem samræmingarafl í alþjóðlegum lýðheilsumálum."
+    },
+    {
+      "spurning": "Hvaða íslenska söngvaskáld á afmæli 7. apríl?",
+      "svor": [
+        "Bubbi Morthens",
+        "Megas",
+        "Páll Óskar",
+        "Raggi Bjarna"
+      ],
+      "rett": 1,
+      "skyring": "Megas fæddist árið 1945 og hefur síðan reynst íslenskri tungu einkar frjór ferðafélagi."
+    }
+  ],
+  "tonlistUSA": "Dancing Queen – ABBA (1977)",
+  "tonlistUK": "Hello – Lionel Richie (1984)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og lifir meðal annars í orðunum dægurlag og dægurþras."
+  },
+  "vissir_thu": "Alþjóðaheilbrigðismáladagurinn er haldinn 7. apríl ár hvert vegna þess að Alþjóðaheilbrigðismálastofnunin var stofnuð þann dag árið 1948.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir marsískum meðbyr og gæti viljað skjóta öllum hugmyndum sínum á loft í einu. Veldu þá bestu fyrst — jafnvel geimför þurfa skýra flugáætlun.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Alexander_VII.jpg/500px-Alexander_VII.jpg",
+    "ar": "1655",
+    "texti": "Eftir hvorki meira né minna en áttatíu daga páfakjör kusu kardínálar Fabio Chigi, sem tók sér nafnið Alexander 7. Þolinmæði hefur greinilega lengi verið ein af höfuðdyggðum Vatíkansins.",
+    "heimild": "https://en.wikipedia.org/wiki/1655_conclave",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

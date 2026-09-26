@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-22",
+  "dagur": 22,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:22",
+  "sunset": "19:48",
+  "kvedja": "Góðan 22. mars, kæri lesandi! Í dag sveiflum við okkur frá skattstimplum og maraþoni yfir í Bítlana og langdvöl í geimnum — enda kann sagan sjaldnast að sitja kyrr. Hrúturinn tekur svo við keflinu með vor í nösum og hæfilega mikið glott.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1765",
+      "texti": "Breska þingið samþykkti stimpillögin, sem lögðu skatt á ýmiss konar prentað efni í nýlendunum þrettán í Norður-Ameríku. Nýlendubúar tóku þessari pappírsvinnu afar illa og lögin urðu einn af undanförum bandarísku byltingarinnar."
+    },
+    {
+      "ar": "1896",
+      "texti": "Grikkinn Charilaos Vasilakos vann fyrsta maraþonhlaup nútímans, sem haldið var til undirbúnings fyrstu Ólympíuleikum nútímans. Þar með hófst nýr kafli í sögu hlaupsins sem lætur enn fætur fólks skjálfa við tilhugsunina."
+    },
+    {
+      "ar": "1963",
+      "texti": "Please Please Me, fyrsta breiðskífa Bítlanna, kom út. Fjórmenningarnir frá Liverpool voru þar með komnir á fulla ferð og poppsagan fékk nýjan og býsna háværan gír."
+    },
+    {
+      "ar": "1995",
+      "texti": "Rússneski geimfarinn Valeríj Poljakov sneri aftur frá geimstöðinni Mir eftir 437 daga í geimnum. Dvölin setti met fyrir lengstu samfelldu geimferð eins manns."
+    },
+    {
+      "ar": "2024",
+      "texti": "Að minnsta kosti 145 létust og 551 særðist í skotárás og sprengingu í Crocus City Hall í Krasnogorsk í Rússlandi. Árásin varð ein mannskæðasta hryðjuverkaárás í Rússlandi á síðari árum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1924",
+      "texti": "Þriðja ríkisstjórn Jóns Magnússonar tók við völdum og sat í rúm tvö ár.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1939",
+      "texti": "Oddgeir Kristjánsson stofnaði Lúðrasveit Vestmannaeyja og bætti þar með blæstri við sífelldan undirleik vindsins í Eyjum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1948",
+      "texti": "Atómstöðin eftir Halldór Laxness kom út og seldist upp samdægurs. Íslenskir lesendur voru greinilega fljótari að grípa bókina en bóksalar að fylla hillurnar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1972",
+      "texti": "Geirfugladrangur vestur af Eldey hrundi. Drangurinn hafði verið um tíu metra hár en eftir hrunið gægist hann aðeins úr sjó um fjöru.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andrew Lloyd Webber",
+      "starfsgrein": "tónskáld og leikhúsmaður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Anne Dudek",
+      "starfsgrein": "leikkona",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Angelo Badalamenti",
+      "starfsgrein": "tónskáld og píanóleikari",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Anthony van Dyck",
+      "starfsgrein": "listmálari og grafíklistamaður",
+      "ar": "1599"
+    },
+    {
+      "nafn": "Agnes Martin",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1912"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eyþór Þorláksson",
+      "starfsgrein": "gítarleikari",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Magnús Þórarinsson",
+      "starfsgrein": "tóvinnumaður",
+      "ar": "1847"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljómsveit gaf út sína fyrstu breiðskífu 22. mars 1963?",
+      "svor": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Kinks",
+        "The Who"
+      ],
+      "rett": 0,
+      "skyring": "Please Please Me var fyrsta breiðskífa Bítlanna og Liverpool varð skyndilega miðpunktur poppheimsins."
+    },
+    {
+      "spurning": "Hve lengi hafði Valeríj Poljakov dvalið í geimnum þegar hann sneri heim árið 1995?",
+      "svor": [
+        "187 daga",
+        "286 daga",
+        "365 daga",
+        "437 daga"
+      ],
+      "rett": 3,
+      "skyring": "Poljakov dvaldi 437 daga í geimnum, sem er býsna löng bið eftir fersku lofti og almennilegu baði."
+    },
+    {
+      "spurning": "Hvaða skáldsaga seldist upp á Íslandi sama dag og hún kom út árið 1948?",
+      "svor": [
+        "Sjálfstætt fólk",
+        "Atómstöðin",
+        "Íslandsklukkan",
+        "Salka Valka"
+      ],
+      "rett": 1,
+      "skyring": "Atómstöðin eftir Halldór Laxness rauk úr hillunum samdægurs."
+    }
+  ],
+  "tonlistUSA": "Dizzy – Tommy Roe (1969)",
+  "tonlistUK": "Where Do You Go To (My Lovely) – Peter Sarstedt (1969)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "palladíum",
+    "skyring": "Palladíum er helgur gripur eða tákn sem talið er vernda borg, ríki eða þjóð."
+  },
+  "vissir_thu": "Stærstur hluti Please Please Me var tekinn upp á einum löngum upptökudegi, 11. febrúar 1963.",
+  "stjornuspa": "Hrútur, dagurinn kallar á dirfsku, en ekki ryðjast inn eins og skattheimtumaður með stimpillögin í vasanum. Settu upp sólgleraugun, snúðu kassettunni við og láttu vorið halda að þú hafir allt á hreinu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg/500px-Coat_of_arms_of_Great_Britain_%281714%E2%80%931801%29.svg.png",
+    "ar": "1765",
+    "texti": "Breska þingið samþykkti stimpillögin, sem lögðu skatt á ýmiss konar prentað efni í nýlendunum þrettán í Norður-Ameríku. Nýlendubúar tóku þessari pappírsvinnu afar illa og lögin urðu einn af undanförum bandarísku byltingarinnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Parliament_of_Great_Britain",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-25",
+  "dagur": 25,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:11",
+  "sunset": "19:57",
+  "kvedja": "Góðan og gleðilegan 25. mars! Í dag lítum við til Títans, fyrstu veðurspárinnar um hvirfilbyl og vefsíðu sem kenndi internetinu að vinna saman — svo skulum við halda fast í hattinn og muna að jafnvel sagan þarf stundum að ýta á „breyta“.",
+  "nafnadagur": "María",
+  "atburdir": [
+    {
+      "ar": "1655",
+      "texti": "Hollenski stjörnufræðingurinn Christiaan Huygens uppgötvaði Títan, stærsta tungl Satúrnusar. Þar með eignaðist sólkerfið nýja frægðarpersónu, þótt hún væri dálítið langt frá sviðsljósinu."
+    },
+    {
+      "ar": "1807",
+      "texti": "Lög sem bönnuðu þrælaverslun yfir Atlantshaf innan Breska heimsveldisins hlutu konunglegt samþykki. Þetta var stórt skref í langri og sársaukafullri baráttu gegn þrælahaldi."
+    },
+    {
+      "ar": "1911",
+      "texti": "Eldur í Triangle Shirtwaist-verksmiðjunni í New York kostaði 146 verkamenn lífið. Margir komust ekki út vegna þess að dyr að stigagöngum og útgönguleiðum höfðu verið læstar."
+    },
+    {
+      "ar": "1948",
+      "texti": "Veðurfræðingar á Tinker-flugherstöðinni í Oklahoma gáfu út fyrstu hvirfilbyljaspá heims. Þeir höfðu tekið eftir sömu veðurskilyrðum og fylgt höfðu hvirfilbyl aðeins fimm dögum fyrr."
+    },
+    {
+      "ar": "1995",
+      "texti": "Bandaríski forritarinn Ward Cunningham setti á laggirnar WikiWikiWeb, fyrsta wiki-vefinn. Þar hófst sú ágæta hugmynd að leyfa mörgum að breyta sama textanum — með misjöfnum fjölda kommusetninga."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1838",
+      "texti": "Póstskip kom loks til Íslands eftir miklar hrakningar við Dyrhólaey, rek til Noregs og fjögurra mánaða bið eftir færi til heimferðar. Pósturinn var seinn, en hafði að minnsta kosti afsökun sem dugði.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1956",
+      "texti": "Selfosskirkja var vígð og bættist þar með við eitt helsta kennileiti bæjarins.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1975",
+      "texti": "Vatnsfjörður í Barðastrandarsýslu var friðlýstur, alls um 100 ferkílómetrar lands.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "2008",
+      "texti": "Í aðdraganda íslensku efnahagskreppunnar hækkaði Seðlabanki Íslands stýrivexti í 15 prósent. Það var prósentutala sem fékk jafnvel vasareikna til að svitna.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aretha Franklin",
+      "starfsgrein": "söngkona, lagahöfundur og píanóleikari",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Bonnie Bedelia",
+      "starfsgrein": "leikkona",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Big Sean",
+      "starfsgrein": "rappari, söngvari og lagahöfundur",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Arturo Toscanini",
+      "starfsgrein": "sellóleikari og hljómsveitarstjóri",
+      "ar": "1867"
+    },
+    {
+      "nafn": "A. J. P. Taylor",
+      "starfsgrein": "sagnfræðingur og fræðimaður",
+      "ar": "1906"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Hannesson Finsen",
+      "starfsgrein": "embættismaður",
+      "ar": "1792"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða himintungl uppgötvaði Christiaan Huygens þennan dag árið 1655?",
+      "svor": [
+        "Títan",
+        "Evrópu",
+        "Triton",
+        "Fóbos"
+      ],
+      "rett": 0,
+      "skyring": "Títan er stærsta tungl Satúrnusar og ekkert smáræði í tungladeildinni."
+    },
+    {
+      "spurning": "Hvað hét fyrsti wiki-vefurinn, sem Ward Cunningham stofnaði árið 1995?",
+      "svor": [
+        "WorldWideNotes",
+        "WikiWikiWeb",
+        "OpenPage",
+        "WebPedia"
+      ],
+      "rett": 1,
+      "skyring": "WikiWikiWeb ruddi brautina fyrir samvinnuskrif á vefnum."
+    },
+    {
+      "spurning": "Hvar var kirkja vígð þennan dag árið 1956?",
+      "svor": [
+        "Á Akureyri",
+        "Í Stykkishólmi",
+        "Á Selfossi",
+        "Á Ísafirði"
+      ],
+      "rett": 2,
+      "skyring": "Selfosskirkja var vígð 25. mars 1956."
+    }
+  ],
+  "tonlistUSA": "Take a Bow – Madonna (1995)",
+  "tonlistUK": "Like a Prayer – Madonna (1989)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "eldhugi",
+    "skyring": "Eldhugi er ákafur áhugamaður sem helgar sig ákveðnu málefni af miklum krafti."
+  },
+  "vissir_thu": "Títan er stærsta tungl Satúrnusar og hefur þykkan lofthjúp, ólíkt flestum öðrum tunglum sólkerfisins.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir frumkvöðlaanda og gæti jafnvel viljað stofna sitt eigið wiki áður en kaffið kólnar. Teldu þó upp að þremur áður en þú hleypur af stað — sagan sýnir að læstar dyr og ólesin smáa letrið eru sjaldan góðir förunautar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Christiaan_Huygens-painting.jpeg/500px-Christiaan_Huygens-painting.jpeg",
+    "ar": "1655",
+    "texti": "Hollenski stjörnufræðingurinn Christiaan Huygens uppgötvaði Títan, stærsta tungl Satúrnusar. Þar með eignaðist sólkerfið nýja frægðarpersónu, þótt hún væri dálítið langt frá sviðsljósinu.",
+    "heimild": "https://en.wikipedia.org/wiki/Christiaan_Huygens",
+    "breidd": 330,
+    "haed": 432
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

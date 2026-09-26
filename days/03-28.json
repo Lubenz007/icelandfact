@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-28",
+  "dagur": 28,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:01",
+  "sunset": "20:06",
+  "kvedja": "Góðan 28. mars, kæri lesandi! Dagurinn býður upp á allt frá rómversku keisaraútboði og nýfundinni smástirnisveröld til Öskjugoss og stjórnar sem féll á einu einasta atkvæði — sagan kann sannarlega að skapa dramatík. Haltu fast í kaffibollann; Hrúturinn er kominn á sögulegt skeið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "193",
+      "texti": "Pretóríuvörðurinn myrti Pertinax Rómarkeisara og bauð síðan keisaratignina upp; Didius Julianus bauð hæst. Valdaskipti í Róm voru sjaldan smekkleg, en þarna urðu þau beinlínis að uppboði."
+    },
+    {
+      "ar": "1646",
+      "texti": "Donough MacCarty, fyrsti jarlinn af Clancarty, undirritaði fyrsta Ormond-friðinn fyrir hönd írsku sambandsmannanna gegn loforði um aukið trúfrelsi."
+    },
+    {
+      "ar": "1802",
+      "texti": "Þýski stjörnufræðingurinn Heinrich Wilhelm Matthias Olbers uppgötvaði Pallas, annað smástirnið sem menn báru kennsl á. Það var þó fyrst talið reikistjarna — alheimurinn afhendir ekki alltaf rétta merkimiðann með vörunni."
+    },
+    {
+      "ar": "1979",
+      "texti": "Ríkisstjórn James Callaghan, forsætisráðherra Bretlands, féll í vantraustsatkvæðagreiðslu með aðeins eins atkvæðis mun eftir erfiðan vetur verkfalla. Stundum hangir ríkisstjórn bókstaflega á einni hendi á lofti."
+    },
+    {
+      "ar": "2025",
+      "texti": "Jarðskjálfti af stærð 7,7 reið yfir Mjanmar og Taíland og varð meira en 5.000 manns að bana. Hamfarirnar ollu gríðarlegu tjóni og mannfalli á svæðinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1875",
+      "texti": "Öskjugos hófst og varð eitt mesta öskugos á Íslandi frá landnámi. Gosmökkurinn sást allt til Svíþjóðar og afleiðingarnar ýttu undir mikla vesturför Austfirðinga næstu árin.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1909",
+      "texti": "Safnahúsið við Hverfisgötu, nú Þjóðmenningarhúsið, var vígt. Þar fengu Forngripasafnið, Landsbókasafnið, Landsskjalasafnið og Náttúrugripasafnið sameiginlegt þak yfir höfuðið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1956",
+      "texti": "Alþingi samþykkti með 31 atkvæði gegn 18 að Bandaríkjaher skyldi yfirgefa Ísland, enda ætti ekki að vera her í landinu á friðartímum. Viðræðum um brottförina var síðar frestað vegna uppreisnarinnar í Ungverjalandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2019",
+      "texti": "Íslenska flugfélagið WOW Air varð gjaldþrota. Fjólubláar flugvélar hurfu af himninum og þúsundir farþega þurftu skyndilega að endurraða ferðaplönum sínum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brett Ratner",
+      "starfsgrein": "kvikmyndaleikstjóri og framleiðandi",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Anna Shcherbakova",
+      "starfsgrein": "listskautakona",
+      "ar": "2004"
+    },
+    {
+      "nafn": "Alexander Grothendieck",
+      "starfsgrein": "stærðfræðingur",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Bohumil Hrabal",
+      "starfsgrein": "rithöfundur",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Aristide Briand",
+      "starfsgrein": "stjórnmálamaður og friðarverðlaunahafi Nóbels",
+      "ar": "1862"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Jónsson frá Ljárskógum",
+      "starfsgrein": "skáld",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Ingvar Gíslason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Sigfús M. Johnsen",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1886"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða himintungl uppgötvaði Heinrich Wilhelm Matthias Olbers 28. mars 1802?",
+      "svor": [
+        "Pallas",
+        "Halastjörnu Halleys",
+        "Neptúnus",
+        "Títan"
+      ],
+      "rett": 0,
+      "skyring": "Olbers fann Pallas, sem var í fyrstu talið reikistjarna en telst nú smástirni."
+    },
+    {
+      "spurning": "Hversu mjótt var á mununum þegar ríkisstjórn James Callaghan féll árið 1979?",
+      "svor": [
+        "Tíu atkvæði",
+        "Fimm atkvæði",
+        "Eitt atkvæði",
+        "Atkvæði voru jöfn"
+      ],
+      "rett": 2,
+      "skyring": "Stjórnin féll með aðeins eins atkvæðis mun — hver fjarvera skipti því sannarlega máli."
+    },
+    {
+      "spurning": "Hvaða íslenska flugfélag varð gjaldþrota 28. mars 2019?",
+      "svor": [
+        "Loftleiðir",
+        "WOW Air",
+        "Atlanta",
+        "Air Iceland Connect"
+      ],
+      "rett": 1,
+      "skyring": "WOW Air varð gjaldþrota og fjólublái liturinn hvarf snögglega af íslenskum flughimni."
+    }
+  ],
+  "tonlistUSA": "Lean on Me – Club Nouveau (1987)",
+  "tonlistUK": "Respectable – Mel & Kim (1987)",
+  "bio": "Fuglarnir (1963)",
+  "ord_dagsins": {
+    "ord": "harðindi",
+    "skyring": "Harðindi eru langvarandi erfiðleikatímar, einkum vegna slæms veðurfars, fæðuskorts eða lélegs árferðis."
+  },
+  "vissir_thu": "Gosmökkurinn frá Öskjugosinu 1875 barst svo langt að hans varð vart í Svíþjóð.",
+  "stjornuspa": "Hrúturinn finnur í dag gamalt verkefni sem bíður úrlausnar eins og óþolinmóður sendiboði frá Rómaveldi. Taktu af skarið, en mundu að ekki þarf að bjóða allt ríkið upp þótt kaffið klárist.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Relief_historique_dit_Relief_des_Pr%C3%A9toriens_01.jpg/500px-Relief_historique_dit_Relief_des_Pr%C3%A9toriens_01.jpg",
+    "ar": "193",
+    "texti": "Pretóríuvörðurinn myrti Pertinax Rómarkeisara og bauð síðan keisaratignina upp; Didius Julianus bauð hæst. Valdaskipti í Róm voru sjaldan smekkleg, en þarna urðu þau beinlínis að uppboði.",
+    "heimild": "https://en.wikipedia.org/wiki/Praetorian_Guard",
+    "breidd": 330,
+    "haed": 420
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

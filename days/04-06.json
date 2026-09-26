@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-06",
+  "dagur": 6,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:29",
+  "sunset": "20:32",
+  "kvedja": "Góðan 6. apríl, kæri lesandi! Í dag fljúgum við frá loðskinnaveldi Astors alla leið á bak við tunglið, með viðkomu í Eurovision og Laugarásbíói — enda þarf sagan sjaldnast vegabréf, aðeins góða forvitni og örlítið nesti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1808",
+      "texti": "John Jacob Astor stofnaði American Fur Company. Gróðinn af loðskinnaversluninni gerði hann síðar að fyrsta margmilljónamæringi Bandaríkjanna — löngu áður en tæknijöfrar fóru að safna núllum."
+    },
+    {
+      "ar": "1926",
+      "texti": "Varney Air Lines fór í sitt fyrsta atvinnuflug. Þetta litla flugfélag varð síðar hluti af grunninum að United Airlines."
+    },
+    {
+      "ar": "1974",
+      "texti": "ABBA vann Eurovision fyrir Svíþjóð með laginu „Waterloo“. Evrópa gafst þar með upp fyrir glimmeri, grípandi viðlagi og buxnasniðum sem þurftu sitt eigið loftrými."
+    },
+    {
+      "ar": "1994",
+      "texti": "Flugvélin sem flutti Juvénal Habyarimana, forseta Rúanda, og Cyprien Ntaryamira, forseta Búrúndí, var skotin niður við Kígalí. Atburðurinn varð kveikjan að þjóðarmorðinu í Rúanda."
+    },
+    {
+      "ar": "2026",
+      "texti": "Í Artemis II-leiðangrinum fór Orion-geimfarið næst bakhlið tunglsins og náði um leið mestu fjarlægð sinni frá jörðu. Þar var sannarlega langt í næsta kaffibolla."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1746",
+      "texti": "Tveir af þremur bátum sem reru frá Ingólfshöfða fórust. Í kjölfar slyssins var útgerð þaðan lögð af.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1944",
+      "texti": "Bandarísk herflugvél fórst úti fyrir Vatnsleysuströnd, en átta mönnum var bjargað.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1956",
+      "texti": "Laugarásbíó í Reykjavík hóf sýningar og fyrsta myndin var þýska kvikmyndin „Fiskimaðurinn og aðalsmærin“.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2021",
+      "texti": "Héraðsdómur Reykjavíkur komst að þeirri niðurstöðu að sóttvarnalæknir hefði farið út fyrir heimildir sóttvarnalaga með skyldudvöl fólks í sóttvarnahúsi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anita Pallenberg",
+      "starfsgrein": "fyrirsæta, leikkona og fatahönnuður",
+      "ar": "1942"
+    },
+    {
+      "nafn": "André Previn",
+      "starfsgrein": "píanóleikari, tónskáld og hljómsveitarstjóri",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Andrea Botez",
+      "starfsgrein": "skákmaður, álitsgjafi og streymari",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Anders Thomas Jensen",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Anthony Fokker",
+      "starfsgrein": "flugvélahönnuður og athafnamaður",
+      "ar": "1890"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kári Stefánsson",
+      "starfsgrein": "læknir og forstjóri Íslenskrar erfðagreiningar",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Bogi Ágústsson",
+      "starfsgrein": "fréttamaður",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Alfons Sampsted",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1998"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða lag færði ABBA sigur í Eurovision árið 1974?",
+      "svor": [
+        "Waterloo",
+        "Fernando",
+        "Dancing Queen",
+        "Mamma Mia"
+      ],
+      "rett": 0,
+      "skyring": "„Waterloo“ vann keppnina og ABBA lagði síðan poppheiminn undir sig án þess að hleypa af einu skoti."
+    },
+    {
+      "spurning": "Hvaða geimfar fór næst bakhlið tunglsins í Artemis II-leiðangrinum?",
+      "svor": [
+        "Apollo",
+        "Orion",
+        "Pioneer 11",
+        "Voyager 1"
+      ],
+      "rett": 1,
+      "skyring": "Orion bar nafn veiðimanns á himni og hélt býsna langt út fyrir heimahagana."
+    },
+    {
+      "spurning": "Hvaða kvikmyndahús hóf sýningar í Reykjavík 6. apríl 1956?",
+      "svor": [
+        "Háskólabíó",
+        "Nýja bíó",
+        "Laugarásbíó",
+        "Regnboginn"
+      ],
+      "rett": 2,
+      "skyring": "Laugarásbíó opnaði með þýsku myndinni „Fiskimaðurinn og aðalsmærin“."
+    }
+  ],
+  "tonlistUSA": "Hooked on a Feeling – Blue Swede (1974)",
+  "tonlistUK": "Seasons in the Sun – Terry Jacks (1974)",
+  "bio": "2001: A Space Odyssey (1968)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist fallegt innan frá en reynist mun ónotalegra þegar út er komið."
+  },
+  "vissir_thu": "ABBA var fyrsta sænska hljómsveitin til að vinna Eurovision þegar „Waterloo“ sigraði 6. apríl 1974.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir krafti sem gæti ýmist komið verkefni af stað eða fært stofuhúsgögnin á nýjan stað fyrir hádegi. Stilltu innri áttavitann, settu góða kasettu í tækið og mundu að ekki þarf hvert samtal að enda með dramatísku trommusólói.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/John_Wesley_Jarvis_-_John_Jacob_Astor_-_Google_Art_Project.jpg/500px-John_Wesley_Jarvis_-_John_Jacob_Astor_-_Google_Art_Project.jpg",
+    "ar": "1808",
+    "texti": "John Jacob Astor stofnaði American Fur Company. Gróðinn af loðskinnaversluninni gerði hann síðar að fyrsta margmilljónamæringi Bandaríkjanna — löngu áður en tæknijöfrar fóru að safna núllum.",
+    "heimild": "https://en.wikipedia.org/wiki/John_Jacob_Astor",
+    "breidd": 330,
+    "haed": 400
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,137 @@
+{
+  "mmdd": "04-02",
+  "dagur": 2,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:43",
+  "sunset": "20:20",
+  "kvedja": "Góðan 2. apríl, kæri lesandi! Í dag flökkum við frá ströndum Flórída og vígvöllum Virginíu út í geim með Stanley Kubrick, með viðkomu á Falklandseyjum. Festu öryggisbeltið — sagan kann sjaldnast að aka hægt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1513",
+      "texti": "Spænski landvinningamaðurinn Juan Ponce de León kom auga á land í Norður-Ameríku og nefndi svæðið La Florida. Nafnið festist betur en mörg önnur hugmynd spænskra landkönnuða."
+    },
+    {
+      "ar": "1865",
+      "texti": "Í bandarísku borgarastyrjöldinni tókst her Sambandsríkjanna í þriðju tilraun að ná Petersburg í Virginíu, en embættismenn og flestir hermenn Suðurríkjanna sluppu undan."
+    },
+    {
+      "ar": "1968",
+      "texti": "Vísindaskáldsögumynd Stanley Kubricks, 2001: A Space Odyssey, var frumsýnd í Uptown-kvikmyndahúsinu í Washington. Eftir hana leit geimurinn bæði tignarlegri og örlítið tortryggilegri út."
+    },
+    {
+      "ar": "1982",
+      "texti": "Argentínskar sérsveitir réðust inn á Falklandseyjar og hrundu þar með Falklandseyjastríðinu við Bretland af stað."
+    },
+    {
+      "ar": "2015",
+      "texti": "Sex aldraðir menn brutust inn í öryggishólfamiðstöð í Hatton Garden í Lundúnum og stálu verðmætum sem talin voru geta numið allt að 14 milljónum punda. Þar sannaðist að eftirlaunaaldur þarf ekki að jafngilda rólegu púsluspili."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1725",
+      "texti": "Við upphaf Heklugoss urðu jarðskjálftar sem Hítardalsannáll lýsti sem „skelfilegum“.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1877",
+      "texti": "Norðanstormur geisaði í tvo daga og olli talsverðu tjóni í Reykjavík og nágrenni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1898",
+      "texti": "Hjálpræðisherinn stofnaði gistiheimili við Kirkjustræti í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1928",
+      "texti": "Jóhanna Magnúsdóttir varð fyrsta íslenska konan til að fá lyfsöluleyfi og rak síðar Lyfjabúðina Iðunni í Reykjavík um áratugaskeið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alec Guinness",
+      "starfsgrein": "breskur leikari",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Ajay Devgn",
+      "starfsgrein": "indverskur leikari, leikstjóri og framleiðandi",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Karlamagnús",
+      "starfsgrein": "konungur Franka",
+      "ar": "747"
+    },
+    {
+      "nafn": "Elísabet af Valois",
+      "starfsgrein": "drottning Spánar",
+      "ar": "1545"
+    },
+    {
+      "nafn": "Abdelhak Nouri",
+      "starfsgrein": "hollenskur knattspyrnumaður",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða kvikmynd Stanley Kubricks var frumsýnd 2. apríl 1968?",
+      "svor": [
+        "2001: A Space Odyssey",
+        "The Shining",
+        "A Clockwork Orange",
+        "Barry Lyndon"
+      ],
+      "rett": 0,
+      "skyring": "2001: A Space Odyssey hóf geimferð sína á hvíta tjaldinu í Washington."
+    },
+    {
+      "spurning": "Hvaða eyjar réðust argentínskar sérsveitir inn á árið 1982?",
+      "svor": [
+        "Azoreyjar",
+        "Falklandseyjar",
+        "Kanaríeyjar",
+        "Færeyjar"
+      ],
+      "rett": 1,
+      "skyring": "Innrásin á Falklandseyjar varð upphaf Falklandseyjastríðsins."
+    },
+    {
+      "spurning": "Hvað var merkilegt við Jóhönnu Magnúsdóttur árið 1928?",
+      "svor": [
+        "Hún varð fyrsta íslenska konan með lyfsöluleyfi",
+        "Hún varð fyrsti kvenráðherra Íslands",
+        "Hún stofnaði Hjálpræðisherinn á Íslandi",
+        "Hún varð fyrsti kvenlæknir landsins"
+      ],
+      "rett": 0,
+      "skyring": "Jóhanna fékk fyrst íslenskra kvenna lyfsöluleyfi og rak Lyfjabúðina Iðunni."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Knowing Me, Knowing You – ABBA (1977)",
+  "bio": "2001: A Space Odyssey (1968)",
+  "ord_dagsins": {
+    "ord": "orrahvellur",
+    "skyring": "Orrahvellur er mikill hávaði, skarkali eða háreysti."
+  },
+  "vissir_thu": "Alec Guinness, sem fæddist þennan dag árið 1914, lék Obi-Wan Kenobi í upprunalegu Star Wars-myndunum.",
+  "stjornuspa": "Hrúturinn finnur í dag gamalt erindi í vasanum og ákveður að það sé örlagaskjal, þótt það reynist vera innkaupalisti. Mars hvetur þig til dáða, en Satúrnus minnir þig vinsamlega á að kaupa mjólkina fyrst.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/La_conquista_del_Colorado.jpg/500px-La_conquista_del_Colorado.jpg",
+    "ar": "1513",
+    "texti": "Spænski landvinningamaðurinn Juan Ponce de León kom auga á land í Norður-Ameríku og nefndi svæðið La Florida. Nafnið festist betur en mörg önnur hugmynd spænskra landkönnuða.",
+    "heimild": "https://en.wikipedia.org/wiki/Conquistador",
+    "breidd": 330,
+    "haed": 221
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

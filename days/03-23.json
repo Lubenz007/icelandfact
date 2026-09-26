@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-23",
+  "dagur": 23,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:19",
+  "sunset": "19:51",
+  "kvedja": "Góðan og gleðilegan 23. mars! Í dag förum við úr fótboltafundum Viktoríutímans upp í geimstöð og þaðan beint í umferðarteppu á Súesskurði — sagan kann greinilega vel við krókaleiðir. Helltu upp á eitthvað gott og komdu með; fortíðin er komin í heimsókn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1868",
+      "texti": "Henry Huntly Haight, ríkisstjóri Kaliforníu, undirritaði lög sem stofnuðu Kaliforníuháskóla. Skólinn varð síðar að víðfeðmu opinberu háskólakerfi og fyrirmynd annarra slíkra stofnana."
+    },
+    {
+      "ar": "1888",
+      "texti": "Fulltrúar tíu enskra knattspyrnufélaga komu saman í London undir stjórn Williams McGregor. Fundurinn leiddi að lokum til stofnunar Football League — því jafnvel fótboltinn þurfti eitt sinn að byrja á fundargerð."
+    },
+    {
+      "ar": "1933",
+      "texti": "Þýska þingið samþykkti valdalögin sem heimiluðu ríkisstjórn nasista að setja lög án aðkomu Reichstag. Þar með var stigið afgerandi skref í samræmingu ríkisins undir alræðisstjórn nasista."
+    },
+    {
+      "ar": "2001",
+      "texti": "Rússneska geimferðastofnunin lét geimstöðina Mír falla úr sporbraut. Hún brann að mestu upp í lofthjúpnum og leifar hennar féllu í Kyrrahafið."
+    },
+    {
+      "ar": "2021",
+      "texti": "Gámaskipið Ever Given strandaði í Súesskurðinum og lokaði þessari mikilvægu siglingaleið í sex daga. Eitt skip tókst þannig að búa til umferðarteppu sem allur heimurinn fylgdist með."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1937",
+      "texti": "Sundhöllin í Reykjavík var vígð og borgarbúar fengu glæsilega innilaug til sundiðkunar — kærkomið skjól fyrir þá sem vildu synda án þess að semja við íslenska veðrið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1943",
+      "texti": "Keflavíkurflugvöllur var tekinn í notkun af Bandaríkjaher á meðan síðari heimsstyrjöldin stóð yfir.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1998",
+      "texti": "Kjalarnes varð hluti af Reykjavík og borgarmörkin færðust þar með norðar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2010",
+      "texti": "Nektardans var bannaður á Íslandi með lögum — fáguð lagasetning sem skildi óvenju lítið eftir ímyndunaraflinu.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anna Hall",
+      "starfsgrein": "frjálsíþróttakona og heimsmeistari í sjöþraut",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Akira Kurosawa",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Amanda Plummer",
+      "starfsgrein": "leikkona",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Alexander Albon",
+      "starfsgrein": "kappakstursökumaður",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Emmy Noether",
+      "starfsgrein": "stærðfræðingur og eðlisfræðingur",
+      "ar": "1882"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Baldvin Halldórsson",
+      "starfsgrein": "leikari",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skip breytti Súesskurðinum í heimsfræga umferðarteppu árið 2021?",
+      "svor": [
+        "Ever Given",
+        "Mír",
+        "Titanic",
+        "Gemini 3"
+      ],
+      "rett": 0,
+      "skyring": "Ever Given sat fast í skurðinum í sex daga og tafði vöruflutninga um allan heim."
+    },
+    {
+      "spurning": "Hvaða íslenska sundmannvirki var vígt 23. mars 1937?",
+      "svor": [
+        "Laugardalslaug",
+        "Sundhöllin í Reykjavík",
+        "Vesturbæjarlaug",
+        "Árbæjarlaug"
+      ],
+      "rett": 1,
+      "skyring": "Sundhöllin í Reykjavík var vígð árið 1937 og hefur haldið sundgarpum volgum síðan."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var japanskur kvikmyndaleikstjóri?",
+      "svor": [
+        "Alexander Albon",
+        "Emmy Noether",
+        "Akira Kurosawa",
+        "Baldvin Halldórsson"
+      ],
+      "rett": 2,
+      "skyring": "Akira Kurosawa var einn áhrifamesti kvikmyndaleikstjóri Japans."
+    }
+  ],
+  "tonlistUSA": "Can't Fight This Feeling – REO Speedwagon (1985)",
+  "tonlistUK": "Easy Lover – Philip Bailey og Phil Collins (1985)",
+  "bio": "Pretty Woman (1990)",
+  "ord_dagsins": {
+    "ord": "farartálmi",
+    "skyring": "Farartálmi er hindrun sem tefur eða stöðvar för, til dæmis skip sem situr þversum í skipaskurði."
+  },
+  "vissir_thu": "Geimstöðin Mír var tekin úr notkun með stýrðu falli og brotnaði upp yfir Kyrrahafinu 23. mars 2001.",
+  "stjornuspa": "Hrúturinn finnur í dag hjá sér sterka löngun til að ryðja öllum hindrunum úr vegi, jafnvel þótt þær séu á stærð við Ever Given. Stilltu þó hetjumóðnum í hóf — stundum vinnst dagurinn með kaffibolla og skynsamlegri fundargerð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Henry_Haight.jpg/500px-Henry_Haight.jpg",
+    "ar": "1868",
+    "texti": "Henry Huntly Haight, ríkisstjóri Kaliforníu, undirritaði lög sem stofnuðu Kaliforníuháskóla. Skólinn varð síðar að víðfeðmu opinberu háskólakerfi og fyrirmynd annarra slíkra stofnana.",
+    "heimild": "https://en.wikipedia.org/wiki/Henry_Huntly_Haight",
+    "breidd": 330,
+    "haed": 464
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

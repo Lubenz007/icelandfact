@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-21",
+  "dagur": 21,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "07:26",
+  "sunset": "19:45",
+  "kvedja": "Góðan 21. mars, kæri lesandi! Í dag lokast Alcatraz, Twitter tístir í fyrsta sinn og Hrúturinn ryðst inn í vorið með sama sjálfstrausti og hann hafi sjálfur fundið það upp. Komdu þér vel fyrir — sagan er bæði stórbrotin og dálítið sérkennileg í dag.",
+  "nafnadagur": "Benedikt",
+  "atburdir": [
+    {
+      "ar": "1556",
+      "texti": "Thomas Cranmer, fyrrverandi erkibiskup af Kantaraborg og einn af frumkvöðlum ensku biskupakirkjunnar, var brenndur á báli fyrir villutrú í Oxford."
+    },
+    {
+      "ar": "1788",
+      "texti": "Mikill eldur lagði 856 af 1.100 byggingum New Orleans í rúst. Borgin missti með öðrum orðum nær allt nema seigluna og götuheitið Bourbon Street."
+    },
+    {
+      "ar": "1952",
+      "texti": "Moondog Coronation Ball fór fram í Cleveland og er almennt talinn fyrsta stóra rokk- og ról-tónleikahaldið. Rokkið var varla komið úr vöggunni en þegar farið að fylla íþróttahallir."
+    },
+    {
+      "ar": "1963",
+      "texti": "Bandaríska fangelsismálastofnunin lokaði Alcatraz-fangelsinu á samnefndri eyju í San Francisco-flóa. Kletturinn hélt þó áfram að lifa góðu lífi í kvikmyndum og ferðamannamyndavélum."
+    },
+    {
+      "ar": "2006",
+      "texti": "Jack Dorsey sendi fyrstu skilaboðin á samfélagsmiðlinum Twitter. Lítil skilaboð fyrir mann, en risastórt stökk fyrir rifrildi á netinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1734",
+      "texti": "Harðir jarðskjálftar riðu yfir Suðurland; sjö eða átta manns fórust, tíu bæir hrundu og um 60 bæir skemmdust, einkum í Ölfusi, Flóa og Grímsnesi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1874",
+      "texti": "Amtmannsstofan á Möðruvöllum í Hörgárdal brann til grunna. Þar hafði áður staðið hús sem fór sömu leið árið 1826 — eldsagan var því óþægilega farin að ríma.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1982",
+      "texti": "Í Vestmannaeyjum var tekin í notkun einstök hitaveita sem nýtti varma úr hrauninu frá Heimaeyjargosinu 1973. Eyjamenn létu sem sagt eldgosið borga upphitunarreikninginn.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2010",
+      "texti": "Bæir í Fljótshlíð og undir Eyjafjöllum voru rýmdir eftir að eldgos hófst á Fimmvörðuhálsi við Eyjafjallajökul.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ayrton Senna",
+      "starfsgrein": "brasilískur kappakstursökumaður",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Antoine Griezmann",
+      "starfsgrein": "franskur knattspyrnumaður",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Adrian Peterson",
+      "starfsgrein": "bandarískur leikmaður í amerískum fótbolta",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Brad Hall",
+      "starfsgrein": "bandarískur grínisti, leikstjóri og handritshöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Abbi Pulling",
+      "starfsgrein": "ensk kappaksturskona",
+      "ar": "2003"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Elsa E. Guðjónsson",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Jón Vídalín",
+      "starfsgrein": "Skálholtsbiskup",
+      "ar": "1666"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fræga fangelsi lokaði 21. mars 1963?",
+      "svor": [
+        "Alcatraz",
+        "Sing Sing",
+        "San Quentin",
+        "Bastillan"
+      ],
+      "rett": 0,
+      "skyring": "Alcatraz lokaði árið 1963, en kletturinn slapp aldrei úr greipum kvikmyndagerðarmanna."
+    },
+    {
+      "spurning": "Hvaða orku nýtti hitaveitan í Vestmannaeyjum árið 1982?",
+      "svor": [
+        "Sjávarföll",
+        "Vindorku",
+        "Varma úr hrauninu",
+        "Sólarorku"
+      ],
+      "rett": 2,
+      "skyring": "Hitaveitan nýtti varma úr hrauninu sem rann í Heimaeyjargosinu 1973."
+    },
+    {
+      "spurning": "Hver sendi fyrstu skilaboðin á Twitter árið 2006?",
+      "svor": [
+        "Ayrton Senna",
+        "Jack Dorsey",
+        "Antoine Griezmann",
+        "Brad Hall"
+      ],
+      "rett": 1,
+      "skyring": "Jack Dorsey sendi fyrstu Twitter-skilaboðin, löngu áður en tíst urðu að daglegu þrumuveðri."
+    }
+  ],
+  "tonlistUSA": "Keep On Loving You – REO Speedwagon (1981)",
+  "tonlistUK": "Jealous Guy – Roxy Music (1981)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er hálfrökkur eða dauf birta, til dæmis þegar dagur og nótt takast kurteislega á um himininn."
+  },
+  "vissir_thu": "Moondog Coronation Ball árið 1952 er almennt talinn fyrsti stóri rokk- og ról-konsert sögunnar.",
+  "stjornuspa": "Hrúturinn finnur í dag gamla hugmynd sem glansar enn eins og nýpússað útvarpstæki frá sjöunda áratugnum. Ýttu á takkann, en lestu leiðbeiningarnar áður en þú reynir að endurskipuleggja heiminn fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Thomas_Cranmer_by_Gerlach_Flicke.jpg/500px-Thomas_Cranmer_by_Gerlach_Flicke.jpg",
+    "ar": "1556",
+    "texti": "Thomas Cranmer, fyrrverandi erkibiskup af Kantaraborg og einn af frumkvöðlum ensku biskupakirkjunnar, var brenndur á báli fyrir villutrú í Oxford.",
+    "heimild": "https://en.wikipedia.org/wiki/Thomas_Cranmer",
+    "breidd": 330,
+    "haed": 430
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

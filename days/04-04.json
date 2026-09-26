@@ -1,0 +1,137 @@
+{
+  "mmdd": "04-04",
+  "dagur": 4,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:36",
+  "sunset": "20:26",
+  "kvedja": "Góðan 4. apríl, kæri lesandi! Dagurinn býður upp á keisara, heimsreisur, pólitísk umbrot og afmælisbörn úr kvikmyndaheiminum — sem sagt næstum heila sögubók áður en kaffið kólnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "503 f.Kr.",
+      "texti": "Rómverski konsúllinn Agrippa Menenius Lanatus hélt sigurgöngu eftir hernaðarsigur á Sabínum. Rómverjar kunnu sannarlega að gera mikið úr heimkomunni."
+    },
+    {
+      "ar": "1081",
+      "texti": "Alexíos 1. Komnenos var krýndur keisari Býsansríkis og Komnenos-ættin komst þar með til fullra valda."
+    },
+    {
+      "ar": "1581",
+      "texti": "Elísabet 1. Englandsdrottning sló Francis Drake til riddara fyrir að hafa lokið hringferð um heiminn — býsna glæsileg umbun fyrir langan siglingatúr."
+    },
+    {
+      "ar": "1814",
+      "texti": "Napóleon sagði af sér sem keisari Frakka og tilnefndi son sinn, Napóleon 2., sem arftaka sinn."
+    },
+    {
+      "ar": "1975",
+      "texti": "Bill Gates og Paul Allen stofnuðu Microsoft í Albuquerque í Nýju-Mexíkó til að þróa og selja BASIC-túlka fyrir Altair 8800. Lítið fyrirtæki, eins og sumir kunna að hafa tekið eftir."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1897",
+      "texti": "Hið íslenska prentarafélag var stofnað. Það er elsta starfandi verkalýðsfélag Íslands og er nú hluti af Félagi bókagerðarmanna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1956",
+      "texti": "Alþýðubandalagið var stofnað og varð síðar áberandi afl í íslenskum stjórnmálum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1965",
+      "texti": "Mosfellskirkja í Mosfellsdal var vígð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1987",
+      "texti": "Fjölbrautaskólinn í Breiðholti sigraði í Gettu betur í fyrsta og eina sinn — dagur sem væntanlega lifir enn góðu lífi á göngum skólans.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anthony Perkins",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Andrei Tarkovsky",
+      "starfsgrein": "rússneskur kvikmyndaleikstjóri",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Barry Pepper",
+      "starfsgrein": "kanadískur leikari og framleiðandi",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Aki Kaurismäki",
+      "starfsgrein": "finnskur kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Aiden McGeady",
+      "starfsgrein": "írskur knattspyrnumaður",
+      "ar": "1986"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hverjir stofnuðu Microsoft árið 1975?",
+      "svor": [
+        "Bill Gates og Paul Allen",
+        "Steve Jobs og Steve Wozniak",
+        "Larry Page og Sergey Brin",
+        "Napóleon og Francis Drake"
+      ],
+      "rett": 0,
+      "skyring": "Bill Gates og Paul Allen stofnuðu Microsoft í Albuquerque 4. apríl 1975."
+    },
+    {
+      "spurning": "Hvaða skóli vann Gettu betur árið 1987?",
+      "svor": [
+        "Menntaskólinn í Reykjavík",
+        "Fjölbrautaskólinn í Breiðholti",
+        "Verzlunarskóli Íslands",
+        "Menntaskólinn á Akureyri"
+      ],
+      "rett": 1,
+      "skyring": "Fjölbrautaskólinn í Breiðholti vann keppnina þá í fyrsta og eina sinn."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins leikstýrði meðal annars kvikmyndum og kom frá Finnlandi?",
+      "svor": [
+        "Anthony Perkins",
+        "Barry Pepper",
+        "Aki Kaurismäki",
+        "Aiden McGeady"
+      ],
+      "rett": 2,
+      "skyring": "Aki Kaurismäki er finnskur kvikmyndaleikstjóri, framleiðandi og handritshöfundur."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "This Ole House – Shakin' Stevens (1981)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "víðförull",
+    "skyring": "Víðförull er sá sem hefur ferðast víða, líkt og Francis Drake en yfirleitt með færri fallbyssur."
+  },
+  "vissir_thu": "Microsoft var upphaflega stofnað til að þróa og selja BASIC-túlka fyrir Altair 8800 örtölvuna.",
+  "stjornuspa": "Hrúturinn finnur í dag fyrir frumkvöðlaanda og gæti viljað stofna fyrirtæki fyrir hádegi eða minnsta kosti endurskipuleggja skrifborðið. Farðu djarflega af stað, en mundu að jafnvel Napóleon þurfti stundum að bakka.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Roman_SPQR_banner.svg/330px-Roman_SPQR_banner.svg.png",
+    "ar": "503 f.Kr.",
+    "texti": "Rómverski konsúllinn Agrippa Menenius Lanatus hélt sigurgöngu eftir hernaðarsigur á Sabínum. Rómverjar kunnu sannarlega að gera mikið úr heimkomunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Roman_consul",
+    "breidd": 330,
+    "haed": 261
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

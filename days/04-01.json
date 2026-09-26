@@ -1,0 +1,148 @@
+{
+  "mmdd": "04-01",
+  "dagur": 1,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:46",
+  "sunset": "20:17",
+  "kvedja": "Gleðilegan 1. apríl, kæri lesandi! Dagurinn býður upp á allt frá miðaldarumsátri og frjálsri verslun til Apple-tölva og sögulegra réttinda — og einhvers staðar leynist eflaust aprílgabb með sakleysislegt glott.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1346",
+      "texti": "Jóhann, hertogi af Normandí, hóf umsátur um bæinn Aiguillon í Hundrað ára stríðinu. Þar var lítið um kurteisleg bank á borgarhliðið."
+    },
+    {
+      "ar": "1879",
+      "texti": "Bretar lögðu niður innri tollalínuna á Indlandi, sem hafði verið reist til að innheimta saltskatt. Salt í sárin fékk þar með næsta bókstaflega merkingu."
+    },
+    {
+      "ar": "1918",
+      "texti": "Bretar stofnuðu Konunglega flugherinn, Royal Air Force, undir lok fyrri heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1976",
+      "texti": "Steve Jobs og Steve Wozniak stofnuðu Apple Computer. Fyrirtækið átti síðar eftir að koma eplinu óvenju rækilega inn í tölvusöguna."
+    },
+    {
+      "ar": "2001",
+      "texti": "Hjónabönd samkynhneigðra urðu lögleg í Hollandi, fyrst allra ríkja heims. Það var stórt skref í sögu jafnréttis og ástar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1807",
+      "texti": "Trampe stiftamtmaður setti reglugerð um brunavarnir í Reykjavík. Meðal annars var bannað að reykja pípu innanhúss og nálægt eldfimum efnum — skynsamlegt ráð á tímum þegar slökkviliðsbíllinn var enn fjarlæg framtíðarsýn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1855",
+      "texti": "Einkaréttur Dana til verslunar á Íslandi var afnuminn og Íslendingum heimilað að versla við allar þjóðir.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1981",
+      "texti": "Íslenska hljómsveitin Grýlurnar var stofnuð. Nafnið var ógnvekjandi en tónlistin öllu dansvænni.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2025",
+      "texti": "Lítið eldgos hófst suðaustan við Þorbjörn, norðan Grindavíkur, um morguninn. Gosinu var lokið um kvöldið — stutt en eldheitt dagsverk.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ali MacGraw",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Asa Butterfield",
+      "starfsgrein": "leikari",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Annette O'Toole",
+      "starfsgrein": "leikkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Alexander Stubb",
+      "starfsgrein": "fræðimaður og stjórnmálamaður",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Abraham Maslow",
+      "starfsgrein": "sálfræðingur",
+      "ar": "1908"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ásta Sigurðardóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Hjörtur Eldjárn Þórarinsson",
+      "starfsgrein": "bóndi",
+      "ar": "1920"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ríki varð fyrst til að heimila hjónabönd samkynhneigðra?",
+      "svor": [
+        "Holland",
+        "Danmörk",
+        "Belgía",
+        "Ísland"
+      ],
+      "rett": 0,
+      "skyring": "Holland reið á vaðið árið 2001 og skrifaði þar með mikilvægan kafla í réttindasöguna."
+    },
+    {
+      "spurning": "Hvaða fyrirtæki stofnuðu Steve Jobs og Steve Wozniak 1. apríl 1976?",
+      "svor": [
+        "Microsoft",
+        "Apple Computer",
+        "Commodore",
+        "Atari"
+      ],
+      "rett": 1,
+      "skyring": "Apple Computer var stofnað árið 1976, löngu áður en síminn varð að hálfgerðum vasafélaga."
+    },
+    {
+      "spurning": "Hvaða mikilvæga breyting varð á íslenskri verslun árið 1855?",
+      "svor": [
+        "Öll verslun var bönnuð á sunnudögum",
+        "Íslenska krónan var tekin upp",
+        "Einkaréttur Dana var afnuminn",
+        "Fyrsta stórmarkaðnum var lokað"
+      ],
+      "rett": 2,
+      "skyring": "Afnám einkaréttar Dana opnaði Íslendingum leið til viðskipta við allar þjóðir."
+    }
+  ],
+  "tonlistUSA": "Bridge over Troubled Water – Simon & Garfunkel (1970)",
+  "tonlistUK": "Easy Lover – Philip Bailey og Phil Collins (1985)",
+  "bio": "One Flew Over the Cuckoo's Nest (1975)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist hið besta þegar horft er út um glugga en reynist kaldara eða leiðinlegra þegar út er komið."
+  },
+  "vissir_thu": "Royal Air Force, sem stofnaður var 1. apríl 1918, var fyrsti sjálfstæði flugher heims.",
+  "stjornuspa": "Hrúturinn finnur gamalt mixtape, rykfallna leðurúlpu eða stórbrotna hugmynd og ákveður samstundis að allt þrennt sé aftur komið í tísku. Láttu þó ekki aprílgabb tæla þig til að kaupa faxtæki — jafnvel stjörnurnar hafa sín mörk.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Schlacht_von_Azincourt.jpg/500px-Schlacht_von_Azincourt.jpg",
+    "ar": "1346",
+    "texti": "Jóhann, hertogi af Normandí, hóf umsátur um bæinn Aiguillon í Hundrað ára stríðinu. Þar var lítið um kurteisleg bank á borgarhliðið.",
+    "heimild": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

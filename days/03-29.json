@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-29",
+  "dagur": 29,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:57",
+  "sunset": "20:08",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 29. mars förum við frá blóðugum rósastríðum yfir í smástirni, leirher og íslensk eldgos — sem sagt ósköp venjulegan dag á skrifstofu sögunnar. Spennið beltin, eða að minnsta kosti hellið upp á kaffi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1461",
+      "texti": "York-ættin sigraði Lancaster-ættina í orrustunni við Towton í Rósastríðunum. Sigurinn ruddi Játvarði 4. leið að ensku krúnunni, enda voru valdaskipti þá sjaldnast afgreidd með kurteislegu handabandi."
+    },
+    {
+      "ar": "1807",
+      "texti": "Þýski stjörnufræðingurinn Heinrich Wilhelm Matthias Olbers uppgötvaði Vestu, bjartasta smástirnið og næstmassamesta fyrirbærið í smástirnabeltinu."
+    },
+    {
+      "ar": "1951",
+      "texti": "Söngleikurinn The King and I eftir Rodgers og Hammerstein var frumsýndur á Broadway. Þar með hófst löng sigurganga verksins um konung Mongkut af Síam."
+    },
+    {
+      "ar": "1974",
+      "texti": "Bændur í Shaanxi-héraði í Kína fundu fyrir tilviljun leirher Qin Shi Huang, fyrsta keisara Kína. Garðvinna þeirra breyttist þar með í eina merkustu fornleifauppgötvun 20. aldar."
+    },
+    {
+      "ar": "2014",
+      "texti": "Fyrstu hjónavígslur samkynja para í Englandi og Wales fóru fram eftir gildistöku laga sem samþykkt höfðu verið árið áður. Ástin fékk þar loks sama lagalega sæti við altarið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1875",
+      "texti": "Öskjugosið 1875 hófst með þeim afleiðingum að 17 jarðir á Jökuldal fóru í eyði. Askan lagðist þungt á byggðina og hafði mikil áhrif á búsetu og búskap.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1883",
+      "texti": "Mannskaðaveður gekk yfir Þorlákshöfn og tíæringur fórst með allri áhöfn. Frönsk fiskiskúta bjargaði hins vegar hásetum af öðru skipi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1947",
+      "texti": "Heklugos hófst, hið fyrsta í rúma öld. Gosmökkurinn náði 30 kílómetra hæð, aska barst meðal annars til Finnlands og Englands og gosið stóð í rúmt ár.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1961",
+      "texti": "Lög um launajöfnuð kvenna og karla voru sett á Íslandi. Samkvæmt lögunum átti launajöfnuðurinn að vera kominn að fullu til framkvæmda fyrir 1. janúar 1967.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Billy Beane",
+      "starfsgrein": "hafnaboltamaður og íþróttastjórnandi",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Amy Sedaris",
+      "starfsgrein": "leikkona og grínisti",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Bola Tinubu",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Cy Young",
+      "starfsgrein": "hafnaboltamaður og þjálfari",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Arthur 1. af Bretagne",
+      "starfsgrein": "hertogi af Bretagne",
+      "ar": "1187"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jörundur hundadagakonungur",
+      "starfsgrein": "ævintýramaður og tímabundinn valdhafi á Íslandi",
+      "ar": "1780"
+    },
+    {
+      "nafn": "Þórir Baldursson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Jón Hnefill Aðalsteinsson",
+      "starfsgrein": "þjóðfræðingur",
+      "ar": "1927"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða himinfyrirbæri uppgötvaði Olbers árið 1807?",
+      "svor": [
+        "Vestu",
+        "Halley-halastjörnuna",
+        "Neptúnus",
+        "Títan"
+      ],
+      "rett": 0,
+      "skyring": "Olbers fann Vestu, bjartasta smástirnið á næturhimninum."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf að gjósa 29. mars 1947?",
+      "svor": [
+        "Katla",
+        "Hekla",
+        "Askja",
+        "Grímsvötn"
+      ],
+      "rett": 1,
+      "skyring": "Hekla rauf rúmlega aldarlanga gosþögn sína með miklum látum."
+    },
+    {
+      "spurning": "Hvað fundu bændur í Shaanxi-héraði árið 1974?",
+      "svor": [
+        "Víkingaskip",
+        "Gullna grafargrímu",
+        "Leirher fyrsta keisara Kína",
+        "Elsta prentaða dagblað heims"
+      ],
+      "rett": 2,
+      "skyring": "Leirher Qin Shi Huang beið neðanjarðar eftir óvenju langri herskoðun."
+    }
+  ],
+  "tonlistUSA": "Rock Me Amadeus – Falco (1986)",
+  "tonlistUK": "Living Doll – Cliff Richard og The Young Ones (1986)",
+  "bio": "Ready Player One (2018)",
+  "ord_dagsins": {
+    "ord": "öskufall",
+    "skyring": "Öskufall er þegar eldfjallaaska fellur úr gosmekki og sest yfir land, rétt eins og snjór sem enginn bað um."
+  },
+  "vissir_thu": "Vesta er bjartasta smástirnið séð frá jörðu og við góð skilyrði getur það orðið nógu bjart til að sjást með berum augum.",
+  "stjornuspa": "Hrúturinn ætti að ráðast í daginn af sínum alkunna krafti, en muna að ekki þarf hvert samtal að verða orrustan við Towton. Gamalt verkefni gæti skyndilega reynst verðmætt — jafnvel þótt það sé ekki heill leirher í bakgarðinum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beheading_duke_somerset.jpg/500px-Beheading_duke_somerset.jpg",
+    "ar": "1461",
+    "texti": "York-ættin sigraði Lancaster-ættina í orrustunni við Towton í Rósastríðunum. Sigurinn ruddi Játvarði 4. leið að ensku krúnunni, enda voru valdaskipti þá sjaldnast afgreidd með kurteislegu handabandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Wars_of_the_Roses",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

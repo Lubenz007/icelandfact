@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-08",
+  "dagur": 8,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:21",
+  "sunset": "20:38",
+  "kvedja": "Góðan 8. apríl, kæri lesandi! Í dag rölta saman örmalaus Venus, hugrakkir geimfarar og 49 punda lax — enda kann sagan betur en flestir að halda óvenjulegt boð. Taktu daginn með Hrútshornunum á undan þér og glotti í vasanum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "217",
+      "texti": "Rómverski keisarinn Caracalla var myrtur nærri Harran. Macrinus, yfirmaður pretóríuvarðarins, tók við keisaratigninni — starfsframi í Róm gat verið býsna hvass."
+    },
+    {
+      "ar": "1271",
+      "texti": "Riddarar Jóhannesarreglunnar gáfust upp og afhentu Krak des Chevaliers í Sýrlandi her mamlúkas soldánsins Baybars. Þar með lauk einum merkum kafla í sögu þessa mikla krossfarakastala."
+    },
+    {
+      "ar": "1820",
+      "texti": "Venus frá Míló fannst á grísku eyjunni Milos. Styttuna skortir handleggina, en hún hefur engu að síður haldið traustu taki á listasögunni."
+    },
+    {
+      "ar": "1904",
+      "texti": "Frakkland og Bretland undirrituðu Entente Cordiale og sömdu um friðsamlega sambúð eftir aldalangar væringar. Stundum þarf jafnvel stórveldi að leggja sverðin frá sér og ræða málin."
+    },
+    {
+      "ar": "2008",
+      "texti": "Yi So-yeon varð fyrsti kóreski geimfarinn þegar hún hélt út í geim um borð í Soyuz TMA-12. Það var heldur lengri vinnuferð en venjulegur þriðjudagsrúntur."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1703",
+      "texti": "Um þetta leyti árs var tekið manntal á Íslandi sem varð fyrsta manntal heimsins til að ná til heillar þjóðar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1947",
+      "texti": "Síðustu bandarísku hermennirnir sem staðsettir höfðu verið á Íslandi í síðari heimsstyrjöld yfirgáfu landið með herflutningaskipinu Edmund B. Alexander.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1957",
+      "texti": "Fjörutíu og níu punda stórlax veiddist í þorskanet við Grímsey og var þá talinn stærsti lax sem vitað var til að veiðst hefði við Ísland.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1989",
+      "texti": "Bónus opnaði fyrstu verslun sína við Skútuvog í Reykjavík og nýr kafli hófst í íslenskri lágvöruverðssögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Allu Arjun",
+      "starfsgrein": "indverskur leikari",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Barbara Kingsolver",
+      "starfsgrein": "bandarískur rithöfundur og ljóðskáld",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Alexi Laiho",
+      "starfsgrein": "finnskur söngvari og gítarleikari",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Betty Ford",
+      "starfsgrein": "fyrrverandi forsetafrú Bandaríkjanna",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Albert 1. Belgíukonungur",
+      "starfsgrein": "konungur Belgíu",
+      "ar": "1875"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Erlendur Jónsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Helgi G. Thordersen",
+      "starfsgrein": "biskup",
+      "ar": "1794"
+    },
+    {
+      "nafn": "Oddur V. Gíslason",
+      "starfsgrein": "prestur",
+      "ar": "1836"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fræga stytta fannst á eyjunni Milos árið 1820?",
+      "svor": [
+        "Venus frá Míló",
+        "Nike frá Samóþrake",
+        "Davíð Michelangelos",
+        "Litla hafmeyjan"
+      ],
+      "rett": 0,
+      "skyring": "Venus frá Míló fannst á Milos og varð heimsfræg þótt handleggirnir létu ekki sjá sig."
+    },
+    {
+      "spurning": "Hvað vó stórlaxinn sem veiddist við Grímsey árið 1957?",
+      "svor": [
+        "29 pund",
+        "39 pund",
+        "49 pund",
+        "59 pund"
+      ],
+      "rett": 2,
+      "skyring": "Laxinn vó heil 49 pund og hefði líklega þurft sitt eigið sæti við matarborðið."
+    },
+    {
+      "spurning": "Hver varð fyrsti kóreski geimfarinn árið 2008?",
+      "svor": [
+        "Barbara Kingsolver",
+        "Yi So-yeon",
+        "Betty Ford",
+        "Allu Arjun"
+      ],
+      "rett": 1,
+      "skyring": "Yi So-yeon fór í geiminn með Soyuz TMA-12 og skráði sig þar með í sögubækurnar."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Matchstalk Men and Matchstalk Cats and Dogs – Brian and Michael (1978)",
+  "bio": "Saturday Night Fever (1977)",
+  "ord_dagsins": {
+    "ord": "væringar",
+    "skyring": "Væringar eru deilur, ófriður eða átök milli manna eða hópa."
+  },
+  "vissir_thu": "Manntalið á Íslandi 1703 var fyrsta manntal heimsins sem náði til heillar þjóðar.",
+  "stjornuspa": "Hrúturinn finnur gamalt verkefni sem hefur beðið jafn þolinmótt og rykug alfræðibók og ræðst loks á það af krafti. Gættu þess þó að fara ekki með hausinn fyrst í gegnum allar dyr — sumar hugmyndir opnast með handfanginu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/0_Caracalla_-_Museo_Massimo_alle_Terme.JPG/500px-0_Caracalla_-_Museo_Massimo_alle_Terme.JPG",
+    "ar": "217",
+    "texti": "Rómverski keisarinn Caracalla var myrtur nærri Harran. Macrinus, yfirmaður pretóríuvarðarins, tók við keisaratigninni — starfsframi í Róm gat verið býsna hvass.",
+    "heimild": "https://en.wikipedia.org/wiki/Caracalla",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

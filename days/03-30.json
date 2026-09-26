@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-30",
+  "dagur": 30,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:54",
+  "sunset": "20:11",
+  "kvedja": "Góðan og gleðilegan 30. mars! Í dag kaupum við Alaska, stofnum bókmenntafélag og blöndum okkur í sikileyska uppreisn — allt fyrir morgunkaffið. Sagan kann sannarlega að halda mörgum boltum á lofti, rétt eins og Hrúturinn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1282",
+      "texti": "Íbúar Sikileyjar risu gegn stjórn Karls 1. af Napólí og hrundu þar með af stað stríðinu sem kennt er við sikileysku aftansöngvana. Uppreisnin hófst með öðrum orðum ekki með hvísli heldur heldur háværum sögulegum hvelli."
+    },
+    {
+      "ar": "1730",
+      "texti": "Gamanleikurinn The Author's Farce eftir Henry Fielding var frumsýndur í Little Theatre í Lundúnum. Þar beindi Fielding háðinu meðal annars að bókmenntaheiminum, sem hefur lengi verið prýðilegt skotmark fyrir höfunda."
+    },
+    {
+      "ar": "1867",
+      "texti": "William H. Seward, utanríkisráðherra Bandaríkjanna, samdi við Rússa um kaup á Alaska fyrir 7,2 milljónir Bandaríkjadala. Kaupin þóttu sumum glapræði í fyrstu, en reyndust síðar býsna rúmgóð fasteignaviðskipti."
+    },
+    {
+      "ar": "1950",
+      "texti": "Indónesíski leikstjórinn Usmar Ismail hóf tökur á Darah dan Doa, sem er almennt talin fyrsta indónesíska kvikmyndin. Dagurinn er því haldinn hátíðlegur sem þjóðlegur kvikmyndadagur í Indónesíu."
+    },
+    {
+      "ar": "2023",
+      "texti": "Donald Trump varð fyrsti fyrrverandi forseti Bandaríkjanna sem ákærudómstóll samþykkti að ákæra. Þar með var skrifaður nýr og afar óvenjulegur kafli í bandaríska stjórnmálasögu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1802",
+      "texti": "Bólusetning gegn kúabólu var lögboðin á Íslandi, sem varð þar með meðal fyrstu landa til að setja slík lög. Smá stunga, en stórt skref fyrir lýðheilsuna.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1816",
+      "texti": "Hið íslenska bókmenntafélag var stofnað. Félagið átti eftir að verða mikilvægur vettvangur íslenskra fræða og bókaútgáfu — þjóðinni til lestrar og lærdóms.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1934",
+      "texti": "Eldgos hófst í Grímsvötnum undir Vatnajökli og olli hlaupi í Skeiðará. Þegar eldur, ís og vatn taka höndum saman verður Suðurlandið vart við það.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1949",
+      "texti": "Alþingi samþykkti aðild Íslands að NATO, en hörð mótmæli og óeirðir brutust út á Austurvelli. Dagurinn varð einn sá átakamesti í íslenskri stjórnmálasögu 20. aldar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Celine Dion",
+      "starfsgrein": "kanadísk söngkona og lagahöfundur",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Anastasia Potapova",
+      "starfsgrein": "rússnesk tennisleikkona",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Mehmed the Conqueror",
+      "starfsgrein": "soldán Tyrkjaveldis",
+      "ar": "1432"
+    },
+    {
+      "nafn": "Maimonides",
+      "starfsgrein": "gyðinglegur rabbíni og heimspekingur",
+      "ar": "1135"
+    },
+    {
+      "nafn": "Anna Sewell",
+      "starfsgrein": "enskur rithöfundur",
+      "ar": "1820"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Jónsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Ari Alexander Ergis Magnússon",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Málmfríður Sigurðardóttir",
+      "starfsgrein": "alþingiskona",
+      "ar": "1927"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða landsvæði keyptu Bandaríkin af Rússum árið 1867?",
+      "svor": [
+        "Alaska",
+        "Grænland",
+        "Flórída",
+        "Havaí"
+      ],
+      "rett": 0,
+      "skyring": "Alaska kostaði 7,2 milljónir dala, sem telst býsna hagstætt þegar fermetrarnir eru taldir."
+    },
+    {
+      "spurning": "Hvaða íslenska félag var stofnað 30. mars 1816?",
+      "svor": [
+        "Hið íslenska náttúrufræðifélag",
+        "Hið íslenska bókmenntafélag",
+        "Sögufélag",
+        "Ferðafélag Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Hið íslenska bókmenntafélag hefur miðlað fróðleik og bókum síðan 1816."
+    },
+    {
+      "spurning": "Hvaða söngkona, fædd 30. mars 1968, er kanadísk stórstjarna?",
+      "svor": [
+        "Shania Twain",
+        "Alanis Morissette",
+        "Celine Dion",
+        "Joni Mitchell"
+      ],
+      "rett": 2,
+      "skyring": "Celine Dion á afmæli í dag — og röddin virðist hafa fengið sitt eigið hljóðkerfi við fæðingu."
+    }
+  ],
+  "tonlistUSA": "One More Night – Phil Collins (1985)",
+  "tonlistUK": "Easy Lover – Philip Bailey og Phil Collins (1985)",
+  "bio": "Annie Hall (1977)",
+  "ord_dagsins": {
+    "ord": "aftansöngur",
+    "skyring": "Aftansöngur er guðsþjónusta eða tíðagjörð sem fram fer að kvöldi."
+  },
+  "vissir_thu": "Alaska var keypt af Rússum árið 1867 fyrir 7,2 milljónir Bandaríkjadala, sem jafngilti um tveimur sentum fyrir hverja ekru lands.",
+  "stjornuspa": "Hrúturinn finnur í dag gamalt verkefni sem kallar á nýtt hugrekki og örlítið minna fum en síðast. Farðu djarflega af stað, en athugaðu fyrst hvort þú sért að kaupa Alaska eða bara samþykkja skilmálana.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sicilian_Vespers_1281_How_and_after_what_manner_the_island_of_Sicily_rebelled_against_King_Charles_Nuova_Cronica_Giovanni_Villani_14th_century.png/500px-Sicilian_Vespers_1281_How_and_after_what_manner_the_island_of_Sicily_rebelled_against_King_Charles_Nuova_Cronica_Giovanni_Villani_14th_century.png",
+    "ar": "1282",
+    "texti": "Íbúar Sikileyjar risu gegn stjórn Karls 1. af Napólí og hrundu þar með af stað stríðinu sem kennt er við sikileysku aftansöngvana. Uppreisnin hófst með öðrum orðum ekki með hvísli heldur heldur háværum sögulegum hvelli.",
+    "heimild": "https://en.wikipedia.org/wiki/Sicilian_Vespers",
+    "breidd": 330,
+    "haed": 245
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

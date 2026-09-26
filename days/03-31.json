@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-31",
+  "dagur": 31,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Hrútur",
+  "sunrise": "06:50",
+  "sunset": "20:14",
+  "kvedja": "Góðan og glettinn 31. mars! Í dag göngum við með mótmælendum í Armeníu, hlustum á tónleika sem fóru heldur betur úr böndunum í Vín og gleðjumst yfir því að 42 sjómenn komust heilir frá strandi við Reykjanes. Sagan kann greinilega bæði dramatík og góðan endi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1521",
+      "texti": "Ferdinand Magellan og menn úr áhöfn hans tóku þátt í fyrstu kaþólsku messunni á Filippseyjum. Þetta var trúarleg athöfn með býsna langan sögulegan skugga."
+    },
+    {
+      "ar": "1854",
+      "texti": "Matthew C. Perry flotaforingi og Tokugawa-stjórnin undirrituðu Kanagawa-samninginn, sem knúði Japan til að opna hafnir fyrir bandarískum viðskiptum. Þegar fallbyssuskip mæta til samningaviðræðna er jafnræðið sjaldnast fullkomið."
+    },
+    {
+      "ar": "1913",
+      "texti": "Arnold Schoenberg stjórnaði tónleikum með expressjónískri tónlist í Vín sem hneyksluðu áheyrendur svo mjög að óeirðir brutust út. Gagnrýnendur nútímans láta sér yfirleitt nægja stjörnur af fimm."
+    },
+    {
+      "ar": "1959",
+      "texti": "Fjórtándi Dalai Lama náði til Tawang-klaustursins á Indlandi eftir tveggja vikna flótta frá Tíbet."
+    },
+    {
+      "ar": "2018",
+      "texti": "Nikol Pashinyan lagði af stað í mótmælagöngu frá borginni Gyumri og markaði þar með upphaf armensku byltingarinnar 2018. Stundum hefjast stór pólitísk umskipti einfaldlega á því að einhver reimar á sig skóna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1863",
+      "texti": "Maddama Vilhelmina Lever á Akureyri varð fyrst kvenna til að kjósa í bæjarstjórnarkosningum á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1905",
+      "texti": "Gull fannst við jarðborun í Vatnsmýri við Öskjuhlíð í Reykjavík, en magnið var of lítið til vinnslu. Gullæði Reykvíkinga varð því styttra en kaffihlé.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1955",
+      "texti": "Togarinn Jón Baldvinsson strandaði við Reykjanes, en allri 42 manna áhöfninni var bjargað.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1967",
+      "texti": "Snjódýpt á Raufarhöfn mældist 205 sentímetrar, sem þykir með fádæmum í íslensku þéttbýli. Þar hefur skóflan líklega verið heimilistæki dagsins.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Angus Young",
+      "starfsgrein": "gítarleikari og lagahöfundur",
+      "ar": "1955"
+    },
+    {
+      "nafn": "Al Gore",
+      "starfsgrein": "stjórnmálamaður og Nóbelsverðlaunahafi",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Hinrik 2. Frakkakonungur",
+      "starfsgrein": "konungur Frakklands",
+      "ar": "1519"
+    },
+    {
+      "nafn": "Alejandro Amenábar",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Anandi Gopal Joshi",
+      "starfsgrein": "læknir",
+      "ar": "1865"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Thorsteinsson",
+      "starfsgrein": "amtmaður",
+      "ar": "1781"
+    },
+    {
+      "nafn": "Páll Melsteð",
+      "starfsgrein": "amtmaður, sýslumaður og alþingismaður",
+      "ar": "1791"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaðan lagði Nikol Pashinyan af stað í mótmælagönguna árið 2018?",
+      "svor": [
+        "Gyumri",
+        "Jerevan",
+        "Tbilisi",
+        "Tawang"
+      ],
+      "rett": 0,
+      "skyring": "Gangan hófst í Gyumri og varð upphafið að armensku byltingunni 2018."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að kjósa í bæjarstjórnarkosningum á Íslandi?",
+      "svor": [
+        "Anandi Gopal Joshi",
+        "Vilhelmina Lever",
+        "Selena",
+        "Philippa af Lancaster"
+      ],
+      "rett": 1,
+      "skyring": "Maddama Vilhelmina Lever greiddi atkvæði á Akureyri árið 1863."
+    },
+    {
+      "spurning": "Hversu mörgum var bjargað af togaranum Jóni Baldvinssyni árið 1955?",
+      "svor": [
+        "21",
+        "37",
+        "42",
+        "60"
+      ],
+      "rett": 2,
+      "skyring": "Öllum 42 skipverjunum var bjargað, sem er sú tala sem mestu máli skipti þann dag."
+    }
+  ],
+  "tonlistUSA": "Footloose – Kenny Loggins (1984)",
+  "tonlistUK": "Hello – Lionel Richie (1984)",
+  "bio": "Fylkið (1999)",
+  "ord_dagsins": {
+    "ord": "öldungis",
+    "skyring": "Orðið merkir alveg, algerlega eða að öllu leyti."
+  },
+  "vissir_thu": "Snjódýptin á Raufarhöfn 31. mars 1967 mældist 205 sentímetrar, meira en hæð flestra fullorðinna Íslendinga.",
+  "stjornuspa": "Hrúturinn finnur hjá sér byltingarþrótt og gæti jafnvel gengið af stað án þess að vita alveg hvert leiðin liggur. Reimaðu skóna, en mundu að ekki þurfa allar skoðanir að enda eins og expressjónískir tónleikar í Vín.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ferdinand_Magellan.jpg/500px-Ferdinand_Magellan.jpg",
+    "ar": "1521",
+    "texti": "Ferdinand Magellan og menn úr áhöfn hans tóku þátt í fyrstu kaþólsku messunni á Filippseyjum. Þetta var trúarleg athöfn með býsna langan sögulegan skugga.",
+    "heimild": "https://en.wikipedia.org/wiki/Ferdinand_Magellan",
+    "breidd": 330,
+    "haed": 407
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
