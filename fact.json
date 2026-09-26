@@ -1,58 +1,74 @@
 {
-  "date": "2026-09-25",
-  "dagur": 25,
+  "date": "2026-09-26",
+  "dagur": 26,
   "manudur": "september",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 268,
-  "sunrise": "07:18",
-  "sunset": "19:17",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 269,
+  "sunrise": "07:21",
+  "sunset": "19:14",
   "stjornumerki": "Vog",
-  "nafnadagur": "Baldvin",
+  "nafnadagur": "Eygló",
   "atburdir": [
     {
       "ar": "1983",
-      "texti": "Í einum stærsta fangelsisflótta í sögu Bretlands sluppu 38 fangar úr Írska lýðveldishersins úr HM Prison Maze í Norður-Írlandi."
+      "texti": "Kaldastríðið: Sovéski undirofurstinn Stanislav Petrov kom í veg fyrir hugsanlegt kjarnorkustríð með því að bera kennsl á merki sem virtust benda til yfirvofandi eldflaugaárás Bandaríkjanna sem falska viðvörun."
     },
     {
-      "ar": "1981",
-      "texti": "Sandra Day O'Connor varð fyrsta konan til að gegna embætti dómara við Hæstarétt Bandaríkjanna."
+      "ar": "1983",
+      "texti": "Kappsiglingaskipið Australia II, undir stjórn John Bertrand, vann Ameríkubikarinn og batt enda á 132 ára vörn New York Yacht Club á bikarnum."
     },
     {
-      "ar": "1957",
-      "texti": "Hermenn Bandaríkjahers fylgdu níu nemendum þegar Central High School í Little Rock, Arkansas, varð samþætt."
+      "ar": "1959",
+      "texti": "Japan varð fyrir árás fellibylsins Vera, sterkasta og mannskæðasta fellibyls sem vitað er um að hafi komið á land í landinu, olli tjóni upp á yfir 261 milljón Bandaríkjadala og meira en 5.000 dauðsföllum."
     },
     {
-      "ar": "1890",
-      "texti": "Sequoia þjóðgarðurinn var stofnaður til að vernda risavaxin sequoia tré á svæði sem var undir áhrifum skógarhöggs í suðurhluta Sierra Nevada í Kaliforníu."
+      "ar": "1907",
+      "texti": "Breska nýlendan Nýja-Sjáland varð opinberlega sjálfstætt ríki til að endurspegla pólitískt sjálfstæði sitt frá 1850."
     },
     {
-      "ar": "1066",
-      "texti": "Harold Godwinson sigraði Harald III Noregskonung og enska bandamann hans, Tostig Godwinson, í orrustunni við Stamford Bridge, og batt þar með enda á síðustu norrænu innrásina á Bretlandseyjar."
+      "ar": "1580",
+      "texti": "Galleon enska landkönnuðarins Francis Drake, Golden Hind, sigldi inn í Plymouth og lauk þar með hnattsiglingu sinni."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1654",
-      "texti": "Grímur Jónsson var brenndur á báli fyrir galdur í Trékyllisvík á Ströndum. Fimm dögum áður höfðu Þórður Guðbrandsson og Egill Bjarnason verið brenndir þar fyrir sömu sakir."
+      "ar": "1915",
+      "texti": "Við Stjórnarráðshúsið í Reykjavík var afhjúpaður minnisvarði um Kristján 9. konung á afmælisdegi Kristjáns 10.. Styttan, sem er eftir Einar Jónsson, sýnir konung með stjórnarskrána í framréttri hendi."
     },
     {
-      "ar": "1850",
-      "texti": "Fyrsta heildarlöggjöf um erfðir gekk í gildi á Íslandi og samkvæmt henni skyldu dætur njóta sama réttar til arfs og synir."
+      "ar": "1970",
+      "texti": "Íslensk flugvél fórst á Mykinesi í Færeyjum. Þetta var Fokker Friendship farþegavél frá Flugfélagi Íslands og voru 30 farþegar um borð auk fjögurra manna áhafnar. Átta manns fórust, þar af einn Íslendingur."
     },
     {
-      "ar": "1903",
-      "texti": "Íslandsbanki var settur á stofn."
+      "ar": "2008",
+      "texti": "Gengisvísitala íslensku krónunnar fór upp í 183,91 stig og hafði þá aldrei verið hærri. Krónan hafði aldrei verið lægri gagnvart evrunni (1/140,96) og ekki lægri gangvart bandaríkjadal síðan árið 2002 (1/96,80)."
     }
   ],
-  "afmaeli": [],
-  "tonlistUSA": "I'll Be There – The Jackson 5 (1970)",
-  "tonlistUK": "Don't Stop Movin' – S Club 7 (2001)",
-  "bio": "The Shawshank Redemption (1994)",
+  "afmaeli": [
+    {
+      "nafn": "Jane Smiley",
+      "starfsgrein": "bandarískur rithöfundur",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Bill France Sr.",
+      "starfsgrein": "bandarískur kappakstursbílstjóri, stofnaði NASCAR",
+      "ar": "1909"
+    },
+    {
+      "nafn": "George Raft",
+      "starfsgrein": "bandarískur leikari, söngvari og dansari",
+      "ar": "1901"
+    }
+  ],
+  "tonlistUSA": "My Heart Will Go On – Celine Dion (1998)",
+  "tonlistUK": "Wannabe – Spice Girls (1996)",
+  "bio": "The Rocky Horror Picture Show (1975)",
   "ord_dagsins": {
-    "ord": "hagleikur",
-    "skyring": "Færni eða kunnátta í handverki eða list."
+    "ord": "hrakfallabálkur",
+    "skyring": "Sá sem lendir í óláni eða er óheppinn."
   },
-  "vissir_thu": "Vogir eru eina stjörnumerkið sem er táknað með dauðum hlut, vogarskálum.",
-  "stjornuspa": "Í dag muntu finna jafnvægi í öllu sem þú tekur þér fyrir hendur, Vog. Nýttu þér þessa orku til að leysa gamlar deilur og skapa sátt í kringum þig.",
-  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "vissir_thu": "Fyrsta opinbera flugferð í heimi fór fram árið 1783 í París með loftbelg sem bræðurnir Montgolfier hönnuðu.",
+  "stjornuspa": "Vogir, í dag er góður dagur til að finna jafnvægi í lífi ykkar. Leyfið ykkur að njóta fegurðarinnar í kringum ykkur og deilið gleði ykkar með öðrum.",
+  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
