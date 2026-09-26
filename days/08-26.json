@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-26",
+  "dagur": 26,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "05:51",
+  "sunset": "21:06",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 26. ágúst teygir sig frá langbogum við Crécy og réttindayfirlýsingu Frakka yfir í snigil á gosflösku og fyrsta Reykjavíkurmaraþonið. Sagan kann svo sannarlega að taka óvæntar beygjur — stundum á hlaupaskóm.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1071",
+      "texti": "Seljúkar undir forystu Alp Arslan sigruðu Býsansmenn við Manzikert og tóku Romanos 4. keisara til fanga. Ósigurinn markaði veruleg þáttaskil í hnignandi gengi Býsansríkis."
+    },
+    {
+      "ar": "1346",
+      "texti": "Í orrustunni við Crécy sýndu enskir langbogamenn að brynvarðir riddarar voru ekki ósigrandi. Englendingar unnu þar mikilvægan sigur á Frökkum í Hundrað ára stríðinu."
+    },
+    {
+      "ar": "1789",
+      "texti": "Stjórnlagaþing Frakka samþykkti yfirlýsingu um réttindi mannsins og borgarans. Þar voru sett fram grundvallarréttindi einstaklinga og samfélags — byltingin var greinilega komin með stefnuskrá."
+    },
+    {
+      "ar": "1928",
+      "texti": "Kona á kaffihúsi í Paisley fann leifar snigils í engiferölsflösku. Hinn óboðni gestur varð kveikjan að tímamótamálinu Donoghue gegn Stevenson um ábyrgð framleiðenda gagnvart neytendum."
+    },
+    {
+      "ar": "1968",
+      "texti": "Bítlarnir gáfu út „Hey Jude“, sem varð þá lengsta smáskífan til að komast á topp breska vinsældalistans. Sjaldan hefur eitt „na-na-na“ teygt jafn glæsilega úr sér."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1896",
+      "texti": "Öflugur jarðskjálfti reið yfir Suðurland og margir bæir í Rangárvallasýslu féllu. Styrkur skjálftans hefur verið metinn 6,9 stig.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1979",
+      "texti": "Snorrahátíð var haldin í Reykholti í tilefni af átta alda afmæli Snorra Sturlusonar.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1984",
+      "texti": "Fyrsta Reykjavíkurmaraþonið var haldið og þátttakendur voru 214. Aðeins tíu árum síðar voru hlaupararnir orðnir á fjórða þúsund.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Ísland varð fyrst allra ríkja til að taka upp formlegt stjórnmálasamband við Eistland, Lettland og Litáen.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Antoine Lavoisier",
+      "starfsgrein": "efnafræðingur og líffræðingur",
+      "ar": "1743"
+    },
+    {
+      "nafn": "Albert Sabin",
+      "starfsgrein": "læknir og veirufræðingur",
+      "ar": "1906"
+    },
+    {
+      "nafn": "Alison Steadman",
+      "starfsgrein": "leikkona",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Valerie Simpson",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Adrian Young",
+      "starfsgrein": "trommuleikari og lagahöfundur",
+      "ar": "1969"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Daníel Ágúst Haraldsson",
+      "starfsgrein": "söngvari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Steinunn Sigurðardóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Ingi T. Lárusson",
+      "starfsgrein": "tónskáld",
+      "ar": "1892"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hversdagslega skepna kom af stað tímamóta dómsmáli árið 1928?",
+      "svor": [
+        "Snigill",
+        "Mús",
+        "Geitungur",
+        "Froskur"
+      ],
+      "rett": 0,
+      "skyring": "Snigilsleifar í engiferölsflösku urðu upphafið að málinu Donoghue gegn Stevenson."
+    },
+    {
+      "spurning": "Hversu margir tóku þátt í fyrsta Reykjavíkurmaraþoninu árið 1984?",
+      "svor": [
+        "84",
+        "214",
+        "846",
+        "2.140"
+      ],
+      "rett": 1,
+      "skyring": "Þátttakendurnir voru 214 — hóflegur en hraustlegur byrjunarhópur."
+    },
+    {
+      "spurning": "Hvaða vísindamaður, fæddur 26. ágúst, þróaði bóluefni gegn lömunarveiki?",
+      "svor": [
+        "Antoine Lavoisier",
+        "Albert Sabin",
+        "Barbet Schroeder",
+        "Alan Parker"
+      ],
+      "rett": 1,
+      "skyring": "Albert Sabin var læknir og veirufræðingur sem þróaði bóluefni gegn lömunarveiki."
+    }
+  ],
+  "tonlistUSA": "Right Here Waiting – Richard Marx (1989)",
+  "tonlistUK": "Swing the Mood – Jive Bunny and the Mastermixers (1989)",
+  "bio": "Pather Panchali (1955)",
+  "ord_dagsins": {
+    "ord": "langbogi",
+    "skyring": "Langbogi er stór og öflug bogategund sem enskir bogmenn beittu með miklum árangri á miðöldum."
+  },
+  "vissir_thu": "Antoine Lavoisier átti stóran þátt í að móta nútímaefnafræði og sýndi fram á mikilvægi súrefnis við bruna.",
+  "stjornuspa": "Meyjan finnur hjá sér sterka löngun til að flokka skrúfur eftir stærð og byltingar eftir árangri. Mundu þó að jafnvel sagan fylgir ekki alltaf snyrtilegri dagskrá — og það má kaffibollinn þinn heldur ekki þurfa að gera.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Byzantium_vs_Seljuk_c_1071_cropped.png/330px-Byzantium_vs_Seljuk_c_1071_cropped.png",
+    "ar": "1071",
+    "texti": "Seljúkar undir forystu Alp Arslan sigruðu Býsansmenn við Manzikert og tóku Romanos 4. keisara til fanga. Ósigurinn markaði veruleg þáttaskil í hnignandi gengi Býsansríkis.",
+    "heimild": "https://en.wikipedia.org/wiki/Byzantine–Seljuk_wars",
+    "breidd": 330,
+    "haed": 254
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

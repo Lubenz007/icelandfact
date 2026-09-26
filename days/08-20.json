@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-20",
+  "dagur": 20,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:33",
+  "sunset": "21:27",
+  "kvedja": "Góðan 20. ágúst, kæri lesandi! Í dag förum við frá vígvöllum Búlgaríu út í geim, með viðkomu á Þingvöllum og í fótboltasögunni — býsna drjúg dagskrá fyrir einn miðvikudag í dagatalinu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "917",
+      "texti": "Her Símeons 1. Búlgarakeisara vann afgerandi sigur á Býsansmönnum í orrustunni við Achelous og hrakti þá frá Þrakíu."
+    },
+    {
+      "ar": "1909",
+      "texti": "Plútó var ljósmyndaður í fyrsta sinn við Yerkes-stjörnuathugunarstöðina í Wisconsin — heilum 21 árum áður en Clyde Tombaugh uppgötvaði hann formlega."
+    },
+    {
+      "ar": "1920",
+      "texti": "American Professional Football Conference var stofnað í Canton í Ohio. Samtökin voru forveri NFL-deildarinnar, svo þarna var sáð fræi að ansi fyrirferðarmiklu íþróttaveldi."
+    },
+    {
+      "ar": "1989",
+      "texti": "Skemmtibáturinn Marchioness sökk á aðeins þrjátíu sekúndum eftir árekstur við dýpkunarprammann Bowbelle á Thames í London. Fimmtíu og einn fórst."
+    },
+    {
+      "ar": "2018",
+      "texti": "Mótmælendur felldu Silent Sam, minnisvarða um Suðurríkin, á háskólasvæði University of North Carolina í Chapel Hill."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1888",
+      "texti": "Þingvallafundur var haldinn um stjórnarskrármálið, enda hafa Þingvellir lengi verið kjörinn staður þegar þjóðin þarf að ræða stóru málin.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1898",
+      "texti": "Veitinga- og gistihúsið Valhöll var vígt á Þingvöllum og fékk nafn sitt af búð Snorra Sturlusonar. Húsið var síðar flutt en eyðilagðist í eldi árið 2009.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1933",
+      "texti": "Fyrsta bílferðin yfir Sprengisand lauk þegar ferðalangar komu að Mýri í Bárðardal eftir fimm daga leiðangur úr Landsveit.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1944",
+      "texti": "Reykjavíkurborg tók í fyrsta sinn við rekstri Strætisvagna Reykjavíkur — og borgarbúar fengu nýjan sameiginlegan fararskjóta.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andrew Garfield",
+      "starfsgrein": "bandarísk-breskur leikari",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Amy Adams",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Benjamin Harrison",
+      "starfsgrein": "bandarískur stjórnmálamaður og forseti",
+      "ar": "1833"
+    },
+    {
+      "nafn": "Al Roker",
+      "starfsgrein": "bandarískur sjónvarpsmaður og rithöfundur",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Alan Lee",
+      "starfsgrein": "enskur myndlistarmaður og teiknari",
+      "ar": "1947"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ívar Ingimarsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Ágúst H. Bjarnason",
+      "starfsgrein": "sálfræðingur",
+      "ar": "1875"
+    },
+    {
+      "nafn": "Margrét Jónsdóttir",
+      "starfsgrein": "skáld",
+      "ar": "1893"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjarlægi hnöttur náðist á ljósmynd 21 ári áður en hann var formlega uppgötvaður?",
+      "svor": [
+        "Plútó",
+        "Neptúnus",
+        "Mars",
+        "Satúrnus"
+      ],
+      "rett": 0,
+      "skyring": "Plútó laumaðist inn á ljósmynd árið 1909, löngu áður en menn áttuðu sig á því hvað þeir höfðu fest á filmu."
+    },
+    {
+      "spurning": "Hversu lengi var skemmtibáturinn Marchioness að sökkva eftir áreksturinn á Thames?",
+      "svor": [
+        "Tíu mínútur",
+        "Þrjátíu sekúndur",
+        "Ein klukkustund",
+        "Fimm mínútur"
+      ],
+      "rett": 1,
+      "skyring": "Marchioness sökk á aðeins þrjátíu sekúndum, sem sýnir hve skyndilega slysið varð."
+    },
+    {
+      "spurning": "Hver þessara leikara á afmæli 20. ágúst?",
+      "svor": [
+        "Emma Stone",
+        "Andrew Garfield",
+        "Tom Hanks",
+        "Christian Bale"
+      ],
+      "rett": 1,
+      "skyring": "Andrew Garfield fæddist 20. ágúst 1983 og telst því Ljón með leikrænan glampa."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Give It Up – KC and the Sunshine Band (1983)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "farvi",
+    "skyring": "Farvi er gamalt eða sjaldgæft orð yfir lit eða litarhátt."
+  },
+  "vissir_thu": "Plútó sást á ljósmynd frá 1909, en enginn bar kennsl á hnöttinn fyrr en eftir formlega uppgötvun hans árið 1930.",
+  "stjornuspa": "Ljónið finnur í dag fyrir hetjulegri löngun til að stjórna ferðinni, jafnvel þótt hún sé aðeins niður í búð. Mundu þó að kórónan situr betur ef þú leyfir öðrum öðru hverju að velja tónlistina.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BG_BYZ.JPG/330px-BG_BYZ.JPG",
+    "ar": "917",
+    "texti": "Her Símeons 1. Búlgarakeisara vann afgerandi sigur á Býsansmönnum í orrustunni við Achelous og hrakti þá frá Þrakíu.",
+    "heimild": "https://en.wikipedia.org/wiki/Byzantine–Bulgarian_wars",
+    "breidd": 330,
+    "haed": 315
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

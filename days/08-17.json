@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-17",
+  "dagur": 17,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:23",
+  "sunset": "21:37",
+  "kvedja": "Góðan 17. ágúst! Í dag syndum við með Michael Phelps, fylgjum Indónesíu til sjálfstæðis og kíkjum á Heklu — en höldum okkur þó í hæfilegri fjarlægð frá henni. Ljón dagsins mega að sjálfsögðu ganga fyrst inn, enda annað varla í boði.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "986",
+      "texti": "Búlgarar sigruðu her Býsans í orrustunni við Trójanshliðið nærri Ihtiman í núverandi Búlgaríu. Basil 2. keisari slapp naumlega, sem telst heldur betur viðburðaríkur vinnudagur."
+    },
+    {
+      "ar": "1560",
+      "texti": "Siðbótarþing Skota samþykkti mótmælendatrúarjátningu og hratt þar með skosku siðbótinni formlega af stað. Kaþólsk trú missti um leið stöðu sína sem þjóðartrú."
+    },
+    {
+      "ar": "1907",
+      "texti": "Pike Place Market opnaði í Seattle. Markaðurinn er einn elsti almenningsmarkaður Bandaríkjanna sem hefur starfað samfellt og síðar varð hann vinsæll ferðamannastaður."
+    },
+    {
+      "ar": "1945",
+      "texti": "Sjálfstæði Indónesíu var lýst yfir og í kjölfarið hófst bylting gegn hollenska nýlenduveldinu. Frelsið kom því ekki inn um dyrnar á inniskónum."
+    },
+    {
+      "ar": "2008",
+      "texti": "Sundmaðurinn Michael Phelps vann áttundu gullverðlaun sín á Ólympíuleikunum í Beijing. Þar með setti hann met yfir flest gull sem einn íþróttamaður hefur unnið á sömu leikum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1924",
+      "texti": "Ítalski flugmaðurinn Antonio Locatelli kom til Reykjavíkur á flugbáti. Fjórum dögum síðar hélt hann til Grænlands ásamt Erik Nelson, sem hafði fyrstur manna komið fljúgandi til Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1946",
+      "texti": "Valgerður Þorsteinsdóttir varð fyrsta íslenska konan til að ljúka einkaflugmannsprófi — glæsilegt skref upp á við í bókstaflegri merkingu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1964",
+      "texti": "Liverpool FC lék við KR á Íslandi og vann 5–0. Gestirnir virðast sem sagt hafa munað að pakka markaskónum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1980",
+      "texti": "Eldgos hófst í Heklu og stóð aðeins í nokkra daga. Annað stutt gos hófst 9. apríl 1981 og er talið hafa verið framhald þessa goss.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Austin Butler",
+      "starfsgrein": "leikari",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Belinda Carlisle",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Karl 1. af Austurríki",
+      "starfsgrein": "keisari Austurríkis",
+      "ar": "1887"
+    },
+    {
+      "nafn": "Davy Crockett",
+      "starfsgrein": "hermaður og stjórnmálamaður",
+      "ar": "1786"
+    },
+    {
+      "nafn": "Brady Corbet",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1988"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Ingi Hilmarsson",
+      "starfsgrein": "leikari",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Arnhildur Valgarðsdóttir",
+      "starfsgrein": "píanóleikari",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Jón Árnason",
+      "starfsgrein": "þjóðsagnasafnari",
+      "ar": "1819"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað vann Michael Phelps mörg gullverðlaun á Ólympíuleikunum í Beijing 2008?",
+      "svor": [
+        "Sex",
+        "Sjö",
+        "Átta",
+        "Níu"
+      ],
+      "rett": 2,
+      "skyring": "Phelps vann átta gull og setti met sem seint verður kallað venjulegt sundspretti."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf gos 17. ágúst 1980?",
+      "svor": [
+        "Katla",
+        "Hekla",
+        "Askja",
+        "Grímsvötn"
+      ],
+      "rett": 1,
+      "skyring": "Það var Hekla, sem minnti landsmenn stuttlega á að hún væri enn á vaktinni."
+    },
+    {
+      "spurning": "Hvaða knattspyrnulið sigraði KR 5–0 á Íslandi árið 1964?",
+      "svor": [
+        "Liverpool FC",
+        "Arsenal",
+        "Celtic",
+        "Manchester United"
+      ],
+      "rett": 0,
+      "skyring": "Liverpool FC fór með 5–0 sigur af hólmi og skildi markatöfluna eftir fremur rauða í framan."
+    }
+  ],
+  "tonlistUSA": "People Got to Be Free – The Rascals (1968)",
+  "tonlistUK": "Mony Mony – Tommy James and the Shondells (1968)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem lítur vel út innan frá en reynist mun óblíðara þegar út er komið."
+  },
+  "vissir_thu": "Michael Phelps vann ekki aðeins átta gullverðlaun í Beijing 2008 heldur setti með því met yfir flest gull eins íþróttamanns á einum Ólympíuleikum.",
+  "stjornuspa": "Ljónið finnur í dag fyrir meiri sviðsljóma en Austin Butler á frumsýningu og ætti að nota hann af rausn, en ekki til að blinda samstarfsfólkið. Gamalt verkefni gæti skyndilega tekið flugið — hafðu því flugmannsgleraugun við höndina.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/BG_BYZ.JPG/330px-BG_BYZ.JPG",
+    "ar": "986",
+    "texti": "Búlgarar sigruðu her Býsans í orrustunni við Trójanshliðið nærri Ihtiman í núverandi Búlgaríu. Basil 2. keisari slapp naumlega, sem telst heldur betur viðburðaríkur vinnudagur.",
+    "heimild": "https://en.wikipedia.org/wiki/Byzantine–Bulgarian_wars",
+    "breidd": 330,
+    "haed": 315
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

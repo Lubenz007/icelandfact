@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-19",
+  "dagur": 19,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:29",
+  "sunset": "21:30",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 19. ágúst mætast krýningar, uppreisnir, rafmagnsleigubílar og laxar á lausagöngu — sagan kann greinilega að blanda sér dálítið óvenjulegan kokteil. Helltu upp á kaffi og njóttu ferðarinnar; við lofum að brjóta ekki portúgalskt hlutleysi á leiðinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1274",
+      "texti": "Játvarður 1. var krýndur Englandskonungur í Westminster Abbey, nær tveimur árum eftir lát föður síns. Krúnan hafði beðið lengi, en lét þó ekki sjá á sér."
+    },
+    {
+      "ar": "1745",
+      "texti": "Bonnie Prince Charlie reisti merki Jakobíta við Glenfinnan í Skotlandi og hóf uppreisnina 1745 í von um að endurheimta bresku krúnuna fyrir föður sinn."
+    },
+    {
+      "ar": "1897",
+      "texti": "Bersey Electric Cab hóf akstur sem fyrsti rafknúni leigubíll Lundúnaborgar. Rafbíllinn er því talsvert eldri hugmynd en margur hleðslustaurinn gefur til kynna."
+    },
+    {
+      "ar": "1934",
+      "texti": "Í þjóðaratkvæðagreiðslu í Þýskalandi var sameining embætta kanslara og forseta studd og þar með treysti Adolf Hitler æðstu völd sín enn frekar í sessi."
+    },
+    {
+      "ar": "2017",
+      "texti": "Um 250.000 eldislaxar af framandi Atlantshafsstofni sluppu út í náttúruna nærri Cypress Island í Washingtonríki. Þetta var heldur fjölmennari strokuferð en fiskeldismenn höfðu pantað."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1809",
+      "texti": "Jörundur hundadagakonungur afsalaði sér völdum á Íslandi og lauk þar með einu litríkasta valdaævintýri Íslandssögunnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1871",
+      "texti": "Alþingismenn stofnuðu Hið íslenska þjóðvinafélag til að efla þjóðernisvitund Íslendinga.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1939",
+      "texti": "Blindrafélagið var stofnað á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1993",
+      "texti": "Íslenskir togarar hófu veiðar í Smugunni, hafsvæðinu milli fiskveiðilögsagna Noregs og Rússlands.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Clinton",
+      "starfsgrein": "lögmaður og fyrrverandi Bandaríkjaforseti",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Adam Arkin",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Christina Perri",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Bajirao I",
+      "starfsgrein": "hershöfðingi og peshwa Marathaveldisins",
+      "ar": "1700"
+    },
+    {
+      "nafn": "Awak Kuier",
+      "starfsgrein": "körfuknattleikskona",
+      "ar": "2001"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Helgi Hálfdanarson",
+      "starfsgrein": "sálmaskáld og prestur",
+      "ar": "1826"
+    },
+    {
+      "nafn": "Árni Þórarinsson",
+      "starfsgrein": "Hólabiskup",
+      "ar": "1741"
+    },
+    {
+      "nafn": "Sigurður Jónasson",
+      "starfsgrein": "stjórnmála- og athafnamaður",
+      "ar": "1896"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða farartæki hóf rafmagnaðan akstur í Lundúnum árið 1897?",
+      "svor": [
+        "Leigubíll",
+        "Sporvagn",
+        "Slökkvibíll",
+        "Tvílyftur strætisvagn"
+      ],
+      "rett": 0,
+      "skyring": "Bersey Electric Cab var fyrsti rafknúni leigubíll Lundúna."
+    },
+    {
+      "spurning": "Hver lagði frá sér íslensku valdastafina 19. ágúst 1809?",
+      "svor": [
+        "Jón Sigurðsson",
+        "Jörundur hundadagakonungur",
+        "Hannes Hafstein",
+        "Skúli Magnússon"
+      ],
+      "rett": 1,
+      "skyring": "Jörundur afsalaði sér völdum og hundadagakonungdæmið varð að sögulegri svipmynd."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins varð forseti Bandaríkjanna?",
+      "svor": [
+        "Adam Arkin",
+        "Bajirao I",
+        "Bill Clinton",
+        "Anthony Muñoz"
+      ],
+      "rett": 2,
+      "skyring": "Bill Clinton varð 42. forseti Bandaríkjanna."
+    }
+  ],
+  "tonlistUSA": "Waterfalls – TLC (1995)",
+  "tonlistUK": "Never Forget – Take That (1995)",
+  "bio": "A Hard Day's Night (1964)",
+  "ord_dagsins": {
+    "ord": "hentifáni",
+    "skyring": "Hentifáni er fáni ríkis sem skip er skráð í, oft til að njóta hagstæðari reglna eða kjara en í heimalandinu."
+  },
+  "vissir_thu": "Rafknúnir leigubílar voru komnir í þjónustu í Lundúnum árið 1897, löngu áður en bensínbíllinn varð sjálfsagður húsráðandi á götunum.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og Bonnie Prince Charlie með merkið á lofti, en ætti að kanna hvort liðsauki sé raunverulega á leiðinni. Gamalt verkefni gæti fengið nýjan rafmagnsneista — mundu bara að hlaða bæði tækin og þolinmæðina.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Ninth_Crusade-en.svg/500px-Ninth_Crusade-en.svg.png",
+    "ar": "1274",
+    "texti": "Játvarður 1. var krýndur Englandskonungur í Westminster Abbey, nær tveimur árum eftir lát föður síns. Krúnan hafði beðið lengi, en lét þó ekki sjá á sér.",
+    "heimild": "https://en.wikipedia.org/wiki/Lord_Edward's_crusade",
+    "breidd": 330,
+    "haed": 453
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

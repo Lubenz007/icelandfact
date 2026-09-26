@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-18",
+  "dagur": 18,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:26",
+  "sunset": "21:34",
+  "kvedja": "Góðan 18. ágúst, kæri lesandi! Í dag röltum við frá yfirgefnu nýlendunni Roanoke til kaupstaðarins Reykjavíkur, með viðkomu á Mars og örlitlu gríni í farteskinu. Sagan ferðast nefnilega létt, jafnvel þótt hún beri stundum þungan farangur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "684",
+      "texti": "Stuðningsmenn Úmajada sigruðu fylgismenn Abd Allah ibn al-Zubayr nærri Damaskus og treystu þar með yfirráð sín í Sýrlandi."
+    },
+    {
+      "ar": "1590",
+      "texti": "John White sneri aftur til Roanoke-nýlendunnar eftir þriggja ára fjarveru og fann hana yfirgefna. Landnemarnir voru horfnir og ráðgátan hefur æ síðan kitlað ímyndunarafl sagnfræðinga."
+    },
+    {
+      "ar": "1823",
+      "texti": "Að minnsta kosti 9.000 þrælar gerðu uppreisn í bresku nýlendunni Demerara-Essequibo, þar sem nú er Gvæjana, og kröfðust frelsis."
+    },
+    {
+      "ar": "1920",
+      "texti": "Nítjánda viðbótin við stjórnarskrá Bandaríkjanna var staðfest og tryggði konum kosningarétt. Kjörklefinn varð loksins opnari, þótt jafnréttisbaráttunni væri vitaskuld langt frá lokið."
+    },
+    {
+      "ar": "2017",
+      "texti": "Tveir létust og átta særðust í íslamskri hryðjuverkaárás í Turku í Finnlandi, þegar hælisleitandi sem hafði fengið synjun réðst á fólk með hnífi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1786",
+      "texti": "Reykjavík fékk kaupstaðarréttindi ásamt Grundarfirði, Ísafirði, Akureyri, Seyðisfirði og Vestmannaeyjum. Reykvíkingar voru þá aðeins 167 talsins — hæfilegur fjöldi í eina myndarlega blokk nú á dögum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1945",
+      "texti": "Svavar Guðnason opnaði sýningu í Listamannaskálanum þar sem öll verkin voru abstrakt, þá fyrstu sinnar tegundar á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1990",
+      "texti": "Sólfar Jóns Gunnars Árnasonar var afhjúpað við Sæbraut í Reykjavík og hefur síðan horft til hafs með reisn hins eilífa ferðalangs.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1996",
+      "texti": "Menningarnótt var haldin í fyrsta sinn í Reykjavík og miðborgin fékk nýja árlega afsökun til að vaka lengur en góðu hófi gegnir.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Samberg",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Richard David James",
+      "starfsgrein": "raftónlistarmaður og upptökustjóri",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Brian Michael Bendis",
+      "starfsgrein": "myndasöguhöfundur og teiknari",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Bogdan Bogdanović",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Amelia Boynton Robinson",
+      "starfsgrein": "borgararéttindafrömuður",
+      "ar": "1911"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnar Freyr Ársælsson",
+      "starfsgrein": "handknattleiksmaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Bogi Thorarensen",
+      "starfsgrein": "amtmaður",
+      "ar": "1822"
+    },
+    {
+      "nafn": "Eggert Jónsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1988"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað blasti við John White þegar hann sneri aftur til Roanoke árið 1590?",
+      "svor": [
+        "Nýlendan var yfirgefin",
+        "Nýlendan hafði orðið höfuðborg",
+        "Spánverjar höfðu reist þar virki",
+        "Landnemarnir héldu mikla uppskeruhátíð"
+      ],
+      "rett": 0,
+      "skyring": "Roanoke var yfirgefin og örlög landnemanna urðu ein frægasta ráðgáta nýlendusögu Norður-Ameríku."
+    },
+    {
+      "spurning": "Hversu margir Reykvíkingar voru taldir þegar Reykjavík fékk kaupstaðarréttindi árið 1786?",
+      "svor": [
+        "67",
+        "167",
+        "1.670",
+        "3.540"
+      ],
+      "rett": 1,
+      "skyring": "Reykvíkingarnir voru 167 — þá hefði líklega verið auðveldara að muna nöfn allra nágrannanna."
+    },
+    {
+      "spurning": "Hvaða listaverk var afhjúpað við Sæbraut árið 1990?",
+      "svor": [
+        "Þúfa",
+        "Óþekkti embættismaðurinn",
+        "Sólfar",
+        "Vatnsberinn"
+      ],
+      "rett": 2,
+      "skyring": "Sólfar eftir Jón Gunnar Árnason var afhjúpað og varð síðar eitt þekktasta kennileiti Reykjavíkur."
+    }
+  ],
+  "tonlistUSA": "Ghostbusters – Ray Parker Jr. (1984)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
+  "bio": "Mortal Kombat (1995)",
+  "ord_dagsins": {
+    "ord": "ljónslund",
+    "skyring": "Ljónslund er hugrekki eða stórmannlegt og ótrauðt skap."
+  },
+  "vissir_thu": "Asaph Hall uppgötvaði Fóbos, stærra tungl Mars, aðeins sex dögum eftir að hann fann minna tunglið Deimos.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og aðalstjarna í litskrúðugri kvikmynd frá níunda áratugnum, með vindvélina stillta á fullt. Mundu þó að jafnvel konungur dýranna má hlusta á ráð annarra — sérstaklega áður en hann kaupir neonlitaðan jakka.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Second_Fitna_Territorial_Control_Map_ca_686.svg/500px-Second_Fitna_Territorial_Control_Map_ca_686.svg.png",
+    "ar": "684",
+    "texti": "Stuðningsmenn Úmajada sigruðu fylgismenn Abd Allah ibn al-Zubayr nærri Damaskus og treystu þar með yfirráð sín í Sýrlandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Second_Fitna",
+    "breidd": 330,
+    "haed": 215
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

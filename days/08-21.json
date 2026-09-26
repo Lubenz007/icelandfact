@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-21",
+  "dagur": 21,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:36",
+  "sunset": "21:23",
+  "kvedja": "Góðan 21. ágúst, kæri lesandi! Í dag röltum við frá brunnum bæjum og stórmeistaratitli yfir í horfið meistaraverk og hetjudáð um borð í hraðlest — sagan kann sannarlega að skipta um gír. Haltu fast um kaffibollann; Mona Lisa gæti annars stungið af með hann.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1717",
+      "texti": "Austurrískar hersveitir undir stjórn Eugens prins af Savoy náðu hinni hernaðarlega mikilvægu borg Belgrad af Ottómanaveldinu. Borgin hafði lengi verið eftirsóttur lykill að Balkanskaga."
+    },
+    {
+      "ar": "1808",
+      "texti": "Breskar og portúgalskar hersveitir sigruðu Frakka í orrustunni við Vimeiro og bundu þar með enda á fyrstu innrás Frakka í Portúgal í Skagastríðinu."
+    },
+    {
+      "ar": "1911",
+      "texti": "Vincenzo Peruggia, starfsmaður Louvre-safnsins, stal Monu Lisu eftir Leonardo da Vinci. Málverkið fannst ekki aftur fyrr en tveimur árum síðar — býsna löng fjarvera úr vinnunni."
+    },
+    {
+      "ar": "1986",
+      "texti": "Skyndilegt koltvísýringsgos úr Nyosvatni í Kamerún myndaði kæfandi gasský sem varð 1.746 manns og um 3.500 búfjár að bana. Þetta var eitt mannskæðasta vatnagos sem vitað er um."
+    },
+    {
+      "ar": "2015",
+      "texti": "Farþegar í Thalys-hraðlest frá Amsterdam til Parísar réðust gegn árásarmanni sem hugðist fremja fjöldaskotárás og yfirbuguðu hann. Snarræði þeirra kom í veg fyrir enn meiri harmleik."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1011",
+      "texti": "Njáll Þorgeirsson og heimilisfólk hans á Bergþórshvoli í Landeyjum voru brennd inni af Flosa Þórðarsyni og mönnum hans. Kári Sölmundarson komst lífs af úr brennunni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1238",
+      "texti": "Örlygsstaðabardagi var háður í Skagafirði, ein stærsta og blóðugasta orrusta Sturlungaaldar.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1905",
+      "texti": "Alþingi samþykkti lagningu ritsíma til Íslands og símalínu frá Austfjörðum um Akureyri til Reykjavíkur. Landið var að tengjast hraðar saman, löngu áður en nokkur bað um lykilorð að þráðlausa netinu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1958",
+      "texti": "Friðrik Ólafsson varð stórmeistari í skák, aðeins 24 ára gamall, og fyrstur Íslendinga til að hljóta þann titil.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bo Burnham",
+      "starfsgrein": "grínisti, tónlistarmaður og kvikmyndagerðarmaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Alicia Witt",
+      "starfsgrein": "leikkona og tónlistarkona",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Alizée",
+      "starfsgrein": "söngkona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Augustin-Louis Cauchy",
+      "starfsgrein": "stærðfræðingur",
+      "ar": "1789"
+    },
+    {
+      "nafn": "Basil Poledouris",
+      "starfsgrein": "kvikmyndatónskáld og hljómsveitarstjóri",
+      "ar": "1945"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Theódór Júlíusson",
+      "starfsgrein": "leikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Sigríður Eyþórsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Sigríður Bogadóttir",
+      "starfsgrein": "leikskáld",
+      "ar": "1818"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða heimsfræga málverk hvarf af Louvre-safninu árið 1911?",
+      "svor": [
+        "Mona Lisa",
+        "Stjörnubjört nótt",
+        "Öskrið",
+        "Fæðing Venusar"
+      ],
+      "rett": 0,
+      "skyring": "Mona Lisa var í tveggja ára óboðnu leyfi eftir að starfsmaður safnsins stal henni."
+    },
+    {
+      "spurning": "Hvað varð Friðrik Ólafsson árið 1958, aðeins 24 ára gamall?",
+      "svor": [
+        "Heimsmeistari",
+        "Stórmeistari",
+        "Forseti Skáksambands Evrópu",
+        "Norðurlandameistari"
+      ],
+      "rett": 1,
+      "skyring": "Friðrik varð fyrstur Íslendinga til að hljóta stórmeistaratitil í skák."
+    },
+    {
+      "spurning": "Úr hvaða vatni gaus mannskætt koltvísýringsský árið 1986?",
+      "svor": [
+        "Viktoríuvatni",
+        "Tanganyikavatni",
+        "Nyosvatni",
+        "Tsjadvatni"
+      ],
+      "rett": 2,
+      "skyring": "Nyosvatn í Kamerún losaði skyndilega gríðarlegt magn koltvísýrings."
+    }
+  ],
+  "tonlistUSA": "Ghostbusters – Ray Parker Jr. (1984)",
+  "tonlistUK": "Careless Whisper – George Michael (1984)",
+  "bio": "Oppenheimer (2023)",
+  "ord_dagsins": {
+    "ord": "skæni",
+    "skyring": "Skæni er þunn himna eða húð sem myndast á yfirborði vökva."
+  },
+  "vissir_thu": "Mona Lisa var ekki aðeins stolið af Louvre árið 1911; þjófurinn Vincenzo Peruggia hafði sjálfur starfað við safnið og geymdi málverkið hjá sér þar til hann reyndi að koma því til Ítalíu.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og stórstjarna á frumsýningu, en ætti að athuga hvort verðmiðinn hangi enn aftan úr jakkanum. Gamalt verkefni fær nýjan glans ef þú beitir rausn, reisn og örlitlu minna leikrænu öskri.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Georg-philipp-rugendas-the-elder-1716-battle-of-petrovaradin.jpg/500px-Georg-philipp-rugendas-the-elder-1716-battle-of-petrovaradin.jpg",
+    "ar": "1717",
+    "texti": "Austurrískar hersveitir undir stjórn Eugens prins af Savoy náðu hinni hernaðarlega mikilvægu borg Belgrad af Ottómanaveldinu. Borgin hafði lengi verið eftirsóttur lykill að Balkanskaga.",
+    "heimild": "https://en.wikipedia.org/wiki/Austro-Turkish_War_(1716–1718)",
+    "breidd": 330,
+    "haed": 269
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-22",
+  "dagur": 22,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:39",
+  "sunset": "21:20",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 22. ágúst! Í dag sveiflum við okkur frá Bosworth-velli yfir í Genf og alla leið á handboltavöllinn í Peking — því sagan ferðast létt, jafnvel þegar hún gleymir vegabréfinu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1485",
+      "texti": "Hinrik Tudor sigraði Ríkharð 3. í orrustunni við Bosworth Field. Þar með lauk Rósastríðunum að mestu og Tudor-ættin steig fram á sviðið."
+    },
+    {
+      "ar": "1642",
+      "texti": "Karl 1. reisti konungsfánann í Nottingham og markaði þannig upphaf fyrri ensku borgarastyrjaldarinnar. Þegar fáni fer á loft með þessum hætti er sjaldnast von á rólegum fundi."
+    },
+    {
+      "ar": "1864",
+      "texti": "Tólf Evrópuríki undirrituðu fyrsta Genfarsamninginn að frumkvæði Henry Dunant og Alþjóðaráðs Rauða krossins. Þar voru settar reglur um vernd fórnarlamba vopnaðra átaka."
+    },
+    {
+      "ar": "1943",
+      "texti": "Ian Stephens, ritstjóri The Statesman, braut gegn breskri ritskoðun og birti ljósmyndir af dauða og örbirgð á götum Kalkútta. Myndirnar vöktu athygli heimsins á hungursneyðinni í Bengal."
+    },
+    {
+      "ar": "2006",
+      "texti": "Rússneski stærðfræðingurinn Grigori Perelman hlaut Fields-verðlaunin fyrir sönnun sína á Poincaré-tilgátunni en neitaði að taka við þeim. Það er líklega stærðfræðilegasta mögulega leiðin til að hafna sviðsljósinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1809",
+      "texti": "Jörundur hundadagakonungur var handtekinn og þar með lauk skammvinnri valdasetu hans á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1916",
+      "texti": "Fyrsta lestarslys á Íslandi varð þegar telpa varð fyrir lest við Reykjavíkurhöfn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Ísland varð fyrst ríkja til að viðurkenna sjálfstæði Eystrasaltsríkjanna þriggja.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Íslenska karlalandsliðið í handknattleik sigraði Spán 36–30 í undanúrslitum Ólympíuleikanna og tryggði sér sæti í úrslitaleiknum gegn Frakklandi.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adewale Akinnuoye-Agbaje",
+      "starfsgrein": "leikari",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Annie Proulx",
+      "starfsgrein": "rithöfundur og blaðamaður",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Casper Christensen",
+      "starfsgrein": "grínisti, leikari og handritshöfundur",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Aleksandr Mostovoi",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Denis Papin",
+      "starfsgrein": "eðlisfræðingur og stærðfræðingur",
+      "ar": "1647"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Nína Sæmundsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1892"
+    },
+    {
+      "nafn": "Árni Bergmann",
+      "starfsgrein": "rithöfundur",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Jón Kr. Ólafsson",
+      "starfsgrein": "söngvari",
+      "ar": "1940"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða orrusta árið 1485 batt að mestu enda á Rósastríðin?",
+      "svor": [
+        "Orrustan við Bosworth Field",
+        "Orrustan við Waterloo",
+        "Orrustan við Hastings",
+        "Orrustan við Agincourt"
+      ],
+      "rett": 0,
+      "skyring": "Hinrik Tudor sigraði Ríkharð 3. við Bosworth Field og Tudor-öldin gekk í garð."
+    },
+    {
+      "spurning": "Hvaða stórverðlaunum neitaði Grigori Perelman að taka við árið 2006?",
+      "svor": [
+        "Nóbelsverðlaununum",
+        "Fields-verðlaununum",
+        "Pulitzer-verðlaununum",
+        "Óskarsverðlaununum"
+      ],
+      "rett": 1,
+      "skyring": "Perelman hafnaði Fields-verðlaununum þrátt fyrir stórbrotna sönnun sína á Poincaré-tilgátunni."
+    },
+    {
+      "spurning": "Hvaða lið sigraði Ísland í undanúrslitum Ólympíuleikanna í handknattleik árið 2008?",
+      "svor": [
+        "Frakkland",
+        "Þýskaland",
+        "Spánn",
+        "Danmörk"
+      ],
+      "rett": 2,
+      "skyring": "Ísland lagði Spán 36–30 og þjóðin fékk sameiginlegan handboltahita."
+    }
+  ],
+  "tonlistUSA": "Where Did Our Love Go – The Supremes (1964)",
+  "tonlistUK": "No Matter What – Boyzone (1998)",
+  "bio": "Dirty Dancing (1987)",
+  "ord_dagsins": {
+    "ord": "orrostugnýr",
+    "skyring": "Orðið merkir hávaða, dyn og vopnaskak í bardaga."
+  },
+  "vissir_thu": "Fields-verðlaunin, sem Grigori Perelman neitaði árið 2006, eru ein virtustu verðlaun stærðfræðinnar.",
+  "stjornuspa": "Ljónið finnur í dag gamlan leiðtogaglampa og gæti freistast til að reisa sinn eigin konungsfána — helst yfir kaffivélinni. Sýndu rausn, en mundu að jafnvel Tudor-konungar þurftu stundum að hlusta á aðra.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg/500px-Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg",
+    "ar": "1485",
+    "texti": "Hinrik Tudor sigraði Ríkharð 3. í orrustunni við Bosworth Field. Þar með lauk Rósastríðunum að mestu og Tudor-ættin steig fram á sviðið.",
+    "heimild": "https://en.wikipedia.org/wiki/Battle_of_Bosworth_Field",
+    "breidd": 330,
+    "haed": 249
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

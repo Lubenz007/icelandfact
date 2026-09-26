@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-09",
+  "dagur": 9,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:58",
+  "sunset": "22:05",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 9. ágúst! Dagurinn leiðir okkur frá konungskrýningu og tónlist í umsátri til íslenskrar húsafriðunar — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1902",
+      "texti": "Játvarður 7. og Alexandra voru krýnd konungur og drottning Bretlands og bresku yfirráðasvæðanna við hátíðlega athöfn í Westminster Abbey. Kórónurnar voru þungar og titlarnir ekki beinlínis sparaðir."
+    },
+    {
+      "ar": "1942",
+      "texti": "Sjöunda sinfónía Dmitríjs Sjostakovítsj var frumflutt í Leníngrad meðan borgin var í umsátri þýskra nasistasveita. Tónleikarnir urðu áhrifamikið tákn um þrautseigju borgarbúa."
+    },
+    {
+      "ar": "1956",
+      "texti": "Um 20.000 konur gengu fylktu liði til Pretoríu í Suður-Afríku og mótmæltu fyrirhuguðum vegabréfalögum aðskilnaðarstjórnarinnar fyrir svartar konur."
+    },
+    {
+      "ar": "1974",
+      "texti": "Richard Nixon varð fyrsti forseti Bandaríkjanna til að segja af sér, enda blasti embættismissir við vegna Watergate-hneykslisins. Hvíta húsið fékk þar með söguleg vistaskipti."
+    },
+    {
+      "ar": "2024",
+      "texti": "Farþegaflugvél Voepass Linhas Aéreas, flug 2283, fórst nærri Vinhedo í São Paulo-ríki í Brasilíu. Öll 62 um borð létust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1851",
+      "texti": "Þegar þjóðfundinum í Reykjavík var slitið mótmæltu þingmenn undir forystu Jóns Sigurðssonar og hrópuðu hin fleygu orð: „Vér mótmælum allir!“",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1873",
+      "texti": "„Kveðja“, fyrsta kvæði Stephans G. Stephanssonar, birtist í Norðanfara fáeinum dögum eftir að skáldið unga fluttist alfarinn frá Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1979",
+      "texti": "Menntamálaráðuneytið friðaði húsin á Bernhöftstorfu í Reykjavík og tryggði þannig að þessi sögulegi húsaklasi fengi að standa.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1987",
+      "texti": "Mosfellshreppur fékk kaupstaðarréttindi og varð Mosfellsbær — sveitarfélagið skipti um titil en fjöllin héldu sínum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anna Kendrick",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Audrey Tautou",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Amedeo Avogadro",
+      "starfsgrein": "eðlisfræðingur og efnafræðingur",
+      "ar": "1776"
+    },
+    {
+      "nafn": "Amanda Bearse",
+      "starfsgrein": "leikkona, grínisti og leikstjóri",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Brett Hull",
+      "starfsgrein": "íshokkímaður og íþróttastjórnandi",
+      "ar": "1964"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eiríkur Smith",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Gunnar Þ. Andersen",
+      "starfsgrein": "viðskiptafræðingur",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Theodór Jónassen",
+      "starfsgrein": "amtmaður og háyfirdómari",
+      "ar": "1838"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða Bandaríkjaforseti sagði af sér 9. ágúst 1974?",
+      "svor": [
+        "Richard Nixon",
+        "Gerald Ford",
+        "Jimmy Carter",
+        "Lyndon B. Johnson"
+      ],
+      "rett": 0,
+      "skyring": "Richard Nixon varð fyrsti forseti Bandaríkjanna til að segja embættinu lausu."
+    },
+    {
+      "spurning": "Hvaða íslenski staður fékk kaupstaðarréttindi árið 1987?",
+      "svor": [
+        "Stykkishólmur",
+        "Mosfellsbær",
+        "Hella",
+        "Dalvík"
+      ],
+      "rett": 1,
+      "skyring": "Mosfellshreppur varð Mosfellsbær þennan dag árið 1987."
+    },
+    {
+      "spurning": "Hvaða vísindamaður, fæddur 9. ágúst, tengist frægri tölu í efnafræði?",
+      "svor": [
+        "Isaac Newton",
+        "Niels Bohr",
+        "Amedeo Avogadro",
+        "Michael Faraday"
+      ],
+      "rett": 2,
+      "skyring": "Amedeo Avogadro gaf nafn sitt þeirri föstu sem efnafræðinemar læra að umgangast af mikilli virðingu."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Give It Up – KC and the Sunshine Band (1983)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "árla",
+    "skyring": "Orðið merkir snemma dags eða að morgni."
+  },
+  "vissir_thu": "Fastinn sem kenndur er við Amedeo Avogadro segir til um fjölda einda í einu móli, þótt Avogadro sjálfur hafi ekki reiknað tölugildið.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og sviðsljósið hafi verið pantað sérstaklega, en gömul dagbók eða gleymd ljósmynd gæti stolið senunni. Sýndu konunglegt örlæti og leyfðu fortíðinni að eiga eitt aukalag.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/King_Edward_VII_and_Queen_Alexandra_in_coronation_robes.jpg/500px-King_Edward_VII_and_Queen_Alexandra_in_coronation_robes.jpg",
+    "ar": "1902",
+    "texti": "Játvarður 7. og Alexandra voru krýnd konungur og drottning Bretlands og bresku yfirráðasvæðanna við hátíðlega athöfn í Westminster Abbey. Kórónurnar voru þungar og titlarnir ekki beinlínis sparaðir.",
+    "heimild": "https://en.wikipedia.org/wiki/Coronation_of_Edward_VII_and_Alexandra",
+    "breidd": 330,
+    "haed": 464
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "08-25",
+  "dagur": 25,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "05:48",
+  "sunset": "21:09",
+  "kvedja": "Góðan 25. ágúst! Í dag horfum við bæði út fyrir sólkerfið með Voyager 1 og aftur til ársins 1835, þegar dagblað taldi lesendum trú um líf á tunglinu — sagan hefur greinilega alltaf kunnað að smella á fyrirsagnir. Hafðu daginn ljúfan og forvitnina vel smurða.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1609",
+      "texti": "Galileo Galilei sýndi feneyskum ráðamönnum fyrsta sjónaukann sinn. Þar með var himinninn færður ögn nær jörðinni, þótt kirkja og vísindi ættu síðar eftir að togast hressilega á um útsýnið."
+    },
+    {
+      "ar": "1835",
+      "texti": "Dagblaðið New York Sun hóf birtingu frétta um meint líf á tunglinu í blekkingarleiknum mikla sem nefndur hefur verið tunglgabbið mikla. Gervifréttir þurftu sem sagt hvorki samfélagsmiðla né þráðlaust net."
+    },
+    {
+      "ar": "1875",
+      "texti": "Matthew Webb varð fyrstur manna til að synda yfir Ermarsundið og var um 21 klukkustund og 40 mínútur á leiðinni. Það er býsna löng sundferð án þess að geta gripið í bakkann."
+    },
+    {
+      "ar": "1975",
+      "texti": "Bruce Springsteen gaf út plötuna Born to Run, sem varð viðskiptalegt gegnumbrot hans. Rokksagan fékk þar með bæði vél, þjóðveg og fullan tank af dramatík."
+    },
+    {
+      "ar": "2012",
+      "texti": "Geimfarið Voyager 1 varð fyrsti manngerði hluturinn til að komast út í miðgeiminn. Mannkynið hafði loksins sent smíð sína út fyrir sólkerfisgrenndina — og hún var ekki einu sinni með skilríki."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1895",
+      "texti": "Hið skagfirska kvenfélag var stofnað, en félagið starfar enn undir nafninu Kvenfélag Sauðárkróks.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1902",
+      "texti": "Sighvatur Árnason lét af þingmennsku, 78 ára að aldri, og hefur orðið elstur allra sitjandi þingmanna.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1970",
+      "texti": "Í Laxárdeilunni var stífla í Miðkvísl í Laxá sprengd í mótmælaskyni við fyrirhugaða stækkun Laxárvirkjunar.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2024",
+      "texti": "Hópslys varð við íshelli á Breiðamerkurjökli; einn ferðamaður lést og annar slasaðist alvarlega.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexander Skarsgård",
+      "starfsgrein": "sænskur leikari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Amy Macdonald",
+      "starfsgrein": "skosk söngkona og lagahöfundur",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Althea Gibson",
+      "starfsgrein": "bandarísk tennis- og golfkona",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Allan Pinkerton",
+      "starfsgrein": "skosk-bandarískur einkaspæjari",
+      "ar": "1819"
+    },
+    {
+      "nafn": "Arpad Elo",
+      "starfsgrein": "ungversk-bandarískur skákmaður og höfundur Elo-stigakerfisins",
+      "ar": "1903"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hjálmar Ólafsson",
+      "starfsgrein": "bæjarstjóri Kópavogs",
+      "ar": "1924"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða farartæki varð fyrst manngerðra hluta til að komast út í miðgeiminn?",
+      "svor": [
+        "Voyager 1",
+        "Voyager 2",
+        "Spitzer-geimsjónaukinn",
+        "Apollo 11"
+      ],
+      "rett": 0,
+      "skyring": "Voyager 1 náði þessum sögulega áfanga árið 2012 og hélt ótrauður áfram út í myrkrið."
+    },
+    {
+      "spurning": "Hvað tók Matthew Webb langan tíma að synda yfir Ermarsundið?",
+      "svor": [
+        "Um 8 klukkustundir",
+        "Um 14 klukkustundir",
+        "Um 21 klukkustund og 40 mínútur",
+        "Um 36 klukkustundir"
+      ],
+      "rett": 2,
+      "skyring": "Webb var um 21 klukkustund og 40 mínútur á leiðinni, sem telst heldur betur drjúgt bað."
+    },
+    {
+      "spurning": "Hvaða félag var stofnað árið 1895 og heitir nú Kvenfélag Sauðárkróks?",
+      "svor": [
+        "Hið skagfirska kvenfélag",
+        "Félag kartöflubænda á Suðurlandi",
+        "Kvenfélag Reykjavíkur",
+        "Hið þingeyska lestrarfélag"
+      ],
+      "rett": 0,
+      "skyring": "Hið skagfirska kvenfélag var stofnað þennan dag og starfar enn undir nýju nafni."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Give It Up – KC and the Sunshine Band (1983)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "stjörnukíkir",
+    "skyring": "Stjörnukíkir er íslenskt orð yfir sjónauka sem notaður er til að skoða himintungl."
+  },
+  "vissir_thu": "Elo-stigakerfið, sem kennt er við Arpad Elo, er notað til að bera saman styrkleika skákmanna.",
+  "stjornuspa": "Meyjan finnur í dag þrjú smáatriði sem allir aðrir misstu af og leiðréttir að minnsta kosti eitt þeirra með mildum en óhrekjandi svip. Varastu þó að skipuleggja kaffihléið svo vandlega að kaffið verði kalt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff/lossy-page1-330px-Galileo_Galilei_%281564-1642%29_RMG_BHC2700.tiff.jpg",
+    "ar": "1609",
+    "texti": "Galileo Galilei sýndi feneyskum ráðamönnum fyrsta sjónaukann sinn. Þar með var himinninn færður ögn nær jörðinni, þótt kirkja og vísindi ættu síðar eftir að togast hressilega á um útsýnið.",
+    "heimild": "https://en.wikipedia.org/wiki/Galileo_Galilei",
+    "breidd": 330,
+    "haed": 419
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

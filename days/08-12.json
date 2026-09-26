@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-12",
+  "dagur": 12,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:08",
+  "sunset": "21:55",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 12. ágúst býður okkur í ferð frá krossförum og barnaverkfalli til risaeðlubeina og fyrsta bjórfestivals Norður-Kóreu — sagan kann sannarlega að blanda sérkennilegan kokteil. Lyftum kaffibollanum fyrir Ljónunum og höldum af stað með glott á vör.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1099",
+      "texti": "Her Fatímída undir stjórn al-Afdal Shahanshah hörfaði til Egyptalands eftir orrustuna við Askalon. Þar með lauk fyrstu krossferðinni, þótt afleiðingar hennar væru rétt að byrja."
+    },
+    {
+      "ar": "1881",
+      "texti": "Fransk-bandarísk börn, sum aðeins sjö ára, hófu verkfall við Cabot-verksmiðjuna í Brunswick í Maine. Þau stöðvuðu starfsemina í þrjá daga og sýndu að jafnvel stuttir verkfallsmenn geta varpað löngum skugga."
+    },
+    {
+      "ar": "1944",
+      "texti": "Waffen-SS og ítölsku Svörtu herdeildirnar myrtu um 560 þorpsbúa og flóttamenn í Sant'Anna di Stazzema á Ítalíu. Fjöldamorðin eru meðal myrkustu ódæðisverka stríðsins á Ítalíu."
+    },
+    {
+      "ar": "1990",
+      "texti": "Steingervingafræðingurinn Sue Hendrickson fann eina heillegustu beinagrind grameðlu sem þekkt er nærri Faith í Suður-Dakóta. Risaeðlan fékk viðurnefnið Sue eftir finnanda sínum."
+    },
+    {
+      "ar": "2016",
+      "texti": "Ríkisrekna Taedonggang-brugghúsið setti fyrsta bjórfestival Norður-Kóreu. Jafnvel í einangruðu einræðisríki virðist stundum vera kallað eftir froðu á könnuna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1755",
+      "texti": "Eggert Ólafsson og Bjarni Pálsson boruðu eftir jarðhita í Laugardal við Reykjavík. Þetta var í fyrsta sinn sem jarðbor var notaður á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1849",
+      "texti": "Óttast var að Krukksspá rættist og Dómkirkjan í Reykjavík sykki þegar biskup og níu prestar stæðu þar samtímis skrýddir fyrir altari. Kirkjan stóð af sér samkomuna og spáin fékk falleinkunn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1957",
+      "texti": "Stöðumælar voru teknir í notkun í Reykjavík. Fimmtán mínútur kostuðu eina krónu og hálftíminn tvær — nákvæmlega enginn magnafsláttur þar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1993",
+      "texti": "Fyrsti íslenski togarinn hélt til veiða í Smugunni í Barentshafi og hóf þar með eftirminnilegan kafla í íslenskri fiskveiðisögu.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Cara Delevingne",
+      "starfsgrein": "fyrirsæta og leikkona",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Alexei Nikolaevich",
+      "starfsgrein": "rússneskur ríkisarfi",
+      "ar": "1904"
+    },
+    {
+      "nafn": "Buck Owens",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Arthur Melo",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Kristján 3.",
+      "starfsgrein": "konungur Danmerkur",
+      "ar": "1503"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Thor Vilhjálmsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Atli Gíslason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Gísli Halldórsson",
+      "starfsgrein": "arkitekt",
+      "ar": "1914"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað fundu Eggert Ólafsson og Bjarni Pálsson upp á að nota í Laugardal árið 1755?",
+      "svor": [
+        "Jarðbor",
+        "Gufulest",
+        "Vindmyllu",
+        "Stöðumæli"
+      ],
+      "rett": 0,
+      "skyring": "Þeir notuðu jarðbor við rannsóknir á jarðhita, fyrstir manna á Íslandi."
+    },
+    {
+      "spurning": "Eftir hverjum var grameðlan Sue nefnd?",
+      "svor": [
+        "Drottningu Suður-Dakóta",
+        "Sue Hendrickson",
+        "Forstöðukonu safnsins",
+        "Persónu í kúrekamynd"
+      ],
+      "rett": 1,
+      "skyring": "Beinagrindin fékk viðurnefnið Sue eftir steingervingafræðingnum Sue Hendrickson."
+    },
+    {
+      "spurning": "Hvað kostuðu fimmtán mínútur í nýju stöðumælunum í Reykjavík árið 1957?",
+      "svor": [
+        "Fimmtíu aurar",
+        "Ein króna",
+        "Tvær krónur",
+        "Fimm krónur"
+      ],
+      "rett": 1,
+      "skyring": "Ein króna keypti korter, en hálftíminn kostaði tvær krónur."
+    }
+  ],
+  "tonlistUSA": "Right Here Waiting – Richard Marx (1989)",
+  "tonlistUK": "Swing the Mood – Jive Bunny and the Mastermixers (1989)",
+  "bio": "The Fugitive (1993)",
+  "ord_dagsins": {
+    "ord": "skrýddur",
+    "skyring": "Að vera skrýddur merkir að vera klæddur sérstökum viðhafnar- eða embættisklæðum."
+  },
+  "vissir_thu": "Grameðlan Sue er nefnd eftir Sue Hendrickson, sem fann beinagrindina í Suður-Dakóta árið 1990.",
+  "stjornuspa": "Ljónið finnur í dag fyrir konunglegri reisn, jafnvel þótt hásætið sé bara eldhússtóll og veldissprotinn sleif. Varastu þó að öskra eins og grameðla þegar einhver dirfist að breyta áætluninni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Combat_deuxi%C3%A8me_croisade.jpg/500px-Combat_deuxi%C3%A8me_croisade.jpg",
+    "ar": "1099",
+    "texti": "Her Fatímída undir stjórn al-Afdal Shahanshah hörfaði til Egyptalands eftir orrustuna við Askalon. Þar með lauk fyrstu krossferðinni, þótt afleiðingar hennar væru rétt að byrja.",
+    "heimild": "https://en.wikipedia.org/wiki/Crusades",
+    "breidd": 330,
+    "haed": 215
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

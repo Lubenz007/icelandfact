@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-23",
+  "dagur": 23,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "05:42",
+  "sunset": "21:16",
+  "kvedja": "Góðan 23. ágúst, kæri lesandi! Í dag teygjum við okkur frá aftöku Williams Wallace til fæðingar veraldarvefsins og stoppum á leiðinni við fyrsta íslenska símskeytið — saga dagsins er sannarlega með gott samband. Spennið því tímabeltin og njótið ferðarinnar með dálitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1305",
+      "texti": "Skoski frelsisleiðtoginn William Wallace var tekinn af lífi með hengingu, sundurlimun og fjórðungun. Miskunn var greinilega ekki ofarlega á verkefnalista enskra yfirvalda þennan dag."
+    },
+    {
+      "ar": "1775",
+      "texti": "Georg 3. Bretakonungur lýsti því yfir að hlutar bandarísku nýlendnanna væru í „opinni og yfirlýstri uppreisn“. Sambandið yfir Atlantshafið var þar með orðið öllu stirðara en venjulegt fjölskyldukrytur."
+    },
+    {
+      "ar": "1939",
+      "texti": "Þýskaland nasista og Sovétríkin undirrituðu Molotov–Ribbentrop-sáttmálann, tíu ára griðasáttmála. Í leynilegum viðauka skiptu ríkin jafnframt stórum hluta Norður- og Austur-Evrópu í áhrifasvæði sín."
+    },
+    {
+      "ar": "1989",
+      "texti": "Um tvær milljónir manna tóku höndum saman í 675,5 kílómetra langri keðju um Eistland, Lettland og Litáen. Þessi svonefnda Eystrasaltskeðja var stórbrotin og friðsamleg krafa um sjálfstæði."
+    },
+    {
+      "ar": "1991",
+      "texti": "Veraldarvefurinn var opnaður almenningi. Þar með hófst nýr kafli þar sem mannkynið gat loksins deilt rannsóknum, fréttum og ógrynni af kattamyndum á sama vettvangi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1524",
+      "texti": "Ríkisráð Noregs samþykkti að taka Friðrik 1. til konungs yfir Noregi og Íslandi og hafnaði um leið Karli Knútssyni, sem hafði verið tekinn til konungs árið áður.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1906",
+      "texti": "Fyrsta símskeytið barst til Íslands frá Færeyjum. Skyndilega þurftu fréttir ekki lengur að bíða eftir skipi og sæmilegu sjóveðri.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1910",
+      "texti": "Fyrsta íslenska hljómplatan kom út, en á henni söng Pétur Á. Jónsson „Dalvísur“ eftir Jónas Hallgrímsson. Íslensk tónlist var þar með komin á snúning.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1954",
+      "texti": "Við fornleifauppgröft í Skálholti fannst steinkista Páls Jónssonar biskups, sem lést árið 1211.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Barbara Eden",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Andrew Rannells",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Alexandre Desplat",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Dick Bruna",
+      "starfsgrein": "rithöfundur og myndskreytir",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Brad Mehldau",
+      "starfsgrein": "djasspíanóleikari",
+      "ar": "1970"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Auður Lilja Erlingsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Geir Guðmundsson",
+      "starfsgrein": "handknattleiksmaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Stefán Jónsson",
+      "starfsgrein": "leikari",
+      "ar": "1964"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tæknifyrirbæri var opnað almenningi 23. ágúst 1991?",
+      "svor": [
+        "Veraldarvefurinn",
+        "Sjónvarpið",
+        "Ritvélin",
+        "Rafsíminn"
+      ],
+      "rett": 0,
+      "skyring": "Veraldarvefurinn var opnaður almenningi árið 1991 og heimsbyggðin hefur varla lokað vafranum síðan."
+    },
+    {
+      "spurning": "Hvaðan barst fyrsta símskeytið til Íslands árið 1906?",
+      "svor": [
+        "Frá Grænlandi",
+        "Frá Færeyjum",
+        "Frá Noregi",
+        "Frá Skotlandi"
+      ],
+      "rett": 1,
+      "skyring": "Símskeytið kom frá Færeyjum og stytti fréttaleiðina til Íslands svo um munaði."
+    },
+    {
+      "spurning": "Hversu margir tóku þátt í Eystrasaltskeðjunni árið 1989?",
+      "svor": [
+        "Um tvö hundruð þúsund",
+        "Um hálf milljón",
+        "Um ein milljón",
+        "Um tvær milljónir"
+      ],
+      "rett": 3,
+      "skyring": "Um tvær milljónir manna mynduðu þessa gríðarlegu og friðsamlegu keðju."
+    }
+  ],
+  "tonlistUSA": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "bio": "Terminator 2: Judgment Day (1991)",
+  "ord_dagsins": {
+    "ord": "fróðleiksfýsn",
+    "skyring": "Fróðleiksfýsn er sterk löngun til að afla sér þekkingar og vita meira."
+  },
+  "vissir_thu": "Eystrasaltskeðjan árið 1989 náði 675,5 kílómetra leið um þrjú lönd — mannleg keðja sem hefði komist drjúgan spöl eftir íslenska hringveginum.",
+  "stjornuspa": "Meyjan finnur í dag gamlan verkefnalista og klárar hann af slíkri nákvæmni að jafnvel skrifstofuvélin roðnar. Varastu þó að leiðrétta málfar allra í kringum þig fyrir hádegi — einn rauður penni nægir.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/WilliamWallaceByDavidofBuchan.jpg/500px-WilliamWallaceByDavidofBuchan.jpg",
+    "ar": "1305",
+    "texti": "Skoski frelsisleiðtoginn William Wallace var tekinn af lífi með hengingu, sundurlimun og fjórðungun. Miskunn var greinilega ekki ofarlega á verkefnalista enskra yfirvalda þennan dag.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Wallace",
+    "breidd": 330,
+    "haed": 441
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

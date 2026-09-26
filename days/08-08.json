@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-08",
+  "dagur": 8,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "04:55",
+  "sunset": "22:09",
+  "kvedja": "Góðan 8. ágúst! Í dag göngum við yfir Abbey Road, lítum inn hjá Tycho Brahe og rifjum upp þegar íslensk sundkona lagði Ermarsund að baki — allt án þess að blotna í sokkana. Sagan kann sannarlega að fara víða á einum degi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1576",
+      "texti": "Hornsteinn Uraniborgar, stjörnuathugunarstöðvar danska stjörnufræðingsins Tycho Brahe, var lagður á eynni Hven. Þar fékk himinhvolfið loksins athygli við hæfi."
+    },
+    {
+      "ar": "1918",
+      "texti": "Orrustan við Amiens hófst í Norður-Frakklandi og markaði upphaf Hundrað daga sóknar Bandamanna, sem braut smám saman á bak aftur víglínur Þjóðverja og stuðlaði að lokum fyrri heimsstyrjaldar."
+    },
+    {
+      "ar": "1929",
+      "texti": "Loftskipið Graf Zeppelin lagði af stað frá Lakehurst í New Jersey í ferð umhverfis jörðina. Ferðalagið var öllu hæglátara en með farþegaþotu, en töluvert tilkomumeira."
+    },
+    {
+      "ar": "1969",
+      "texti": "Ljósmyndarinn Iain Macmillan tók myndina af Bítlunum á gangbrautinni við Abbey Road í London sem síðar prýddi samnefnda plötu þeirra. Fáar gangbrautir hafa öðlast jafn mikla frægð."
+    },
+    {
+      "ar": "2014",
+      "texti": "Alþjóðaheilbrigðismálastofnunin lýsti ebólufaraldrinum í Vestur-Afríku, sem hafði hafist í desember 2013, sem alþjóðlegt neyðarástand á sviði lýðheilsu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1727",
+      "texti": "Eldgos hófst í Öræfajökli. Mikið öskufall varð í þrjá daga og jökulhlaup olli miklum landspjöllum; gosið stóð í eitt ár en var þó mun minna en hamfaragosið 1362.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1980",
+      "texti": "Viktor Kovalenko, sovéskur sjómaður, bað um pólitískt hæli á Íslandi og fluttist síðar til Bandaríkjanna.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1992",
+      "texti": "Ísland hafnaði í fjórða sæti í handknattleik á Ólympíuleikunum í Barcelona og Sigurður Einarsson varð þar einnig fimmti í spjótkasti.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2015",
+      "texti": "Sigrún Þuríður Geirsdóttir varð fyrst íslenskra kvenna til að synda yfir Ermarsund.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alysa Liu",
+      "starfsgrein": "bandarísk listskautakona",
+      "ar": "2005"
+    },
+    {
+      "nafn": "A'ja Wilson",
+      "starfsgrein": "bandarísk körfuknattleikskona",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Connie Stevens",
+      "starfsgrein": "bandarísk leikkona og athafnakona",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Alija Izetbegović",
+      "starfsgrein": "bosnískur lögfræðingur og stjórnmálamaður",
+      "ar": "1925"
+    },
+    {
+      "nafn": "Anita Włodarczyk",
+      "starfsgrein": "pólsk frjálsíþróttakona",
+      "ar": "1985"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Finnur Ingólfsson",
+      "starfsgrein": "athafnamaður og fyrrverandi stjórnmálamaður",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Aðalheiður Bjarnfreðsdóttir",
+      "starfsgrein": "baráttukona",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Sigrún Hjálmtýsdóttir",
+      "starfsgrein": "söngkona",
+      "ar": "1955"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða heimsfræga plötuumslag var ljósmyndað á gangbraut 8. ágúst 1969?",
+      "svor": [
+        "Abbey Road",
+        "Let It Be",
+        "Revolver",
+        "Rubber Soul"
+      ],
+      "rett": 0,
+      "skyring": "Iain Macmillan myndaði Bítlana á Abbey Road og gangbrautin varð nær samstundis að poppmenningarhelgidómi."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf að gjósa 8. ágúst 1727?",
+      "svor": [
+        "Hekla",
+        "Katla",
+        "Öræfajökull",
+        "Askja"
+      ],
+      "rett": 2,
+      "skyring": "Öræfajökull gaus og sendi frá sér bæði ösku og jökulhlaup — heldur óblíðari afmælisveisla en gengur og gerist."
+    },
+    {
+      "spurning": "Hvað afrekaði Sigrún Þuríður Geirsdóttir árið 2015?",
+      "svor": [
+        "Klifraði fyrst íslenskra kvenna á Everest",
+        "Synti fyrst íslenskra kvenna yfir Ermarsund",
+        "Vann Ólympíugull í sundi",
+        "Reri ein yfir Atlantshafið"
+      ],
+      "rett": 1,
+      "skyring": "Sigrún synti yfir Ermarsund og varð fyrst íslenskra kvenna til þess."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Honky Tonk Women – The Rolling Stones (1969)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "stjörnukíkir",
+    "skyring": "Stjörnukíkir er sjónauki sem notaður er til að skoða himintungl og hefði sómt sér vel í Uraniborg Tycho Brahe."
+  },
+  "vissir_thu": "Uraniborg var bæði stjörnuathugunarstöð og rannsóknarsetur, reist fyrir Tycho Brahe á dönsku eynni Hven, sem nú tilheyrir Svíþjóð.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og aðalstjarnan á plötuumslagi frá 1969, en ætti samt að líta til beggja hliða áður en það stígur á gangbrautina. Gömul hugmynd fær byr undir báða vængi ef þú blandar saman djörfung og hæfilega miklu Tycho Brahe-nördaskapi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/2018_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Antoniego_w_Las%C3%B3wce_1.jpg/500px-2018_Ko%C5%9Bci%C3%B3%C5%82_%C5%9Bw._Antoniego_w_Las%C3%B3wce_1.jpg",
+    "ar": "1576",
+    "texti": "Hornsteinn Uraniborgar, stjörnuathugunarstöðvar danska stjörnufræðingsins Tycho Brahe, var lagður á eynni Hven. Þar fékk himinhvolfið loksins athygli við hæfi.",
+    "heimild": "https://en.wikipedia.org/wiki/Cornerstone",
+    "breidd": 330,
+    "haed": 264
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-14",
+  "dagur": 14,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:14",
+  "sunset": "21:48",
+  "kvedja": "Góðan 14. ágúst, kæri lesandi! Í dag sveiflum við okkur frá miðaldaflotum yfir í hljóðrita Edisons, með viðkomu á Vatnajökli og í ódauðlegum danssporum Rocky Horror. Sagan kann sannarlega að stíga tímaskekkt dansspor — og gerir það með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1264",
+      "texti": "Í stríði heilags Sabasar náði floti Genúamanna að hertaka eða sökkva flestum skipum feneyskrar kaupskipalestar undan strönd Albaníu. Miðaldaverslun var greinilega ekkert sunnudagsrölt."
+    },
+    {
+      "ar": "1888",
+      "texti": "Ein elsta varðveitta tónlistarupptakan, flutningur á „The Lost Chord“ eftir Arthur Sullivan, var leikin á blaðamannafundi í London þar sem hljóðriti Thomas Edisons var kynntur."
+    },
+    {
+      "ar": "1941",
+      "texti": "Eftir leynilegan fund á Nýfundnalandi gáfu Winston Churchill og Franklin D. Roosevelt út Atlantshafssáttmálann, þar sem sett var fram framtíðarsýn fyrir heiminn að lokinni síðari heimsstyrjöld."
+    },
+    {
+      "ar": "1975",
+      "texti": "The Rocky Horror Picture Show var frumsýnd í London og hóf þar með metlangt ævintýri sitt í kvikmyndahúsum. Sokkabuxur, söngvar og sérlega lífseig miðnæturmenning fylgdu í kjölfarið."
+    },
+    {
+      "ar": "2021",
+      "texti": "Jarðskjálfti af stærðinni 7,2 reið yfir Haítí, varð að minnsta kosti 2.248 manns að bana og olli tjóni og efnahagslegu tapi upp á um 1,5 milljarða Bandaríkjadala."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1784",
+      "texti": "Öflugir jarðskjálftar riðu yfir Suðurland og aftur 16. ágúst. Um eitt hundrað bæir hrundu, margir grófust undir rústum og þrír létust; sterkasti skjálftinn er talinn hafa verið um 7,5 stig.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1874",
+      "texti": "Þrír Íslendingar og Englendingurinn W.L. Watts sneru aftur úr fjögurra daga rannsóknarferð á Vatnajökul, þar sem kannaðar voru eldstöðvar og fjöllum gefin nöfn.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1942",
+      "texti": "Þýsk sprengjuflugvél á leið til Reykjavíkur var skotin niður. Hún var fyrsta óvinaflugvélin sem Bandaríkjamenn skutu niður yfir Evrópu í síðari heimsstyrjöld.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1982",
+      "texti": "RÚVAK, Akureyrardeild Ríkisútvarpsins, tók til starfa og Norðlendingar fengu þar með öflugri rödd í ríkisfjölmiðlinum.",
+      "landshluti": "Norðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ander Herrera",
+      "starfsgrein": "spænskur knattspyrnumaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Alice Ghostley",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Antonio Fargas",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Alexander I of Serbia",
+      "starfsgrein": "konungur Serbíu",
+      "ar": "1876"
+    },
+    {
+      "nafn": "Doechii",
+      "starfsgrein": "bandarísk rapptónlistarkona",
+      "ar": "1998"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Olgeirsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1902"
+    },
+    {
+      "nafn": "Þórður Þorláksson",
+      "starfsgrein": "Skálholtsbiskup",
+      "ar": "1637"
+    },
+    {
+      "nafn": "Ágúst Jósefsson",
+      "starfsgrein": "verkalýðsleiðtogi",
+      "ar": "1874"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tæki Thomas Edisons var kynnt með tónlistarupptöku árið 1888?",
+      "svor": [
+        "Hljóðritinn",
+        "Ritsíminn",
+        "Kvikmyndavélin",
+        "Útvarpstækið"
+      ],
+      "rett": 0,
+      "skyring": "Hljóðritinn gat fangað og endurspilað hljóð, sem þótti nánast galdur á vaxhólki."
+    },
+    {
+      "spurning": "Hvaða jökull var kannaður í fjögurra daga leiðangri árið 1874?",
+      "svor": [
+        "Langjökull",
+        "Drangajökull",
+        "Vatnajökull",
+        "Mýrdalsjökull"
+      ],
+      "rett": 2,
+      "skyring": "Leiðangursmennirnir héldu á Vatnajökul til að kanna eldstöðvar og nefna fjöll."
+    },
+    {
+      "spurning": "Hvaða kvikmynd hóf metlangt sýningarævintýri sitt í London árið 1975?",
+      "svor": [
+        "Jaws",
+        "The Rocky Horror Picture Show",
+        "Star Wars",
+        "Grease"
+      ],
+      "rett": 1,
+      "skyring": "The Rocky Horror Picture Show varð að langlífu miðnæturfyrirbæri með söng, búningum og mikilli þátttöku áhorfenda."
+    }
+  ],
+  "tonlistUSA": "Shout – Tears for Fears (1985)",
+  "tonlistUK": "Into the Groove – Madonna (1985)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "hljóðriti",
+    "skyring": "Hljóðriti er eldra heiti á tæki sem tekur upp og endurspilar hljóð, svo sem phonograph Edisons."
+  },
+  "vissir_thu": "The Rocky Horror Picture Show hefur haldist í takmörkuðum kvikmyndahúsasýningum frá frumsýningarárinu 1975 og á þar með einstakt langlífismet.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og kvikmyndastjarna á frumsýningu árið 1975 — og býst auðvitað við lófataki. Mundu þó að jafnvel konungur frumskógarins þarf stundum að hlusta áður en hann öskrar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Mar_Saba_%28Photo_by_Jean_%26_Nathalie%2C_2011%29.jpg/500px-Mar_Saba_%28Photo_by_Jean_%26_Nathalie%2C_2011%29.jpg",
+    "ar": "1264",
+    "texti": "Í stríði heilags Sabasar náði floti Genúamanna að hertaka eða sökkva flestum skipum feneyskrar kaupskipalestar undan strönd Albaníu. Miðaldaverslun var greinilega ekkert sunnudagsrölt.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_Saint_Sabas",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

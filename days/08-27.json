@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-27",
+  "dagur": 27,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "05:54",
+  "sunset": "21:02",
+  "kvedja": "Komdu sæll, kæri lesandi! Þessi 27. ágúst spannar allt frá fallandi Róm og rjúkandi olíulindum til Guinness-metabókar og fyrsta bílsins yfir Siglufjarðarskarð. Spennum beltin, en pössum vandlega að velja rétta flugbraut.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "410",
+      "texti": "Ráni Vestgota í Róm lauk eftir þrjá daga. Borgin eilífa hafði séð betri helgar."
+    },
+    {
+      "ar": "1776",
+      "texti": "Breskt herlið undir stjórn Williams Howe sigraði meginlandsher Georges Washingtons í orrustunni við Long Island, stærstu orrustu bandaríska frelsisstríðsins."
+    },
+    {
+      "ar": "1859",
+      "texti": "Edwin Drake tókst að bora eftir olíu í Titusville í Pennsylvaníu. Þar með hófst fyrsta olíuæðið í Bandaríkjunum og heimurinn fékk nýja tegund gullæðis."
+    },
+    {
+      "ar": "1955",
+      "texti": "Fyrsta útgáfa Guinness-metabókarinnar kom út. Loksins fékk mannkynið hentugan stað til að skrá ótrúlegustu afrek sín og furðulegustu uppátæki."
+    },
+    {
+      "ar": "2006",
+      "texti": "Comair-flug 5191 fórst eftir að reynt var að hefja flug af rangri flugbraut í Lexington í Kentucky. Alls létust 49 af 50 um borð og slysið varð til þess að bandarísk flugumferðarstjórn breytti reglum sínum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1729",
+      "texti": "Í Mývatnseldum rann hraun út í Mývatn umhverfis kirkjuna í Reykjahlíð. Eldarnir höfðu þá staðið með hléum frá árinu 1724.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1867",
+      "texti": "Eldgos hófst í Vatnajökli og stóð í 13 daga. Talið er að gosstöðvarnar hafi verið nálægt Grímsvötnum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1946",
+      "texti": "Fyrsti bíllinn kom til Siglufjarðar eftir ellefu ára vinnu við vegagerð um Siglufjarðarskarð. Þar hefur bílflautið líklega hljómað eins og lúðraþytur framfaranna.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2008",
+      "texti": "Mikill mannfjöldi hyllti íslenska karlalandsliðið í handknattleik í miðborg Reykjavíkur eftir heimkomuna frá Ólympíuleikunum í Peking.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Paul",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Barbara Bach",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Ange Postecoglou",
+      "starfsgrein": "knattspyrnuþjálfari og fyrrverandi leikmaður",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Alex Lifeson",
+      "starfsgrein": "gítarleikari, söngvari og upptökustjóri",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Alice Coltrane",
+      "starfsgrein": "píanóleikari og tónskáld",
+      "ar": "1937"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Brynhildur Þórarinsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Finnur Magnússon",
+      "starfsgrein": "fornfræðingur",
+      "ar": "1781"
+    },
+    {
+      "nafn": "Jónas Guðlaugsson",
+      "starfsgrein": "skáld",
+      "ar": "1887"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða rit kom fyrst út 27. ágúst 1955?",
+      "svor": [
+        "Guinness-metabókin",
+        "Encyclopædia Britannica",
+        "National Geographic",
+        "Almanak Háskóla Íslands"
+      ],
+      "rett": 0,
+      "skyring": "Guinness-metabókin kom fyrst út árið 1955 og hefur síðan haldið utan um stór afrek, smá afrek og býsna skrýtin afrek."
+    },
+    {
+      "spurning": "Hvað markaði komu sína til Siglufjarðar árið 1946 eftir ellefu ára vegagerð?",
+      "svor": [
+        "Fyrsta járnbrautarlestin",
+        "Fyrsti bíllinn",
+        "Fyrsta þyrlan",
+        "Fyrsta gufuskipið"
+      ],
+      "rett": 1,
+      "skyring": "Fyrsti bíllinn komst til Siglufjarðar um Siglufjarðarskarð og hefur varla þurft að leita lengi að bílastæði."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn er þekktast sem gítarleikari hljómsveitarinnar Rush?",
+      "svor": [
+        "Aaron Paul",
+        "Ange Postecoglou",
+        "Alex Lifeson",
+        "Finnur Magnússon"
+      ],
+      "rett": 2,
+      "skyring": "Alex Lifeson lék á gítar með Rush og sá um mun fleiri takka en venjulegt afmælisbarn."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Give It Up – KC and the Sunshine Band (1983)",
+  "bio": "Mary Poppins (1964)",
+  "ord_dagsins": {
+    "ord": "morgunhani",
+    "skyring": "Morgunhani er sá sem vaknar snemma og tekur daginn gjarnan fagnandi áður en aðrir finna kaffibollann."
+  },
+  "vissir_thu": "Stysta skráða stríð sögunnar var háð milli Bretlands og Sansibars 27. ágúst 1896 og lauk á innan við klukkustund.",
+  "stjornuspa": "Meyja, dagurinn kallar á snyrtilega flokkaðar skúffur, beittan blýant og örlítið minna skipulagðan kaffitíma. Óvænt tækifæri gæti bankað upp á, svo ekki eyða öllum deginum í að leiðrétta stafsetninguna á dyrabjöllunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visigoths_sack_Rome.jpg/500px-Visigoths_sack_Rome.jpg",
+    "ar": "410",
+    "texti": "Ráni Vestgota í Róm lauk eftir þrjá daga. Borgin eilífa hafði séð betri helgar.",
+    "heimild": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)",
+    "breidd": 330,
+    "haed": 508
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

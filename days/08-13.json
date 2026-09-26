@@ -1,0 +1,138 @@
+{
+  "mmdd": "08-13",
+  "dagur": 13,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:11",
+  "sunset": "21:51",
+  "kvedja": "Góðan 13. ágúst! Í dag göngum við á Herðubreið, lítum við í Kringluna og fylgjumst síðan með Alfred Hitchcock læðast inn í myndrammann — allt án þess að missa hattinn. Sagan kann greinilega vel við dálitla dramatík.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "582",
+      "texti": "Maurikios var krýndur keisari Býsansríkis og tók við af Tíberíosi 2. Konstantínusi. Keisarastóllinn var enginn hægindastóll, þótt nafnið gæti gefið annað í skyn."
+    },
+    {
+      "ar": "1762",
+      "texti": "Bretar náðu Havana á sitt vald eftir fimm vikna umsátur í stríði þeirra við Spánverja. Þeir héldu borginni þar til Parísarsáttmálinn var gerður árið eftir."
+    },
+    {
+      "ar": "1868",
+      "texti": "Mikill jarðskjálfti nærri Arica í Perú, sem nú tilheyrir Chile, olli áætlað um 25.000 mannskaða. Flóðbylgjan í kjölfarið olli jafnframt miklu tjóni allt til Hawaii og Nýja-Sjálands."
+    },
+    {
+      "ar": "1918",
+      "texti": "Opha May Johnson varð fyrst kvenna til að ganga í bandaríska landgönguliðið. Þar með var brotið blað í sögu hersveitar sem hafði fram að því verið rækilega karllæg."
+    },
+    {
+      "ar": "1940",
+      "texti": "Þýski flugherinn hóf Adlertag, umfangsmikla loftárásaaðgerð sem átti að knésetja Konunglega breska flugherinn. Aðgerðin mistókst og fyrirhugaðri innrás Þjóðverja í Bretland var frestað um óákveðinn tíma."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1900",
+      "texti": "Minnisvarði um athafnamanninn Ottó Wathne var afhjúpaður á Seyðisfirði, þar sem hann hafði lengi rekið útgerð og verslun.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1908",
+      "texti": "Sigurður Sumarliðason bóndi og Hans Reck, þýskur jarðfræðingur, urðu fyrstir manna til að ganga á Herðubreið, sem fram að því hafði verið talin ókleif.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1987",
+      "texti": "Kringlan var opnuð í Reykjavík á landi sem áður nefndist Kringlumýri. Um 40.000 manns mættu fyrsta daginn — þjóðin tók verslunarmiðstöðinni með opnum örmum og innkaupapokum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2004",
+      "texti": "Björk Guðmundsdóttir söng á opnunarhátíð Ólympíuleikanna í Grikklandi og bar íslenska sérvisku glæsilega út í hinn stóra heim.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alfred Hitchcock",
+      "starfsgrein": "kvikmyndaleikstjóri og framleiðandi",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Alan Shearer",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Annie Oakley",
+      "starfsgrein": "listskyttukona",
+      "ar": "1860"
+    },
+    {
+      "nafn": "Anders Jonas Ångström",
+      "starfsgrein": "eðlisfræðingur og stjörnufræðingur",
+      "ar": "1814"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Agnar Jón Egilsson",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1973"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fjall var fyrst klifið 13. ágúst 1908?",
+      "svor": [
+        "Herðubreið",
+        "Hekla",
+        "Snæfellsjökull",
+        "Esja"
+      ],
+      "rett": 0,
+      "skyring": "Sigurður Sumarliðason og Hans Reck komust fyrstir á tind Herðubreiðar, þvert á hrakspár um ókleifni hennar."
+    },
+    {
+      "spurning": "Hvaða borg náðu Bretar á sitt vald árið 1762?",
+      "svor": [
+        "Madríd",
+        "Havana",
+        "Lissabon",
+        "Napólí"
+      ],
+      "rett": 1,
+      "skyring": "Havana féll eftir fimm vikna umsátur, sem hefur varla verið þægilegt sumarfrí."
+    },
+    {
+      "spurning": "Hver varð fyrst kvenna til að ganga í bandaríska landgönguliðið?",
+      "svor": [
+        "Annie Oakley",
+        "Dawnn Lewis",
+        "Opha May Johnson",
+        "Anna Mae Winburn"
+      ],
+      "rett": 2,
+      "skyring": "Opha May Johnson braut þar mikilvægan múr árið 1918."
+    }
+  ],
+  "tonlistUSA": "Macarena (Bayside Boys Mix) – Los del Río (1996)",
+  "tonlistUK": "Wannabe – Spice Girls (1996)",
+  "bio": "Bambi (1942)",
+  "ord_dagsins": {
+    "ord": "hnjóð",
+    "skyring": "Hnjóð er ámæli, sneið eða meiðandi ummæli um einhvern."
+  },
+  "vissir_thu": "Flóðbylgjan sem fylgdi Arica-skjálftanum árið 1868 olli tjóni jafnvel á Hawaii og Nýja-Sjálandi, þúsundir kílómetra frá upptökunum.",
+  "stjornuspa": "Ljónið ætti að bera sig konunglega í dag, en varast að halda að hvert kaffihlé sé krýningarathöfn. Gömul áætlun fær nýtt líf ef þú bætir við hana kjarki, kurteisi og örlitlum Hitchcock-spennuhrolli.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Solidus_of_Maurice_%28transitional_issue%29.png/330px-Solidus_of_Maurice_%28transitional_issue%29.png",
+    "ar": "582",
+    "texti": "Maurikios var krýndur keisari Býsansríkis og tók við af Tíberíosi 2. Konstantínusi. Keisarastóllinn var enginn hægindastóll, þótt nafnið gæti gefið annað í skyn.",
+    "heimild": "https://en.wikipedia.org/wiki/Maurice_(emperor)",
+    "breidd": 330,
+    "haed": 312
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

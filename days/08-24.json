@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-24",
+  "dagur": 24,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Meyja",
+  "sunrise": "05:45",
+  "sunset": "21:13",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 24. ágúst missti Plútó plánetutitilinn, Washington logaði og Íslendingar fögnuðu ólympíusilfri — sagan kann sannarlega að hafa marga bolta á lofti. Vonandi sleppur þú þó við bæði eld og endurflokkun í dag.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "410",
+      "texti": "Vestgotar undir stjórn Alariks 1. rændu Róm, sem hafði ekki orðið fyrir slíkri útreið í um 800 ár. Hin eilífa borg reyndist sem sagt ekki alveg ósnertanleg."
+    },
+    {
+      "ar": "1456",
+      "texti": "Elsta þekkta gerð Gutenberg-biblíunnar, fyrsta stórvirkið sem framleitt var með prentpressu, var fullgerð. Þar með tók miðlun þekkingar stökk sem hefði líklega fengið miðaldaskrifara til að missa fjaðurstafinn."
+    },
+    {
+      "ar": "1814",
+      "texti": "Breskt herlið réðst inn í Washington og kveikti meðal annars í Hvíta húsinu og öðrum stjórnarbyggingum Bandaríkjanna. Þetta var óvenju heit heimsókn, jafnvel á mælikvarða stjórnmálanna."
+    },
+    {
+      "ar": "1921",
+      "texti": "Breska loftskipið R.38, þá stærsta loftskip heims, brotnaði vegna burðarvirkisbilunar yfir Hull. Af 49 mönnum um borð létust 44."
+    },
+    {
+      "ar": "2006",
+      "texti": "Alþjóðasamband stjarnfræðinga endurskilgreindi hugtakið reikistjarna og flokkaði Plútó sem dvergreikistjörnu. Plútó varð minni í titli, en alls ekki í hjörtum margra jarðarbúa."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1841",
+      "texti": "Bjarni Thorarensen, amtmaður og skáld, lést 54 ára. Jónas Hallgrímsson orti um hann erfiljóðið sem hefst á orðunum „Skjótt hefur sól brugðið sumri...“",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1906",
+      "texti": "Ritsímasamband milli Skotlands og Íslands, um Hjaltland og Færeyjar, var formlega tekið í notkun. Sæsímastrengurinn var 534 sjómílur og færði Ísland nær umheiminum á hraða rafboða.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1968",
+      "texti": "Norræna húsið í Reykjavík var vígt. Finnski arkitektinn Alvar Aalto teiknaði bygginguna og Norðmaðurinn Ivar Eskeland varð fyrsti forstöðumaður hennar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2008",
+      "texti": "Ísland vann silfurverðlaun í handbolta á Ólympíuleikunum í Peking. Þjóðin sameinaðist fyrir framan skjáina og lærði tímabundið að silfur getur glitrað eins og gull.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Walker",
+      "starfsgrein": "plötusnúður og tónlistarframleiðandi",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Alex O'Loughlin",
+      "starfsgrein": "leikari, handritshöfundur og leikstjóri",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Ava DuVernay",
+      "starfsgrein": "leikstjóri og handritshöfundur",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Anne Archer",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Alexander McCall Smith",
+      "starfsgrein": "rithöfundur og fræðimaður",
+      "ar": "1948"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Kaldal",
+      "starfsgrein": "ljósmyndari",
+      "ar": "1896"
+    },
+    {
+      "nafn": "Þorlákur Skúlason",
+      "starfsgrein": "Hólabiskup",
+      "ar": "1597"
+    },
+    {
+      "nafn": "Jenna Jensdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1918"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða himinhnöttur missti stöðu sína sem reikistjarna 24. ágúst 2006?",
+      "svor": [
+        "Plútó",
+        "Neptúnus",
+        "Mars",
+        "Satúrnus"
+      ],
+      "rett": 0,
+      "skyring": "Plútó var flokkaður sem dvergreikistjarna, þótt aðdáendaklúbburinn léti engan bilbug á sér finna."
+    },
+    {
+      "spurning": "Hvaða íslenska bygging var vígð 24. ágúst 1968?",
+      "svor": [
+        "Harpa",
+        "Norræna húsið",
+        "Þjóðleikhúsið",
+        "Höfði"
+      ],
+      "rett": 1,
+      "skyring": "Norræna húsið, teiknað af Alvar Aalto, var vígt þennan dag."
+    },
+    {
+      "spurning": "Hvaða verðlaun vann Ísland í handbolta á Ólympíuleikunum í Peking 2008?",
+      "svor": [
+        "Gullverðlaun",
+        "Bronsverðlaun",
+        "Silfurverðlaun",
+        "Engin verðlaun"
+      ],
+      "rett": 2,
+      "skyring": "Íslenska liðið vann silfur og gaf þjóðinni ógleymanlegan handboltasunnudag."
+    }
+  ],
+  "tonlistUSA": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "hnoðri",
+    "skyring": "Hnoðri er lítill hnöttóttur eða flæktur köggull, til dæmis úr bandi eða ull."
+  },
+  "vissir_thu": "Loftskipið R.38 var stærsta loftskip heims þegar það fórst árið 1921; aðeins fimm af 49 mönnum um borð komust lífs af.",
+  "stjornuspa": "Meyjan finnur í dag sterka löngun til að flokka allt, en varastu að ganga svo langt að svipta heimilisplöntuna reikistjörnustöðu. Gamall lagalisti og vel yddaður blýantur færa þér óvænta gleði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Visigoths_sack_Rome.jpg/500px-Visigoths_sack_Rome.jpg",
+    "ar": "410",
+    "texti": "Vestgotar undir stjórn Alariks 1. rændu Róm, sem hafði ekki orðið fyrir slíkri útreið í um 800 ár. Hin eilífa borg reyndist sem sagt ekki alveg ósnertanleg.",
+    "heimild": "https://en.wikipedia.org/wiki/Sack_of_Rome_(410)",
+    "breidd": 330,
+    "haed": 508
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

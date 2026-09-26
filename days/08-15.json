@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-15",
+  "dagur": 15,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:17",
+  "sunset": "21:44",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 15. ágúst! Í dag ber okkur frá múrum Konstantínópel og sjálfstæði Indlands alla leið út í geim, þar sem dularfullt „Wow!“ lét eitt sinn í sér heyra — sagan kann svo sannarlega að velja sér svið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "718",
+      "texti": "Herir Umajjada hættu umsátri sínu um Konstantínópel eftir árslanga atlögu. Þar með fjaraði út sú tilraun þeirra að leggja Býsanska ríkið undir sig."
+    },
+    {
+      "ar": "1261",
+      "texti": "Mikael 8. Palaiologos var krýndur keisari Býsanska ríkisins í Konstantínópel. Ætt hans átti síðar eftir að stjórna ríkinu allt til endaloka þess."
+    },
+    {
+      "ar": "1947",
+      "texti": "Jawaharlal Nehru tók við embætti sem fyrsti forsætisráðherra Indlands. Hann sat við stjórnvölinn í 16 ár, svo þetta varð engin stutt prufuáskrift að valdinu."
+    },
+    {
+      "ar": "1977",
+      "texti": "Útvarpssjónaukinn Big Ear í Ohio nam óvenjulega sterkt og að því er virtist geimrænt útvarpsmerki. Það varð síðar þekkt sem „Wow!“-merkið og hefur aldrei fengið fullnægjandi skýringu."
+    },
+    {
+      "ar": "2005",
+      "texti": "Stjórnvöld í Indónesíu og Frelsishreyfing Aceh undirrituðu Helsinki-samkomulagið. Með því lauk meira en 28 ára vopnuðum átökum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1933",
+      "texti": "Flugmaðurinn Charles Lindbergh kom til Íslands frá Grænlandi ásamt eiginkonu sinni. Þau ferðuðust áfram loftleiðis um norðan- og austanvert land og héldu frá Eskifirði til Færeyja 23. ágúst.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1936",
+      "texti": "Tíu atvinnulausir stúdentar hófu að grafa fyrir grunni væntanlegrar aðalbyggingar Háskóla Íslands við Suðurgötu. Húsið var formlega tekið í notkun 17. júní 1940.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Svifnökkvi kom til Íslands og var prófaður meðal annars milli Vestmannaeyja og lands, Reykjavíkur og Akraness og á Ölfusá. Framtíðin virtist um stund svífa á loftpúða.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1971",
+      "texti": "Minnisvarði um skáldið Stefán Ólafsson var afhjúpaður í Vallanesi, þar sem hann hafði þjónað sem prestur.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Affleck",
+      "starfsgrein": "leikari og kvikmyndagerðarmaður",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Anne Bretaprinsessa",
+      "starfsgrein": "bresk prinsessa",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Alejandro González Iñárritu",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Antóníus frá Padúa",
+      "starfsgrein": "prestur og dýrlingur",
+      "ar": "1195"
+    },
+    {
+      "nafn": "E. Nesbit",
+      "starfsgrein": "rithöfundur og ljóðskáld",
+      "ar": "1858"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Vigdís Grímsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Matthías Bjarnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Jón Bragi Bjarnason",
+      "starfsgrein": "efnafræðingur",
+      "ar": "1948"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða dularfulla fyrirbæri nam Big Ear-sjónaukinn árið 1977?",
+      "svor": [
+        "„Wow!“-merkið",
+        "Fyrstu farsímasendinguna",
+        "Útvarpsmerki frá Titanic",
+        "Veðurfréttir frá Mars"
+      ],
+      "rett": 0,
+      "skyring": "Big Ear nam „Wow!“-merkið, sem varð samstundis frægasta upphrópun stjörnufræðinnar."
+    },
+    {
+      "spurning": "Hvar var byrjað að grafa fyrir grunni Háskóla Íslands árið 1936?",
+      "svor": [
+        "Við Tjörnina",
+        "Við Suðurgötu",
+        "Á Þingvöllum",
+        "Í Vallanesi"
+      ],
+      "rett": 1,
+      "skyring": "Tíu atvinnulausir stúdentar hófu verkið við Suðurgötu í Reykjavík."
+    },
+    {
+      "spurning": "Hver tók við sem fyrsti forsætisráðherra Indlands árið 1947?",
+      "svor": [
+        "Syngman Rhee",
+        "Mikael 8. Palaiologos",
+        "Jawaharlal Nehru",
+        "Ben Affleck"
+      ],
+      "rett": 2,
+      "skyring": "Jawaharlal Nehru varð fyrsti forsætisráðherra Indlands og gegndi embættinu í 16 ár."
+    }
+  ],
+  "tonlistUSA": "I Just Want to Be Your Everything – Andy Gibb (1977)",
+  "tonlistUK": "I Feel Love – Donna Summer (1977)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "svifnökkvi",
+    "skyring": "Svifnökkvi er farartæki sem svífur rétt yfir yfirborði á loftpúða."
+  },
+  "vissir_thu": "„Wow!“-merkið fékk nafn sitt þegar stjörnufræðingurinn Jerry Ehman sá tölvuútskrift merkisins, hringaði utan um það og skrifaði „Wow!“ á spássíuna.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og kvikmyndastjarna á frumsýningu, jafnvel þótt erindið sé aðeins út í búð. Haltu faxvélinni heitri, sólgleraugunum við höndina og sjálfstraustinu stilltu á árið 1987.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg/500px-Umayyad_Caliphate_720_AD_%28orthographic_projection%29.svg.png",
+    "ar": "718",
+    "texti": "Herir Umajjada hættu umsátri sínu um Konstantínópel eftir árslanga atlögu. Þar með fjaraði út sú tilraun þeirra að leggja Býsanska ríkið undir sig.",
+    "heimild": "https://en.wikipedia.org/wiki/Umayyad_Caliphate",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

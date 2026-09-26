@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-10",
+  "dagur": 10,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:02",
+  "sunset": "22:02",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 10. ágúst siglum við með Vasa, skoðum gersemar Louvre og fylgjumst með fyrstu veðurathugunum á Álftanesi — en reynum þó að sökkva hvorki skipinu né skapinu. Sagan er nefnilega best þegar hún fær örlítið sólskin og glott í kaupbæti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "955",
+      "texti": "Otto mikli sigraði innrásarher Magyara í orrustunni við Lechfeld, nærri Augsburg í Þýskalandi. Sigurinn stöðvaði frekari innrásir þeirra inn í Mið-Evrópu."
+    },
+    {
+      "ar": "1270",
+      "texti": "Yekuno Amlak steypti síðasta konungi Zagwe-ættar af stóli og tók við keisaraveldi Eþíópíu. Þar með hófst valdatíð Salómonsættarinnar, sem entist í meira en sjö aldir."
+    },
+    {
+      "ar": "1628",
+      "texti": "Sænska herskipið Vasa sökk skömmu eftir að það lagði úr höfn í jómfrúrferð sinni frá Stokkhólmi. Glæsilegur skipsskrokkurinn reyndist sem sagt betur til sýnis en siglinga."
+    },
+    {
+      "ar": "1793",
+      "texti": "Louvre-safnið í París opnaði almenningi með 537 málverkum og 184 listmunum. Safnið varð síðar hið mest sótta í heimi, enda fáir staðir jafn vel fallnir til þess að týna bæði áttum og tímaskyni."
+    },
+    {
+      "ar": "1988",
+      "texti": "Bandarísk lög um borgaraleg réttindi tóku gildi og heimiluðu skaðabætur til eftirlifandi Bandaríkjamanna af japönskum ættum sem höfðu verið vistaðir í fangabúðum í síðari heimsstyrjöld."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1351",
+      "texti": "Arngrímur Brandsson var vígður ábóti í Þingeyraklaustri, einu helsta menningar- og fræðasetri íslenskra miðalda.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1539",
+      "texti": "Diðrik frá Mynden, fógeti konungs, var drepinn ásamt fylgdarliði sínu í Skálholti.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1779",
+      "texti": "Rasmus Lievog hóf veðurathuganir á Álftanesi og skráði veðrið fjórum sinnum á sólarhring næstu sex árin. Það er meiri samviskusemi en flest okkar sýna veðurforritinu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Fyrsta sjúkraflug á Íslandi var farið þegar flugvélin Súlan sótti veikan pilt í Kjós og flutti hann til Reykjavíkur eftir lendingu á Meðalfellsvatni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Angie Harmon",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Andre Drummond",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Aaron Staton",
+      "starfsgrein": "leikari",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Alexander Glazunov",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1865"
+    },
+    {
+      "nafn": "Alfred Döblin",
+      "starfsgrein": "rithöfundur og læknir",
+      "ar": "1878"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dagný Brynjarsdóttir",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Siv Friðleifsdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Halldór Björnsson",
+      "starfsgrein": "leikari",
+      "ar": "1962"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða óheppna herskip sökk í jómfrúrferð sinni árið 1628?",
+      "svor": [
+        "Vasa",
+        "Súlan",
+        "Víkingur",
+        "Lechfeld"
+      ],
+      "rett": 0,
+      "skyring": "Vasa komst aðeins skamma leið frá Stokkhólmi áður en sjórinn tók við stjórninni."
+    },
+    {
+      "spurning": "Hvað gerði Rasmus Lievog á Álftanesi frá árinu 1779?",
+      "svor": [
+        "Reisti skipasmíðastöð",
+        "Hóf reglulegar veðurathuganir",
+        "Stofnaði knattspyrnufélag",
+        "Opnaði listasafn"
+      ],
+      "rett": 1,
+      "skyring": "Lievog skráði veðrið fjórum sinnum á sólarhring í sex ár, án þess að fá eina einustu tilkynningu úr síma."
+    },
+    {
+      "spurning": "Hvaða íslenska knattspyrnukona á afmæli 10. ágúst?",
+      "svor": [
+        "Siv Friðleifsdóttir",
+        "Angie Harmon",
+        "Dagný Brynjarsdóttir",
+        "Guðlaug Þorsteinsdóttir"
+      ],
+      "rett": 2,
+      "skyring": "Dagný Brynjarsdóttir fæddist 10. ágúst 1991."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "Two Tribes – Frankie Goes to Hollywood (1984)",
+  "bio": "E.T. – geimveran (1982)",
+  "ord_dagsins": {
+    "ord": "jómfrúrferð",
+    "skyring": "Jómfrúrferð er fyrsta ferð skips, flugvélar eða annars farartækis."
+  },
+  "vissir_thu": "Vasa lá á hafsbotni í Stokkhólmshöfn í meira en þrjár aldir eftir hina örstuttu jómfrúrferð sína.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og það eigi bæði höllina og Louvre, en ætti samt að kanna hvort skipið sé sjófært áður en lagt er úr höfn. Gamalt verkefni fær byr undir báða vængi ef þú blandar saman dirfsku, kurteisi og hæfilega dramatískri innkomu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Kalandozasok.jpg/500px-Kalandozasok.jpg",
+    "ar": "955",
+    "texti": "Otto mikli sigraði innrásarher Magyara í orrustunni við Lechfeld, nærri Augsburg í Þýskalandi. Sigurinn stöðvaði frekari innrásir þeirra inn í Mið-Evrópu.",
+    "heimild": "https://en.wikipedia.org/wiki/Hungarian_invasions_of_Europe",
+    "breidd": 330,
+    "haed": 226
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

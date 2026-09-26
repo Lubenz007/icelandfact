@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-16",
+  "dagur": 16,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:20",
+  "sunset": "21:41",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 16. ágúst þeysumst við frá gullæði í Klondike til ótrúlegra 9,58 sekúndna Usains Bolt — og komum við hjá Bítlunum, sem þurftu stundum líka að skipta um takt. Haltu fast í söguhattinn; dagurinn er bæði fróðlegur og fjörugur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1513",
+      "texti": "Enskar og keisaralegar hersveitir sigruðu franska riddaraliðið í stríði Cambrai-bandalagsins og neyddu það til undanhalds."
+    },
+    {
+      "ar": "1819",
+      "texti": "Riddaralið réðst inn í mannfjölda sem krafðist umbóta á þingfulltrúakerfinu í Manchester. Um 15 létust og 400 til 700 særðust í atburðinum sem varð þekktur sem Peterloo-blóðbaðið."
+    },
+    {
+      "ar": "1896",
+      "texti": "Hópur sem meðal annars skipuðu George Carmack og Skookum Jim Mason fann gull nærri Dawson City í Kanada. Fundurinn hratt af stað gullæðinu í Klondike — og skyndilega vildu allir eiga skóflu."
+    },
+    {
+      "ar": "1962",
+      "texti": "Bítlarnir ráku trommarann Pete Best og fengu Ringo Starr í hans stað. Þar með var kunnuglegasta skipan hljómsveitarinnar loks komin með taktinn á hreint."
+    },
+    {
+      "ar": "2009",
+      "texti": "Usain Bolt hljóp 100 metrana á 9,58 sekúndum á heimsmeistaramótinu í Berlín og bætti eigið heimsmet. Flest okkar værum enn að koma okkur fyrir í startblokkunum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1854",
+      "texti": "Bandaríski ofurstinn Shafner fékk leyfi konungs til að leggja ritsíma milli Danmerkur og Vesturheims með viðkomu á Íslandi. Ekkert varð af áformunum og Íslendingar biðu í hálfa öld eftir ritsímanum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1920",
+      "texti": "Sveinn Björnsson var skipaður sendiherra Íslands í Kaupmannahöfn. Síðar varð hann fyrsti forseti lýðveldisins Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1941",
+      "texti": "Winston Churchill hafði viðkomu í Reykjavík á heimleið af fundi sínum með Franklin D. Roosevelt á Nýfundnalandi. Heimsókn breska forsætisráðherrans vakti, eins og nærri má geta, mikla athygli.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1991",
+      "texti": "Úrkomumet var sett í Reykjavík þegar 18 millimetrar féllu á aðeins einni klukkustund, rúmlega fjórðungur venjulegrar mánaðarúrkomu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Angela Bassett",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Cameron Monaghan",
+      "starfsgrein": "bandarískur leikari og fyrirsæta",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Cam Gigandet",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Caeleb Dressel",
+      "starfsgrein": "bandarískur sundmaður",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Anne L'Huillier",
+      "starfsgrein": "franskur eðlisfræðingur",
+      "ar": "1958"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Eggert Claessen",
+      "starfsgrein": "athafnamaður",
+      "ar": "1887"
+    },
+    {
+      "nafn": "Andrés Ingi Jónsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Sölvi Helgason",
+      "starfsgrein": "landshornaflakkari og alþýðulistamaður",
+      "ar": "1820"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hve hratt hljóp Usain Bolt 100 metrana í Berlín árið 2009?",
+      "svor": [
+        "9,58 sekúndur",
+        "9,68 sekúndur",
+        "9,72 sekúndur",
+        "9,88 sekúndur"
+      ],
+      "rett": 0,
+      "skyring": "Bolt fór metrana hundrað á 9,58 sekúndum, hraðar en flestir ná að finna skeiðklukkuna."
+    },
+    {
+      "spurning": "Hver tók við trommukjuðunum af Pete Best hjá Bítlunum?",
+      "svor": [
+        "Charlie Watts",
+        "Ringo Starr",
+        "Keith Moon",
+        "Phil Collins"
+      ],
+      "rett": 1,
+      "skyring": "Ringo Starr settist við trommurnar og varð hluti af sígildri skipan Bítlanna."
+    },
+    {
+      "spurning": "Hvaða verðandi forseti var skipaður sendiherra Íslands í Kaupmannahöfn árið 1920?",
+      "svor": [
+        "Ásgeir Ásgeirsson",
+        "Kristján Eldjárn",
+        "Sveinn Björnsson",
+        "Vigdís Finnbogadóttir"
+      ],
+      "rett": 2,
+      "skyring": "Sveinn Björnsson varð síðar fyrsti forseti lýðveldisins Íslands."
+    }
+  ],
+  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUK": "The Winner Takes It All – ABBA (1980)",
+  "bio": "Back to the Future (1985)",
+  "ord_dagsins": {
+    "ord": "ritsími",
+    "skyring": "Ritsími er eldra orð yfir fjarskiptakerfi sem sendir skrifuð boð með rafmerkjum, einnig nefnt símskeytakerfi."
+  },
+  "vissir_thu": "Heimsmet Usains Bolt frá 16. ágúst 2009, 9,58 sekúndur í 100 metra hlaupi, stendur enn.",
+  "stjornuspa": "Ljónið gengur inn í daginn eins og aðalstjarna í litskrúðugri kvikmynd frá 1985, en ætti að leyfa öðrum að fá eina eða tvær línur. Heppnin fylgir þér svo lengi sem sjálfstraustið verður ekki á stærð við gullæðið í Klondike.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Italia._Cambiamenti_territoriali_%281495-1535%29.png/500px-Italia._Cambiamenti_territoriali_%281495-1535%29.png",
+    "ar": "1513",
+    "texti": "Enskar og keisaralegar hersveitir sigruðu franska riddaraliðið í stríði Cambrai-bandalagsins og neyddu það til undanhalds.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_the_League_of_Cambrai",
+    "breidd": 330,
+    "haed": 304
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

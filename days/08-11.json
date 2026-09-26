@@ -1,0 +1,153 @@
+{
+  "mmdd": "08-11",
+  "dagur": 11,
+  "manudur": "ágúst",
+  "manudurNr": 8,
+  "stjornumerki": "Ljón",
+  "sunrise": "05:05",
+  "sunset": "21:58",
+  "kvedja": "Góðan 11. ágúst, kæri lesandi! Í dag röltum við frá Rómaveldi til fæðingar hipphoppsins, með viðkomu á Öræfajökli—enda kann sagan sjaldnast að fara beinustu leið. Spennið því tímabeltin og njótið ferðarinnar með örlitlu ljónsglotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "106",
+      "texti": "Dacía, sem náði yfir hluta þess lands sem nú er Rúmenía, varð að skattlandi Rómaveldis. Rómverjar bættu þar með enn einum stórum bita við heimsveldispúsluspilið."
+    },
+    {
+      "ar": "1492",
+      "texti": "Fyrsta páfakjörsþingið sem haldið var í Sixtínsku kapellunni kaus Roderic Borja sem Alexander VI páfa. Kapellan fékk þannig pólitískt hlutverk löngu áður en ferðamenn fóru að horfa þar upp í loftið."
+    },
+    {
+      "ar": "1786",
+      "texti": "Francis Light stofnaði George Town, fyrstu bresku byggðina í Suðaustur-Asíu. Borgin er nú höfuðstaður malasíska ríkisins Penang."
+    },
+    {
+      "ar": "1973",
+      "texti": "DJ Kool Herc rappaði yfir langan hljóðfærakafla í samkvæmi í New York og lagði þar með mikilvægan grunn að hipphopptónlist. Stundum hefst menningarbylting einfaldlega þegar plötusnúðurinn lætur taktinn ganga aðeins lengur."
+    },
+    {
+      "ar": "2012",
+      "texti": "Tvær jarðskjálftahrinur nærri Tabriz í Íran urðu að minnsta kosti 306 manns að bana og særðu um 3.000 til viðbótar. Þetta var einn mannskæðasti atburður ársins í landinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1580",
+      "texti": "Hlaup úr Mýrdalsjökli í tengslum við Kötlugos eyddi bæ í Álftaveri.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1794",
+      "texti": "Sveinn Pálsson og fylgdarmaður hans gengu á Öræfajökul í annarri þekktri ferð manna á tindinn. Í ferðinni er talið að Sveinn hafi fyrstur manna áttað sig á eðli og hreyfingum skriðjökla.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1938",
+      "texti": "Robert Baden-Powell, upphafsmaður skátastarfs, kom til Reykjavíkur ásamt hópi skátaforingja frá Englandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2006",
+      "texti": "Síðustu þrjár F-15-herþoturnar yfirgáfu Keflavíkurstöðina og Ísland varð herþotulaust í fyrsta sinn frá 1953.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anna Gunn",
+      "starfsgrein": "leikkona",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Alyson Stoner",
+      "starfsgrein": "leikari, söngvari og dansari",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Ben Gibbard",
+      "starfsgrein": "söngvaskáld og gítarleikari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Andy Bell",
+      "starfsgrein": "tónlistarmaður og lagahöfundur",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Alex Haley",
+      "starfsgrein": "rithöfundur og sagnfræðingur",
+      "ar": "1921"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bragi Ólafsson",
+      "starfsgrein": "rithöfundur og tónlistarmaður",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Ólafur Gaukur Þórhallsson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Ingibjörg Benediktsdóttir",
+      "starfsgrein": "skáldkona",
+      "ar": "1885"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónlistarstefna á mikilvægar rætur að rekja til samkvæmis DJ Kool Herc árið 1973?",
+      "svor": [
+        "Hipphopp",
+        "Diskó",
+        "Pönk",
+        "Reggae"
+      ],
+      "rett": 0,
+      "skyring": "Framlengdu taktkaflarnir og rapp DJ Kool Herc urðu eitt af hornsteinum hipphoppsins."
+    },
+    {
+      "spurning": "Hvaða jökul gekk Sveinn Pálsson á árið 1794?",
+      "svor": [
+        "Langjökul",
+        "Snæfellsjökul",
+        "Öræfajökul",
+        "Drangajökul"
+      ],
+      "rett": 2,
+      "skyring": "Ferðin á Öræfajökul tengdist merkilegum athugunum Sveins á hreyfingum skriðjökla."
+    },
+    {
+      "spurning": "Hvaða leikkona sem fædd er 11. ágúst er fremst á afmælislista dagsins?",
+      "svor": [
+        "Anna Gunn",
+        "Anna Massey",
+        "Arlene Dahl",
+        "Alyson Stoner"
+      ],
+      "rett": 0,
+      "skyring": "Anna Gunn fæddist 11. ágúst 1968."
+    }
+  ],
+  "tonlistUSA": "Every Breath You Take – The Police (1983)",
+  "tonlistUK": "The Winner Takes It All – ABBA (1980)",
+  "bio": "Jaws (1975)",
+  "ord_dagsins": {
+    "ord": "jökulhlaup",
+    "skyring": "Jökulhlaup er skyndilegt og oft gríðarlegt vatnsflóð undan eða frá jökli."
+  },
+  "vissir_thu": "George Town, sem Francis Light stofnaði árið 1786, er nú höfuðstaður malasíska ríkisins Penang.",
+  "stjornuspa": "Ljónið finnur í dag fyrir sviðsljósinu, jafnvel þótt það sé aðeins leslampinn yfir morgunkaffinu. Sýndu konunglegt sjálfstraust, en leyfðu öðrum að velja tónlistina—DJ Kool Herc sannaði að góður plötusnúður getur breytt sögunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Pope_Alexander_Vi.jpg/500px-Pope_Alexander_Vi.jpg",
+    "ar": "1492",
+    "texti": "Fyrsta páfakjörsþingið sem haldið var í Sixtínsku kapellunni kaus Roderic Borja sem Alexander VI páfa. Kapellan fékk þannig pólitískt hlutverk löngu áður en ferðamenn fóru að horfa þar upp í loftið.",
+    "heimild": "https://en.wikipedia.org/wiki/1492_conclave",
+    "breidd": 330,
+    "haed": 436
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
