@@ -1,0 +1,143 @@
+{
+  "mmdd": "12-31",
+  "dagur": 31,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:20",
+  "sunset": "15:40",
+  "kvedja": "Komdu sæll á síðasta degi ársins! Í dag leigjum við brugghús til 9.000 ára, kveikjum áramótabrennu með skólapiltum og horfum á tímakúluna síga yfir Times Square — allt áður en korkarnir fara á flug. Megi áramótin verða björt, hlý og laus við óvænt gluggaskattsframtöl.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1759",
+      "texti": "Arthur Guinness undirritaði 9.000 ára leigusamning um St. James's Gate-brugghúsið í Dyflinni, gegn 45 punda ársleigu, og hóf þar bruggun Guinness. Sumir hugsa fram í tímann; Guinness hugsaði nánast fram yfir tímann."
+    },
+    {
+      "ar": "1857",
+      "texti": "Viktoría Bretadrottning valdi Ottawa, þá fremur smáan skógarhöggsbæ, sem höfuðborg bresku nýlendunnar Kanada. Þar með fékk sagarrykið óvænta stöðuhækkun."
+    },
+    {
+      "ar": "1907",
+      "texti": "Fyrsta árlega tímakúlan var látin síga á Times Square í New York sem hluti af áramótafagnaði borgarinnar. Hefð fæddist sem síðan hefur fengið milljónir manna til að telja aftur á bak í kór."
+    },
+    {
+      "ar": "1999",
+      "texti": "Panama tók við fullum yfirráðum yfir Panamaskurðarsvæðinu af Bandaríkjunum samkvæmt Torrijos–Carter-samningunum. Mikilvæg siglingaleið skipti um hendur án þess að þurfa sjálf að skipta um stefnu."
+    },
+    {
+      "ar": "2004",
+      "texti": "Taipei 101 í Taívan var opnuð almenningi sem hæsta bygging heims. Skýjakljúfurinn varð samstundis eins konar upphrópunarmerki á sjóndeildarhring Taipei."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1787",
+      "texti": "Einokunarversluninni lauk á Íslandi og frá 1. janúar 1788 máttu allir þegnar Danakonungs stunda hér verslun. Það voru sannkölluð viðskiptaleg áramót.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1791",
+      "texti": "Skólapiltar í Hólavallarskóla héldu fyrstu áramótabrennuna sem öruggar heimildir eru um á Íslandi. Ungmennin voru þannig komin í hátíðarskipulagningu löngu áður en til urðu viðburðasíður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1874",
+      "texti": "Á Espihóli í Eyjafirði lauk þjóðhátíðarárinu með mikilli samkomu í snjóskála, þar sem borð, bekkir og jafnvel ræðustóll voru úr ís. Veislusalurinn hefur tæplega þurft mikla kælingu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1962",
+      "texti": "Icecan-sæstrengurinn milli Íslands og Kanada var tekinn í notkun og færði löndin nær hvort öðru í fjarskiptum, þótt Atlantshafið héldi sínu striki.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Sir Alex Ferguson",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Charles Edward Stuart",
+      "starfsgrein": "skoskur kröfuhafi til bresku krúnunnar",
+      "ar": "1720"
+    },
+    {
+      "nafn": "Charles Cornwallis",
+      "starfsgrein": "hershöfðingi og stjórnmálamaður",
+      "ar": "1738"
+    },
+    {
+      "nafn": "Andreas Vesalius",
+      "starfsgrein": "líffærafræðingur og læknir",
+      "ar": "1514"
+    },
+    {
+      "nafn": "Alex Salmond",
+      "starfsgrein": "hagfræðingur og stjórnmálamaður",
+      "ar": "1954"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jóhann J.E. Kúld",
+      "starfsgrein": "rithöfundur",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Til hve langs tíma leigði Arthur Guinness St. James's Gate-brugghúsið?",
+      "svor": [
+        "99 ára",
+        "500 ára",
+        "9.000 ára",
+        "Ævilangt og einum degi betur"
+      ],
+      "rett": 2,
+      "skyring": "Leigusamningurinn var til 9.000 ára, sem verður að teljast býsna traust langtímaáætlun."
+    },
+    {
+      "spurning": "Hverjir héldu fyrstu áramótabrennuna sem öruggar heimildir eru um á Íslandi?",
+      "svor": [
+        "Sjómenn í Vestmannaeyjum",
+        "Skólapiltar í Hólavallarskóla",
+        "Alþingismenn á Þingvöllum",
+        "Kaupmenn á Akureyri"
+      ],
+      "rett": 1,
+      "skyring": "Skólapiltar í Hólavallarskóla tendruðu þessa sögulegu brennu árið 1791."
+    },
+    {
+      "spurning": "Hvaða mannvirki var opnað almenningi árið 2004 sem þáverandi hæsta bygging heims?",
+      "svor": [
+        "Taipei 101",
+        "Empire State-byggingin",
+        "Manhattanbrúin",
+        "Panamaskurðurinn"
+      ],
+      "rett": 0,
+      "skyring": "Taipei 101 tók á móti almenningi og trónaði þá hæst allra bygginga."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "Bohemian Rhapsody / These Are the Days of Our Lives – Queen (1991)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "áramót",
+    "skyring": "Áramót eru skilin milli gamla ársins og þess nýja, þegar eitt ár kveður og annað tekur við."
+  },
+  "vissir_thu": "Arthur Guinness samdi um 9.000 ára leigu á brugghúsinu við St. James's Gate árið 1759 fyrir 45 pund á ári.",
+  "stjornuspa": "Steinbukurinn gengur skipulega inn í nýja árið, með markmiðin snyrtilega skráð og blýantinn yddan. Mundu þó að jafnvel metnaðarfullar geitur mega dansa á borðum — svo lengi sem borðið er traust og reikningurinn greiddur.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Arthur_Guinness.jpg/500px-Arthur_Guinness.jpg",
+    "ar": "1759",
+    "texti": "Arthur Guinness undirritaði 9.000 ára leigusamning um St. James's Gate-brugghúsið í Dyflinni, gegn 45 punda ársleigu, og hóf þar bruggun Guinness. Sumir hugsa fram í tímann; Guinness hugsaði nánast fram yfir tímann.",
+    "heimild": "https://en.wikipedia.org/wiki/Arthur_Guinness",
+    "breidd": 330,
+    "haed": 353
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

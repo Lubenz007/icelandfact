@@ -1,0 +1,143 @@
+{
+  "mmdd": "12-28",
+  "dagur": 28,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:22",
+  "sunset": "15:35",
+  "kvedja": "Góðan dag, kæri lesandi, á þessum fjórða degi jóla! Í dag vígjum við Westminster Abbey, fylgjum Galíleó fram hjá Neptúnusi án þess að bera kennsl á hann og kveikjum svo á gagnvirku sjónvarpi — sagan kann sannarlega að skipta um gír.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1065",
+      "texti": "Westminster Abbey var vígð í fyrsta sinn. Kirkjan, sem Játvarður góði lét reisa, var fyrsta rómanska kirkjan á Englandi."
+    },
+    {
+      "ar": "1612",
+      "texti": "Galileo Galilei varð fyrstur manna til að athuga plánetuna Neptúnus, en skráði hana ranglega sem fastastjörnu. Jafnvel snillingar geta þurft að tvítékka glósurnar."
+    },
+    {
+      "ar": "1908",
+      "texti": "Jarðskjálfti af stærðinni 7,1 reið yfir nágrenni Messínu á Sikiley og flóðbylgja fylgdi í kjölfarið. Að minnsta kosti 75.000 manns fórust í hamförunum."
+    },
+    {
+      "ar": "1967",
+      "texti": "Bandaríska viðskiptakonan Muriel Siebert varð fyrst kvenna til að eignast sæti í Kauphöllinni í New York og braut þar með býsna þykkt glerþak."
+    },
+    {
+      "ar": "2018",
+      "texti": "Netflix gaf út Black Mirror: Bandersnatch, sitt fyrsta gagnvirka efni ætlað fullorðnum. Áhorfandinn fékk loksins að stjórna söguþræðinum — og gat sjálfum sér um kennt þegar allt fór í skrúfuna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1393",
+      "texti": "Jörundarkirkja á Hólum í Hjaltadal fauk í óveðri á fjórða degi jóla.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1894",
+      "texti": "Mikið vestanofviðri olli talsverðu tjóni í Reykjavík. Loftþrýstingur féll um 60 millibör á einum sólarhring, sem er fáheyrt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1965",
+      "texti": "Skammt frá Surtsey reis ný eyja úr hafi og fékk nafnið Jólnir. Hún entist þó skemur en margt áramótaheitið og var horfin innan árs.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1975",
+      "texti": "Í þriðja þorskastríðinu sigldi breska freigátan Andromeda á íslenska varðskipið Tý.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alex Chilton",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Arthur Eddington",
+      "starfsgrein": "stjörnufræðingur, eðlisfræðingur og stærðfræðingur",
+      "ar": "1882"
+    },
+    {
+      "nafn": "André Holland",
+      "starfsgrein": "leikari",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Adam Peaty",
+      "starfsgrein": "sundmaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Birendra",
+      "starfsgrein": "konungur Nepals",
+      "ar": "1945"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Magnús Á. Árnason",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1894"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða plánetu sá Galíleó árið 1612 en taldi vera fastastjörnu?",
+      "svor": [
+        "Neptúnus",
+        "Satúrnus",
+        "Mars",
+        "Venus"
+      ],
+      "rett": 0,
+      "skyring": "Það var Neptúnus, sem lék fastastjörnu svo sannfærandi að Galíleó lét blekkjast."
+    },
+    {
+      "spurning": "Hvað varð um eyjuna Jólni, sem reis nærri Surtsey árið 1965?",
+      "svor": [
+        "Hún sameinaðist Surtsey",
+        "Hún var friðlýst sem varanleg byggð",
+        "Hún hvarf innan eins árs",
+        "Á henni reis viti"
+      ],
+      "rett": 2,
+      "skyring": "Jólnir hvarf með öllu innan árs — jarðsögulega séð var þetta örstutt gestaboð."
+    },
+    {
+      "spurning": "Hvað afrekaði Muriel Siebert árið 1967?",
+      "svor": [
+        "Hún varð fyrsta konan til að eignast sæti í Kauphöllinni í New York",
+        "Hún varð fyrsta konan til að synda yfir Ermarsund",
+        "Hún stofnaði Netflix",
+        "Hún varð fyrsti kvenkyns seðlabankastjóri Bandaríkjanna"
+      ],
+      "rett": 0,
+      "skyring": "Siebert varð fyrst kvenna til að eignast sæti í Kauphöllinni í New York."
+    }
+  ],
+  "tonlistUSA": "Say You, Say Me – Lionel Richie (1985)",
+  "tonlistUK": "Merry Christmas Everyone – Shakin' Stevens (1985)",
+  "bio": "The Lord of the Rings: The Return of the King (2003)",
+  "ord_dagsins": {
+    "ord": "veðrahamur",
+    "skyring": "Veðrahamur er ofsafengið eða mjög slæmt veður."
+  },
+  "vissir_thu": "Neptúnus var formlega uppgötvaður árið 1846, meira en tveimur öldum eftir að Galíleó hafði séð hann án þess að átta sig á að þar væri reikistjarna á ferð.",
+  "stjornuspa": "Steinbukurinn ætti að treysta sinni gömlu og traustu áætlun, jafnvel þótt einhver bjóði gagnvirkan söguþráð með fjórum vafasömum valkostum. Haltu um veskið, lyftu brúnum af festu og láttu aðra um að hlaupa á eftir Jólni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/500px-Westminster_Abbey%2C_Westminster.jpg",
+    "ar": "1065",
+    "texti": "Westminster Abbey var vígð í fyrsta sinn. Kirkjan, sem Játvarður góði lét reisa, var fyrsta rómanska kirkjan á Englandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Westminster_Abbey",
+    "breidd": 330,
+    "haed": 663
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

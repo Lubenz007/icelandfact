@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-30",
+  "dagur": 30,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:21",
+  "sunset": "15:39",
+  "kvedja": "Góðan 30. desember, kæri lesandi! Dagurinn teygir sig frá írskum orrustuvöllum ársins 999 til ísilagðra sundanna við Reykjavík, með viðkomu í C++ og kirkjuhljómleikum — býsna drjúg dagskrá áður en áramótin ganga í garð.",
+  "nafnadagur": "Davíð",
+  "atburdir": [
+    {
+      "ar": "999",
+      "texti": "Sameinaðar hersveitir Munster og Meath brutu á bak aftur uppreisn Leinster og Dyflinnar á Írlandi. Þannig lauk árþúsundinu þar með látum fremur en lágstemmdri áramótakveðju."
+    },
+    {
+      "ar": "1460",
+      "texti": "Í orrustunni við Wakefield sigruðu Lancaster-liðar her York-ættarinnar og Ríkharður af York féll. Rósastríðin báru fallegt nafn en voru sannarlega enginn blómvöndur."
+    },
+    {
+      "ar": "1903",
+      "texti": "Eldur í Iroquois-leikhúsinu í Chicago varð meira en 600 manns að bana. Þetta var einn mannskæðasti eldsvoði í einni byggingu í sögu Bandaríkjanna."
+    },
+    {
+      "ar": "1940",
+      "texti": "Arroyo Seco Parkway, ein af fyrstu hraðbrautum Bandaríkjanna, var formlega vígð milli miðborgar Los Angeles og Pasadena. Bílaborgin var farin að finna sitt sögulega akreinaspor."
+    },
+    {
+      "ar": "2006",
+      "texti": "Indónesíska ferjan MV Senopati Nusantara sökk í óveðri á Jövuhafi og að minnsta kosti 400 manns fórust. Slysið varð eitt af alvarlegustu sjóslysum landsins á síðari árum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1301",
+      "texti": "Mikill jarðskjálfti reið yfir Suðurland og hús féllu, einkum á Rangárvöllum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1880",
+      "texti": "Frost voru svo hörð og langvinn að unnt var að ganga á ís frá Reykjavík og upp á Kjalarnes — samgöngumáti sem enginn myndi fá samþykktan í dag.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1883",
+      "texti": "Fyrstu kirkjuhljómleikar á Íslandi voru haldnir í Dómkirkjunni í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1887",
+      "texti": "Bríet Bjarnhéðinsdóttir varð fyrst íslenskra kvenna til að flytja opinberan fyrirlestur. Erindi hennar í Góðtemplarahúsinu í Reykjavík fjallaði um hagi og réttindi kvenna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andra Day",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Bjarne Stroustrup",
+      "starfsgrein": "tölvunarfræðingur og skapari C++",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Berti Vogts",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Al Smith",
+      "starfsgrein": "lögmaður og stjórnmálamaður",
+      "ar": "1873"
+    },
+    {
+      "nafn": "Titus",
+      "starfsgrein": "rómverskur keisari",
+      "ar": "39"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Thorarensen",
+      "starfsgrein": "amtmaður og skáld",
+      "ar": "1786"
+    },
+    {
+      "nafn": "Adda Bára Sigfúsdóttir",
+      "starfsgrein": "veðurfræðingur og stjórnmálamaður",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Stefán Aðalsteinsson",
+      "starfsgrein": "búfræðingur",
+      "ar": "1928"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar voru fyrstu kirkjuhljómleikar á Íslandi haldnir árið 1883?",
+      "svor": [
+        "Í Dómkirkjunni í Reykjavík",
+        "Í Hallgrímskirkju",
+        "Í Skálholtsdómkirkju",
+        "Í Akureyrarkirkju"
+      ],
+      "rett": 0,
+      "skyring": "Dómkirkjan í Reykjavík hýsti þessa tónelsku tímamótastund."
+    },
+    {
+      "spurning": "Hvaða forritunarmál skapaði afmælisbarnið Bjarne Stroustrup?",
+      "svor": [
+        "Python",
+        "C++",
+        "Java",
+        "Pascal"
+      ],
+      "rett": 1,
+      "skyring": "Stroustrup skapaði C++, tungumál sem hefur kennt ófáum forriturum bæði þolinmæði og semíkommur."
+    },
+    {
+      "spurning": "Hvaða íslenska baráttukona flutti opinberan fyrirlestur um hagi og réttindi kvenna árið 1887?",
+      "svor": [
+        "Auður Laxness",
+        "Vigdís Finnbogadóttir",
+        "Bríet Bjarnhéðinsdóttir",
+        "Ingibjörg H. Bjarnason"
+      ],
+      "rett": 2,
+      "skyring": "Bríet Bjarnhéðinsdóttir steig þar sögulegt skref fyrir réttindi íslenskra kvenna."
+    }
+  ],
+  "tonlistUSA": "Another Day in Paradise – Phil Collins (1989)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "árbítur",
+    "skyring": "Árbítur er morgunverður eða máltíð sem neytt er snemma dags."
+  },
+  "vissir_thu": "Bjarne Stroustrup, sem fæddist þennan dag árið 1950, skapaði forritunarmálið C++.",
+  "stjornuspa": "Steinbukurinn tekur síðustu verkefni ársins föstum tökum, enda er ókláraður listi náttúrulegur óvinur hans. Mundu þó að jafnvel metnaðarfullar geitur mega tylla sér niður, fá sér árbít og láta alheiminn sjá um eitt eða tvö smáatriði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beheading_duke_somerset.jpg/500px-Beheading_duke_somerset.jpg",
+    "ar": "1460",
+    "texti": "Í orrustunni við Wakefield sigruðu Lancaster-liðar her York-ættarinnar og Ríkharður af York féll. Rósastríðin báru fallegt nafn en voru sannarlega enginn blómvöndur.",
+    "heimild": "https://en.wikipedia.org/wiki/Wars_of_the_Roses",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

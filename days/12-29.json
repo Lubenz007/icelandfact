@@ -1,0 +1,148 @@
+{
+  "mmdd": "12-29",
+  "dagur": 29,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:22",
+  "sunset": "15:37",
+  "kvedja": "Góðan og gleðilegan 29. desember! Í dag röltum við frá járnvörðu herskipi yfir í örsmáan heim nanótækninnar, með viðkomu á Hólmavík og í Hollywood — sagan kann sannarlega að skipta um gír. Klæddu þig vel og mundu að jafnvel Steinbukkurinn þarf stundum að líta upp úr dagbókinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1812",
+      "texti": "Eftir þriggja klukkustunda einvígi skipa undan strönd Brasilíu tók bandaríska freigátan USS Constitution breska skipið HMS Java herfangi. Þar var hvorki hraðspóla né kaffihlé."
+    },
+    {
+      "ar": "1860",
+      "texti": "Breski flotinn sjósetti HMS Warrior, fyrsta brynvarða herskip heims með járnskrokk. Skipinu var ætlað að svara franska járnvarða skipinu Gloire — vígbúnaðarkapphlaup með reykháfum og seglum."
+    },
+    {
+      "ar": "1890",
+      "texti": "Bandaríkjaher drap 250 til 300 Lakota-menn, konur og börn í fjöldamorðunum við Wounded Knee. Ódæðið markaði upphaf svonefnds Draugadansstríðs."
+    },
+    {
+      "ar": "1913",
+      "texti": "Cecil B. DeMille hóf tökur á The Squaw Man, fyrstu kvikmyndinni í fullri lengd sem gerð var í Hollywood. Draumasmiðjan var þar með farin að hita vélarnar."
+    },
+    {
+      "ar": "1959",
+      "texti": "Eðlisfræðingurinn Richard Feynman flutti við Caltech fyrirlesturinn „There's Plenty of Room at the Bottom“ og sá þar fyrir ýmsa möguleika nanótækninnar. Stundum reynist neðsta hæðin rúmbetri en ætla mætti."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1898",
+      "texti": "Verslunarfélag Steingrímsfjarðar, sem síðar varð Kaupfélag Steingrímsfjarðar, var stofnað á Hólmavík.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1908",
+      "texti": "Austan ofsaveður gekk yfir Suðurland og kirkjurnar á Stóra-Núpi og Hrepphólum brotnuðu í veðrinu.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1994",
+      "texti": "Alþingi samþykkti að Ísland yrði eitt af stofnríkjum Alþjóðaviðskiptastofnunarinnar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2020",
+      "texti": "Bólusetningar gegn COVID-19 hófust meðal íslensks heilbrigðisstarfsfólks og íbúa hjúkrunarheimila.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alison Brie",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Andrew Johnson",
+      "starfsgrein": "bandarískur stjórnmálamaður og forseti",
+      "ar": "1808"
+    },
+    {
+      "nafn": "Birendra af Nepal",
+      "starfsgrein": "konungur Nepal",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Bernard Cribbins",
+      "starfsgrein": "breskur leikari",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Carles Puigdemont",
+      "starfsgrein": "katalónskur stjórnmálamaður og blaðamaður",
+      "ar": "1962"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gunnar Thoroddsen",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Ólafur Skúlason",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1929"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eðlisfræðingur flutti árið 1959 fyrirlestur sem boðaði möguleika nanótækninnar?",
+      "svor": [
+        "Richard Feynman",
+        "Andrew Johnson",
+        "Cecil B. DeMille",
+        "Bernard Cribbins"
+      ],
+      "rett": 0,
+      "skyring": "Richard Feynman sá heilan heim í hinu örsmáa löngu áður en „nano“ varð tískuorð."
+    },
+    {
+      "spurning": "Hvar var Verslunarfélag Steingrímsfjarðar stofnað árið 1898?",
+      "svor": [
+        "Á Akureyri",
+        "Á Hólmavík",
+        "Á Selfossi",
+        "Í Keflavík"
+      ],
+      "rett": 1,
+      "skyring": "Félagið var stofnað á Hólmavík og varð síðar Kaupfélag Steingrímsfjarðar."
+    },
+    {
+      "spurning": "Hver afmælisbarna dagsins varð 17. forseti Bandaríkjanna?",
+      "svor": [
+        "Carles Puigdemont",
+        "Birendra af Nepal",
+        "Andrew Johnson",
+        "Gunnar Thoroddsen"
+      ],
+      "rett": 2,
+      "skyring": "Andrew Johnson tók við forsetaembættinu árið 1865."
+    }
+  ],
+  "tonlistUSA": "Like a Virgin – Madonna (1984)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "The Lord of the Rings: The Return of the King (2003)",
+  "ord_dagsins": {
+    "ord": "árbítur",
+    "skyring": "Árbítur er gamalt orð yfir morgunverð eða mat sem snæddur er snemma dags."
+  },
+  "vissir_thu": "HMS Warrior, sem var sjósett þennan dag árið 1860, var fyrsta brynvarða herskip heims sem hafði járnskrokk.",
+  "stjornuspa": "Steinbukkurinn finnur í dag gamla minnismiða sem reynist annaðhvort snjöll framtíðaráætlun eða innkaupalisti frá 1987. Haltu þig við jarðbundna visku, en leyfðu einni dálítið ópraktískri hugmynd að fá að lifa.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/War_of_1812_Montage.jpg/500px-War_of_1812_Montage.jpg",
+    "ar": "1812",
+    "texti": "Eftir þriggja klukkustunda einvígi skipa undan strönd Brasilíu tók bandaríska freigátan USS Constitution breska skipið HMS Java herfangi. Þar var hvorki hraðspóla né kaffihlé.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_1812",
+    "breidd": 330,
+    "haed": 490
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

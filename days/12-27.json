@@ -1,0 +1,148 @@
+{
+  "mmdd": "12-27",
+  "dagur": 27,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:22",
+  "sunset": "15:34",
+  "kvedja": "Góðan og gleðilegan 27. desember! Í dag siglum við með Darwin, lítum inn í Hagia Sophia og minnumst þess að jafnvel bílnúmer geta markað tímamót — sagan tekur sér nefnilega aldrei jólafrí.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "537",
+      "texti": "Endurbyggð Hagia Sophia var vígð í Konstantínópel. Byggingin hefur síðan gegnt hlutverki kirkju, mosku og safns — æviskrá hennar er öllu lengri en hjá flestum mannvirkjum."
+    },
+    {
+      "ar": "1657",
+      "texti": "Íbúar Nýja-Niðurlands afhentu svonefnda Flushing-mótmælaskjalið og kröfðust undanþágu frá banni við trúariðkun kvekara. Þetta varð athyglisvert innlegg í langa sögu trúfrelsis."
+    },
+    {
+      "ar": "1831",
+      "texti": "HMS Beagle lagði úr höfn í Plymouth áleiðis til Suður-Ameríku með Charles Darwin innanborðs. Ferðin gerði hann að viðurkenndum náttúrufræðingi og átti eftir að hafa djúpstæð áhrif á vísindasöguna."
+    },
+    {
+      "ar": "1949",
+      "texti": "Júlíana Hollandsdrottning undirritaði skjöl sem afsöluðu Hollendingum yfirráðum yfir mestum hluta Hollensku Austur-Indía og viðurkenndu formlega sjálfstæði Indónesíu."
+    },
+    {
+      "ar": "1985",
+      "texti": "Bandaríski prímatafræðingurinn Dian Fossey fannst myrt í kofa sínum í Eldfjallaþjóðgarðinum í Rúanda. Rannsóknir hennar og verndarstarf höfðu vakið heimsathygli á fjallagórillum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1394",
+      "texti": "Jörundarkirkja á Hólum brotnaði í ofsaveðri. Íslensk veðrátta hefur löngum verið ófeimin við að setja mark sitt á byggingarsöguna.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1923",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1956",
+      "texti": "Staðfest voru lög sem bönnuðu bæði keppni og sýningar í hnefaleikum á Íslandi. Hnefarnir fengu sem sagt lagalega hvíld.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1988",
+      "texti": "Fyrsta fasta bílnúmerið í nýju númerakerfi landsins, HP741, var sett á bifreið Halldórs Ásgrímssonar dómsmálaráðherra. Kerfið tók síðan formlega gildi í ársbyrjun 1989.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Goldberg",
+      "starfsgrein": "glímukappi, leikari og fyrrverandi leikmaður í amerískum fótbolta",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Adil Rami",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Bohdan Khmelnytsky",
+      "starfsgrein": "úkraínski hetman",
+      "ar": "1595"
+    },
+    {
+      "nafn": "Ander Barrenetxea",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2001"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Felixson",
+      "starfsgrein": "íþróttafréttamaður",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Arnór Jónsson",
+      "starfsgrein": "prestur",
+      "ar": "1772"
+    },
+    {
+      "nafn": "Magnús Stephensen",
+      "starfsgrein": "konferensráð",
+      "ar": "1762"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skip lagði úr höfn með Charles Darwin innanborðs 27. desember 1831?",
+      "svor": [
+        "HMS Beagle",
+        "HMS Victory",
+        "Endeavour",
+        "Santa María"
+      ],
+      "rett": 0,
+      "skyring": "HMS Beagle flutti Darwin í ferðina sem mótaði vísindaferil hans."
+    },
+    {
+      "spurning": "Hvaða íslenski íþróttafréttamaður á afmæli í dag?",
+      "svor": [
+        "Bjarni Felixson",
+        "Adil Rami",
+        "Bill Goldberg",
+        "Ander Barrenetxea"
+      ],
+      "rett": 0,
+      "skyring": "Bjarni Felixson fæddist 27. desember 1936 og varð þjóðkunnur íþróttafréttamaður."
+    },
+    {
+      "spurning": "Hvaða fasta bílnúmer var fyrst sett á bifreið í nýja íslenska númerakerfinu árið 1988?",
+      "svor": [
+        "AB123",
+        "HP741",
+        "IS001",
+        "R1988"
+      ],
+      "rett": 1,
+      "skyring": "HP741 reið á vaðið — óvenjuleg staða fyrir bílnúmer en þó ekki hraðakstur."
+    }
+  ],
+  "tonlistUSA": "(Just Like) Starting Over – John Lennon (1980)",
+  "tonlistUK": "There's No One Quite Like Grandma – St Winifred's School Choir (1980)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "konferensráð",
+    "skyring": "Konferensráð var heiðurstitill sem danska konungsvaldið veitti háttsettum embættismönnum."
+  },
+  "vissir_thu": "Hagia Sophia var upphaflega reist sem kirkja en hefur síðar meðal annars verið moska og safn.",
+  "stjornuspa": "Steinbukurinn nálgast daginn af þeirri festu sem sæmir embættismanni með nýtt bílnúmer og vandlega straujað dagatal. Gamalt verkefni leysist farsællega ef þú hættir að horfa á það eins og óvinnandi heimildaritgerð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Hagia_Sophia_%28228968325%29.jpeg/500px-Hagia_Sophia_%28228968325%29.jpeg",
+    "ar": "537",
+    "texti": "Endurbyggð Hagia Sophia var vígð í Konstantínópel. Byggingin hefur síðan gegnt hlutverki kirkju, mosku og safns — æviskrá hennar er öllu lengri en hjá flestum mannvirkjum.",
+    "heimild": "https://en.wikipedia.org/wiki/Hagia_Sophia",
+    "breidd": 330,
+    "haed": 199
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
