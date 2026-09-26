@@ -191,45 +191,113 @@ def rank_births(births, top=25):
     return ranked[:top]
 
 
+def _strip_wikitext(t):
+    t = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", t)   # [[A|B]] -> B, [[A]] -> A
+    t = re.sub(r"'{2,}", "", t)
+    t = re.sub(r"<[^>]+>", "", t)
+    t = re.sub(r"\{\{[^}]*\}\}", "", t)
+    return re.sub(r"\s+", " ", t).strip(" .")
+
+
 def fetch_is_wikipedia_sections(month, day):
     """Human-edited Icelandic Wikipedia day page ('26. september'): the
     'Atburðir' and 'Fædd' sections, already in Icelandic and full of
-    Iceland-specific entries the English feed never has."""
+    Iceland-specific entries the English feed never has. Reads the wikitext
+    so each birth keeps its article title (needed to rank by pageviews)."""
     title = urllib.parse.quote(f"{day}. {MONTHS_IS[month - 1]}")
     url = (
-        "https://is.wikipedia.org/w/api.php?action=query&prop=extracts"
-        f"&titles={title}&format=json&formatversion=2&explaintext=1&redirects=1"
+        "https://is.wikipedia.org/w/api.php?action=query&prop=revisions&rvprop=content"
+        f"&rvslots=main&titles={title}&format=json&formatversion=2&redirects=1"
     )
     try:
         data = http_json(url, timeout=20)
         pages = data.get("query", {}).get("pages", [])
-        extract = pages[0].get("extract", "") if pages else ""
+        text = pages[0]["revisions"][0]["slots"]["main"]["content"] if pages else ""
     except Exception as e:
         print(f"is.wikipedia villa: {e}")
         return [], []
 
     def section(name):
-        marker = f"\n== {name} ==\n"
-        start = extract.find(marker)
-        if start == -1:
+        m = re.search(r"^==\s*" + name + r"\s*==\s*$", text, re.M)
+        if not m:
             return []
-        start += len(marker)
-        end = extract.find("\n== ", start)
-        body = extract[start:end if end != -1 else len(extract)]
+        body = text[m.end():]
+        nxt = re.search(r"^==[^=]", body, re.M)
+        body = body[:nxt.start()] if nxt else body
         items = []
         for line in body.split("\n"):
-            m = re.match(r"^(\d{1,4}(?:\s*f\.\s*Kr\.?)?)\s*[-–]\s*(.+)$", line.strip())
-            if m:
-                items.append({"year": m.group(1).strip(), "text": m.group(2).strip()})
+            line = line.strip()
+            m2 = re.match(r"^\*\s*\[\[(\d{1,4}(?:\s*f\.\s*Kr\.?)?)\]\]\s*[-–]\s*(.+)$", line)
+            if not m2:
+                m2 = re.match(r"^\*\s*(\d{1,4}(?:\s*f\.\s*Kr\.?)?)\s*[-–]\s*(.+)$", line)
+            if not m2:
+                continue
+            rest = m2.group(2)
+            link = re.search(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]", rest)
+            items.append({
+                "year": m2.group(1).strip(),
+                "text": _strip_wikitext(rest),
+                "title": link.group(1).replace(" ", "_") if link else "",
+            })
         return items
 
     return section("Atburðir"), section("Fædd")
 
 
+def fetch_pageviews_is(titles, days=30):
+    """Same as fetch_pageviews but on is.wikipedia (numbers are small but
+    still rank well: Ólafur Jóhann Sigurðsson 53 vs an obscure botanist 11)."""
+    views = {}
+    titles = [t for t in titles if t]
+    for i in range(0, len(titles), 50):
+        batch = titles[i:i + 50]
+        url = (
+            "https://is.wikipedia.org/w/api.php?action=query&prop=pageviews"
+            f"&pvipdays={days}&format=json&formatversion=2&redirects=1&titles="
+            + urllib.parse.quote("|".join(batch), safe="")
+        )
+        try:
+            data = http_json(url, timeout=20)
+        except Exception as e:
+            print(f"is pageviews villa: {e}")
+            continue
+        redir = {r["from"]: r["to"] for r in data.get("query", {}).get("redirects", [])}
+        for pg in data.get("query", {}).get("pages", []):
+            total = sum(v or 0 for v in (pg.get("pageviews") or {}).values())
+            t = pg.get("title", "")
+            views[t.replace(" ", "_")] = total
+            for src, dst in redir.items():
+                if dst == t:
+                    views[src.replace(" ", "_")] = total
+    return views
+
+
+def build_icelandic_births(is_births, births_all, top=15):
+    """Merge Icelanders from both wikis and rank by fame:
+      * is.wikipedia 'Fædd' entries ranked by is.wikipedia pageviews
+      * en.wikipedia feed entries whose text says 'Iceland…' (Björk etc.),
+        which carry en pageviews from rank_births (already fetched).
+    Returns the list the model may choose 'afmaeli_island' from."""
+    views = fetch_pageviews_is([b["title"] for b in is_births])
+    for b in is_births:
+        b["views"] = views.get(b["title"], 0)
+        b["src"] = "is"
+    ranked = sorted(is_births, key=lambda b: -b["views"])
+    en_ice = [{**b, "src": "en"} for b in births_all if re.search(r"\bIceland", b.get("text", ""))]
+    def key(b):  # same person on both wikis: same year + same first name
+        return (str(b["year"]), b["text"].split()[0].strip(",").lower() if b["text"] else "")
+    seen = {key(b) for b in ranked}
+    merged = ranked[:top] + [b for b in en_ice if key(b) not in seen]
+    return merged
+
+
 def fmt_list(items, with_views=False):
     lines = []
     for it in items:
-        extra = f" [{it['views']:,} flettingar]" if with_views and it.get("views") is not None else ""
+        extra = ""
+        if with_views and it.get("views") is not None:
+            wiki = "is.wikipedia" if it.get("src") == "is" else "en.wikipedia"
+            extra = f" [{it['views']:,} flettingar á {wiki}]"
         lines.append(f"- ({it['year']}) {it['text']}{extra}")
     return "\n".join(lines) or "(engin gögn fengust)"
 
@@ -389,8 +457,8 @@ B) FÓLK FÆTT ÞENNAN DAG – enska Wikipedia, raðað eftir hversu margir lesa
 C) ATBURÐIR ÚR ÍSLENSKU WIKIPEDIU ÞENNAN DAG (þegar á íslensku). Fyrir "atburdir_island" veldu EINGÖNGU þá sem gerðust á Íslandi eða tengjast Íslandi/Íslendingum beint, allt að 4:
 {fmt_list(is_events)}
 
-D) FÓLK FÆTT ÞENNAN DAG SKV. ÍSLENSKU WIKIPEDIU (veldu allt að 3 ÍSLENDINGA eða fólk með sterk Íslandstengsl fyrir "afmaeli_island"; ef enginn er íslenskur skilaðu tómu fylki):
-{fmt_list(is_births)}
+D) ÍSLENDINGAR FÆDDIR ÞENNAN DAG – úr íslensku og ensku Wikipediu, raðað eftir flettingum (= frægð). Veldu allt að 3 ÞEKKTUSTU Íslendingana (eða fólk með sterk Íslandstengsl) fyrir "afmaeli_island" – listamenn, íþróttafólk, stjórnmálafólk, rithöfunda sem þjóðin kannast við; hafðu frægustu efst. Slepptu útlendingum sem slæðast með í listanum. Ef enginn Íslendingur er í listanum skilaðu tómu fylki:
+{fmt_list(is_births, with_views=True)}
 
 ═══ REGLUR ═══
 - atburdir, atburdir_island, afmaeli, afmaeli_island: EINGÖNGU úr listunum að ofan. Aldrei uppspuni. Ártöl nákvæmlega eins og í listunum.
@@ -523,11 +591,12 @@ def generate_day(month, day, verbose=True):
     wiki_events = fetch_wikimedia("selected", month, day)[:20]
     births_all = fetch_wikimedia("births", month, day)
     births_ranked = rank_births(births_all, top=25)
-    is_events, is_births = fetch_is_wikipedia_sections(month, day)
+    is_events, is_births_raw = fetch_is_wikipedia_sections(month, day)
+    is_births = build_icelandic_births(is_births_raw, births_all)
 
     if verbose:
         print(f"  Heimildir: {len(wiki_events)} heimsatburðir, {len(births_all)} fædd (topp {len(births_ranked)}), "
-              f"{len(is_events)} ísl. atburðir, {len(is_births)} ísl. fædd")
+              f"{len(is_events)} ísl. atburðir, {len(is_births_raw)} ísl. fædd (topp {len(is_births)})")
 
     prompt = build_prompt(month, day, zodiac, wiki_events, births_ranked, is_events, is_births)
     llm, provider = call_llm(prompt)
