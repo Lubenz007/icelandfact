@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-18",
+  "dagur": 18,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:36",
+  "sunset": "19:36",
+  "kvedja": "Góðan 18. mars, kæri lesandi! Í dag förum við úr krýningu í Eþíópíu yfir í geimgöngu og endum við enn óleystan listaverkaþjófnað — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1608",
+      "texti": "Susenyos I var formlega krýndur keisari Eþíópíu. Keisarakórónur voru ekki beinlínis hversdagsleg höfuðföt, jafnvel á 17. öld."
+    },
+    {
+      "ar": "1892",
+      "texti": "Stanley lávarður, landstjóri Kanada, hét því að gefa verðlaunagrip besta áhugamannaliði landsins í íshokkí. Gripinn þekkjum við nú sem Stanley-bikarinn, elsta atvinnuíþróttaverðlaun Norður-Ameríku."
+    },
+    {
+      "ar": "1925",
+      "texti": "Mannskæðasti hvirfilbylur í sögu Bandaríkjanna myndaðist í Missouri og fór meira en 352 kílómetra leið um Illinois og Indiana. Slóð hans varð ein sú lengsta samfellda sem skráð hefur verið eftir hvirfilbyl."
+    },
+    {
+      "ar": "1965",
+      "texti": "Sovéski geimfarinn Alexei Leonov steig út úr Voskhod 2 og varð fyrstur manna til að ganga í geimnum. Það hlýtur að teljast fágaðasta leið sögunnar til að fá sér ferskt loft."
+    },
+    {
+      "ar": "1990",
+      "texti": "Þjófar stálu þrettán listaverkum úr Isabella Stewart Gardner-safninu í Boston, metnum samtals á 500 milljónir Bandaríkjadala. Málið er enn óleyst og auðir rammar minna safngesti á það sem hvarf."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1760",
+      "texti": "Embætti landlæknis, þá nefnt landfysikus, var stofnað á Íslandi með úrskurði Danakonungs. Bjarni Pálsson varð fyrsti landlæknir landsins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1772",
+      "texti": "Björn Jónsson var skipaður fyrsti lyfsali Íslands og hafði aðsetur í Nesi við Seltjörn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1871",
+      "texti": "Tuttugu og fimm karlar og tvær konur hvöttu í ávarpi til Íslendinga til stofnunar kvennaskóla í Reykjavík. Kvennaskólinn tók síðan til starfa árið 1874.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Hæstiréttur Danmerkur kvað upp úrskurð sem gerði dönsku ríkisstjórninni kleift að afhenda Íslendingum handritin úr Árnasafni í Kaupmannahöfn.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Levine",
+      "starfsgrein": "söngvari, lagahöfundur og sjónvarpsmaður",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Charley Pride",
+      "starfsgrein": "kántrísöngvari og tónlistarmaður",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Ben Cohen",
+      "starfsgrein": "athafnamaður og góðgerðarsinni",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Alexei Yagudin",
+      "starfsgrein": "listskautahlaupari",
+      "ar": "1980"
+    },
+    {
+      "nafn": "Bonnie Blair",
+      "starfsgrein": "skautahlaupari",
+      "ar": "1964"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Katrín Magnússon",
+      "starfsgrein": "stjórnmála- og kvenréttindakona",
+      "ar": "1858"
+    },
+    {
+      "nafn": "Eiríkur Jónsson",
+      "starfsgrein": "fræðimaður og ritstjóri",
+      "ar": "1822"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrstur manna til að ganga í geimnum?",
+      "svor": [
+        "Alexei Leonov",
+        "Júrí Gagarín",
+        "Neil Armstrong",
+        "John Glenn"
+      ],
+      "rett": 0,
+      "skyring": "Alexei Leonov steig út úr Voskhod 2 árið 1965 og tók þar með óvenjulega langan göngutúr."
+    },
+    {
+      "spurning": "Hvaða frægi íshokkíbikar á rætur að rekja til loforðs Stanley lávarðar árið 1892?",
+      "svor": [
+        "Grey-bikarinn",
+        "Stanley-bikarinn",
+        "Ameríkubikarinn",
+        "Davis-bikarinn"
+      ],
+      "rett": 1,
+      "skyring": "Stanley-bikarinn hóf ferilinn sem verðlaun fyrir besta áhugamannalið Kanada."
+    },
+    {
+      "spurning": "Hver varð fyrsti landlæknir Íslands?",
+      "svor": [
+        "Björn Jónsson",
+        "Bjarni Pálsson",
+        "Eiríkur Jónsson",
+        "Ben Cohen"
+      ],
+      "rett": 1,
+      "skyring": "Bjarni Pálsson tók við hinu nýstofnaða landlæknisembætti árið 1760."
+    }
+  ],
+  "tonlistUSA": "Lost in Your Eyes – Debbie Gibson (1989)",
+  "tonlistUK": "Too Many Broken Hearts – Jason Donovan (1989)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "landfysikus",
+    "skyring": "Landfysikus er eldra heiti á landlækni, æðsta embættismanni íslenskra heilbrigðismála."
+  },
+  "vissir_thu": "Auðir rammar hanga enn í Isabella Stewart Gardner-safninu þar sem sum stolnu listaverkin voru áður, enda er þjófnaðurinn frá 1990 enn óupplýstur.",
+  "stjornuspa": "Fiskur, í dag er best að treysta innsæinu, en ekki svo blint að þú gangir út í geim án öryggislínu. Gamalt verkefni gæti skotið upp kollinum eins og óleyst safnráðgáta — taktu því með ró og dálitlum glæsibrag.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/King_Susenyos_I_of_Ethiopia_receives_the_Latin_Patriarch_Afonso_Mendes.jpg",
+    "ar": "1608",
+    "texti": "Susenyos I var formlega krýndur keisari Eþíópíu. Keisarakórónur voru ekki beinlínis hversdagsleg höfuðföt, jafnvel á 17. öld.",
+    "heimild": "https://en.wikipedia.org/wiki/Susenyos_I",
+    "breidd": 299,
+    "haed": 409
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

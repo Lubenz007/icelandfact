@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-11",
+  "dagur": 11,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:01",
+  "sunset": "19:15",
+  "kvedja": "Góðan 11. mars, kæri lesandi! Í dag sveiflum við okkur frá glóandi Etnu yfir í argentínskan tangó og endum á ótrúlegu sundafreki Guðlaugs Friðþórssonar — sagan kann svo sannarlega að skipta um takt. Haltu þér fast, en helst ekki við eldfjall.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1669",
+      "texti": "Etna á Sikiley tók að gjósa og sendi frá sér mesta hraunflæði sem þekkist í sögu eldfjallsins. Hraunið olli miklu tjóni í Catania og fleiri bæjum — náttúran var þar með afar ókurteis nágranni."
+    },
+    {
+      "ar": "1843",
+      "texti": "Risastjarnan Eta Carinae varð um stund næstbjartasta stjarnan á næturhimninum í miklu goskeiði sínu. Það var sannkölluð stjörnuinnkoma, löngu áður en rauðir dreglar komust í tísku."
+    },
+    {
+      "ar": "1851",
+      "texti": "Ópera Giuseppe Verdi, Rigoletto, var frumflutt í La Fenice í Feneyjum. Verkið varð síðar eitt hið þekktasta í óperuheiminum og laglínurnar hafa reynst býsna þrálátar."
+    },
+    {
+      "ar": "1984",
+      "texti": "Teiknimynd Hayao Miyazaki, Nausicaä of the Valley of the Wind, var frumsýnd. Ævintýrið varð mikilvægt skref á ferli Miyazaki og sýndi að teiknimyndir gátu verið bæði stórbrotnar og djúphugular."
+    },
+    {
+      "ar": "2011",
+      "texti": "Gífurlegur jarðskjálfti og flóðbylgja riðu yfir norðausturhluta Japans og hrundu af stað kjarnorkuslysi í Fukushima Daiichi. Hamfarirnar urðu meðal alvarlegustu náttúruhamfara í sögu landsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1907",
+      "texti": "Íþróttafélag Reykjavíkur var stofnað og Reykvíkingar fengu þar með nýjan vettvang til að reyna á þol, krafta og keppnisskap.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Línuveiðarinn Fróði varð fyrir árás þýska kafbátsins U-74 suður af Vestmannaeyjum. Fimm íslenskir sjómenn fórust.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1971",
+      "texti": "Lög voru sett um happdrættislán ríkissjóðs til að fjármagna vega- og brúargerð um Skeiðarársand. Vegurinn var opnaður þremur árum síðar og hringvegurinn færðist stórt skref nær því að verða heill.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1984",
+      "texti": "Vélbáturinn Hellisey frá Vestmannaeyjum sökk. Guðlaugur Friðþórsson komst einn lífs af eftir að hafa synt um fimm kílómetra í land við ótrúlega erfiðar aðstæður.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anton Yelchin",
+      "starfsgrein": "rússnesk-bandarískur leikari",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Andy Robertson",
+      "starfsgrein": "skoskur knattspyrnumaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Alex Kingston",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Anthony Davis",
+      "starfsgrein": "bandarískur körfuknattleiksmaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Astor Piazzolla",
+      "starfsgrein": "argentínskt tónskáld og bandoneónleikari",
+      "ar": "1921"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kristín Steinsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1946"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldfjall hóf sögulegt gos 11. mars 1669?",
+      "svor": [
+        "Etna",
+        "Hekla",
+        "Vesúvíus",
+        "Krakatau"
+      ],
+      "rett": 0,
+      "skyring": "Etna tók að gjósa og framleiddi mesta hraunflæði sem þekkist í sögu fjallsins."
+    },
+    {
+      "spurning": "Hvaða ópera Verdis var frumflutt í Feneyjum árið 1851?",
+      "svor": [
+        "Aida",
+        "Otello",
+        "Rigoletto",
+        "Falstaff"
+      ],
+      "rett": 2,
+      "skyring": "Rigoletto steig fyrst á svið í La Fenice og hefur lítið gefið eftir síðan."
+    },
+    {
+      "spurning": "Hvernig bjargaðist Guðlaugur Friðþórsson eftir að Hellisey sökk?",
+      "svor": [
+        "Hann komst í björgunarbát",
+        "Hann synti um fimm kílómetra í land",
+        "Þyrla sótti hann",
+        "Hann hélt sér á flaki bátsins"
+      ],
+      "rett": 1,
+      "skyring": "Guðlaugur synti um fimm kílómetra í land, afrek sem enn vekur undrun og aðdáun."
+    }
+  ],
+  "tonlistUSA": "Livin' on a Prayer – Bon Jovi (1987)",
+  "tonlistUK": "Shape of You – Ed Sheeran (2017)",
+  "bio": "Zootopia (2016)",
+  "ord_dagsins": {
+    "ord": "stjörnublik",
+    "skyring": "Stjörnublik er titrandi eða flöktandi ljós stjörnu eins og það birtist frá jörðu."
+  },
+  "vissir_thu": "Astor Piazzolla endurnýjaði argentínskan tangó með því að blanda honum meðal annars við djass og klassíska tónlist; sú stefna varð þekkt sem nuevo tango.",
+  "stjornuspa": "Fiskurinn syndir í dag milli fortíðar og framtíðar með innsæið að áttavita og örlitla nostalgíu í vasanum. Ef einhver býður þér í tangó skaltu slá til — en leyfðu hinum að telja taktinn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Mt_Etna_and_Catania1.jpg/500px-Mt_Etna_and_Catania1.jpg",
+    "ar": "1669",
+    "texti": "Etna á Sikiley tók að gjósa og sendi frá sér mesta hraunflæði sem þekkist í sögu eldfjallsins. Hraunið olli miklu tjóni í Catania og fleiri bæjum — náttúran var þar með afar ókurteis nágranni.",
+    "heimild": "https://en.wikipedia.org/wiki/Mount_Etna",
+    "breidd": 330,
+    "haed": 134
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

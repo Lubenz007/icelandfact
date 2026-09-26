@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-19",
+  "dagur": 19,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:33",
+  "sunset": "19:39",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 19. mars liggur leiðin frá síðasta keisara Songveldisins yfir í sundkennslu reykvískra stúlkna og þaðan alla leið út í gammablossa — sagan ferðast nefnilega sjaldan með handfarangur. Komdu þér vel fyrir og njóttu dagsins með örlitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1279",
+      "texti": "Songveldið leið undir lok eftir orrustuna við Yamen þegar Zhao Bing, síðasti keisari þess, drukknaði. Þar með lauk þriggja alda valdatíð ættarinnar og Mongólar tryggðu yfirráð sín yfir Kína."
+    },
+    {
+      "ar": "1563",
+      "texti": "Amboise-tilskipunin var undirrituð og batt enda á fyrsta stríð frönsku trúarbragðastyrjaldanna. Friðurinn entist til 1567 — sem telst því miður býsna löng kaffipása í slíkum átökum."
+    },
+    {
+      "ar": "1911",
+      "texti": "Alþjóðlegur baráttudagur kvenna var haldinn í fyrsta sinn, að frumkvæði Clöru Zetkin, Käte Duncker og fleiri baráttukvenna."
+    },
+    {
+      "ar": "1962",
+      "texti": "Bob Dylan gaf út fyrstu plötu sína, samnefnda honum sjálfum. Á henni voru einkum hefðbundin þjóðlög, blús og gospel — áður en hann fór að rugla heiminn rækilega í ríminu með eigin textum."
+    },
+    {
+      "ar": "2008",
+      "texti": "Gammablossinn GRB 080319B sást frá jörðu og setti met sem fjarlægasti atburður sem unnt hefur verið að sjá með berum augum. Alheimurinn blikkaði sem sagt til okkar úr órafjarlægð."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1908",
+      "texti": "Bríet Bjarnhéðinsdóttir varð fyrst kvenna til að taka til máls á fundi bæjarstjórnar Reykjavíkur. Hún mælti fyrir sundkennslu fyrir stúlkur og tillagan var samþykkt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Tollhúsið í Reykjavík var tekið í notkun og fékk þar með formlega að hefja sitt ævarandi samtal við farmbréf, stimpla og kassaskrár.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1985",
+      "texti": "Matvælafyrirtækið Kjarnafæði var stofnað á Akureyri.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2021",
+      "texti": "Eldgos hófst við Fagradalsfjall á Reykjanesskaga og varð skaginn skyndilega einn vinsælasti útsýnisstaður landsins.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Reid",
+      "starfsgrein": "þjálfari í amerískum fótbolta",
+      "ar": "1958"
+    },
+    {
+      "nafn": "David Livingstone",
+      "starfsgrein": "landkönnuður og trúboði",
+      "ar": "1813"
+    },
+    {
+      "nafn": "Alessandro Nesta",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "AJ Lee",
+      "starfsgrein": "fjölbragðaglí­mukona og rithöfundur",
+      "ar": "1987"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björgólfur Thor Björgólfsson",
+      "starfsgrein": "kaupsýslumaður",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Þorsteinn Hannesson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1917"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónlistarmaður gaf út sína fyrstu plötu 19. mars 1962?",
+      "svor": [
+        "Bob Dylan",
+        "Elvis Presley",
+        "Paul Simon",
+        "Johnny Cash"
+      ],
+      "rett": 0,
+      "skyring": "Bob Dylan gaf út samnefnda frumraun sína þennan dag árið 1962."
+    },
+    {
+      "spurning": "Fyrir hvaða málefni mælti Bríet Bjarnhéðinsdóttir á bæjarstjórnarfundinum árið 1908?",
+      "svor": [
+        "Kosningarétt sextán ára ungmenna",
+        "Sundkennslu fyrir stúlkur",
+        "Nýju ráðhúsi",
+        "Ókeypis sporvögnum"
+      ],
+      "rett": 1,
+      "skyring": "Bríet mælti fyrir sundkennslu fyrir stúlkur og tillagan var samþykkt."
+    },
+    {
+      "spurning": "Hvaða sögufræga kínverska keisaraætt lauk árið 1279?",
+      "svor": [
+        "Mingveldið",
+        "Tangveldið",
+        "Songveldið",
+        "Qingveldið"
+      ],
+      "rett": 2,
+      "skyring": "Songveldið leið undir lok eftir orrustuna við Yamen."
+    }
+  ],
+  "tonlistUSA": "She Loves You – The Beatles (1964)",
+  "tonlistUK": "The Last Time – The Rolling Stones (1965)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "orrah­ríð",
+    "skyring": "Orrahríð er hörð atlaga eða snörp hríð og er gjarnan notað um ákafa orrustu."
+  },
+  "vissir_thu": "Gammablossinn GRB 080319B var svo bjartur að hann var um stund sýnilegur með berum augum, þótt upptök hans væru í milljarða ljósára fjarlægð.",
+  "stjornuspa": "Fiskur, innsæið þitt er í dag skarpara en nýyddur blýantur á skrifborði sagnfræðings. Forðastu þó að lofa stórvirkjum fyrir hádegi; jafnvel rómverskir vegir þurftu verkáætlun.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Mongol_Song_Wars.jpg/500px-Mongol_Song_Wars.jpg",
+    "ar": "1279",
+    "texti": "Songveldið leið undir lok eftir orrustuna við Yamen þegar Zhao Bing, síðasti keisari þess, drukknaði. Þar með lauk þriggja alda valdatíð ættarinnar og Mongólar tryggðu yfirráð sín yfir Kína.",
+    "heimild": "https://en.wikipedia.org/wiki/Mongol_conquest_of_the_Song_dynasty",
+    "breidd": 330,
+    "haed": 223
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-17",
+  "dagur": 17,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:40",
+  "sunset": "19:33",
+  "kvedja": "Góðan 17. mars, kæri lesandi! Í dag förum við úr miðaldabardaga við Lorca yfir í frelsun Boston og allt til öryggisráðs Sameinuðu þjóðanna — enda kann sagan illa að sitja kyrr. Haltu fast í kaffibollann; gufuskip, tískusnillingar og íslensk stórviðri eru komin um borð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1452",
+      "texti": "Sameinaðar hersveitir Kastilíu og Múrsíu sigruðu her Granada í orrustunni við Los Alporchones, skammt frá borginni Lorca. Endurheimt Íberíuskagans var langt og blóðugt tafl þar sem peðin báru sverð."
+    },
+    {
+      "ar": "1776",
+      "texti": "Ellefu mánaða umsátri um Boston lauk þegar breska setuliðið yfirgaf borgina. Þetta varð mikilvægur áfangasigur uppreisnarmanna í bandaríska frelsisstríðinu."
+    },
+    {
+      "ar": "1891",
+      "texti": "Gufuskipið Utopia rakst á breska orrustuskipið HMS Anson á Gíbraltarsundi og sökk á innan við tuttugu mínútum. Alls fórust 562 í þessu skelfilega sjóslysi."
+    },
+    {
+      "ar": "1950",
+      "texti": "Vísindamenn við Lawrence Berkeley-rannsóknarstofuna tilkynntu að þeim hefði tekist að búa til geislavirka frumefnið kalifornín. Kalifornía hafði þar með eignast nafna í lotukerfinu — fremur óvenjulegan heiður."
+    },
+    {
+      "ar": "2011",
+      "texti": "Öryggisráð Sameinuðu þjóðanna samþykkti ályktun 1973, sem heimilaði hernaðaríhlutun í Líbíu til að vernda óbreytta borgara. Ályktunin varð undanfari alþjóðlegra loftárása í borgarastríðinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1610",
+      "texti": "Geirþrúðarbylur gekk yfir landið með slíku ofsaveðri að tugir manna urðu úti, einkum í Borgarfirði og Miðfirði.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1757",
+      "texti": "Undir Eyjafjöllum fórust 42 menn af þremur skipum frá Vestmannaeyjum, átakanleg áminning um þá hættu sem fylgdi sjósókn fyrri alda.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1896",
+      "texti": "Sportsfélag Reykjavíkur var stofnað og íþróttastarf höfuðstaðarins fékk þar með nýjan vettvang.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1988",
+      "texti": "Fyrsta íslenska glasabarnið fæddist, tólf marka drengur. Þetta var stór áfangi í íslenskri læknisfræði og gleðistund fyrir fjölskylduna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexander McQueen",
+      "starfsgrein": "breskur fatahönnuður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Jakob 4. Skotakonungur",
+      "starfsgrein": "konungur Skotlands",
+      "ar": "1473"
+    },
+    {
+      "nafn": "Harún Alrasjid",
+      "starfsgrein": "kalífi Abbasída",
+      "ar": "763"
+    },
+    {
+      "nafn": "Bobby Jones",
+      "starfsgrein": "bandarískur kylfingur og lögfræðingur",
+      "ar": "1902"
+    },
+    {
+      "nafn": "Bayard Rustin",
+      "starfsgrein": "bandarískur mannréttindafrömuður",
+      "ar": "1912"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Páll Pétursson",
+      "starfsgrein": "íslenskur stjórnmálamaður",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Einar Magnússon",
+      "starfsgrein": "íslenskur skólameistari",
+      "ar": "1900"
+    },
+    {
+      "nafn": "Hallgrímur Þorsteinsson",
+      "starfsgrein": "íslenskur prestur",
+      "ar": "1776"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg yfirgaf breska setuliðið 17. mars 1776?",
+      "svor": [
+        "Boston",
+        "New York",
+        "Fíladelfíu",
+        "Charleston"
+      ],
+      "rett": 0,
+      "skyring": "Bretar yfirgáfu Boston eftir ellefu mánaða umsátur."
+    },
+    {
+      "spurning": "Hvaða frumefni var kynnt til sögunnar árið 1950?",
+      "svor": [
+        "Einsteinín",
+        "Kalifornín",
+        "Plútón",
+        "Radín"
+      ],
+      "rett": 1,
+      "skyring": "Kalifornín bættist í hóp geislavirkra þungavigtarmanna lotukerfisins."
+    },
+    {
+      "spurning": "Hvað fæddist á Íslandi 17. mars 1988 og markaði tímamót í læknisfræði?",
+      "svor": [
+        "Fyrstu íslensku fimmburarnir",
+        "Fyrsta barnið í sjúkraflugi",
+        "Fyrsta íslenska glasabarnið",
+        "Fyrsta barnið á nýju ári"
+      ],
+      "rett": 2,
+      "skyring": "Fyrsta íslenska glasabarnið var tólf marka drengur."
+    }
+  ],
+  "tonlistUSA": "Jump – Van Halen (1984)",
+  "tonlistUK": "99 Red Balloons – Nena (1984)",
+  "bio": "Erin Brockovich (2000)",
+  "ord_dagsins": {
+    "ord": "dagmál",
+    "skyring": "Dagmál er gamalt heiti á tíma dagsins um miðjan morgun, nálægt klukkan níu."
+  },
+  "vissir_thu": "Kalifornín, sem var tilkynnt um árið 1950, er frumefni númer 98 í lotukerfinu og dregur nafn sitt af Kaliforníu.",
+  "stjornuspa": "Fiskurinn syndir í dag eins og hann sé með vasadiskó og nýjar rafhlöður: hugmyndirnar blikka, en leiðbeiningarnar eru týndar. Treystu innsæinu, en láttu það ekki sjá eitt um að velja þér hatt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg/500px-20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg",
+    "ar": "1452",
+    "texti": "Sameinaðar hersveitir Kastilíu og Múrsíu sigruðu her Granada í orrustunni við Los Alporchones, skammt frá borginni Lorca. Endurheimt Íberíuskagans var langt og blóðugt tafl þar sem peðin báru sverð.",
+    "heimild": "https://en.wikipedia.org/wiki/Reconquista",
+    "breidd": 330,
+    "haed": 246
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

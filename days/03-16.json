@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-16",
+  "dagur": 16,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:43",
+  "sunset": "19:30",
+  "kvedja": "Góðan 16. mars, kæri lesandi! Í dag göngum við með Samoset inn í Plymouth, fylgjum fyrsta FA-bikarnum í mark og minnumst jafnframt þeirra myrku stunda sem sagan má aldrei sópa undir teppið. Það er sem sagt bæði þungi og léttleiki í farteskinu — rétt eins og í almennilega pakkaðri sögutösku.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1621",
+      "texti": "Samoset, maður af Abenaki-þjóðinni, gekk inn í Plymouth-nýlenduna og heilsaði pílagrímunum á ensku. Það hefur eflaust verið óvæntasta „góðan daginn“ sem nýlendubúarnir höfðu heyrt."
+    },
+    {
+      "ar": "1782",
+      "texti": "Í bandaríska frelsisstríðinu náðu Spánverjar eyjunni Roatán af Bretum, undan strönd þess sem nú er Hondúras. Keisaraveldin tefldu þar skák sína langt frá eigin heimahögum."
+    },
+    {
+      "ar": "1872",
+      "texti": "Wanderers sigruðu Royal Engineers 1–0 í fyrsta úrslitaleik FA-bikarsins í London. Þar með hófst löng hefð knattspyrnudrama, naglabíts og eilífra deilna um dómgæslu."
+    },
+    {
+      "ar": "1968",
+      "texti": "Bandarískir hermenn drápu hundruð óvopnaðra borgara í Sơn Mỹ í Suður-Víetnam, í voðaverki sem oftast er kennt við My Lai. Fjöldamorðin urðu eitt alræmdasta tákn grimmdar Víetnamstríðsins."
+    },
+    {
+      "ar": "2003",
+      "texti": "Bandaríska friðarsinnan Rachel Corrie lést í Rafah þegar brynvarin jarðýta ísraelska hersins ók yfir hana við mótmæli gegn niðurrifi palestínsks húss. Dauði hennar vakti mikla alþjóðlega athygli."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1315",
+      "texti": "Bein Guðmundar góða voru tekin upp og Gvendardagur gerður að messudegi á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1657",
+      "texti": "Miklir jarðskjálftar riðu yfir Suðurland og hús féllu víða, einkum í Fljótshlíð.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1910",
+      "texti": "Póstskipið s.s. Laura, í eigu Sameinaða danska gufuskipafélagsins, strandaði við Finnstaðanes á Skagaströnd.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1983",
+      "texti": "Reykjavíkurborg keypti stórt landsvæði í Viðey af Ólafi Stephensen og eignaðist þar með nær alla eyjuna, að Viðeyjarstofu og Viðeyjarkirkju undanskildum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexandra Daddario",
+      "starfsgrein": "leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Alan Tudyk",
+      "starfsgrein": "leikari",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Aisling Bea",
+      "starfsgrein": "grínisti og leikkona",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Bernardo Bertolucci",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Amos Tversky",
+      "starfsgrein": "sálfræðingur og fræðimaður",
+      "ar": "1937"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sigurður Norland",
+      "starfsgrein": "náttúruverndarsinni",
+      "ar": "1885"
+    },
+    {
+      "nafn": "Jón Ásgeirsson frá Þingeyrum",
+      "starfsgrein": "bóndi",
+      "ar": "1839"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað gerði Samoset pílagrímunum til mikillar furðu árið 1621?",
+      "svor": [
+        "Heilsaði þeim á ensku",
+        "Færði þeim prentvél",
+        "Söng fyrir þá ítalska óperu",
+        "Skoraði á þá í knattspyrnu"
+      ],
+      "rett": 0,
+      "skyring": "Samoset heilsaði nýlendubúunum á ensku, sem hefur verið býsna áhrifarík innkoma."
+    },
+    {
+      "spurning": "Hvaða lið vann fyrsta úrslitaleik FA-bikarsins árið 1872?",
+      "svor": [
+        "Royal Engineers",
+        "Wanderers",
+        "Liverpool",
+        "Arsenal"
+      ],
+      "rett": 1,
+      "skyring": "Wanderers unnu Royal Engineers 1–0 og skráðu sig þar með fyrst á bikarinn."
+    },
+    {
+      "spurning": "Hvar urðu miklir jarðskjálftar árið 1657?",
+      "svor": [
+        "Á Vestfjörðum",
+        "Í Fljótshlíð og víðar á Suðurlandi",
+        "Í Viðey",
+        "Á Skagaströnd"
+      ],
+      "rett": 1,
+      "skyring": "Skjálftarnir léku Fljótshlíð sérstaklega grátt og felldu þar hús."
+    }
+  ],
+  "tonlistUSA": "Can't Fight This Feeling – REO Speedwagon (1985)",
+  "tonlistUK": "You Spin Me Round (Like a Record) – Dead or Alive (1985)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og lifir meðal annars í orðinu dægurlag."
+  },
+  "vissir_thu": "Fyrsti úrslitaleikur FA-bikarsins árið 1872 endaði aðeins 1–0, svo knattspyrnan kunni strax listina að halda áhorfendum í spennu.",
+  "stjornuspa": "Fiskur, innsæið þitt kraumar eins og kaffikanna á gömlum prímus, en láttu ekki hvert skrölt verða að örlagatákn. Gamalt erindi eða gleymd hugmynd gæti synt aftur upp á yfirborðið — taktu vel á móti henni, en athugaðu dagsetninguna.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Interview_of_Samoset_with_the_Pilgrims.jpg/500px-Interview_of_Samoset_with_the_Pilgrims.jpg",
+    "ar": "1621",
+    "texti": "Samoset, maður af Abenaki-þjóðinni, gekk inn í Plymouth-nýlenduna og heilsaði pílagrímunum á ensku. Það hefur eflaust verið óvæntasta „góðan daginn“ sem nýlendubúarnir höfðu heyrt.",
+    "heimild": "https://en.wikipedia.org/wiki/Samoset",
+    "breidd": 330,
+    "haed": 361
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

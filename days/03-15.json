@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-15",
+  "dagur": 15,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:47",
+  "sunset": "19:27",
+  "kvedja": "Góðan 15. mars! Í dag sveiflumst við frá miðaldaborginni Santarém yfir í rússneska keisarahöll og endum með fiðluleik í bæjarsíma Reykjavíkur — sagan kann sannarlega að skipta um tóntegund. Helltu upp á eitthvað gott og komdu með; þetta verður fjörug ferð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1147",
+      "texti": "Portúgalskar hersveitir undir stjórn Afonso I konungs náðu borginni Santarém af Almoravídum í endurheimt kristinna ríkja á Íberíuskaga."
+    },
+    {
+      "ar": "1783",
+      "texti": "George Washington ávarpaði liðsforingja meginlandshersins í Newburgh og sannfærði þá um að virða yfirráð Bandaríkjaþings. Með orðunum einum tókst honum að lægja mögulega valdaránstilraun — býsna áhrifaríkur fundur."
+    },
+    {
+      "ar": "1917",
+      "texti": "Nikulás II Rússakeisari neyddist til að segja af sér í febrúarbyltingunni. Þar með lauk þriggja alda valdatíð Romanov-ættarinnar."
+    },
+    {
+      "ar": "1951",
+      "texti": "Íranski olíuiðnaðurinn var þjóðnýttur að frumkvæði hreyfingar undir forystu Mohammad Mosaddegh. Ákvörðunin átti eftir að valda miklum pólitískum skjálftum, bæði í Íran og utan þess."
+    },
+    {
+      "ar": "1974",
+      "texti": "Fyrsta ráðstefna Bretlands um réttindi transfólks hófst með kvöldmóttöku í Leeds. Ráðstefnan bar heitið Transvestism and Transsexualism in Modern Society."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1905",
+      "texti": "Bæjarsíminn í Reykjavík var formlega opnaður með fiðluleik í símann. Þá voru aðeins 15 talsímar í borginni, en þeim fjölgaði fljótt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1953",
+      "texti": "Þjóðvarnarflokkur Íslands var stofnaður.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1962",
+      "texti": "Frostið í Möðrudal á Fjöllum mældist −33 °C, það mesta á Íslandi frá frostavetrinum mikla 1918.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "2006",
+      "texti": "Bandarísk stjórnvöld tilkynntu ríkisstjórn Íslands að allar bandarískar orrustuþotur og björgunarþyrlur yrðu kallaðar heim frá Keflavíkurflugvelli.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alia Bhatt",
+      "starfsgrein": "leikkona",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Andrew Jackson",
+      "starfsgrein": "herforingi og sjöundi forseti Bandaríkjanna",
+      "ar": "1767"
+    },
+    {
+      "nafn": "Bret Michaels",
+      "starfsgrein": "söngvari, lagahöfundur og sjónvarpsmaður",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Alan Bean",
+      "starfsgrein": "geimfari og flugmaður",
+      "ar": "1932"
+    },
+    {
+      "nafn": "Ben Okri",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1959"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Baldur Trausti Hreinsson",
+      "starfsgrein": "leikari",
+      "ar": "1967"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða rússneski keisari neyddist til að segja af sér 15. mars 1917?",
+      "svor": [
+        "Nikulás II",
+        "Alexander II",
+        "Pétur mikli",
+        "Ívan grimmi"
+      ],
+      "rett": 0,
+      "skyring": "Nikulás II sagði af sér og þriggja alda valdatíð Romanov-ættarinnar lauk."
+    },
+    {
+      "spurning": "Hvernig var opnun Bæjarsímans í Reykjavík árið 1905 gerð hátíðleg?",
+      "svor": [
+        "Með fallbyssuskoti",
+        "Með fiðluleik í símann",
+        "Með kappakstri sendisveina",
+        "Með fyrstu útvarpsfréttunum"
+      ],
+      "rett": 1,
+      "skyring": "Fiðluleikur barst um símann — streymisveita ársins 1905, ef svo má segja."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins var geimfari?",
+      "svor": [
+        "Ben Okri",
+        "Bret Michaels",
+        "Alan Bean",
+        "Andrew Jackson"
+      ],
+      "rett": 2,
+      "skyring": "Alan Bean var geimfari og flugmaður, en hinir héldu sig nær jörðu."
+    }
+  ],
+  "tonlistUSA": "Sara – Starship (1986)",
+  "tonlistUK": "Chain Reaction – Diana Ross (1986)",
+  "bio": "Ísöld (2002)",
+  "ord_dagsins": {
+    "ord": "talsími",
+    "skyring": "Talsími er eldra íslenskt orð yfir síma, einkum síma sem flytur talað mál."
+  },
+  "vissir_thu": "Þegar Bæjarsíminn í Reykjavík var formlega opnaður árið 1905 voru aðeins 15 talsímar í borginni — og fiðluleikur í símann markaði tímamótin.",
+  "stjornuspa": "Fiskurinn finnur í dag gamalt bréf, gleymda laglínu eða hugmynd sem á skilið nýtt líf. Varastu þó að þjóðnýta kaffikönnuna á vinnustaðnum; samningaviðræður skila betri árangri.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg/500px-20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg",
+    "ar": "1147",
+    "texti": "Portúgalskar hersveitir undir stjórn Afonso I konungs náðu borginni Santarém af Almoravídum í endurheimt kristinna ríkja á Íberíuskaga.",
+    "heimild": "https://en.wikipedia.org/wiki/Reconquista",
+    "breidd": 330,
+    "haed": 246
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

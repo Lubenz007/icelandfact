@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-05",
+  "dagur": 5,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:22",
+  "sunset": "18:57",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 5. mars förum við frá herför Rómverja yfir í verkfall fiskverkunarkvenna og endum við heimilistölvu sem hafði minni en margur nútímalegur brauðrist. Sagan kann svo sannarlega að skipta um gír — og stundum án kúplingar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "363",
+      "texti": "Júlíanus Rómarkeisari lagði af stað frá Antíokkíu með her sinn til árásar á Sassanídaveldið. Þetta varð mikið hernaðarævintýri, en ekki með þeim endi sem keisarinn hafði vonast eftir."
+    },
+    {
+      "ar": "1770",
+      "texti": "Breskir hermenn skutu á mannfjölda í Boston og fimm létust. Atburðurinn varð þekktur sem fjöldamorðin í Boston og jók verulega spennuna fyrir bandarísku byltinguna."
+    },
+    {
+      "ar": "1825",
+      "texti": "Karabíska sjóræningjanum Roberto Cofresí var komið í hendur yfirvalda eftir að flaggskip hans, slúpan Anne, var tekið. Þar með tók að síga á ógæfuhliðina hjá einum síðasta fræga sjóræningja Karíbahafsins."
+    },
+    {
+      "ar": "1936",
+      "texti": "Frumgerð Supermarine Spitfire fór í sitt fyrsta flug. Hin rennilega flugvél átti síðar eftir að verða eitt þekktasta tákn breska flughersins í síðari heimsstyrjöld."
+    },
+    {
+      "ar": "1981",
+      "texti": "Sinclair Research setti bresku heimilistölvuna ZX81 á markað. Þessi litla brautryðjendavél seldist í meira en 1,5 milljónum eintaka um heiminn og vakti tölvuáhuga heillar kynslóðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1865",
+      "texti": "Kirkjan á Möðruvöllum í Hörgárdal brann. Arngrímur Gíslason málaði síðar mynd af brunanum sem talin er fyrsta íslenska atburðamyndin.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1912",
+      "texti": "Fiskverkunarkonur í Hafnarfirði hófu verkfall sem stóð í nokkrar vikur. Þetta var í annað sinn sem konur fóru í verkfall á Íslandi, og sömu konur höfðu einnig lagt niður störf árið 1907.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1938",
+      "texti": "Aftaka norðanveður reið yfir Húsavík í Norður-Múlasýslu og bæjarhús fuku af grunni niður í fjöru. Fólk var inni í húsunum en komst af, sem þótti með miklum ólíkindum.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1970",
+      "texti": "Ísland gerðist aðili að Fríverslunarsamtökum Evrópu, EFTA. Þar steig landið mikilvægt skref í átt að nánara evrópsku viðskiptasamstarfi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Gibb",
+      "starfsgrein": "söngvari, lagahöfundur og leikari",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Bernard Arnault",
+      "starfsgrein": "kaupsýslumaður, góðgerðarmaður og listasafnari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Aleksandar Vučić",
+      "starfsgrein": "stjórnmálamaður og forseti Serbíu",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Aasif Mandvi",
+      "starfsgrein": "leikari, framleiðandi og handritshöfundur",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Adriana Barraza",
+      "starfsgrein": "leikkona",
+      "ar": "1956"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Drífa Viðar",
+      "starfsgrein": "myndlistarkona, kennari og rithöfundur",
+      "ar": "1920"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tölva kom á markað 5. mars 1981 og seldist í meira en 1,5 milljónum eintaka?",
+      "svor": [
+        "ZX81",
+        "Commodore 64",
+        "BBC Micro",
+        "Apple Lisa"
+      ],
+      "rett": 0,
+      "skyring": "ZX81 var smávaxinn brautryðjandi sem kom mörgum heimilum á tölvuöld."
+    },
+    {
+      "spurning": "Hvar hófu fiskverkunarkonur nokkurra vikna verkfall árið 1912?",
+      "svor": [
+        "Akureyri",
+        "Hafnarfirði",
+        "Ísafirði",
+        "Vestmannaeyjum"
+      ],
+      "rett": 1,
+      "skyring": "Konurnar í Hafnarfirði voru þar að fara í verkfall í annað sinn."
+    },
+    {
+      "spurning": "Hvaða fræga flugvél fór í sitt fyrsta flug 5. mars 1936?",
+      "svor": [
+        "Gloster Meteor",
+        "Concorde",
+        "Supermarine Spitfire",
+        "Boeing 747"
+      ],
+      "rett": 2,
+      "skyring": "Supermarine Spitfire hóf þennan dag feril sem síðar gerði hana að flugsögulegu tákni."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Too Shy – Kajagoogoo (1983)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "slúpa",
+    "skyring": "Slúpa er seglskip með einu mastri, líkt og skipið Anne sem sjóræninginn Roberto Cofresí sigldi."
+  },
+  "vissir_thu": "ZX81 var seld ýmist fullsamsett eða sem byggingarsett sem kaupandinn gat sett saman sjálfur.",
+  "stjornuspa": "Fiskur, í dag syndir þú gegn straumnum með glæsibrag, en gættu þess að breyta ekki hverju samtali í heila heimildarmynd. Óvænt hugmynd gæti reynst jafn snjöll og heimilistölva árið 1981 — jafnvel þótt hún passi ekki alveg við innréttingarnar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/500px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
+    "ar": "1770",
+    "texti": "Breskir hermenn skutu á mannfjölda í Boston og fimm létust. Atburðurinn varð þekktur sem fjöldamorðin í Boston og jók verulega spennuna fyrir bandarísku byltinguna.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolution",
+    "breidd": 330,
+    "haed": 217
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

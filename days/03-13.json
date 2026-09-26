@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-13",
+  "dagur": 13,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:54",
+  "sunset": "19:21",
+  "kvedja": "Góðan 13. mars! Í dag horfum við til himins með Herschel, skálum í Earl Grey-tei og minnumst þess að íslensk saga getur rúmað bæði Skeiðarárhlaup og rokktónleika í Háskólabíói. Sagan kann svo sannarlega að blanda sér kostulegan kokteil.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1781",
+      "texti": "William Herschel uppgötvaði reikistjörnuna Úranus úr garðinum við heimili sitt í Bath á Englandi. Í fyrstu taldi hann sig hafa fundið halastjörnu — jafnvel stórstjörnufræðingar þurfa stundum að líta tvisvar."
+    },
+    {
+      "ar": "1845",
+      "texti": "Fiðlukonsert Felix Mendelssohns var frumfluttur í Leipzig með Ferdinand David í einleikshlutverkinu. Verkið varð síðar einn helsti kjörgripur fiðluleikara heims."
+    },
+    {
+      "ar": "1920",
+      "texti": "Kapp-valdaránstilraunin hrakti ríkisstjórn Weimar-lýðveldisins tímabundið frá völdum í Þýskalandi. Tilraunin rann þó út í sandinn eftir víðtækt allsherjarverkfall."
+    },
+    {
+      "ar": "1988",
+      "texti": "Seikangöngin voru opnuð milli japönsku eyjanna Honsjú og Hokkaídó. Járnbrautargöngin eru 53,85 kílómetra löng og liggja að hluta undir Tsugaru-sundi."
+    },
+    {
+      "ar": "2013",
+      "texti": "Jorge Mario Bergoglio var kjörinn páfi og tók sér nafnið Frans. Hann varð fyrsti jesúítinn í embættinu, fyrsti páfinn frá Ameríku og sá fyrsti frá suðurhveli jarðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1883",
+      "texti": "Eitt mesta Skeiðarárhlaup sem sögur fara af hófst. Vatnsflaumurinn fór yfir eyðisanda og olli því ekki skemmdum, þótt náttúran hafi greinilega viljað minna á hver réði ferðinni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1897",
+      "texti": "Einar Benediktsson lagði í grein í blaðinu Dagskrá til að fáni Íslands yrði hvítur kross í bláum feldi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1971",
+      "texti": "Hljómsveitin Trúbrot frumflutti lögin af hljómplötunni Lifun í Háskólabíói í Reykjavík. Þar fékk íslenska rokkið heldur betur að teygja úr sér.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1977",
+      "texti": "Hreinn Halldórsson varð Evrópumeistari í kúluvarpi innanhúss með 20,59 metra kasti.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Clayton",
+      "starfsgrein": "tónlistarmaður og lagahöfundur",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Adina Porter",
+      "starfsgrein": "leikkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Charles Grey, 2. jarl Grey",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra Bretlands",
+      "ar": "1764"
+    },
+    {
+      "nafn": "Beomgyu",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Coco Gauff",
+      "starfsgrein": "tenniskona",
+      "ar": "2004"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Nína Tryggvadóttir",
+      "starfsgrein": "listakona",
+      "ar": "1913"
+    },
+    {
+      "nafn": "Erlingur Gíslason",
+      "starfsgrein": "leikari",
+      "ar": "1933"
+    },
+    {
+      "nafn": "Guðbrandur Vigfússon",
+      "starfsgrein": "málfræðingur",
+      "ar": "1827"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða reikistjörnu uppgötvaði William Herschel úr garðinum sínum?",
+      "svor": [
+        "Neptúnus",
+        "Úranus",
+        "Satúrnus",
+        "Mars"
+      ],
+      "rett": 1,
+      "skyring": "Herschel fann Úranus árið 1781 en taldi hnöttinn fyrst vera halastjörnu."
+    },
+    {
+      "spurning": "Hvaða nafn tók Jorge Mario Bergoglio sér sem páfi?",
+      "svor": [
+        "Benedikt",
+        "Jóhannes",
+        "Frans",
+        "Leó"
+      ],
+      "rett": 2,
+      "skyring": "Bergoglio tók sér nafnið Frans þegar hann var kjörinn páfi árið 2013."
+    },
+    {
+      "spurning": "Hversu langt kastaði Hreinn Halldórsson þegar hann varð Evrópumeistari innanhúss?",
+      "svor": [
+        "18,59 metra",
+        "19,75 metra",
+        "20,59 metra",
+        "21,13 metra"
+      ],
+      "rett": 2,
+      "skyring": "Gullkast Hreins mældist 20,59 metrar — býsna langt ferðalag fyrir eina kúlu."
+    }
+  ],
+  "tonlistUSA": "Informer – Snow (1993)",
+  "tonlistUK": "The Lion Sleeps Tonight – Tight Fit (1982)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "stjörnuhró",
+    "skyring": "Stjörnuhró er bjartur loftsteinn sem blossar á himni og er einnig nefndur eldbolti."
+  },
+  "vissir_thu": "Úranus var fyrsta reikistjarnan sem fannst með sjónauka; hinar reikistjörnurnar sem þekktar voru fyrir fund Herschels sjást allar með berum augum.",
+  "stjornuspa": "Fiskur, gömul hugmynd sem þú hefur geymt eins og vínylplötu aftast í skápnum á skilið að fá að hljóma á ný. Varastu þó að lofa tunglinu of miklu áður en þú hefur drukkið morgunkaffið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/William_Herschel01.jpg/500px-William_Herschel01.jpg",
+    "ar": "1781",
+    "texti": "William Herschel uppgötvaði reikistjörnuna Úranus úr garðinum við heimili sitt í Bath á Englandi. Í fyrstu taldi hann sig hafa fundið halastjörnu — jafnvel stórstjörnufræðingar þurfa stundum að líta tvisvar.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Herschel",
+    "breidd": 330,
+    "haed": 404
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,137 @@
+{
+  "mmdd": "03-14",
+  "dagur": 14,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:50",
+  "sunset": "19:24",
+  "kvedja": "Góðan og gleðilegan 14. mars! Í dag förum við úr hallarsölum Granada í kvikmyndahús Bombay, með viðkomu á Illugastöðum og hjá sjálfum Albert Einstein — sannkallað sögulegt langferðalag án þess að þurfa að finna vegabréfið.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1309",
+      "texti": "Á Eid al-Fitr réðust borgarbúar í Granada inn í hallir borgarinnar, steyptu soldáninum Muhammad III af stóli og settu hálfbróður hans, Nasr, í hásætið. Þar var hátíðardagskráin heldur betur tekin óvænta stefnu."
+    },
+    {
+      "ar": "1593",
+      "texti": "Um 3.000 kóreskir hermenn vörðu Haengju-virki með góðum árangri gegn um 30.000 japönskum innrásarmönnum. Mannfjöldinn einn dugði greinilega ekki sem sigurformúla."
+    },
+    {
+      "ar": "1931",
+      "texti": "Alam Ara, fyrsta indverska hljóðmyndin, var frumsýnd í Majestic-kvikmyndahúsinu í Bombay. Indverska kvikmyndin hafði þar með fengið rödd — og átti eftir að nota hana óspart."
+    },
+    {
+      "ar": "1973",
+      "texti": "Bandaríski sjóliðsflugmaðurinn John McCain var látinn laus ásamt 108 öðrum stríðsföngum, fimm og hálfu ári eftir að norðurvíetnamskar hersveitir tóku hann höndum."
+    },
+    {
+      "ar": "2021",
+      "texti": "Her- og lögreglusveitir í Mjanmar drápu að minnsta kosti 65 óbreytta borgara í Hlaingthaya í Yangon, þar á meðal fólk sem mótmælti nýlegu valdaráni hersins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1828",
+      "texti": "Friðrik Sigurðsson, Agnes Magnúsdóttir og Sigríður Guðmundsdóttir myrtu Natan Ketilsson og Pétur Jónsson á Illugastöðum á Vatnsnesi og kveiktu síðan í bænum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1911",
+      "texti": "Kristján Jónsson tók við embætti ráðherra Íslands og gegndi því í rúmlega eitt ár.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1969",
+      "texti": "Söngleikurinn Fiðlarinn á þakinu var frumsýndur í Þjóðleikhúsinu og naut meiri vinsælda en nokkurt annað leikverk hafði áður notið þar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1987",
+      "texti": "Þyrla Landhelgisgæslunnar bjargaði níu manns af Barðanum, sem hafði strandað við Dritvík á Snæfellsnesi.",
+      "landshluti": "Vesturland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Albert Einstein",
+      "starfsgrein": "eðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1879"
+    },
+    {
+      "nafn": "Aamir Khan",
+      "starfsgrein": "leikari, framleiðandi og leikstjóri",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Billy Crystal",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Albert II",
+      "starfsgrein": "fursti af Mónakó",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Ansel Elgort",
+      "starfsgrein": "leikari og plötusnúður",
+      "ar": "1994"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða afmælisbarn dagsins var Nóbelsverðlaunahafi í eðlisfræði?",
+      "svor": [
+        "Albert Einstein",
+        "Billy Crystal",
+        "Aamir Khan",
+        "Albert II"
+      ],
+      "rett": 0,
+      "skyring": "Albert Einstein fæddist 14. mars 1879 og var heldur flinkari með eðlisfræði en flest okkar."
+    },
+    {
+      "spurning": "Hvað hét fyrsta indverska hljóðmyndin, sem var frumsýnd árið 1931?",
+      "svor": [
+        "Fiðlarinn á þakinu",
+        "Alam Ara",
+        "The Mikado",
+        "Doctor Zhivago"
+      ],
+      "rett": 1,
+      "skyring": "Alam Ara var frumsýnd í Bombay og markaði upphaf hljóðmynda á Indlandi."
+    },
+    {
+      "spurning": "Hversu mörgum var bjargað af Barðanum við Dritvík árið 1987?",
+      "svor": [
+        "Fjórum",
+        "Sjö",
+        "Níu",
+        "Tólf"
+      ],
+      "rett": 2,
+      "skyring": "Þyrla Landhelgisgæslunnar bjargaði níu manns — níu afar þakklátum manneskjum, má ætla."
+    }
+  ],
+  "tonlistUSA": "Livin' on a Prayer – Bon Jovi (1987)",
+  "tonlistUK": "Everything I Own – Boy George (1987)",
+  "bio": "The Sound of Music (1965)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða dauf birta, einkum þegar dagur og nótt takast kurteislega á um völdin."
+  },
+  "vissir_thu": "Albert Einstein fæddist 14. mars, dagsetningu sem er jafnframt kölluð pí-dagurinn vegna þess að 3,14 eru fyrstu tölustafirnir í pí.",
+  "stjornuspa": "Fiskur, gamalt hugboð gæti reynst furðu nytsamlegt í dag, svo hlustaðu á innsæið áður en þú flettir upp svarinu í alfræðiritinu. Forðastu þó að útskýra afstæðiskenninguna yfir kaffibolla nema þú sért tilbúinn að borga næstu umferð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Eid_al_fitr_photo.jpg/500px-Eid_al_fitr_photo.jpg",
+    "ar": "1309",
+    "texti": "Á Eid al-Fitr réðust borgarbúar í Granada inn í hallir borgarinnar, steyptu soldáninum Muhammad III af stóli og settu hálfbróður hans, Nasr, í hásætið. Þar var hátíðardagskráin heldur betur tekin óvænta stefnu.",
+    "heimild": "https://en.wikipedia.org/wiki/Eid_al-Fitr",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

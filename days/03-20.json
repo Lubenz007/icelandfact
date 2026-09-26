@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-20",
+  "dagur": 20,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:29",
+  "sunset": "19:42",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 20. mars mætast hlutabréf, bókmenntir, lífsnauðsynleg lyf og íslensk eldsumbrot í sögulegum hrærigraut — og sem betur fer þarf ekki að aflýsa flugi til að njóta hans.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1602",
+      "texti": "Hollenska Austur-Indíafélagið var stofnað og varð fyrsta fyrirtæki sögunnar til að gefa út hlutabréf. Þar hófst nýr kafli í viðskiptasögunni — með bæði arði og ævintýralegri áhættu."
+    },
+    {
+      "ar": "1852",
+      "texti": "Skáldsagan Kofi Tómasar frænda eftir Harriet Beecher Stowe kom út. Bókin hafði djúpstæð áhrif á viðhorf Bandaríkjamanna til þrælahalds og stöðu svartra."
+    },
+    {
+      "ar": "1890",
+      "texti": "Vilhjálmur 2. Þýskalandskeisari rak Otto von Bismarck úr embætti kanslara. Járnkanslarinn var þar með kominn út í kuldann, þótt viðurnefnið héldi áfram að glansa."
+    },
+    {
+      "ar": "1987",
+      "texti": "Bandaríska matvæla- og lyfjaeftirlitið samþykkti zídóvúdín sem fyrsta lyfið gegn HIV/alnæmi. Meðferðin markaði mikilvægt, þótt takmarkað, fyrsta skref í baráttunni við faraldurinn."
+    },
+    {
+      "ar": "2010",
+      "texti": "Eldgosahrina hófst í Eyjafjallajökli og þróaðist síðar í stórt rask á flugsamgöngum um Evrópu. Íslenskt eldfjall minnti heimsbyggðina rækilega á sig — og kenndi fréttamönnum erfiðan framburð."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1759",
+      "texti": "Friðrik 5. Danakonungur gaf út úrskurð um að reisa skyldi tugthús á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1908",
+      "texti": "Kveikt var á núverandi Reykjanesvita, sem tók þar með til starfa við að vísa sjófarendum leið.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1991",
+      "texti": "Ásgeir Hannes Eiríksson flutti stystu ræðu í sögu Alþingis: „Virðulegi forseti! Álverið rísi!“ Stutt, skýrt og lítið um málalengingar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2010",
+      "texti": "Eldgos hófst á Fimmvörðuhálsi og varð landsmönnum ógleymanlegt sjónarspil áður en frekari umbrot tóku við.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ovid",
+      "starfsgrein": "rómverskt skáld",
+      "ar": "43 f.Kr."
+    },
+    {
+      "nafn": "Bianca Lawson",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Brian Mulroney",
+      "starfsgrein": "kanadískur stjórnmálamaður og fyrrverandi forsætisráðherra",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Bobby Orr",
+      "starfsgrein": "kanadískur íshokkímaður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Alex Kapranos",
+      "starfsgrein": "söngvari, gítarleikari og lagahöfundur",
+      "ar": "1972"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Þorsteinsson",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Jón Ólafsson",
+      "starfsgrein": "blaðamaður, ritstjóri og alþingismaður",
+      "ar": "1850"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fyrirtæki, stofnað árið 1602, varð fyrst til að gefa út hlutabréf?",
+      "svor": [
+        "Hollenska Austur-Indíafélagið",
+        "Hudsonflóafélagið",
+        "Breska Austur-Indíafélagið",
+        "Hansasambandið"
+      ],
+      "rett": 0,
+      "skyring": "Hollenska Austur-Indíafélagið ruddi brautina fyrir hlutabréfaviðskipti, með öllu því fjöri sem þeim fylgir."
+    },
+    {
+      "spurning": "Hver flutti örstuttu Alþingisræðuna „Virðulegi forseti! Álverið rísi!“?",
+      "svor": [
+        "Björn Þorsteinsson",
+        "Ásgeir Hannes Eiríksson",
+        "Jón Ólafsson",
+        "Brian Mulroney"
+      ],
+      "rett": 1,
+      "skyring": "Ásgeir Hannes Eiríksson kom erindinu til skila án þess að tefja kaffihléið."
+    },
+    {
+      "spurning": "Hvaða lyf varð árið 1987 fyrsta samþykkta meðferðin við HIV/alnæmi í Bandaríkjunum?",
+      "svor": [
+        "Pensilín",
+        "Insúlín",
+        "Zídóvúdín",
+        "Kínín"
+      ],
+      "rett": 2,
+      "skyring": "Zídóvúdín var fyrsta lyfið sem bandarísk yfirvöld samþykktu gegn HIV/alnæmi."
+    }
+  ],
+  "tonlistUSA": "I Love Rock 'n Roll – Joan Jett & the Blackhearts (1982)",
+  "tonlistUK": "Seven Tears – Goombay Dance Band (1982)",
+  "bio": "Basic Instinct (1992)",
+  "ord_dagsins": {
+    "ord": "váboði",
+    "skyring": "Váboði er fyrirboði hættu eða ófarnaðar, nokkurs konar viðvörunarbjalla orðanna."
+  },
+  "vissir_thu": "Hollenska Austur-Indíafélagið, stofnað 20. mars 1602, var fyrsta fyrirtæki sögunnar til að gefa út hlutabréf.",
+  "stjornuspa": "Fiskur, innsæið þitt er í dag næstum jafn næmt og Reykjanesviti í svartaþoku. Treystu því, en mundu að jafnvel stjörnurnar vilja sjá kvittun áður en þær fjárfesta í Austur-Indíafélagi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Flag_of_the_Dutch_East_India_Company.svg/500px-Flag_of_the_Dutch_East_India_Company.svg.png",
+    "ar": "1602",
+    "texti": "Hollenska Austur-Indíafélagið var stofnað og varð fyrsta fyrirtæki sögunnar til að gefa út hlutabréf. Þar hófst nýr kafli í viðskiptasögunni — með bæði arði og ævintýralegri áhættu.",
+    "heimild": "https://en.wikipedia.org/wiki/Dutch_East_India_Company",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

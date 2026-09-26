@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-06",
+  "dagur": 6,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:19",
+  "sunset": "19:00",
+  "kvedja": "Góðan 6. mars, kæri lesandi! Í dag röltum við frá umsátrinu um Alamo yfir á óperusvið Feneyja og endum í íslenskri þjóðaratkvæðagreiðslu — dálítið langur göngutúr, en sagan býður sjaldan upp á leigubíl.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "845",
+      "texti": "Abbasídakalífadæmið lét taka 42 býsanska embættismenn af lífi eftir að þeir neituðu að snúast til íslams. Þeir höfðu verið teknir höndum þegar borgin Amorion var hertekin árið 838."
+    },
+    {
+      "ar": "1836",
+      "texti": "Eftir þrettán daga umsátur náðu mexíkóskar hersveitir Alamo-virkinu í San Antonio af uppreisnarmönnum í Texas. Orrustan varð síðar eitt þekktasta tákn sjálfstæðisbaráttu Texas."
+    },
+    {
+      "ar": "1853",
+      "texti": "Ópera Giuseppe Verdis, La traviata, var frumsýnd í La Fenice í Feneyjum. Viðtökurnar voru svo slæmar að Verdi endurskoðaði verkið — ágæt áminning um að jafnvel meistaraverk geta átt afleita frumsýningu."
+    },
+    {
+      "ar": "1964",
+      "texti": "Elijah Muhammad, leiðtogi Nation of Islam, tilkynnti í útvarpi að hnefaleikakappinn Cassius Clay myndi héðan í frá heita Muhammad Ali. Nafnið varð brátt eitt hið kunnasta í íþróttasögunni."
+    },
+    {
+      "ar": "1987",
+      "texti": "Ferjunni Herald of Free Enterprise hvolfdi þegar hún sigldi úr höfninni í Zeebrugge í Belgíu. Alls fórust 193 manns í þessu mannskæða sjóslysi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1857",
+      "texti": "Sex vermenn á leið frá Þingvöllum til Reykjavíkur urðu úti á Mosfellsheiði, en átta samferðamenn þeirra komust lífs af.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1873",
+      "texti": "Fimmtán franskar skútur fórust við Vestrahorn á suðausturströnd Íslands og tugi líka rak á land. Margir hinna látnu voru jarðsettir á Stafafelli í Lóni.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1905",
+      "texti": "Coot, fyrsti togarinn í eigu Íslendinga, kom til Hafnarfjarðar og markaði tímamót í íslenskri útgerðarsögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2010",
+      "texti": "Fyrsta þjóðaratkvæðagreiðslan á Íslandi frá stofnun lýðveldisins fór fram um svonefnd Icesave-lög. Kjörsókn var 62% og rúmlega 93% þeirra sem greiddu atkvæði sögðu nei.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Davies",
+      "starfsgrein": "grínisti, leikari og handritshöfundur",
+      "ar": "1966"
+    },
+    {
+      "nafn": "Cyrano de Bergerac",
+      "starfsgrein": "rithöfundur og leikskáld",
+      "ar": "1619"
+    },
+    {
+      "nafn": "Agnieszka Radwańska",
+      "starfsgrein": "tenniskona",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Alisha Boe",
+      "starfsgrein": "leikkona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Andrzej Wajda",
+      "starfsgrein": "kvikmyndaleikstjóri og handritshöfundur",
+      "ar": "1926"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Nordal",
+      "starfsgrein": "tónskáld",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Ingólfur Guðbrandsson",
+      "starfsgrein": "ferðamálafrömuður",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Sigfús Sigurhjartarson",
+      "starfsgrein": "stjórnmálamaður og ritstjóri",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ópera Verdis fékk heldur kaldar kveðjur við frumsýningu sína 6. mars 1853?",
+      "svor": [
+        "La traviata",
+        "Aida",
+        "Rigoletto",
+        "Otello"
+      ],
+      "rett": 0,
+      "skyring": "La traviata floppaði fyrst, en varð síðan ein ástsælasta ópera heims — fín endurkoma það."
+    },
+    {
+      "spurning": "Hvað hét fyrsti togarinn í eigu Íslendinga?",
+      "svor": [
+        "Geir",
+        "Coot",
+        "Gullfoss",
+        "Víkingur"
+      ],
+      "rett": 1,
+      "skyring": "Coot kom til Hafnarfjarðar árið 1905 og boðaði nýja tíma í útgerðinni."
+    },
+    {
+      "spurning": "Hvaða íþróttamaður tók upp nafnið Muhammad Ali árið 1964?",
+      "svor": [
+        "Joe Frazier",
+        "George Foreman",
+        "Cassius Clay",
+        "Sonny Liston"
+      ],
+      "rett": 2,
+      "skyring": "Cassius Clay tók upp nafnið Muhammad Ali og varð goðsögn bæði innan hrings og utan."
+    }
+  ],
+  "tonlistUSA": "Bridge over Troubled Water – Simon & Garfunkel (1970)",
+  "tonlistUK": "Wand’rin’ Star – Lee Marvin (1970)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skyndilegt kulda- og illviðriskast, einkum að vorlagi þegar maður hélt í sakleysi sínu að veturinn væri farinn."
+  },
+  "vissir_thu": "La traviata þótti misheppnuð við frumsýninguna árið 1853, en eftir að Verdi endurskoðaði óperuna varð hún eitt vinsælasta verk óperusögunnar.",
+  "stjornuspa": "Fiskurinn ætti að treysta innsæinu í dag, en ekki svo blint að hann undirriti Icesave-lög eða kaupi ferjumiða án þess að skoða veðurspána. Gömul plata, hlý peysa og óvænt símtal gætu gert kvöldið einkar notalegt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/500px-Abbasid_banner.svg.png",
+    "ar": "845",
+    "texti": "Abbasídakalífadæmið lét taka 42 býsanska embættismenn af lífi eftir að þeir neituðu að snúast til íslams. Þeir höfðu verið teknir höndum þegar borgin Amorion var hertekin árið 838.",
+    "heimild": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+    "breidd": 330,
+    "haed": 198
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

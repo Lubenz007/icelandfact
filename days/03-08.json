@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-08",
+  "dagur": 8,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:12",
+  "sunset": "19:06",
+  "kvedja": "Góðan 8. mars! Í dag fljúgum við með fyrstu konunni sem fékk flugmannsskírteini, rifjum upp endurreisn Alþingis og horfum dálítið sorgmædd á horfinn klettaboga á Möltu. Sagan er nefnilega stundum háfleyg, stundum grjóthörð og ævinlega með eitthvað í pokahorninu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1576",
+      "texti": "Spænskur nýlendufulltrúi skrifaði Filippusi II. konungi bréf þar sem finna má elstu þekktu heimildina um mayarústirnar í Copán í núverandi Hondúras."
+    },
+    {
+      "ar": "1655",
+      "texti": "Dómstóll í Northampton-sýslu í Virginíu úrskurðaði John Casor í ævilanga ánauð. Hann varð þar með fyrsti maðurinn af afrískum uppruna í nýlendunum þrettán sem var lýstur þræll ævilangt með niðurstöðu einkamáls."
+    },
+    {
+      "ar": "1736",
+      "texti": "Nader Shah, stofnandi Afsharid-ættarinnar, var krýndur keisari Írans. Þar fór maður sem lét sér ekki nægja litla kórónu né lítið hlutverk í sögunni."
+    },
+    {
+      "ar": "1910",
+      "texti": "Franski flugmaðurinn Raymonde de Laroche varð fyrst kvenna til að öðlast flugmannsskírteini. Glerþakið var þarna rofið í talsverðri hæð."
+    },
+    {
+      "ar": "2017",
+      "texti": "Azure Window, stórbrotinn náttúrulegur kalksteinsbogi á Gozo við Möltu, hrundi í óveðri. Náttúran hafði sjálf reist mannvirkið og sá einnig um niðurrifið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1700",
+      "texti": "Hastarlegt suðvestanillviðri grandaði tugum fiskibáta, einkum við Reykjanesskaga, og 136 menn fórust.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1843",
+      "texti": "Konungur gaf út tilskipun um endurreisn Alþingis, sem hafði legið niðri frá 1800. Hið endurreista þing kom fyrst saman 1. júlí 1845.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1929",
+      "texti": "Fangelsið á Litla-Hrauni var tekið í notkun.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1990",
+      "texti": "Stígamót voru stofnuð á Íslandi og hófu mikilvægt starf sitt fyrir fólk sem orðið hefur fyrir kynferðisofbeldi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Benny Blanco",
+      "starfsgrein": "tónlistarframleiðandi",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Aidan Quinn",
+      "starfsgrein": "leikari",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Kit Connor",
+      "starfsgrein": "leikari",
+      "ar": "2004"
+    },
+    {
+      "nafn": "Boris Kodjoe",
+      "starfsgrein": "leikari",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Anselm Kiefer",
+      "starfsgrein": "listmálari og myndhöggvari",
+      "ar": "1945"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Páll Ólafsson",
+      "starfsgrein": "skáld",
+      "ar": "1827"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrst kvenna til að fá flugmannsskírteini?",
+      "svor": [
+        "Raymonde de Laroche",
+        "Amelia Earhart",
+        "Ann Packer",
+        "Andrea Parker"
+      ],
+      "rett": 0,
+      "skyring": "Raymonde de Laroche fékk skírteinið árið 1910 og ruddi brautina með vængjum."
+    },
+    {
+      "spurning": "Hvaða íslenska stofnun var ákveðið að endurreisa árið 1843?",
+      "svor": [
+        "Hæstarétt",
+        "Alþingi",
+        "Þjóðminjasafnið",
+        "Seðlabankann"
+      ],
+      "rett": 1,
+      "skyring": "Tilskipunin laut að endurreisn Alþingis, sem kom aftur saman árið 1845."
+    },
+    {
+      "spurning": "Hvar stóð náttúruboginn Azure Window áður en hann hrundi?",
+      "svor": [
+        "Á Krít",
+        "Á Sikiley",
+        "Á Gozo",
+        "Á Kýpur"
+      ],
+      "rett": 2,
+      "skyring": "Azure Window var á Gozo, einni af eyjum Möltu."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "veðurhamur",
+    "skyring": "Veðurhamur er ofsafengið eða mjög vont veður, líkt og það sem getur grandað skipum og jafnvel klettabogum."
+  },
+  "vissir_thu": "Copán var ein helsta borg hins forna mayamenningarsvæðis og er nú á heimsminjaskrá UNESCO.",
+  "stjornuspa": "Fiskur, innsæið þitt suðar í dag eins og gamalt útvarpstæki sem hefur loksins náð réttri stöð. Treystu því, en athugaðu samt staðreyndirnar áður en þú lýsir sjálfan þig keisara Írans.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg/500px-Portrait_of_Philip_II_of_Spain_by_Sofonisba_Anguissola_-_002b.jpg",
+    "ar": "1576",
+    "texti": "Spænskur nýlendufulltrúi skrifaði Filippusi II. konungi bréf þar sem finna má elstu þekktu heimildina um mayarústirnar í Copán í núverandi Hondúras.",
+    "heimild": "https://en.wikipedia.org/wiki/Philip_II_of_Spain",
+    "breidd": 330,
+    "haed": 406
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-10",
+  "dagur": 10,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:05",
+  "sunset": "19:12",
+  "kvedja": "Góðan 10. mars, kæri lesandi! Í dag siglum við frá lokum fyrsta púnverska stríðsins alla leið á braut um Mars, með viðkomu í happdrætti, rokki og íslenskri flugsögu. Spennið beltin — en hafið happdrættismiðann þó lausan.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "241 f.Kr.",
+      "texti": "Rómverska lýðveldið sigraði flota Karþagómanna í orrustunni við Aegates-eyjar undan vesturströnd Sikileyjar. Þar með lauk fyrsta púnverska stríðinu eftir langvinna og rándýra glímu stórveldanna."
+    },
+    {
+      "ar": "1695",
+      "texti": "Í níu ára stríðinu réðust katalónskir miquelets-liðar á franska fótgönguliðssveit við Sant Esteve d'en Bas og neyddu hana til uppgjafar. Litla sveitin reyndist með öðrum orðum býsna stór biti."
+    },
+    {
+      "ar": "1945",
+      "texti": "Bandaríski flugherinn gerði gríðarlega eldsprengjuárás á Tókýó sem varð að minnsta kosti 90.000 manns að bana. Árásin var ein mannskæðasta loftárás síðari heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1977",
+      "texti": "Stjörnufræðingar um borð í Kuiper-flugstjörnustöð NASA uppgötvuðu dauft hringakerfi umhverfis Úranus. Satúrnus var því ekki lengur eini hringprýddi montbelgur sólkerfisins."
+    },
+    {
+      "ar": "2006",
+      "texti": "Mars Reconnaissance Orbiter frá NASA náði til Mars og komst á braut um reikistjörnuna. Þar hófst nákvæm kortlagning á rauða nágrannanum okkar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1934",
+      "texti": "Dregið var í Happdrætti Háskóla Íslands í fyrsta sinn, í Iðnó að viðstöddu fjölmenni. Hæsti vinningurinn var 10 þúsund krónur, sem þótti enginn smá aur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Þýskur kafbátur skaut togarann Reykjaborg í kaf norður af Skotlandi. Tveir menn björguðust en þrettán fórust.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1944",
+      "texti": "Flugfélagið Loftleiðir var stofnað og varð síðar eitt kunnasta nafn íslenskrar flugsögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1986",
+      "texti": "Fokker Friendship-flugvél Flugleiða, Árfari, rann út af flugbraut Reykjavíkurflugvallar og stöðvaðist þvert yfir Suðurgötu. Engan sakaði, þótt lendingarstaðurinn væri óvenju borgaralegur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Chuck Norris",
+      "starfsgrein": "leikari og bardagalistamaður",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Bad Bunny",
+      "starfsgrein": "rappari, lagahöfundur og leikari",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Alexander III of Russia",
+      "starfsgrein": "Rússakeisari",
+      "ar": "1845"
+    },
+    {
+      "nafn": "Ferdinand II",
+      "starfsgrein": "konungur Kastilíu og León",
+      "ar": "1452"
+    },
+    {
+      "nafn": "Belinda Bencic",
+      "starfsgrein": "tenniskona",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jakob Gíslason",
+      "starfsgrein": "orkumálastjóri",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða reikistjarna reyndist vera með dauft hringakerfi árið 1977?",
+      "svor": [
+        "Mars",
+        "Úranus",
+        "Venus",
+        "Merkúr"
+      ],
+      "rett": 1,
+      "skyring": "Hringir Úranusar fundust með hjálp Kuiper-flugstjörnustöðvar NASA."
+    },
+    {
+      "spurning": "Hvar fór fyrsta útdráttur Happdrættis Háskóla Íslands fram?",
+      "svor": [
+        "Í Iðnó",
+        "Í Alþingishúsinu",
+        "Í Háskólabíói",
+        "Á Austurvelli"
+      ],
+      "rett": 0,
+      "skyring": "Fjölmenni fylgdist með fyrsta útdrættinum í Iðnó árið 1934."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er svissnesk tenniskona?",
+      "svor": [
+        "Bad Bunny",
+        "Belinda Bencic",
+        "Chuck Norris",
+        "Alexander III"
+      ],
+      "rett": 1,
+      "skyring": "Belinda Bencic fæddist 10. mars 1997 og lét tennisspaðann um bardagalistirnar."
+    }
+  ],
+  "tonlistUSA": "Billie Jean – Michael Jackson (1983)",
+  "tonlistUK": "Release Me – Engelbert Humperdinck (1967)",
+  "bio": "The Godfather (1972)",
+  "ord_dagsins": {
+    "ord": "eldregn",
+    "skyring": "Eldregn er mikið regn af glóandi ösku, neistum eða eldi, til dæmis í bruna eða eldgosi."
+  },
+  "vissir_thu": "Hringir Úranusar fundust ekki fyrst á ljósmynd heldur þegar stjörnufræðingar fylgdust með því hvernig ljós stjörnu dofnaði þegar reikistjarnan gekk fyrir hana.",
+  "stjornuspa": "Fiskurinn ætti að treysta innsæinu í dag, jafnvel þótt það virðist vera stillt á gamalt útvarpstæki með dálitlu braki. Óvænt hugmynd gæti komist á braut eins og geimfar við Mars — en skrifaðu hana niður áður en hún syndir burt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Roman_republic%2C_territory_44_BC.svg/500px-Roman_republic%2C_territory_44_BC.svg.png",
+    "ar": "241 f.Kr.",
+    "texti": "Rómverska lýðveldið sigraði flota Karþagómanna í orrustunni við Aegates-eyjar undan vesturströnd Sikileyjar. Þar með lauk fyrsta púnverska stríðinu eftir langvinna og rándýra glímu stórveldanna.",
+    "heimild": "https://en.wikipedia.org/wiki/Roman_Republic",
+    "breidd": 330,
+    "haed": 189
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

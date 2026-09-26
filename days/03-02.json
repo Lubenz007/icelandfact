@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-02",
+  "dagur": 2,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:33",
+  "sunset": "18:48",
+  "kvedja": "Góðan dag, kæri lesandi! Annar mars spannar allt frá sjálfstæðisyfirlýsingu Texas til geimferðar Vladimírs Remek og hundrað stiga körfuboltasýningar — sagan kann greinilega illa við rólega þriðjudaga. Láttu því daginn fljúga áfram, helst á öruggari hraða en Concorde.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1836",
+      "texti": "Fulltrúar í Washington-on-the-Brazos samþykktu sjálfstæðisyfirlýsingu Texas og stofnuðu lýðveldið Texas. Nafnið á bænum eitt og sér hefði næstum þurft sérstaka undirskriftarsíðu."
+    },
+    {
+      "ar": "1859",
+      "texti": "Stóra þrælauppboðið hófst í Georgíu, stærsta einstaka sala þræla í sögu Bandaríkjanna, þar sem meira en 400 manneskjur voru seldar. Þetta er einn dimmasti vitnisburður dagsins um þá grimmd sem þrælahaldið byggðist á."
+    },
+    {
+      "ar": "1949",
+      "texti": "Bandaríska B-50-flugvélin Lucky Lady II lenti í Fort Worth eftir fyrsta hnattflug flugvélar án viðkomu. Nafnið reyndist því óvenju viðeigandi."
+    },
+    {
+      "ar": "1978",
+      "texti": "Vladimír Remek fór út í geim með Sojús 28 og varð fyrstur manna utan Sovétríkjanna og Bandaríkjanna til að komast þangað. Geimklúbbur stórveldanna fékk þar með sinn fyrsta gest."
+    },
+    {
+      "ar": "1995",
+      "texti": "Vísindamenn við Fermilab í Illinois tilkynntu fund toppkvarksins, massamestu frumögnarinnar sem menn höfðu þá greint. Örsmá ögn, en býsna þung á metunum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1824",
+      "texti": "Peter Fjeldsted Hoppe var skipaður amtmaður í Suðuramti á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1940",
+      "texti": "Ísfirski togarinn Skutull varð fyrir árás þýskrar herflugvélar við Bretland, fyrstu árásinni á íslenskt skip í síðari heimsstyrjöldinni.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1956",
+      "texti": "Bandarísk herflutningaflugvél fórst djúpt út af Reykjanesi með sautján manns innanborðs.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1957",
+      "texti": "Heilsuverndarstöðin í Reykjavík var vígð eftir sjö ára byggingartíma, þótt fyrsta deild hennar hefði þegar tekið til starfa árið 1953.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bryce Dallas Howard",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Anthony Albanese",
+      "starfsgrein": "ástralskur stjórnmálamaður",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Becky G",
+      "starfsgrein": "bandarísk söngkona og leikkona",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Bedřich Smetana",
+      "starfsgrein": "tékkneskt tónskáld og píanóleikari",
+      "ar": "1824"
+    },
+    {
+      "nafn": "Benedikt frá Núrsíu",
+      "starfsgrein": "ítalskur kristinn dýrlingur",
+      "ar": "480"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björt Ólafsdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Hannes Sigfússon",
+      "starfsgrein": "skáld",
+      "ar": "1922"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfari rauf einokun Sovétmanna og Bandaríkjamanna á mönnuðum geimferðum árið 1978?",
+      "svor": [
+        "Vladimír Remek",
+        "Neil Armstrong",
+        "Júrí Gagarín",
+        "Buzz Aldrin"
+      ],
+      "rett": 0,
+      "skyring": "Vladimír Remek varð fyrstur manna utan Sovétríkjanna og Bandaríkjanna til að fara út í geim."
+    },
+    {
+      "spurning": "Hvað hét flugvélin sem lauk fyrsta hnattflugi án viðkomu árið 1949?",
+      "svor": [
+        "Spirit of St. Louis",
+        "Lucky Lady II",
+        "Enola Gay",
+        "Southern Cross"
+      ],
+      "rett": 1,
+      "skyring": "Lucky Lady II lauk hringnum og stóð svo sannarlega undir nafni."
+    },
+    {
+      "spurning": "Hvaða íslenska bygging var vígð 2. mars 1957?",
+      "svor": [
+        "Þjóðleikhúsið",
+        "Háskólabíó",
+        "Heilsuverndarstöðin í Reykjavík",
+        "Ráðhús Reykjavíkur"
+      ],
+      "rett": 2,
+      "skyring": "Heilsuverndarstöðin var vígð eftir sjö ára byggingarframkvæmdir."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "I Know Him So Well – Elaine Paige og Barbara Dickson (1985)",
+  "bio": "The Sound of Music (1965)",
+  "ord_dagsins": {
+    "ord": "loftsigling",
+    "skyring": "Loftsigling er ferð eða sigling um loftið í loftfari."
+  },
+  "vissir_thu": "Toppkvarkurinn er massamestur þeirra kvarka sem menn hafa greint.",
+  "stjornuspa": "Fiskurinn finnur gamalt lag í loftinu og fær skyndilega löngun til að setja heiminn í sepíutóna. Treystu innsæinu, en ekki svo rækilega að þú bókir hnattflug án viðkomu fyrir kvöldmat.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Campaigns_of_the_Texas_Revolution.jpg/500px-Campaigns_of_the_Texas_Revolution.jpg",
+    "ar": "1836",
+    "texti": "Fulltrúar í Washington-on-the-Brazos samþykktu sjálfstæðisyfirlýsingu Texas og stofnuðu lýðveldið Texas. Nafnið á bænum eitt og sér hefði næstum þurft sérstaka undirskriftarsíðu.",
+    "heimild": "https://en.wikipedia.org/wiki/Texas_Revolution",
+    "breidd": 330,
+    "haed": 415
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

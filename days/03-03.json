@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-03",
+  "dagur": 3,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:29",
+  "sunset": "18:51",
+  "kvedja": "Komdu sæll, kæri lesandi! Þriðji mars býður okkur í dag upp á tónlist, kvenréttindabaráttu og síma Alexanders Graham Bell — sem er býsna gott dagskrárblað áður en morgunkaffið kólnar. Sagan kann sannarlega að hringja inn daginn með stæl.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1284",
+      "texti": "Rhuddlan-lögin tóku gildi og innleiddu enskan almannarétt í furstadæminu Wales. Þar með færðist velskt stjórnarfar rækilega undir ensk áhrif."
+    },
+    {
+      "ar": "1875",
+      "texti": "Ópera Georges Bizet, Carmen, var frumflutt í Opéra-Comique í París með Célestine Galli-Marié í titilhlutverkinu. Verkið átti síðar eftir að verða ein frægasta ópera heims, þótt frumsýningargestir hafi ekki allir verið jafn hrifnir."
+    },
+    {
+      "ar": "1913",
+      "texti": "Þúsundir kvenna gengu fylktu liði um Washington í mótmælaskyni við útilokun kvenna úr bandarísku samfélagi. Gangan varð áhrifamikill áfangi í baráttunni fyrir kosningarétti kvenna."
+    },
+    {
+      "ar": "1933",
+      "texti": "Fyrstu fangabúðir nasista voru opnaðar í Nohra í Þýskalandi, meðal annars vegna fjöldahandtaka þýskra kommúnista. Þetta var óhugnanlegt fyrirboða þess kúgunarkerfis sem nasistar byggðu síðan upp."
+    },
+    {
+      "ar": "1986",
+      "texti": "Metallica gaf út sína þriðju hljóðversplötu, Master of Puppets. Platan er víða talin meðal mestu meistaraverka þungarokksins — og hefur sennilega valdið nokkrum skemmdum á ímynduðum loftgíturum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1200",
+      "texti": "Bein Jóns Ögmundssonar Hólabiskups voru grafin úr jörðu. Jónsmessa Hólabiskups á föstu er haldin til minningar um þann atburð.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1461",
+      "texti": "Agnes Jónsdóttir var skipuð príorissa í Reynistaðarklaustri, einu af klaustrum miðalda á Íslandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1950",
+      "texti": "Minnihlutastjórn Sjálfstæðisflokksins féll eftir vantraustsatkvæðagreiðslu á Alþingi. Íslensk stjórnmál hafa löngum kunnað þá list að halda mönnum á tánum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1997",
+      "texti": "Björk Guðmundsdóttir hlaut Tónlistarverðlaun Norðurlandaráðs og bætti þar enn einum glæsilegum kafla við íslenska tónlistarsögu.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexander Graham Bell",
+      "starfsgrein": "verkfræðingur og uppfinningamaður",
+      "ar": "1847"
+    },
+    {
+      "nafn": "Brian Cox",
+      "starfsgrein": "eðlisfræðingur og hljómborðsleikari",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Antonio Rüdiger",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Charlie Brooker",
+      "starfsgrein": "blaðamaður, höfundur og framleiðandi",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Arthur Kornberg",
+      "starfsgrein": "lífefnafræðingur og Nóbelsverðlaunahafi",
+      "ar": "1918"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Þorláksson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1877"
+    },
+    {
+      "nafn": "Árni B. Stefánsson",
+      "starfsgrein": "hellarannsóknamaður",
+      "ar": "1949"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða ópera var frumflutt í París 3. mars 1875?",
+      "svor": [
+        "Carmen",
+        "Aida",
+        "Töfraflautan",
+        "La Traviata"
+      ],
+      "rett": 0,
+      "skyring": "Carmen steig fyrst á svið þennan dag og hefur síðan neitað að yfirgefa óperuhús heimsins."
+    },
+    {
+      "spurning": "Hvaða hljómsveit gaf út Master of Puppets árið 1986?",
+      "svor": [
+        "Iron Maiden",
+        "Metallica",
+        "Jethro Tull",
+        "Black Sabbath"
+      ],
+      "rett": 1,
+      "skyring": "Metallica gaf plötuna út og tryggði henni fastan sess í þungarokkssögunni."
+    },
+    {
+      "spurning": "Hvaða Íslendingur hlaut Tónlistarverðlaun Norðurlandaráðs árið 1997?",
+      "svor": [
+        "Björk Guðmundsdóttir",
+        "Jón Þorláksson",
+        "Kristján Harðarson",
+        "Árni B. Stefánsson"
+      ],
+      "rett": 0,
+      "skyring": "Björk hlaut verðlaunin — með sínu alkunna alþjóðlega flugi."
+    }
+  ],
+  "tonlistUSA": "Jump – Van Halen (1984)",
+  "tonlistUK": "99 Red Balloons – Nena (1984)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist indælt innan frá en reynist mun verra þegar út er komið."
+  },
+  "vissir_thu": "Alexander Graham Bell, sem fæddist 3. mars 1847, fékk bandarískt einkaleyfi á símanum aðeins fjórum dögum eftir 29 ára afmæli sitt.",
+  "stjornuspa": "Fiskurinn ætti að treysta innsæinu í dag, en ekki svo blint að hann panti sér síma eftir fyrirmælum frá Alexander Graham Bell. Gömul plata, óvænt símtal eða dálítið gluggaveður gæti komið þér í sérlega sögulegt skap.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Statute_of_Rhuddlan.jpg/500px-Statute_of_Rhuddlan.jpg",
+    "ar": "1284",
+    "texti": "Rhuddlan-lögin tóku gildi og innleiddu enskan almannarétt í furstadæminu Wales. Þar með færðist velskt stjórnarfar rækilega undir ensk áhrif.",
+    "heimild": "https://en.wikipedia.org/wiki/Statute_of_Rhuddlan",
+    "breidd": 330,
+    "haed": 458
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

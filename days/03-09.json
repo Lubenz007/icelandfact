@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-09",
+  "dagur": 9,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:08",
+  "sunset": "19:09",
+  "kvedja": "Góðan 9. mars, kæri lesandi! Í dag siglum við frá fyrstu skráðu nafnbirtingu Litháens yfir í brynvarin herskip, Sinfóníuhljómsveit Íslands og frumraun Barbie — enda kann sagan vel við óvæntar dagskrárbreytingar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1009",
+      "texti": "Nafnið Litháen birtist í fyrsta sinn svo vitað sé í latneskum annálum frá Quedlinburg. Þar með steig landið inn í ritaða sögu Evrópu, þótt stafsetningin hafi vitaskuld verið latnesk."
+    },
+    {
+      "ar": "1776",
+      "texti": "Skoski heimspekingurinn Adam Smith gaf út Auðlegð þjóðanna, fyrsta klassíska grundvallarritið um stjórnmálahagfræði. Bókin varð langlífari en flest fjárlagafrumvörp."
+    },
+    {
+      "ar": "1862",
+      "texti": "USS Monitor og CSS Virginia háðu fyrsta bardaga sögunnar milli tveggja brynvarinna herskipa við Hampton Roads í Virginíu. Hvorugt hafði betur og bardaganum lauk því með jafntefli."
+    },
+    {
+      "ar": "1959",
+      "texti": "Barbie kom fyrst fram á bandarísku leikfangasýningunni í New York. Þar hófst ferill sem hefur spannað fleiri störf og fataskápa en flestir geta látið sig dreyma um."
+    },
+    {
+      "ar": "1967",
+      "texti": "Svetlana Alliluyeva, dóttir Jósefs Stalíns, yfirgaf Sovétríkin og leitaði hælis í Bandaríkjunum. Flótti hennar vakti mikla athygli beggja vegna járntjaldsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1573",
+      "texti": "Sautján fiskibátar fórust undan Hálsahöfn í Suðursveit og með þeim 53 menn. Atburðurinn minnir harkalega á þá miklu áhættu sem íslenskir sjómenn bjuggu við.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1685",
+      "texti": "Í snöggu áhlaupsveðri, síðar nefndu Góuþrælsveðrinu, fórust 132 menn af ellefu skipum frá Stafnesi og Vestmannaeyjum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1950",
+      "texti": "Sinfóníuhljómsveit Íslands hélt fyrstu tónleika sína í Austurbæjarbíói og telst stofnuð þennan dag. Þjóðin var þar með komin með heila hljómsveit til að stilla saman strengi sína.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bobby Fischer",
+      "starfsgrein": "skákmaður og rithöfundur",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Amerigo Vespucci",
+      "starfsgrein": "landkönnuður og kortagerðarmaður",
+      "ar": "1454"
+    },
+    {
+      "nafn": "Bow Wow",
+      "starfsgrein": "rappari og leikari",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Sunisa Lee",
+      "starfsgrein": "fimleikakona",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Khaby Lame",
+      "starfsgrein": "samfélagsmiðlastjarna",
+      "ar": "2000"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bobby Fischer",
+      "starfsgrein": "skákmaður og fyrrverandi heimsmeistari",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Sigurður Guðmundsson málari",
+      "starfsgrein": "málari og frumkvöðull í íslensku menningarlífi",
+      "ar": "1833"
+    },
+    {
+      "nafn": "Sigurjón Pétursson á Álafossi",
+      "starfsgrein": "athafnamaður og glímukappi",
+      "ar": "1888"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða leikfangadama steig fyrst fram á sýningu í New York 9. mars 1959?",
+      "svor": [
+        "Barbie",
+        "Bratz",
+        "Polly Pocket",
+        "Sindy"
+      ],
+      "rett": 0,
+      "skyring": "Barbie hóf sinn langa og fatafreka feril á leikfangasýningunni árið 1959."
+    },
+    {
+      "spurning": "Hvar hélt Sinfóníuhljómsveit Íslands fyrstu tónleika sína?",
+      "svor": [
+        "Í Þjóðleikhúsinu",
+        "Í Háskólabíói",
+        "Í Austurbæjarbíói",
+        "Í Gamla bíói"
+      ],
+      "rett": 2,
+      "skyring": "Fyrstu tónleikarnir fóru fram í Austurbæjarbíói 9. mars 1950."
+    },
+    {
+      "spurning": "Hvaða tvö skip háðu fyrsta bardaga brynvarinna herskipa?",
+      "svor": [
+        "Victory og Constitution",
+        "Monitor og Virginia",
+        "Bismarck og Hood",
+        "Mayflower og Beagle"
+      ],
+      "rett": 1,
+      "skyring": "Monitor og Virginia börðust við Hampton Roads árið 1862 og skildu jöfn."
+    }
+  ],
+  "tonlistUSA": "Can't Fight This Feeling – REO Speedwagon (1985)",
+  "tonlistUK": "You Spin Me Round (Like a Record) – Dead or Alive (1985)",
+  "bio": "Captain Marvel (2019)",
+  "ord_dagsins": {
+    "ord": "áhlaupsveður",
+    "skyring": "Áhlaupsveður er óveður sem skellur snögglega á, oft með miklum vindi og ofankomu."
+  },
+  "vissir_thu": "Heimsálfurnar Ameríka draga nafn sitt af latneskri gerð fornafns Amerigo Vespucci, sem fæddist 9. mars 1454.",
+  "stjornuspa": "Fiskurinn finnur í dag hugmynd sem glitrar eins og nýfægður skákmaður — eða taflmaður, ef við viljum halda okkur við reglurnar. Treystu innsæinu, en lestu smáa letrið áður en þú lýsir yfir skák og mát.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Lietuvos_vardas._The_first_name_of_Lithuania_in_writing_1009.jpg/500px-Lietuvos_vardas._The_first_name_of_Lithuania_in_writing_1009.jpg",
+    "ar": "1009",
+    "texti": "Nafnið Litháen birtist í fyrsta sinn svo vitað sé í latneskum annálum frá Quedlinburg. Þar með steig landið inn í ritaða sögu Evrópu, þótt stafsetningin hafi vitaskuld verið latnesk.",
+    "heimild": "https://en.wikipedia.org/wiki/Name_of_Lithuania",
+    "breidd": 330,
+    "haed": 174
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

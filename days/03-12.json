@@ -1,0 +1,148 @@
+{
+  "mmdd": "03-12",
+  "dagur": 12,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "07:58",
+  "sunset": "19:18",
+  "kvedja": "Góðan og söguríkan 12. mars! Í dag göngum við með Gandhi að sjónum, lítum við í brennandi vita og hlustum svo á Hljóma — enda má sagan bæði vera stórpólitísk og með góðu viðlagi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "538",
+      "texti": "Gotakonungurinn Vitiges batt enda á árslangt umsátur sitt um Róm, sem býsanski herforinginn Belisarius hafði varið. Róm fékk loksins að anda léttar, að minnsta kosti um stund."
+    },
+    {
+      "ar": "1881",
+      "texti": "Andrew Watson var fyrirliði Skotlands gegn Englandi og varð þar með fyrsti svarti landsliðsmaður heims í knattspyrnu. Það var sögulegur leikur, löngu áður en leikmenn fóru að rífast við myndbandsdómara."
+    },
+    {
+      "ar": "1930",
+      "texti": "Mahatma Gandhi lagði af stað í Saltgönguna, 24 daga friðsamlega mótmælagöngu gegn saltskatti Breta á Indlandi. Örfá saltkorn gátu greinilega borið býsna þunga pólitíska merkingu."
+    },
+    {
+      "ar": "1940",
+      "texti": "Friðarsamningurinn í Moskvu var undirritaður og batt enda á Vetrarstríð Finnlands og Sovétríkjanna. Finnar héldu sjálfstæði sínu en urðu að láta af hendi landsvæði."
+    },
+    {
+      "ar": "2014",
+      "texti": "Gasleki olli sprengingu í East Harlem í New York, þar sem tvö fjölbýlishús eyðilögðust og átta manns létust. Harmleikurinn minnti harkalega á hve skjótt hversdagslegt borgarlíf getur breyst."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1554",
+      "texti": "Klausturhald var formlega aflagt á Íslandi. Þar með lauk mikilvægum kafla í íslenskri kirkju- og menningarsögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1916",
+      "texti": "Alþýðusamband Íslands og Alþýðuflokkurinn voru stofnuð og Jón Baldvinsson varð fyrsti formaðurinn. Verkalýðshreyfingin hafði þar með eignast öflugri sameiginlega rödd.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1921",
+      "texti": "Eldingu laust niður í vitann á Stórhöfða í Vestmannaeyjum og eldur varð laus. Veðrið þar hefur sjaldan verið sakað um að skorta dramatík.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1965",
+      "texti": "Hljómar gáfu út sína fyrstu plötu með lögunum „Bláu augun þín“ og „Fyrsti kossinn“. Gunnar Þórðarson samdi lögin og Ólafur Gaukur textana.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Eckhart",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1968"
+    },
+    {
+      "nafn": "Allan Saint-Maximin",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Anish Kapoor",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Al Jarreau",
+      "starfsgrein": "söngvari",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Andrew Young",
+      "starfsgrein": "borgararéttindafrömuður og stjórnmálamaður",
+      "ar": "1932"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Þórbergur Þórðarson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1888"
+    },
+    {
+      "nafn": "Ólafur K. Magnússon",
+      "starfsgrein": "ljósmyndari",
+      "ar": "1926"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skattur varð Gandhi tilefni til að leggja upp í 24 daga mótmælagöngu?",
+      "svor": [
+        "Saltskattur",
+        "Teskattur",
+        "Ullarskattur",
+        "Skóskattur"
+      ],
+      "rett": 0,
+      "skyring": "Saltgangan beindist gegn saltskatti Breta á Indlandi."
+    },
+    {
+      "spurning": "Hvað kom fyrir vitann á Stórhöfða árið 1921?",
+      "svor": [
+        "Hann fauk af grunni",
+        "Eldingu laust niður í hann",
+        "Skip rakst á hann",
+        "Hann var fluttur til Reykjavíkur"
+      ],
+      "rett": 1,
+      "skyring": "Eldingu laust niður í vitann og eldur varð laus — býsna óblíð ljósasýning."
+    },
+    {
+      "spurning": "Hver afmælisbarna dagsins skrifaði sig fyrstur svartra manna í sögu landsliðsknattspyrnunnar?",
+      "svor": [
+        "Aaron Eckhart",
+        "Andrew Watson",
+        "Allan Saint-Maximin",
+        "Andrew Young"
+      ],
+      "rett": 1,
+      "skyring": "Andrew Watson var fyrirliði Skotlands gegn Englandi árið 1881."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Anyone Who Had a Heart – Cilla Black (1964)",
+  "bio": "Captain Marvel (2019)",
+  "ord_dagsins": {
+    "ord": "göngugarpur",
+    "skyring": "Göngugarpur er maður sem er duglegur að ganga eða leggja langar leiðir að baki fótgangandi."
+  },
+  "vissir_thu": "Andrew Watson, sem lék fyrir Skotland árið 1881, var fyrsti svarti knattspyrnumaðurinn til að spila landsleik.",
+  "stjornuspa": "Fiskurinn finnur gamla plötu, gleymt bréf eða hugmynd sem á skilið endurkomu með látum. Treystu innsæinu, en athugaðu vasana áður en þú leggur í þína eigin Saltgöngu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Tomb_of_Theodoric_the_Great_Ravenna_%28cropped%29.jpg/500px-Tomb_of_Theodoric_the_Great_Ravenna_%28cropped%29.jpg",
+    "ar": "538",
+    "texti": "Gotakonungurinn Vitiges batt enda á árslangt umsátur sitt um Róm, sem býsanski herforinginn Belisarius hafði varið. Róm fékk loksins að anda léttar, að minnsta kosti um stund.",
+    "heimild": "https://en.wikipedia.org/wiki/Ostrogoths",
+    "breidd": 330,
+    "haed": 550
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-01",
+  "dagur": 1,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:36",
+  "sunset": "18:45",
+  "kvedja": "Góðan 1. mars, kæri lesandi! Í dag röltum við frá trúarátökum í Frakklandi yfir í lotukerfið, stíflugerð og bleikan proggrökkmána — og skálum svo fyrir því að bjórinn fékk loks landvistarleyfi á Íslandi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1562",
+      "texti": "Tilraun hertogans af Guise til að stöðva guðsþjónustu húgenotta í Wassy endaði með fjöldamorði þar sem 50 létust. Atburðurinn markaði upphaf frönsku trúarbragðastyrjaldanna."
+    },
+    {
+      "ar": "1869",
+      "texti": "Rússneski efnafræðingurinn Dmitrí Mendelejev lauk við hönnun fyrsta lotukerfisins. Þar með fengu frumefnin loksins skipulag sem jafnvel samviskusamur bókari gæti dáðst að."
+    },
+    {
+      "ar": "1896",
+      "texti": "Eþíópíumenn sigruðu ítalska herinn í orrustunni við Adwa og bundu enda á fyrra stríð Ítalíu og Eþíópíu. Sigurinn varð mikilvægt tákn sjálfstæðis Eþíópíu."
+    },
+    {
+      "ar": "1936",
+      "texti": "Hoover-stíflan á Coloradofljóti, á mörkum Arizona og Nevada, var fullgerð. Mannvirkið varð eitt kunnasta verkfræðiafrek Bandaríkjanna á 20. öld."
+    },
+    {
+      "ar": "1973",
+      "texti": "Pink Floyd gaf út hina rómuðu plötu The Dark Side of the Moon. Hún sannaði að klukkuhljóð, hjartsláttur og tilvistarangist geta myndað fyrirtaks stofutónlist."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1743",
+      "texti": "Fjögur skip af Suðurnesjum fórust og með þeim 17 menn.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1905",
+      "texti": "Fyrsta símaskrá Íslands, Talsímaskrá Reykjavíkur, kom út. Þá hefur líklega verið fljótlegra að fletta upp númeri en að muna hvar maður lagði símann.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1940",
+      "texti": "Vélbátinn Kristján frá Sandgerði rak vélarvana að landi í Skiptivík í Höfnum eftir tólf daga hrakninga. Áhöfnin, sem hafði verið talin af, hélt lífi með því að eima sjó.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1989",
+      "texti": "Bjór var leyfður á ný á Íslandi eftir áratuga bann. Dagurinn hefur síðan verið þekktur sem bjórdagurinn og minnir á að saga þjóðar getur líka rúmast í glasi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Thicke",
+      "starfsgrein": "leikari og tónskáld",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Booker T",
+      "starfsgrein": "fjölbragðaglímumaður og íþróttalýsandi",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Big E",
+      "starfsgrein": "fjölbragðaglímumaður",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Alec Utgoff",
+      "starfsgrein": "leikari",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Augustus Pugin",
+      "starfsgrein": "arkitekt",
+      "ar": "1812"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ólafur Jóhannesson",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra",
+      "ar": "1913"
+    },
+    {
+      "nafn": "Sigurður Eggerz",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra",
+      "ar": "1875"
+    },
+    {
+      "nafn": "Laufey Valdimarsdóttir",
+      "starfsgrein": "kvenréttindakona",
+      "ar": "1890"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða plata Pink Floyd kom út 1. mars 1973?",
+      "svor": [
+        "The Dark Side of the Moon",
+        "Wish You Were Here",
+        "The Wall",
+        "Animals"
+      ],
+      "rett": 0,
+      "skyring": "The Dark Side of the Moon kom út þennan dag og hefur síðan lýst upp ófáar plötuhillur."
+    },
+    {
+      "spurning": "Hvað var leyft á ný á Íslandi 1. mars 1989?",
+      "svor": [
+        "Hnefaleikar",
+        "Bjór",
+        "Sunnudagsdans",
+        "Innlent sjónvarp á fimmtudögum"
+      ],
+      "rett": 1,
+      "skyring": "Bjórbanninu lauk árið 1989 og landsmenn gátu loks pantað sér löglegan kollu."
+    },
+    {
+      "spurning": "Hvaða efnafræðingur lauk hönnun fyrsta lotukerfisins árið 1869?",
+      "svor": [
+        "Henri Becquerel",
+        "Dmitrí Mendelejev",
+        "Klaus Fuchs",
+        "Archer John Porter Martin"
+      ],
+      "rett": 1,
+      "skyring": "Dmitrí Mendelejev kom frumefnunum fyrir í lotukerfi sem enn er undirstaða efnafræðinnar."
+    }
+  ],
+  "tonlistUSA": "Careless Whisper – Wham! featuring George Michael (1985)",
+  "tonlistUK": "Tragedy – Bee Gees (1979)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "hrakningur",
+    "skyring": "Hrakningur er erfið og hættuleg ferð eða dvöl við illar aðstæður, einkum á sjó eða í óbyggðum."
+  },
+  "vissir_thu": "Hoover-stíflan stendur á Coloradofljóti nákvæmlega á mörkum bandarísku ríkjanna Arizona og Nevada.",
+  "stjornuspa": "Fiskurinn finnur gamalt kassettutæki, gleymda hugmynd eða dularfullt símanúmer og fær sterka löngun til að rannsaka málið. Farðu eftir innsæinu, en mundu að ekki þarf hvert samtal að verða þriggja þátta heimildaröð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Portrait_of_Francis_de_Lorraine%2C_2nd_Duke_of_Guise_%281519%E2%80%931563%29%2C_by_Workshop_of_Fran%C3%A7ois_Clouet.jpg/500px-Portrait_of_Francis_de_Lorraine%2C_2nd_Duke_of_Guise_%281519%E2%80%931563%29%2C_by_Workshop_of_Fran%C3%A7ois_Clouet.jpg",
+    "ar": "1562",
+    "texti": "Tilraun hertogans af Guise til að stöðva guðsþjónustu húgenotta í Wassy endaði með fjöldamorði þar sem 50 létust. Atburðurinn markaði upphaf frönsku trúarbragðastyrjaldanna.",
+    "heimild": "https://en.wikipedia.org/wiki/François,_Duke_of_Guise",
+    "breidd": 330,
+    "haed": 449
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

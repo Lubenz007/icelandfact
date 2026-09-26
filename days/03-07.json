@@ -1,0 +1,143 @@
+{
+  "mmdd": "03-07",
+  "dagur": 7,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:15",
+  "sunset": "19:03",
+  "kvedja": "Góðan og gleðilegan 7. mars! Í dag liggur leiðin frá sunnudagstilskipun Konstantínusar mikla yfir þráðlaust hafsamband og alla leið út í geim með Kepler — sannkallað langferðalag án þess að þurfa að pakka tannbursta.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "321",
+      "texti": "Konstantínus mikli keisari fyrirskipaði að sunnudagur, dagur helgaður sólguðinum Sol Invictus, skyldi vera almennur hvíldardagur í Rómaveldi. Þar fékk vikan loksins sinn lögskipaða sófakrók."
+    },
+    {
+      "ar": "1573",
+      "texti": "Friðarsamningur batt enda á stríð Feneyinga og Ottómanaveldis og Kýpur féll formlega í hlut Ottómana."
+    },
+    {
+      "ar": "1900",
+      "texti": "Þýska farþegaskipið SS Kaiser Wilhelm der Grosse varð fyrst skipa til að senda þráðlaust skeyti til móttökustöðvar á landi. Hafið var skyndilega orðið örlítið minna."
+    },
+    {
+      "ar": "1965",
+      "texti": "Óvopnaðir baráttumenn fyrir borgararéttindum voru ráðist á af lögreglu þegar þeir gengu frá Selma í átt að Montgomery í Alabama. Dagurinn varð þekktur sem „Blóðugi sunnudagurinn“."
+    },
+    {
+      "ar": "2009",
+      "texti": "Geimsjónaukanum Kepler var skotið á loft til að leita að reikistjörnum á stærð við Jörðina á braut um aðrar stjörnur. Mannkynið hóf þar með afar metnaðarfulla húsleit í geimnum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1902",
+      "texti": "Sögufélag var stofnað á Íslandi og fékk sagan þar með öflugan málsvara — sagnfræðingum til ævarandi ánægju.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1922",
+      "texti": "Ríkisstjórn Sigurðar Eggerz tók við völdum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1931",
+      "texti": "Ofsaveður braut sjötíu símastaura milli Reykjavíkur og Hafnarfjarðar. Veðrið tók með öðrum orðum fjarskiptamálin föstum tökum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1986",
+      "texti": "Íslenska karlalandsliðið í handbolta varð í sjötta sæti á heimsmeistaramótinu í Sviss og tryggði sér um leið sæti á Ólympíuleikunum 1988.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bel Powley",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Amanda Gorman",
+      "starfsgrein": "bandarískt ljóðskáld og baráttukona",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Antony Armstrong-Jones",
+      "starfsgrein": "enskur ljósmyndari og stjórnmálamaður",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Anna Magnani",
+      "starfsgrein": "ítölsk leikkona",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Alessandro Manzoni",
+      "starfsgrein": "ítalskur rithöfundur og ljóðskáld",
+      "ar": "1785"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Helgi Þorgils Friðjónsson",
+      "starfsgrein": "íslenskur myndlistarmaður",
+      "ar": "1953"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimsjónauka var skotið á loft 7. mars 2009?",
+      "svor": [
+        "Kepler",
+        "Hubble",
+        "James Webb",
+        "Galileo"
+      ],
+      "rett": 0,
+      "skyring": "Kepler hélt út í geiminn til að leita að reikistjörnum við aðrar stjörnur."
+    },
+    {
+      "spurning": "Hvað stofnuðu Íslendingar 7. mars 1902?",
+      "svor": [
+        "Útvegsbanka Íslands",
+        "Sögufélag",
+        "Handknattleikssamband Íslands",
+        "Landsbókasafn Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Sögufélag var stofnað þennan dag árið 1902, enda þarf sagan líka félagsskap."
+    },
+    {
+      "spurning": "Hvað tryggði íslenska handboltalandsliðið sér með sjötta sætinu á HM 1986?",
+      "svor": [
+        "Evrópumeistaratitil",
+        "Heimsmeistaratitil",
+        "Sæti á Ólympíuleikunum 1988",
+        "Sæti á HM 1990"
+      ],
+      "rett": 2,
+      "skyring": "Sjötta sætið í Sviss opnaði Íslendingum leiðina á Ólympíuleikana 1988."
+    }
+  ],
+  "tonlistUSA": "Can't Fight This Feeling – REO Speedwagon (1985)",
+  "tonlistUK": "You Spin Me Round (Like a Record) – Dead or Alive (1985)",
+  "bio": "The Grand Budapest Hotel (2014)",
+  "ord_dagsins": {
+    "ord": "sögulok",
+    "skyring": "Orðið merkir endalok atburðarásar eða niðurstöðu frásagnar."
+  },
+  "vissir_thu": "Þegar SS Kaiser Wilhelm der Grosse sendi þráðlaust skeyti til lands árið 1900 varð það fyrsta skipið til að ná þeim áfanga.",
+  "stjornuspa": "Fiskurinn finnur gamalt skeyti, gleymda hugmynd eða hálfklárað verkefni og gefur því nýtt líf. Forðastu þó að taka allar ákvarðanir eins og rómverskur keisari — heimilisfólkið kann að vilja greiða atkvæði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg/500px-Constantine_I_The_Great%2C_Colossal_bronze_statue_fragments%2C_Capitoline_Museums.jpg",
+    "ar": "321",
+    "texti": "Konstantínus mikli keisari fyrirskipaði að sunnudagur, dagur helgaður sólguðinum Sol Invictus, skyldi vera almennur hvíldardagur í Rómaveldi. Þar fékk vikan loksins sinn lögskipaða sófakrók.",
+    "heimild": "https://en.wikipedia.org/wiki/Constantine_the_Great",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

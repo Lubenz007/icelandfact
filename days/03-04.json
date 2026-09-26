@@ -1,0 +1,153 @@
+{
+  "mmdd": "03-04",
+  "dagur": 4,
+  "manudur": "mars",
+  "manudurNr": 3,
+  "stjornumerki": "Fiskur",
+  "sunrise": "08:26",
+  "sunset": "18:54",
+  "kvedja": "Komdu sæll, kæri lesandi! Á þessum 4. mars spannar sagan bilið frá björgunarbátum og brúarsmíði til Júpíterhringja og leikjatölva — sem sannar að mannkynið hefur lengi haft nóg að gera. Dragðu því upp sögulegu kaffikönnuna og njóttu dagsins með dálitlu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1824",
+      "texti": "William Hillary stofnaði samtökin sem síðar urðu Royal National Lifeboat Institution, breska björgunarbátafélagið sem hefur síðan bjargað ótal mannslífum við strendur Bretlandseyja."
+    },
+    {
+      "ar": "1890",
+      "texti": "Forth-járnbrautarbrúin milli Edinborgar og Fife var opnuð. Þetta mikla stálvirki varð síðar eitt þekktasta kennileiti Skotlands — og brúarsmiðum til ævarandi monts."
+    },
+    {
+      "ar": "1933",
+      "texti": "Frances Perkins var skipuð atvinnumálaráðherra Bandaríkjanna og varð þar með fyrsta konan til að taka sæti í ríkisstjórn landsins."
+    },
+    {
+      "ar": "1979",
+      "texti": "Geimfarið Voyager 1 uppgötvaði hringa Júpíters, þriðja hringakerfið sem þá var þekkt í sólkerfinu á eftir hringum Satúrnusar og Úranusar."
+    },
+    {
+      "ar": "2000",
+      "texti": "PlayStation 2 kom á markað í Japan. Leikjatölvan varð síðar gríðarlega vinsæl og breytti mörgum stofum í kappakstursbrautir, knattspyrnuvelli og ævintýraheima."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1955",
+      "texti": "Armed Forces Radio and Television Service Keflavik fékk heimild íslenskra stjórnvalda til sjónvarpsútsendinga.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1964",
+      "texti": "Hljómar frá Keflavík slógu í gegn á fyrstu bítlatónleikum á Íslandi, sem haldnir voru í Háskólabíói ásamt fjórum öðrum hljómsveitum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Íslendingar keyptu uppstoppaðan geirfugl á uppboði í London eftir að safnað hafði verið fyrir kaupunum um allt land.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1983",
+      "texti": "Menningarmiðstöðin Gerðuberg var opnuð í Breiðholti og hefur síðan verið öflugur vettvangur lista og menningar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Catherine O'Hara",
+      "starfsgrein": "leikkona og grínisti",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Antonio Vivaldi",
+      "starfsgrein": "fiðluleikari og tónskáld",
+      "ar": "1678"
+    },
+    {
+      "nafn": "Chris Rea",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Adrian Lyne",
+      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Andrea Bowen",
+      "starfsgrein": "leikkona",
+      "ar": "1990"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ásgrímur Jónsson",
+      "starfsgrein": "listmálari",
+      "ar": "1876"
+    },
+    {
+      "nafn": "Sigurður Breiðfjörð",
+      "starfsgrein": "skáld",
+      "ar": "1798"
+    },
+    {
+      "nafn": "Kristján Jónsson",
+      "starfsgrein": "dómstjóri og ráðherra",
+      "ar": "1852"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða reikistjörnu sá Voyager 1 skarta hringum árið 1979?",
+      "svor": [
+        "Mars",
+        "Júpíter",
+        "Venus",
+        "Merkúr"
+      ],
+      "rett": 1,
+      "skyring": "Voyager 1 kom auga á hringa Júpíters, enda er risinn greinilega gefinn fyrir geimskart."
+    },
+    {
+      "spurning": "Hver varð fyrsta konan í ríkisstjórn Bandaríkjanna?",
+      "svor": [
+        "Frances Perkins",
+        "Catherine O'Hara",
+        "Andrea Bowen",
+        "Blanche af Kastilíu"
+      ],
+      "rett": 0,
+      "skyring": "Frances Perkins braut þennan mikilvæga múr þegar hún varð atvinnumálaráðherra árið 1933."
+    },
+    {
+      "spurning": "Hvað keyptu Íslendingar á uppboði í London árið 1971?",
+      "svor": [
+        "Handrit af Njálu",
+        "Víkingaskip",
+        "Uppstoppaðan geirfugl",
+        "Fiðlu Vivaldis"
+      ],
+      "rett": 2,
+      "skyring": "Þjóðarsöfnunin skilaði uppstoppuðum geirfugli heim til Íslands."
+    }
+  ],
+  "tonlistUSA": "Amazed – Lonestar (2000)",
+  "tonlistUK": "Pure Shores – All Saints (2000)",
+  "bio": "The Batman (2022)",
+  "ord_dagsins": {
+    "ord": "áttæringur",
+    "skyring": "Áttæringur er róðrarbátur sem róið er með átta árum."
+  },
+  "vissir_thu": "Voyager 1 varð árið 1979 fyrsta geimfarið til að greina hringa Júpíters.",
+  "stjornuspa": "Fiskur, innsæið þitt suðar í dag eins og gamalt útvarpstæki sem hefur loksins fundið rétta tíðni. Treystu því, en láttu ekki draumórana kaupa uppstoppaðan geirfugl án þess að kanna heimilisbókhaldið fyrst.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/3/3e/Royal_National_Lifeboat_Institution.svg/330px-Royal_National_Lifeboat_Institution.svg.png",
+    "ar": "1824",
+    "texti": "William Hillary stofnaði samtökin sem síðar urðu Royal National Lifeboat Institution, breska björgunarbátafélagið sem hefur síðan bjargað ótal mannslífum við strendur Bretlandseyja.",
+    "heimild": "https://en.wikipedia.org/wiki/Royal_National_Lifeboat_Institution",
+    "breidd": 330,
+    "haed": 165
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
