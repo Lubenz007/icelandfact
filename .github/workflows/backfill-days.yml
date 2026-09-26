@@ -1,0 +1,54 @@
+name: Backfill all days
+
+# Manual one-off (or re-run) job: pre-generates days/MM-DD.json for all 366
+# calendar days so the birthday lookup on the site is static. Roughly 366 LLM
+# calls; with Azure GPT-5.6 that is a few dollars total. Commits every 20 days.
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Regenerate days that already exist'
+        type: boolean
+        default: false
+      max:
+        description: 'Stop after this many days (leave empty for all)'
+        type: string
+        default: ''
+      only:
+        description: 'Only these days, space-separated MM-DD (optional)'
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content-writes
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Backfill
+        env:
+          AZURE_OPENAI_ENDPOINT: ${{ secrets.AZURE_OPENAI_ENDPOINT }}
+          AZURE_OPENAI_KEY: ${{ secrets.AZURE_OPENAI_KEY }}
+          AZURE_OPENAI_DEPLOYMENT: ${{ secrets.AZURE_OPENAI_DEPLOYMENT }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BACKFILL_COMMIT: '1'
+        run: |
+          ARGS=""
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          if [ -n "${{ inputs.max }}" ]; then ARGS="$ARGS --max ${{ inputs.max }}"; fi
+          if [ -n "${{ inputs.only }}" ]; then ARGS="$ARGS --only ${{ inputs.only }}"; fi
+          python3 .github/scripts/backfill_days.py $ARGS

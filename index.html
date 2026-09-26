@@ -4,7 +4,13 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sagan í Dag – saganidag.is</title>
-  <meta name="description" content="Söguleg staðreynd um hvern dag á árinu frá íslenskri og heimssögu – saganidag.is" />
+  <meta name="description" content="Sagnfræðingurinn segir frá deginum í dag: staðfestir atburðir úr íslenskri og heimssögu, afmælisbörn, spurningakeppni, verðlagið þá – og hvað gerðist á afmælisdeginum þínum." />
+  <meta property="og:title" content="Sagan í Dag – hvað gerðist í dag?" />
+  <meta property="og:description" content="Daglegur dálkur Sagnfræðingsins: atburðir, afmælisbörn, orð dagsins og spurningakeppni. Sláðu inn afmælisdaginn þinn og sjáðu hvað gerðist þá!" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://saganidag.is/" />
+  <meta property="og:image" content="https://saganidag.is/logo.png" />
+  <meta name="twitter:card" content="summary" />
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-8MCTH6KF2K"></script>
   <script>
@@ -13,7 +19,7 @@
     gtag('js', new Date());
     gtag('config', 'G-8MCTH6KF2K');
   </script>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,400;1,700&display=swap" rel="stylesheet" />
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -27,6 +33,7 @@
       align-items: center;
       padding: 1.5rem 1rem 3rem;
     }
+    button { font-family: inherit; cursor: pointer; }
 
     /* ── PAPER ── */
     .paper {
@@ -42,7 +49,7 @@
       text-align: center;
       border-bottom: 3px double #0c0c0a;
       padding-bottom: 0.6rem;
-      margin-bottom: 0.65rem;
+      margin-bottom: 0.5rem;
     }
     .masthead-title {
       font-family: 'Playfair Display', Georgia, serif;
@@ -58,6 +65,27 @@
       color: #777;
       margin-top: 0.35rem;
     }
+
+    /* ── TABS ── */
+    .tabs {
+      display: flex;
+      border-bottom: 2px solid #0c0c0a;
+      margin-bottom: 0.85rem;
+    }
+    .tab {
+      flex: 1;
+      background: none;
+      border: none;
+      border-right: 1px solid #0c0c0a;
+      padding: 0.5rem 0.25rem;
+      font-size: 0.62rem;
+      letter-spacing: 0.16em;
+      text-transform: uppercase;
+      color: #666;
+    }
+    .tab:last-child { border-right: none; }
+    .tab.active { color: #0c0c0a; font-weight: 700; background: #efece0; }
+    .tab:hover { color: #0c0c0a; }
 
     /* ── DATE BAND ── */
     .date-band {
@@ -109,16 +137,68 @@
       font-size: clamp(0.68rem, 2vw, 0.79rem);
       line-height: 2;
       color: #333;
+      white-space: pre-line;
     }
     .info-nafnadagur {
       margin-top: 0.3rem;
       font-size: clamp(0.68rem, 2vw, 0.79rem);
       color: #333;
     }
-    .nafnadagur-val {
-      font-weight: 700;
-      font-style: italic;
+    .nafnadagur-val { font-weight: 700; font-style: italic; }
+
+    /* ── HISTORIAN'S GREETING ── */
+    .kvedja {
+      display: grid;
+      grid-template-columns: auto 1fr;
+      gap: 0.75rem;
+      align-items: start;
+      margin-bottom: 0.9rem;
+      padding: 0.6rem 0.75rem;
+      background: #f1eee2;
+      border-left: 3px solid #0c0c0a;
     }
+    .kvedja-quill {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1.6rem;
+      line-height: 1;
+      padding-top: 0.1rem;
+    }
+    .kvedja-label {
+      font-size: 0.54rem;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: #888;
+      margin-bottom: 0.2rem;
+    }
+    .kvedja-text {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: clamp(0.82rem, 2.4vw, 0.95rem);
+      line-height: 1.6;
+    }
+
+    /* ── PHOTO ── */
+    .photo {
+      margin: 0 0 0.9rem;
+      border: 1px solid #0c0c0a;
+      padding: 0.35rem;
+      background: #fff;
+    }
+    .photo img {
+      display: block;
+      width: 100%;
+      max-height: 320px;
+      object-fit: cover;
+      filter: grayscale(0.85) contrast(1.05) sepia(0.15);
+    }
+    .photo figcaption {
+      font-size: clamp(0.64rem, 1.9vw, 0.74rem);
+      line-height: 1.5;
+      color: #333;
+      padding: 0.4rem 0.15rem 0.1rem;
+    }
+    .photo figcaption a { color: #888; text-decoration: none; font-size: 0.58rem; letter-spacing: 0.08em; text-transform: uppercase; margin-left: 0.4rem; }
+    .photo figcaption a:hover { text-decoration: underline; }
 
     /* ── SECTION HEADER ── */
     .sec-head {
@@ -133,13 +213,8 @@
       margin-bottom: 0.5rem;
     }
     .sec-dots { flex: 1; border-bottom: 1px dotted #bbb; margin-bottom: 0.08rem; }
-
-    /* ── DIVIDER BETWEEN ROWS ── */
-    .row-divider {
-      border: none;
-      border-top: 1px solid #0c0c0a;
-      margin: 0.85rem 0;
-    }
+    .row-divider { border: none; border-top: 1px solid #0c0c0a; margin: 0.85rem 0; }
+    .empty-note { font-size: 0.72rem; color: #888; font-style: italic; line-height: 1.5; }
 
     /* ── EVENTS ── */
     .event-row {
@@ -153,14 +228,25 @@
     }
     .event-year { font-weight: 700; font-variant-numeric: tabular-nums; }
     .event-text { color: #111; }
+    .badge {
+      display: inline-block;
+      font-size: 0.52rem;
+      letter-spacing: 0.1em;
+      text-transform: uppercase;
+      padding: 0.05rem 0.35rem;
+      border: 1px solid #0c0c0a;
+      margin-left: 0.35rem;
+      vertical-align: middle;
+      white-space: nowrap;
+      color: #0c0c0a;
+      background: #fff;
+    }
+    .badge.anniv { background: #0c0c0a; color: #f8f6ee; border-color: #0c0c0a; }
+    .badge.region { color: #444; border-color: #888; }
+    .badge.is { background: #0c0c0a; color: #f8f6ee; }
 
     /* ── TWO-COL GRID ── */
-    .two-col {
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 0 1.25rem;
-    }
-    .two-col-full { grid-column: 1 / -1; }
+    .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 0 1.25rem; }
 
     /* ── BIRTHDAYS ── */
     .bd-item {
@@ -178,27 +264,10 @@
     .bd-year { font-weight: 700; white-space: nowrap; padding-left: 0.25rem; }
 
     /* ── MUSIC / MOVIE ── */
-    .media-item {
-      padding: 0.22rem 0;
-      border-bottom: 1px dotted #ccc;
-      font-size: clamp(0.68rem, 2vw, 0.79rem);
-      line-height: 1.5;
-    }
-    .media-label {
-      font-size: 0.56rem;
-      letter-spacing: 0.12em;
-      text-transform: uppercase;
-      color: #888;
-    }
+    .media-item { padding: 0.22rem 0; border-bottom: 1px dotted #ccc; font-size: clamp(0.68rem, 2vw, 0.79rem); line-height: 1.5; }
+    .media-label { font-size: 0.56rem; letter-spacing: 0.12em; text-transform: uppercase; color: #888; }
     .media-text { font-weight: 700; }
-    .media-link {
-      display: inline-block;
-      margin-top: 0.15rem;
-      font-size: 0.62rem;
-      color: #c00;
-      text-decoration: none;
-      letter-spacing: 0.04em;
-    }
+    .media-link { display: inline-block; margin-top: 0.15rem; font-size: 0.62rem; color: #c00; text-decoration: none; letter-spacing: 0.04em; }
     .media-link:hover { text-decoration: underline; }
 
     /* ── ORÐ DAGSINS ── */
@@ -212,18 +281,144 @@
       margin-bottom: 0.2rem;
     }
 
-    /* ── VISSIR ÞÚ / VERÐLAG / STJÖRNUSPÁ ── */
-    .prose-item {
-      font-size: clamp(0.72rem, 2vw, 0.82rem);
-      line-height: 1.7;
-      color: #222;
-    }
+    /* ── PROSE ── */
+    .prose-item { font-size: clamp(0.72rem, 2vw, 0.82rem); line-height: 1.7; color: #222; }
     .stjornumerki {
       font-family: 'Playfair Display', Georgia, serif;
       font-size: clamp(0.9rem, 2.5vw, 1.05rem);
       font-weight: 700;
       display: block;
       margin-bottom: 0.2rem;
+    }
+
+    /* ── QUIZ ── */
+    .quiz-q { margin-bottom: 0.8rem; }
+    .quiz-question {
+      font-weight: 700;
+      font-size: clamp(0.76rem, 2.2vw, 0.88rem);
+      line-height: 1.5;
+      margin-bottom: 0.35rem;
+    }
+    .quiz-answers { display: grid; grid-template-columns: 1fr 1fr; gap: 0.3rem; }
+    .quiz-btn {
+      text-align: left;
+      background: #fff;
+      border: 1px solid #0c0c0a;
+      padding: 0.35rem 0.5rem;
+      font-size: clamp(0.68rem, 2vw, 0.78rem);
+      line-height: 1.4;
+    }
+    .quiz-btn:hover:not(:disabled) { background: #efece0; }
+    .quiz-btn:disabled { cursor: default; color: #777; }
+    .quiz-btn.right { background: #0c0c0a; color: #f8f6ee; }
+    .quiz-btn.wrong { text-decoration: line-through; }
+    .quiz-expl { font-size: 0.7rem; font-style: italic; color: #444; margin-top: 0.3rem; line-height: 1.5; min-height: 0.5rem; }
+    .quiz-score {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: 0.9rem;
+      text-align: center;
+      padding: 0.4rem 0;
+      border-top: 1px dotted #bbb;
+    }
+
+    /* ── RADIO BOX ── */
+    .radio-box {
+      border: 2px solid #0c0c0a;
+      padding: 0.75rem 0.85rem;
+      margin-top: 0.85rem;
+      background: #fffdf5;
+    }
+    .radio-head {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 0.5rem;
+      margin-bottom: 0.4rem;
+    }
+    .radio-title { font-size: 0.6rem; letter-spacing: 0.2em; text-transform: uppercase; font-weight: 700; }
+    .radio-text { font-size: clamp(0.76rem, 2.2vw, 0.88rem); line-height: 1.7; }
+    .radio-foot { font-size: 0.58rem; color: #888; margin-top: 0.4rem; letter-spacing: 0.06em; }
+    .small-btn {
+      background: transparent;
+      border: 1px solid #0c0c0a;
+      padding: 0.25rem 0.6rem;
+      font-size: 0.6rem;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+    .small-btn:hover { background: #0c0c0a; color: #f8f6ee; }
+
+    /* ── SHARE ROW ── */
+    .share-row { display: flex; gap: 0.5rem; justify-content: center; flex-wrap: wrap; margin-top: 0.9rem; }
+
+    /* ── BIRTHDAY FORM ── */
+    .bday-intro {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-style: italic;
+      font-size: clamp(0.85rem, 2.6vw, 1rem);
+      line-height: 1.55;
+      text-align: center;
+      margin-bottom: 0.8rem;
+    }
+    .bday-form {
+      display: grid;
+      grid-template-columns: 1fr 1.6fr 1.1fr auto;
+      gap: 0.4rem;
+      margin-bottom: 1rem;
+    }
+    .bday-form select, .bday-form input {
+      font-family: inherit;
+      font-size: 0.85rem;
+      padding: 0.45rem 0.4rem;
+      border: 1px solid #0c0c0a;
+      background: #fff;
+      color: #0c0c0a;
+      width: 100%;
+    }
+    .bday-form button {
+      background: #0c0c0a;
+      color: #f8f6ee;
+      border: 1px solid #0c0c0a;
+      padding: 0.45rem 0.9rem;
+      font-size: 0.7rem;
+      letter-spacing: 0.14em;
+      text-transform: uppercase;
+      white-space: nowrap;
+    }
+    .bday-form button:hover { background: #333; }
+
+    /* ── PERSONAL BAND ── */
+    .personal {
+      border-bottom: 2px solid #0c0c0a;
+      margin-bottom: 0.85rem;
+      padding-bottom: 0.7rem;
+    }
+    .personal-head {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: clamp(1.25rem, 4.5vw, 1.8rem);
+      font-weight: 900;
+      line-height: 1.15;
+      margin-bottom: 0.5rem;
+    }
+    .stat-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.5rem 0.75rem; }
+    .stat { border-top: 1px solid #0c0c0a; padding-top: 0.3rem; }
+    .stat-num {
+      font-family: 'Playfair Display', Georgia, serif;
+      font-weight: 700;
+      font-size: clamp(1rem, 3.4vw, 1.35rem);
+      line-height: 1.1;
+      font-variant-numeric: tabular-nums;
+    }
+    .stat-label { font-size: 0.54rem; letter-spacing: 0.16em; text-transform: uppercase; color: #888; margin-top: 0.15rem; }
+    .personal-verdlag {
+      margin-top: 0.6rem;
+      font-size: clamp(0.72rem, 2vw, 0.82rem);
+      line-height: 1.65;
+      color: #222;
+      background: #f1eee2;
+      padding: 0.5rem 0.7rem;
+      border-left: 3px solid #0c0c0a;
     }
 
     /* ── LOADING / ERROR ── */
@@ -238,15 +433,7 @@
     }
     @keyframes spin { to { transform: rotate(360deg); } }
     .state-box p { font-size: 0.85rem; color: #666; line-height: 1.6; }
-    .retry-btn {
-      margin-top: 1rem;
-      padding: 0.45rem 1.1rem;
-      border: 1px solid #555;
-      background: transparent;
-      font-family: inherit;
-      font-size: 0.8rem;
-      cursor: pointer;
-    }
+    .retry-btn { margin-top: 1rem; padding: 0.45rem 1.1rem; border: 1px solid #555; background: transparent; font-size: 0.8rem; }
     #error-detail { font-size: 0.72rem; color: #b84040; margin-top: 0.4rem; word-break: break-word; }
 
     /* ── FOOTER ── */
@@ -259,12 +446,20 @@
       letter-spacing: 0.18em;
       text-transform: uppercase;
       color: #999;
+      line-height: 1.8;
     }
+    .paper-footer a { color: #777; text-decoration: none; }
 
-    @media (max-width: 400px) {
+    .hidden { display: none !important; }
+
+    @media (max-width: 480px) {
       .paper { padding: 1.2rem 1rem 1.5rem; }
       .two-col { grid-template-columns: 1fr; }
       .two-col > div + div { border-top: 1px solid #ddd; margin-top: 0.75rem; padding-top: 0.75rem; }
+      .bday-form { grid-template-columns: 1fr 1fr; }
+      .bday-form button { grid-column: 1 / -1; }
+      .quiz-answers { grid-template-columns: 1fr; }
+      .stat-grid { grid-template-columns: repeat(2, 1fr); }
     }
   </style>
 </head>
@@ -276,42 +471,80 @@
     <div class="masthead-sub" id="dateline">saganidag.is</div>
   </div>
 
-  <!-- Loading -->
-  <div class="state-box" id="state-loading">
-    <div class="spinner"></div>
-    <p>Leita að sögulegri staðreynd…</p>
+  <div class="tabs" role="tablist">
+    <button class="tab active" id="tab-today" role="tab" onclick="showTab('today')">Í dag</button>
+    <button class="tab" id="tab-bday" role="tab" onclick="showTab('bday')">Afmælisdagurinn þinn</button>
   </div>
 
-  <!-- Error -->
-  <div class="state-box" id="state-error" style="display:none">
-    <p>Ekki tókst að sækja gögn.</p>
-    <p id="error-detail"></p>
-    <button class="retry-btn" onclick="loadFact(true)">Reyna aftur</button>
-  </div>
-
-  <!-- Content -->
-  <div id="state-content" style="display:none">
-
-    <!-- Date band -->
-    <div class="date-band">
-      <div class="date-left">
-        <div class="date-big" id="date-daymonth"></div>
-        <div class="date-year" id="date-year"></div>
-      </div>
-      <div class="date-right">
-        <div>
-          <div class="info-label">Vikudagur</div>
-          <div class="info-value" id="vikudagur"></div>
+  <!-- ══════════ TODAY VIEW ══════════ -->
+  <div id="view-today">
+    <div class="state-box" id="state-loading">
+      <div class="spinner"></div>
+      <p>Sagnfræðingurinn blaðar í bókunum…</p>
+    </div>
+    <div class="state-box hidden" id="state-error">
+      <p>Ekki tókst að sækja gögn.</p>
+      <p id="error-detail"></p>
+      <button class="retry-btn" onclick="loadToday()">Reyna aftur</button>
+    </div>
+    <div id="today-header" class="hidden">
+      <div class="date-band">
+        <div class="date-left">
+          <div class="date-big" id="date-daymonth"></div>
+          <div class="date-year" id="date-year"></div>
         </div>
-        <div class="info-rows" id="info-rows"></div>
-        <div class="info-nafnadagur" id="nafnadagur-wrap" style="display:none">
-          <span class="info-label">Nafnadagur</span><br>
-          <span class="nafnadagur-val" id="nafnadagur"></span>
+        <div class="date-right">
+          <div>
+            <div class="info-label">Vikudagur</div>
+            <div class="info-value" id="vikudagur"></div>
+          </div>
+          <div class="info-rows" id="info-rows"></div>
+          <div class="info-nafnadagur hidden" id="nafnadagur-wrap">
+            <span class="info-label">Nafnadagur</span><br>
+            <span class="nafnadagur-val" id="nafnadagur"></span>
+          </div>
         </div>
       </div>
     </div>
+  </div>
 
-    <!-- Row 1: World events | Icelandic events -->
+  <!-- ══════════ BIRTHDAY VIEW ══════════ -->
+  <div id="view-bday" class="hidden">
+    <p class="bday-intro">Hvað gerðist í heiminum daginn sem þú fæddist? Sláðu inn afmælisdaginn þinn – Sagnfræðingurinn flettir því upp.</p>
+    <form class="bday-form" id="bday-form" onsubmit="return submitBday(event)">
+      <select id="bday-day" aria-label="Dagur"></select>
+      <select id="bday-month" aria-label="Mánuður"></select>
+      <input id="bday-year" type="number" inputmode="numeric" min="1900" max="2026" placeholder="Ár (valfrjálst)" aria-label="Fæðingarár" />
+      <button type="submit">Fletta upp</button>
+    </form>
+    <div class="state-box hidden" id="bday-loading">
+      <div class="spinner"></div>
+      <p>Sagnfræðingurinn leitar í skjalasafninu…</p>
+    </div>
+    <div class="state-box hidden" id="bday-error"><p id="bday-error-text"></p></div>
+    <div id="personal" class="personal hidden">
+      <div class="personal-head" id="personal-head"></div>
+      <div class="stat-grid" id="stat-grid"></div>
+      <div class="personal-verdlag hidden" id="personal-verdlag"></div>
+    </div>
+  </div>
+
+  <!-- ══════════ SHARED CONTENT (filled for either view) ══════════ -->
+  <div id="content" class="hidden">
+
+    <div class="kvedja hidden" id="kvedja">
+      <div class="kvedja-quill">✒</div>
+      <div>
+        <div class="kvedja-label">Sagnfræðingurinn skrifar</div>
+        <div class="kvedja-text" id="kvedja-text"></div>
+      </div>
+    </div>
+
+    <figure class="photo hidden" id="photo">
+      <img id="photo-img" alt="" loading="lazy" referrerpolicy="no-referrer" />
+      <figcaption id="photo-caption"></figcaption>
+    </figure>
+
     <div class="two-col">
       <div>
         <div class="sec-head">Á þessum degi <span class="sec-dots"></span></div>
@@ -325,10 +558,9 @@
 
     <hr class="row-divider">
 
-    <!-- Row 2: Birthdays | Music & Movie -->
     <div class="two-col">
       <div>
-        <div class="sec-head">Afmælisdagar <span class="sec-dots"></span></div>
+        <div class="sec-head" id="bd-head">Afmælisdagar <span class="sec-dots"></span></div>
         <div id="birthdays"></div>
       </div>
       <div>
@@ -339,7 +571,6 @@
 
     <hr class="row-divider">
 
-    <!-- Row 3: Orð dagsins | Vissir þú? -->
     <div class="two-col">
       <div>
         <div class="sec-head">Orð dagsins <span class="sec-dots"></span></div>
@@ -353,46 +584,68 @@
 
     <hr class="row-divider">
 
-    <!-- Row 4: Verðlagið þá | Stjörnuspá -->
-    <div class="two-col">
-      <div>
+    <div class="two-col" id="row-verdlag-stjornu">
+      <div id="col-verdlag">
         <div class="sec-head">Verðlagið þá <span class="sec-dots"></span></div>
         <div class="prose-item" id="verdlag"></div>
       </div>
-      <div>
+      <div id="col-stjornuspa">
         <div class="sec-head">Stjörnuspá <span class="sec-dots"></span></div>
-        <div class="prose-item" id="stjornuspa">
+        <div class="prose-item">
           <span class="stjornumerki" id="stjornumerki"></span>
           <span id="stjornuspa-text"></span>
         </div>
       </div>
     </div>
 
+    <div id="quiz-wrap" class="hidden">
+      <hr class="row-divider">
+      <div class="sec-head">Spurningakeppni Sagnfræðingsins <span class="sec-dots"></span></div>
+      <div id="quiz"></div>
+      <div class="quiz-score hidden" id="quiz-score"></div>
+    </div>
+
+    <div class="radio-box hidden" id="radio-box">
+      <div class="radio-head">
+        <div class="radio-title">📻 Fyrir útvarpsfólk – tilbúið til upplesturs</div>
+        <button class="small-btn" onclick="copyRadio()" id="radio-copy">Afrita</button>
+      </div>
+      <div class="radio-text" id="radio-text"></div>
+      <div class="radio-foot">Frjálst til upplesturs í útvarpi og hlaðvarpi – nefnið bara saganidag.is.</div>
+    </div>
+
+    <div class="share-row">
+      <button class="small-btn" onclick="shareThis()">Deila</button>
+      <button class="small-btn" id="share-bday-btn" onclick="showTab('bday')">Sjá þinn afmælisdag →</button>
+    </div>
   </div>
 
-  <div class="paper-footer">Knúið af Gemini AI · saganidag.is<br><span style="font-size:0.52rem;letter-spacing:0.08em">Efni er AI-myndað — villur geta komið fyrir</span></div>
+  <div class="paper-footer">
+    Sagan í Dag · saganidag.is<br>
+    <span style="font-size:0.52rem;letter-spacing:0.08em">Atburðir og afmæli byggja á Wikipedia · Verðlag á Hagstofu Íslands og Morgunblaðinu · Textinn er AI-skrifaður – villur geta komið fyrir</span>
+  </div>
 
 </div>
 
 <script>
-  const MONTHS_IS = [
-    "janúar","febrúar","mars","apríl","maí","júní",
-    "júlí","ágúst","september","október","nóvember","desember"
-  ];
+  const MONTHS_IS = ["janúar","febrúar","mars","apríl","maí","júní","júlí","ágúst","september","október","nóvember","desember"];
+  const WEEKDAYS_IS = ["Sunnudagur","Mánudagur","Þriðjudagur","Miðvikudagur","Fimmtudagur","Föstudagur","Laugardagur"];
+  const WEEKDAYS_DAT = ["sunnudegi","mánudegi","þriðjudegi","miðvikudegi","fimmtudegi","föstudegi","laugardegi"];
 
   const now   = new Date();
-  const day   = now.getDate();
-  const month = MONTHS_IS[now.getMonth()];
   const year  = now.getFullYear();
+  const todayMMDD = `${String(now.getMonth()+1).padStart(2,"0")}-${String(now.getDate()).padStart(2,"0")}`;
 
-  document.getElementById("dateline").textContent =
-    `${day}. ${month} ${year}  ·  saganidag.is`;
+  document.getElementById("dateline").textContent = `${now.getDate()}. ${MONTHS_IS[now.getMonth()]} ${year}  ·  saganidag.is`;
 
-  function setState(s) {
-    ["loading","content","error"].forEach(n => {
-      document.getElementById("state-" + n).style.display = n === s ? "block" : "none";
-    });
-  }
+  let todayData = null;      // fact.json
+  let currentData = null;    // whatever is on screen
+  let currentMode = "today";
+  let verdlagData = null;    // data/verdlag.json
+  let pageviewsTracked = false;
+
+  const $ = id => document.getElementById(id);
+  const show = (id, on = true) => $(id).classList.toggle("hidden", !on);
 
   function el(tag, cls, html) {
     const e = document.createElement(tag);
@@ -400,117 +653,359 @@
     if (html !== undefined) e.innerHTML = html;
     return e;
   }
+  function esc(s) {
+    return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+  }
+  function fmtNum(n) { return Math.round(n).toLocaleString("de-DE"); }
+  function track(name, params) { try { gtag("event", name, params || {}); } catch (e) {} }
 
   function ytLink(query) {
     const q = encodeURIComponent(query + " official");
     return `<a class="media-link" href="https://www.youtube.com/results?search_query=${q}" target="_blank" rel="noopener">▶ Hlusta á YouTube</a>`;
   }
 
-  function showFact(f) {
-    // Date band
-    document.getElementById("date-daymonth").textContent = `${day}. ${month}`;
-    document.getElementById("date-year").textContent = year;
-    document.getElementById("vikudagur").textContent = f.vikudagur || "";
+  // "fyrir 50 árum" badge for round anniversaries relative to the reference year
+  function annivBadge(ar, refYear) {
+    const y = parseInt(String(ar).replace(/\D/g, ""), 10);
+    if (!y || /f\.\s*Kr/i.test(String(ar))) return "";
+    const diff = refYear - y;
+    if (diff <= 0) return "";
+    const round = diff % 100 === 0 || diff % 50 === 0 || diff % 25 === 0 || (diff <= 100 && diff % 10 === 0);
+    return round ? `<span class="badge anniv">fyrir ${diff} árum</span>` : "";
+  }
 
+  function renderEvents(target, items, refYear, withRegion) {
+    const box = $(target);
+    box.innerHTML = "";
+    if (!items || !items.length) {
+      box.appendChild(el("div", "empty-note", withRegion ? "Ekkert skráð á Íslandi þennan dag – rólegur dagur í sögunni." : "Engir atburðir skráðir."));
+      return;
+    }
+    items.forEach(e => {
+      const row = el("div", "event-row");
+      row.appendChild(el("span", "event-year", esc(e.ar)));
+      let html = esc(e.texti) + annivBadge(e.ar, refYear);
+      if (withRegion && e.landshluti) html += `<span class="badge region">${esc(e.landshluti)}</span>`;
+      row.appendChild(el("span", "event-text", html));
+      box.appendChild(row);
+    });
+  }
+
+  function renderBirthdays(list, listIS) {
+    const box = $("birthdays");
+    box.innerHTML = "";
+    const all = [...(listIS || []).map(p => ({...p, is: true})), ...(list || [])];
+    if (!all.length) { box.appendChild(el("div", "empty-note", "Engin afmælisbörn skráð.")); return; }
+    all.forEach(p => {
+      box.appendChild(el("div", "bd-item",
+        `<div><div class="bd-name">${esc(p.nafn)}${p.is ? '<span class="badge is">ÍS</span>' : ""}</div><div class="bd-role">${esc(p.starfsgrein)}</div></div>` +
+        `<div class="bd-year">${esc(p.ar)}</div>`
+      ));
+    });
+  }
+
+  function renderMedia(f) {
+    const box = $("media");
+    box.innerHTML = "";
+    if (f.tonlistUSA) box.appendChild(el("div", "media-item", `<div class="media-label">Lag #1 – USA</div><div class="media-text">${esc(f.tonlistUSA)}</div>${ytLink(f.tonlistUSA)}`));
+    if (f.tonlistUK)  box.appendChild(el("div", "media-item", `<div class="media-label">Lag #1 – UK</div><div class="media-text">${esc(f.tonlistUK)}</div>${ytLink(f.tonlistUK)}`));
+    if (f.bio)        box.appendChild(el("div", "media-item", `<div class="media-label">Kvikmynd</div><div class="media-text">${esc(f.bio)}</div>`));
+    if (!box.children.length) box.appendChild(el("div", "empty-note", "Sagnfræðingurinn man ekki lagið í dag."));
+  }
+
+  function renderPhoto(m) {
+    if (!m || !m.url) { show("photo", false); return; }
+    const img = $("photo-img");
+    img.onerror = () => show("photo", false);
+    img.src = m.url;
+    img.alt = m.texti || "";
+    $("photo-caption").innerHTML = `<strong>${esc(m.ar)}</strong> · ${esc(m.texti)}<a href="${esc(m.heimild)}" target="_blank" rel="noopener">Wikipedia ↗</a>`;
+    show("photo", true);
+  }
+
+  function renderQuiz(qs) {
+    const box = $("quiz");
+    box.innerHTML = "";
+    show("quiz-score", false);
+    if (!qs || !qs.length) { show("quiz-wrap", false); return; }
+    let answered = 0, correct = 0;
+    qs.forEach((q, qi) => {
+      const wrap = el("div", "quiz-q");
+      wrap.appendChild(el("div", "quiz-question", `${qi + 1}. ${esc(q.spurning)}`));
+      const grid = el("div", "quiz-answers");
+      const expl = el("div", "quiz-expl", "");
+      q.svor.forEach((s, i) => {
+        const b = el("button", "quiz-btn", esc(s));
+        b.type = "button";
+        b.onclick = () => {
+          [...grid.children].forEach((c, j) => { c.disabled = true; if (j === q.rett) c.classList.add("right"); });
+          if (i === q.rett) { correct++; expl.textContent = "✓ Rétt! " + (q.skyring || ""); }
+          else { b.classList.add("wrong"); expl.textContent = "✗ Nei – " + (q.skyring || `rétt svar: ${q.svor[q.rett]}`); }
+          answered++;
+          if (answered === qs.length) {
+            const verdict = correct === qs.length ? "Sagnfræðingurinn tekur ofan hattinn!" : correct === 0 ? "Sagnfræðingurinn réttir þér bók." : "Sagnfræðingurinn kinkar kolli.";
+            $("quiz-score").textContent = `Þú fékkst ${correct} af ${qs.length} rétt – ${verdict}`;
+            show("quiz-score", true);
+            track("quiz_done", { correct, total: qs.length, mode: currentMode });
+          }
+        };
+        grid.appendChild(b);
+      });
+      wrap.appendChild(grid);
+      wrap.appendChild(expl);
+      box.appendChild(wrap);
+    });
+    show("quiz-wrap", true);
+  }
+
+  // Fill the shared content area from a day object. refYear = year to measure anniversaries from.
+  function renderDay(f, mode, refYear) {
+    currentData = f;
+    currentMode = mode;
+
+    if (f.kvedja) { $("kvedja-text").textContent = f.kvedja; show("kvedja", true); } else show("kvedja", false);
+    renderPhoto(f.mynd);
+    renderEvents("events", f.atburdir, refYear, false);
+    renderEvents("events-island", f.atburdir_island, refYear, true);
+    $("bd-head").innerHTML = (mode === "bday" ? "Þú átt afmæli með…" : "Afmælisdagar") + ' <span class="sec-dots"></span>';
+    renderBirthdays(f.afmaeli, f.afmaeli_island);
+    renderMedia(f);
+
+    $("ord-dagsins").innerHTML = f.ord_dagsins && f.ord_dagsins.ord
+      ? `<span class="word-main">${esc(f.ord_dagsins.ord)}</span>${esc(f.ord_dagsins.skyring)}`
+      : '<span class="empty-note">Orðabókin var lokuð í dag.</span>';
+    $("vissir-thu").textContent = f.vissir_thu || "";
+
+    if (mode === "today") {
+      $("verdlag").textContent = f.verdlag || "";
+      show("col-verdlag", !!f.verdlag);
+      $("stjornumerki").textContent = f.stjornumerki ? f.stjornumerki + " ·" : "";
+      $("stjornuspa-text").textContent = f.stjornuspa || "";
+      show("col-stjornuspa", true);
+      show("row-verdlag-stjornu", !!(f.verdlag || f.stjornuspa));
+    } else {
+      // Birthday view: personal verðlag lives in the personal band; no horoscope for a past date.
+      show("row-verdlag-stjornu", false);
+    }
+
+    renderQuiz(f.spurningar);
+
+    if (mode === "today" && f.utvarpspistill) { $("radio-text").textContent = f.utvarpspistill; show("radio-box", true); }
+    else show("radio-box", false);
+
+    show("share-bday-btn", mode === "today");
+    show("content", true);
+  }
+
+  // ─────────── TODAY ───────────
+  function setTodayState(s) {
+    show("state-loading", s === "loading");
+    show("state-error", s === "error");
+    show("today-header", s === "content");
+    if (s !== "content") show("content", false);
+  }
+
+  function renderTodayHeader(f) {
+    $("date-daymonth").textContent = `${now.getDate()}. ${MONTHS_IS[now.getMonth()]}`;
+    $("date-year").textContent = year;
+    $("vikudagur").textContent = f.vikudagur || WEEKDAYS_IS[now.getDay()];
     const rows = [];
     if (f.dagurArsins) rows.push(`${f.dagurArsins}. dagur ársins`);
     if (f.sunrise)     rows.push(`Sólarupprás kl. ${f.sunrise}`);
     if (f.sunset)      rows.push(`Sólarlag kl. ${f.sunset}`);
-    document.getElementById("info-rows").textContent = rows.join("\n");
-
-    if (f.nafnadagur) {
-      document.getElementById("nafnadagur").textContent = f.nafnadagur;
-      document.getElementById("nafnadagur-wrap").style.display = "block";
-    }
-
-    // World events
-    const evEl = document.getElementById("events");
-    evEl.innerHTML = "";
-    (f.atburdir || []).forEach(e => {
-      const row = el("div", "event-row");
-      row.appendChild(el("span", "event-year", e.ar));
-      row.appendChild(el("span", "event-text", e.texti));
-      evEl.appendChild(row);
-    });
-
-    // Icelandic events
-    const isEl = document.getElementById("events-island");
-    isEl.innerHTML = "";
-    (f.atburdir_island || []).forEach(e => {
-      const row = el("div", "event-row");
-      row.appendChild(el("span", "event-year", e.ar));
-      row.appendChild(el("span", "event-text", e.texti));
-      isEl.appendChild(row);
-    });
-
-    // Birthdays
-    const bdEl = document.getElementById("birthdays");
-    bdEl.innerHTML = "";
-    (f.afmaeli || []).forEach(p => {
-      bdEl.appendChild(el("div", "bd-item",
-        `<div><div class="bd-name">${p.nafn}</div><div class="bd-role">${p.starfsgrein}</div></div>` +
-        `<div class="bd-year">${p.ar}</div>`
-      ));
-    });
-
-    // Music & Movie
-    const mdEl = document.getElementById("media");
-    mdEl.innerHTML = "";
-    if (f.tonlistUSA) {
-      mdEl.appendChild(el("div", "media-item",
-        `<div class="media-label">Lag #1 – USA</div>` +
-        `<div class="media-text">${f.tonlistUSA}</div>` +
-        ytLink(f.tonlistUSA)
-      ));
-    }
-    if (f.tonlistUK) {
-      mdEl.appendChild(el("div", "media-item",
-        `<div class="media-label">Lag #1 – UK</div>` +
-        `<div class="media-text">${f.tonlistUK}</div>` +
-        ytLink(f.tonlistUK)
-      ));
-    }
-    if (f.bio) {
-      mdEl.appendChild(el("div", "media-item",
-        `<div class="media-label">Kvikmynd #1 – USA</div>` +
-        `<div class="media-text">${f.bio}</div>`
-      ));
-    }
-
-    // Orð dagsins
-    if (f.ord_dagsins) {
-      document.getElementById("ord-dagsins").innerHTML =
-        `<span class="word-main">${f.ord_dagsins.ord}</span>${f.ord_dagsins.skyring}`;
-    }
-
-    // Vissir þú?
-    document.getElementById("vissir-thu").textContent = f.vissir_thu || "";
-
-    // Verðlagið þá
-    document.getElementById("verdlag").textContent = f.verdlag || "";
-
-    // Stjörnuspá
-    document.getElementById("stjornumerki").textContent =
-      (f.stjornumerki || "") + (f.stjornumerki ? " ·" : "");
-    document.getElementById("stjornuspa-text").textContent = f.stjornuspa || "";
-
-    setState("content");
+    $("info-rows").textContent = rows.join("\n");
+    if (f.nafnadagur) { $("nafnadagur").textContent = f.nafnadagur; show("nafnadagur-wrap", true); }
+    else show("nafnadagur-wrap", false);
   }
 
-  async function loadFact(force = false) {
-    setState("loading");
+  async function loadToday() {
+    setTodayState("loading");
     try {
-      const res = await fetch(`./fact.json?d=${now.getFullYear()}-${now.getMonth()}-${now.getDate()}`);
-      if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      showFact(await res.json());
+      if (!todayData) {
+        const res = await fetch(`./fact.json?d=${year}-${now.getMonth()}-${now.getDate()}`);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        todayData = await res.json();
+      }
+      renderTodayHeader(todayData);
+      setTodayState("content");
+      renderDay(todayData, "today", year);
     } catch (err) {
       console.error("Villa:", err);
-      document.getElementById("error-detail").textContent = err.message || String(err);
-      setState("error");
+      $("error-detail").textContent = err.message || String(err);
+      setTodayState("error");
     }
   }
 
-  loadFact();
+  // ─────────── BIRTHDAY ───────────
+  function initBdayForm() {
+    const dSel = $("bday-day"), mSel = $("bday-month");
+    for (let d = 1; d <= 31; d++) dSel.appendChild(new Option(`${d}.`, d));
+    MONTHS_IS.forEach((m, i) => mSel.appendChild(new Option(m, i + 1)));
+    dSel.value = now.getDate();
+    mSel.value = now.getMonth() + 1;
+    $("bday-year").max = year;
+  }
+
+  async function loadVerdlagData() {
+    if (verdlagData !== null) return verdlagData;
+    try {
+      const res = await fetch("./data/verdlag.json?v=" + todayMMDD);
+      verdlagData = res.ok ? await res.json() : false;
+    } catch (e) { verdlagData = false; }
+    return verdlagData;
+  }
+
+  function personalVerdlag(by) {
+    if (!verdlagData || !verdlagData.cpi) return "";
+    const cpi = verdlagData.cpi, mbl = verdlagData.mbl || {};
+    const years = Object.keys(cpi).map(Number);
+    const latest = Math.max(...years);
+    const parts = [];
+    if (cpi[by] && cpi[latest] && by < latest) {
+      const factor = cpi[latest] / cpi[by];
+      const mult = factor < 10 ? Math.round(factor * 10) / 10 : Math.round(factor);
+      parts.push(`Almennt verðlag á Íslandi hefur hækkað um u.þ.b. <strong>${String(mult).replace(".", ",")}-falt</strong> síðan þú fæddist, samkvæmt vísitölu neysluverðs Hagstofunnar.`);
+    } else if (by < Math.min(...years)) {
+      parts.push(`Vísitala neysluverðs nær aftur til ${Math.min(...years)} – þú ert eldri en hagtölurnar!`);
+    }
+    const mblYears = Object.keys(mbl).map(Number);
+    if (mblYears.length) {
+      const nearest = mblYears.reduce((a, b) => Math.abs(b - by) < Math.abs(a - by) ? b : a);
+      const price = mbl[nearest];
+      const kr = `${fmtNum(price)} kr.`;
+      if (nearest === by) parts.unshift(`Árið sem þú fæddist kostaði eintak af Morgunblaðinu <strong>${kr}</strong>`);
+      else if (Math.abs(nearest - by) <= 6) {
+        const gap = Math.abs(nearest - by);
+        const rel = nearest > by ? `þegar þú varst ${gap === 1 ? "eins árs" : gap + " ára"}` : `${gap === 1 ? "einu ári" : gap + " árum"} áður en þú fæddist`;
+        parts.unshift(`Árið ${nearest}, ${rel}, kostaði eintak af Morgunblaðinu <strong>${kr}</strong>`);
+      }
+    }
+    return parts.join(" ");
+  }
+
+  function renderPersonal(f, d, m, by) {
+    const head = $("personal-head");
+    const grid = $("stat-grid");
+    grid.innerHTML = "";
+    const stat = (num, label) => grid.appendChild(el("div", "stat", `<div class="stat-num">${num}</div><div class="stat-label">${label}</div>`));
+
+    if (by) {
+      const birth = new Date(by, m - 1, d);
+      const valid = birth.getMonth() === m - 1 && birth.getDate() === d;
+      if (!valid) { by = null; }
+      else {
+        const days = Math.floor((now - birth) / 86400000);
+        let next = new Date(year, m - 1, d);
+        if (next < new Date(year, now.getMonth(), now.getDate())) next = new Date(year + 1, m - 1, d);
+        const toNext = Math.round((next - new Date(year, now.getMonth(), now.getDate())) / 86400000);
+        let age = year - by - (now < new Date(year, m - 1, d) ? 1 : 0);
+        head.textContent = `Þú fæddist á ${WEEKDAYS_DAT[birth.getDay()]}, ${d}. ${MONTHS_IS[m - 1]} ${by}.`;
+        if (days >= 0) stat(fmtNum(days), "dagar á lífi");
+        if (age >= 0) stat(age, "ára");
+        stat(toNext === 0 ? "Í dag! 🎂" : toNext, toNext === 0 ? "til hamingju" : "dagar í næsta afmæli");
+      }
+    }
+    if (!by) head.textContent = `${d}. ${MONTHS_IS[m - 1]} – afmælisdagurinn þinn.`;
+    if (f.stjornumerki) stat(f.stjornumerki, "stjörnumerki");
+    if (f.nafnadagur) stat(esc(f.nafnadagur), "nafnadagur");
+    if (f.sunrise) stat(f.sunrise, "sólarupprás í Reykjavík");
+
+    const v = by ? personalVerdlag(by) : "";
+    $("personal-verdlag").innerHTML = v;
+    show("personal-verdlag", !!v);
+    show("personal", true);
+  }
+
+  async function loadBday(d, m, by, push = true) {
+    const mmdd = `${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")}`;
+    show("bday-loading", true); show("bday-error", false); show("personal", false); show("content", false);
+    try {
+      const [res] = await Promise.all([fetch(`./days/${mmdd}.json?v=${todayMMDD}`), loadVerdlagData()]);
+      if (res.status === 404) throw new Error("NOT_YET");
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const f = await res.json();
+      show("bday-loading", false);
+      renderPersonal(f, d, m, by);
+      renderDay(f, "bday", by || year);
+      if (push) {
+        const q = `?d=${mmdd}` + (by ? `&y=${by}` : "");
+        history.replaceState(null, "", location.pathname + q);
+      }
+      track("afmaeli_lookup", { mmdd, with_year: !!by });
+      $("personal").scrollIntoView({ behavior: "smooth", block: "start" });
+    } catch (err) {
+      show("bday-loading", false);
+      $("bday-error-text").textContent = err.message === "NOT_YET"
+        ? `Sagnfræðingurinn hefur ekki komist í ${d}. ${MONTHS_IS[m - 1]} ennþá – safnið er í vinnslu. Kíktu aftur bráðlega!`
+        : `Ekki tókst að sækja gögn (${err.message}).`;
+      show("bday-error", true);
+    }
+  }
+
+  function submitBday(ev) {
+    ev.preventDefault();
+    const d = parseInt($("bday-day").value, 10);
+    const m = parseInt($("bday-month").value, 10);
+    const yRaw = $("bday-year").value.trim();
+    const by = yRaw ? parseInt(yRaw, 10) : null;
+    if (by && (by < 1000 || by > year)) { $("bday-year").focus(); return false; }
+    loadBday(d, m, by);
+    return false;
+  }
+
+  // ─────────── TABS / SHARE ───────────
+  function showTab(name) {
+    $("tab-today").classList.toggle("active", name === "today");
+    $("tab-bday").classList.toggle("active", name === "bday");
+    show("view-today", name === "today");
+    show("view-bday", name === "bday");
+    if (name === "today") {
+      if (todayData) { renderTodayHeader(todayData); setTodayState("content"); renderDay(todayData, "today", year); }
+      else loadToday();
+      if (location.search) history.replaceState(null, "", location.pathname);
+    } else {
+      show("content", false); show("personal", false); show("bday-error", false);
+      if (currentMode === "bday" && currentData) { show("personal", true); show("content", true); }
+      track("tab_bday");
+    }
+  }
+
+  async function shareThis() {
+    const url = location.href;
+    const isBday = currentMode === "bday";
+    const text = isBday
+      ? `Sjáðu hvað gerðist á afmælisdaginn minn – Sagan í Dag`
+      : (currentData && currentData.kvedja ? currentData.kvedja : `Sagan í Dag – ${now.getDate()}. ${MONTHS_IS[now.getMonth()]}`);
+    track("share", { mode: currentMode });
+    if (navigator.share) {
+      try { await navigator.share({ title: "Sagan í Dag", text, url }); } catch (e) {}
+    } else {
+      try { await navigator.clipboard.writeText(url); alert("Hlekkur afritaður!"); } catch (e) { prompt("Afritaðu hlekkinn:", url); }
+    }
+  }
+
+  async function copyRadio() {
+    const t = $("radio-text").textContent + "\n\n– saganidag.is";
+    try { await navigator.clipboard.writeText(t); $("radio-copy").textContent = "Afritað ✓"; setTimeout(() => $("radio-copy").textContent = "Afrita", 2000); }
+    catch (e) { prompt("Afritaðu textann:", t); }
+    track("radio_copy");
+  }
+
+  // ─────────── BOOT ───────────
+  initBdayForm();
+  const params = new URLSearchParams(location.search);
+  const pd = params.get("d");
+  if (pd && /^\d{2}-\d{2}$/.test(pd)) {
+    const [pm, pdd] = pd.split("-").map(Number);
+    const py = parseInt(params.get("y") || "", 10) || null;
+    $("bday-day").value = pdd; $("bday-month").value = pm; if (py) $("bday-year").value = py;
+    $("tab-today").classList.remove("active"); $("tab-bday").classList.add("active");
+    show("view-today", false); show("view-bday", true);
+    loadBday(pdd, pm, py, false);
+    fetch(`./fact.json?d=${year}-${now.getMonth()}-${now.getDate()}`).then(r => r.ok ? r.json() : null).then(j => { if (j) todayData = j; }).catch(() => {});
+  } else {
+    loadToday();
+  }
 </script>
 </body>
 </html>

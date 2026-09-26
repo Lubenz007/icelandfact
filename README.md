@@ -1,118 +1,80 @@
-# icelandfact.alit.is – Í dag í sögunni
+# saganidag.is – Sagan í Dag
 
-A QR-code-friendly webpage that shows an AI-generated Icelandic historical fact for today's date. Powered by Google Gemini (free tier). Hosted on GitHub Pages with the custom domain `icelandfact.alit.is`.
+Daglegur „dálkur Sagnfræðingsins“: staðfestir atburðir úr íslenskri og heimssögu, afmælisbörn, orð dagsins, spurningakeppni, verðlagið þá, útvarpspistill – og **afmælisdagurinn þinn**: sláðu inn fæðingardag og sjáðu hvað gerðist þá, hve marga daga þú hefur lifað og hvað Morgunblaðið kostaði þegar þú fæddist.
+
+Hýst á GitHub Pages (`saganidag.is` / `icelandfact.alit.is`). Engin bakendaþjónusta, engir lyklar í vafranum: allt efni er kyrrstætt JSON sem GitHub Actions býr til.
 
 ---
 
-## Setup guide
+## Hvernig þetta virkar
 
-### 1. Get a free Gemini API key (5 minutes)
-
-1. Go to **https://aistudio.google.com**
-2. Sign in with your Google account
-3. Click **"Get API key"** → **"Create API key"**
-4. Copy the key (it starts with `AIza…`)
-
-### 2. Put your key in index.html
-
-Open `index.html` and find this line near the bottom:
-
-```js
-const GEMINI_API_KEY = "";
+```
+Wikipedia (en + is) ──┐
+Wikipedia pageviews ──┤   .github/scripts/generate_fact.py
+Hagstofa (VNV)      ──┼──►  + Azure OpenAI GPT-5.6 (eða Gemini)  ──►  fact.json        (í dag)
+mbl_prices.json     ──┘                                                days/MM-DD.json  (allir 366 dagar)
+                                                                       data/verdlag.json
 ```
 
-Replace `` with your actual key.
+* **Grundun.** Atburðir og afmæli koma EINGÖNGU úr Wikipedia-listum; módelið velur og endursegir. Skriftan hendir sjálfkrafa öllu sem ekki finnst í heimildinni (`sanitize()`).
+* **Afmælisbörn** eru raðað eftir raunverulegum flettingum á Wikipedia síðustu 30 daga, svo Serena Williams vinnur af óþekktum barón. Íslensk afmælisbörn koma úr „Fædd“-kafla íslensku Wikipediu.
+* **Mynd dagsins** er raunveruleg Wikipedia-mynd við einn valinn atburð.
+* **Landshluti** er merktur á hvern íslenskan atburð (Suðurland, Norðurland …).
+* **Spurningakeppni** (3 krossaspurningar) er smíðuð eingöngu úr atburðunum sem voru valdir – svarið er alltaf í gögnunum.
+* **Útvarpspistill** – 60–90 orð tilbúin til upplesturs, með „Afrita“-hnappi. Frjálst til notkunar í útvarpi ef saganidag.is er nefnt.
+* **Verðlag** er reiknað úr vísitölu neysluverðs Hagstofunnar og staðfestum Morgunblaðsverðum – aldrei giskað.
 
-> ⚠️ The key is visible in the page source. This is fine for a personal/low-traffic
-> project. If you want to hide it, see the "Securing the key" section below.
+Vafrinn sækir `fact.json` fyrir daginn í dag og `days/MM-DD.json` fyrir afmælisdaga. `?d=03-14&y=1992` opnar afmælissýn beint (deilanlegur hlekkur).
 
-### 3. Create the GitHub repository
+---
 
-1. Go to **github.com** → **New repository**
-2. Name it exactly: `icelandfact` (or any name you like)
-3. Make it **Public**
-4. Do NOT add README or .gitignore (you already have files)
-5. Click **Create repository**
+## Uppsetning
 
-### 4. Push the files
+### 1. Leyndarmál (Settings → Secrets and variables → Actions)
+
+| Secret | Hlutverk |
+|---|---|
+| `AZURE_OPENAI_ENDPOINT` | t.d. `https://<nafn>.openai.azure.com/openai/v1` (aðalveitandi) |
+| `AZURE_OPENAI_KEY` | Azure API-lykill |
+| `AZURE_OPENAI_DEPLOYMENT` | nafn deployment-sins, t.d. `gpt-5.6` (sjálfgefið ef sleppt) |
+| `GEMINI_API_KEY` | valfrjálst – varaleið ef Azure bregst, eða eina leiðin ef Azure vantar |
+
+Ef bæði eru til staðar er Azure reynt fyrst og Gemini ef það mistekst.
+
+### 2. Bakfylla alla 366 daga (einu sinni)
+
+Actions → **Backfill all days** → Run workflow. Tekur u.þ.b. 1–2 klst., committar á 20 daga fresti svo ekkert tapast. Hægt að keyra aftur hvenær sem er; sleppir dögum sem eru til nema `force` sé hakað. `only` = `03-14 12-24` fyrir staka daga.
+
+### 3. Daglega keyrslan
+
+**Daily Fact** keyrir kl. 01:00 UTC, skrifar `fact.json`, uppfærir `days/` fyrir daginn og `data/verdlag.json`. Hægt að ræsa handvirkt.
+
+### 4. Keyra heima
 
 ```bash
-cd alit-history
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin https://github.com/Lubenz007/icelandfact.git
-git push -u origin main
+export AZURE_OPENAI_ENDPOINT=... AZURE_OPENAI_KEY=... AZURE_OPENAI_DEPLOYMENT=gpt-5.6
+python .github/scripts/generate_fact.py            # dagurinn í dag
+python .github/scripts/backfill_days.py --only 03-14
+python -m http.server 8000                         # opna http://localhost:8000
 ```
 
-### 5. Enable GitHub Pages
+---
 
-1. Go to your repo → **Settings** → **Pages**
-2. Source: **Deploy from a branch**
-3. Branch: `main` / `/ (root)`
-4. Click **Save**
-5. GitHub will show you a URL like `https://Lubenz007.github.io/icelandfact/`
+## Skrár
 
-### 6. Set up the custom domain on GitHub
-
-1. Still in **Settings → Pages**
-2. Under **Custom domain**, type `icelandfact.alit.is`
-3. Click **Save**
-4. Check **"Enforce HTTPS"** (appears after DNS is configured)
-
-### 7. Configure DNS in Azure
-
-In your Azure DNS zone for `alit.is`, add this record:
-
-| Type  | Name          | Value                   | TTL  |
-|-------|---------------|-------------------------|------|
-| CNAME | icelandfact   | Lubenz007.github.io     | 3600 |
-
-> This points the subdomain `icelandfact.alit.is` to your GitHub Pages site.
-> A records (185.199.x.x) are only needed for apex domains (e.g. `alit.is` directly) — not for subdomains.
-> Replace `Lubenz007` with your actual GitHub username if different.
-
-DNS changes take 5–60 minutes to propagate.
-
-### 8. Generate the QR code
-
-Once your site is live at `https://icelandfact.alit.is`:
-
-1. Go to **https://qr.io** or **https://qrcode.com**
-2. Enter `https://icelandfact.alit.is`
-3. Set **error correction to H** (30%) — important for 3D prints
-4. Download as SVG or PNG
+| Skrá | Hlutverk |
+|---|---|
+| `index.html` | Síðan öll (dagblaðaútlit, flipar „Í dag“ / „Afmælisdagurinn þinn“, spurningakeppni, deiling) |
+| `fact.json` | Efni dagsins í dag |
+| `days/MM-DD.json` | Efni fyrir hvern almanaksdag (ártalsóháð) |
+| `data/verdlag.json` | VNV-röð Hagstofunnar + Morgunblaðsverð, notað í vafranum |
+| `.github/scripts/generate_fact.py` | Öll gagnasöfnun, prompt, LLM-köll, grundunarsía |
+| `.github/scripts/backfill_days.py` | Býr til alla daga |
+| `.github/scripts/collect_mbl_prices.py` + `mbl_prices.json` | Staðfest Morgunblaðsverð af timarit.is |
+| `qr.html` | QR-kóði á síðuna |
 
 ---
 
-## 3D printing the QR code
+## Kostnaður
 
-**Recommended workflow:**
-1. Go to **Makerworld.com** → search "QR Code Generator" (by Bambu Lab) — it takes a URL and exports STL directly
-2. OR import the SVG into **Fusion 360** / **FreeCAD** and extrude 2mm
-3. Print at minimum **5×5 cm** for reliable scanning
-4. Use **two-colour printing**: white base plate, black QR layer (pause and swap filament)
-5. Use **0.2mm layer height** or finer
-
----
-
-## Securing the API key (optional)
-
-Exposing the key in HTML is fine for personal use. To hide it:
-
-- Use a **Cloudflare Worker** as a tiny proxy (free tier: 100k requests/day)
-- The worker holds the key server-side and forwards requests to Gemini
-- Your HTML calls your worker URL instead of Gemini directly
-
-Ask for help setting this up if needed.
-
----
-
-## Free tier limits
-
-| Provider | Model              | Free limit          |
-|----------|--------------------|---------------------|
-| Google   | Gemini 2.5 Flash-Lite | 15 RPM, 1000 req/day |
-
-For a QR-code page with occasional visitors this is more than enough.
+Azure GPT-5.6: ein keyrsla á dag ≈ 6–8 þúsund tókar inn, 2–3 þúsund út – nokkrir aurar. Bakfyllingin öll ≈ 366 slík köll, nokkrir dollarar einu sinni. Gemini 2.5 Flash er ókeypis innan dagskvóta og dugar líka.
