@@ -1,0 +1,148 @@
+{
+  "mmdd": "01-29",
+  "dagur": 29,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:18",
+  "sunset": "17:04",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 29. janúar flögrar Hrafninn inn á ritvöllinn, Hawaii fær drottningu og hippatíminn dansar með Janis Joplin og Swami Bhaktivedanta. Sagan kann sannarlega að blanda sér drykk — stundum með regnhlíf og stundum án hennar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "757",
+      "texti": "An Lushan, leiðtogi uppreisnar gegn Tang-ættinni og keisari Yan, var myrtur í samsæri sem eigin sonur hans, An Qingxu, átti aðild að. Fjölskylduboðin við hirðina hafa varla verið sérlega notaleg eftir það."
+    },
+    {
+      "ar": "1845",
+      "texti": "Ljóðið „Hrafninn“ eftir Edgar Allan Poe birtist í dagblaðinu The Evening Mirror, í fyrsta sinn sem blaðið birti það merkt höfundi. Hrafninn varð ódauðlegur, þótt orðaforði hans væri helst til einhæfur."
+    },
+    {
+      "ar": "1891",
+      "texti": "Liliʻuokalani tók við hásæti Hawaii og varð síðasti þjóðhöfðingi konungsríkisins og eina ríkjandi drottning þess."
+    },
+    {
+      "ar": "1907",
+      "texti": "Charles Curtis frá Kansas, sem var borgari Kaw-þjóðarinnar, varð fyrsti frumbygginn til að taka sæti í öldungadeild Bandaríkjaþings."
+    },
+    {
+      "ar": "1967",
+      "texti": "Mantra-Rock Dance var haldinn í San Francisco með Swami Bhaktivedanta, Janis Joplin, Grateful Dead og Allen Ginsberg. Samkoman var kölluð „fullkomna víman“ hippatímans — og dagskráin var vissulega ekki hversdagsleg."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1905",
+      "texti": "Jarðskjálfti að stærð 5,5 varð á Suðvesturlandi og átti upptök sín við Kleifarvatn.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1928",
+      "texti": "Slysavarnafélag Íslands var stofnað og hóf það mikilvæga starf að efla slysavarnir og björgunarmál landsmanna.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1961",
+      "texti": "Körfuknattleikssamband Íslands var stofnað. Þar með fékk íslenski körfuboltinn formlegt sameiningarafl undir körfunni.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2000",
+      "texti": "Vísindavefurinn var opnaður af forseta Íslands, Ólafi Ragnari Grímssyni, og íslenskir forvitnispúkar fengu nýjan samastað á netinu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Lambert",
+      "starfsgrein": "söngvari, lagahöfundur og leikari",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Abdus Salam",
+      "starfsgrein": "eðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Andrew Keegan",
+      "starfsgrein": "leikari",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Emanuel Swedenborg",
+      "starfsgrein": "stjörnufræðingur, heimspekingur og guðfræðingur",
+      "ar": "1688"
+    },
+    {
+      "nafn": "Kristján 7.",
+      "starfsgrein": "Danakonungur",
+      "ar": "1749"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andri Lucas Guðjohnsen",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Magnús Ketilsson",
+      "starfsgrein": "sýslumaður og útgefandi",
+      "ar": "1732"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skáld sendi „Hrafninn“ á flug á prenti árið 1845?",
+      "svor": [
+        "Edgar Allan Poe",
+        "Allen Ginsberg",
+        "Emanuel Swedenborg",
+        "Abdus Salam"
+      ],
+      "rett": 0,
+      "skyring": "Edgar Allan Poe orti „Hrafninn“, sem birtist í The Evening Mirror þennan dag árið 1845."
+    },
+    {
+      "spurning": "Hvað var stofnað á Íslandi 29. janúar 1928?",
+      "svor": [
+        "Körfuknattleikssamband Íslands",
+        "Vísindavefurinn",
+        "Slysavarnafélag Íslands",
+        "Öldungadeild Íslands"
+      ],
+      "rett": 2,
+      "skyring": "Slysavarnafélag Íslands var stofnað árið 1928 og átti eftir að verða sannkallað þjóðþrifafyrirtæki."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er Nóbelsverðlaunahafi í eðlisfræði?",
+      "svor": [
+        "Adam Lambert",
+        "Andrew Keegan",
+        "Kristján 7.",
+        "Abdus Salam"
+      ],
+      "rett": 3,
+      "skyring": "Abdus Salam hlaut Nóbelsverðlaunin í eðlisfræði — þar dugðu hvorki konungskór né söngpípur."
+    }
+  ],
+  "tonlistUSA": "Down Under – Men at Work (1983)",
+  "tonlistUK": "Down Under – Men at Work (1983)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "hrafnaspark",
+    "skyring": "Hrafnaspark er óvönduð og illlæsileg rithönd."
+  },
+  "vissir_thu": "Liliʻuokalani var bæði síðasti þjóðhöfðingi konungsríkisins Hawaii og eina konan sem ríkti þar sem drottning.",
+  "stjornuspa": "Vatnsberi, í dag blikka stjörnurnar eins og neonljós yfir hippadansleik árið 1967 og hvetja þig til að fara ótroðnar slóðir. Hafðu þó fæturna á jörðinni, sérstaklega ef Kleifarvatn fer að rugga taktfast.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Pope_Paul_I.jpg/330px-Pope_Paul_I.jpg",
+    "ar": "757",
+    "texti": "An Lushan, leiðtogi uppreisnar gegn Tang-ættinni og keisari Yan, var myrtur í samsæri sem eigin sonur hans, An Qingxu, átti aðild að. Fjölskylduboðin við hirðina hafa varla verið sérlega notaleg eftir það.",
+    "heimild": "https://en.wikipedia.org/wiki/AD_757",
+    "breidd": 330,
+    "haed": 472
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "01-26",
+  "dagur": 26,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:27",
+  "sunset": "16:54",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 26. janúar býður upp á allt frá risademanti og lýðveldisstofnun til sjónauka sem gægðist út í geiminn — sagan kann greinilega ekki að hafa aðeins eitt járn í eldinum. Komdu þér vel fyrir og mundu: jafnvel stærstu tímamótin byrjuðu á venjulegum degi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1808",
+      "texti": "William Bligh, landstjóri Nýja Suður-Wales, var hrakinn frá völdum í einu herforingjabyltingu Ástralíusögunnar. Bligh hafði áður lent í uppreisninni á Bounty og virðist því hafa haft óvenjulegt lag á að vera steypt af stóli."
+    },
+    {
+      "ar": "1905",
+      "texti": "Cullinan-demanturinn fannst í Premier-námunni í Gauteng í Suður-Afríku. Hann vó 3.106 karöt, eða 621 gramm, og er stærsti óslípaði demantur af gimsteinagæðum sem fundist hefur."
+    },
+    {
+      "ar": "1950",
+      "texti": "Indland varð lýðveldi samkvæmt nýrri stjórnarskrá. Rajendra Prasad tók við forsetaembættinu en Jawaharlal Nehru var forsætisráðherra."
+    },
+    {
+      "ar": "1972",
+      "texti": "JAT-flug 367 sprakk í lofti yfir Tékkóslóvakíu. Flugfreyjan Vesna Vulović lifði ein af 28 um borð af fall úr 10.160 metra hæð og setti met í að lifa af hæsta fall án fallhlífar."
+    },
+    {
+      "ar": "2020",
+      "texti": "Sikorsky S-76 þyrla fórst við Calabasas í Kaliforníu og allir níu um borð létust. Meðal þeirra voru körfuknattleiksmaðurinn Kobe Bryant og dóttir hans Gianna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1866",
+      "texti": "Ísafjörður fékk kaupstaðarréttindi, en þar bjuggu þá aðeins 220 manns. Smár bær tók þar með stórt skref.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1894",
+      "texti": "Hið íslenska kvenfélag var stofnað í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1906",
+      "texti": "Verkamannafélagið Dagsbrún var stofnað í Reykjavík og átti eftir að verða áhrifamikið afl í íslenskri verkalýðssögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2009",
+      "texti": "Geir Haarde baðst lausnar fyrir ráðuneyti sitt í miðju umróti eftir bankahrunið.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andrew Ridgeley",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Angela Davis",
+      "starfsgrein": "baráttukona, fræðimaður og rithöfundur",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Karl 14. Jóhann",
+      "starfsgrein": "konungur Svíþjóðar",
+      "ar": "1763"
+    },
+    {
+      "nafn": "Bessie Coleman",
+      "starfsgrein": "flugkona",
+      "ar": "1892"
+    },
+    {
+      "nafn": "Anders Fogh Rasmussen",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi forsætisráðherra Danmerkur",
+      "ar": "1953"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Benediktsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Ólafur Davíðsson",
+      "starfsgrein": "þjóðfræðingur",
+      "ar": "1862"
+    },
+    {
+      "nafn": "Þorsteinn Gíslason",
+      "starfsgrein": "skáld",
+      "ar": "1867"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað vó Cullinan-demanturinn þegar hann fannst?",
+      "svor": [
+        "621 gramm",
+        "221 gramm",
+        "1.106 grömm",
+        "3.106 grömm"
+      ],
+      "rett": 0,
+      "skyring": "Risinn vó 621 gramm, sem er býsna myndarlegur steinn í vasanum."
+    },
+    {
+      "spurning": "Hvaða indverski leiðtogi var forsætisráðherra þegar Indland varð lýðveldi árið 1950?",
+      "svor": [
+        "Rajendra Prasad",
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Indira Gandhi"
+      ],
+      "rett": 1,
+      "skyring": "Jawaharlal Nehru var forsætisráðherra en Rajendra Prasad varð forseti."
+    },
+    {
+      "spurning": "Hvaða íslenski kaupstaður hafði aðeins 220 íbúa þegar hann fékk kaupstaðarréttindi árið 1866?",
+      "svor": [
+        "Akureyri",
+        "Hafnarfjörður",
+        "Ísafjörður",
+        "Seyðisfjörður"
+      ],
+      "rett": 2,
+      "skyring": "Ísafjörður fékk réttindin — fámennið lét ekki á sér standa."
+    }
+  ],
+  "tonlistUSA": "Like a Virgin – Madonna (1985)",
+  "tonlistUK": "I Want to Know What Love Is – Foreigner (1985)",
+  "bio": "One Flew Over the Cuckoo's Nest (1975)",
+  "ord_dagsins": {
+    "ord": "kvos",
+    "skyring": "Kvos er dæld eða lægð í landslagi, gjarnan umlukin hæðum."
+  },
+  "vissir_thu": "Vesna Vulović lifði af 10.160 metra fall án fallhlífar árið 1972, hæsta slíka fall sem skráð hefur verið.",
+  "stjornuspa": "Vatnsberi, í dag skaltu treysta frumlegu hugmyndinni sem aðrir kalla dálítið skrýtna — það er yfirleitt þar sem gullið leynist. Varastu þó að hefja byltingu fyrir hádegi; kaffið þarf fyrst að komast til valda.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/WilliamBligh.jpeg/500px-WilliamBligh.jpeg",
+    "ar": "1808",
+    "texti": "William Bligh, landstjóri Nýja Suður-Wales, var hrakinn frá völdum í einu herforingjabyltingu Ástralíusögunnar. Bligh hafði áður lent í uppreisninni á Bounty og virðist því hafa haft óvenjulegt lag á að vera steypt af stóli.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Bligh",
+    "breidd": 330,
+    "haed": 437
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

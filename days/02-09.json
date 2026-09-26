@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-09",
+  "dagur": 9,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:44",
+  "sunset": "17:41",
+  "kvedja": "Góðan 9. febrúar, kæri lesandi! Í dag sveiflum við okkur frá freigátum og forsetakjöri yfir í Bítlaæði, skautaíþróttir og óupplýst bankarán í Breiðholti. Sagan virðist stundum skrifuð af alvörugefnum embættismönnum, en inn á milli laumast maður með lambhúshettu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1799",
+      "texti": "Bandaríska freigátan USS Constellation náði frönsku freigátunni Insurgente á sitt vald eftir sjóorrustu í Karíbahafi, meðan á svonefndu hálfstríði Bandaríkjanna og Frakklands stóð."
+    },
+    {
+      "ar": "1825",
+      "texti": "Þar sem enginn frambjóðandi hafði fengið meirihluta kjörmanna valdi fulltrúadeild Bandaríkjaþings John Quincy Adams forseta. Lýðræðið þurfti sem sagt að fara aukahring."
+    },
+    {
+      "ar": "1907",
+      "texti": "Meira en þrjú þúsund konur tóku þátt í Leðjugöngunni í London, fyrstu stóru kröfugöngunni sem breska landssamband kvenna um kosningarétt skipulagði."
+    },
+    {
+      "ar": "1964",
+      "texti": "Bítlarnir komu í fyrsta sinn fram í The Ed Sullivan Show fyrir metfjölda sjónvarpsáhorfenda. Bítlaæðið sópaði um Bandaríkin og breska tónlistarinnrásin var komin á fulla ferð."
+    },
+    {
+      "ar": "2020",
+      "texti": "Japanski listskautarinn Yuzuru Hanyu vann Fjögurra heimsálfa meistaramótið og varð eini karlinn til að ljúka svonefndum Super Slam í greininni."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1827",
+      "texti": "Kambsránið var framið á bænum Kambi í Flóa og varð eitt kunnasta sakamál íslenskrar 19. aldar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1959",
+      "texti": "Togarinn Júlí fórst við Nýfundnaland og með honum öll þrjátíu manna áhöfn skipsins.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1984",
+      "texti": "Maður með lambhúshettu rændi rúmlega þrjú hundruð þúsund krónum úr útibúi Iðnaðarbankans í Breiðholti. Ránið er enn óupplýst.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1987",
+      "texti": "Fyrsti þáttur Spaugstofunnar var sýndur í Ríkissjónvarpinu og íslensk þjóðmálaumræða eignaðist þar með nýtt og ansi skakkt spegilglas.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Avan Jogia",
+      "starfsgrein": "kanadískur leikari",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Alice Walker",
+      "starfsgrein": "bandarískur rithöfundur og ljóðskáld",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Amber Valletta",
+      "starfsgrein": "bandarísk fyrirsæta",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Alban Berg",
+      "starfsgrein": "austurrískt tónskáld",
+      "ar": "1885"
+    },
+    {
+      "nafn": "Angelos Charisteas",
+      "starfsgrein": "grískur knattspyrnumaður",
+      "ar": "1980"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Egill Ólafsson",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Tryggvi Þórhallsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1889"
+    },
+    {
+      "nafn": "Magnús Bjarnfreðsson",
+      "starfsgrein": "fréttamaður",
+      "ar": "1934"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljómsveit birtist fyrst í The Ed Sullivan Show 9. febrúar 1964?",
+      "svor": [
+        "The Beatles",
+        "The Rolling Stones",
+        "The Kinks",
+        "The Who"
+      ],
+      "rett": 0,
+      "skyring": "The Beatles kveiktu þar svo rækilega í Bítlaæðinu að hárgreiðslur heimsins áttu ekki afturkvæmt."
+    },
+    {
+      "spurning": "Hvar var Kambsránið framið árið 1827?",
+      "svor": [
+        "Í Flóa",
+        "Í Breiðholti",
+        "Á Vestfjörðum",
+        "Við Nýfundnaland"
+      ],
+      "rett": 0,
+      "skyring": "Ránið var framið á bænum Kambi í Flóa."
+    },
+    {
+      "spurning": "Hvaða íslenski söngvari og leikari á afmæli 9. febrúar?",
+      "svor": [
+        "Egill Ólafsson",
+        "Magnús Bjarnfreðsson",
+        "Tryggvi Þórhallsson",
+        "Angelos Charisteas"
+      ],
+      "rett": 0,
+      "skyring": "Egill Ólafsson fæddist árið 1953 og hefur lengi látið bæði leik og söng fara sér einkar vel."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Needles and Pins – The Searchers (1964)",
+  "bio": "The Lego Movie (2014)",
+  "ord_dagsins": {
+    "ord": "firn",
+    "skyring": "Firn merkir löngu liðinn tíma eða forna tíð."
+  },
+  "vissir_thu": "Yuzuru Hanyu varð árið 2020 fyrsti og eini karlinn til að fullkomna svonefndan Super Slam í listskautum.",
+  "stjornuspa": "Vatnsberi, rykið af gömlu vínylplötunni og leyfðu Bítlaæðinu að stýra skrefunum í dag. Varastu þó menn í lambhúshettum sem segjast aðeins þurfa örstutt lán.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/USSConstellationVsInsurgente.jpg/500px-USSConstellationVsInsurgente.jpg",
+    "ar": "1799",
+    "texti": "Bandaríska freigátan USS Constellation náði frönsku freigátunni Insurgente á sitt vald eftir sjóorrustu í Karíbahafi, meðan á svonefndu hálfstríði Bandaríkjanna og Frakklands stóð.",
+    "heimild": "https://en.wikipedia.org/wiki/Quasi-War",
+    "breidd": 330,
+    "haed": 261
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

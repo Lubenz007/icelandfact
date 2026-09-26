@@ -1,0 +1,148 @@
+{
+  "mmdd": "01-25",
+  "dagur": 25,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:29",
+  "sunset": "16:51",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 25. janúar fljúgum við með Nellie Bly kringum hnöttinn, skoppum niður í gíg á Mars og endum í íslenskri vetrarsögu — allt án þess að týna farangrinum. Spennið beltin; sagan kann sjaldnast að aka hægt.",
+  "nafnadagur": "Páll",
+  "atburdir": [
+    {
+      "ar": "1533",
+      "texti": "Hinrik 8. Englandskonungur gekk leynilega að eiga Önnu Boleyn, sem var þá barnshafandi að Elísabetu, síðar Englandsdrottningu. Þetta var annað hjónaband Hinriks af sex og rólegheitin urðu ekki langlíf."
+    },
+    {
+      "ar": "1792",
+      "texti": "Thomas Hardy stofnaði London Corresponding Society til að berjast fyrir róttækum umbótum á breska þinginu. Félagið hafði síðar áhrif á umbótahreyfingar 19. aldar."
+    },
+    {
+      "ar": "1890",
+      "texti": "Bandaríska blaðakonan Nellie Bly lauk hnattferð sinni á aðeins 72 dögum, sem var þá nýtt met. Hún sýndi um leið að ferðasögur þurftu hvorki að vera hægfara né skrifaðar af herramönnum með yfirvaraskegg."
+    },
+    {
+      "ar": "2004",
+      "texti": "Marsjeppinn Opportunity lenti á Mars og hafnaði í Eagle-gíg á Meridiani Planum. Lendingin var glæsileg byrjun á rannsóknarleiðangri um rauðu reikistjörnuna."
+    },
+    {
+      "ar": "2011",
+      "texti": "Egypska byltingin hófst með fjölmennum mótmælum á svonefndum reiðidegi. Mótmælin leiddu að lokum til þess að Hosni Mubarak hrökklaðist frá eftir nærri þrjátíu ár við völd."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1551",
+      "texti": "Norðlenskir vermenn á Suðurnesjum drápu Kristján skrifara og þrettán aðra menn á Kirkjubóli á Miðnesi, í einum blóðugasta eftirmála siðaskiptanna á Íslandi.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1732",
+      "texti": "Snjóflóð féll á bæinn Brimnes við Seyðisfjörð. Níu manns fórust en níu komust lífs af.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1990",
+      "texti": "Skógrækt ríkisins var flutt til Egilsstaða og varð þar með fyrsta ríkisstofnunin sem flutt var út á land.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "2011",
+      "texti": "Hæstiréttur Íslands ógilti kosningarnar til stjórnlagaþings árið 2010 vegna galla á framkvæmd þeirra.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alicia Keys",
+      "starfsgrein": "söngkona, lagahöfundur og píanóleikari",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Adama Traoré",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Ana Ortiz",
+      "starfsgrein": "leikkona",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Antônio Carlos Jobim",
+      "starfsgrein": "tónskáld, söngvari og píanóleikari",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Aino Aalto",
+      "starfsgrein": "arkitekt og hönnuður",
+      "ar": "1894"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Kristín Jónsdóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1888"
+    },
+    {
+      "nafn": "Sighvatur Bjarnason",
+      "starfsgrein": "bankastjóri og bæjarfulltrúi",
+      "ar": "1859"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu lengi var Nellie Bly að ferðast kringum hnöttinn?",
+      "svor": [
+        "72 daga",
+        "80 daga",
+        "96 daga",
+        "120 daga"
+      ],
+      "rett": 0,
+      "skyring": "Nellie Bly lauk ferðinni á 72 dögum og skaut þar með skáldsögulegu áttatíu dögunum ref fyrir rass."
+    },
+    {
+      "spurning": "Hvaða geimfar lenti á Mars 25. janúar 2004?",
+      "svor": [
+        "Voyager 1",
+        "Opportunity",
+        "Cassini",
+        "Hubble"
+      ],
+      "rett": 1,
+      "skyring": "Opportunity lenti í Eagle-gíg og hóf þar afar farsælan Marsleiðangur."
+    },
+    {
+      "spurning": "Hvaða ríkisstofnun var árið 1990 fyrst flutt út á land?",
+      "svor": [
+        "Hagstofa Íslands",
+        "Þjóðskjalasafn Íslands",
+        "Skógrækt ríkisins",
+        "Veðurstofa Íslands"
+      ],
+      "rett": 2,
+      "skyring": "Skógrækt ríkisins flutti til Egilsstaða — stofnunin bókstaflega færði sig nær skóginum."
+    }
+  ],
+  "tonlistUSA": "How Am I Supposed to Live Without You – Michael Bolton (1990)",
+  "tonlistUK": "West End Girls – Pet Shop Boys (1986)",
+  "bio": "Avatar (2009)",
+  "ord_dagsins": {
+    "ord": "vetrarþreyja",
+    "skyring": "Vetrarþreyja er sú langlundargeðja þrautseigja sem þarf til að komast af í vetrarhörkum."
+  },
+  "vissir_thu": "Marsjeppinn Opportunity lenti í litlum gíg sem nefndur er Eagle-gígur á sléttunni Meridiani Planum.",
+  "stjornuspa": "Vatnsberi, í dag skaltu treysta frumlegu hugmyndinni sem aðrir kalla dálítið skrýtna — það er yfirleitt þar sem gullið leynist. Forðastu þó að hefja sex hjónabönd eða hnattferð áður en þú hefur drukkið morgunkaffið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/AnneBoleynHever.jpg/500px-AnneBoleynHever.jpg",
+    "ar": "1533",
+    "texti": "Hinrik 8. Englandskonungur gekk leynilega að eiga Önnu Boleyn, sem var þá barnshafandi að Elísabetu, síðar Englandsdrottningu. Þetta var annað hjónaband Hinriks af sex og rólegheitin urðu ekki langlíf.",
+    "heimild": "https://en.wikipedia.org/wiki/Anne_Boleyn",
+    "breidd": 330,
+    "haed": 441
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

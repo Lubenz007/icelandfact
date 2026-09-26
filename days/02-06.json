@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-06",
+  "dagur": 6,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:53",
+  "sunset": "17:31",
+  "kvedja": "Góðan 6. febrúar! Í dag siglum við frá Sasanídaveldi til Singapúr, komum við á Möðruvöllum og blásum að lokum á afmæliskerti Bob Marley — enda kann sagan vel við fjölbreytt ferðalag. Hafðu daginn hlýjan, þótt febrúar sýni líklega sitt kunnuglega frostglott.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "590",
+      "texti": "Bræðurnir Vistahm og Vinduyih steyptu mági sínum, Hormizd 4., konungi konunganna í Sasanídaveldinu, af stóli. Fjölskylduboð hafa sjálfsagt verið eilítið stirð eftir það."
+    },
+    {
+      "ar": "1819",
+      "texti": "Breski embættismaðurinn Stamford Raffles samdi við Hussein Shah, soldán af Johor, um að koma upp verslunarstöð Austur-Indíafélagsins í Singapúr. Þar var lagður mikilvægur grunnur að einni helstu viðskiptaborg Asíu."
+    },
+    {
+      "ar": "1922",
+      "texti": "Fulltrúar Frakklands, Ítalíu, Japans, Bandaríkjanna og Bretlands undirrituðu Washington-flotasamninginn og samþykktu takmarkanir á smíði herskipa. Hugmyndin var að hægja á vígbúnaðarkapphlaupi áður en flotarnir yrðu stærri en skynsemin."
+    },
+    {
+      "ar": "1958",
+      "texti": "Flugvél Manchester United fórst í flugtaki á München-Riem-flugvelli í Vestur-Þýskalandi. Alls létust 23, þar af átta leikmenn liðsins, og slysið markaði djúp spor í sögu knattspyrnunnar."
+    },
+    {
+      "ar": "1987",
+      "texti": "Mary Gaudron varð fyrsta konan sem skipuð var dómari við Hæstarétt Ástralíu. Þar með brast loks aldagamalt glerþak í einni mikilvægustu stofnun landsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1481",
+      "texti": "Sixtus 4. páfi svaraði Magnúsi Eyjólfssyni Skálholtsbiskupi og úrskurðaði að á föstunni mætti borða þann sævarfisk sem almennt væri kallaður selur. Flokkunarfræði miðalda gat greinilega verið einkar matarmikil.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1826",
+      "texti": "Eldur kom upp á Möðruvöllum í Hörgárdal; þrjú hús brunnu og mikið af skjölum fórst. Þar glötuðust því bæði húsakynni og ómetanleg brot úr minni staðarins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1977",
+      "texti": "Fjölbrautaskóli Vesturlands á Akranesi var stofnaður. Skólinn varð mikilvæg menntastofnun á Vesturlandi — og væntanlega vettvangur ófárra prófkvíðakasta.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1999",
+      "texti": "Vinstrihreyfingin – grænt framboð var stofnuð og nýr stjórnmálaflokkur steig inn á landsvöllinn með áherslu á félagsleg málefni og umhverfisvernd.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Babe Ruth",
+      "starfsgrein": "hafnaboltaleikari og þjálfari",
+      "ar": "1895"
+    },
+    {
+      "nafn": "Bob Marley",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Aaron Burr",
+      "starfsgrein": "hermaður og stjórnmálamaður",
+      "ar": "1756"
+    },
+    {
+      "nafn": "Adam Weishaupt",
+      "starfsgrein": "heimspekingur og stofnandi Illuminati",
+      "ar": "1748"
+    },
+    {
+      "nafn": "Akira Yamaoka",
+      "starfsgrein": "tónskáld og upptökustjóri",
+      "ar": "1968"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Magnús Guðmundsson",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra",
+      "ar": "1879"
+    },
+    {
+      "nafn": "Björn Þórðarson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1879"
+    },
+    {
+      "nafn": "Sigfús Sigurhjartarson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg varð að breskri verslunarstöð árið 1819 fyrir tilstilli Stamford Raffles?",
+      "svor": [
+        "Singapúr",
+        "Manila",
+        "Tókýó",
+        "Kalkútta"
+      ],
+      "rett": 0,
+      "skyring": "Singapúr var svarið — lítil verslunarstöð sem átti heldur betur eftir að vaxa úr grasi."
+    },
+    {
+      "spurning": "Hvaða óvenjulega dýr taldi páfi að Íslendingar mættu borða sem „sævarfisk“ á föstunni?",
+      "svor": [
+        "Hval",
+        "Sel",
+        "Lunda",
+        "Hross"
+      ],
+      "rett": 1,
+      "skyring": "Selurinn fékk að synda inn á föstumatseðilinn undir býsna rausnarlegri skilgreiningu á fiski."
+    },
+    {
+      "spurning": "Hver afmælisbarna dagsins stofnaði Illuminati?",
+      "svor": [
+        "Aaron Burr",
+        "Babe Ruth",
+        "Adam Weishaupt",
+        "Bob Marley"
+      ],
+      "rett": 2,
+      "skyring": "Adam Weishaupt stofnaði Illuminati; Babe Ruth hélt sig hins vegar að mestu við hafnaboltann."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Needles and Pins – The Searchers (1964)",
+  "bio": "The Lego Movie (2014)",
+  "ord_dagsins": {
+    "ord": "skjaldborg",
+    "skyring": "Skjaldborg er þétt varnarskipan þar sem skjöldum er raðað saman, en orðið er einnig notað í yfirfærðri merkingu um öfluga vernd."
+  },
+  "vissir_thu": "Mary Gaudron, sem varð fyrsta konan við Hæstarétt Ástralíu árið 1987, var aðeins 43 ára þegar hún tók sæti í réttinum.",
+  "stjornuspa": "Vatnsberi, dagurinn kallar á djörf áform, en ekki byggja herskipaflota áður en þú hefur lesið smáa letrið. Gömul hugmynd gæti orðið að framtíðarlausn ef þú dustar af henni rykið og býður henni kaffibolla.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Coin_of_Vistahm%2C_minted_at_Ray_in_595_or_596.jpg/330px-Coin_of_Vistahm%2C_minted_at_Ray_in_595_or_596.jpg",
+    "ar": "590",
+    "texti": "Bræðurnir Vistahm og Vinduyih steyptu mági sínum, Hormizd 4., konungi konunganna í Sasanídaveldinu, af stóli. Fjölskylduboð hafa sjálfsagt verið eilítið stirð eftir það.",
+    "heimild": "https://en.wikipedia.org/wiki/Vistahm",
+    "breidd": 330,
+    "haed": 311
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

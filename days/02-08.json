@@ -1,0 +1,143 @@
+{
+  "mmdd": "02-08",
+  "dagur": 8,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:47",
+  "sunset": "17:38",
+  "kvedja": "Góðan 8. febrúar, kæri lesandi! Í dag sveiflum við okkur frá krossferðum og konunglegri aftöku yfir á stjörnusteina Hollywood og dularfullt hvarf veðhlaupahests — sagan kann sannarlega að skipta um gír. Haltu fast í kaffibollann; fortíðin er komin á harðasprett.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1250",
+      "texti": "Í sjöundu krossferðinni sigraði Ajjúbídaveldið í Egyptalandi her Loðvíks 9. Frakkakonungs við Fariskur og tók konunginn sjálfan höndum. Það telst sjaldnast glæsilegur endir á herför þegar þjóðhöfðinginn verður stríðsfangi."
+    },
+    {
+      "ar": "1587",
+      "texti": "María Skotadrottning var tekin af lífi í Fotheringhay-kastala vegna aðildar sinnar að Babington-samsærinu gegn Elísabetu 1. Englandsdrottningu. Þar lauk einum dramatískasta kafla evrópskrar hirðsögu — með öxi fremur en punktum."
+    },
+    {
+      "ar": "1693",
+      "texti": "Vilhjálmur 3. og María 2. veittu College of William & Mary stofnskrá. Skólinn varð síðar næstelsti háskóli Bandaríkjanna."
+    },
+    {
+      "ar": "1960",
+      "texti": "Fyrsta skóflustungan að Hollywood Walk of Fame var tekin í Los Angeles. Síðan hafa stjörnurnar þar orðið fleiri en sjálfsmyndavélarnar í grenndinni — þótt mjótt sé á mununum."
+    },
+    {
+      "ar": "1983",
+      "texti": "Vopnaðir menn rændu írska veðhlaupahestinum Shergar og kröfðust tveggja milljóna punda lausnargjalds. Hvarfið varð eitt dularfyllsta sakamál írskrar sögu og hesturinn fannst aldrei."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1696",
+      "texti": "Mikið óveður gekk yfir Norður- og Vesturland og urðu fimmtán manns úti. Frá þessum hörmungum er sagt í Hestsannál.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1925",
+      "texti": "Halaveðrið kostaði fjölda mannslífa: togararnir Leifur heppni og Robertson fórust á Halamiðum með 68 mönnum, auk þess sem vélbátur fórst með sex mönnum og fimm urðu úti.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1980",
+      "texti": "Ríkisstjórn Gunnars Thoroddsen tók við völdum. Hún sat í þrjú ár og þótti stofnun hennar óvenjulegur kafli í íslenskri stjórnmálasögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2012",
+      "texti": "Verne Global, fyrsta „græna“ gagnaverið í heiminum, var tekið í notkun á Ásbrú. Það var jafnframt fyrsta atvinnuskapandi verkefnið sem fór af stað á Suðurnesjum eftir bankahrunið.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Anderson .Paak",
+      "starfsgrein": "söngvari, rappari og upptökustjóri",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Bethany Hamilton",
+      "starfsgrein": "brimbrettakona",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Alonzo Mourning",
+      "starfsgrein": "körfuknattleiksmaður og stjórnandi",
+      "ar": "1970"
+    },
+    {
+      "nafn": "Alessia Russo",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Benigno Aquino III",
+      "starfsgrein": "stjórnmálamaður og forseti Filippseyja",
+      "ar": "1960"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðrún Jónasson",
+      "starfsgrein": "bæjarfulltrúi og verslunareigandi",
+      "ar": "1877"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fræga veðhlaupahesti rændu vopnaðir menn árið 1983?",
+      "svor": [
+        "Shergar",
+        "Seabiscuit",
+        "Secretariat",
+        "Red Rum"
+      ],
+      "rett": 0,
+      "skyring": "Shergar hvarf sporlaust og ráðgátan hefur aldrei verið leyst."
+    },
+    {
+      "spurning": "Hvar var María Skotadrottning tekin af lífi árið 1587?",
+      "svor": [
+        "Windsor-kastala",
+        "Fotheringhay-kastala",
+        "Edinborgarkastala",
+        "Tower of London"
+      ],
+      "rett": 1,
+      "skyring": "María var hálshöggvin í Fotheringhay-kastala eftir langa fangavist."
+    },
+    {
+      "spurning": "Hvaða ríkisstjórn tók við völdum á Íslandi 8. febrúar 1980?",
+      "svor": [
+        "Ríkisstjórn Ólafs Jóhannessonar",
+        "Ríkisstjórn Geirs Hallgrímssonar",
+        "Ríkisstjórn Gunnars Thoroddsen",
+        "Ríkisstjórn Steingríms Hermannssonar"
+      ],
+      "rett": 2,
+      "skyring": "Ríkisstjórn Gunnars Thoroddsen tók við og sat næstu þrjú árin."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Needles and Pins – The Searchers (1964)",
+  "bio": "The Lego Movie (2014)",
+  "ord_dagsins": {
+    "ord": "veðrahamur",
+    "skyring": "Veðrahamur er ofsafengið eða mjög vont veður, gjarnan með miklum vindi."
+  },
+  "vissir_thu": "College of William & Mary, sem fékk stofnskrá árið 1693, er næstelsti háskóli Bandaríkjanna á eftir Harvard.",
+  "stjornuspa": "Vatnsberi, dagurinn kallar á stórar hugmyndir, en skrifaðu þær niður áður en þær hverfa jafn dularfullt og Shergar. Gömul stjarna gæti vísað þér veginn — hvort sem hún er á himni eða gangstétt í Hollywood.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Seventh_crusade.jpg/500px-Seventh_crusade.jpg",
+    "ar": "1250",
+    "texti": "Í sjöundu krossferðinni sigraði Ajjúbídaveldið í Egyptalandi her Loðvíks 9. Frakkakonungs við Fariskur og tók konunginn sjálfan höndum. Það telst sjaldnast glæsilegur endir á herför þegar þjóðhöfðinginn verður stríðsfangi.",
+    "heimild": "https://en.wikipedia.org/wiki/Seventh_Crusade",
+    "breidd": 330,
+    "haed": 223
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

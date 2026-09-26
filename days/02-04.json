@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-04",
+  "dagur": 4,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:59",
+  "sunset": "17:24",
+  "kvedja": "Góðan 4. febrúar, kæri lesandi! Í dag siglum við með Bartolomeu Dias fyrir Góðrarvonarhöfða, lítum inn í ævafornt handrit og minnumst þess að sagan getur bæði opnað nýjar leiðir og skollið á eins og vestfirskt fárviðri. Haltu fast í kaffibollann — þetta verður viðburðaríkur dagur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "960",
+      "texti": "Taizu keisari komst til valda í Kína og hratt af stað Song-ættinni, sem átti eftir að ríkja í meira en þrjár aldir. Það verður að teljast býsna gott starfsöryggi fyrir eitt keisaraættarveldi."
+    },
+    {
+      "ar": "1488",
+      "texti": "Portúgalski sæfarinn Bartolomeu Dias kom að landi við Mossel Bay og varð fyrsti þekkti Evrópumaðurinn til að sigla suður fyrir Góðrarvonarhöfða. Þar með opnaðist sjóleið sem átti eftir að gjörbreyta viðskiptum á Indlandshafi."
+    },
+    {
+      "ar": "1859",
+      "texti": "Constantin von Tischendorf enduruppgötvaði Codex Sinaiticus í Sankti Katrínarklaustrinu í Egyptalandi. Handritið er grísk biblíuhandritsbók frá 4. öld og sannkallaður dýrgripur textasögunnar."
+    },
+    {
+      "ar": "1945",
+      "texti": "Bandarískar hersveitir frelsuðu Santo Tomas-fangabúðirnar í Manila, stærstu japönsku fangabúðirnar fyrir óbreytta borgara óvinaríkja á Filippseyjum."
+    },
+    {
+      "ar": "2015",
+      "texti": "TransAsia Airways-flug 235 hrapaði skömmu eftir flugtak frá Taipei Songshan-flugvelli eftir að áhöfnin slökkti á röngum hreyfli þegar hinn bilaði. Alls létust 43 í slysinu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1222",
+      "texti": "Menn Guðmundar Arasonar biskups komu að Hólum að næturlagi og drápu Tuma Sighvatsson. Sturlungaöldin kunni sannarlega ekki að banka kurteislega upp á.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1898",
+      "texti": "Lög voru sett um að holdsveikt fólk á Íslandi skyldi sæta sóttkví, þungur kafli í íslenskri heilbrigðis- og félagssögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1968",
+      "texti": "Fárviðri olli miklum mannskaða í Ísafjarðardjúpi: Heiðrún II og breski togarinn Ross Cleveland fórust, en varðskipið Óðinn bjargaði átján mönnum af Notts County við Snæfjallaströnd.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1991",
+      "texti": "Ísland varð fyrst ríkja til að viðurkenna sjálfstæði Litáens. Smáþjóð steig þar stórt og eftirminnilegt skref á alþjóðavettvangi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alice Cooper",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Charlie Barnett",
+      "starfsgrein": "leikari",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Betty Friedan",
+      "starfsgrein": "rithöfundur og femínisti",
+      "ar": "1921"
+    },
+    {
+      "nafn": "Rasmus Højlund",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Carl Michael Bellman",
+      "starfsgrein": "skáld og tónskáld",
+      "ar": "1740"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Petrína K. Jakobsson",
+      "starfsgrein": "bæjarfulltrúi",
+      "ar": "1910"
+    },
+    {
+      "nafn": "Þóra Gunnarsdóttir",
+      "starfsgrein": "prestfrú",
+      "ar": "1812"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða sæfari sigldi fyrstur þekktra Evrópumanna suður fyrir Góðrarvonarhöfða?",
+      "svor": [
+        "Bartolomeu Dias",
+        "Alice Cooper",
+        "Constantin von Tischendorf",
+        "Taizu keisari"
+      ],
+      "rett": 0,
+      "skyring": "Bartolomeu Dias náði þessum merka áfanga árið 1488, án þess þó að fá flugpunkta fyrir ferðina."
+    },
+    {
+      "spurning": "Hvaða ríki varð Ísland fyrst ríkja til að viðurkenna sem sjálfstætt árið 1991?",
+      "svor": [
+        "Eistland",
+        "Lettland",
+        "Litáen",
+        "Slóvenía"
+      ],
+      "rett": 2,
+      "skyring": "Ísland viðurkenndi sjálfstæði Litáens og skipaði sér þannig fremst í diplómatísku röðina."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt fyrir rokktónlist og sviðsnafnið Alice Cooper?",
+      "svor": [
+        "Charlie Barnett",
+        "Clint Black",
+        "Cam'ron",
+        "Alice Cooper"
+      ],
+      "rett": 3,
+      "skyring": "Alice Cooper fæddist árið 1948 og hefur lengi látið rokkið líta út fyrir að vera dálítið hættulegt."
+    }
+  ],
+  "tonlistUSA": "Karma Chameleon – Culture Club (1984)",
+  "tonlistUK": "Relax – Frankie Goes to Hollywood (1984)",
+  "bio": "Hrafninn flýgur (1984)",
+  "ord_dagsins": {
+    "ord": "kviðlingur",
+    "skyring": "Kviðlingur er stutt kvæði eða vísa, gjarnan ort af léttleika eða í gamansömum tilgangi."
+  },
+  "vissir_thu": "Codex Sinaiticus, sem Tischendorf enduruppgötvaði árið 1859, er grískt biblíuhandrit frá 4. öld.",
+  "stjornuspa": "Vatnsberi, í dag færðu hugmynd sem gæti annaðhvort breytt heiminum eða lagað skúffuna sem hefur staðið skökk síðan 1987. Skrifaðu hana niður með blekpenna og treystu engum sem vill skipta henni út fyrir faxtæki.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Song_Taizu.jpg/500px-Song_Taizu.jpg",
+    "ar": "960",
+    "texti": "Taizu keisari komst til valda í Kína og hratt af stað Song-ættinni, sem átti eftir að ríkja í meira en þrjár aldir. Það verður að teljast býsna gott starfsöryggi fyrir eitt keisaraættarveldi.",
+    "heimild": "https://en.wikipedia.org/wiki/Emperor_Taizu_of_Song",
+    "breidd": 330,
+    "haed": 370
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

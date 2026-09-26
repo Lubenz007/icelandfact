@@ -1,0 +1,153 @@
+{
+  "mmdd": "01-30",
+  "dagur": 30,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:15",
+  "sunset": "17:08",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn í 30. janúar, þar sem friðarsamningar, járnklædd herskip og uppgrafnir þjóðhöfðingjar deila dagatalssíðu. Haltu fast í kaffibollann — sagan hefur sjaldan verið sökuð um að kunna sér hóf.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1018",
+      "texti": "Hinrik 2. keisari og Bolesław 1., stjórnandi Póllands af Piast-ætt, undirrituðu friðinn í Bautzen og bundu enda á stríð Þjóðverja og Pólverja. Penninn fékk þar loksins að taka við af sverðinu."
+    },
+    {
+      "ar": "1661",
+      "texti": "Líkamsleifar Olivers Cromwells voru grafnar upp tveimur árum eftir dauða hans og teknar af lífi með táknrænum hætti. Höfuð hans var síðan sett á stöng við Westminster Hall og var þar til 1685 — óvenju langvinn pólitísk eftirmál."
+    },
+    {
+      "ar": "1862",
+      "texti": "Bandaríski sjóherinn sjósetti USS Monitor, fyrsta járnklædda herskip Bandaríkjanna. Þar með var ljóst að timburskipin ættu brátt undir högg að sækja."
+    },
+    {
+      "ar": "1948",
+      "texti": "Mahatma Gandhi, pólitískur og andlegur leiðtogi sjálfstæðisbaráttu Indlands, var skotinn til bana af Nathuram Godse í Birla House í Delí."
+    },
+    {
+      "ar": "2020",
+      "texti": "Alþjóðaheilbrigðismálastofnunin lýsti COVID-19-faraldrinum alþjóðlegt neyðarástand á sviði lýðheilsu. Heimurinn var þá rétt að byrja að átta sig á því hve afdrifaríkur faraldurinn yrði."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1893",
+      "texti": "Stefanía Guðmundsdóttir steig fyrst á svið í smáleikritunum Á þriðja sal og Betzy og hóf þar með eftirminnilegan leiklistarferil.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1938",
+      "texti": "Sveitarstjórnarkosningar fóru fram á Íslandi; kjósendur lögðu sitt af mörkum til þess eilífa leikrits sem nefnist sveitarstjórnarpólitík.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1971",
+      "texti": "Frostið í Reykjavík mældist 19,7 stig, það mesta þar síðan 1918. Þetta var dagur fyrir ull, lopapeysu og helst aðra lopapeysu utan yfir.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1988",
+      "texti": "Listasafn Íslands var opnað í gamla íshúsinu við Tjörnina í Reykjavík, þar sem myndlistin fékk glæsilegt skjól í húsi sem áður hafði geymt allt annars konar kulda.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amelia Dimoldenberg",
+      "starfsgrein": "grínisti, höfundur og sjónvarpskona",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Abdullah II of Jordan",
+      "starfsgrein": "konungur Jórdaníu",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Ann Dowd",
+      "starfsgrein": "leikkona",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Becky Lynch",
+      "starfsgrein": "fjölbragðaglímukona",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Boris Spassky",
+      "starfsgrein": "stórmeistari í skák",
+      "ar": "1937"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björg Caritas Þorláksson",
+      "starfsgrein": "lífeðlisfræðingur",
+      "ar": "1874"
+    },
+    {
+      "nafn": "Björn Bjarnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Sigfús Einarsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1877"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða herskip var sjósett 30. janúar 1862?",
+      "svor": [
+        "USS Monitor",
+        "HMS Victory",
+        "Bismarck",
+        "USS Constitution"
+      ],
+      "rett": 0,
+      "skyring": "USS Monitor var fyrsta járnklædda herskip Bandaríkjanna."
+    },
+    {
+      "spurning": "Hversu mikið frost mældist í Reykjavík 30. janúar 1971?",
+      "svor": [
+        "12,4 stig",
+        "16,1 stig",
+        "19,7 stig",
+        "23,5 stig"
+      ],
+      "rett": 2,
+      "skyring": "Frostið náði 19,7 stigum, svo vettlingarnir hafa líklega fengið yfirvinnu."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins er stórmeistari í skák?",
+      "svor": [
+        "Ann Dowd",
+        "Boris Spassky",
+        "Abdullah II of Jordan",
+        "Amelia Dimoldenberg"
+      ],
+      "rett": 1,
+      "skyring": "Boris Spassky var rússneskur stórmeistari og eitt kunnasta nafn skáksögunnar."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1993)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "óáran",
+    "skyring": "Óáran merkir erfitt eða óheillavænlegt tíðarfar, ástand eða tímabil."
+  },
+  "vissir_thu": "Höfuð Olivers Cromwells var haft á stöng yfir Westminster Hall eftir að lík hans hafði verið grafið upp og tekið af lífi með táknrænum hætti.",
+  "stjornuspa": "Vatnsberinn finnur í dag gamla hugmynd í hugarfylgsnunum og ákveður að hún sé annaðhvort snilld eða stórhættuleg — líklega hvort tveggja. Farðu djarflega, en mundu að jafnvel byltingarmenn þurfa að svara tölvupósti.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kronung_Heinrich_II.jpg/500px-Kronung_Heinrich_II.jpg",
+    "ar": "1018",
+    "texti": "Hinrik 2. keisari og Bolesław 1., stjórnandi Póllands af Piast-ætt, undirrituðu friðinn í Bautzen og bundu enda á stríð Þjóðverja og Pólverja. Penninn fékk þar loksins að taka við af sverðinu.",
+    "heimild": "https://en.wikipedia.org/wiki/Henry_II,_Holy_Roman_Emperor",
+    "breidd": 330,
+    "haed": 422
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

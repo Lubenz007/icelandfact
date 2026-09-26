@@ -1,0 +1,153 @@
+{
+  "mmdd": "01-23",
+  "dagur": 23,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:35",
+  "sunset": "16:44",
+  "kvedja": "Góðan 23. janúar, kæri lesandi! Í dag sveiflast sagan frá keisarastóli Mingættarinnar yfir í fyrsta vinsæla vafrann, með viðkomu hjá frisbídisknum og Heimaeyjargosinu — býsna drjúg dagskrá fyrir einn vetrardag. Haltu fast í kaffibollann; sagan kann að taka óvænta beygju.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1368",
+      "texti": "Hongwu-keisarinn settist á valdastól og stofnaði Mingættina, sem átti eftir að ríkja í Kína í þrjár aldir. Það er heldur lengri setutími en flest ríkisstjórnarumboð endast."
+    },
+    {
+      "ar": "1556",
+      "texti": "Einn mannskæðasti jarðskjálfti sögunnar reið yfir Shaanxi í Kína og kostaði að minnsta kosti 100.000 manns lífið þegar í stað."
+    },
+    {
+      "ar": "1849",
+      "texti": "Elizabeth Blackwell lauk læknaprófi frá Geneva Medical College í New York og varð fyrst kvenna til að hljóta læknagráðu í Bandaríkjunum."
+    },
+    {
+      "ar": "1957",
+      "texti": "Uppfinningamaðurinn Fred Morrison seldi Wham-O réttinn að „fljúgandi diski“ sínum. Fyrirtækið nefndi leikfangið síðar Frisbee og garðar heimsins urðu aldrei samir."
+    },
+    {
+      "ar": "1993",
+      "texti": "Fyrsta útgáfan af Mosaic, gerð af Marc Andreessen og Eric Bina, kom út og varð fyrsti vinsæli vafrinn. Veraldarvefurinn var þar með orðinn ögn aðgengilegri almenningi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1741",
+      "texti": "Sjö manns fórust í húsbruna á Hvítárvöllum í Borgarfirði.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1907",
+      "texti": "Jón forseti, fyrsti togarinn sem smíðaður var sérstaklega fyrir Íslendinga, kom til Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Eldgos hófst á Heimaey og markaði upphaf Heimaeyjargossins, eins dramatískasta kafla íslenskrar byggðasögu á 20. öld.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1979",
+      "texti": "Fyrsti reyklausi dagurinn var haldinn á Íslandi og þjóðin hvött til að leggja tóbakið til hliðar.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "John Hancock",
+      "starfsgrein": "herforingi og stjórnmálamaður",
+      "ar": "1737"
+    },
+    {
+      "nafn": "Bob Paisley",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1919"
+    },
+    {
+      "nafn": "Anita Pointer",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Andrei Kanchelskis",
+      "starfsgrein": "knattspyrnumaður og knattspyrnuþjálfari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Andrija Mohorovičić",
+      "starfsgrein": "veðurfræðingur og jarðskjálftafræðingur",
+      "ar": "1857"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Helena Eyjólfsdóttir",
+      "starfsgrein": "söngkona",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Sir William Stephenson",
+      "starfsgrein": "íslensk-kanadískur athafnamaður, hugvitsmaður og njósnari",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Jakob Guðjohnsen",
+      "starfsgrein": "verkfræðingur",
+      "ar": "1899"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða vafri kom fyrst út 23. janúar 1993 og varð sá fyrsti sem náði almennum vinsældum?",
+      "svor": [
+        "Mosaic",
+        "Safari",
+        "Firefox",
+        "Opera"
+      ],
+      "rett": 0,
+      "skyring": "Mosaic opnaði mörgum dyrnar að veraldarvefnum áður en flipaflóðið tók við."
+    },
+    {
+      "spurning": "Hvar hófst eldgos á Íslandi 23. janúar 1973?",
+      "svor": [
+        "Í Grímsey",
+        "Á Heimaey",
+        "Í Viðey",
+        "Á Flatey"
+      ],
+      "rett": 1,
+      "skyring": "Heimaeyjargosið hófst þennan dag og hafði gríðarleg áhrif á Vestmannaeyjar."
+    },
+    {
+      "spurning": "Hvað seldi Fred Morrison leikfangafyrirtækinu Wham-O árið 1957?",
+      "svor": [
+        "Réttinn að húllahring",
+        "Réttinn að vatnsbyssu",
+        "Réttinn að fljúgandi diski",
+        "Réttinn að hoppukasti"
+      ],
+      "rett": 2,
+      "skyring": "Fljúgandi diskurinn fékk síðar nafnið Frisbee og hefur síðan villt ótal hunda um völl og grund."
+    }
+  ],
+  "tonlistUSA": "The Way You Make Me Feel – Michael Jackson (1988)",
+  "tonlistUK": "Heaven Is a Place on Earth – Belinda Carlisle (1988)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Gluggaveður er veður sem virðist indælt séð inn um glugga en reynist mun óblíðara þegar út er komið."
+  },
+  "vissir_thu": "Sir William Stephenson var íslensk-kanadískur njósnari og hefur verið talinn ein helsta fyrirmyndin að James Bond.",
+  "stjornuspa": "Vatnsberi, dagurinn kallar á nýjar hugmyndir, en ekki setja þær allar á glærur með snúningsáhrifum eins og árið sé 1998. Gamall vinur eða gleymt kassettuband gæti vakið nostalgíu — annað þeirra er líklegra til að virka enn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Portrait_assis_de_l%27empereur_Ming_Taizu.jpg/500px-Portrait_assis_de_l%27empereur_Ming_Taizu.jpg",
+    "ar": "1368",
+    "texti": "Hongwu-keisarinn settist á valdastól og stofnaði Mingættina, sem átti eftir að ríkja í Kína í þrjár aldir. Það er heldur lengri setutími en flest ríkisstjórnarumboð endast.",
+    "heimild": "https://en.wikipedia.org/wiki/Hongwu_Emperor",
+    "breidd": 330,
+    "haed": 537
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

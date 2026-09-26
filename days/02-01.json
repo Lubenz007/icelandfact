@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-01",
+  "dagur": 1,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:09",
+  "sunset": "17:14",
+  "kvedja": "Góðan dag og gleðilegan 1. febrúar! Í dag krýnum við ungan konung, flettum upp í orðabók, minnumst stórra skrefa í íslenskri sjálfstjórn og reynum að halda geimferjum heilum á heimleiðinni — febrúar byrjar sem sagt ekki á neinu hálfkáki.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1327",
+      "texti": "Játvarður 3. var krýndur konungur Englands aðeins fjórtán ára. Móðir hans, Ísabella drottning, og elskhugi hennar, Roger Mortimer, fóru þó í reynd með völdin — ungi konungurinn fékk kórónuna en ekki lyklana að skrifstofunni."
+    },
+    {
+      "ar": "1662",
+      "texti": "Eftir níu mánaða umsátur um Sjálandsvirki knúði Zheng Chenggong, betur þekktur sem Koxinga, Hollenska Austur-Indíafélagið til uppgjafar. Þar með lauk yfirráðum Hollendinga á Tævan."
+    },
+    {
+      "ar": "1884",
+      "texti": "Fyrsti hluti Oxford English Dictionary kom út, 352 blaðsíður sem náðu frá bókstafnum A að orðinu „ant“. Orðabókin hóf því göngu sína af miklum metnaði en komst í fyrstu ekki lengra en að maurnum."
+    },
+    {
+      "ar": "1960",
+      "texti": "Fjórir svartir háskólanemar settust við hádegisverðarborð Woolworth-verslunar í Greensboro í Norður-Karólínu og mótmæltu kynþáttaaðskilnaði. Setuverkfallið varð upphaf meira en fimm mánaða mótmæla og mikilvægt tákn bandarísku borgararéttindahreyfingarinnar."
+    },
+    {
+      "ar": "2003",
+      "texti": "Geimferjan Columbia sundraðist yfir Texas þegar hún var að koma inn í lofthjúp jarðar. Öll sjö í áhöfninni létust og slysið varð eitt hið svartasta í sögu geimferða."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1904",
+      "texti": "Heimastjórnartímabilið hófst þegar Hannes Hafstein varð fyrsti ráðherra Íslands með búsetu á Íslandi. Stjórnsýslan færðist þar með nær þjóðinni, bæði í bókstaflegri og pólitískri merkingu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1930",
+      "texti": "Kvenfélagasamband Íslands var stofnað í Reykjavík og varð öflugur vettvangur kvenfélaga um land allt.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1935",
+      "texti": "Áfengisbanninu á Íslandi var aflétt eftir tuttugu ár og einn mánuð. Bannið hafði gilt frá 1. janúar 1915, svo landsmenn höfðu haft nægan tíma til að velta málinu fyrir sér yfir vatnsglasi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Viðlagasjóður var stofnaður til að bæta tjón vegna eldgossins í Vestmannaeyjum. Sjóðurinn varð hluti af umfangsmiklum viðbrögðum þjóðarinnar við Heimaeyjargosinu.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brandon Lee",
+      "starfsgrein": "leikari og bardagalistamaður",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Boris Yeltsin",
+      "starfsgrein": "stjórnmálamaður og fyrsti forseti Rússlands",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Bill Mumy",
+      "starfsgrein": "leikari, rithöfundur og tónlistarmaður",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Brian Krause",
+      "starfsgrein": "leikari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Andrew VanWyngarden",
+      "starfsgrein": "söngvari, lagahöfundur og tónlistarmaður",
+      "ar": "1983"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björn Jón Bragason",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Eiríkur Magnússon",
+      "starfsgrein": "bókavörður og fræðimaður",
+      "ar": "1833"
+    },
+    {
+      "nafn": "Valdimar Briem",
+      "starfsgrein": "vígslubiskup og sálmaskáld",
+      "ar": "1848"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hversu gamall var Játvarður 3. þegar hann var krýndur konungur Englands?",
+      "svor": [
+        "Fjórtán ára",
+        "Sextán ára",
+        "Tuttugu ára",
+        "Tuttugu og fimm ára"
+      ],
+      "rett": 0,
+      "skyring": "Játvarður var aðeins fjórtán ára og því varla kominn með aldur til að kvarta yfir fundadagatali hirðarinnar."
+    },
+    {
+      "spurning": "Hver varð fyrsti ráðherra Íslands með búsetu á Íslandi árið 1904?",
+      "svor": [
+        "Jón Sigurðsson",
+        "Hannes Hafstein",
+        "Tryggvi Gunnarsson",
+        "Vilmundur Jónsson"
+      ],
+      "rett": 1,
+      "skyring": "Hannes Hafstein tók við embættinu og heimastjórnartímabilið gekk í garð."
+    },
+    {
+      "spurning": "Hvað hét geimferjan sem fórst við endurkomu til jarðar 1. febrúar 2003?",
+      "svor": [
+        "Challenger",
+        "Discovery",
+        "Atlantis",
+        "Columbia"
+      ],
+      "rett": 3,
+      "skyring": "Columbia sundraðist yfir Texas og öll sjö í áhöfninni létust."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Needles and Pins – The Searchers (1964)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "orrahrið",
+    "skyring": "Orrahrið er snöggt og ákaft hret eða veðurkast, gjarnan með mikilli snjókomu."
+  },
+  "vissir_thu": "Fyrsti útgefni hluti Oxford English Dictionary var 352 blaðsíður en náði aðeins frá A að orðinu „ant“.",
+  "stjornuspa": "Vatnsberi, dagurinn kallar á nýjar hugmyndir, en skrifaðu þær helst niður áður en þær hverfa eins og stuttbylgjusending út í þokuna. Gömul kynni gætu skotið upp kollinum; taktu þeim hlýlega, en lánaðu þeim ekki plötusafnið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg/500px-Edward_III_of_England_%28Order_of_the_Garter%29.jpg",
+    "ar": "1327",
+    "texti": "Játvarður 3. var krýndur konungur Englands aðeins fjórtán ára. Móðir hans, Ísabella drottning, og elskhugi hennar, Roger Mortimer, fóru þó í reynd með völdin — ungi konungurinn fékk kórónuna en ekki lyklana að skrifstofunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Edward_III",
+    "breidd": 330,
+    "haed": 448
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,153 @@
+{
+  "mmdd": "01-21",
+  "dagur": 21,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:40",
+  "sunset": "16:38",
+  "kvedja": "Komdu sæll, kæri lesandi, á þessum viðburðaríka 21. janúar. Í dag þeysumst við frá fallöxi frönsku byltingarinnar yfir í hljóðhraða Concorde og endum í íslensku fimbulfrosti — svo það er eins gott að halda á sér hita og húmor.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "763",
+      "texti": "Abbasídakalífadæmið braut á bak aftur uppreisn Alída þegar leiðtogi uppreisnarmanna særðist banvænt í orrustu nærri Basra, þar sem nú er Írak."
+    },
+    {
+      "ar": "1793",
+      "texti": "Loðvík 16. Frakklandskonungur var hálshöggvinn í París eftir að þjóðþingið hafði fundið hann sekan um landráð. Franska byltingin var ekki þekkt fyrir hálfkák."
+    },
+    {
+      "ar": "1919",
+      "texti": "Fyrsta írska þingið kom saman í Mansion House í Dyflinni og samþykkti sjálfstæðisyfirlýsingu þar sem stofnun írsks lýðveldis var boðuð."
+    },
+    {
+      "ar": "1976",
+      "texti": "Concorde hóf reglubundið farþegaflug frá London og París til Barein og Rio de Janeiro. Skyndilega varð hljóðhraðinn hluti af ferðapakkanum."
+    },
+    {
+      "ar": "2017",
+      "texti": "Milljónir manna tóku þátt í Kvennagöngunni í Washington og víða um heim og kröfðust aukinnar verndar mannréttinda og framfara í öðrum samfélagsmálum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1918",
+      "texti": "Mesta frost sem mælst hefur á Íslandi, −38°C, mældist á Grímsstöðum og í Möðrudal. Þar hefði kaffibollinn líklega beðið um lopapeysu.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1925",
+      "texti": "Mestu flóð og fárviðri sem gengið höfðu yfir Ísland í heila öld ollu miklu tjóni, meðal annars í Grindavík, á Eyrarbakka og í Reykjavík.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1982",
+      "texti": "Tveir björgunarmenn og tveir skipverjar fórust þegar belgíski togarinn Pelagus strandaði við Vestmannaeyjar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2009",
+      "texti": "Mótmæli fóru fram við Alþingi, Stjórnarráðið og Þjóðleikhúskjallarann; um kvöldið urðu hörð átök á Austurvelli og lögregla beitti táragasi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Artur Beterbiev",
+      "starfsgrein": "rússneskur hnefaleikamaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Billy Ocean",
+      "starfsgrein": "trínidadísk-breskur söngvari og lagahöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Alisha Lehmann",
+      "starfsgrein": "svissnesk knattspyrnukona",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Alex McLeish",
+      "starfsgrein": "skoskur knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Ashton Eaton",
+      "starfsgrein": "bandarískur tugþrautarmaður",
+      "ar": "1988"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnar Jónsson",
+      "starfsgrein": "leikari",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Davíð Stefánsson",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1895"
+    },
+    {
+      "nafn": "Óðinn Valdimarsson",
+      "starfsgrein": "söngvari",
+      "ar": "1937"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða franski konungur missti bæði krúnuna og höfuðið 21. janúar 1793?",
+      "svor": [
+        "Loðvík 14.",
+        "Loðvík 16.",
+        "Karl 10.",
+        "Napóleon 3."
+      ],
+      "rett": 1,
+      "skyring": "Loðvík 16. var hálshöggvinn í París eftir sakfellingu fyrir landráð."
+    },
+    {
+      "spurning": "Hvar mældist 38 stiga frost á Íslandi árið 1918?",
+      "svor": [
+        "Á Grímsstöðum og í Möðrudal",
+        "Í Grindavík og Keflavík",
+        "Á Eyrarbakka og Stokkseyri",
+        "Í Reykjavík og Hafnarfirði"
+      ],
+      "rett": 0,
+      "skyring": "Grímsstaðir og Möðrudalur skráðu þennan ískalda Íslandsmeistaratitil."
+    },
+    {
+      "spurning": "Hvaða hraðskreiða farþegaþota hóf reglubundið flug árið 1976?",
+      "svor": [
+        "Boeing 747",
+        "Airbus A300",
+        "Concorde",
+        "DeLorean DMC-12"
+      ],
+      "rett": 2,
+      "skyring": "Concorde flutti farþega á yfirhljóðshraða — DeLorean var hins vegar heldur óheppilegur flugkostur."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1993)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1993)",
+  "bio": "Titanic (1998)",
+  "ord_dagsins": {
+    "ord": "fimbulfrost",
+    "skyring": "Fimbulfrost er gríðarlega mikið og napurt frost."
+  },
+  "vissir_thu": "Concorde gat flogið hraðar en hljóðið og stytti þannig ferðatíma yfir Atlantshafið verulega.",
+  "stjornuspa": "Vatnsberinn finnur í dag hugmynd sem er svo nútímaleg að Concorde virðist sem hestvagn við hliðina á henni. Skrifaðu hana niður áður en Merkúr, kaffibollinn eða kötturinn ruglar plönin.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/500px-Abbasid_banner.svg.png",
+    "ar": "763",
+    "texti": "Abbasídakalífadæmið braut á bak aftur uppreisn Alída þegar leiðtogi uppreisnarmanna særðist banvænt í orrustu nærri Basra, þar sem nú er Írak.",
+    "heimild": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+    "breidd": 330,
+    "haed": 198
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

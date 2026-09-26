@@ -1,0 +1,148 @@
+{
+  "mmdd": "01-22",
+  "dagur": 22,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:38",
+  "sunset": "16:41",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 22. janúar mætast Zúlúhermenn, Macintosh-tölvan og íslenskt vetrarveður á síðum sögunnar — enda kann fortíðin sjaldnast að stilla sig um að hafa aðeins eitt járn í eldinum. Klæddu þig vel og mundu að jafnvel stórveldi geta lent í vandræðum, en kaffibollinn stendur yfirleitt sína vakt.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "565",
+      "texti": "Eutychius patríarki í Konstantínópel var handtekinn eftir að hafa neitað að hlýða Jústiníanusi 1. keisara og samþykkja kenningar Aphthartodocetae. Guðfræðilegur ágreiningur var greinilega ekkert kaffiboð í Býsans."
+    },
+    {
+      "ar": "1689",
+      "texti": "Samkomuþingið kom saman á Englandi til að ráða örlögum krúnunnar eftir að Jakob 2., síðasti kaþólski konungur landsins, flúði til Frakklands í kjölfar dýrlegu byltingarinnar."
+    },
+    {
+      "ar": "1879",
+      "texti": "Her Zúlúa undir stjórn Cetshwayo konungs vann afgerandi sigur á Bretum í orrustunni við Isandlwana í stríði Breta og Zúlúa."
+    },
+    {
+      "ar": "1924",
+      "texti": "Ramsay MacDonald tók við embætti sem fyrsti forsætisráðherra Bretlands úr Verkamannaflokknum og markaði þar með tímamót í breskum stjórnmálum."
+    },
+    {
+      "ar": "1984",
+      "texti": "Apple kynnti Macintosh-tölvuna fyrir heimsbyggðinni með hinni frægu „1984“-auglýsingu í Super Bowl XVIII. Grafíska notendaviðmótið varð loks aðgengilegt almenningi, sem gat nú bent og smellt í stað þess að ræða við tölvur á dulmáli."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1910",
+      "texti": "Öflugur jarðskjálfti, 7,1 stig, varð úti fyrir Öxarfirði. Þrátt fyrir kraftinn urðu litlar skemmdir, sem telst býsna kurteis framkoma af svo stórum skjálfta.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1918",
+      "texti": "Mesta frost sem mælst hefur á Íslandi mældist á Grímsstöðum á Fjöllum: 37,9 gráður undir frostmarki. Þar hefur enginn þurft að velta lengi fyrir sér hvort taka ætti húfuna með.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1962",
+      "texti": "Sæsímastrengurinn Scotice, sem tengdi Ísland og Skotland um Færeyjar, var tekinn í notkun og fjarskiptin við umheiminn færðust rækilega nær nútímanum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1983",
+      "texti": "Tvö snjóflóð féllu á Patreksfirði. Fjórir létust og margir íbúar misstu heimili sín.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Balthazar Getty",
+      "starfsgrein": "leikari og tónlistarmaður",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Francis Bacon",
+      "starfsgrein": "heimspekingur og stjórnmálamaður",
+      "ar": "1561"
+    },
+    {
+      "nafn": "Antonio Gramsci",
+      "starfsgrein": "heimspekingur og stjórnmálamaður",
+      "ar": "1891"
+    },
+    {
+      "nafn": "August Strindberg",
+      "starfsgrein": "rithöfundur og leikskáld",
+      "ar": "1849"
+    },
+    {
+      "nafn": "Angel Olsen",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1987"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðmundur J. Guðmundsson",
+      "starfsgrein": "verkalýðsforingi",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Jónas Þorbergsson",
+      "starfsgrein": "stjórnmálamaður og ritstjóri",
+      "ar": "1885"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fyrirtæki kynnti Macintosh-tölvuna með frægri auglýsingu árið 1984?",
+      "svor": [
+        "Apple",
+        "IBM",
+        "Nokia",
+        "Commodore"
+      ],
+      "rett": 0,
+      "skyring": "Apple kynnti Macintosh með auglýsingu sem sjálf varð að poppmenningarlegu kennileiti."
+    },
+    {
+      "spurning": "Hvar mældist 37,9 gráðu frost á Íslandi árið 1918?",
+      "svor": [
+        "Á Patreksfirði",
+        "Á Grímsstöðum á Fjöllum",
+        "Við Öxarfjörð",
+        "Í Helguvík"
+      ],
+      "rett": 1,
+      "skyring": "Metkuldi mældist á Grímsstöðum á Fjöllum, þar sem veturinn mætti til leiks af fullri alvöru."
+    },
+    {
+      "spurning": "Hver varð fyrsti forsætisráðherra Bretlands úr Verkamannaflokknum?",
+      "svor": [
+        "Francis Bacon",
+        "Winston Churchill",
+        "Ramsay MacDonald",
+        "August Strindberg"
+      ],
+      "rett": 2,
+      "skyring": "Ramsay MacDonald tók við embættinu árið 1924 og braut þar með blað í breskri stjórnmálasögu."
+    }
+  ],
+  "tonlistUSA": "Owner of a Lonely Heart – Yes (1984)",
+  "tonlistUK": "Pipes of Peace – Paul McCartney (1984)",
+  "bio": "Terms of Endearment (1983)",
+  "ord_dagsins": {
+    "ord": "afthvarf",
+    "skyring": "Afthvarf er skjól eða staður sem leitað er til undan hættu, ónæði eða erfiðleikum."
+  },
+  "vissir_thu": "Macintosh var fyrsta einkatölvan með grafísku notendaviðmóti sem náði verulegum viðskiptalegum árangri.",
+  "stjornuspa": "Vatnsberi, segulbandstækið í huganum vill spóla fram á við, en dagurinn ráðleggur þér að hlusta fyrst á B-hliðina. Óvænt hugmynd gæti reynst gulls ígildi, svo lengi sem þú reynir ekki að vista hana á diskling sem enginn getur lengur lesið.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Eutychius_of_Constantinople.jpg/330px-Eutychius_of_Constantinople.jpg",
+    "ar": "565",
+    "texti": "Eutychius patríarki í Konstantínópel var handtekinn eftir að hafa neitað að hlýða Jústiníanusi 1. keisara og samþykkja kenningar Aphthartodocetae. Guðfræðilegur ágreiningur var greinilega ekkert kaffiboð í Býsans.",
+    "heimild": "https://en.wikipedia.org/wiki/Eutychius_of_Constantinople",
+    "breidd": 330,
+    "haed": 501
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

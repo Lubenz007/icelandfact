@@ -1,0 +1,153 @@
+{
+  "mmdd": "02-05",
+  "dagur": 5,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:56",
+  "sunset": "17:28",
+  "kvedja": "Góðan 5. febrúar, kæri lesandi! Í dag förum við frá skjálfandi Pompeii yfir í gullmola á stærð við vænan kettling og loks að friðarsamningi sem lét bíða eftir sér í rúm tvö árþúsund. Sagan er stundum harmleikur, stundum furðulegur brandari og oft hvort tveggja í einu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "62",
+      "texti": "Öflugur jarðskjálfti olli miklu tjóni í Pompeii. Hann kann að hafa verið fyrirboði eldgossins í Vesúvíusi sem lagði bæinn í rúst 17 árum síðar."
+    },
+    {
+      "ar": "1597",
+      "texti": "Tuttugu og sex kaþólikkar, bæði evrópskir trúboðar og japanskir trúskiptingar, voru teknir af lífi nærri Nagasaki þegar bann Toyotomi Hideyoshi við kristni var framfylgt."
+    },
+    {
+      "ar": "1869",
+      "texti": "Gullleitarmenn í Moliagul í Ástralíu fundu Welcome Stranger, stærsta árgullsmola sem vitað er til að hafi fundist. Nafnið var hæverskt; molinn var heldur betur velkominn."
+    },
+    {
+      "ar": "1909",
+      "texti": "Belgíski efnafræðingurinn Leo Baekeland kynnti bakelít, fyrsta fullgerða gerviplast heims. Þar með hófst nýtt efnisöld, með bæði stórkostlegum uppfinningum og býsna þrálátum umbúðum."
+    },
+    {
+      "ar": "1985",
+      "texti": "Borgarstjórar Rómar og Karþagó undirrituðu táknrænan friðarsamning og luku þannig formlega þriðja púnverska stríðinu, 2.134 árum eftir að það hófst. Skrifræðin hefur sjaldan unnið jafn yfirgripsmikinn sigur."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1908",
+      "texti": "Bakarasveinafélag Íslands var stofnað í Þingholtsstræti 9. Þar var lagður grunnur að samtakamætti bakara, þótt ekki sé vitað hvort stofnfundurinn hafi boðið upp á vínarbrauð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1967",
+      "texti": "Snorri Hjartarson hlaut Silfurhestinn, bókmenntaverðlaun dagblaðanna, þegar verðlaunin voru veitt í fyrsta sinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1984",
+      "texti": "Snjódýpt í Reykjavík mældist 43 sentimetrar og hafði ekki verið meiri þar í rúma þrjá áratugi. Þetta hefur verið dagur fyrir skóflu, ullarsokka og ákveðna sátt við seinkun.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1994",
+      "texti": "Íbúar Keflavíkur, Njarðvíkur og Hafna samþykktu í kosningum að sameina sveitarfélögin þrjú; hið nýja sveitarfélag fékk síðar nafnið Reykjanesbær.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bobby Brown",
+      "starfsgrein": "söngvari, lagahöfundur, dansari og leikari",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Barbara Hershey",
+      "starfsgrein": "leikkona",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Abhishek Bachchan",
+      "starfsgrein": "leikari",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Chris Parnell",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1967"
+    },
+    {
+      "nafn": "André Citroën",
+      "starfsgrein": "verkfræðingur og bílaframleiðandi",
+      "ar": "1878"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jónas Kristjánsson",
+      "starfsgrein": "ritstjóri",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Karl Sigurbjörnsson",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Friðjón Þórðarson",
+      "starfsgrein": "alþingismaður og ráðherra",
+      "ar": "1923"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tvær fornu borgir sömdu loks formlega um frið árið 1985?",
+      "svor": [
+        "Róm og Karþagó",
+        "Aþena og Sparta",
+        "Pompeii og Napólí",
+        "Alexandría og Týros"
+      ],
+      "rett": 0,
+      "skyring": "Borgarstjórar Rómar og Karþagó bundu táknrænan enda á þriðja púnverska stríðið eftir 2.134 ára bið."
+    },
+    {
+      "spurning": "Hversu djúpur mældist snjórinn í Reykjavík 5. febrúar 1984?",
+      "svor": [
+        "23 sentimetrar",
+        "33 sentimetrar",
+        "43 sentimetrar",
+        "53 sentimetrar"
+      ],
+      "rett": 2,
+      "skyring": "Snjódýptin var 43 sentimetrar, svo stígvélin fengu sannarlega að vinna fyrir kaupinu."
+    },
+    {
+      "spurning": "Hvaða frumkvöðull, fæddur þennan dag, stofnaði samnefndan bílaframleiðanda?",
+      "svor": [
+        "Bobby Brown",
+        "André Citroën",
+        "Adlai Stevenson II",
+        "Al Kooper"
+      ],
+      "rett": 1,
+      "skyring": "Franski verkfræðingurinn André Citroën fæddist árið 1878 og nafn hans prýðir enn bíla."
+    }
+  ],
+  "tonlistUSA": "Africa – Toto (1983)",
+  "tonlistUK": "Down Under – Men at Work (1983)",
+  "bio": "Nútíminn (1936)",
+  "ord_dagsins": {
+    "ord": "árgull",
+    "skyring": "Árgull er gull sem finnst laust í setlögum, til dæmis í árfarvegum, fremur en fast í bergi."
+  },
+  "vissir_thu": "Friðarsamningur Rómar og Karþagó árið 1985 var táknrænn, enda hafði Karþagó verið lögð í rúst við lok þriðja púnverska stríðsins árið 146 f.Kr.",
+  "stjornuspa": "Vatnsberi, í dag skaltu taka André Citroën þér til fyrirmyndar og hugsa í nýjum farvegum, en helst ekki leggja bílnum þar. Gömul deila gæti loks leyst úr sér; reyndu þó að vera sneggri en Róm og Karþagó.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png/500px-Toyotomi_Hideyoshi_c1598_Kodai-ji_Temple.png",
+    "ar": "1597",
+    "texti": "Tuttugu og sex kaþólikkar, bæði evrópskir trúboðar og japanskir trúskiptingar, voru teknir af lífi nærri Nagasaki þegar bann Toyotomi Hideyoshi við kristni var framfylgt.",
+    "heimild": "https://en.wikipedia.org/wiki/Toyotomi_Hideyoshi",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

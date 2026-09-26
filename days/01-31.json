@@ -1,0 +1,143 @@
+{
+  "mmdd": "01-31",
+  "dagur": 31,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:12",
+  "sunset": "17:11",
+  "kvedja": "Góðan 31. janúar, kæri lesandi! Í dag hittum við geimfarandi simpansa, sænskan konung og íslenska útvarpsfrumherja — enda kann sagan vel við fjölbreyttan félagsskap. Dragðu stól að arni tímans og komdu með.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "314",
+      "texti": "Sylvester 1. tók við sem páfi. Í páfatíð hans lét Konstantínus mikli reisa margar kirkjur í Róm, svo byggingarkranar hefðu eflaust verið áberandi ef Rómverjar hefðu átt slíka gripi."
+    },
+    {
+      "ar": "1578",
+      "texti": "Spánverjar unnu afgerandi sigur í orrustunni við Gembloux í áttatíu ára stríðinu. Sigurinn ógnaði hollenska allsherjarþinginu og átti þátt í því að það flutti frá Brussel til Antwerpen."
+    },
+    {
+      "ar": "1747",
+      "texti": "London Lock Hospital tók til starfa, fyrsta sjúkrahúsið sem var rekið með frjálsum framlögum og sérhæfði sig í meðferð kynsjúkdóma. Viðfangsefnið var viðkvæmt, en þörfin greinilega brýn."
+    },
+    {
+      "ar": "1961",
+      "texti": "Simpansinn Ham fór út í geim um borð í Mercury-Redstone 2 og varð fyrstur hominíða til þess. Hann sneri aftur heill á húfi eftir að hafa unnið verkefni á fluginu — sannkallaður geimfari með banana í bakþankanum."
+    },
+    {
+      "ar": "1997",
+      "texti": "Tölvuleikurinn Final Fantasy VII kom út og varð fyrsti leikur seríunnar til að nota þrívíða tölvugrafík. Þar með fékk fantasían fleiri víddir, bæði bókstaflega og tilfinningalega."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1881",
+      "texti": "Nýbyggð og vönduð kirkja á Núpi í Dýrafirði fauk á haf út í ofviðri. Veðrið gaf lítið fyrir byggingarlist og enn minna fyrir fasteignamörk.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1926",
+      "texti": "Fyrstu útvarpsútsendingar í tilraunaskyni fóru fram á Íslandi þegar H.f. Útvarp hóf útsendingar. Íslendingar gátu loks fengið raddir úr loftinu án þess að kenna huldufólki um.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1951",
+      "texti": "Flugvélin Glitfaxi fórst með 20 manns innanborðs undan Vatnsleysuströnd, í aðflugi til Reykjavíkur eftir flug frá Vestmannaeyjum. Atburðurinn varð einn af hörmulegustu flugslysum Íslandssögunnar.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "2010",
+      "texti": "Íslenska karlalandsliðið í handknattleik vann bronsverðlaun á Evrópumeistaramótinu í Austurríki. Þjóðin tók að sjálfsögðu þátt úr sófanum með leikskipulag, hjartslátt og handklæði við hönd.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Beatrix af Hollandi",
+      "starfsgrein": "fyrrverandi Hollandsdrottning",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Anthony LaPaglia",
+      "starfsgrein": "ástralskur leikari og framleiðandi",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Bobby Moynihan",
+      "starfsgrein": "bandarískur leikari og grínisti",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Alan Lomax",
+      "starfsgrein": "bandarískur þjóðfræðingur og sagnfræðingur",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Alva Myrdal",
+      "starfsgrein": "sænskur félagsfræðingur, stjórnmálamaður og Nóbelsverðlaunahafi",
+      "ar": "1902"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jakob Tryggvason",
+      "starfsgrein": "íslenskur tónlistarmaður",
+      "ar": "1907"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða óvenjulegi geimfari var sendur út í geim 31. janúar 1961?",
+      "svor": [
+        "Simpansinn Ham",
+        "Hundurinn Laika",
+        "Kötturinn Félicette",
+        "Músin Mickey"
+      ],
+      "rett": 0,
+      "skyring": "Simpansinn Ham flaug með Mercury-Redstone 2 og sneri heill aftur til jarðar."
+    },
+    {
+      "spurning": "Hvað gerðist við kirkjuna á Núpi í Dýrafirði árið 1881?",
+      "svor": [
+        "Hún var flutt á sleða",
+        "Hún sökk í jarðskjálfta",
+        "Hún fauk á haf út",
+        "Henni var breytt í skóla"
+      ],
+      "rett": 2,
+      "skyring": "Kirkjan fauk á haf út í ofviðri, sem telst óvenju endanleg veðurskýrsla."
+    },
+    {
+      "spurning": "Hvaða leikur varð fyrstur í sinni seríu til að nota þrívíða tölvugrafík?",
+      "svor": [
+        "Final Fantasy VII",
+        "Final Fantasy VI",
+        "Super Mario Bros.",
+        "The Legend of Zelda"
+      ],
+      "rett": 0,
+      "skyring": "Final Fantasy VII kom út árið 1997 og leiddi seríuna inn í þrívíddaröldina."
+    }
+  ],
+  "tonlistUSA": "The Tide Is High – Blondie (1981)",
+  "tonlistUK": "Imagine – John Lennon (1981)",
+  "bio": "American Sniper (2014)",
+  "ord_dagsins": {
+    "ord": "andvari",
+    "skyring": "Andvari er hægur og mildur vindur, rétt eins og veðrið lofar stundum en afhendir sjaldnar."
+  },
+  "vissir_thu": "Simpansinn Ham þurfti að toga í stangir samkvæmt ljósmerkjum á geimfluginu og sýndi þannig að hægt væri að vinna einföld verkefni við geimferð.",
+  "stjornuspa": "Vatnsberi, hugmyndir þínar berast í dag líkt og útvarpsbylgjur árið 1926: dálítið brakandi en ómótstæðilega spennandi. Forðastu þó að senda alla dagskrána áður en aðrir hafa fundið stillihnappinn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Et%C3%A0_di_paolo_I%2C_storie_di_no%C3%A8%2C_di_giuseppe_e_cristo_in_trono_tra_ss._e_padri_della_chiesa_occ.le_e_or.le%2C_757-767%2C_16%28cropped%29.jpg/500px-Et%C3%A0_di_paolo_I%2C_storie_di_no%C3%A8%2C_di_giuseppe_e_cristo_in_trono_tra_ss._e_padri_della_chiesa_occ.le_e_or.le%2C_757-767%2C_16%28cropped%29.jpg",
+    "ar": "314",
+    "texti": "Sylvester 1. tók við sem páfi. Í páfatíð hans lét Konstantínus mikli reisa margar kirkjur í Róm, svo byggingarkranar hefðu eflaust verið áberandi ef Rómverjar hefðu átt slíka gripi.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Sylvester_I",
+    "breidd": 330,
+    "haed": 462
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "02-02",
+  "dagur": 2,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:06",
+  "sunset": "17:18",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 2. febrúar! Í dag björgum við skipbrotsmanni, opnum risavaxna lestarstöð og skjótum gervitungli á loft — býsna gott dagsverk áður en kaffið kólnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "506",
+      "texti": "Alarik 2., konungur Vestgota, gaf út Breviarium Alaricianum, safn rómverskra laga. Jafnvel þjóðflutningatíminn þurfti sitt regluverk og smá pappírsvinnu."
+    },
+    {
+      "ar": "1709",
+      "texti": "Skoska sjómanninum Alexander Selkirk var bjargað eftir fjögur ár á óbyggðri eyju í Kyrrahafi. Ævintýri hans varð síðar innblástur að skáldsögunni um Róbinson Krúsó."
+    },
+    {
+      "ar": "1848",
+      "texti": "Guadalupe Hidalgo-sáttmálinn var undirritaður og batt enda á stríð Mexíkó og Bandaríkjanna. Mexíkó lét af hendi 1,36 milljónir ferkílómetra lands en Bandaríkin greiddu 15 milljónir dala."
+    },
+    {
+      "ar": "1913",
+      "texti": "Grand Central Terminal í New York opnaði rétt eftir miðnætti. Stöðin er sú stærsta í heimi þegar miðað er við fjölda brautarpalla — sannkölluð höll fyrir fólk á harðahlaupum."
+    },
+    {
+      "ar": "2009",
+      "texti": "Omid, fyrsta gervitunglið sem Íranir smíðuðu sjálfir, var skotið á loft frá Semnan-geimferðamiðstöðinni. Nafnið merkir „von“, sem er prýðilegt veganesti út í geiminn."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1883",
+      "texti": "Sex manns fórust þegar snjóflóð féll á bæinn Stekk í Njarðvík í Borgarfirði eystra.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1953",
+      "texti": "Framkvæmdabanki Íslands var stofnaður.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1978",
+      "texti": "Listahátíð í Reykjavík var sett og Kvikmyndahátíð í Reykjavík var í fyrsta sinn hluti hennar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1988",
+      "texti": "Halldór Halldórsson varð fyrstur Íslendinga til að fá ígrædd bæði hjarta og lungu í átta klukkustunda aðgerð í London.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ayn Rand",
+      "starfsgrein": "rithöfundur og heimspekingur",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Charles Maurice de Talleyrand-Périgord",
+      "starfsgrein": "stjórnmálamaður og erindreki",
+      "ar": "1754"
+    },
+    {
+      "nafn": "Bonita Granville",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Al McKay",
+      "starfsgrein": "gítarleikari, lagahöfundur og upptökustjóri",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Bobby De Cordova-Reid",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnór Sighvatsson",
+      "starfsgrein": "hagfræðingur",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Torfhildur Hólm",
+      "starfsgrein": "rithöfundur",
+      "ar": "1845"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skipbrotsmaður varð innblástur að sögunni um Róbinson Krúsó?",
+      "svor": [
+        "Alexander Selkirk",
+        "Alarik 2.",
+        "Talleyrand",
+        "Bobby De Cordova-Reid"
+      ],
+      "rett": 0,
+      "skyring": "Alexander Selkirk dvaldi í fjögur ár á óbyggðri eyju áður en honum var bjargað árið 1709."
+    },
+    {
+      "spurning": "Hvaða íslenska stofnun var sett á laggirnar árið 1953?",
+      "svor": [
+        "Listahátíð í Reykjavík",
+        "Framkvæmdabanki Íslands",
+        "Kvikmyndahátíð í Reykjavík",
+        "Seðlabanki Evrópu"
+      ],
+      "rett": 1,
+      "skyring": "Framkvæmdabanki Íslands var stofnaður 2. febrúar 1953."
+    },
+    {
+      "spurning": "Hvað hét fyrsta gervitunglið sem Íranir smíðuðu sjálfir?",
+      "svor": [
+        "Semnan",
+        "Omid",
+        "Alarik",
+        "Grand Central"
+      ],
+      "rett": 1,
+      "skyring": "Gervitunglið hét Omid, sem merkir „von“."
+    }
+  ],
+  "tonlistUSA": "Down Under – Men at Work (1983)",
+  "tonlistUK": "Down Under – Men at Work (1983)",
+  "bio": "Groundhog Day (1993)",
+  "ord_dagsins": {
+    "ord": "andvari",
+    "skyring": "Andvari er hægur og mildur vindur, rétt nógu ákveðinn til að minna á sig."
+  },
+  "vissir_thu": "Grand Central Terminal í New York er stærsta lestarstöð heims þegar miðað er við fjölda brautarpalla.",
+  "stjornuspa": "Vatnsberi, hugmyndir þínar fara af stað eins og gervitungl frá Semnan, en mundu að jafnvel snillingar þurfa að lesa leiðbeiningarnar. Óvænt samtal gæti opnað nýja braut — vonandi með færri seinkunum en á lestarstöð.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Anneau_sigillaire_Alaric_II.jpg/330px-Anneau_sigillaire_Alaric_II.jpg",
+    "ar": "506",
+    "texti": "Alarik 2., konungur Vestgota, gaf út Breviarium Alaricianum, safn rómverskra laga. Jafnvel þjóðflutningatíminn þurfti sitt regluverk og smá pappírsvinnu.",
+    "heimild": "https://en.wikipedia.org/wiki/Alaric_II",
+    "breidd": 330,
+    "haed": 502
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

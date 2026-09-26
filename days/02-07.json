@@ -1,0 +1,143 @@
+{
+  "mmdd": "02-07",
+  "dagur": 7,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "09:50",
+  "sunset": "17:34",
+  "kvedja": "Góðan 7. febrúar, kæri lesandi! Í dag sveiflum við okkur frá Napóleonsstríðunum yfir í litla flækinginn hans Chaplins og alla leið út í geim — án öryggistaums, takk fyrir pent. Haltu þó fast í kaffibollann; sagan getur verið lausbeisluð.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1813",
+      "texti": "Franska freigátan Aréthuse og sú breska Amelia háðu harðan en hnífjafnan sjóorrustu við Îles de Los undan strönd Gíneu. Hvorug hafði betur, sem er sjaldgæf leið sögunnar til að segja: jafntefli."
+    },
+    {
+      "ar": "1914",
+      "texti": "Stuttmyndin Kid Auto Races at Venice kom út og þar birtist Charlie Chaplin í fyrsta sinn sem litli flækingurinn. Hattur, stafur og sérkennilegt göngulag urðu þar með hluti af kvikmyndasögunni."
+    },
+    {
+      "ar": "1940",
+      "texti": "Teiknimynd Walt Disney, Gosi, var frumsýnd í Center Theatre í New York. Hún varð síðar fyrsta teiknaða kvikmyndin í fullri lengd til að vinna samkeppnisverðlaun á Óskarsverðlaunahátíðinni."
+    },
+    {
+      "ar": "1984",
+      "texti": "Geimfararnir Bruce McCandless II og Robert L. Stewart fóru í fyrstu geimgönguna án þess að vera tengdir geimferju með taug. McCandless sveif þar um eins og maður sem hafði gleymt því að geimurinn er ekki með handrið."
+    },
+    {
+      "ar": "1992",
+      "texti": "Aðildarríki Evrópubandalaganna undirrituðu Maastrichtsamninginn, sem varð undirstaða Evrópusambandsins. Með pennastriki hófst nýr kafli í evrópsku samstarfi — og töluverðri skriffinnsku."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1942",
+      "texti": "Húsmæðraskóli Reykjavíkur tók til starfa undir stjórn Huldu Á. Stefánsdóttur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Siglingafélag Reykjavíkur, Brokey, var stofnað og fékk höfuðborgin þar með félag fyrir þá sem kjósa fremur segl en malbik.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1974",
+      "texti": "Concorde-þota lenti í fyrsta sinn á Keflavíkurflugvelli eftir að hafa flogið frá Frakklandi á tvöföldum hljóðhraða.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ashton Kutcher",
+      "starfsgrein": "leikari, framleiðandi og frumkvöðull",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Charles Dickens",
+      "starfsgrein": "rithöfundur og samfélagsgagnrýnandi",
+      "ar": "1812"
+    },
+    {
+      "nafn": "Alfred Adler",
+      "starfsgrein": "sálfræðingur og sálmeðferðarfræðingur",
+      "ar": "1870"
+    },
+    {
+      "nafn": "Anna Rússakeisaraynja",
+      "starfsgrein": "keisaraynja Rússlands",
+      "ar": "1693"
+    },
+    {
+      "nafn": "Alan Lancaster",
+      "starfsgrein": "bassaleikari, söngvari og lagahöfundur",
+      "ar": "1949"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gylfi Þ. Gíslason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1917"
+    },
+    {
+      "nafn": "Sverrir Kristjánsson",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1908"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða persóna steig fyrst fram á hvíta tjaldinu 7. febrúar 1914?",
+      "svor": [
+        "Litli flækingurinn",
+        "Gosi",
+        "Mikki mús",
+        "Sherlock Holmes"
+      ],
+      "rett": 0,
+      "skyring": "Litli flækingurinn hans Charlie Chaplins birtist fyrst í Kid Auto Races at Venice."
+    },
+    {
+      "spurning": "Hvaða farartæki vakti athygli á Keflavíkurflugvelli árið 1974?",
+      "svor": [
+        "Apollo-geimfar",
+        "Concorde-þota",
+        "Zeppelin-loftskip",
+        "Boeing 747 forsetaflugvél"
+      ],
+      "rett": 1,
+      "skyring": "Concorde kom frá Frakklandi eftir flug á tvöföldum hljóðhraða."
+    },
+    {
+      "spurning": "Hvaða skáldsagnahöfundur á afmæli 7. febrúar?",
+      "svor": [
+        "Jane Austen",
+        "Charles Dickens",
+        "George Orwell",
+        "J.R.R. Tolkien"
+      ],
+      "rett": 1,
+      "skyring": "Charles Dickens fæddist árið 1812 og gaf Viktoríutímanum ógleymanlegt persónugallerí."
+    }
+  ],
+  "tonlistUSA": "I Want to Hold Your Hand – The Beatles (1964)",
+  "tonlistUK": "Needles and Pins – The Searchers (1964)",
+  "bio": "Gosi (1940)",
+  "ord_dagsins": {
+    "ord": "lausbeislaður",
+    "skyring": "Sá sem er lausbeislaður er óbundinn, frjálslegur eða ekki bundinn ströngum hömlum."
+  },
+  "vissir_thu": "Fótsporin sem fundust við Happisburgh á Englandi eru meira en 800.000 ára gömul og elstu þekktu spor frummanna utan Afríku.",
+  "stjornuspa": "Vatnsberi, dagurinn kallar á djarfar hugmyndir, en þú þarft ekki að líkja eftir geimförunum og sleppa öllum öryggistaugum. Settu Bítlana á fóninn, dragðu fram framtíðaráætlunina og láttu sérviskuna vinna með þér.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Napoleonic_Wars_%28revision%29.jpg/500px-Napoleonic_Wars_%28revision%29.jpg",
+    "ar": "1813",
+    "texti": "Franska freigátan Aréthuse og sú breska Amelia háðu harðan en hnífjafnan sjóorrustu við Îles de Los undan strönd Gíneu. Hvorug hafði betur, sem er sjaldgæf leið sögunnar til að segja: jafntefli.",
+    "heimild": "https://en.wikipedia.org/wiki/Napoleonic_Wars",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

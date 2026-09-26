@@ -1,0 +1,143 @@
+{
+  "mmdd": "01-27",
+  "dagur": 27,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:24",
+  "sunset": "16:58",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 27. janúar! Í dag förum við frá Rómaveldi til Bach, Auschwitz og ótrúlegrar flóttaáætlunar í Teheran — sagan kann sannarlega ekki að sitja kyrr.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "98",
+      "texti": "Trajanus tók við keisaratign í Róm eftir lát kjörföður síns, Nervu. Undir stjórn hans náði Rómaveldi mestri landfræðilegri útbreiðslu sinni."
+    },
+    {
+      "ar": "1726",
+      "texti": "Johann Sebastian Bach stjórnaði frumflutningi kantötunnar Alles nur nach Gottes Willen, BWV 72, í Leipzig. Þar með lauk þriðju jólavertíð hans í borginni — býsna metnaðarfullri tónleikatörn."
+    },
+    {
+      "ar": "1869",
+      "texti": "Fyrrverandi stuðningsmenn Tokugawa-stjórnarinnar lýstu Hokkaido sjálfstætt ríki undir heitinu Ezo-lýðveldið. Tilraunin varð þó skammvinn."
+    },
+    {
+      "ar": "1945",
+      "texti": "Rauði her Sovétríkjanna frelsaði um 7.000 fanga sem nasistar höfðu skilið eftir í Auschwitz. Dagurinn er nú alþjóðlegur minningardagur fórnarlamba Helfararinnar."
+    },
+    {
+      "ar": "1980",
+      "texti": "Sex bandarískir erindrekar, sem höfðu komist undan gíslatökunni í Íran, flúðu til Zürich með aðstoð kanadískra stjórnvalda. Dulargervið var kanadískt kvikmyndateymi — saga sem hljómar eins og bíómynd af því hún varð síðar að einni slíkri."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1491",
+      "texti": "Höskuldur Árnason í Núpufelli var dæmdur í hæsta bann páfa, gert að ganga suður til Rómar og eignir hans dæmdar Hólastóli vegna rangs eiðs í Hvassafellsmálum.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1891",
+      "texti": "Verzlunarmannafélag Reykjavíkur var stofnað og kaupmenn höfuðstaðarins fengu þar með formlegan félagsvettvang.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1907",
+      "texti": "Kvenréttindafélag Íslands var stofnað og varð öflugur vettvangur baráttunnar fyrir auknum réttindum íslenskra kvenna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1940",
+      "texti": "Þjóðargrafreiturinn á Þingvöllum var vígður við útför skáldsins Einars Benediktssonar.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Cumming",
+      "starfsgrein": "skoskur-bandarískur leikari",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Aurélien Tchouaméni",
+      "starfsgrein": "franskur knattspyrnumaður",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Abbas I of Persia",
+      "starfsgrein": "Persakonungur",
+      "ar": "1571"
+    },
+    {
+      "nafn": "Bobby Bland",
+      "starfsgrein": "bandarískur blússöngvari og lagahöfundur",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Arne Næss",
+      "starfsgrein": "norskur heimspekingur og umhverfissinni",
+      "ar": "1912"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Eyþórsson",
+      "starfsgrein": "veðurfræðingur",
+      "ar": "1895"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða rómverski keisari tók við völdum árið 98?",
+      "svor": [
+        "Trajanus",
+        "Neró",
+        "Ágústus",
+        "Konstantínus mikli"
+      ],
+      "rett": 0,
+      "skyring": "Trajanus tók við af Nervu og Rómaveldi náði síðar mestri útbreiðslu sinni undir stjórn hans."
+    },
+    {
+      "spurning": "Hvar voru um 7.000 fangar frelsaðir 27. janúar 1945?",
+      "svor": [
+        "Dachau",
+        "Auschwitz",
+        "Bergen-Belsen",
+        "Treblinka"
+      ],
+      "rett": 1,
+      "skyring": "Rauði herinn frelsaði þá fanga sem nasistar höfðu skilið eftir í Auschwitz."
+    },
+    {
+      "spurning": "Hvaða íslenska félag var stofnað 27. janúar 1907?",
+      "svor": [
+        "Verzlunarmannafélag Reykjavíkur",
+        "Kvenréttindafélag Íslands",
+        "Slysavarnafélag Íslands",
+        "Ferðafélag Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Kvenréttindafélag Íslands var stofnað þennan dag árið 1907 — og hafði sannarlega verk að vinna."
+    }
+  ],
+  "tonlistUSA": "Judy in Disguise (With Glasses) – John Fred and His Playboy Band (1968)",
+  "tonlistUK": "Everlasting Love – Love Affair (1968)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "páfabann",
+    "skyring": "Páfabann er kirkjuleg refsing þar sem einstaklingur er útilokaður frá samfélagi kirkjunnar."
+  },
+  "vissir_thu": "Trajanus var fyrsti rómverski keisarinn sem fæddist utan Ítalíu; hann fæddist í Hispaniu, á svæði sem nú tilheyrir Spáni.",
+  "stjornuspa": "Vatnsberi, í dag færðu hugmynd sem er svo langt á undan sinni samtíð að hún þarf næstum vegabréf. Skrifaðu hana niður áður en þú gleymir henni yfir kaffibolla og gömlum vínilplötum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Johann_Sebastian_Bach.jpg/500px-Johann_Sebastian_Bach.jpg",
+    "ar": "1726",
+    "texti": "Johann Sebastian Bach stjórnaði frumflutningi kantötunnar Alles nur nach Gottes Willen, BWV 72, í Leipzig. Þar með lauk þriðju jólavertíð hans í borginni — býsna metnaðarfullri tónleikatörn.",
+    "heimild": "https://en.wikipedia.org/wiki/Johann_Sebastian_Bach",
+    "breidd": 330,
+    "haed": 428
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

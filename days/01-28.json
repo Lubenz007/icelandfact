@@ -1,0 +1,143 @@
+{
+  "mmdd": "01-28",
+  "dagur": 28,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:21",
+  "sunset": "17:01",
+  "kvedja": "Góðan dag, kæri lesandi! Í dag flökkum við frá trúfrelsi í Transylvaníu yfir í litríka kubba frá Danmörku og endum meðal stjarnanna með Challenger — sagan kann greinilega ekki að sitja kyrr. Helltu upp á eitthvað gott og njóttu dagsins með örlitlu sögulegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1568",
+      "texti": "Fulltrúar þjóðanna þriggja í Transylvaníu samþykktu Torda-tilskipunina, sem heimilaði samfélögum að velja sér predikara. Þetta var óvenjudjarft skref í átt að trúarlegu umburðarlyndi á öld þegar menn leystu slíkan ágreining gjarnan með mun beittari áhöldum."
+    },
+    {
+      "ar": "1754",
+      "texti": "Horace Walpole bjó til enska orðið „serendipity“ í bréfi til vinar og sótti innblásturinn í persneska ævintýrið um prinsana þrjá frá Serendip. Orðið lýsir þeirri notalegu list að rekast óvænt á eitthvað verðmætt."
+    },
+    {
+      "ar": "1922",
+      "texti": "Mesta skráða snjóhríð í sögu Washingtonborgar varð til þess að þak Knickerbocker-leikhússins hrundi. Níutíu og átta manns létust í þessum miklu vetrarhamförum."
+    },
+    {
+      "ar": "1958",
+      "texti": "Danska fyrirtækið Lego Group lagði inn einkaleyfisumsókn í Danmörku fyrir hönnun Lego-kubbsins. Þar með var lagður grunnur að ótal kastölum, geimskipum og sársaukafullum næturfundum milli kubba og berra ilja."
+    },
+    {
+      "ar": "1986",
+      "texti": "Geimskutlan Challenger sundraðist 73 sekúndum eftir flugtak í sinni tíundu ferð. Allir sjö geimfararnir um borð fórust og slysið markaði djúp spor í sögu geimferða."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1789",
+      "texti": "Gamanleikurinn „Narfi“ eftir Sigurð Pétursson var frumfluttur í Hólavallarskóla. Þar steig íslensk leiklist fram á sviðið, væntanlega án reykvéla og leysigeisla.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1912",
+      "texti": "Fulltrúar tólf íþróttafélaga stofnuðu Íþróttasamband Íslands í Bárubúð. Íslenskt íþróttastarf hafði þar með fengið sameiginlegt liðsskipulag, þótt flautan væri varla komin að vörum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1935",
+      "texti": "Ísland varð fyrsta land heims til að lögleiða fóstureyðingar. Um var að ræða sögulega lagabreytingu í heilbrigðis- og félagsmálum þjóðarinnar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2013",
+      "texti": "EFTA-dómstóllinn sýknaði Ísland af öllum kröfum í máli ESA vegna Icesave. Úrskurðinum var víða tekið með þeim létti sem fylgir því þegar afar þungt umslag reynist ekki innihalda reikning.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Hinrik 7.",
+      "starfsgrein": "Englandskonungur",
+      "ar": "1457"
+    },
+    {
+      "nafn": "Alan Alda",
+      "starfsgrein": "leikari, leikstjóri og rithöfundur",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Amy Coney Barrett",
+      "starfsgrein": "bandarískur hæstaréttardómari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Andre Iguodala",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Taizong",
+      "starfsgrein": "keisari Tang-ættarinnar",
+      "ar": "598"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnaldur Indriðason",
+      "starfsgrein": "rithöfundur",
+      "ar": "1961"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða leikfang fékk mikilvæga einkaleyfisumsókn 28. janúar 1958?",
+      "svor": [
+        "Lego-kubburinn",
+        "Jójóið",
+        "Rúbiks-teningurinn",
+        "Frisbídiskurinn"
+      ],
+      "rett": 0,
+      "skyring": "Lego lagði inn umsóknina árið 1958 og stofugólfin hafa ekki verið örugg síðan."
+    },
+    {
+      "spurning": "Hversu löngu eftir flugtak sundraðist Challenger?",
+      "svor": [
+        "33 sekúndum",
+        "73 sekúndum",
+        "7 mínútum",
+        "13 mínútum"
+      ],
+      "rett": 1,
+      "skyring": "Challenger sundraðist aðeins 73 sekúndum eftir flugtak."
+    },
+    {
+      "spurning": "Hvaða íslenski rithöfundur á afmæli 28. janúar?",
+      "svor": [
+        "Arnaldur Indriðason",
+        "Halldór Laxness",
+        "Einar Kárason",
+        "Sjón"
+      ],
+      "rett": 0,
+      "skyring": "Arnaldur Indriðason fæddist þennan dag árið 1961."
+    }
+  ],
+  "tonlistUSA": "That's What Friends Are For – Dionne Warwick og vinir (1986)",
+  "tonlistUK": "The Sun Always Shines on T.V. – a-ha (1986)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "hending",
+    "skyring": "Hending getur merkt tilviljun eða óvænt atvik, rétt eins og þegar merkilegur happafundur verður fyrir algjöra tilviljun."
+  },
+  "vissir_thu": "Lego-kubbar frá 1958 voru hannaðir þannig að þeir tengdust með sama grunnhætti og kubbarnir sem síðar komu, svo byggingarlist margra kynslóða getur í bókstaflegri merkingu smollið saman.",
+  "stjornuspa": "Vatnsberi, hugmyndir þínar smella saman eins og Lego-kubbar í dag, jafnvel þótt aðrir sjái fyrst bara litríkan haug. Haltu þó fótunum á jörðinni — bæði stjörnurnar og kubbarnir geta verið varasöm fótagildra.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Horace_Walpole.jpg/500px-Horace_Walpole.jpg",
+    "ar": "1754",
+    "texti": "Horace Walpole bjó til enska orðið „serendipity“ í bréfi til vinar og sótti innblásturinn í persneska ævintýrið um prinsana þrjá frá Serendip. Orðið lýsir þeirri notalegu list að rekast óvænt á eitthvað verðmætt.",
+    "heimild": "https://en.wikipedia.org/wiki/Serendipity",
+    "breidd": 330,
+    "haed": 417
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

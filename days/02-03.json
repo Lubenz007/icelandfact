@@ -1,0 +1,137 @@
+{
+  "mmdd": "02-03",
+  "dagur": 3,
+  "manudur": "febrúar",
+  "manudurNr": 2,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:03",
+  "sunset": "17:21",
+  "kvedja": "Góðan 3. febrúar! Í dag sveiflum við okkur frá normönnum miðalda yfir í rokk, geimferjur og íslenskt fárviðri — sagan kann greinilega ekki að halda sig á einni akrein. Haltu fast í hattinn og njóttu ferðarinnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1047",
+      "texti": "Hinrik 3. keisari lýsti Drogo af Hauteville greifa yfir öllum normönnum í Apúlíu og Kalabríu. Normannar voru þá komnir langt frá norðlægum heimahögum sínum og farnir að láta verulega að sér kveða á Suður-Ítalíu."
+    },
+    {
+      "ar": "1870",
+      "texti": "Fimmtánda viðbótin við stjórnarskrá Bandaríkjanna var staðfest og bannaði formlega að fólki væri neitað um kosningarétt á grundvelli kynþáttar. Lögin voru stórt skref, þótt framkvæmd þeirra ætti eftir að verða langvinn og stormasöm."
+    },
+    {
+      "ar": "1959",
+      "texti": "Rokkararnir Buddy Holly, Ritchie Valens og J. P. „The Big Bopper“ Richardson fórust í flugslysi skömmu eftir flugtak í Iowa. Dagurinn varð síðar þekktur sem „dagurinn þegar tónlistin dó“."
+    },
+    {
+      "ar": "1986",
+      "texti": "Steve Jobs keypti Pixar af Lucasfilm og gerði fyrirtækið að sjálfstæðu tölvuteiknimyndaveri. Litli tölvuhópurinn átti síðar eftir að fylla kvikmyndahús af leikföngum, skrímslum og tárvotum fullorðnum."
+    },
+    {
+      "ar": "1995",
+      "texti": "Í geimferðinni STS-63 varð Eileen Collins fyrsta konan til að stýra bandarískri geimferju. Þar var sannarlega brotið glerþak — og flogið talsvert hærra en það."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1483",
+      "texti": "Þorleifur Björnsson hirðstjóri kom með lið að Reykhólum, þar sem Andrés Guðmundsson hafði víggirt sig. Menn Andrésar skutu á liðið, en eftir nokkurra daga átök varð hann að gefast upp.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1505",
+      "texti": "Víkurkirkja í Reykjavík var vígð af Stefáni Jónssyni Skálholtsbiskupi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Hinn eldri Íslandsbanki varð gjaldþrota. Nokkrum vikum síðar tók Útvegsbanki Íslands við starfsemi hans — fjármálasagan hefur löngum kunnað dramatísk kaflaskil.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1991",
+      "texti": "Fárviðri gekk yfir Ísland og olli miklu eignatjóni. Í Vestmannaeyjum mældist 237 km/klst vindhviða, sú sterkasta sem mælst hefur á Íslandi.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amal Clooney",
+      "starfsgrein": "lögmaður og mannréttindafrömuður",
+      "ar": "1978"
+    },
+    {
+      "nafn": "Blythe Danner",
+      "starfsgrein": "leikkona",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Alvar Aalto",
+      "starfsgrein": "arkitekt og hönnuður",
+      "ar": "1898"
+    },
+    {
+      "nafn": "Antonio José de Sucre",
+      "starfsgrein": "hershöfðingi og stjórnmálamaður",
+      "ar": "1795"
+    },
+    {
+      "nafn": "Edward Stafford",
+      "starfsgrein": "enskur aðalsmaður",
+      "ar": "1478"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrst kvenna til að stýra bandarískri geimferju?",
+      "svor": [
+        "Eileen Collins",
+        "Amal Clooney",
+        "Blythe Danner",
+        "Valentina Tereshkova"
+      ],
+      "rett": 0,
+      "skyring": "Eileen Collins náði þessum merka áfanga í geimferðinni STS-63 árið 1995."
+    },
+    {
+      "spurning": "Hvaða fyrirtæki keypti Steve Jobs af Lucasfilm árið 1986?",
+      "svor": [
+        "DreamWorks",
+        "Pixar",
+        "Nintendo",
+        "Adobe"
+      ],
+      "rett": 1,
+      "skyring": "Það var Pixar, sem átti eftir að gera tölvuteiknimyndir að sannkölluðu stórveldi."
+    },
+    {
+      "spurning": "Hversu hröð var methviðan sem mældist í Vestmannaeyjum í fárviðrinu 1991?",
+      "svor": [
+        "187 km/klst",
+        "207 km/klst",
+        "237 km/klst",
+        "267 km/klst"
+      ],
+      "rett": 2,
+      "skyring": "Hviðan mældist 237 km/klst, svo þetta var enginn venjulegur hattatökudagur."
+    }
+  ],
+  "tonlistUSA": "Stagger Lee – Lloyd Price (1959)",
+  "tonlistUK": "One Night – Elvis Presley (1959)",
+  "bio": "Groundhog Day (1993)",
+  "ord_dagsins": {
+    "ord": "fjúk",
+    "skyring": "Fjúk er laus snjór sem vindur þyrlar eða feykir eftir jörðu."
+  },
+  "vissir_thu": "Alvar Aalto hannaði meðal annars Finlandia-höllina í Helsinki, eitt þekktasta verk finnskrar nútímabyggingarlistar.",
+  "stjornuspa": "Vatnsberi, dagurinn hvetur þig til að hugsa stórt, helst eins og geimferjustjóri með kaffibolla og góða gátlista. Gömul hugmynd gæti reynst jafn lífseig og Pixar, svo ekki henda henni út bara vegna þess að hún er dálítið teiknimyndaleg.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Heinrich_III._%28HRR%29_Miniatur.jpg/330px-Heinrich_III._%28HRR%29_Miniatur.jpg",
+    "ar": "1047",
+    "texti": "Hinrik 3. keisari lýsti Drogo af Hauteville greifa yfir öllum normönnum í Apúlíu og Kalabríu. Normannar voru þá komnir langt frá norðlægum heimahögum sínum og farnir að láta verulega að sér kveða á Suður-Ítalíu.",
+    "heimild": "https://en.wikipedia.org/wiki/Henry_III,_Holy_Roman_Emperor",
+    "breidd": 330,
+    "haed": 722
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

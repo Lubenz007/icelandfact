@@ -1,0 +1,153 @@
+{
+  "mmdd": "01-24",
+  "dagur": 24,
+  "manudur": "janúar",
+  "manudurNr": 1,
+  "stjornumerki": "Vatnsberi",
+  "sunrise": "10:32",
+  "sunset": "16:48",
+  "kvedja": "Góðan 24. janúar, kæri lesandi! Í dag sveiflum við okkur frá risasteini Maya yfir í gullæði, kosningarétt reykvískra kvenna og geimfar á leið til tunglsins — sagan kann greinilega ekki að sitja kyrr. Haltu fast í kaffibollann; jafnvel kirkjur hafa fokið af grunninum á þessum degi.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "41",
+      "texti": "Caligula Rómarkeisari var myrtur af Cassiusi Chaerea og fleiri liðsmönnum lífvarðasveitar keisarans. Claudius var síðan útnefndur keisari — valdaskipti í Róm voru sjaldnast sérlega hljóðlát."
+    },
+    {
+      "ar": "771",
+      "texti": "Maya-konungurinn Kʼakʼ Tiliw Chan Yopaat vígði 65 tonna steinsúlu í borginni Quiriguá. Hún er stærsti steinn sem vitað er að Maya-menn hafi höggvið úr námu."
+    },
+    {
+      "ar": "1848",
+      "texti": "James W. Marshall fann gull við Sutter's Mill í Coloma í Kaliforníu og hrinti þar með gullæðinu mikla af stað. Fáir steinvölur hafa valdið jafn miklum fólksflutningum og draumórum."
+    },
+    {
+      "ar": "1972",
+      "texti": "Japanski hermaðurinn Shoichi Yokoi fannst í frumskógum Guam, þar sem hann hafði hafst við frá lokum síðari heimsstyrjaldar. Hann hafði því verið í felum í nær þrjá áratugi."
+    },
+    {
+      "ar": "1990",
+      "texti": "Japanir skutu Hiten-geimfarinu á loft, fyrstu tunglkönnuninni frá öðru ríki en Sovétríkjunum eða Bandaríkjunum. Tunglið fékk þar með sinn þriðja stórveldisgest."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1309",
+      "texti": "Klængskirkja í Skálholti brann eftir að eldingu laust niður í stöpul hennar. Veðurguðirnir voru greinilega ekki í sparnaðarham.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1530",
+      "texti": "Séra Þórður Einarsson var dæmdur frá prestskap í Hítardalsdómi, meðal annars vegna ásakana um frillulífi, skemmdir á Skálholtskirkju, slagsmál og óhlýðni við biskup. Þetta var enginn smávægilegur áminningarpakki.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1908",
+      "texti": "Fjórar konur voru kjörnar í bæjarstjórn Reykjavíkur þegar konur tóku í fyrsta sinn þátt í sveitarstjórnarkosningum með almennum kosningarétti.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1984",
+      "texti": "Jón Páll Sigmarsson, þá 25 ára, vann titilinn „sterkasti maður heims“ í fyrsta sinn. Ísland var fámennt, en armleggirnir greinilega fjölmennir.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Carrie Coon",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Adrian Edmondson",
+      "starfsgrein": "enskur gamanleikari og leikari",
+      "ar": "1957"
+    },
+    {
+      "nafn": "Aaron Neville",
+      "starfsgrein": "bandarískur söngvari",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Dan Shechtman",
+      "starfsgrein": "ísraelskur efnafræðingur og Nóbelsverðlaunahafi",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Hadríanus",
+      "starfsgrein": "Rómarkeisari",
+      "ar": "76"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gísli Alfreðsson",
+      "starfsgrein": "íslenskur leikari",
+      "ar": "1933"
+    },
+    {
+      "nafn": "Hilmar Finsen",
+      "starfsgrein": "landshöfðingi",
+      "ar": "1824"
+    },
+    {
+      "nafn": "Hinrik Frehen",
+      "starfsgrein": "biskup kaþólsku kirkjunnar á Íslandi",
+      "ar": "1917"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða uppgötvun kom gullæðinu í Kaliforníu af stað?",
+      "svor": [
+        "Gullfundur við Sutter's Mill",
+        "Silfurfundur á Guam",
+        "Olíufundur í Quiriguá",
+        "Demantafundur í Skálholti"
+      ],
+      "rett": 0,
+      "skyring": "James W. Marshall fann gull við Sutter's Mill árið 1848 og þúsundir lögðu af stað með skóflur og stórar vonir."
+    },
+    {
+      "spurning": "Hvað gerðist í Reykjavík 24. janúar 1908?",
+      "svor": [
+        "Fyrsti skýjakljúfur borgarinnar var vígður",
+        "Fjórar konur voru kjörnar í bæjarstjórn",
+        "Jón Páll varð sterkasti maður heims",
+        "Fyrsta tunglkönnun Íslands hófst"
+      ],
+      "rett": 1,
+      "skyring": "Fjórar konur náðu kjöri í bæjarstjórn Reykjavíkur þegar konur fengu þar almennan kosningarétt."
+    },
+    {
+      "spurning": "Hvaða ríki skaut Hiten-tunglkönnuninni á loft árið 1990?",
+      "svor": [
+        "Kanada",
+        "Japan",
+        "Ítalía",
+        "Ástralía"
+      ],
+      "rett": 1,
+      "skyring": "Hiten var japanskt geimfar og fyrsta tunglkönnunin frá öðru ríki en Bandaríkjunum eða Sovétríkjunum."
+    }
+  ],
+  "tonlistUSA": "Down Under – Men at Work (1983)",
+  "tonlistUK": "Imagine – John Lennon (1981)",
+  "bio": "Titanic (1998)",
+  "ord_dagsins": {
+    "ord": "stöpull",
+    "skyring": "Stöpull er upphlaðin eða reist undirstaða, til dæmis undir turni, súlu eða öðru mannvirki."
+  },
+  "vissir_thu": "Steinsúlan sem Kʼakʼ Tiliw Chan Yopaat vígði í Quiriguá árið 771 vó um 65 tonn og er stærsti steinn sem vitað er að Maya-menn hafi unnið úr námu.",
+  "stjornuspa": "Vatnsberi, dagurinn kallar á stórar hugmyndir, en athugaðu fyrst hvort þær vegi 65 tonn og þurfi sérstakan flutning. Gamalt verkefni gæti fundist aftur eins og hermaður í frumskógi — taktu því fagnandi, en dustaðu rykið af því áður.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hai_ba_trung_Dong_Ho_painting.jpg/500px-Hai_ba_trung_Dong_Ho_painting.jpg",
+    "ar": "41",
+    "texti": "Caligula Rómarkeisari var myrtur af Cassiusi Chaerea og fleiri liðsmönnum lífvarðasveitar keisarans. Claudius var síðan útnefndur keisari — valdaskipti í Róm voru sjaldnast sérlega hljóðlát.",
+    "heimild": "https://en.wikipedia.org/wiki/40s",
+    "breidd": 330,
+    "haed": 224
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
