@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-21",
+  "dagur": 21,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:21",
+  "sunset": "15:29",
+  "kvedja": "Góðan og gleðilegan 21. desember! Í dag siglum við frá Mayflower til tunglsins, með viðkomu við Ölfusárbrú og jólatréð á Austurvelli — býsna gott dagsverk í mesta skammdeginu. Hafðu það hlýtt og mundu að sagan sefur aldrei, þótt sólin taki sér stuttan vinnudag.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1620",
+      "texti": "Pílagrímarnir á Mayflower gengu á land þar sem nú er Plymouth í Massachusetts og hófu þar uppbyggingu Plymouth-nýlendunnar."
+    },
+    {
+      "ar": "1844",
+      "texti": "Brautryðjendurnir í Rochdale opnuðu verslun sína á Englandi og lögðu þar með grunn að nútíma samvinnuhreyfingu. Stundum hefjast stórar samfélagsbreytingar einfaldlega við búðarborðið."
+    },
+    {
+      "ar": "1872",
+      "texti": "HMS Challenger lagði úr höfn frá Portsmouth í vísindaleiðangur sem lagði grunninn að nútíma haffræði. Hafið var loksins rannsakað af meiri nákvæmni en með því að horfa hugsandi út fyrir borðstokkinn."
+    },
+    {
+      "ar": "1937",
+      "texti": "Mjallhvít og dvergarnir sjö var frumsýnd í Los Angeles, fyrsta teiknaða kvikmyndin í fullri lengd sem gerð var með hefðbundinni selluteiknitækni."
+    },
+    {
+      "ar": "1968",
+      "texti": "Apollo 8 var skotið á loft frá Kennedy-geimferðamiðstöðinni á leið til tunglsins. Áhöfnin varð fyrst allra manna til að heimsækja annað himintungl."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1929",
+      "texti": "Þór, fyrsta varðskip Íslendinga, strandaði við Húnaflóa. Allir björguðust, sem var sannarlega besta mögulega niðurstaðan úr vondum sjóferðardegi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1930",
+      "texti": "Ríkisútvarpið hóf útsendingar og íslensk heimili fengu nýjan glugga að fréttum, menningu og síðar ótal stundum af veðurspám.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1945",
+      "texti": "Ný hengibrú yfir Ölfusá var formlega opnuð fyrir umferð. Hún hafði 84 metra milli stöpla og leysti af hólmi brúna frá 1891.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1952",
+      "texti": "Kveikt var á stóru jólatré á Austurvelli, gjöf Óslóarbúa til Reykvíkinga. Gjöfin varð upphaf árlegs jólasiðar sem hefur lýst upp skammdegið síðan.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ben Chilwell",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Kaitlyn Dever",
+      "starfsgrein": "leikkona",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Madelyn Cline",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Clara Tauson",
+      "starfsgrein": "tenniskona",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Alicia Alonso",
+      "starfsgrein": "ballettdansari og danshöfundur",
+      "ar": "1920"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Brandur Brynjólfsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1916"
+    },
+    {
+      "nafn": "Þorsteinn Ö. Stephensen",
+      "starfsgrein": "leikari",
+      "ar": "1904"
+    },
+    {
+      "nafn": "Hringur Jóhannesson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1932"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar lagði af stað til tunglsins 21. desember 1968?",
+      "svor": [
+        "Apollo 8",
+        "Apollo 11",
+        "Vega 2",
+        "Challenger"
+      ],
+      "rett": 0,
+      "skyring": "Apollo 8 flutti fyrstu mennina sem heimsóttu annað himintungl."
+    },
+    {
+      "spurning": "Hvaða íslenska stofnun hóf útsendingar árið 1930?",
+      "svor": [
+        "Kvikmyndamiðstöð Íslands",
+        "Ríkisútvarpið",
+        "Stofnun Árna Magnússonar",
+        "Samskip"
+      ],
+      "rett": 1,
+      "skyring": "Ríkisútvarpið hóf útsendingar og skammdegið varð samstundis örlítið málgefnara."
+    },
+    {
+      "spurning": "Hvaða kvikmynd var frumsýnd 21. desember 1937?",
+      "svor": [
+        "Bambi",
+        "Öskubuska",
+        "Mjallhvít og dvergarnir sjö",
+        "Gosa"
+      ],
+      "rett": 2,
+      "skyring": "Mjallhvít og dvergarnir sjö markaði tímamót í sögu teiknimynda."
+    }
+  ],
+  "tonlistUSA": "Say You, Say Me – Lionel Richie (1985)",
+  "tonlistUK": "Merry Christmas Everyone – Shakin’ Stevens (1985)",
+  "bio": "Mjallhvít og dvergarnir sjö (1937)",
+  "ord_dagsins": {
+    "ord": "skammdegi",
+    "skyring": "Skammdegi er dimmasti hluti vetrarins þegar dagurinn er stuttur og sólargangur lítill."
+  },
+  "vissir_thu": "Apollo 8 lenti ekki á tunglinu, en áhöfnin varð fyrst manna til að ferðast þangað og fara á braut um það.",
+  "stjornuspa": "Bogmaður, í dag kallar ævintýraþráin á þig eins og tunglið kallaði á Apollo 8 — en athugaðu eldsneytismælinn áður en þú leggur af stað. Gamalt verkefni gæti loksins komist yfir sína Ölfusárbrú ef þú gefur því eina rösklega atrennu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Robert_Walter_Weir_-_Embarkation_of_the_Pilgrims_-_Google_Art_Project.jpg/500px-Robert_Walter_Weir_-_Embarkation_of_the_Pilgrims_-_Google_Art_Project.jpg",
+    "ar": "1620",
+    "texti": "Pílagrímarnir á Mayflower gengu á land þar sem nú er Plymouth í Massachusetts og hófu þar uppbyggingu Plymouth-nýlendunnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Pilgrims_(Plymouth_Colony)",
+    "breidd": 330,
+    "haed": 219
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

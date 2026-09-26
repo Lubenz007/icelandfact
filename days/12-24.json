@@ -1,0 +1,137 @@
+{
+  "mmdd": "12-24",
+  "dagur": 24,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:23",
+  "sunset": "15:31",
+  "kvedja": "Gleðilegan aðfangadag, kæri lesandi! Í dag ómar „Heims um ból“, Apollo 8 svífur um tunglið og íslenskar jólakveðjur berast yfir landið — sagan kann svo sannarlega að skapa hátíðarstemningu.",
+  "nafnadagur": "Adam",
+  "atburdir": [
+    {
+      "ar": "759",
+      "texti": "Kínverska Tang-skáldið Du Fu hélt til Chengdu, þar sem hann bjó næstu fimm árin og orti meðal annars um lífið í stráþakskofa sínum. Stundum þarf stórskáld ekki meira en lítið hús og nægan blekforða."
+    },
+    {
+      "ar": "1818",
+      "texti": "Jólasálmurinn „Heims um ból“ eftir Joseph Mohr og Franz Gruber var frumfluttur í kirkju í Oberndorf nærri Salzburg í Austurríki. Fá lög hafa síðan ferðast jafn víða á jafn hljóðlátum nótum."
+    },
+    {
+      "ar": "1871",
+      "texti": "Óperan „Aida“, eitt vinsælasta verk Giuseppe Verdis, var frumflutt í Kaíró í Egyptalandi. Þar mættust ást, dramatík og lúðrar af þeirri stærðargráðu sem aðeins óperan ræður við."
+    },
+    {
+      "ar": "1914",
+      "texti": "Breskir og þýskir hermenn gerðu hlé á bardögum fyrri heimsstyrjaldarinnar og hófu hið svonefnda jólavopnahlé. Um stund reyndist jólaandinn öflugri en skipanir herforingjanna."
+    },
+    {
+      "ar": "1968",
+      "texti": "Apollo 8, undir stjórn Jims Lovell, varð fyrsta mannaða geimfarið til að ná til tunglsins og fara á braut um það. Jörðin fékk um leið eitt áhrifamesta fjölskyldumyndaalbúm sögunnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1613",
+      "texti": "Sagnir herma að snjóflóð hafi fallið á fólk úr Siglufirði sem var á leið til guðsþjónustu á Siglunesi og að fimmtíu hafi farist. Engar samtímaheimildir eru þó til um slysið og margir telja að það hafi aldrei átt sér stað.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1934",
+      "texti": "Ríkisútvarpið hóf lestur jólakveðja klukkan 20:30. Hefðin hefur lifað góðu lífi síðan og nöfn staða og skipa orðið hluti af sjálfu jólahljóðlandslaginu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1956",
+      "texti": "Fimmtíu og tveir flóttamenn frá Ungverjalandi komu til Íslands fyrir tilstilli Rauða kross Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1989",
+      "texti": "Vindhviða á Stórhöfða í Vestmannaeyjum mældist 120 hnútar, eða 224 kílómetrar á klukkustund, og jafnaði eldra met. Það var veður sem hefði sent jafnvel jólasveinana beina leið aftur upp í sleða.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ava Gardner",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Jóhann Englandskonungur",
+      "starfsgrein": "Englandskonungur",
+      "ar": "1166"
+    },
+    {
+      "nafn": "Alexis Mac Allister",
+      "starfsgrein": "argentínskur knattspyrnumaður",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Anil Kapoor",
+      "starfsgrein": "indverskur leikari og framleiðandi",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Anthony Fauci",
+      "starfsgrein": "bandarískur læknir og ónæmisfræðingur",
+      "ar": "1940"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar fór fyrst með menn á braut um tunglið?",
+      "svor": [
+        "Apollo 8",
+        "Apollo 11",
+        "Sputnik 1",
+        "Voyager 1"
+      ],
+      "rett": 0,
+      "skyring": "Apollo 8 náði þessum merka áfanga á aðfangadag árið 1968."
+    },
+    {
+      "spurning": "Hvaða sígildi jólasálmur var frumfluttur árið 1818?",
+      "svor": [
+        "Bjart er yfir Betlehem",
+        "Heims um ból",
+        "Jólakötturinn",
+        "Nóttin var sú ágæt ein"
+      ],
+      "rett": 1,
+      "skyring": "„Heims um ból“ hljómaði fyrst í kirkju í Oberndorf í Austurríki."
+    },
+    {
+      "spurning": "Hvaða aðfangadagshefð hóf Ríkisútvarpið árið 1934?",
+      "svor": [
+        "Beina útsendingu frá Alþingi",
+        "Flutning á óperunni Aida",
+        "Lestur jólakveðja",
+        "Veðurfréttir frá tunglinu"
+      ],
+      "rett": 2,
+      "skyring": "Lestur jólakveðja hófst klukkan 20:30 og varð að rótgróinni hefð."
+    }
+  ],
+  "tonlistUSA": "Like a Virgin – Madonna (1984)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "aftansöngur",
+    "skyring": "Aftansöngur er guðsþjónusta sem haldin er að kvöldi eða síðdegis, meðal annars á aðfangadag."
+  },
+  "vissir_thu": "Apollo 8 flutti fyrstu mennina sem fóru á braut um annan hnött en jörðina.",
+  "stjornuspa": "Steinbukurinn finnur í dag lausn á vandamáli sem aðrir töldu þurfa þrjá fundi og nefnd. Mundu þó að jólapakkar lúta ekki verkefnastjórnun, hversu vel sem merkimiðarnir eru litakóðaðir.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Tang_outline_map%2C_661.svg/500px-Tang_outline_map%2C_661.svg.png",
+    "ar": "759",
+    "texti": "Kínverska Tang-skáldið Du Fu hélt til Chengdu, þar sem hann bjó næstu fimm árin og orti meðal annars um lífið í stráþakskofa sínum. Stundum þarf stórskáld ekki meira en lítið hús og nægan blekforða.",
+    "heimild": "https://en.wikipedia.org/wiki/Tang_dynasty",
+    "breidd": 330,
+    "haed": 194
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

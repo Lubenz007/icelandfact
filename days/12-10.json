@@ -1,0 +1,143 @@
+{
+  "mmdd": "12-10",
+  "dagur": 10,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:06",
+  "sunset": "15:33",
+  "kvedja": "Góðan 10. desember! Í dag ber okkur frá þyngdarlögmálinu til Doom, með viðkomu hjá Nóbelsverðlaunum og íslenskum tannlækningum — saga dagsins er sannarlega með fullri þjónustu. Helltu upp á eitthvað gott og komdu með; fortíðin bíður ekki eftir neinum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1684",
+      "texti": "Edmond Halley lagði fyrir Konunglega breska vísindafélagið ritgerð þar sem sýnt var hvernig Isaac Newton leiddi lögmál Keplers af kenningu sinni um þyngdaraflið. Eplið var sem sagt komið í afar virðulegan vísindalegan búning."
+    },
+    {
+      "ar": "1768",
+      "texti": "Fyrsta útgáfa Encyclopædia Britannica kom út í Edinborg. Þar með hófst eitt kunnasta alfræðirit heims — eins konar Wikipedia upplýsingaraldar með meira leðri og minna skrun."
+    },
+    {
+      "ar": "1901",
+      "texti": "Fyrstu Nóbelsverðlaunin voru afhent í Stokkhólmi, á fimm ára dánardegi Alfreds Nobel. Síðan hefur 10. desember verið hátíðlegur dagur vísinda, bókmennta og einkar vandaðs spariklæðnaðar."
+    },
+    {
+      "ar": "1936",
+      "texti": "Játvarður 8. undirritaði afsögn sína sem Bretakonungur vegna áforma sinna um að kvænast bandarísku samkvæmiskonunni Wallis Simpson. Bróðir hans tók við krúnunni sem Georg 6."
+    },
+    {
+      "ar": "1993",
+      "texti": "Tölvuleikurinn Doom kom út og varð síðar talinn einn af feðrum fyrstu persónu skotleikja. Skrímslin fengu engan aðlögunartíma og skrifstofutölvur heimsins litla hvíld."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1886",
+      "texti": "Í Þjóðólfi birtist fyrsta íslenska auglýsingin um tannlækningar þegar Oscar Nickolin bauð „tannlækningar án þess að draga tennurnar úr“. Það hefur eflaust verið tónlist í eyrum margra, þótt borvélin væri það síður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1907",
+      "texti": "Fyrsta bílferð norðanlands var farin þegar vörubíl var ekið frá Akureyri að Grund í Eyjafirði. Hestarnir við veginn hafa líklega talið þetta óþarfa uppátæki.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1924",
+      "texti": "Rauði kross Íslands var stofnaður í Reykjavík og Sveinn Björnsson, síðar forseti Íslands, varð fyrsti formaður samtakanna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1955",
+      "texti": "Halldór Laxness tók við Nóbelsverðlaununum í bókmenntum í Stokkhólmi. Íslenskan mætti þar í sparifötunum á eitt stærsta svið heims.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ada Lovelace",
+      "starfsgrein": "stærðfræðingur og frumkvöðull í tölvunarfræði",
+      "ar": "1815"
+    },
+    {
+      "nafn": "Bobby Flay",
+      "starfsgrein": "matreiðslumaður og höfundur",
+      "ar": "1964"
+    },
+    {
+      "nafn": "Brian Molko",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Cornelia Funke",
+      "starfsgrein": "rithöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Alexander Courage",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1919"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Theodór Árnason",
+      "starfsgrein": "þýðandi",
+      "ar": "1889"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tölvuleikur kom út 10. desember 1993 og varð einn af feðrum fyrstu persónu skotleikja?",
+      "svor": [
+        "Doom",
+        "Tetris",
+        "SimCity",
+        "Pac-Man"
+      ],
+      "rett": 0,
+      "skyring": "Doom ruddi sér leið inn í leikjasöguna árið 1993, með heldur meiri látum en flestir feður."
+    },
+    {
+      "spurning": "Hver tók við Nóbelsverðlaununum í bókmenntum árið 1955?",
+      "svor": [
+        "Sveinn Björnsson",
+        "Halldór Laxness",
+        "Edmond Halley",
+        "Theodór Árnason"
+      ],
+      "rett": 1,
+      "skyring": "Halldór Laxness tók við verðlaununum í Stokkhólmi og bar íslenskar bókmenntir upp á heimssvið."
+    },
+    {
+      "spurning": "Hvar hófst fyrsta bílferð norðanlands árið 1907?",
+      "svor": [
+        "Í Reykjavík",
+        "Á Ísafirði",
+        "Á Akureyri",
+        "Á Egilsstöðum"
+      ],
+      "rett": 2,
+      "skyring": "Vörubílnum var ekið frá Akureyri að Grund í Eyjafirði — stórferð á mælikvarða ársins 1907."
+    }
+  ],
+  "tonlistUSA": "Say Say Say – Paul McCartney og Michael Jackson (1983)",
+  "tonlistUK": "Only You – The Flying Pickets (1983)",
+  "bio": "Hringadróttinssaga: Föruneyti hringsins (2001)",
+  "ord_dagsins": {
+    "ord": "útmánuðir",
+    "skyring": "Útmánuðir eru síðustu mánuðir vetrar samkvæmt gamla íslenska tímatalinu."
+  },
+  "vissir_thu": "Ada Lovelace samdi lýsingu á reikniriti fyrir greiningarvél Charles Babbage og er því oft talin fyrsti tölvuforritarinn.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, en reyndu að útskýra þær áður en þú hleypur af stað eins og vörubíllinn frá Akureyri 1907. Gamalt verkefni gæti loksins smollið saman — jafnvel án hjálpar frá Newton.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Edmund_Halley.jpg/500px-Edmund_Halley.jpg",
+    "ar": "1684",
+    "texti": "Edmond Halley lagði fyrir Konunglega breska vísindafélagið ritgerð þar sem sýnt var hvernig Isaac Newton leiddi lögmál Keplers af kenningu sinni um þyngdaraflið. Eplið var sem sagt komið í afar virðulegan vísindalegan búning.",
+    "heimild": "https://en.wikipedia.org/wiki/Edmond_Halley",
+    "breidd": 330,
+    "haed": 402
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

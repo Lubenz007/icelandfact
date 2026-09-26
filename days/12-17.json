@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-17",
+  "dagur": 17,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:18",
+  "sunset": "15:28",
+  "kvedja": "Góðan 17. desember, kæri lesandi! Í dag röltum við frá Róm Totila til flugmóðurskipsins Bjarna Sæmundssonar, með viðkomu hjá týndum forsætisráðherra og fána sem beið aldir undir torgi — sagan kann sannarlega að taka óvæntar beygjur.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "546",
+      "texti": "Ostrogotar undir stjórn Totila rændu Róm eftir árslangt umsátur. Hin eilífa borg átti greinilega ekki eilífan frið."
+    },
+    {
+      "ar": "1790",
+      "texti": "Azteka-sólsteinninn var grafinn upp á Zócalo, aðaltorgi Mexíkóborgar. Hann varð síðar eitt kunnasta tákn mexíkóskrar menningar."
+    },
+    {
+      "ar": "1939",
+      "texti": "Þýska beitiskipinu Graf Spee var sökkt að skipan Hans Langsdorff skipherra undan Úrúgvæ, eftir að það hafði skemmst í orrustunni við Río de la Plata."
+    },
+    {
+      "ar": "1967",
+      "texti": "Harold Holt, forsætisráðherra Ástralíu, hvarf á sundi nærri Portsea í Viktoríu. Lík hans fannst aldrei og hvarfið varð ein dularfyllsta ráðgáta ástralskra stjórnmála."
+    },
+    {
+      "ar": "2010",
+      "texti": "Túniski götusalinn Mohamed Bouazizi kveikti í sér til að mótmæla áreitni lögreglu. Örvæntingarverk hans varð kveikja túnisku byltingarinnar og Arabíska vorsins."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1730",
+      "texti": "Henrik Ochsen var skipaður stiftamtmaður yfir Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1875",
+      "texti": "Fyrsta íslenska löggjöfin um ljósmæður tók gildi, mikilvægt skref í skipulagðri heilbrigðisþjónustu landsins.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1970",
+      "texti": "Hafrannsóknaskipið Bjarni Sæmundsson kom til landsins og efldi rannsóknir Íslendinga á hafinu og nytjastofnum þess.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1983",
+      "texti": "Íslenska kvikmyndin Skilaboð til Söndru var frumsýnd.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Pullman",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Chelsea Manning",
+      "starfsgrein": "bandarískur uppljóstrari og fyrrverandi hermaður",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Bernard Hill",
+      "starfsgrein": "enskur leikari",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Armin Mueller-Stahl",
+      "starfsgrein": "þýskur leikari og listmálari",
+      "ar": "1930"
+    },
+    {
+      "nafn": "André Ayew",
+      "starfsgrein": "ganverskur knattspyrnumaður",
+      "ar": "1989"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Kalman Stefánsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Hermanníus E. Johnson",
+      "starfsgrein": "lögfræðingur",
+      "ar": "1825"
+    },
+    {
+      "nafn": "Þorgrímur Þórðarson",
+      "starfsgrein": "læknir",
+      "ar": "1859"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða forsætisráðherra hvarf sporlaust á sundi árið 1967?",
+      "svor": [
+        "Harold Holt",
+        "Bill Pullman",
+        "Hans Langsdorff",
+        "Antanas Smetona"
+      ],
+      "rett": 0,
+      "skyring": "Harold Holt hvarf við strönd Viktoríu og fannst aldrei."
+    },
+    {
+      "spurning": "Hvaða frægi fornleifafundur kom upp úr jörðinni í Mexíkóborg árið 1790?",
+      "svor": [
+        "Rosettusteinninn",
+        "Azteka-sólsteinninn",
+        "Víkingasverð",
+        "Terrakottahermaður"
+      ],
+      "rett": 1,
+      "skyring": "Azteka-sólsteinninn fannst á Zócalo og varð síðar þjóðþekkt menningartákn."
+    },
+    {
+      "spurning": "Hvaða íslenska hafrannsóknaskip kom til landsins árið 1970?",
+      "svor": [
+        "Óðinn",
+        "Baldur",
+        "Bjarni Sæmundsson",
+        "Gullfoss"
+      ],
+      "rett": 2,
+      "skyring": "Bjarni Sæmundsson kom til landsins og hélt á vit fiskanna í nafni vísindanna."
+    }
+  ],
+  "tonlistUSA": "Say Say Say – Paul McCartney og Michael Jackson (1983)",
+  "tonlistUK": "Only You – The Flying Pickets (1983)",
+  "bio": "The Lord of the Rings: The Return of the King (2003)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fallegt þegar horft er út um glugga en reynist óþægilegt þegar út er komið."
+  },
+  "vissir_thu": "Azteka-sólsteinninn er ekki sólardagatal í einföldum skilningi, heldur stórt höggmyndaverk með flókinni myndgerð úr heimsmynd Azteka.",
+  "stjornuspa": "Bogmaður, í dag skaltu stefna hátt en hafa augun opin — jafnvel Graf Spee þurfti að endurskoða siglingaráætlunina. Gömul hugmynd gæti skotið upp kollinum eins og sólsteinn á torgi, svo hafðu skófluna og húmorinn við höndina.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Gothic_War_army_movements_second_phase.svg/500px-Gothic_War_army_movements_second_phase.svg.png",
+    "ar": "546",
+    "texti": "Ostrogotar undir stjórn Totila rændu Róm eftir árslangt umsátur. Hin eilífa borg átti greinilega ekki eilífan frið.",
+    "heimild": "https://en.wikipedia.org/wiki/Sack_of_Rome_(546)",
+    "breidd": 330,
+    "haed": 362
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

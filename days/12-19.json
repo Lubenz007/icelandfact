@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-19",
+  "dagur": 19,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:20",
+  "sunset": "15:28",
+  "kvedja": "Góðan 19. desember! Í dag sveiflum við okkur frá krýningu Hinriks 2. yfir í drauga Dickens og alla leið út í stjörnukortlagningu Gaia — sagan kann sannarlega að fara stóran hring. Haltu fast í kaffibollann; það er töluverður vindur í tímavélinni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1154",
+      "texti": "Hinrik 2. var krýndur konungur Englands í Westminster Abbey í Lundúnum. Þar hófst löng valdatíð konungs sem átti eftir að setja rækilegt mark á enska sögu."
+    },
+    {
+      "ar": "1776",
+      "texti": "Thomas Paine gaf út fyrsta bæklinginn í ritröðinni The American Crisis og hóf hann á orðunum: „Þetta eru tímarnir sem reyna á sálir manna.“ Vart verður sagt að hann hafi byrjað á veðurspjalli."
+    },
+    {
+      "ar": "1843",
+      "texti": "Jóladraumur eftir Charles Dickens kom út og kynnti lesendum nirfilinn Ebenezer Scrooge og umbreytingu hans eftir óvenjulega annasama drauganótt."
+    },
+    {
+      "ar": "1984",
+      "texti": "Kína og Bretland undirrituðu sameiginlega yfirlýsingu um að fullveldi yfir Hong Kong færðist til Kína 1. júlí 1997."
+    },
+    {
+      "ar": "2013",
+      "texti": "Geimfar Evrópsku geimferðastofnunarinnar, Gaia, var sent á loft til að útbúa stærsta og nákvæmasta stjörnuskrá sem gerð hafði verið. Stjörnurnar fengu þar með afar metnaðarfullan bókara."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1821",
+      "texti": "Eldgos hófst í Eyjafjallajökli, löngu áður en nafn fjallsins varð alþjóðlegt framburðarpróf.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1901",
+      "texti": "Stórbruni varð á Akureyri; tólf hús brunnu og 50 manns urðu heimilislaus.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1943",
+      "texti": "B-25-sprengjuflugvél lenti á hvolfi skammt sunnan Grandavegar í Reykjavík í aðflugi að flugvellinum í Vatnsmýri. Þrír hermenn létust.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2006",
+      "texti": "Rússneska flutningaskipið Wilson Muuga strandaði á Hvalsnesi í Sandgerðisbæ. Öll áhöfnin bjargaðist, en danskur sjóliði fórst við björgunarstörf.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alyssa Milano",
+      "starfsgrein": "leikkona og aðgerðasinni",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Brandon Sanderson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Annie Murphy",
+      "starfsgrein": "leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Alexis Sánchez",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Arvydas Sabonis",
+      "starfsgrein": "körfuknattleiksmaður",
+      "ar": "1964"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Alfreð Flóki",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1938"
+    },
+    {
+      "nafn": "Jón Júlíusson",
+      "starfsgrein": "leikari",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Jónatan Þórmundsson",
+      "starfsgrein": "lögfræðingur",
+      "ar": "1937"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bók kom út 19. desember 1843?",
+      "svor": [
+        "Jóladraumur",
+        "Oliver Twist",
+        "Drakúla",
+        "Gulliver í Putalandi"
+      ],
+      "rett": 0,
+      "skyring": "Jóladraumur Dickens kom út árið 1843 og Scrooge hefur síðan verið ókrýndur konungur jólafýlunnar."
+    },
+    {
+      "spurning": "Hvaða geimfar var sent á loft árið 2013 til að kortleggja stjörnurnar af mikilli nákvæmni?",
+      "svor": [
+        "Voyager 1",
+        "Gaia",
+        "Cassini",
+        "Hubble"
+      ],
+      "rett": 1,
+      "skyring": "Gaia var send á loft til að smíða gríðarlega stóra og nákvæma stjörnuskrá."
+    },
+    {
+      "spurning": "Hvar varð stórbruni sem gerði 50 manns heimilislausa árið 1901?",
+      "svor": [
+        "Í Reykjavík",
+        "Á Ísafirði",
+        "Á Akureyri",
+        "Á Seyðisfirði"
+      ],
+      "rett": 2,
+      "skyring": "Bruninn varð á Akureyri, þar sem tólf hús urðu eldinum að bráð."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "Don't You Want Me – The Human League (1981)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skyndilegt kulda- og óveðursskeið, gjarnan með snjókomu."
+  },
+  "vissir_thu": "Gaia-geimfarinu var ætlað að kortleggja staðsetningu og hreyfingu stjarna með áður óþekktri nákvæmni og þannig varpa ljósi á gerð og þróun Vetrarbrautarinnar.",
+  "stjornuspa": "Bogmaðurinn finnur í dag fyrir ævintýraþrá sem gæti leitt hann annaðhvort út í heim eða inn í rykuga bókahillu. Varastu þó að lofa meiru en þú getur staðið við — jafnvel Scrooge þurfti heila þrjá drauga til að skipta um stefnu.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Henry_II_Illumination.jpg/330px-Henry_II_Illumination.jpg",
+    "ar": "1154",
+    "texti": "Hinrik 2. var krýndur konungur Englands í Westminster Abbey í Lundúnum. Þar hófst löng valdatíð konungs sem átti eftir að setja rækilegt mark á enska sögu.",
+    "heimild": "https://en.wikipedia.org/wiki/Henry_II_of_England",
+    "breidd": 330,
+    "haed": 424
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

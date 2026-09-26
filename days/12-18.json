@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-18",
+  "dagur": 18,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:19",
+  "sunset": "15:28",
+  "kvedja": "Góðan 18. desember! Í dag förum við úr uppreisn á Spáni og út í geim, með viðkomu á íslensku leiksviði og hjá afmælisbarninu Brad Pitt. Sagan er nefnilega eins og desemberhlaðborð: ólíklegt er að allt passi saman, en maður fær sér samt aðeins meira.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1499",
+      "texti": "Múslimar í Granada hófu uppreisn gegn kastilískum valdhöfum eftir að þeim var þröngvað til að taka kaþólska trú. Þar sauð upp úr langvarandi trúarlegri og pólitískri spennu."
+    },
+    {
+      "ar": "1792",
+      "texti": "Thomas Paine var fundinn sekur um uppreisnaráróður vegna útgáfu síðari hluta bókarinnar Rights of Man. Hugmyndir um réttindi almennings þóttu greinilega ekki alltaf þægilegt stofustáss."
+    },
+    {
+      "ar": "1958",
+      "texti": "Bandaríkin skutu SCORE á loft, fyrsta fjarskiptagervihnetti heims. Þar með tók mannkynið stórt skref í átt að heimi þar sem skilaboð ferðast um geiminn áður en þau berast næsta manni."
+    },
+    {
+      "ar": "1966",
+      "texti": "Tunglið Epimetheus fannst við Satúrnus en var fyrst talið vera Janus. Tólf ár liðu áður en vísindamenn staðfestu að þetta væru tvö tungl sem deila sömu braut."
+    },
+    {
+      "ar": "1996",
+      "texti": "Skólastjórn Oakland í Kaliforníu samþykkti umdeilda ályktun þar sem afrísk-amerísk enska var formlega skilgreind sem sérstakt tungumál eða mállýska. Ákvörðunin hratt af stað fjörugum umræðum um mál, menntun og menningarlega sjálfsmynd."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1836",
+      "texti": "Bærinn á Norðureyri við Súgandafjörð brotnaði í spón í snjóflóði og sex manns fórust. Talið er að bærinn hafi orðið fyrir fleiri snjóflóðum en nokkur annar bær á Íslandi.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1897",
+      "texti": "Leikfélag Reykjavíkur hélt sína fyrstu leiksýningu, sama ár og félagið var stofnað. Tjöldin voru þar með dregin frá löngum kafla í íslenskri leiklistarsögu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1998",
+      "texti": "Gos hófst í Grímsvötnum og í fyrsta sinn gátu vísindamenn fylgst með eldgosi undir stórum jökli. Ís og eldur sýndu enn á ný að þau kunna býsna dramatískan tvíleik.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2023",
+      "texti": "Öflugt eldgos hófst við Sundhnúksgíga á Reykjanesskaga. Rauður bjarminn minnti landsmenn rækilega á að jarðfræðin tekur sér sjaldan jólafrí.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Brad Pitt",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Franz Ferdinand af Austurríki",
+      "starfsgrein": "erkihertogi og ríkiserfingi",
+      "ar": "1863"
+    },
+    {
+      "nafn": "Kristín Svíadrottning",
+      "starfsgrein": "drottning Svíþjóðar",
+      "ar": "1626"
+    },
+    {
+      "nafn": "Arantxa Sánchez Vicario",
+      "starfsgrein": "tenniskona og íþróttaskýrandi",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Axwell",
+      "starfsgrein": "plötusnúður og tónlistarframleiðandi",
+      "ar": "1977"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Andie Sophia Fontaine",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Þóra Melsteð",
+      "starfsgrein": "skólastjóri og stofnandi Kvennaskólans í Reykjavík",
+      "ar": "1823"
+    },
+    {
+      "nafn": "Vilhjálmur Egilsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1952"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað hét fyrsti fjarskiptagervihnöttur heims?",
+      "svor": [
+        "SCORE",
+        "Epimetheus",
+        "Janus",
+        "Sundhnúkur"
+      ],
+      "rett": 0,
+      "skyring": "SCORE var skotið á loft af Bandaríkjunum árið 1958."
+    },
+    {
+      "spurning": "Hvaða íslenska leikfélag hélt sína fyrstu sýningu 18. desember 1897?",
+      "svor": [
+        "Leikfélag Akureyrar",
+        "Þjóðleikhúsið",
+        "Leikfélag Reykjavíkur",
+        "Vesturport"
+      ],
+      "rett": 2,
+      "skyring": "Leikfélag Reykjavíkur steig sín fyrstu sýningarskref árið 1897."
+    },
+    {
+      "spurning": "Hvaða Hollywoodstjarna fæddist 18. desember 1963?",
+      "svor": [
+        "George Clooney",
+        "Brad Pitt",
+        "Tom Hanks",
+        "Matt Damon"
+      ],
+      "rett": 1,
+      "skyring": "Brad Pitt er afmælisbarn dagsins og fæddist árið 1963."
+    }
+  ],
+  "tonlistUSA": "Maneater – Daryl Hall & John Oates (1982)",
+  "tonlistUK": "Save Your Love – Renée and Renato (1982)",
+  "bio": "Avatar (2009)",
+  "ord_dagsins": {
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fallegt þegar horft er út um glugga en reynist ónotalegt þegar út er komið."
+  },
+  "vissir_thu": "Tunglin Epimetheus og Janus ganga um Satúrnus á svo líkri braut að Epimetheus var upphaflega talið vera Janus; tólf ár tók að staðfesta að þau væru tvö aðskilin tungl.",
+  "stjornuspa": "Bogmaður, í dag skaltu miða hátt, en ekki svo hátt að örin lendi á SCORE-gervihnettinum. Gamalt verkefni gæti komist aftur á braut ef þú beitir bjartsýninni og örlitlu desemberþrjóskunni.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Granada_%2825987961022%29.jpg/500px-Granada_%2825987961022%29.jpg",
+    "ar": "1499",
+    "texti": "Múslimar í Granada hófu uppreisn gegn kastilískum valdhöfum eftir að þeim var þröngvað til að taka kaþólska trú. Þar sauð upp úr langvarandi trúarlegri og pólitískri spennu.",
+    "heimild": "https://en.wikipedia.org/wiki/Granada",
+    "breidd": 330,
+    "haed": 248
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

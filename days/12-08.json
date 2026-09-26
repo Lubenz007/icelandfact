@@ -1,0 +1,143 @@
+{
+  "mmdd": "12-08",
+  "dagur": 8,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:02",
+  "sunset": "15:35",
+  "kvedja": "Góðan 8. desember! Í dag stígum við á svið með fyrstu atvinnuleikkonu Englands, leysum upp heilt stórveldi og endum svo á rokktónleikum í Suðurskautslandinu — sagnfræðin kann greinilega ekki að sitja kyrr. Klæddu þig vel og komdu með; þetta verður hressilegt ferðalag.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1504",
+      "texti": "Ahmad ibn Abi Jum'ah samdi Oran-úrskurðinn svonefnda, þar sem hann heimilaði múslimum á Spáni, sem höfðu verið neyddir til kristinnar trúar, að slaka á trúarreglum við hinar erfiðu aðstæður."
+    },
+    {
+      "ar": "1660",
+      "texti": "Margaret Hughes kom fram sem atvinnuleikkona á ensku leiksviði og er talin hafa verið fyrsta konan til þess. Tjöldin risu — og gömul kynjahlutverk fengu loks mótleikara."
+    },
+    {
+      "ar": "1854",
+      "texti": "Píus 9. páfi gaf út postullegu stjórnarskrána Ineffabilis Deus og skilgreindi kenninguna um hinn flekklausa getnað Maríu meyjar, það er að hún hefði verið getin án erfðasyndar."
+    },
+    {
+      "ar": "1991",
+      "texti": "Leiðtogar Hvíta-Rússlands, Rússlands og Úkraínu undirrituðu Belavezha-samkomulagið, samþykktu að leysa Sovétríkin upp og stofna Samveldi sjálfstæðra ríkja."
+    },
+    {
+      "ar": "2013",
+      "texti": "Metallica hélt tónleika á Suðurskautslandinu og varð fyrsta hljómsveitin til að spila í öllum sjö heimsálfunum. Þar með hafði þungarokkið bókstaflega náð út í hvert horn jarðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1936",
+      "texti": "Listaverkabúð var opnuð í Reykjavík og bauð verk eftir marga af þekktustu listamönnum Íslands.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1971",
+      "texti": "Undirritað var samkomulag um stjórnmálasamband Íslands og Kína; ári síðar opnuðu Kínverjar sendiráð í Reykjavík.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Mótmælendahópurinn Nímenningarnir reyndi að komast upp á palla Alþingis, en fólkið var handtekið og síðar ákært fyrir árás á Alþingi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2009",
+      "texti": "Framtakssjóður Íslands var stofnaður.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "AnnaSophia Robb",
+      "starfsgrein": "leikkona",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Ann Coulter",
+      "starfsgrein": "stjórnmálaskýrandi og rithöfundur",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Arne Næss Jr.",
+      "starfsgrein": "fjallgöngumaður og kaupsýslumaður",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Amir Khan",
+      "starfsgrein": "hnefaleikamaður",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Adolph Menzel",
+      "starfsgrein": "listmálari og myndskreytir",
+      "ar": "1815"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Baldur Guðlaugsson",
+      "starfsgrein": "hæstaréttarlögmaður",
+      "ar": "1946"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða hljómsveit lauk árið 2013 við að spila í öllum sjö heimsálfunum?",
+      "svor": [
+        "Metallica",
+        "Eagles",
+        "Pantera",
+        "The Beatles"
+      ],
+      "rett": 0,
+      "skyring": "Metallica spilaði á Suðurskautslandinu og hakaði þar með við síðasta ískalda reitinn."
+    },
+    {
+      "spurning": "Hvaða þrjú ríki áttu leiðtoga sem undirrituðu samkomulagið um upplausn Sovétríkjanna árið 1991?",
+      "svor": [
+        "Pólland, Rússland og Litháen",
+        "Rússland, Georgía og Eistland",
+        "Hvíta-Rússland, Rússland og Úkraína",
+        "Úkraína, Lettland og Moldóva"
+      ],
+      "rett": 2,
+      "skyring": "Leiðtogar Hvíta-Rússlands, Rússlands og Úkraínu settu nöfn sín undir hið sögulega samkomulag."
+    },
+    {
+      "spurning": "Hvað gerðist í Reykjavík 8. desember 1936?",
+      "svor": [
+        "Kínverskt sendiráð var opnað",
+        "Listaverkabúð var opnuð",
+        "Framtakssjóður Íslands var stofnaður",
+        "Nímenningarnir fóru á palla Alþingis"
+      ],
+      "rett": 1,
+      "skyring": "Ný listaverkabúð bauð Reykvíkingum verk eftir marga af þekktustu listamönnum landsins."
+    }
+  ],
+  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
+  "tonlistUK": "Super Trouper – ABBA (1980)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "sólsegl",
+    "skyring": "Sólsegl er segl á geimfari sem nýtir þrýsting frá ljósi sólar til að knýja farið áfram."
+  },
+  "vissir_thu": "Metallica varð árið 2013 fyrsta hljómsveitin til að koma fram í öllum sjö heimsálfunum.",
+  "stjornuspa": "Bogmaður, í dag finnurðu ævintýraþrána toga í þig eins og sólsegl í geimfari. Ekki lofa þó tónleikum í öllum sjö heimsálfunum fyrir kvöldmat — byrjaðu á einu góðu erindi og sjáðu hvert það ber þig.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Portrait_of_Margaret_Hughes_by_Peter_Lely%2C_1672.jpg/500px-Portrait_of_Margaret_Hughes_by_Peter_Lely%2C_1672.jpg",
+    "ar": "1660",
+    "texti": "Margaret Hughes kom fram sem atvinnuleikkona á ensku leiksviði og er talin hafa verið fyrsta konan til þess. Tjöldin risu — og gömul kynjahlutverk fengu loks mótleikara.",
+    "heimild": "https://en.wikipedia.org/wiki/Margaret_Hughes",
+    "breidd": 330,
+    "haed": 415
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

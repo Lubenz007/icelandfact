@@ -1,0 +1,137 @@
+{
+  "mmdd": "12-16",
+  "dagur": 16,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:16",
+  "sunset": "15:28",
+  "kvedja": "Góðan 16. desember! Í dag ber okkur frá tepokalausri uppreisn í Boston til kanínunnar Péturs, með viðkomu í Carnegie Hall og Kópavogskirkju. Sagan kann svo sannarlega að blanda saman ólíkum hráefnum — og stundum endar teið meira að segja í höfninni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1773",
+      "texti": "Nýlendubúar vörpuðu tekistum í Bostonhöfn til að mótmæla breskri skattheimtu án pólitískrar fulltrúaaðildar. Tebollinn varð sjaldan jafn pólitískur og þennan dag."
+    },
+    {
+      "ar": "1811",
+      "texti": "Fyrstu tveir af fjórum gríðaröflugum jarðskjálftum riðu yfir miðvesturhluta Bandaríkjanna. Hamfarirnar voru svo miklar að Mississippi-fljót virtist um stund renna aftur á bak."
+    },
+    {
+      "ar": "1893",
+      "texti": "Nýjaheims-sinfónía Antoníns Dvořák var frumflutt í Carnegie Hall í New York. Þar mættust evrópsk tónlistarhefð og innblástur tónskáldsins frá Ameríku í einum frægasta sinfóníska bræðingi sögunnar."
+    },
+    {
+      "ar": "1901",
+      "texti": "Eftir höfnun frá nokkrum útgefendum lét Beatrix Potter sjálf prenta 250 eintök af Sögunni um Pétur kanínu. Litla kanínan reyndist síðar eiga býsna stórt stökk fram undan."
+    },
+    {
+      "ar": "1971",
+      "texti": "Pakistanskar hersveitir gáfust upp í Dacca í Austur-Pakistan og þar með lauk bæði frelsisstríði Bangladess og stríði Indlands og Pakistans. Sjálfstæði Bangladess var þar með tryggt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1894",
+      "texti": "Tjaldbúðin, kirkja Vestur-Íslendinga í Winnipeg, var vígð og varð mikilvægur samkomustaður íslenska samfélagsins þar vestra.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1906",
+      "texti": "Móakotslind í Skuggahverfinu var lokað eftir að taugaveikifaraldur, sem sýkti hátt í hundrað manns, var rakinn til vatnsbrunnsins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1916",
+      "texti": "Framsóknarflokkurinn var stofnaður á Íslandi og hóf þar með langa göngu sína um íslensk stjórnmál.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1963",
+      "texti": "Kópavogskirkja var vígð af Sigurbirni Einarssyni biskupi og hefur síðan staðið á Borgarholtinu sem eitt þekktasta kennileiti bæjarins.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Katrín af Aragóníu",
+      "starfsgrein": "spænsk prinsessa og Englandsdrottning",
+      "ar": "1485"
+    },
+    {
+      "nafn": "Benny Andersson",
+      "starfsgrein": "sænskur tónlistarmaður og lagahöfundur",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Benjamin Bratt",
+      "starfsgrein": "bandarískur leikari og framleiðandi",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Anna Popplewell",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Adam Riess",
+      "starfsgrein": "bandarískur stjarneðlisfræðingur og Nóbelsverðlaunahafi",
+      "ar": "1969"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvað hentu nýlendubúar í Bostonhöfn árið 1773?",
+      "svor": [
+        "Tekistum",
+        "Kaffipokum",
+        "Sykurtunnum",
+        "Tóbaksballum"
+      ],
+      "rett": 0,
+      "skyring": "Tekisturnar fóru í sjóinn og Boston-teboðið varð eitt frægasta mótmæli sögunnar."
+    },
+    {
+      "spurning": "Hvaða tónverk var frumflutt í Carnegie Hall árið 1893?",
+      "svor": [
+        "Messías",
+        "Nýjaheims-sinfónían",
+        "Bolero",
+        "Töfraflétan"
+      ],
+      "rett": 1,
+      "skyring": "Nýjaheims-sinfónía Dvořáks hljómaði þar í fyrsta sinn."
+    },
+    {
+      "spurning": "Hvaða íslenski stjórnmálaflokkur var stofnaður 16. desember 1916?",
+      "svor": [
+        "Sjálfstæðisflokkurinn",
+        "Alþýðuflokkurinn",
+        "Framsóknarflokkurinn",
+        "Kvennalistinn"
+      ],
+      "rett": 2,
+      "skyring": "Framsóknarflokkurinn var stofnaður þennan dag árið 1916."
+    }
+  ],
+  "tonlistUSA": "One Sweet Day – Mariah Carey og Boyz II Men (1995)",
+  "tonlistUK": "Another Brick in the Wall (Part 2) – Pink Floyd (1979)",
+  "bio": "Saturday Night Fever (1977)",
+  "ord_dagsins": {
+    "ord": "afturkræfur",
+    "skyring": "Orðið lýsir því sem hægt er að snúa við eða færa aftur í fyrra horf."
+  },
+  "vissir_thu": "Beatrix Potter gaf Söguna um Pétur kanínu fyrst út sjálf í aðeins 250 eintökum eftir að útgefendur höfðu hafnað bókinni.",
+  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, en reyndu að henda þeim ekki öllum í höfnina eins og teinu í Boston. Gamalt lag eða rykfallin bók gæti kveikt ævintýraþrána — taktu stefnuna, en mundu vettlingana.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg/500px-Declaration_of_Independence_%281819%29%2C_by_John_Trumbull.jpg",
+    "ar": "1773",
+    "texti": "Nýlendubúar vörpuðu tekistum í Bostonhöfn til að mótmæla breskri skattheimtu án pólitískrar fulltrúaaðildar. Tebollinn varð sjaldan jafn pólitískur og þennan dag.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolution",
+    "breidd": 330,
+    "haed": 217
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

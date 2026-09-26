@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-20",
+  "dagur": 20,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:21",
+  "sunset": "15:28",
+  "kvedja": "Góðan 20. desember! Í dag ber sagan okkur frá mongólskum sendimönnum og fyrstu kjarnorkuknúnu ljósaperunum til útvarpsins í Hafnarstræti—óvenjuleg dagskrá, jafnvel á mælikvarða Ríkisútvarpsins. Kveiktu ljós í skammdeginu og njóttu dagsins með dálitlu sögulegu glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1248",
+      "texti": "Loðvík 9. Frakkakonungur hitti tvo sendimenn Mongólaveldisins á leið sinni í sjöundu krossferðina og kannaði möguleika á bandalagi. Þar mættust tveir býsna ólíkir heimar við sama samningaborð."
+    },
+    {
+      "ar": "1852",
+      "texti": "Breskar hersveitir undir stjórn George Cathcart sigruðu sveitir Basuto og Taung í orrustunni við Berea, þar sem nú er Lesótó. Í kjölfarið bauð Moshoeshoe 1. konungur frið."
+    },
+    {
+      "ar": "1951",
+      "texti": "Experimental Breeder Reactor I í Idaho varð fyrsta kjarnorkuver heims til að framleiða rafmagn þegar því tókst að lýsa upp fjórar 200 vatta ljósaperur. Smávægilegt fyrir raforkukerfi, en stórt stökk fyrir orkúsöguna."
+    },
+    {
+      "ar": "1987",
+      "texti": "Farþegaskipið MV Doña Paz sökk eftir árekstur við olíuflutningaskip á Tablas-sundi á Filippseyjum. Talið er að 4.385 manns hafi farist í mannskæðasta sjóslysi friðartíma."
+    },
+    {
+      "ar": "1999",
+      "texti": "Portúgal afhenti Kína fullveldið yfir Maká, sem Portúgalar höfðu stjórnað frá miðri 16. öld. Þar lauk aldagömlum kafla í sögu evrópskrar nýlendustjórnar í Asíu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1904",
+      "texti": "Íþróttafélagið Höfrungur var stofnað á Þingeyri.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1930",
+      "texti": "Ríkisútvarpið tók til starfa í Reykjavík, fyrst í leiguhúsnæði hjá versluninni Edinborg í Hafnarstræti. Landsmenn fengu þar með nýjan samferðamann í stofuna.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Landspítalinn tók til starfa í Reykjavík og markaði tímamót í íslenskri heilbrigðisþjónustu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1974",
+      "texti": "Tvö snjóflóð féllu í Neskaupstað og tólf manns fórust. Atburðurinn er meðal þyngstu áfallanna í sögu bæjarins.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alan Parsons",
+      "starfsgrein": "hljómborðsleikari og tónlistarframleiðandi",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Alain de Botton",
+      "starfsgrein": "heimspekingur og rithöfundur",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Andrea Belotti",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Anita Ward",
+      "starfsgrein": "diskó- og R&B-söngkona",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Branch Rickey",
+      "starfsgrein": "hafnaboltamaður og stjórnandi",
+      "ar": "1881"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Sunna Borg",
+      "starfsgrein": "leikkona",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Jón Baldvinsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1882"
+    },
+    {
+      "nafn": "Pétur Bürcher",
+      "starfsgrein": "biskup",
+      "ar": "1945"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað tókst fyrsta rafmagnsframleiðandi kjarnorkuverinu að lýsa upp árið 1951?",
+      "svor": [
+        "Fjórar 200 vatta ljósaperur",
+        "Heila borg í Idaho",
+        "Eitt jólatré á Times Square",
+        "Tuttugu götuljós"
+      ],
+      "rett": 0,
+      "skyring": "Fjórar ljósaperur dugðu til að kveikja býsna stórt ljós í orkusögunni."
+    },
+    {
+      "spurning": "Hvaða landsvæði afhenti Portúgal Kína árið 1999?",
+      "svor": [
+        "Hong Kong",
+        "Taívan",
+        "Maká",
+        "Hainan"
+      ],
+      "rett": 2,
+      "skyring": "Maká hafði verið undir portúgalskri stjórn frá miðri 16. öld."
+    },
+    {
+      "spurning": "Hvaða tvær stofnanir tóku til starfa á Íslandi 20. desember 1930?",
+      "svor": [
+        "Háskóli Íslands og Þjóðleikhúsið",
+        "Ríkisútvarpið og Landspítalinn",
+        "Seðlabankinn og Veðurstofan",
+        "Landsbókasafnið og Sinfóníuhljómsveitin"
+      ],
+      "rett": 1,
+      "skyring": "Ríkisútvarpið og Landspítalinn deila þessum merka desemberafmælisdegi."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "(Just Like) Starting Over – John Lennon (1980)",
+  "bio": "Titanic (1997)",
+  "ord_dagsins": {
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða dauf birta, einkar kunnuglegt á íslenskum desemberdegi."
+  },
+  "vissir_thu": "Fyrsta kjarnorkuverið sem framleiddi rafmagn lýsti í upphafi aðeins fjórum 200 vatta ljósaperum.",
+  "stjornuspa": "Bogmaðurinn finnur í dag gamalt kort, nýja hugmynd eða að minnsta kosti týndan vettling. Farðu djarflega af stað, en mundu að jafnvel ævintýramenn þurfa að athuga opnunartíma og strætóáætlun.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/OljeituToPhilippeLeBel1305.jpg/500px-OljeituToPhilippeLeBel1305.jpg",
+    "ar": "1248",
+    "texti": "Loðvík 9. Frakkakonungur hitti tvo sendimenn Mongólaveldisins á leið sinni í sjöundu krossferðina og kannaði möguleika á bandalagi. Þar mættust tveir býsna ólíkir heimar við sama samningaborð.",
+    "heimild": "https://en.wikipedia.org/wiki/Franco-Mongol_alliance",
+    "breidd": 330,
+    "haed": 281
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

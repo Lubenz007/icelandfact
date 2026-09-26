@@ -1,0 +1,137 @@
+{
+  "mmdd": "12-25",
+  "dagur": 25,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:23",
+  "sunset": "15:32",
+  "kvedja": "Gleðileg jól, kæri lesandi! Á þessum degi hafa konungar verið krýndir, halastjörnur birst og veraldarvefurinn tekið sín fyrstu skref — sem er býsna afkastamikið fyrir dag sem annars fer að mestu í konfekt og notalegheit. Megi jóladagurinn þinn verða hlýr, sögulegur og laus við brotsjó.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1066",
+      "texti": "Vilhjálmur sigursæli var krýndur Englandskonungur í Westminster Abbey. Krúnan var þó ekki töfralausn því uppreisnir héldu áfram næstu árin."
+    },
+    {
+      "ar": "1758",
+      "texti": "Johann Georg Palitzsch kom auga á halastjörnuna sem síðar var kennd við Edmond Halley. Athugunin staðfesti spá Halleys frá 1705 og sýndi að jafnvel halastjörnur geta mætt aftur samkvæmt áætlun."
+    },
+    {
+      "ar": "1809",
+      "texti": "Bandaríski læknirinn Ephraim McDowell fjarlægði eggjastokkaæxli í fyrstu aðgerð sinnar tegundar í heiminum. Þetta var unnið löngu áður en nútímalækningar fengu öll sín þægilegu hjálpartæki."
+    },
+    {
+      "ar": "1990",
+      "texti": "Breski tölvuforritarinn Tim Berners-Lee kynnti WorldWideWeb, fyrsta vafra heims og jafnframt ritil fyrir HTML-síður. Vefurinn var þá enn ungur og saklaus, án sprettiglugga og lykilorða sem enginn man."
+    },
+    {
+      "ar": "2024",
+      "texti": "Flug 8243 hjá Azerbaijan Airlines brotlenti nærri Aktau-flugvelli þegar reynt var að nauðlenda eftir að rússneskt loftvarnarflugskeyti hafði hæft vélina og flugkerfi brugðist."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1402",
+      "texti": "Fólk safnaðist saman á Grenjaðarstað og hét á Guð og Maríu mey vegna hinnar ógurlegu drepsóttar sem fór vestur eftir landinu, að því er segir í Grímsstaðaannál.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1940",
+      "texti": "Ungmennafélagið Leiknir var stofnað á Fáskrúðsfirði, mitt í skammdeginu og á sjálfan jóladag.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1980",
+      "texti": "Fyrsti hluti sjónvarpsmyndarinnar Paradísarheimtar, eftir verki Halldórs Laxness, var frumsýndur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1986",
+      "texti": "Flutningaskipið Suðurland sökk á leiðinni milli Íslands og Noregs; sex fórust en fimm björguðust. Síðar sama dag fórst breska skipið Syneta við Skrúðinn og með því allir tólf skipverjarnir.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Annie Lennox",
+      "starfsgrein": "skosk söngkona, lagahöfundur og píanóleikari",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Atal Bihari Vajpayee",
+      "starfsgrein": "indverskt skáld og fyrrverandi forsætisráðherra",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Cab Calloway",
+      "starfsgrein": "bandarískur söngvari og hljómsveitarstjóri",
+      "ar": "1907"
+    },
+    {
+      "nafn": "Alannah Myles",
+      "starfsgrein": "kanadísk söngkona og lagahöfundur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Armin van Buuren",
+      "starfsgrein": "hollenskur plötusnúður og tónlistarframleiðandi",
+      "ar": "1976"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hver kynnti fyrsta vafra heims á jóladag árið 1990?",
+      "svor": [
+        "Tim Berners-Lee",
+        "Bill Gates",
+        "Steve Jobs",
+        "Alan Turing"
+      ],
+      "rett": 0,
+      "skyring": "Tim Berners-Lee kynnti WorldWideWeb, áður en vefurinn varð að allsherjar kattamyndasafni."
+    },
+    {
+      "spurning": "Hvar var ungmennafélagið Leiknir stofnað árið 1940?",
+      "svor": [
+        "Stykkishólmi",
+        "Fáskrúðsfirði",
+        "Húsavík",
+        "Selfossi"
+      ],
+      "rett": 1,
+      "skyring": "Leiknir var stofnaður á Fáskrúðsfirði á sjálfan jóladag."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er hollenskur plötusnúður?",
+      "svor": [
+        "Cab Calloway",
+        "Atal Bihari Vajpayee",
+        "Armin van Buuren",
+        "Annie Lennox"
+      ],
+      "rett": 2,
+      "skyring": "Armin van Buuren sér um taktfasta jólastemningu í þessum hópi."
+    }
+  ],
+  "tonlistUSA": "Like a Virgin – Madonna (1984)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "brotsjór",
+    "skyring": "Brotsjór er stór og þungur sjór sem brotnar yfir skip eða strönd af miklu afli."
+  },
+  "vissir_thu": "Athugun Johann Georg Palitzsch á endurkomu Halley-halastjörnunnar árið 1758 staðfesti að halastjörnur gætu gengið á reglubundnum brautum um sólina.",
+  "stjornuspa": "Steinbukurinn finnur í dag gamla skipulagsbók og ákveður að jólin þurfi bæði dagskrá og varaplan. Slakaðu aðeins á klaufunum — síðasta konfektmolann þarf ekki að bóka með þriggja daga fyrirvara.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Norman-conquest-1066.svg/500px-Norman-conquest-1066.svg.png",
+    "ar": "1066",
+    "texti": "Vilhjálmur sigursæli var krýndur Englandskonungur í Westminster Abbey. Krúnan var þó ekki töfralausn því uppreisnir héldu áfram næstu árin.",
+    "heimild": "https://en.wikipedia.org/wiki/Norman_Conquest",
+    "breidd": 330,
+    "haed": 298
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

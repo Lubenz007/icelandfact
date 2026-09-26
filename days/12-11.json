@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-11",
+  "dagur": 11,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:08",
+  "sunset": "15:32",
+  "kvedja": "Komdu sæll, kæri lesandi! Á þessum desemberdegi förum við frá hirðintrigum í Samarra yfir á tunglið, með viðkomu á knattspyrnuvelli og í íslensku kvikmyndahúsi. Sagan kann sannarlega að raða saman furðulegri dagskrá — og hún þarf ekki einu sinni fjarstýringu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "861",
+      "texti": "Abbasídakalífinn al-Mutawakkil var myrtur af eigin lífvörðum. Morðið markaði upphaf ólgutímabilsins sem kennt er við stjórnleysi í Samarra — heldur verri vinnustaðastemning en gengur og gerist."
+    },
+    {
+      "ar": "1640",
+      "texti": "Um 1.500 manns afhentu Langa þinginu svonefnda Root and Branch-bænaskrá og kröfðust þess að biskupakerfi ensku kirkjunnar yrði afnumið með öllu."
+    },
+    {
+      "ar": "1789",
+      "texti": "Norður-Karólínuháskóli í Chapel Hill fékk stofnskrá sína. Hann telst meðal elstu opinberu háskóla Bandaríkjanna og varð sá eini þeirra sem veitti prófgráður á 18. öld."
+    },
+    {
+      "ar": "1886",
+      "texti": "Knattspyrnufélagið sem síðar varð Arsenal lék sinn fyrsta leik, þá undir nafninu Dial Square, á Isle of Dogs í Lundúnum. Fallbyssumerkið og heimsfrægðin komu síðar."
+    },
+    {
+      "ar": "1972",
+      "texti": "Apollo 17, síðasta tunglferð Apollo-áætlunarinnar, lenti á tunglinu. Þar með hófst lokakafli þeirrar sögu þegar menn óku um annan hnött eins og um sérlega rykugan sunnudagsrúnt væri að ræða."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1917",
+      "texti": "Nýja bíó í Reykjavík frumsýndi kvikmyndina Voðastökk og vakti sérstaka athygli að textar hennar höfðu verið þýddir á íslensku.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Til átaka kom í Reykjavík vegna verkfalls í Garnastöð Sambandsins. Atburðirnir fengu hið safaríka heiti Garnaslagurinn, en samningar náðust síðar í mánuðinum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1948",
+      "texti": "Rithöfundurinn Gunnar Gunnarsson og eiginkona hans, Franzisca Antonia Josephine Jörgensen, gáfu íslenska ríkinu Skriðuklaustur á Fljótsdalshéraði.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1975",
+      "texti": "Breski dráttarbáturinn Lloydsman sigldi tvisvar á varðskipið Þór við mynni Seyðisfjarðar. Íslendingar kærðu Breta til Öryggisráðs Sameinuðu þjóðanna vegna atviksins.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alexa Demie",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Aleksandr Solzhenitsyn",
+      "starfsgrein": "rithöfundur, sagnfræðingur og nóbelsverðlaunahafi",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Carlo Ponti",
+      "starfsgrein": "kvikmyndaframleiðandi",
+      "ar": "1912"
+    },
+    {
+      "nafn": "Big Mama Thornton",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Annie Jump Cannon",
+      "starfsgrein": "stjörnufræðingur",
+      "ar": "1863"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Skúli Magnússon",
+      "starfsgrein": "landfógeti",
+      "ar": "1711"
+    },
+    {
+      "nafn": "Fríða Á. Sigurðardóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Guðlaugur Kristinn Óttarsson",
+      "starfsgrein": "gítarleikari, stærðfræðingur og verkfræðingur",
+      "ar": "1954"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimferð lenti á tunglinu 11. desember 1972?",
+      "svor": [
+        "Apollo 17",
+        "Apollo 11",
+        "Gemini 7",
+        "Voyager 1"
+      ],
+      "rett": 0,
+      "skyring": "Apollo 17 var síðasta tunglferð Apollo-áætlunarinnar."
+    },
+    {
+      "spurning": "Undir hvaða nafni lék Arsenal sinn fyrsta leik?",
+      "svor": [
+        "Royal Cannon",
+        "Dial Square",
+        "North London Athletic",
+        "Woolwich Wanderers"
+      ],
+      "rett": 1,
+      "skyring": "Félagið hét Dial Square þegar boltinn fór fyrst að rúlla árið 1886."
+    },
+    {
+      "spurning": "Hvaða íslenska höfuðból gáfu Gunnar Gunnarsson og eiginkona hans ríkinu árið 1948?",
+      "svor": [
+        "Bessastaði",
+        "Hóla",
+        "Skriðuklaustur",
+        "Reykholt"
+      ],
+      "rett": 2,
+      "skyring": "Skriðuklaustur á Fljótsdalshéraði varð gjöf þeirra til íslenska ríkisins."
+    }
+  ],
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "tunglfari",
+    "skyring": "Tunglfari er geimfar sem ferðast til tunglsins eða maður sem þangað fer."
+  },
+  "vissir_thu": "Apollo 17 var síðasta mannaða ferð Apollo-áætlunarinnar til tunglsins.",
+  "stjornuspa": "Bogmaður, í dag blása stjörnurnar í lúður og hvetja þig til ævintýra, helst með vasakort og nesti eins og árið sé 1972. Varastu þó að lofa tunglinu áður en þú hefur lokið erindunum niðri í bæ.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Abbasid_banner.svg/500px-Abbasid_banner.svg.png",
+    "ar": "861",
+    "texti": "Abbasídakalífinn al-Mutawakkil var myrtur af eigin lífvörðum. Morðið markaði upphaf ólgutímabilsins sem kennt er við stjórnleysi í Samarra — heldur verri vinnustaðastemning en gengur og gerist.",
+    "heimild": "https://en.wikipedia.org/wiki/Abbasid_Caliphate",
+    "breidd": 330,
+    "haed": 198
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

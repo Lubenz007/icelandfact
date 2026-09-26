@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-07",
+  "dagur": 7,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "10:59",
+  "sunset": "15:37",
+  "kvedja": "Sæll, kæri lesandi! Sjöundi desember spannar sannarlega vítt svið: frá rómverskum ræðumanni til könnunarferða við Júpíter og Venus — og svo rigndi meira að segja síld í Breiðafirði. Sagan kann greinilega bæði harmleik, himingeim og dálítið fiskilegt glott.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "43 f.Kr.",
+      "texti": "Cicero, einn dáðasti ræðumaður og prósahöfundur Rómaveldis, var veginn eftir að hafa verið lýstur óvinur ríkisins. Mælskan dugði honum langt, en ekki alla leið út úr pólitískum hildarleik Rómar."
+    },
+    {
+      "ar": "574",
+      "texti": "Jústínus 2. keisari, sem glímdi við geðræn veikindi, lét Tíberíus hershöfðingja útnefna keisaraefni og ættleiddi hann sem son sinn. Þannig var reynt að tryggja framhald stjórnar Austurrómverska ríkisins."
+    },
+    {
+      "ar": "1942",
+      "texti": "Lítill flokkur breskra landgönguliða hóf Frankton-aðgerðina og skemmdi sex skip í höfninni í Bordeaux í hernumdu Frakklandi. Aðgerðin var smá í sniðum en djörf með afbrigðum."
+    },
+    {
+      "ar": "1988",
+      "texti": "Jarðskjálfti af stærðinni 6,8 reið yfir Spitak-hérað í Armeníu og varð að minnsta kosti 25.000 manns að bana. Hamfarirnar lögðu byggðarlög í rúst og skildu eftir sig gríðarlegt mannfall."
+    },
+    {
+      "ar": "1995",
+      "texti": "Geimfarið Galileo kom til Júpíters rúmum sex árum eftir að Atlantis-geimskutlan skaut því á loft. Þar hófst nýr kafli í rannsóknum á risareikistjörnunni og tunglum hennar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1881",
+      "texti": "Minnisvarði um Jón Sigurðsson forseta var afhjúpaður á gröf hans í Hólavallakirkjugarði í Reykjavík að viðstöddu miklu fjölmenni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1933",
+      "texti": "Í fyrsta sinn var miðilsfundi útvarpað í Ríkisútvarpinu; Lára miðill kom fram og mælti fyrir munn margra framliðinna. Útvarpsdagskráin hefur sjaldan verið jafn bókstaflega handanheimsleg.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1936",
+      "texti": "Í Bjarneyjum á Breiðafirði rigndi skyndilega síld, og var talið að skýstrókur hefði sogið fiskinn upp úr sjónum. Veðurspáin hefur líklega ekki gert ráð fyrir úrkomu með hreistri.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1980",
+      "texti": "Golfklúbburinn Kjölur var stofnaður í Mosfellsbæ.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Aaron Carter",
+      "starfsgrein": "söngvari, lagahöfundur og leikari",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Anne Fine",
+      "starfsgrein": "rithöfundur",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Armando Manzanero",
+      "starfsgrein": "tónlistarmaður, söngvari og tónskáld",
+      "ar": "1935"
+    },
+    {
+      "nafn": "Abd al-Rahman al-Sufi",
+      "starfsgrein": "stjörnufræðingur og rithöfundur",
+      "ar": "903"
+    },
+    {
+      "nafn": "Allan B. Calhamer",
+      "starfsgrein": "spilahönnuður",
+      "ar": "1931"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jórunn Viðar",
+      "starfsgrein": "tónskáld",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Sigríður Hagalín",
+      "starfsgrein": "leikkona",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Gísli Sveinsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1880"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða reikistjörnu náði geimfarið Galileo til 7. desember 1995?",
+      "svor": [
+        "Mars",
+        "Satúrnusar",
+        "Júpíters",
+        "Venusar"
+      ],
+      "rett": 2,
+      "skyring": "Galileo kom til Júpíters eftir rúmlega sex ára ferðalag — engin stutt sunnudagsbíltúr þar."
+    },
+    {
+      "spurning": "Hvað rigndi í Bjarneyjum á Breiðafirði árið 1936?",
+      "svor": [
+        "Síld",
+        "Ösku",
+        "Froskum",
+        "Hagléljum"
+      ],
+      "rett": 0,
+      "skyring": "Síldin féll af himni og skýstrókur var talinn líklegasti fiskútflytjandinn."
+    },
+    {
+      "spurning": "Hvaða fornfrægi ræðumaður var veginn árið 43 f.Kr.?",
+      "svor": [
+        "Seneca",
+        "Cicero",
+        "Virgil",
+        "Tacitus"
+      ],
+      "rett": 1,
+      "skyring": "Cicero féll í pólitískum átökum Rómar eftir að hafa verið lýstur óvinur ríkisins."
+    }
+  ],
+  "tonlistUSA": "One Sweet Day – Mariah Carey og Boyz II Men (1995)",
+  "tonlistUK": "Earth Song – Michael Jackson (1995)",
+  "bio": "Toy Story (1995)",
+  "ord_dagsins": {
+    "ord": "skýstrókur",
+    "skyring": "Skýstrókur er kröftugur, snúandi loftsúla sem teygir sig úr skýi niður að yfirborði jarðar eða sjávar."
+  },
+  "vissir_thu": "Galileo-geimfarið var skotið á loft úr geimskutlunni Atlantis árið 1989 og náði til Júpíters árið 1995.",
+  "stjornuspa": "Bogmaður, í dag stefnir hugurinn lengra en Galileo, en veskið biður þig vinsamlega að halda þig nær jörðu. Segðu já við ævintýri, en athugaðu fyrst hvort úr skýjunum rigni vatni eða síld.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg/500px-Bust_of_Cicero_%281st-cent._BC%29_-_Palazzo_Nuovo_-_Musei_Capitolini_-_Rome_2016.jpg",
+    "ar": "43 f.Kr.",
+    "texti": "Cicero, einn dáðasti ræðumaður og prósahöfundur Rómaveldis, var veginn eftir að hafa verið lýstur óvinur ríkisins. Mælskan dugði honum langt, en ekki alla leið út úr pólitískum hildarleik Rómar.",
+    "heimild": "https://en.wikipedia.org/wiki/Cicero",
+    "breidd": 330,
+    "haed": 495
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

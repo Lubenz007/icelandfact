@@ -1,0 +1,148 @@
+{
+  "mmdd": "12-22",
+  "dagur": 22,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:22",
+  "sunset": "15:29",
+  "kvedja": "Komdu sæll, kæri lesandi, á þessum skammdegisdegi! Sagan tekur okkur í dag úr klukkuturni Dómkirkjunnar og gegnum Lincoln-göngin, áður en hún skellir sér í afmælisveislu hjá Rómarkeisara og sænskum plötusnúði — fjölbreyttara verður jólahlaðborðið varla.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "856",
+      "texti": "Gífurlegur jarðskjálfti, talinn hafa verið 7,9 að stærð, reið yfir austanverð Alborz-fjöll í Persíu. Talið er að um 200.000 manns hafi farist."
+    },
+    {
+      "ar": "1807",
+      "texti": "Bandaríkjaþing samþykkti viðskiptabann sem bannaði bandarískum skipum að eiga viðskipti við erlend ríki. Markmiðið var að halda Bandaríkjunum utan Napóleonsstyrjaldanna, þótt verslunin hafi sjálfsagt ekki klappað fyrir hugmyndinni."
+    },
+    {
+      "ar": "1937",
+      "texti": "Lincoln-göngin, sem tengja New York-borg við Weehawken í New Jersey, voru opnuð. Þar með fengu vegfarendur nýja leið undir Hudsonfljót — og nýjan stað til að sitja í umferð."
+    },
+    {
+      "ar": "1988",
+      "texti": "Brasilíski verkalýðsleiðtoginn og umhverfisverndarsinninn Chico Mendes var myrtur á heimili sínu í Xapuri. Barátta hans fyrir regnskóginum og fólkinu sem lifði af honum vakti heimsathygli."
+    },
+    {
+      "ar": "2018",
+      "texti": "Flóðbylgja, sem varð þegar hluti eldfjallsins Anak Krakatoa hrundi, skall á ströndum Indónesíu. Hún varð 426 manns að bana og yfir 14.000 særðust."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1897",
+      "texti": "Stundaklukku, sem Thomsen kaupmaður gaf, var komið fyrir í turni Dómkirkjunnar í Reykjavík. Hún er þar enn og hefur því minnt borgarbúa á tímann í meira en heila öld.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1907",
+      "texti": "Ungmennafélagið Hvöt var stofnað í Grímsnesi — nafn sem lætur engan komast upp með að sitja auðum höndum.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1919",
+      "texti": "Síðustu dómarnir voru kveðnir upp í Landsyfirrétti og þar með lauk merkum kafla í íslenskri réttarsögu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1945",
+      "texti": "Ný Ölfusárbrú var tekin í notkun og bætti mikilvægar samgöngur yfir Ölfusá.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Diocletianus",
+      "starfsgrein": "Rómarkeisari",
+      "ar": "244"
+    },
+    {
+      "nafn": "Barbara Billingsley",
+      "starfsgrein": "leikkona",
+      "ar": "1915"
+    },
+    {
+      "nafn": "Bernd Schuster",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Basshunter",
+      "starfsgrein": "söngvari, tónlistarframleiðandi og plötusnúður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Chagatai Khan",
+      "starfsgrein": "mongólskur stjórnandi",
+      "ar": "1183"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Stefán Jónsson",
+      "starfsgrein": "rithöfundur og kennari",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Eymundur Jónsson",
+      "starfsgrein": "bóndi",
+      "ar": "1840"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða mannvirki var opnað 22. desember 1937?",
+      "svor": [
+        "Lincoln-göngin",
+        "Ermarsundsgöngin",
+        "Golden Gate-brúin",
+        "Panamaskurðurinn"
+      ],
+      "rett": 0,
+      "skyring": "Lincoln-göngin tengdu New York-borg og Weehawken — neðanjarðarleið með stórborgarsniði."
+    },
+    {
+      "spurning": "Hvaða íslenska mannvirki var tekið í notkun árið 1945?",
+      "svor": [
+        "Hallgrímskirkja",
+        "Hvalfjarðargöng",
+        "Ný Ölfusárbrú",
+        "Höfðatorg"
+      ],
+      "rett": 2,
+      "skyring": "Ný Ölfusárbrú var tekin í notkun 22. desember 1945."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins var Rómarkeisari?",
+      "svor": [
+        "Bernd Schuster",
+        "Diocletianus",
+        "Basshunter",
+        "Chagatai Khan"
+      ],
+      "rett": 1,
+      "skyring": "Diocletianus fæddist árið 244 og komst síðar í sjálft keisarastarfið."
+    }
+  ],
+  "tonlistUSA": "Like a Virgin – Madonna (1984)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og lifir meðal annars í orðinu dægurlag."
+  },
+  "vissir_thu": "Nafnið Anak Krakatoa merkir „barn Krakatoa“, enda reis eldfjallið úr öskjunni sem myndaðist eftir hamfaragos Krakatoa árið 1883.",
+  "stjornuspa": "Steinbukurinn finnur gamlan verkefnalista og strikar svo myndarlega yfir atriðin að blýanturinn hitnar. Varastu þó að skipuleggja jólin eins og Rómarveldi — smákökur þurfa ekki sérstakan skattheimtumann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/856_Damghan_setting.png/500px-856_Damghan_setting.png",
+    "ar": "856",
+    "texti": "Gífurlegur jarðskjálfti, talinn hafa verið 7,9 að stærð, reið yfir austanverð Alborz-fjöll í Persíu. Talið er að um 200.000 manns hafi farist.",
+    "heimild": "https://en.wikipedia.org/wiki/856_Damghan_earthquake",
+    "breidd": 330,
+    "haed": 240
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

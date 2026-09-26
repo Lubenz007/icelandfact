@@ -1,0 +1,148 @@
+{
+  "mmdd": "12-13",
+  "dagur": 13,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:12",
+  "sunset": "15:30",
+  "kvedja": "Góðan og gleðilegan 13. desember! Í dag leggjum við af stað með Francis Drake, hlýðum á Gershwin og skoðum orgel sem vegur á við álitlegan hval — sagan kann sannarlega að halda mörgum boltum á lofti.",
+  "nafnadagur": "Lúsía",
+  "atburdir": [
+    {
+      "ar": "1294",
+      "texti": "Selestínus 5. sagði af sér páfaembætti eftir aðeins fimm mánuði og sneri aftur til fyrra lífs síns sem einsetumaður. Ekki allir sækjast eftir hornskrifstofunni."
+    },
+    {
+      "ar": "1577",
+      "texti": "Francis Drake sigldi frá Plymouth og hóf hnattferð sína. Fram undan voru ókunn höf, langir mánuðir og sennilega engin þægileg ferðataska á hjólum."
+    },
+    {
+      "ar": "1862",
+      "texti": "Í bandarísku borgarastyrjöldinni beið sambandsher Ambrose Burnside mikið mannfall gegn vel víggirtum Suðurríkjamönnum í orrustunni við Fredericksburg í Virginíu."
+    },
+    {
+      "ar": "1928",
+      "texti": "Hljómsveitarverkið An American in Paris eftir George Gershwin var frumflutt í Carnegie Hall í New York. Þar blandaðist djassinn inn í sinfóníuhljóminn með borgarlegt sjálfstraust."
+    },
+    {
+      "ar": "1937",
+      "texti": "Japanskar hersveitir náðu Nanjing á sitt vald og hófu þar skelfileg grimmdarverk sem stóðu næstu vikur, meðal annars rán, nauðganir og fjöldaaftökur fanga og óbreyttra borgara."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1551",
+      "texti": "Vetrarhörkur þær sem síðar voru kenndar við Harðavetur hófust. Nafnið eitt nægir til að kalla fram kuldahroll.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1992",
+      "texti": "Nýtt orgel Hallgrímskirkju í Reykjavík var vígt. Þetta stærsta hljóðfæri Íslands vegur um 25 tonn, er um 17 metra hátt og hefur 5.200 pípur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1996",
+      "texti": "Fyrsta skóflustungan að Grafarvogslaug var tekin. Þar hófst leiðin frá moldarflaginu yfir í sundsprettinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2006",
+      "texti": "Þrír ítalskir verkamenn slösuðust þegar tvær járnbrautarlestir skullu saman við gerð Kárahnjúkavirkjunar.",
+      "landshluti": "Austurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amy Lee",
+      "starfsgrein": "söngkona, lagahöfundur og píanóleikari",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Karim al-Husayn Shah, Aga Khan IV",
+      "starfsgrein": "trúarleiðtogi og mannúðarfrömuður",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Ben Bernanke",
+      "starfsgrein": "hagfræðingur",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Alvin C. York",
+      "starfsgrein": "hermaður og ofursti",
+      "ar": "1887"
+    },
+    {
+      "nafn": "Emma Corrin",
+      "starfsgrein": "leikari",
+      "ar": "1995"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Þorláksson á Bægisá",
+      "starfsgrein": "prestur, skáld og þýðandi",
+      "ar": "1744"
+    },
+    {
+      "nafn": "Ingibjörg Skaptadóttir",
+      "starfsgrein": "ritstjóri",
+      "ar": "1867"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónskáld sendi Bandaríkjamann í tónlistarlega París árið 1928?",
+      "svor": [
+        "George Gershwin",
+        "Igor Stravinsky",
+        "Gustav Mahler",
+        "Claude Debussy"
+      ],
+      "rett": 0,
+      "skyring": "George Gershwin samdi An American in Paris, þar sem sinfóníuhljómur og djass takast kumpánlega í hendur."
+    },
+    {
+      "spurning": "Hversu margar pípur eru í stóra orgeli Hallgrímskirkju samkvæmt gögnunum?",
+      "svor": [
+        "1.700",
+        "2.500",
+        "5.200",
+        "17.000"
+      ],
+      "rett": 2,
+      "skyring": "Pípurnar eru 5.200 talsins — nóg til að halda heilum her orgelálfa uppteknum."
+    },
+    {
+      "spurning": "Hver lagði af stað í hnattferð frá Plymouth árið 1577?",
+      "svor": [
+        "James Cook",
+        "Francis Drake",
+        "Abel Tasman",
+        "Kristófer Kólumbus"
+      ],
+      "rett": 1,
+      "skyring": "Francis Drake lét úr höfn þennan dag og hnattferðin lauk síðar með siglingasögulegum brag."
+    }
+  ],
+  "tonlistUSA": "Lady – Kenny Rogers (1980)",
+  "tonlistUK": "Super Trouper – ABBA (1980)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "skrínleggja",
+    "skyring": "Að skrínleggja merkir að leggja helgar leifar í skrín og heiðra þær með formlegum hætti."
+  },
+  "vissir_thu": "Orgel Hallgrímskirkju er um 17 metra hátt og vegur um 25 tonn — það er því ekki hljóðfæri sem maður tekur undir handlegginn á leiðinni á æfingu.",
+  "stjornuspa": "Bogmaðurinn finnur í dag fyrir ferðahug Francis Drake, en ætti fyrst að athuga hvort nestið og lyklarnir séu með. Kvöldið hentar vel fyrir Gershwin, stórar hugmyndir og hæfilega litla yfirlýsingu um að sigra heiminn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Celestine_V_Castel_Nuovo_Napoli_n02.jpg/500px-Celestine_V_Castel_Nuovo_Napoli_n02.jpg",
+    "ar": "1294",
+    "texti": "Selestínus 5. sagði af sér páfaembætti eftir aðeins fimm mánuði og sneri aftur til fyrra lífs síns sem einsetumaður. Ekki allir sækjast eftir hornskrifstofunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Celestine_V",
+    "breidd": 330,
+    "haed": 497
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

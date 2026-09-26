@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-12",
+  "dagur": 12,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:10",
+  "sunset": "15:31",
+  "kvedja": "Komdu sæll, kæri lesandi! Þennan 12. desember mætast Býsanskeisari, fyrsta íslenska almenningsrafveitan og æsispennandi lokahringur í Formúlu 1 — sagan kann svo sannarlega að halda mörgum boltum á lofti. Kveiktu ljósin, spenntu beltin og njóttu dagsins með glotti.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "627",
+      "texti": "Her Býsants undir stjórn Heraklíusar keisara sigraði hersveitir Sasanída í orrustunni við Nineveh, nærri Mosul í núverandi Írak. Þetta var einn af úrslitaáföngum langvinnra átaka stórveldanna tveggja."
+    },
+    {
+      "ar": "1866",
+      "texti": "Versta námuslys í sögu Englands varð þegar eldfimar lofttegundir ollu röð sprenginga í Oaks-kolnámunni. Alls fórust 361 maður."
+    },
+    {
+      "ar": "1964",
+      "texti": "Jomo Kenyatta varð fyrsti forseti lýðveldisins Kenýa. Þar með tók hann við æðsta embætti hins unga ríkis."
+    },
+    {
+      "ar": "2000",
+      "texti": "Hæstiréttur Bandaríkjanna stöðvaði endurtalningu atkvæða í Flórída í málinu Bush gegn Gore. Úrskurðurinn tryggði George W. Bush í reynd sigur í forsetakosningunum."
+    },
+    {
+      "ar": "2021",
+      "texti": "Max Verstappen tók fram úr Lewis Hamilton á síðasta hring lokakappaksturs Formúlu 1 í Abu Dhabi og varð heimsmeistari ökumanna. Það verður vart dramatískara nema sagnfræðingur fái sjálfur að skrifa handritið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1904",
+      "texti": "Jóhannes Reykdal setti upp fyrstu almenningsrafveitu Íslands í Hafnarfirði. Þar kviknaði því meira en bara áhugi á nýrri tækni.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1911",
+      "texti": "Tveggja alda afmælis Skúla Magnússonar landfógeta var minnst með samsæti í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1947",
+      "texti": "Björgunarafrekið við Látrabjarg hófst þegar björgunarmenn lögðu af stað til að bjarga tólf skipverjum af togaranum Dhoon.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1948",
+      "texti": "Sex manns fórust þegar snjóflóð féll á bæinn Goðdal í Strandasýslu. Húsbóndanum var bjargað úr flóðinu fjórum dögum síðar.",
+      "landshluti": "Vestfirðir"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bill Nighy",
+      "starfsgrein": "leikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Bob Barker",
+      "starfsgrein": "sjónvarpsmaður og þáttastjórnandi",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Michael Olise",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Lucas Hedges",
+      "starfsgrein": "leikari",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Alfred Werner",
+      "starfsgrein": "efnafræðingur og Nóbelsverðlaunahafi",
+      "ar": "1866"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dagur Kári",
+      "starfsgrein": "kvikmyndaleikstjóri",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Skúli Magnússon",
+      "starfsgrein": "landfógeti",
+      "ar": "1711"
+    },
+    {
+      "nafn": "Vésteinn Hafsteinsson",
+      "starfsgrein": "frjálsíþróttamaður og þjálfari",
+      "ar": "1960"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar var fyrsta almenningsrafveita Íslands sett upp?",
+      "svor": [
+        "Hafnarfirði",
+        "Akureyri",
+        "Ísafirði",
+        "Selfossi"
+      ],
+      "rett": 0,
+      "skyring": "Jóhannes Reykdal lét ljós sitt skína í Hafnarfirði árið 1904."
+    },
+    {
+      "spurning": "Hvern tók Max Verstappen fram úr á síðasta hring í Abu Dhabi árið 2021?",
+      "svor": [
+        "Sebastian Vettel",
+        "Fernando Alonso",
+        "Lewis Hamilton",
+        "Kimi Räikkönen"
+      ],
+      "rett": 2,
+      "skyring": "Lewis Hamilton var maðurinn sem Verstappen fór fram úr í þessum sögufræga lokaspretti."
+    },
+    {
+      "spurning": "Hvaða embætti tók Jomo Kenyatta við árið 1964?",
+      "svor": [
+        "Forseta Kenýa",
+        "Forsætisráðherra Indlands",
+        "Konungs Úganda",
+        "Framkvæmdastjóra Sameinuðu þjóðanna"
+      ],
+      "rett": 0,
+      "skyring": "Kenyatta varð fyrsti forseti lýðveldisins Kenýa."
+    }
+  ],
+  "tonlistUSA": "Faith – George Michael (1987)",
+  "tonlistUK": "Don't You Want Me – The Human League (1981)",
+  "bio": "Ocean's Eleven (2001)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinn hrina kulda og illviðris, gjarnan með snjókomu."
+  },
+  "vissir_thu": "Alfred Werner, sem fæddist þennan dag árið 1866, hlaut Nóbelsverðlaunin í efnafræði.",
+  "stjornuspa": "Bogmaður, í dag skaltu stefna ótrauður á markið, en gættu þess að endurtalning verði ekki nauðsynleg eins og í Flórída árið 2000. Gamalt mixtape, glansandi jakki eða önnur retróhugmynd gæti reynst óvænt lukkuör.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Piero_della_Francesca_021.jpg/500px-Piero_della_Francesca_021.jpg",
+    "ar": "627",
+    "texti": "Her Býsants undir stjórn Heraklíusar keisara sigraði hersveitir Sasanída í orrustunni við Nineveh, nærri Mosul í núverandi Írak. Þetta var einn af úrslitaáföngum langvinnra átaka stórveldanna tveggja.",
+    "heimild": "https://en.wikipedia.org/wiki/Battle_of_Nineveh_(627)",
+    "breidd": 330,
+    "haed": 153
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

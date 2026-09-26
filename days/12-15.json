@@ -1,0 +1,137 @@
+{
+  "mmdd": "12-15",
+  "dagur": 15,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:15",
+  "sunset": "15:29",
+  "kvedja": "Góðan 15. desember, kæri lesandi! Í dag förum við frá vígvöllum Býsans til yfirborðs Venusar, með viðkomu hjá glímumönnum, kvikmyndastjörnum og einum bjór sem fékk ekki að fara óáreittur í gegnum tollinn. Sagan kann sannarlega að velja sér skrautleg ferðalög.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "533",
+      "texti": "Her Býsans undir stjórn Belisaríusar sigraði Vandalakonunginn Gelimer í orrustunni við Tricamarum. Þar með lauk endurheimt Norður-Afríku undir Jústiníanusi 1. keisara — allstór sigur fyrir mann sem hafði hvorki síma né birgðaforrit."
+    },
+    {
+      "ar": "1791",
+      "texti": "Fyrstu tíu viðaukarnir við stjórnarskrá Bandaríkjanna voru staðfestir og urðu sameiginlega þekktir sem Bill of Rights. Þeir tryggðu meðal annars ýmis grundvallarréttindi borgaranna."
+    },
+    {
+      "ar": "1890",
+      "texti": "Sitting Bull, leiðtogi Hunkpapa-Lakota, var drepinn af lögreglumönnum bandarísku indíánaumboðsstjórnarinnar á Standing Rock-verndarsvæðinu í Suður-Dakóta. Dauði hans varð dapur táknpunktur í sögu frumbyggja Norður-Ameríku."
+    },
+    {
+      "ar": "1970",
+      "texti": "Sovéska geimfarið Venera 7 lenti á Venusi og varð fyrsta geimfarið til að lenda með góðum árangri á annarri plánetu. Það sendi gögn til jarðar frá stað þar sem enginn hefði viljað bíða eftir strætó."
+    },
+    {
+      "ar": "2019",
+      "texti": "Tíu til fimmtán konur lokuðu fjölfarinni götu í Delí til að mótmæla því að múslimar væru undanskildir í breyttum lögum um ríkisborgararétt. Aðgerðin varð hluti af umfangsmiklum mótmælum á Indlandi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1607",
+      "texti": "Gísli Oddsson ritaði um halastjörnu sem síðar varð þekkt sem halastjarna Halleys. Íslendingar fylgdust sem sagt með himninum löngu áður en veðurforrit fóru að gera það fyrir okkur.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1888",
+      "texti": "Glímufélagið Ármann var stofnað á Íslandi. Þar hófst saga félags sem átti eftir að láta til sín taka í fjölmörgum íþróttagreinum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1953",
+      "texti": "Fjórðungssjúkrahúsið á Akureyri var tekið í notkun og varð mikilvæg stoð heilbrigðisþjónustu á Norðurlandi.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "2004",
+      "texti": "Bobby Fischer fékk landvistarleyfi á Íslandi. Skáksagan og Ísland tóku þar enn einn óvæntan leik saman.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adam Brody",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Alana Haim",
+      "starfsgrein": "bandarísk tónlistarkona og leikkona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Camilla Luddington",
+      "starfsgrein": "ensk leikkona",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Allan Simonsen",
+      "starfsgrein": "danskur knattspyrnumaður og þjálfari",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Neró",
+      "starfsgrein": "rómverskur keisari",
+      "ar": "37"
+    }
+  ],
+  "afmaeli_island": [],
+  "spurningar": [
+    {
+      "spurning": "Hvaða geimfar náði fyrst að lenda með góðum árangri á annarri plánetu?",
+      "svor": [
+        "Venera 7",
+        "Apollo 11",
+        "Voyager 1",
+        "Sputnik 1"
+      ],
+      "rett": 0,
+      "skyring": "Venera 7 lenti á Venusi árið 1970 og sendi þaðan gögn til jarðar."
+    },
+    {
+      "spurning": "Hvaða íslenska íþróttafélag var stofnað 15. desember 1888?",
+      "svor": [
+        "Valur",
+        "Ármann",
+        "Fram",
+        "KR"
+      ],
+      "rett": 1,
+      "skyring": "Glímufélagið Ármann var stofnað þennan dag árið 1888."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var rómverskur keisari?",
+      "svor": [
+        "Adam Brody",
+        "Allan Simonsen",
+        "Neró",
+        "Alan Freed"
+      ],
+      "rett": 2,
+      "skyring": "Neró fæddist árið 37 og varð síðar keisari Rómaveldis."
+    }
+  ],
+  "tonlistUSA": "Out of Touch – Daryl Hall & John Oates (1984)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Gone with the Wind (1939)",
+  "ord_dagsins": {
+    "ord": "dagmál",
+    "skyring": "Dagmál er gamalt heiti á tíma dags um níuleytið að morgni."
+  },
+  "vissir_thu": "Venera 7 þurfti að þola gífurlegan hita og þrýsting á Venusi en tókst samt að senda gögn frá yfirborðinu til jarðar.",
+  "stjornuspa": "Bogmaðurinn finnur í dag fyrir sams konar könnunarþrá og geimverkfræðingarnir á bak við Venera 7, en ætti þó að byrja á kaffivélinni áður en haldið er til Venusar. Óvænt skilaboð gætu borist — líklega ekki með ritsíma, en þau verða engu að síður þess virði að lesa.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Belisarius_mosaic.jpg/500px-Belisarius_mosaic.jpg",
+    "ar": "533",
+    "texti": "Her Býsans undir stjórn Belisaríusar sigraði Vandalakonunginn Gelimer í orrustunni við Tricamarum. Þar með lauk endurheimt Norður-Afríku undir Jústiníanusi 1. keisara — allstór sigur fyrir mann sem hafði hvorki síma né birgðaforrit.",
+    "heimild": "https://en.wikipedia.org/wiki/Belisarius",
+    "breidd": 330,
+    "haed": 408
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

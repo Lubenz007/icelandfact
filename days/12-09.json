@@ -1,0 +1,148 @@
+{
+  "mmdd": "12-09",
+  "dagur": 9,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:04",
+  "sunset": "15:34",
+  "kvedja": "Komdu sæll, kæri lesandi, á þessum fjöruga 9. desember! Í dag sveiflast sagan frá kvenréttindablaði og tölvumús yfir í risavaxið olíuskip og geimveru í Laugarásbíói — enda kann fortíðin vel að blanda saman alvöru og ævintýrum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1775",
+      "texti": "Eftir ósigur í orrustunni við Great Bridge neyddust bresk yfirvöld til að yfirgefa Virginíunýlenduna. Sjálfstæðisbaráttan var farin að bíta hraustlega frá sér."
+    },
+    {
+      "ar": "1897",
+      "texti": "Franska leikkonan, blaðakonan og kvenréttindakonan Marguerite Durand stofnaði dagblaðið La Fronde. Blaðið var skrifað, ritstýrt og rekið af konum — bylting með prentsvertu á fingrum."
+    },
+    {
+      "ar": "1948",
+      "texti": "Allsherjarþing Sameinuðu þjóðanna samþykkti þjóðarmorðssáttmálann, sem skilgreindi þjóðarmorð í alþjóðalögum og skuldbatt aðildarríki til að vinna gegn því."
+    },
+    {
+      "ar": "1968",
+      "texti": "Douglas Engelbart flutti sýningu sem síðar var kölluð „móðir allra sýninga“ og kynnti meðal annars tölvumúsina, stiklutexta og myndrænt notendaviðmót. Skrifstofuborð framtíðarinnar fékk þar með sinn frægasta nagdýrabúa."
+    },
+    {
+      "ar": "1979",
+      "texti": "Vísindanefnd Alþjóðaheilbrigðismálastofnunarinnar staðfesti að bólusótt hefði verið útrýmt um allan heim. Hún er enn eini smitsjúkdómur manna sem hefur verið upprættur að fullu."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1749",
+      "texti": "Skúli Magnússon varð fyrstur Íslendinga til að vera skipaður landfógeti, áhrifamikið embætti í íslenskri stjórnsýslu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1892",
+      "texti": "Sauðárkrókskirkja var vígð og fékk vaxandi byggð við Skagafjörð þar með sitt kirkjulega kennileiti.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1926",
+      "texti": "Mikill eldsvoði varð á Stokkseyri og sjö hús brunnu. Sem betur fer varð ekkert manntjón.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1982",
+      "texti": "Kvikmyndin E.T. var frumsýnd í Evrópu í Laugarásbíói í Reykjavík. Litla geimveran þurfti sem sagt að hringja heim úr Laugardalnum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Beau Bridges",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1941"
+    },
+    {
+      "nafn": "Billy Bremner",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Bixente Lizarazu",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Caroline Lucas",
+      "starfsgrein": "aðgerðasinni og stjórnmálakona",
+      "ar": "1960"
+    },
+    {
+      "nafn": "AleXa",
+      "starfsgrein": "söngkona",
+      "ar": "1996"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Björgvin Franz Gíslason",
+      "starfsgrein": "leikari",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Hermann Gunnarsson",
+      "starfsgrein": "knattspyrnumaður og skemmtikraftur",
+      "ar": "1946"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fyrirbæri kynnti Douglas Engelbart opinberlega árið 1968?",
+      "svor": [
+        "Tölvumúsina",
+        "Farsímann",
+        "Geisladiskinn",
+        "Vasareikninn"
+      ],
+      "rett": 0,
+      "skyring": "Tölvumúsin skaust fram á sjónarsviðið í sýningu sem síðar fékk stórbrotið viðurnefni."
+    },
+    {
+      "spurning": "Hvar fór Evrópufrumsýning E.T. fram árið 1982?",
+      "svor": [
+        "Háskólabíói",
+        "Laugarásbíói",
+        "Bæjarbíói",
+        "Nýja bíói"
+      ],
+      "rett": 1,
+      "skyring": "Laugarásbíó tók á móti E.T. og Evrópu allri — engin smáræðis gestakoma."
+    },
+    {
+      "spurning": "Hver varð fyrstur Íslendinga skipaður landfógeti?",
+      "svor": [
+        "Jón Sigurðsson",
+        "Skúli Magnússon",
+        "Hannes Hafstein",
+        "Magnús Stephensen"
+      ],
+      "rett": 1,
+      "skyring": "Skúli Magnússon hlaut embættið árið 1749 og varð þar með sögulegur brautryðjandi."
+    }
+  ],
+  "tonlistUSA": "We Didn't Start the Fire – Billy Joel (1989)",
+  "tonlistUK": "Mary's Boy Child – Oh My Lord – Boney M. (1978)",
+  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "ord_dagsins": {
+    "ord": "gluggagægir",
+    "skyring": "Gluggagægir er sá sem gægist inn um glugga, yfirleitt án þess að hafa verið boðið til stofu."
+  },
+  "vissir_thu": "Bólusótt er eini smitsjúkdómur manna sem hefur verið útrýmt að fullu á heimsvísu.",
+  "stjornuspa": "Bogmaður, í dag skaltu miða hátt en muna að jafnvel tölvumúsin byrjaði með snúru. Óvænt hugmynd gæti reynst snjöll, svo lengi sem þú reynir ekki að selja hana sem „móður allra sýninga“ fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1775",
+    "texti": "Eftir ósigur í orrustunni við Great Bridge neyddust bresk yfirvöld til að yfirgefa Virginíunýlenduna. Sjálfstæðisbaráttan var farin að bíta hraustlega frá sér.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

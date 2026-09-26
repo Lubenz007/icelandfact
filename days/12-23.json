@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-23",
+  "dagur": 23,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:22",
+  "sunset": "15:30",
+  "kvedja": "Gleðilega Þorláksmessu, kæri lesandi! Í dag sveiflum við okkur frá hásæti Mayadrottningar til Tókýóturns og komum við á Borðeyri áður en skatan kallar — sagan kann sannarlega að troða miklu í einn desemberdag.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "583",
+      "texti": "Yohl Ikʼnal tók við völdum í Mayaborgarríkinu Palenque. Hún var ein fárra kvenna sem ríktu þar — og sat ekki beinlínis við barnaborðið í sögunni."
+    },
+    {
+      "ar": "1783",
+      "texti": "George Washington sagði af sér sem yfirhershöfðingi meginlandshersins í þinghúsinu í Annapolis í Maryland. Með því lagði hann áherslu á að herinn skyldi lúta borgaralegu valdi."
+    },
+    {
+      "ar": "1815",
+      "texti": "Skáldsagan Emma eftir Jane Austen kom fyrst út. Hún varð síðasta skáldsagan sem birtist meðan Austen var enn á lífi."
+    },
+    {
+      "ar": "1919",
+      "texti": "Bresku lögin Sex Disqualification (Removal) Act tóku gildi og afléttu flestum þeim réttarreglum sem höfðu hindrað konur í að gegna ýmsum opinberum störfum og embættum."
+    },
+    {
+      "ar": "1958",
+      "texti": "Tókýóturninn var opnaður og var þá hæsti frístandandi turn heims. Rauðhvíti risinn varð fljótt eitt helsta kennileiti japönsku höfuðborgarinnar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1199",
+      "texti": "Þorláksmessa var fyrst haldin heilög á Íslandi, og síðan hefur 23. desember verið rækilega merktur í íslensku jólatalinu.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1846",
+      "texti": "Borðeyri við Hrútafjörð varð löggiltur verslunarstaður og fékk þar með formlegt hlutverk í verslun landsmanna.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1956",
+      "texti": "Richard Nixon, þá varaforseti Bandaríkjanna, kom til Íslands og heimsótti Ásgeir Ásgeirsson forseta á Bessastöðum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1968",
+      "texti": "Átök urðu í Reykjavík milli lögreglu og fólks sem mótmælti Víetnamstríðinu. Atburðurinn hefur síðan gengið undir nafninu Þorláksmessuslagurinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Akihito",
+      "starfsgrein": "fyrrverandi Japanskeisari",
+      "ar": "1933"
+    },
+    {
+      "nafn": "Alexander I of Russia",
+      "starfsgrein": "Rússakeisari",
+      "ar": "1777"
+    },
+    {
+      "nafn": "Adrian Belew",
+      "starfsgrein": "tónlistarmaður og gítarleikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Alison Sudol",
+      "starfsgrein": "leikkona og söngvaskáld",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Anthony Phillips",
+      "starfsgrein": "gítarleikari og lagahöfundur",
+      "ar": "1951"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Guðmundur Þórður Guðmundsson",
+      "starfsgrein": "handknattleiksþjálfari",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Rósa Guðmundsdóttir",
+      "starfsgrein": "skáld",
+      "ar": "1795"
+    },
+    {
+      "nafn": "Jónína Bjartmarz",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1952"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skáldsaga Jane Austen kom fyrst út 23. desember 1815?",
+      "svor": [
+        "Emma",
+        "Hroki og hleypidómar",
+        "Mansfield Park",
+        "Northanger Abbey"
+      ],
+      "rett": 0,
+      "skyring": "Emma var síðasta skáldsagan sem kom út meðan Jane Austen lifði."
+    },
+    {
+      "spurning": "Hvaða mannvirki var hæsti frístandandi turn heims þegar það opnaði árið 1958?",
+      "svor": [
+        "Eiffelturninn",
+        "Tókýóturninn",
+        "Empire State-byggingin",
+        "Skytree-turninn"
+      ],
+      "rett": 1,
+      "skyring": "Tókýóturninn opnaði 23. desember 1958 og gnæfði þá hæst frístandandi turna."
+    },
+    {
+      "spurning": "Hvað hefur mótmælaatburðurinn í Reykjavík árið 1968 verið kallaður?",
+      "svor": [
+        "Jólaslagurinn",
+        "Skötuslagurinn",
+        "Þorláksmessuslagurinn",
+        "Bessastaðabardaginn"
+      ],
+      "rett": 2,
+      "skyring": "Átökin við mótmæli gegn Víetnamstríðinu fengu heitið Þorláksmessuslagurinn."
+    }
+  ],
+  "tonlistUSA": "Another Day in Paradise – Phil Collins (1989)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "Home Alone (1990)",
+  "ord_dagsins": {
+    "ord": "fönn",
+    "skyring": "Fönn er snjór eða snjóbreiða, einkum í skáldlegu eða hátíðlegu máli."
+  },
+  "vissir_thu": "Yohl Ikʼnal, sem tók við hásætinu í Palenque árið 583, var ein fárra kvenna sem ríktu yfir þessu Mayaborgarríki.",
+  "stjornuspa": "Steinbukurinn finnur gamlan verkefnalista og strikar yfir þrjú atriði af slíkri festu að ritvélin í huganum glamrar. Varastu þó að skipuleggja jólin eins og herför — piparkökur hlýða sjaldnast skipunum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg/500px-Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg",
+    "ar": "1783",
+    "texti": "George Washington sagði af sér sem yfirhershöfðingi meginlandshersins í þinghúsinu í Annapolis í Maryland. Með því lagði hann áherslu á að herinn skyldi lúta borgaralegu valdi.",
+    "heimild": "https://en.wikipedia.org/wiki/George_Washington",
+    "breidd": 330,
+    "haed": 401
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

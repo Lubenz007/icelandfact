@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-26",
+  "dagur": 26,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Steinbukur",
+  "sunrise": "11:23",
+  "sunset": "15:33",
+  "kvedja": "Gleðilegan annan í jólum, kæri lesandi! Þennan dag hafa Washington og her hans öslað yfir Delaware, Curie-hjónin kynnt radín og íslensk kirkja beinlínis gefist upp fyrir kuldanum. Sagan kann greinilega vel við dramatík á milli jólaboða.",
+  "nafnadagur": "Stefán",
+  "atburdir": [
+    {
+      "ar": "1776",
+      "texti": "George Washington leiddi herdeild yfir Delaware-fljót og hóf óvænta árás á hessneskar hersveitir við Trenton. Þetta var öllu ævintýralegri jólaferð en flestir myndu kjósa."
+    },
+    {
+      "ar": "1825",
+      "texti": "Um 3.000 rússneskir hermenn tóku þátt í uppreisn undir forystu herforingja sem mótmæltu valdatöku Nikulásar 1. Uppreisnin varð síðar kennd við desembermánuð og kölluð desemberistauppreisnin."
+    },
+    {
+      "ar": "1898",
+      "texti": "Pierre og Marie Curie tilkynntu frönsku vísindaakademíunni um uppgötvun nýs frumefnis sem þau nefndu radín. Vísindin höfðu þar með fengið nýjan og bókstaflega geislandi kafla."
+    },
+    {
+      "ar": "1943",
+      "texti": "Þýska orrustuskipinu Scharnhorst var sökkt í orrustunni við Norðurhöfða þegar það reyndi að ráðast á skipalestir á norðurslóðum. Orrustan varð einn af stórviðburðum sjóhernaðar síðari heimsstyrjaldarinnar á norðurslóðum."
+    },
+    {
+      "ar": "2004",
+      "texti": "Gífurlegur jarðskjálfti og flóðbylgja lögðu samfélög við Indlandshaf í rúst. Talið er að 227.898 manns hafi látist í 14 löndum, og atburðurinn er meðal mannskæðustu náttúruhamfara nútímans."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1877",
+      "texti": "Ekki var hægt að messa í Dómkirkjunni í Reykjavík vegna kulda. Tveimur árum síðar voru loks settir þar ofnar, enda þolinmæði safnaðarins væntanlega farin að frjósa.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1911",
+      "texti": "Leikfélag Reykjavíkur frumsýndi Fjalla-Eyvind eftir Jóhann Sigurjónsson. Sýningin naut metaðsóknar um veturinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Leikfélag Reykjavíkur frumsýndi Gullna hliðið eftir Davíð Stefánsson, með Arndísi Björnsdóttur og Brynjólf Jóhannesson í aðalhlutverkum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2003",
+      "texti": "Fyrsta greinin var skrifuð í íslenska hluta Wikipediu. Þar hófst uppsláttarævintýri sem hefur síðan bjargað ófáum fróðleiksfúsum sálum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Charles Babbage",
+      "starfsgrein": "stærðfræðingur og verkfræðingur",
+      "ar": "1791"
+    },
+    {
+      "nafn": "Frederick II",
+      "starfsgrein": "keisari hins heilaga rómverska ríkis",
+      "ar": "1194"
+    },
+    {
+      "nafn": "Adrian Newey",
+      "starfsgrein": "loftaflfræðingur og verkfræðingur",
+      "ar": "1958"
+    },
+    {
+      "nafn": "Aksel Lund Svindal",
+      "starfsgrein": "skíðamaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Aaron Ramsey",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1990"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Oddur Kristjánsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1942"
+    },
+    {
+      "nafn": "Gunnfríður Jónsdóttir",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1889"
+    },
+    {
+      "nafn": "Jón Bjarnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1943"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða frumefni kynntu Pierre og Marie Curie árið 1898?",
+      "svor": [
+        "Radín",
+        "Helín",
+        "Neon",
+        "Argon"
+      ],
+      "rett": 0,
+      "skyring": "Curie-hjónin nefndu nýja frumefnið radín og létu vísindasöguna ljóma."
+    },
+    {
+      "spurning": "Hvers vegna féll messa niður í Dómkirkjunni í Reykjavík árið 1877?",
+      "svor": [
+        "Vegna óveðurs á sjó",
+        "Vegna kulda",
+        "Vegna viðgerða á turninum",
+        "Vegna leikaraverkfalls"
+      ],
+      "rett": 1,
+      "skyring": "Kuldi stöðvaði messuhaldið og ofnar komu ekki í kirkjuna fyrr en tveimur árum síðar."
+    },
+    {
+      "spurning": "Hvað hét orrustuskipið sem var sökkt við Norðurhöfða árið 1943?",
+      "svor": [
+        "Bismarck",
+        "Yamato",
+        "Scharnhorst",
+        "Arizona"
+      ],
+      "rett": 2,
+      "skyring": "Scharnhorst mætti örlögum sínum í orrustunni við Norðurhöfða."
+    }
+  ],
+  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
+  "bio": "The Lord of the Rings: The Return of the King (2003)",
+  "ord_dagsins": {
+    "ord": "hret",
+    "skyring": "Hret er skammvinnt kast af köldu og slæmu veðri, gjarnan með snjókomu eða slyddu."
+  },
+  "vissir_thu": "Charles Babbage hannaði mismunavélina, vélræna reiknivél sem átti að reikna stærðfræðitöflur sjálfvirkt.",
+  "stjornuspa": "Steinbukurinn finnur í dag leið til að skipuleggja bæði afganga og heimsveldi af sömu festu. Gættu þess þó að gera ekki verkefnalista fyrir alla fjölskylduna áður en kaffið er komið í bollann.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
+    "ar": "1776",
+    "texti": "George Washington leiddi herdeild yfir Delaware-fljót og hóf óvænta árás á hessneskar hersveitir við Trenton. Þetta var öllu ævintýralegri jólaferð en flestir myndu kjósa.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "breidd": 330,
+    "haed": 218
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

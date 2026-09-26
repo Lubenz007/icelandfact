@@ -1,0 +1,153 @@
+{
+  "mmdd": "12-14",
+  "dagur": 14,
+  "manudur": "desember",
+  "manudurNr": 12,
+  "stjornumerki": "Bogmaður",
+  "sunrise": "11:13",
+  "sunset": "15:29",
+  "kvedja": "Góðan 14. desember, kæri lesandi! Í dag förum við frá keisarahöll Tang-ættarinnar alla leið á Suðurpólinn og tunglið, með viðkomu á Eyrarbakka — ferðalag sem krefst bæði hlýrra sokka og góðs ímyndunarafls.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "835",
+      "texti": "Í svonefndu Sætdöggvaratviki reyndi Wenzong, keisari Tang-ættarinnar, að ráða niðurlögum valdamikilla hirðgeldingja. Samsærið fór út um þúfur, eins og hallarsamsæri eiga óþægilega oft til."
+    },
+    {
+      "ar": "1650",
+      "texti": "Enska þjónustustúlkan Anne Greene lifði af hengingu eftir að hafa verið dæmd fyrir barnsmorð. Saga hennar varð eitt undarlegasta og áhrifamesta læknisfræðilega furðuverk aldarinnar."
+    },
+    {
+      "ar": "1911",
+      "texti": "Norski landkönnuðurinn Roald Amundsen og félagar hans urðu fyrstir manna til að komast á Suðurpólinn. Þar beið hvorki rauður dregill né heitt kakó."
+    },
+    {
+      "ar": "1948",
+      "texti": "Bandarísku eðlisfræðingarnir Thomas T. Goldsmith yngri og Estle Ray Mann fengu einkaleyfi á leiktæki með bakskautsgeislaröri, fyrsta gagnvirka raftölvuleiknum. Tölvuleikjasagan hófst sem sagt löngu áður en nokkur eltist við sveppi á skjá."
+    },
+    {
+      "ar": "1972",
+      "texti": "Eftir þriðju tunglgöngu Apollo 17 varð Gene Cernan síðasti maðurinn til þessa sem gekk á tunglinu. Fótspor hans hafa því fengið óvenjulangan tíma til að vera óáreitt."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1890",
+      "texti": "Eyrarbakkakirkja var vígð. Altaristafla kirkjunnar var síðar máluð af Lovísu Danadrottningu árið 1891.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1908",
+      "texti": "Togarinn Coot, fyrsti togarinn sem keyptur var til Íslands, strandaði við Keilisnes.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1912",
+      "texti": "Stórbruni varð á Akureyri og tólf hús brunnu til ösku. Sem betur fer fórst enginn.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1935",
+      "texti": "Fárviðri gekk yfir mestallt Ísland með miklu manntjóni, slitnum símalínum og skemmdum á húsum. Heimildirnar í gögnunum greina frá 25 látnum, en vísa jafnframt í samtímafrásögn sem taldi fórnarlömbin 26.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Antony Beevor",
+      "starfsgrein": "sagnfræðingur og rithöfundur",
+      "ar": "1946"
+    },
+    {
+      "nafn": "B. K. S. Iyengar",
+      "starfsgrein": "jógakennari og rithöfundur",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Aphra Behn",
+      "starfsgrein": "leikskáld og rithöfundur",
+      "ar": "1640"
+    },
+    {
+      "nafn": "Antonio Giovinazzi",
+      "starfsgrein": "kappakstursökumaður",
+      "ar": "1993"
+    },
+    {
+      "nafn": "Bill Buckner",
+      "starfsgrein": "hafnaboltamaður og þjálfari",
+      "ar": "1949"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hannes Pétursson",
+      "starfsgrein": "skáld",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Ingibjörg H. Bjarnason",
+      "starfsgrein": "skólastjóri og alþingismaður",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Egill Jónsson",
+      "starfsgrein": "bóndi og alþingismaður",
+      "ar": "1930"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrstur manna til að komast á Suðurpólinn ásamt leiðangursfélögum sínum?",
+      "svor": [
+        "Roald Amundsen",
+        "Gene Cernan",
+        "Antony Beevor",
+        "Antonio Giovinazzi"
+      ],
+      "rett": 0,
+      "skyring": "Roald Amundsen náði á Suðurpólinn 14. desember 1911, án þess þó að fá þar stimpil í vegabréfið."
+    },
+    {
+      "spurning": "Hvar varð stórbruni árið 1912 þar sem tólf hús eyðilögðust en enginn fórst?",
+      "svor": [
+        "Á Eyrarbakka",
+        "Á Akureyri",
+        "Við Keilisnes",
+        "Í Reykjavík"
+      ],
+      "rett": 1,
+      "skyring": "Bruninn varð á Akureyri og þótt eignatjónið væri mikið slapp allt fólk lifandi."
+    },
+    {
+      "spurning": "Hvaða geimfari varð síðasti maðurinn til þessa til að ganga á tunglinu?",
+      "svor": [
+        "Neil Armstrong",
+        "Buzz Aldrin",
+        "Gene Cernan",
+        "Roald Amundsen"
+      ],
+      "rett": 2,
+      "skyring": "Gene Cernan kvaddi tunglið árið 1972 og enginn hefur enn tekið við gönguvaktinni."
+    }
+  ],
+  "tonlistUSA": "Say You, Say Me – Lionel Richie (1985)",
+  "tonlistUK": "Saving All My Love for You – Whitney Houston (1985)",
+  "bio": "Saturday Night Fever (1977)",
+  "ord_dagsins": {
+    "ord": "hríðarfár",
+    "skyring": "Hríðarfár er aftakaveður með mikilli snjókomu og hvassviðri."
+  },
+  "vissir_thu": "Gene Cernan, síðasti maðurinn sem gekk á tunglinu, skrifaði upphafsstafi dóttur sinnar í tunglrykið.",
+  "stjornuspa": "Bogmaður, í dag blæs ævintýraþráin í seglin og þú gætir fundið þig á leið á Suðurpólinn — eða að minnsta kosti í óvenjulega langan kaffitúr. Haltu stefnunni, en mundu að jafnvel hraustustu landkönnuðir þurfa vettlinga og skynsamlegt nesti.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Anne-Greene.jpg/500px-Anne-Greene.jpg",
+    "ar": "1650",
+    "texti": "Enska þjónustustúlkan Anne Greene lifði af hengingu eftir að hafa verið dæmd fyrir barnsmorð. Saga hennar varð eitt undarlegasta og áhrifamesta læknisfræðilega furðuverk aldarinnar.",
+    "heimild": "https://en.wikipedia.org/wiki/Anne_Greene",
+    "breidd": 330,
+    "haed": 231
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
