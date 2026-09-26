@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-15",
+  "dagur": 15,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:13",
+  "sunset": "22:35",
+  "kvedja": "Góðan og gleðilegan 15. maí! Í dag siglum við kringum hnöttinn, hlustum á fyrstu tóna talvélarinnar og hittum bæði Mikka Mús og Charles Darwin á leiðinni — býsna fjölbreytt ferðalag án þess að þurfa einu sinni að pakka tannbursta.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1862",
+      "texti": "Bók Charles Darwin um frjóvgun brönugrasa kom út og sýndi með nákvæmum hætti hvernig náttúruvalið starfar. Jafnvel blómin fengu sitt stóra hlutverk í þróunarsögunni."
+    },
+    {
+      "ar": "1928",
+      "texti": "Mikki og Mína Mús komu fyrst fram á hvíta tjaldinu í teiknimyndinni Plane Crazy. Þar hófst ferill tveggja músa sem áttu eftir að verða óvenju stórar í skemmtanabransanum."
+    },
+    {
+      "ar": "1957",
+      "texti": "Bretar gerðu fyrstu tilraun sína með vetnissprengju yfir Malden-eyju í aðgerðinni Operation Grapple. Kjarnorkukapphlaup kalda stríðsins varð þar með enn ógnvænlegra."
+    },
+    {
+      "ar": "1972",
+      "texti": "Bandaríkin afhentu Japan Ryukyu-eyjar á ný og bandaríska hernámsstjórnin þar var lögð niður. Okinawa, stærsta eyja klasans, varð þannig aftur hluti af japanskri stjórnsýslu."
+    },
+    {
+      "ar": "2010",
+      "texti": "Jessica Watson kom til Sydney eftir að hafa siglt ein, án viðkomu og utanaðkomandi aðstoðar, kringum heiminn. Hún var þá aðeins þremur dögum frá sautján ára afmælinu — nokkuð röskleg leið heim í kökuna."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1770",
+      "texti": "Íslandi var skipt í tvö ömt: Suður- og Vesturamt annars vegar og Norður- og Austuramt hins vegar. Síðar voru Suðuramt og Vesturamt aðskilin.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1897",
+      "texti": "Sigfús Eymundsson flutti talvél, eða grafófón, til Íslands. Í auglýsingu var tekið fram að undratækið gæti bæði talað og sungið ýmis lög.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1952",
+      "texti": "Fiskveiðilögsaga Íslands var færð úr þremur mílum í fjórar og flóum og fjörðum jafnframt lokað fyrir botnvörpuveiðum. Þetta var mikilvægt skref í langri baráttu Íslendinga fyrir yfirráðum yfir fiskimiðunum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1976",
+      "texti": "Keflavíkurgangan mikla fór fram og varð fjölmennasta Keflavíkurganga sem haldin hafði verið. Þar lét friðar- og herstöðvaandstæðingahreyfingin sannarlega í sér heyra.",
+      "landshluti": "Reykjanes"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andy Murray",
+      "starfsgrein": "tennisleikari",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Brian Eno",
+      "starfsgrein": "tónlistarmaður og upptökustjóri",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Arthur Schnitzler",
+      "starfsgrein": "rithöfundur og leikskáld",
+      "ar": "1862"
+    },
+    {
+      "nafn": "Abraham Zapruder",
+      "starfsgrein": "kaupsýslumaður og áhugaljósmyndari",
+      "ar": "1905"
+    },
+    {
+      "nafn": "Carl Wernicke",
+      "starfsgrein": "taugalæknir",
+      "ar": "1848"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnór Sigurðsson",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Andri Óttarsson",
+      "starfsgrein": "lögfræðingur",
+      "ar": "1975"
+    },
+    {
+      "nafn": "Grímur Thomsen",
+      "starfsgrein": "skáld, bókmenntafræðingur og þingmaður",
+      "ar": "1820"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða frægu teiknimyndapersónur komu fyrst fram í Plane Crazy árið 1928?",
+      "svor": [
+        "Mikki og Mína Mús",
+        "Tinni og Tobbi",
+        "Tommi og Jenni",
+        "Andrés Önd og Jóakim"
+      ],
+      "rett": 0,
+      "skyring": "Mikki og Mína hófu kvikmyndaferilinn í Plane Crazy og höfðu greinilega nef fyrir sviðsljósinu."
+    },
+    {
+      "spurning": "Hversu gömul var Jessica Watson rétt að verða þegar hún lauk hnattferð sinni?",
+      "svor": [
+        "Fimmtán ára",
+        "Sextán ára",
+        "Sautján ára",
+        "Átján ára"
+      ],
+      "rett": 2,
+      "skyring": "Hún kom í höfn aðeins þremur dögum fyrir sautján ára afmælið."
+    },
+    {
+      "spurning": "Úr hversu mörgum mílum í hversu margar var fiskveiðilögsaga Íslands færð árið 1952?",
+      "svor": [
+        "Úr tveimur í þrjár",
+        "Úr þremur í fjórar",
+        "Úr fjórum í tólf",
+        "Úr tólf í fimmtíu"
+      ],
+      "rett": 1,
+      "skyring": "Lögsagan fór úr þremur mílum í fjórar — ein lítil míla á korti en stórt skref í sögunni."
+    }
+  ],
+  "tonlistUSA": "Boogie Fever – The Sylvers (1976)",
+  "tonlistUK": "Ebony and Ivory – Paul McCartney og Stevie Wonder (1982)",
+  "bio": "Mad Max: Fury Road (2015)",
+  "ord_dagsins": {
+    "ord": "talvél",
+    "skyring": "Talvél er eldra íslenskt heiti á tæki á borð við fónógraf eða grafófón sem spilar upp hljóðupptökur."
+  },
+  "vissir_thu": "Jessica Watson lauk hnattferð sinni aðeins þremur dögum fyrir sautján ára afmælið eftir að hafa siglt án viðkomu og utanaðkomandi aðstoðar.",
+  "stjornuspa": "Nautið finnur í dag gamlan neista í nýju verkefni og heldur sínu striki þótt aðrir vilji stytta sér leið. Varastu þó að standa svo fast á þínu að þú verðir sjálft ömtakerfið — dálítil sveigjanleiki skaðar engan.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fertilisation_of_Orchids_1877_edition_title_page.jpg/500px-Fertilisation_of_Orchids_1877_edition_title_page.jpg",
+    "ar": "1862",
+    "texti": "Bók Charles Darwin um frjóvgun brönugrasa kom út og sýndi með nákvæmum hætti hvernig náttúruvalið starfar. Jafnvel blómin fengu sitt stóra hlutverk í þróunarsögunni.",
+    "heimild": "https://en.wikipedia.org/wiki/Fertilisation_of_Orchids",
+    "breidd": 330,
+    "haed": 547
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

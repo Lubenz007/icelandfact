@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-12",
+  "dagur": 12,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:23",
+  "sunset": "22:25",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum 12. maí fljúgum við yfir Norðurpólinn, lítum ofan í svarthol og tökum síðan létt gítarsóló með Jimi Hendrix. Saga dagsins er með öðrum orðum engin smásmíði — enda er Nautið ekki þekkt fyrir hálfkák.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1863",
+      "texti": "Í bandaríska borgarastríðinu biðu Suðurríkjamenn ósigur í orrustunni við Raymond. Orrustan var smá í sniðum en hafði óvenjulega mikil áhrif á herförina um Vicksburg."
+    },
+    {
+      "ar": "1926",
+      "texti": "Áhöfn loftskipsins Norge, undir forystu Roalds Amundsen, varð fyrst til að ljúka staðfestri ferð yfir Norðurpólinn. Þar var kalt um tær en hlýtt í sögubókunum."
+    },
+    {
+      "ar": "1941",
+      "texti": "Þýski verkfræðingurinn Konrad Zuse sýndi vísindamönnum í Berlín Z3, fyrstu starfhæfu forritanlegu og alsjálfvirku tölvuna. Hún komst þó blessunarlega aldrei á samfélagsmiðla."
+    },
+    {
+      "ar": "1967",
+      "texti": "The Jimi Hendrix Experience gaf út frumraun sína, Are You Experienced. Platan hlaut mikið lof og varð ein áhrifamesta rokkplata samtímans."
+    },
+    {
+      "ar": "2022",
+      "texti": "Event Horizon Telescope birti fyrstu myndina af Sagittarius A*, risasvartholinu í miðju Vetrarbrautarinnar. Mannkynið fékk þar með mynd af nágranna sem enginn hyggst heimsækja í bráð."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1870",
+      "texti": "Fyrstu Vesturfararnir, fjórir Íslendingar, lögðu af stað frá Eyrarbakka og náðu til Quebec í Kanada í júní. Þetta var upphaf að miklum fólksflutningum vestur um haf.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1882",
+      "texti": "Konur fengu takmarkaðan kosningarétt til sveitarstjórna. Rétturinn náði aðeins til ekkna og ógiftra kvenna, 25 ára og eldri, en giftar konur urðu enn að bíða.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1935",
+      "texti": "Fyrsti golfvöllur Íslands var vígður í Laugardalnum. Þar hófst löng þjóðarsaga af fuglum, skollum og kúlum sem fundust aldrei aftur.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2007",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi. Kjósendur tóku upp blýantinn og létu lýðræðið finna fyrir því.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bruce Boxleitner",
+      "starfsgrein": "leikari og rithöfundur",
+      "ar": "1950"
+    },
+    {
+      "nafn": "Burt Bacharach",
+      "starfsgrein": "lagahöfundur, píanóleikari og upptökustjóri",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Dante Gabriel Rossetti",
+      "starfsgrein": "skáld og listmálari",
+      "ar": "1828"
+    },
+    {
+      "nafn": "Alan Ball, Jr.",
+      "starfsgrein": "knattspyrnumaður og knattspyrnustjóri",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Frenkie de Jong",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hjörtur Þórðarson",
+      "starfsgrein": "vestur-íslenskur rafmagnsverkfræðingur og uppfinningamaður",
+      "ar": "1867"
+    },
+    {
+      "nafn": "Jón Sigurðsson",
+      "starfsgrein": "verkalýðsforingi",
+      "ar": "1902"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað hét loftskipið sem flaug yfir Norðurpólinn árið 1926?",
+      "svor": [
+        "Norge",
+        "Vasa",
+        "Mayaguez",
+        "Rex"
+      ],
+      "rett": 0,
+      "skyring": "Norge bar Roald Amundsen og félaga yfir pólinn og rak nafn sitt snyrtilega inn í söguna."
+    },
+    {
+      "spurning": "Hvar var fyrsti golfvöllur Íslands vígður árið 1935?",
+      "svor": [
+        "Á Eyrarbakka",
+        "Í Laugardalnum",
+        "Á Korpúlfsstöðum",
+        "Á Þingvöllum"
+      ],
+      "rett": 1,
+      "skyring": "Fyrsti golfvöllurinn var vígður í Laugardalnum, löngu áður en kylfurnar urðu fastur farangur margra Íslendinga."
+    },
+    {
+      "spurning": "Hvaða fyrirbæri sást á mynd sem Event Horizon Telescope birti árið 2022?",
+      "svor": [
+        "Loftskip yfir Norðurpólnum",
+        "Svarthol í miðju Vetrarbrautarinnar",
+        "Ný stjarna í sólkerfinu",
+        "Fjarlæg halastjarna"
+      ],
+      "rett": 1,
+      "skyring": "Myndin sýndi Sagittarius A*, risasvartholið í hjarta Vetrarbrautarinnar."
+    }
+  ],
+  "tonlistUSA": "Tie a Yellow Ribbon Round the Ole Oak Tree – Tony Orlando and Dawn (1973)",
+  "tonlistUK": "See My Baby Jive – Wizzard (1973)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "útmánuðir",
+    "skyring": "Útmánuðir eru síðustu mánuðir vetrar samkvæmt gamla íslenska tímatalinu."
+  },
+  "vissir_thu": "Z3-tölva Konrads Zuse var fyrsta starfhæfa forritanlega og alsjálfvirka tölvan.",
+  "stjornuspa": "Nautið finnur gamlan seðil í jakkavasa og túlkar það réttilega sem fjárhagslegan viðsnúning. Varastu þó að fjárfesta öllu í golfkúlum eða loftskipum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/500px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png",
+    "ar": "1863",
+    "texti": "Í bandaríska borgarastríðinu biðu Suðurríkjamenn ósigur í orrustunni við Raymond. Orrustan var smá í sniðum en hafði óvenjulega mikil áhrif á herförina um Vicksburg.",
+    "heimild": "https://en.wikipedia.org/wiki/American_Civil_War",
+    "breidd": 330,
+    "haed": 211
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

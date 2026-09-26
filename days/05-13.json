@@ -1,0 +1,143 @@
+{
+  "mmdd": "05-13",
+  "dagur": 13,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:20",
+  "sunset": "22:29",
+  "kvedja": "Góðan og gleðilegan 13. maí! Í dag fljúgum við með fjögurra hreyfla furðu, klífum Everest án súrefniskúts og endum svo í Hörpu með Eurovision-lag á vörum — sagan kann svo sannarlega að halda dagskrá.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1373",
+      "texti": "Enska dulkonan Júlíana frá Norwich náði sér eftir alvarleg veikindi þar sem hún upplifði sterkar sýnir af Kristi. Hún lýsti þeim síðar í fyrsta þekkta ritinu á ensku eftir konu."
+    },
+    {
+      "ar": "1779",
+      "texti": "Austurríki og Prússland undirrituðu Teschen-sáttmálann, sem batt enda á Bæverska erfðastríðið. Rússar og Frakkar höfðu milligöngu — diplómatían fékk sem sagt að leggja sverðin til hliðar."
+    },
+    {
+      "ar": "1913",
+      "texti": "Rússneski uppfinningamaðurinn Igor Sikorsky flaug Russky Vityaz, fyrstu fjögurra hreyfla flugvél heims með föstum vængjum. Flugið var tekið að vaxa úr grasi og fékk fjóra hreyfla til að sanna það."
+    },
+    {
+      "ar": "1995",
+      "texti": "Alison Hargreaves varð fyrst kvenna til að ná tindi Everest án aðstoðar sherpa eða súrefnis á flöskum. Þar var hvorki stytt leið né léttur farangur í boði."
+    },
+    {
+      "ar": "2017",
+      "texti": "Portúgal vann Eurovision í fyrsta sinn þegar Salvador Sobral flutti lagið „Amar pelos dois“. Lágstemmd einlægni reyndist þetta kvöld háværari en allt glimmerið."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1776",
+      "texti": "Konungur gaf út tilskipun um póstferðir á Íslandi, þótt reglulegar ferðir hæfust ekki fyrr en 1782. Pósturinn var því lengi á leiðinni áður en fyrsta bréfið lagði af stað.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1934",
+      "texti": "Dettifossslagurinn svonefndi varð á Siglufirði, hörð viðureign verkfallsmanna og andstæðinga þeirra vegna afgreiðslubanns á skip Eimskipafélags Íslands.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1966",
+      "texti": "Íslenska ríkið keypti Skaftafell í Öræfum undir þjóðgarð, sem var síðan opnaður tveimur árum síðar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2011",
+      "texti": "Tónlistar- og ráðstefnuhúsið Harpa var formlega tekið í notkun í Reykjavík. Glerhjúpurinn varð samstundis nýr og glitrandi félagi hafnarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bea Arthur",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1922"
+    },
+    {
+      "nafn": "Alexander Nevsky",
+      "starfsgrein": "rússneskur fursti og dýrlingur",
+      "ar": "1221"
+    },
+    {
+      "nafn": "Alexander Rybak",
+      "starfsgrein": "söngvari, lagahöfundur og fiðluleikari",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Candice King",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Alison Goldfrapp",
+      "starfsgrein": "söngkona, lagahöfundur og upptökustjóri",
+      "ar": "1966"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ásgeir Ásgeirsson",
+      "starfsgrein": "stjórnmálamaður og annar forseti Íslands",
+      "ar": "1894"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða land vann Eurovision í fyrsta sinn árið 2017?",
+      "svor": [
+        "Portúgal",
+        "Noregur",
+        "Ísland",
+        "Spánn"
+      ],
+      "rett": 0,
+      "skyring": "Salvador Sobral tryggði Portúgal langþráðan fyrsta sigur með „Amar pelos dois“."
+    },
+    {
+      "spurning": "Hvaða fjall klauf Alison Hargreaves árið 1995 án sherpa eða súrefnis á flöskum?",
+      "svor": [
+        "Kilimanjaro",
+        "Everest",
+        "Mont Blanc",
+        "Elbrus"
+      ],
+      "rett": 1,
+      "skyring": "Hún náði tindi Everest við aðstæður sem kalla seint á notalega sunnudagsgöngu."
+    },
+    {
+      "spurning": "Hvaða bygging var formlega tekin í notkun í Reykjavík 13. maí 2011?",
+      "svor": [
+        "Perlan",
+        "Ráðhús Reykjavíkur",
+        "Harpa",
+        "Þjóðleikhúsið"
+      ],
+      "rett": 2,
+      "skyring": "Harpa opnaði formlega og hefur síðan glitrað við höfnina."
+    }
+  ],
+  "tonlistUSA": "You Are the Sunshine of My Life – Stevie Wonder (1973)",
+  "tonlistUK": "The Reflex – Duran Duran (1984)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "fararskjóti",
+    "skyring": "Fararskjóti er farartæki eða reiðskjóti sem kemur manni milli staða."
+  },
+  "vissir_thu": "Russky Vityaz, sem Igor Sikorsky flaug árið 1913, var fyrsta fjögurra hreyfla flugvél heims með föstum vængjum.",
+  "stjornuspa": "Nautið finnur gamlan tíkall í vasa, setur plötu á fóninn og ákveður að allar góðar ákvarðanir megi taka eftir kaffibolla. Vertu staðfastur, en mundu að jafnvel traustasti fararskjóti þarf stundum að beygja.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg/500px-Hildegard_von_Bingen_Liber_Divinorum_Operum.jpg",
+    "ar": "1373",
+    "texti": "Enska dulkonan Júlíana frá Norwich náði sér eftir alvarleg veikindi þar sem hún upplifði sterkar sýnir af Kristi. Hún lýsti þeim síðar í fyrsta þekkta ritinu á ensku eftir konu.",
+    "heimild": "https://en.wikipedia.org/wiki/Mysticism",
+    "breidd": 330,
+    "haed": 487
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

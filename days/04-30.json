@@ -1,0 +1,153 @@
+{
+  "mmdd": "04-30",
+  "dagur": 30,
+  "manudur": "apríl",
+  "manudurNr": 4,
+  "stjornumerki": "Naut",
+  "sunrise": "05:04",
+  "sunset": "21:47",
+  "kvedja": "Góðan og gleðilegan 30. apríl! Í dag förum við frá björtustu sprengistjörnu sögunnar yfir í rafeindina, leyniaðgerðir og Riverdance — sem sannar að sagan kann bæði að springa og stíga létt til jarðar. Njóttu dagsins með glotti og hæfilega sögulegu skrefafimi.",
+  "nafnadagur": "Valborg",
+  "atburdir": [
+    {
+      "ar": "1006",
+      "texti": "Sprengistjarnan SN 1006 birtist á himni í stjörnumerkinu Úlfinum og varð bjartasta sprengistjarna sem sögulegar heimildir greina frá. Himinninn bauð sem sagt upp á ljósasýningu löngu fyrir tíma rafmagnsins."
+    },
+    {
+      "ar": "1803",
+      "texti": "Bandaríkin keyptu tilkall Frakka til Louisiana-svæðisins fyrir 80 milljónir franka. Kaupin stækkuðu landið gríðarlega og hljóta að teljast ein af umfangsmestu fasteignasölum sögunnar."
+    },
+    {
+      "ar": "1897",
+      "texti": "Breski eðlisfræðingurinn J. J. Thomson og samstarfsfólk hans tilkynntu uppgötvun rafeindarinnar. Þar með varð ljóst að frumeindin var ekki alveg eins óskiptanleg og nafnið gaf til kynna."
+    },
+    {
+      "ar": "1943",
+      "texti": "Breski kafbáturinn HMS Seraph hóf þátt sinn í Operation Mincemeat, flókinni blekkingaraðgerð sem átti að villa um fyrir Þjóðverjum varðandi fyrirhugaða innrás á Sikiley."
+    },
+    {
+      "ar": "1994",
+      "texti": "Riverdance var frumflutt sem hléatriði í Söngvakeppni evrópskra sjónvarpsstöðva. Hléið varð svo eftirminnilegt að keppnislögin máttu hafa sig öll við."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1930",
+      "texti": "Helga Tómassyni var vikið úr starfi yfirlæknis á Kleppi í kjölfar málsins sem kallað var Stóra bomba.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1957",
+      "texti": "Norrænu skíðalandskeppninni lauk eftir að um 23.000 Íslendingar, eða 14% þjóðarinnar, höfðu gengið fjóra kílómetra á skíðum. Á Ólafsfirði tók hvorki meira né minna en 67% íbúa þátt.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1966",
+      "texti": "Hótel Loftleiðir var opnað í Reykjavík, aðeins sextán mánuðum eftir að framkvæmdir hófust. Það var býsna hraður byggingartaktur, jafnvel áður en fólk fór að tala um hraðspólun.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1993",
+      "texti": "Alþingi samþykkti fyrstu stjórnsýslulög Íslands og lögfesti meðal annars jafnræðisregluna og andmælarétt við meðferð opinberra mála.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Ana de Armas",
+      "starfsgrein": "kúbönsk leikkona",
+      "ar": "1988"
+    },
+    {
+      "nafn": "António Guterres",
+      "starfsgrein": "portúgalskur stjórnmálamaður og aðalritari Sameinuðu þjóðanna",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Burt Young",
+      "starfsgrein": "bandarískur leikari og myndlistarmaður",
+      "ar": "1940"
+    },
+    {
+      "nafn": "Annie Dillard",
+      "starfsgrein": "bandarískur rithöfundur, ritgerðahöfundur og ljóðskáld",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Anna Cramling",
+      "starfsgrein": "spænsk-sænsk skákkona",
+      "ar": "2002"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Benediktsson",
+      "starfsgrein": "lögfræðiprófessor og forsætisráðherra",
+      "ar": "1908"
+    },
+    {
+      "nafn": "Arnór Guðjohnsen",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Þorvaldur Skúlason",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1906"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða smáa fyrirbæri tilkynntu J. J. Thomson og samstarfsfólk hans að þau hefðu uppgötvað árið 1897?",
+      "svor": [
+        "Rafeindina",
+        "Nifteindina",
+        "Róteindina",
+        "Ljöseindina"
+      ],
+      "rett": 0,
+      "skyring": "Rafeindin var svarið — örsmá uppgötvun með risastórar afleiðingar."
+    },
+    {
+      "spurning": "Hvar var Riverdance frumflutt árið 1994?",
+      "svor": [
+        "Á Ólympíuleikunum",
+        "Í hléi Söngvakeppni evrópskra sjónvarpsstöðva",
+        "Á Broadway",
+        "Við opnun Alþingis"
+      ],
+      "rett": 1,
+      "skyring": "Riverdance stal senunni sem hléatriði í Eurovision og gerði hléið að aðalnúmeri."
+    },
+    {
+      "spurning": "Hversu stórt hlutfall Ólafsfirðinga tók þátt í norrænu skíðalandskeppninni 1957?",
+      "svor": [
+        "14%",
+        "33%",
+        "50%",
+        "67%"
+      ],
+      "rett": 3,
+      "skyring": "Alls tóku 67% Ólafsfirðinga þátt, svo þar hefur varla nokkur skíðaskór fengið frí."
+    }
+  ],
+  "tonlistUSA": "Wishing Well – Terence Trent D'Arby (1988)",
+  "tonlistUK": "Theme from S-Express – S'Express (1988)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "glýja",
+    "skyring": "Glýja er dauf birta eða bjarmi, til dæmis á himni."
+  },
+  "vissir_thu": "Sprengistjarnan SN 1006 er talin bjartasta sprengistjarna sem skráð hefur verið í sögulegum heimildum.",
+  "stjornuspa": "Nautið ætti að treysta staðfestunni í dag, en ekki svo mjög að það verði sjálft að sögulegum minnisvarða. Gamaldags vasaklukka, góður kaffibolli og örlítið Riverdance-spor gætu komið kosmíska jafnvæginu í lag.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/SN_1006.jpg/500px-SN_1006.jpg",
+    "ar": "1006",
+    "texti": "Sprengistjarnan SN 1006 birtist á himni í stjörnumerkinu Úlfinum og varð bjartasta sprengistjarna sem sögulegar heimildir greina frá. Himinninn bauð sem sagt upp á ljósasýningu löngu fyrir tíma rafmagnsins.",
+    "heimild": "https://en.wikipedia.org/wiki/SN_1006",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

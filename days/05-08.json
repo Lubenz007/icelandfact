@@ -1,0 +1,143 @@
+{
+  "mmdd": "05-08",
+  "dagur": 8,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:36",
+  "sunset": "22:12",
+  "kvedja": "Góðan 8. maí, kæri lesandi! Í dag göngum við frá miðaldahugljómun Júlíönu frá Norwich yfir danska mýri og alla leið inn í páfakjör—sagan kann greinilega ekki að sitja kyrr. Naut dagsins má þó alveg taka þessu með ró og fá sér kaffisopa áður en aldirnar skella saman.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1373",
+      "texti": "Júlíana frá Norwich upplifði trúarlegar sýnir sem hún skráði síðar í Revelations of Divine Love, elsta varðveitta verkið á ensku sem vitað er að kona hafi samið."
+    },
+    {
+      "ar": "1821",
+      "texti": "Í gríska frelsisstríðinu hrakti 120 manna sveit undir stjórn Odysseasar Androutsos átta þúsund manna her Ottómana frá Gravia-kránni. Þar reyndist kráargisting heldur betur dýrkeypt."
+    },
+    {
+      "ar": "1950",
+      "texti": "Tollundmaðurinn, óvenju vel varðveitt mýrarlík, fannst í mógröf nærri Silkeborg í Danmörku. Mýrin hafði varðveitt hann með meiri natni en mörg skjalasöfn."
+    },
+    {
+      "ar": "1984",
+      "texti": "Sovétríkin tilkynntu að þau myndu sniðganga sumarólympíuleikana í Los Angeles og báru fyrir sig öryggisáhyggjur."
+    },
+    {
+      "ar": "2025",
+      "texti": "Robert Francis Prevost kardínáli var kjörinn páfi og tók sér nafnið Leó 14. Hann varð fyrsti páfinn sem fæddur var í Bandaríkjunum og fyrsti páfinn úr reglu Ágústínusar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1636",
+      "texti": "Eldgos varð í Heklu, sem minnti landsmenn enn og aftur á að fjallið hafði sínar eigin dagskrár.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1752",
+      "texti": "J.C. Pingel amtmanni var vikið úr embætti vegna skulda og Magnús Gíslason skipaður í hans stað.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1969",
+      "texti": "Sædýrasafnið í Hafnarfirði var opnað og færði landsmönnum nýja sýn inn í heim sjávardýra.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1999",
+      "texti": "Alþingiskosningar voru haldnar; ríkisstjórn Sjálfstæðisflokks og Framsóknarflokks hélt meirihluta og Samfylkingin bauð í fyrsta sinn fram sem kosningabandalag.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Alex Van Halen",
+      "starfsgrein": "trommuleikari",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Anthony Field",
+      "starfsgrein": "gítarleikari og barnaskemmtikraftur",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Akebono Tarō",
+      "starfsgrein": "súmóglímumaður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Andrea Barzagli",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Oliver Bearman",
+      "starfsgrein": "kappakstursökumaður",
+      "ar": "2005"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Hannes Finnsson",
+      "starfsgrein": "biskup í Skálholti",
+      "ar": "1739"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvar fannst Tollundmaðurinn árið 1950?",
+      "svor": [
+        "Í mógröf nærri Silkeborg",
+        "Í helli við Aþenu",
+        "Undir kirkjugólfi í Róm",
+        "Í íshelli á Grænlandi"
+      ],
+      "rett": 0,
+      "skyring": "Tollundmaðurinn kom úr danskri mýri, sem reyndist afbragðs geymsla þótt hún fengi tæplega stimpil heilbrigðiseftirlitsins."
+    },
+    {
+      "spurning": "Hvaða ríki tilkynnti árið 1984 að það myndi sniðganga Ólympíuleikana í Los Angeles?",
+      "svor": [
+        "Frakkland",
+        "Sovétríkin",
+        "Japan",
+        "Kanada"
+      ],
+      "rett": 1,
+      "skyring": "Sovétríkin sniðgengu leikana og sögðu öryggisáhyggjur liggja að baki."
+    },
+    {
+      "spurning": "Hvaða íslenska safn var opnað 8. maí 1969?",
+      "svor": [
+        "Þjóðminjasafnið",
+        "Listasafn Íslands",
+        "Sædýrasafnið í Hafnarfirði",
+        "Síldarminjasafnið"
+      ],
+      "rett": 2,
+      "skyring": "Sædýrasafnið í Hafnarfirði opnaði dyr sínar—og þar með fékk hafið sýningarglugga á landi."
+    }
+  ],
+  "tonlistUSA": "Welcome Back – John Sebastian (1976)",
+  "tonlistUK": "Ebony and Ivory – Paul McCartney og Stevie Wonder (1982)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "moldviðri",
+    "skyring": "Moldviðri er svo mikið uppnám eða þras að yfirsýn tapast, líkt og þegar mold þyrlast upp í vindi."
+  },
+  "vissir_thu": "Akebono Tarō var fyrsti súmóglímumaðurinn sem fæddur var utan Japans til að ná æðsta tignarheitinu yokozuna.",
+  "stjornuspa": "Nautið finnur gamlan takka, miða eða kvittun og telur sig hafa rekist á fornleif—ekki eyðileggja stemninguna með of mikilli rannsókn. Fjármálin vilja varkárni, en kaffibollinn heimtar hins vegar örlæti.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Statue_of_Dame_Julian_crop.jpg/500px-Statue_of_Dame_Julian_crop.jpg",
+    "ar": "1373",
+    "texti": "Júlíana frá Norwich upplifði trúarlegar sýnir sem hún skráði síðar í Revelations of Divine Love, elsta varðveitta verkið á ensku sem vitað er að kona hafi samið.",
+    "heimild": "https://en.wikipedia.org/wiki/Julian_of_Norwich",
+    "breidd": 330,
+    "haed": 344
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-06",
+  "dagur": 6,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:43",
+  "sunset": "22:06",
+  "kvedja": "Góðan 6. maí, kæri lesandi! Í dag förum við frá konungshöll í Bangkok yfir í fjögurra mínútna míluna og lendum svo mjúklega — ólíkt Hindenburg — í íslenskri stórhríð. Sagan kann sannarlega að troða heilli heimsreisu inn í einn almanaksreit.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1782",
+      "texti": "Framkvæmdir hófust við Stóru höllina í Bangkok, sem varð opinbert aðsetur konungs Taílands. Þetta var byggingarverkefni af þeirri stærðargráðu að venjuleg vorhreingerning bliknar í samanburði."
+    },
+    {
+      "ar": "1882",
+      "texti": "Chester A. Arthur Bandaríkjaforseti undirritaði kínversku útilokunarlögin, sem bönnuðu kínverskan innflutning til Bandaríkjanna. Bannið stóð í 61 ár og er dökk áminning um fordóma í lögum og stjórnsýslu."
+    },
+    {
+      "ar": "1937",
+      "texti": "Þýska loftskipið Hindenburg kviknaði í og eyðilagðist þegar reynt var að leggja því við Lakehurst-flugstöðina í New Jersey. Alls létust 36 í einu frægasta flugslysi sögunnar."
+    },
+    {
+      "ar": "1954",
+      "texti": "Roger Bannister varð fyrstur manna til að hlaupa eina mílu á innan við fjórum mínútum, á Iffley Road-brautinni í Oxford. Múr sem margir töldu nær ósigrandi féll á hlaupaskóm."
+    },
+    {
+      "ar": "2023",
+      "texti": "Karl 3. Bretakonungur og Kamilla drottning voru krýnd í Westminster Abbey í London. Þar mættust aldagamlar hefðir og sjónvarpsöldin undir óvenjulega þungum höfuðbúnaði."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1882",
+      "texti": "Á Vestfjörðum rofaði loks til eftir stórhríð sem hafði staðið óslitið í 27 daga. Hálfum mánuði síðar skall hríðin aftur á og stóð sleitulaust fram í miðjan júní — íslenska vorið var greinilega ekki komið með dagatal.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1912",
+      "texti": "Stór jarðskjálfti varð á Suðurlandi skammt frá Heklu. Eitt barn lét lífið.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1945",
+      "texti": "Íþróttabandalag Vestmannaeyja var stofnað. Þar með fékk íþróttalífið í Eyjum formlega sameiginlega regnhlíf, þótt vindurinn reyni stundum sitt besta við slíkar regnhlífar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1994",
+      "texti": "Mannréttindasáttmáli Evrópu var lögtekinn á Íslandi og fékk þar með beina stöðu í íslenskum lögum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Cole Palmer",
+      "starfsgrein": "enskur knattspyrnumaður",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Angel Reese",
+      "starfsgrein": "bandarísk körfuknattleikskona",
+      "ar": "2002"
+    },
+    {
+      "nafn": "Baekhyun",
+      "starfsgrein": "suðurkóreskur tónlistarmaður og leikari",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Mateo Kovačić",
+      "starfsgrein": "króatískur knattspyrnumaður",
+      "ar": "1994"
+    },
+    {
+      "nafn": "Alan Dale",
+      "starfsgrein": "nýsjálenskur leikari",
+      "ar": "1947"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dunganon (Karl Kjerúlf Einarsson)",
+      "starfsgrein": "listamaður",
+      "ar": "1897"
+    },
+    {
+      "nafn": "Björn Friðriksson",
+      "starfsgrein": "kvæðamaður",
+      "ar": "1878"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð fyrstur til að hlaupa mílu á innan við fjórum mínútum?",
+      "svor": [
+        "Roger Bannister",
+        "Cole Palmer",
+        "Alan Dale",
+        "Chester A. Arthur"
+      ],
+      "rett": 0,
+      "skyring": "Roger Bannister braut fjögurra mínútna múrinn í Oxford árið 1954."
+    },
+    {
+      "spurning": "Hve lengi hafði stórhríðin á Vestfjörðum staðið þegar loks rofaði til árið 1882?",
+      "svor": [
+        "27 daga",
+        "12 daga",
+        "40 daga",
+        "61 dag"
+      ],
+      "rett": 0,
+      "skyring": "Hríðin hafði staðið í 27 daga, enda kunni veturinn lítt að lesa í almanakið."
+    },
+    {
+      "spurning": "Hvar voru Karl 3. og Kamilla krýnd árið 2023?",
+      "svor": [
+        "Í Westminster Abbey",
+        "Í Buckingham-höll",
+        "Í Windsor-kastala",
+        "Í Stóru höllinni í Bangkok"
+      ],
+      "rett": 0,
+      "skyring": "Krýningin fór fram í Westminster Abbey í London."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Rivers of Babylon – Boney M. (1978)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "rofa",
+    "skyring": "Að rofa til merkir að birta upp eða létta til í veðri eftir þoku, ský eða óveður."
+  },
+  "vissir_thu": "Kínversku útilokunarlögin, sem undirrituð voru 6. maí 1882, héldust við lýði í 61 ár.",
+  "stjornuspa": "Nautið finnur í dag gamla vasabók, gleymdan tíkall eða hugmynd sem hefði sómt sér vel árið 1978. Haltu þínu striki, en mundu að jafnvel Roger Bannister þurfti að lyfta fótunum til að komast áfram.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/0005574_-_Wat_Phra_Kaew_006.jpg/500px-0005574_-_Wat_Phra_Kaew_006.jpg",
+    "ar": "1782",
+    "texti": "Framkvæmdir hófust við Stóru höllina í Bangkok, sem varð opinbert aðsetur konungs Taílands. Þetta var byggingarverkefni af þeirri stærðargráðu að venjuleg vorhreingerning bliknar í samanburði.",
+    "heimild": "https://en.wikipedia.org/wiki/Grand_Palace",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

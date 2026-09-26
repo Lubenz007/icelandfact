@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-11",
+  "dagur": 11,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:26",
+  "sunset": "22:22",
+  "kvedja": "Góðan 11. maí! Í dag leggjum við úr höfn með HMS Beagle, fylgjum tölvu leggja heimsmeistara í skák og heyrum Kötlu minna hraustlega á sig. Haltu fast í kaffibollann — sagan kann stundum að hrista upp í tilverunni.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1812",
+      "texti": "Spencer Perceval var skotinn í anddyri breska þinghússins og varð þar með eini forsætisráðherra Bretlands sem hefur verið ráðinn af dögum."
+    },
+    {
+      "ar": "1820",
+      "texti": "HMS Beagle var hleypt af stokkunum. Síðar flutti skipið Charles Darwin um heimshöfin og hjálpaði þannig óbeint til við að umbylta hugmyndum okkar um lífið."
+    },
+    {
+      "ar": "1910",
+      "texti": "Glacier-þjóðgarðurinn var stofnaður í Montana í Bandaríkjunum, þar sem fjöll, jöklar og skógar fengu formlega vernd."
+    },
+    {
+      "ar": "1981",
+      "texti": "Söngleikurinn Cats eftir Andrew Lloyd Webber var frumsýndur í New London Theatre. Kettirnir reyndust með óvenju langlífar níu lífur á leiksviðinu."
+    },
+    {
+      "ar": "1997",
+      "texti": "Ofurtölvan Deep Blue sigraði heimsmeistarann Garry Kasparov í sex skáka einvígi og varð fyrsta skáktölvan til að vinna slíkt einvígi gegn ríkjandi heimsmeistara."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1610",
+      "texti": "Enski landkönnuðurinn Henry Hudson kom til Íslands í síðustu ferð sinni til Ameríku.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1661",
+      "texti": "Ragnheiður Brynjólfsdóttir í Skálholti sór eið um hreinlífi sitt. Sonur hennar, Halldór Daðason, fæddist 40 vikum síðar — tímasetning sem hefur lengi haldið sagnfræðingum við efnið.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1721",
+      "texti": "Kötlugos hófst með jarðskjálftum og miklum drunum sem heyrðust allt norður í Eyjafjörð, en gosmökkurinn sást víða.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1911",
+      "texti": "Knattspyrnufélagið Valur var stofnað í Reykjavík af fjórtán drengjum í KFUM.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Andrés Iniesta",
+      "starfsgrein": "spænskur knattspyrnumaður",
+      "ar": "1984"
+    },
+    {
+      "nafn": "Chang og Eng Bunker",
+      "starfsgrein": "síamísk-bandarískir sýningarmenn og samvaxnir tvíburar",
+      "ar": "1811"
+    },
+    {
+      "nafn": "Bernard Fox",
+      "starfsgrein": "breskur leikari",
+      "ar": "1927"
+    },
+    {
+      "nafn": "Butch Trucks",
+      "starfsgrein": "bandarískur trommuleikari",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Antony Hewish",
+      "starfsgrein": "breskur stjörnufræðingur og Nóbelsverðlaunahafi",
+      "ar": "1924"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Jónsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1874"
+    },
+    {
+      "nafn": "Jóhannes Nordal",
+      "starfsgrein": "seðlabankastjóri",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Björgólfur Hideaki Takefusa",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1980"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða skipi var hleypt af stokkunum 11. maí 1820?",
+      "svor": [
+        "HMS Beagle",
+        "HMS Victory",
+        "Titanic",
+        "Endeavour"
+      ],
+      "rett": 0,
+      "skyring": "HMS Beagle átti síðar eftir að bera Charles Darwin á einni áhrifamestu sjóferð vísindasögunnar."
+    },
+    {
+      "spurning": "Hvern sigraði ofurtölvan Deep Blue í sögulegu skákeinvígi árið 1997?",
+      "svor": [
+        "Bobby Fischer",
+        "Anatoly Karpov",
+        "Garry Kasparov",
+        "Magnus Carlsen"
+      ],
+      "rett": 2,
+      "skyring": "Garry Kasparov laut í tölvuduftið eftir sex skákir."
+    },
+    {
+      "spurning": "Hvaða íslenska knattspyrnufélag var stofnað af fjórtán drengjum í KFUM árið 1911?",
+      "svor": [
+        "Fram",
+        "Valur",
+        "Víkingur",
+        "KR"
+      ],
+      "rett": 1,
+      "skyring": "Valur hóf göngu sína með fjórtán drengjum og drjúgum skammti af félagsanda."
+    }
+  ],
+  "tonlistUSA": "Joy to the World – Three Dog Night (1971)",
+  "tonlistUK": "Bright Eyes – Art Garfunkel (1979)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "glöggskyggni",
+    "skyring": "Glöggskyggni er hæfileikinn til að sjá eða skilja hlutina skýrt og af góðri dómgreind."
+  },
+  "vissir_thu": "Chang og Eng Bunker fæddust í Síam, núverandi Taílandi, og af frægð þeirra varð heitið „síamstvíburar“ lengi notað um samvaxna tvíbura.",
+  "stjornuspa": "Nautið ætti að treysta sinni alkunnu þrjósku í dag, en þó ekki svo fast að jafnvel Deep Blue gefist upp á rökræðunum. Kvöldið hentar vel fyrir notalega máltíð, mjúkan hægindastól og stórar áætlanir sem mega gjarnan bíða til morguns.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Spencer_Perceval_by_George_Francis_Joseph.jpg/500px-Spencer_Perceval_by_George_Francis_Joseph.jpg",
+    "ar": "1812",
+    "texti": "Spencer Perceval var skotinn í anddyri breska þinghússins og varð þar með eini forsætisráðherra Bretlands sem hefur verið ráðinn af dögum.",
+    "heimild": "https://en.wikipedia.org/wiki/Spencer_Perceval",
+    "breidd": 330,
+    "haed": 399
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

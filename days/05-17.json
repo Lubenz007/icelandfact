@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-17",
+  "dagur": 17,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:07",
+  "sunset": "22:42",
+  "kvedja": "Góðan 17. maí, kæri lesandi! Í dag förum við frá miðaldabardaga yfir í furðuverk úr grísku skipsflaki og endum við vatnsveitumál í Reykjavík — sagan kann sannarlega að taka krókaleiðir. Haltu fast í kaffibollann; fortíðin er komin á ról.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1395",
+      "texti": "Fámennari her Vallakíu hratt innrásarliði Ottómana í orrustunni við Rovine. Stundum vinnur minni hópurinn, einkum þegar hann mætir með útsjónarsemi og býsna lítið gefið fyrir höfðatölur."
+    },
+    {
+      "ar": "1865",
+      "texti": "Alþjóðafjarskiptasambandið var stofnað í París undir nafninu Alþjóðasímasambandið. Þar var stigið mikilvægt skref í átt að heimi þar sem skilaboð gátu ferðast hraðar en hestur með mjög brýnt erindi."
+    },
+    {
+      "ar": "1902",
+      "texti": "Antikyþera-vélbúnaðurinn, elsti varðveitti tannhjólabúnaður sem vitað er um, fannst meðal muna úr skipsflaki við grísku eyjuna Antikyþeru. Þetta forna tæki minnir óneitanlega á að Grikkir höfðu flókna tækni löngu áður en nokkur þurfti að endurræsa tölvu."
+    },
+    {
+      "ar": "1954",
+      "texti": "Hæstiréttur Bandaríkjanna úrskurðaði í tímamótamálinu Brown gegn skólanefndinni að aðskilnaður kynþátta í opinberum skólum bryti gegn stjórnarskránni. Dómurinn staðfesti að aðskilin menntunaraðstaða væri í eðli sínu ójöfn."
+    },
+    {
+      "ar": "2004",
+      "texti": "Massachusetts varð fyrsta ríki Bandaríkjanna til að lögleiða hjónabönd samkynhneigðra. Þar með opnuðust bæði nýjar dyr að jafnrétti og væntanlega ófáar dyr að brúðkaupsveislum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1724",
+      "texti": "Mývatnseldar hófust með mikilli sprengingu og þá varð gígurinn Víti í Kröflu til. Eldarnir stóðu, með stuttum hléum, í fimm ár.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1904",
+      "texti": "Guðmundur Björnsson læknir ræddi nauðsyn þess að leiða vatn til Reykjavíkur. Það var stórhuga hugmynd á sínum tíma, þótt rennandi vatn teljist nú fremur sjálfsagt heimilisatriði.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1940",
+      "texti": "Breskir hermenn komu til Akureyrar með varðskipinu Ægi, viku eftir að Ísland var hernumið.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1972",
+      "texti": "Íslensk höfundalög voru samþykkt og tóku við af lögum um rithöfundarétt og prentfrelsi frá 1905.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Craig Ferguson",
+      "starfsgrein": "grínisti, leikari og spjallþáttastjórnandi",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Andrea Corr",
+      "starfsgrein": "söngkona, lagahöfundur og leikkona",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Alfonso XIII",
+      "starfsgrein": "Spánarkonungur",
+      "ar": "1886"
+    },
+    {
+      "nafn": "Bartholomew Roberts",
+      "starfsgrein": "velskur sjóræningi",
+      "ar": "1682"
+    },
+    {
+      "nafn": "Birgit Nilsson",
+      "starfsgrein": "sænsk óperusöngkona",
+      "ar": "1918"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Haukur Morthens",
+      "starfsgrein": "söngvari",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Bjarni Pálsson",
+      "starfsgrein": "landlæknir",
+      "ar": "1719"
+    },
+    {
+      "nafn": "Einar Guðfinnsson",
+      "starfsgrein": "athafnamaður",
+      "ar": "1898"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bandaríska ríki varð fyrst til að lögleiða hjónabönd samkynhneigðra?",
+      "svor": [
+        "Massachusetts",
+        "Kalifornía",
+        "Vermont",
+        "New York"
+      ],
+      "rett": 0,
+      "skyring": "Massachusetts reið á vaðið árið 2004 og brúðkaupsbjöllurnar fengu jafnréttislegri hljóm."
+    },
+    {
+      "spurning": "Hvaða gígur varð til þegar Mývatnseldar hófust árið 1724?",
+      "svor": [
+        "Eldborg",
+        "Víti",
+        "Kerið",
+        "Grábrók"
+      ],
+      "rett": 1,
+      "skyring": "Víti í Kröflu varð til við mikla sprengingu í upphafi Mývatnselda."
+    },
+    {
+      "spurning": "Hvaða söngvari á íslenskan afmælisdag 17. maí?",
+      "svor": [
+        "Bjarni Pálsson",
+        "Haukur Morthens",
+        "Craig Ferguson",
+        "Einar Guðfinnsson"
+      ],
+      "rett": 1,
+      "skyring": "Haukur Morthens fæddist 17. maí 1924 og varð einn ástsælasti dægurlagasöngvari þjóðarinnar."
+    }
+  ],
+  "tonlistUSA": "Greatest Love of All – Whitney Houston (1986)",
+  "tonlistUK": "The Chicken Song – Spitting Image (1986)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "tannhjól",
+    "skyring": "Tannhjól er hjól með tönnum sem grípa í annað hjól og flytja þannig hreyfingu eða afl milli hluta."
+  },
+  "vissir_thu": "Antikyþera-vélbúnaðurinn er elsti þekkti varðveitti vélbúnaður heims sem notar samtengd tannhjól.",
+  "stjornuspa": "Nautið ætti að treysta á stöðugleikann í dag, en gæta þess að verða ekki jafn fast í skorðum og fornt tannhjól á hafsbotni. Kvöldið hentar vel fyrir góða máltíð, mjúkan hægindastól og ákvarðanir sem mega bíða til morguns.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Flag_of_Wallachia.svg/500px-Flag_of_Wallachia.svg.png",
+    "ar": "1395",
+    "texti": "Fámennari her Vallakíu hratt innrásarliði Ottómana í orrustunni við Rovine. Stundum vinnur minni hópurinn, einkum þegar hann mætir með útsjónarsemi og býsna lítið gefið fyrir höfðatölur.",
+    "heimild": "https://en.wikipedia.org/wiki/Wallachia",
+    "breidd": 330,
+    "haed": 220
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-04",
+  "dagur": 4,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:50",
+  "sunset": "21:59",
+  "kvedja": "Góðan 4. maí, kæri lesandi! Í dag siglum við frá páfalegri skiptingu heimsins yfir í sjóorrustu þar sem skipin sáust aldrei, með viðkomu á Manaslu og í Hörpu. Sagan kann sannarlega að taka krókaleiðir — og það án þess að biðja um kort.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1493",
+      "texti": "Alexander 6. páfi gaf út páfabulluna Inter caetera og dró markalínu sem átti að skipta Nýja heiminum milli Spánar og Portúgals. Það var stór biti af heimsbyggðinni afgreiddur með bleki og páfainnsigli."
+    },
+    {
+      "ar": "1776",
+      "texti": "Rhode Island og Providence Plantations varð fyrst þrettán nýlendna Norður-Ameríku til að segja formlega skilið við hollustuna við bresku krúnuna."
+    },
+    {
+      "ar": "1919",
+      "texti": "Fjórða maí-hreyfingin hófst í Kína þegar fjölmenn mótmæli námsmanna brutust út á Torgi hins himneska friðar í Beijing."
+    },
+    {
+      "ar": "1942",
+      "texti": "Orrustan í Kóralhafi hófst þegar japanskar flugvélar réðust á flotasveitir bandamanna. Þetta varð fyrsta sjóorrustan þar sem skip andstæðinganna sáust aldrei og skutu ekki beint hvert á annað."
+    },
+    {
+      "ar": "1974",
+      "texti": "Japanskur leiðangur, eingöngu skipaður konum, náði tindi Manaslu í Himalajafjöllum. Þær urðu þar með fyrstu konurnar til að klífa fjall sem rís meira en 8.000 metra yfir sjávarmál."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1880",
+      "texti": "Jón Sigurðsson forseti og Ingibjörg Einarsdóttir, eiginkona hans, voru jarðsett í Reykjavík við hátíðlega athöfn. Þau höfðu bæði látist í Kaupmannahöfn í desember árið áður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1948",
+      "texti": "Hvalstöðin í Hvalfirði hóf starfsemi og varð um langt skeið áberandi þáttur í atvinnusögu svæðisins.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1986",
+      "texti": "Sólveig Lára Guðmundsdóttir varð fyrst íslenskra kvenna til að sigra í prestskosningum þegar hún var kjörin prestur á Seltjarnarnesi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2011",
+      "texti": "Fyrstu tónleikarnir voru haldnir í Hörpu í Reykjavík. Sinfóníuhljómsveit Íslands lék undir stjórn Vladímírs Ashkenazys og húsið fékk loks að sýna hvað í því bjó.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Audrey Hepburn",
+      "starfsgrein": "leikkona og mannúðarfrömuður",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Alice Liddell",
+      "starfsgrein": "fyrirsæta og innblástur bókmenntapersónu",
+      "ar": "1852"
+    },
+    {
+      "nafn": "Amos Oz",
+      "starfsgrein": "rithöfundur og blaðamaður",
+      "ar": "1939"
+    },
+    {
+      "nafn": "Bartolomeo Cristofori",
+      "starfsgrein": "hljóðfærasmiður og uppfinningamaður píanósins",
+      "ar": "1655"
+    },
+    {
+      "nafn": "Rory McIlroy",
+      "starfsgrein": "kylfingur",
+      "ar": "1989"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bogi Th. Melsteð",
+      "starfsgrein": "sagnfræðingur",
+      "ar": "1860"
+    },
+    {
+      "nafn": "Margrét Helga Jóhannsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1940"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvað var sérstakt við orrustuna í Kóralhafi árið 1942?",
+      "svor": [
+        "Skip andstæðinganna sáust aldrei og skutu ekki beint hvert á annað",
+        "Hún var háð eingöngu með kafbátum",
+        "Engar flugvélar komu við sögu",
+        "Hún fór fram á frosnu hafi"
+      ],
+      "rett": 0,
+      "skyring": "Flugvélar báru hitann og þungann af átökunum þótt flotaskipin væru sjálf utan sjónmáls."
+    },
+    {
+      "spurning": "Hvaða íslenska tónlistarhús hélt sína fyrstu tónleika 4. maí 2011?",
+      "svor": [
+        "Salurinn",
+        "Harpa",
+        "Háskólabíó",
+        "Eldborg í Svartsengi"
+      ],
+      "rett": 1,
+      "skyring": "Harpa var vígð með tónum Sinfóníuhljómsveitar Íslands undir stjórn Vladímírs Ashkenazys."
+    },
+    {
+      "spurning": "Hvaða hljóðfæri fann Bartolomeo Cristofori upp?",
+      "svor": [
+        "Klarínett",
+        "Harmónikku",
+        "Píanó",
+        "Selló"
+      ],
+      "rett": 2,
+      "skyring": "Cristofori smíðaði forvera nútímapíanósins — afmælisbarn sem kunni að slá rétta nótu."
+    }
+  ],
+  "tonlistUSA": "We Are the World – USA for Africa (1985)",
+  "tonlistUK": "We Are the World – USA for Africa (1985)",
+  "bio": "Star Wars (1977)",
+  "ord_dagsins": {
+    "ord": "þverúð",
+    "skyring": "Þverúð er þrjósk eða ósveigjanleg mótstaða, eiginleiki sem getur bæði haldið manni á réttri braut og kyrfilega í sama farinu."
+  },
+  "vissir_thu": "Orrustan í Kóralhafi var fyrsta sjóorrusta sögunnar þar sem skip andstæðinganna sáust aldrei og skutu ekki beint hvert á annað.",
+  "stjornuspa": "Nautið finnur í dag gamalt lag á vínyl og tekur því sem skýru merki frá alheiminum. Haltu fast í þitt, en mundu að jafnvel þver Naut geta þurft að skipta um nál.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Portrait_of_Pope_Alexander_VI_Borgia_%28Vatican_Museums_-_Musei_Vaticani%2C_Vatican%29.jpg/500px-Portrait_of_Pope_Alexander_VI_Borgia_%28Vatican_Museums_-_Musei_Vaticani%2C_Vatican%29.jpg",
+    "ar": "1493",
+    "texti": "Alexander 6. páfi gaf út páfabulluna Inter caetera og dró markalínu sem átti að skipta Nýja heiminum milli Spánar og Portúgals. Það var stór biti af heimsbyggðinni afgreiddur með bleki og páfainnsigli.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Alexander_VI",
+    "breidd": 330,
+    "haed": 461
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

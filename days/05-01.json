@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-01",
+  "dagur": 1,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "05:00",
+  "sunset": "21:50",
+  "kvedja": "Gleðilegan 1. maí, kæri lesandi! Í dag göngum við frá Mozart og Empire State-byggingunni alla leið til eldsvoðanna í Fort McMurray — sagan kann sannarlega að taka stór skref. Naut dagsins má þó alveg fara hægar og njóta kaffibollans.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1707",
+      "texti": "Konungsríkin England og Skotland sameinuðust samkvæmt Sambandslögunum og mynduðu Konungsríkið Stóra-Bretland, með eitt þing og eina ríkisstjórn í Westminster."
+    },
+    {
+      "ar": "1786",
+      "texti": "Gamanópera Mozarts, Brúðkaup Fígarós, var frumflutt í Burgtheater í Vín. Þar sannaðist enn og aftur að fátt hreyfir við samfélaginu eins hressilega og þjónn með góða áætlun."
+    },
+    {
+      "ar": "1931",
+      "texti": "Empire State-byggingin var opnuð í New York og var þá hæsta bygging heims. Hún gnæfði yfir borginni eins og upphrópunarmerki úr stáli."
+    },
+    {
+      "ar": "1950",
+      "texti": "Gwendolyn Brooks varð fyrst Afríku-Bandaríkjamanna til að hljóta Pulitzer-verðlaunin í ljóðlist."
+    },
+    {
+      "ar": "2016",
+      "texti": "Rýming nærri 88.000 íbúa hófst þegar skógareldur geisaði við Fort McMurray í Alberta í Kanada. Eldurinn brann áfram í 14 mánuði og varð kostnaðarsamasta hamfaraslys í sögu Kanada."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1615",
+      "texti": "Aftakaveður skall á Breiðafirði og áttatíu manns fórust af þrettán skipum — átakanleg áminning um hve örlög heilla byggðarlaga réðust af veðri og sjó.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1783",
+      "texti": "Ný eyja, kölluð Nýey, myndaðist í neðansjávareldgosi suðvestur af Reykjanesi, líklega nærri Eldeyjarboða. Ári síðar var hún horfin, enda stundum stutt í landfræðilega gestaleiki.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1923",
+      "texti": "Fyrsta kröfugangan á 1. maí var farin á Íslandi og verkafólk lét í sér heyra með skipulögðum hætti.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1970",
+      "texti": "Rauðsokkuhreyfingin tók þátt í kröfugöngu verkalýðsins í Reykjavík og er upphaf hreyfingarinnar miðað við þann atburð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Arthur Wellesley, 1. hertogi af Wellington",
+      "starfsgrein": "herstjóri og stjórnmálamaður",
+      "ar": "1769"
+    },
+    {
+      "nafn": "Ajith Kumar",
+      "starfsgrein": "leikari og kappakstursökumaður",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Anushka Sharma",
+      "starfsgrein": "leikkona og kvikmyndaframleiðandi",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Alexander Hleb",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Charli D'Amelio",
+      "starfsgrein": "samfélagsmiðlastjarna og dansari",
+      "ar": "2004"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Jón Leifs",
+      "starfsgrein": "tónskáld",
+      "ar": "1899"
+    },
+    {
+      "nafn": "Jónas Jónsson frá Hriflu",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1885"
+    },
+    {
+      "nafn": "Brynhildur Þorgeirsdóttir",
+      "starfsgrein": "myndlistarkona",
+      "ar": "1955"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tónskáld sendi Brúðkaup Fígarós fyrst á svið árið 1786?",
+      "svor": [
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Johann Sebastian Bach",
+        "Richard Wagner"
+      ],
+      "rett": 0,
+      "skyring": "Mozart átti heiðurinn, enda kunni hann vel að breyta félagslegu uppnámi í ógleymanlega tónlist."
+    },
+    {
+      "spurning": "Hvaða bygging opnaði í New York 1. maí 1931?",
+      "svor": [
+        "Chrysler-byggingin",
+        "Empire State-byggingin",
+        "Flatiron-byggingin",
+        "Rockefeller Center"
+      ],
+      "rett": 1,
+      "skyring": "Empire State-byggingin opnaði þennan dag og var þá hæsta bygging veraldar."
+    },
+    {
+      "spurning": "Hvenær var fyrsta kröfugangan á 1. maí farin á Íslandi?",
+      "svor": [
+        "1890",
+        "1908",
+        "1923",
+        "1970"
+      ],
+      "rett": 2,
+      "skyring": "Árið 1923 var gengið í fyrsta sinn hérlendis í tilefni dags verkalýðsins."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Bright Eyes – Art Garfunkel (1979)",
+  "bio": "Citizen Kane (1941)",
+  "ord_dagsins": {
+    "ord": "vorboði",
+    "skyring": "Vorboði er eitthvað sem gefur til kynna að vorið sé komið eða á næsta leiti."
+  },
+  "vissir_thu": "Skógareldurinn við Fort McMurray, sem varð tilefni gríðarlegrar rýmingar árið 2016, hélt áfram að brenna í 14 mánuði.",
+  "stjornuspa": "Nautið finnur í dag gamlan seðil í vasa, gleymda hugmynd í skúffu eða köku sem einhver hélt að væri sameign. Haltu fast í það sem skiptir máli, en mundu að jafnvel þrjóskustu Naut mega skipta um skoðun fyrir hádegi.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Coat_of_arms_of_England_%281702%E2%80%931707%29.svg/500px-Coat_of_arms_of_England_%281702%E2%80%931707%29.svg.png",
+    "ar": "1707",
+    "texti": "Konungsríkin England og Skotland sameinuðust samkvæmt Sambandslögunum og mynduðu Konungsríkið Stóra-Bretland, með eitt þing og eina ríkisstjórn í Westminster.",
+    "heimild": "https://en.wikipedia.org/wiki/Acts_of_Union_1707",
+    "breidd": 330,
+    "haed": 330
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

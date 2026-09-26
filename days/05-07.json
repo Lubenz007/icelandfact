@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-07",
+  "dagur": 7,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:40",
+  "sunset": "22:09",
+  "kvedja": "Góðan 7. maí, kæri lesandi! Í dag förum við úr uppreisn í Rómaveldi yfir í konunglegan hallarbruna, talvélar og erfðamengi Neanderdalsmanna — sagan kann sannarlega ekki að sitja kyrr. Helltu upp á og vertu með; jafnvel Nautið gæti litið upp úr kaffibollanum.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "351",
+      "texti": "Gyðingar í rómverska skattlandinu Syria Palaestina gerðu uppreisn gegn stjórn Constantiusar Gallusar, keisaraefnis í austurhluta Rómaveldis. Sjöundi maí var því enginn rólegur embættisdagur í höllinni."
+    },
+    {
+      "ar": "1697",
+      "texti": "Miðaldahöllin Tre Kronor í Stokkhólmi brann til grunna. Áætlanir um núverandi konungshöll voru lagðar fram innan árs — Svíar létu sem sagt ekki slökkviliðsmálin tefja byggingarnefndina lengi."
+    },
+    {
+      "ar": "1946",
+      "texti": "Masaru Ibuka og Akio Morita stofnuðu fjarskiptafyrirtækið Tokyo Tsushin Kogyo, sem síðar fékk nafnið Sony. Þar hófst saga fyrirtækis sem átti eftir að koma tónlist, sjónvörpum og ótal snúrum inn á heimili heimsins."
+    },
+    {
+      "ar": "1954",
+      "texti": "Lest sirkusvagna með ljónum, hestum, smáhestum og asna missti stjórn og valt á verslanir í Dungannon á Norður-Írlandi. Þetta hefur líklega verið ein af þeim stundum þegar afgreiðslufólk óskaði þess að hafa einfaldlega lokað fyrr."
+    },
+    {
+      "ar": "2010",
+      "texti": "Drög að erfðamengi Neanderdalsmanna voru birt og sýndu að flest núlifandi fólk á ættir að rekja til þeirra. Fjölskyldutré mannkyns varð þar með aðeins loðnara og miklu áhugaverðara."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1197",
+      "texti": "Sex menn létust í Lönguhlíðarbrennu, einnig nefndri Önundarbrennu. Bærinn Langahlíð stóð þar sem nú er Skriða í Hörgárdal.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1812",
+      "texti": "Mikið óveður gekk yfir Vestfirði og 54 menn fórust á sjö skipum frá Önundarfirði. Dagurinn varð einn af mörgum sárum áminningum um hve dýrt hafið gat reynst íslenskum byggðum.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1897",
+      "texti": "Sigfús Eymundsson sýndi grafófón á stúdentafundi eftir að hafa keypt tækið fyrir 300 krónur. Úr því ómuðu drykkjulög sungin inn í Nýju-Jórvík, og næstu daga mátti hlusta fyrir 25 aura — eins konar streymisveita nítjándu aldar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1928",
+      "texti": "Alþingi samþykkti lög um stofnun þjóðgarðs á Þingvöllum. Þar fékk sögustaðurinn formlega vernd, löngu áður en ferðamenn fóru að stilla sér þar upp með síma á sjálfsmyndastöng.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "MrBeast",
+      "starfsgrein": "myndbandshöfundur",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Cody Gakpo",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Alexander Ludwig",
+      "starfsgrein": "leikari og tónlistarmaður",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Anne Baxter",
+      "starfsgrein": "leikkona",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Aidy Bryant",
+      "starfsgrein": "leikkona og grínisti",
+      "ar": "1987"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Alfreð Clausen",
+      "starfsgrein": "söngvari",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Sigurður Halldórsson",
+      "starfsgrein": "knattspyrnumaður og íþróttaforystumaður",
+      "ar": "1910"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða fyrirtæki hét upphaflega Tokyo Tsushin Kogyo?",
+      "svor": [
+        "Sony",
+        "Nintendo",
+        "Toyota",
+        "Panasonic"
+      ],
+      "rett": 0,
+      "skyring": "Fyrirtækið fékk síðar nafnið Sony, sem var öllu liprara á raftækjakassa."
+    },
+    {
+      "spurning": "Hvað sýndi Sigfús Eymundsson á stúdentafundi árið 1897?",
+      "svor": [
+        "Kvikmyndavél",
+        "Grafófón",
+        "Rafmagnseldavél",
+        "Ritsíma"
+      ],
+      "rett": 1,
+      "skyring": "Grafófónninn lék meðal annars drykkjulög frá Nýju-Jórvík fyrir forvitna Íslendinga."
+    },
+    {
+      "spurning": "Hvaða dýr voru meðal farþega sirkusvagnanna sem ultu í Dungannon árið 1954?",
+      "svor": [
+        "Fílar og úlfaldar",
+        "Birnir og geitur",
+        "Ljón, hestar, smáhestar og asni",
+        "Tígrisdýr og sebrahestar"
+      ],
+      "rett": 2,
+      "skyring": "Ljón, hestar, smáhestar og asni lentu í þessari afar óvenjulegu verslunarferð."
+    }
+  ],
+  "tonlistUSA": "Monday, Monday – The Mamas & the Papas (1966)",
+  "tonlistUK": "True – Spandau Ballet (1983)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "hljóðriti",
+    "skyring": "Hljóðriti er tæki sem tekur upp eða endurflytur hljóð, líkt og grafófónninn sem vakti athygli Íslendinga árið 1897."
+  },
+  "vissir_thu": "Nafnið Sony var tekið upp eftir að fyrirtækið hafði upphaflega heitið Tokyo Tsushin Kogyo.",
+  "stjornuspa": "Nautið finnur gamalt lag, týndan kaffibolla eða jafnvel gleymda snúru sem reynist enn gagnleg — hið liðna vinnur með þér í dag. Vertu þó ekki svo þrjóskt að þú reynir að útskýra erfðafræði Neanderdalsmanna fyrir öllum í matartímanum.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Roman_Empire_-_Syria_Palaestina_%28AD_210%29.svg/500px-Roman_Empire_-_Syria_Palaestina_%28AD_210%29.svg.png",
+    "ar": "351",
+    "texti": "Gyðingar í rómverska skattlandinu Syria Palaestina gerðu uppreisn gegn stjórn Constantiusar Gallusar, keisaraefnis í austurhluta Rómaveldis. Sjöundi maí var því enginn rólegur embættisdagur í höllinni.",
+    "heimild": "https://en.wikipedia.org/wiki/Syria_Palaestina",
+    "breidd": 330,
+    "haed": 274
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

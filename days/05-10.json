@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-10",
+  "dagur": 10,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:30",
+  "sunset": "22:19",
+  "kvedja": "Góðan 10. maí, kæri lesandi! Í dag teygjum við okkur frá sólbletti Han-ættarinnar til breskra hermanna í Reykjavík og skýjakljúfs sem mælist nákvæmlega 1.776 fet — sagan kann greinilega bæði dramatík og táknræna mælistiku.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "28 f.Kr.",
+      "texti": "Kínverskir stjörnufræðingar á tímum Han-ættarinnar skráðu fyrstu nákvæmlega dagsettu athugunina á sólbletti. Sólin fékk sem sagt blett í kladdann."
+    },
+    {
+      "ar": "1775",
+      "texti": "Fulltrúar nýlendnanna þrettán komu saman í Fíladelfíu og stofnuðu annað meginlandsþingið, sem varð í reynd ríkisstjórn Bandaríkjanna í mótun."
+    },
+    {
+      "ar": "1849",
+      "texti": "Persónuleg deila leikaranna Edwins Forrest og Williams Macready í New York breyttist í mannskæða óeirð. Að minnsta kosti 22 létust og meira en 120 særðust — fremur harkalegur leikhúsdómur."
+    },
+    {
+      "ar": "1933",
+      "texti": "Nasistar brenndu þúsundir bóka úr Stofnuninni um kynvísindi á Bebelplatz í Berlín og stimpluðu þær „óþýskar“. Bókabrennan var hluti af ofsóknum þeirra gegn transfólki og frjálsri þekkingu."
+    },
+    {
+      "ar": "2013",
+      "texti": "One World Trade Center í New York náði fullri hæð, 1.776 fetum eða 541 metra, og varð hæsta bygging vesturhvels jarðar."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1446",
+      "texti": "Einar Þorleifsson hirðstjóri lét dæma Guðmund Arason útlægan.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1657",
+      "texti": "Gísli Þorláksson var vígður Hólabiskup og tók þar með við einu helsta kirkjulega embætti landsins.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1940",
+      "texti": "Breskt herlið gekk á land í Reykjavík og hernám Íslands hófst. Reykvíkingar vöknuðu þannig við býsna óvenjulega morgunumferð.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2003",
+      "texti": "Alþingiskosningar voru haldnar; meirihluti Sjálfstæðisflokks og Framsóknarflokks hélt velli þótt Sjálfstæðisflokkurinn tapaði fjórum þingsætum.",
+      "landshluti": "Landið allt"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Richarlison",
+      "starfsgrein": "brasilískur knattspyrnumaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Adam Lallana",
+      "starfsgrein": "enskur knattspyrnumaður",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Adebayo Akinfenwa",
+      "starfsgrein": "enskur knattspyrnumaður",
+      "ar": "1982"
+    },
+    {
+      "nafn": "Gustav Stresemann",
+      "starfsgrein": "þýskur stjórnmálamaður og friðarverðlaunahafi Nóbels",
+      "ar": "1878"
+    },
+    {
+      "nafn": "Augustin-Jean Fresnel",
+      "starfsgrein": "franskur eðlisfræðingur og verkfræðingur",
+      "ar": "1788"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Aino Freyja Järvelä",
+      "starfsgrein": "leikkona",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Guðmundur Jónsson",
+      "starfsgrein": "söngvari",
+      "ar": "1920"
+    },
+    {
+      "nafn": "Magnús Ólafsson",
+      "starfsgrein": "ljósmyndari",
+      "ar": "1862"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða bygging náði 541 metra fullri hæð 10. maí 2013?",
+      "svor": [
+        "One World Trade Center",
+        "Empire State Building",
+        "Burj Khalifa",
+        "Chrysler Building"
+      ],
+      "rett": 0,
+      "skyring": "One World Trade Center náði þá 1.776 feta hæð, svo mælistikan fékk dálítinn þjóðernislegan hátíðarbúning."
+    },
+    {
+      "spurning": "Hvað gerðist í Reykjavík 10. maí 1940?",
+      "svor": [
+        "Alþingishúsið var vígt",
+        "Breskt herlið gekk á land",
+        "Lýðveldið var stofnað",
+        "Fyrsta flugvélin lenti í Vatnsmýrinni"
+      ],
+      "rett": 1,
+      "skyring": "Breskir hermenn gengu á land og hernám Íslands hófst þennan morgun."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins var franskur eðlisfræðingur?",
+      "svor": [
+        "Gustav Stresemann",
+        "Adam Lallana",
+        "Augustin-Jean Fresnel",
+        "Adebayo Akinfenwa"
+      ],
+      "rett": 2,
+      "skyring": "Augustin-Jean Fresnel var franskur eðlisfræðingur og verkfræðingur — hinir hefðu líklega átt erfiðara með ljósfræðina."
+    }
+  ],
+  "tonlistUSA": "West End Girls – Pet Shop Boys (1986)",
+  "tonlistUK": "Geno – Dexys Midnight Runners (1980)",
+  "bio": "Skýstrókur (1996)",
+  "ord_dagsins": {
+    "ord": "hirðstjóri",
+    "skyring": "Hirðstjóri var konunglegur embættismaður sem fór með æðsta veraldlegt vald á Íslandi í umboði konungs."
+  },
+  "vissir_thu": "Hæð One World Trade Center, 1.776 fet, vísar til ársins 1776 þegar sjálfstæðisyfirlýsing Bandaríkjanna var samþykkt.",
+  "stjornuspa": "Nautið finnur gamlan seðil í jakkavasa eða að minnsta kosti brjóstsykur frá síðustu öld. Haltu fast í þína skoðun, en ekki svo fast að hún verði sjálf að safngrip.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Dunhuang_star_map.jpg/500px-Dunhuang_star_map.jpg",
+    "ar": "28 f.Kr.",
+    "texti": "Kínverskir stjörnufræðingar á tímum Han-ættarinnar skráðu fyrstu nákvæmlega dagsettu athugunina á sólbletti. Sólin fékk sem sagt blett í kladdann.",
+    "heimild": "https://en.wikipedia.org/wiki/Chinese_astronomy",
+    "breidd": 330,
+    "haed": 331
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

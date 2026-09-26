@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-16",
+  "dagur": 16,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:10",
+  "sunset": "22:39",
+  "kvedja": "Góðan og gleðilegan 16. maí! Í dag förum við úr páfakjöri í Hollywood, þaðan upp á Everest og endum með íslenskt poppævintýri í Eurovision — sagan ferðast greinilega aldrei með handfarangur eitt saman.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1605",
+      "texti": "Eftir óvenju átakasamt páfakjör í Róm, þar sem einn kardínáli beinbrotnaði í stympingum, var Camillo Borghese kjörinn páfi og tók sér nafnið Páll 5. Kirkjupólitík var greinilega ekki alltaf stunduð með silkihönskum."
+    },
+    {
+      "ar": "1832",
+      "texti": "Gullleitandinn Juan Godoy fann silfuræð við Chañarcillo og hratt þar með af stað silfuræði í Síle. Stundum þarf aðeins eitt glampandi bergbrot til að koma heilu hagkerfi á hreyfingu."
+    },
+    {
+      "ar": "1929",
+      "texti": "Fyrsta Óskarsverðlaunahátíðin var haldin á Hollywood Roosevelt-hótelinu í Los Angeles. Hátíðin var mun látlausari en síðar varð, en stytturnar voru þegar farnar að vekja stóra drauma."
+    },
+    {
+      "ar": "1960",
+      "texti": "Bandaríski eðlisfræðingurinn Theodore Maiman gangsetti fyrsta virka leysinn hjá Hughes Research Laboratories í Malibu. Ljósgeislinn átti síðar eftir að rata í allt frá skurðstofum til strikamerkjalesara."
+    },
+    {
+      "ar": "1975",
+      "texti": "Japanski fjallgöngukonan Junko Tabei varð fyrst kvenna til að ná tindi Everestfjalls. Þar braut hún ekki aðeins hæðarmet heldur einnig rammgerðar hugmyndir um hverjir ættu erindi á hæstu tinda heims."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1901",
+      "texti": "Bátur á leið undan Eyjafjöllum til Vestmannaeyja sökk austur af eyjunum. Tuttugu og sjö manns fórust en einum var bjargað.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1966",
+      "texti": "Verslunin Karnabær var opnuð í Reykjavík og hafði síðar mikil áhrif á tísku og klæðaburð íslensks æskufólks.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2002",
+      "texti": "Haraldur Örn Ólafsson náði tindi Everestfjalls og hafði þar með klifið hæstu tinda allra heimsálfa auk þess að komast á bæði heimskautin.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "2009",
+      "texti": "Jóhanna Guðrún Jónsdóttir varð í öðru sæti í Eurovision með lagið „Is It True“, á eftir Alexander Rybak og laginu „Fairytale“.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Behati Prinsloo",
+      "starfsgrein": "namibísk fyrirsæta",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Billy Cobham",
+      "starfsgrein": "panamísk-bandarískur trommuleikari og tónskáld",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Adrienne Rich",
+      "starfsgrein": "bandarískt ljóðskáld, ritgerðahöfundur og femínisti",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Christian Lacroix",
+      "starfsgrein": "franskur fatahönnuður",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Betty Carter",
+      "starfsgrein": "bandarísk djasssöngkona og lagahöfundur",
+      "ar": "1929"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Dóri DNA",
+      "starfsgrein": "rappari og skemmtikraftur",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Emilíana Torrini",
+      "starfsgrein": "tónlistarkona",
+      "ar": "1977"
+    },
+    {
+      "nafn": "Birgir Leifur Hafþórsson",
+      "starfsgrein": "golfkylfingur",
+      "ar": "1976"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða afrek vann Junko Tabei árið 1975?",
+      "svor": [
+        "Hún varð fyrst kvenna á tind Everestfjalls",
+        "Hún varð fyrst til að ganga á Suðurpólinn",
+        "Hún synti yfir Ermarsund",
+        "Hún kleif fyrst allra K2"
+      ],
+      "rett": 0,
+      "skyring": "Junko Tabei náði tindi Everest 16. maí 1975 og skrifaði sig þar með í fjallgöngusöguna."
+    },
+    {
+      "spurning": "Hvaða verslun opnaði í Reykjavík árið 1966 og setti svip á unglingatískuna?",
+      "svor": [
+        "Vísir",
+        "Karnabær",
+        "Brynja",
+        "Eymundsson"
+      ],
+      "rett": 1,
+      "skyring": "Karnabær varð eitt kunnasta tískufyrirbæri íslenskrar æskumenningar."
+    },
+    {
+      "spurning": "Hver á afmæli 16. maí og er þekkt íslensk tónlistarkona?",
+      "svor": [
+        "Jóhanna Guðrún Jónsdóttir",
+        "Björk Guðmundsdóttir",
+        "Emilíana Torrini",
+        "Nanna Bryndís Hilmarsdóttir"
+      ],
+      "rett": 2,
+      "skyring": "Emilíana Torrini fæddist 16. maí 1977."
+    }
+  ],
+  "tonlistUSA": "With or Without You – U2 (1987)",
+  "tonlistUK": "Nothing's Gonna Stop Us Now – Starship (1987)",
+  "bio": "Top Gun (1986)",
+  "ord_dagsins": {
+    "ord": "hnjask",
+    "skyring": "Hnjask er slit, skemmd eða illa meðferð sem eitthvað verður fyrir."
+  },
+  "vissir_thu": "Fyrsta Óskarsverðlaunahátíðin árið 1929 fór fram á hóteli, löngu áður en sjónvarpsútsendingar og rauðir dreglar urðu að alþjóðlegu sjónarspili.",
+  "stjornuspa": "Nautið finnur í dag gamlan kraft í nýjum skóm — eða nýjan kraft í gömlum skóm, sem er öllu líklegra og hagkvæmara. Haltu þínu striki, en mundu að jafnvel þrjóskasta Naut má taka krók ef kaffið er gott.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Template-Cardinal_%28Bishop%29.svg/500px-Template-Cardinal_%28Bishop%29.svg.png",
+    "ar": "1605",
+    "texti": "Eftir óvenju átakasamt páfakjör í Róm, þar sem einn kardínáli beinbrotnaði í stympingum, var Camillo Borghese kjörinn páfi og tók sér nafnið Páll 5. Kirkjupólitík var greinilega ekki alltaf stunduð með silkihönskum.",
+    "heimild": "https://en.wikipedia.org/wiki/Cardinal_(Catholic_Church)",
+    "breidd": 330,
+    "haed": 352
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

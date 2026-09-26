@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-05",
+  "dagur": 5,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:47",
+  "sunset": "22:03",
+  "kvedja": "Gleðilegan 5. maí, kæri lesandi! Í dag skjótumst við frá Skálholti út í geim, með viðkomu í Carnegie Hall og dálitlu Hekluösku í skónum. Sagan ferðast nefnilega aldrei með handfarangur eingöngu.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1654",
+      "texti": "Náðarlög Cromwells voru kunngerð í Edinborg og veittu Skotum sakaruppgjöf vegna brota í stríðum konungsríkjanna þriggja. Söguleg sáttatilraun, þótt Oliver Cromwell væri sjaldnast sakaður um óhóflega mýkt."
+    },
+    {
+      "ar": "1891",
+      "texti": "Carnegie Hall í New York var formlega opnað með tónleikum undir stjórn Pjotrs Iljitsj Tsjajkovskíjs. Það verður að teljast býsna fáguð leið til að klippa á borða."
+    },
+    {
+      "ar": "1945",
+      "texti": "Í orrustunni um Itter-kastala börðust bandarískir og þýskir hermenn hlið við hlið gegn sveitum Waffen-SS við varnir fangelsis. Þetta var eitt af óvenjulegustu bandalögum lokadaga síðari heimsstyrjaldarinnar."
+    },
+    {
+      "ar": "1961",
+      "texti": "Alan Shepard fór í geimferð með Freedom 7 og varð annar maðurinn í sögunni til að ferðast út í geim. Ferðin var undirbrautarflug, en útsýnið hefur líklega samt slegið flestum rútuferðum við."
+    },
+    {
+      "ar": "2023",
+      "texti": "Alþjóðaheilbrigðisstofnunin lýsti því yfir að COVID-19 teldist ekki lengur alþjóðlegt neyðarástand á sviði lýðheilsu. Þar með lauk mikilvægum kafla heimsfaraldursins, þótt sjúkdómurinn sjálfur hyrfi ekki."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1639",
+      "texti": "Brynjólfur Sveinsson var vígður biskup í Skálholti. Síðar lét hann reisa þar gríðarstóra kirkju og var greinilega ekki maður hálfkáksins.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1945",
+      "texti": "Rithöfundurinn Guðmundur Kamban var skotinn til bana í Kaupmannahöfn.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1951",
+      "texti": "Varnarsamningur Íslands og Bandaríkjanna, fyrir hönd Atlantshafsbandalagsins, var undirritaður og hafði djúp áhrif á íslensk stjórnmál og öryggismál.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1970",
+      "texti": "Eldgos hófst í Heklu og askan olli gróðurskemmdum og dauða sauðfjár, einkum norðanlands. Hekla minnti með öðrum orðum rækilega á að hún væri enn á vaktinni.",
+      "landshluti": "Suðurland"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Adele",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Carlos Alcaraz",
+      "starfsgrein": "tennisleikari",
+      "ar": "2003"
+    },
+    {
+      "nafn": "Aryna Sabalenka",
+      "starfsgrein": "tennisleikari",
+      "ar": "1998"
+    },
+    {
+      "nafn": "Nathan Chen",
+      "starfsgrein": "listskautamaður",
+      "ar": "1999"
+    },
+    {
+      "nafn": "Archibald Wavell, 1. jarl Wavell",
+      "starfsgrein": "hershöfðingi og stjórnmálamaður",
+      "ar": "1883"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Bjarni Björnsson",
+      "starfsgrein": "leikari",
+      "ar": "1890"
+    },
+    {
+      "nafn": "Barði Guðmundsson",
+      "starfsgrein": "leikari",
+      "ar": "1957"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hver varð annar maðurinn í sögunni til að ferðast út í geim?",
+      "svor": [
+        "Alan Shepard",
+        "Archibald Wavell",
+        "Carlos Alcaraz",
+        "Brynjólfur Sveinsson"
+      ],
+      "rett": 0,
+      "skyring": "Alan Shepard fór með Freedom 7 í undirbrautarflug 5. maí 1961."
+    },
+    {
+      "spurning": "Hvaða fræga tónlistarhús var formlega opnað árið 1891?",
+      "svor": [
+        "Royal Albert Hall",
+        "Carnegie Hall",
+        "Harpa",
+        "Sydney Opera House"
+      ],
+      "rett": 1,
+      "skyring": "Carnegie Hall opnaði með tónleikum undir stjórn Tsjajkovskíjs."
+    },
+    {
+      "spurning": "Hvaða íslenska eldfjall hóf gos 5. maí 1970?",
+      "svor": [
+        "Katla",
+        "Askja",
+        "Hekla",
+        "Snæfellsjökull"
+      ],
+      "rett": 2,
+      "skyring": "Hekla hóf þá gos sem olli meðal annars gróðurskemmdum og fjárskaða."
+    }
+  ],
+  "tonlistUSA": "Against All Odds (Take a Look at Me Now) – Phil Collins (1984)",
+  "tonlistUK": "The Reflex – Duran Duran (1984)",
+  "bio": "Gladiator (2000)",
+  "ord_dagsins": {
+    "ord": "vorþeyr",
+    "skyring": "Vorþeyr er hlýr og mildur vindur eða hláka að vorlagi."
+  },
+  "vissir_thu": "Alan Shepard varð síðar fimmti maðurinn til að ganga á tunglinu.",
+  "stjornuspa": "Nautið finnur í dag gamla og trausta leið til að leysa nýtt vandamál, helst eftir kaffi og án óþarfa geimferða. Varastu þó að standa svo fast á þínu að jafnvel Hekla virðist sveigjanleg í samanburði.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Edinburgh_mercat_cross.jpg/500px-Edinburgh_mercat_cross.jpg",
+    "ar": "1654",
+    "texti": "Náðarlög Cromwells voru kunngerð í Edinborg og veittu Skotum sakaruppgjöf vegna brota í stríðum konungsríkjanna þriggja. Söguleg sáttatilraun, þótt Oliver Cromwell væri sjaldnast sakaður um óhóflega mýkt.",
+    "heimild": "https://en.wikipedia.org/wiki/Cromwell's_Act_of_Grace",
+    "breidd": 330,
+    "haed": 440
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

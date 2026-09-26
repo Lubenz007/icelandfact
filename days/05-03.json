@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-03",
+  "dagur": 3,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:53",
+  "sunset": "21:56",
+  "kvedja": "Góðan 3. maí, kæri lesandi! Í dag förum við úr fyrstu indversku kvikmyndinni yfir í íslenska z-ið og endum á Eurovision-sviðinu — sagan kann greinilega ekki að halda sig við eitt áhugamál. Haltu fast í kaffibollann; fortíðin er komin á ról.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1791",
+      "texti": "Stóra þing pólsk-litháíska samveldisins samþykkti fyrstu skráðu þjóðarstjórnarskrá Evrópu. Hún var djarft skref í átt að nútímalegri stjórnskipan."
+    },
+    {
+      "ar": "1913",
+      "texti": "Raja Harishchandra, fyrsta indverska kvikmyndin í fullri lengd, var frumsýnd. Þar með hófst kvikmyndahefð sem átti síðar eftir að verða ein sú umfangsmesta í heimi."
+    },
+    {
+      "ar": "1947",
+      "texti": "Ný stjórnarskrá Japans tók gildi og tryggði meðal annars þingræði og grundvallarréttindi. Keisarinn varð jafnframt fyrst og fremst táknrænn þjóðhöfðingi."
+    },
+    {
+      "ar": "1963",
+      "texti": "Lögreglan í Birmingham í Alabama beitti háþrýstivatnsbyssum og hundum gegn borgararéttindamótmælendum. Myndir af hörkunni vöktu heimsathygli og beindu kastljósinu að kynþáttaaðskilnaði í Suðurríkjunum."
+    },
+    {
+      "ar": "2021",
+      "texti": "Upphækkaður hluti neðanjarðarlestarkerfis Mexíkóborgar hrundi. Tuttugu og sex létust og 98 særðust í þessu mannskæða slysi."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1902",
+      "texti": "Oddfellowreglan hafði forgöngu um stofnun Hjúkrunarfélags Reykjavíkur. Félagið starfaði til ársins 1937.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1943",
+      "texti": "Frank M. Andrews, æðsti yfirmaður bandaríska heraflans í Evrópu, fórst ásamt þrettán öðrum þegar flugvél hans flaug á Fagradalsfjall.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1973",
+      "texti": "Íslenskri stafsetningu var breytt með reglugerð Menntamálaráðuneytisins og bókstafurinn z lagður niður í almennu íslensku ritmáli. Z-inu var með öðrum orðum vísað kurteislega til dyra.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1986",
+      "texti": "Ísland tók í fyrsta sinn þátt í Eurovision þegar ICY flutti „Gleðibankann“. Belgíska söngkonan Sandra Kim sigraði hins vegar með „J'aime la vie“.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bing Crosby",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1903"
+    },
+    {
+      "nafn": "Ben Elton",
+      "starfsgrein": "leikari, leikstjóri og handritshöfundur",
+      "ar": "1959"
+    },
+    {
+      "nafn": "Alex Iwobi",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Brooks Koepka",
+      "starfsgrein": "kylfingur",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Rachel Zegler",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "2001"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Birgir Lúðvíksson",
+      "starfsgrein": "fyrrverandi formaður Knattspyrnufélagsins Fram",
+      "ar": "1937"
+    },
+    {
+      "nafn": "Bjarki Árnason",
+      "starfsgrein": "harmonikkuleikari",
+      "ar": "1924"
+    },
+    {
+      "nafn": "Jónas Jónasson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1931"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða land fékk nýja stjórnarskrá 3. maí 1947?",
+      "svor": [
+        "Japan",
+        "Indland",
+        "Pólland",
+        "Mexíkó"
+      ],
+      "rett": 0,
+      "skyring": "Stjórnarskrá Japans tók gildi árið 1947 og færði keisaranum að mestu táknrænt hlutverk."
+    },
+    {
+      "spurning": "Hvaða bókstafur var lagður niður í íslensku ritmáli árið 1973?",
+      "svor": [
+        "X",
+        "Z",
+        "Y",
+        "C"
+      ],
+      "rett": 1,
+      "skyring": "Z-ið fékk reisupassann, þótt það sjáist enn stundum í sérnöfnum og gömlum textum."
+    },
+    {
+      "spurning": "Hvað hét fyrsta framlag Íslands í Eurovision?",
+      "svor": [
+        "Sókrates",
+        "Draumur um Nínu",
+        "Gleðibankinn",
+        "Nei eða já"
+      ],
+      "rett": 2,
+      "skyring": "ICY opnaði Eurovision-reikning Íslands með „Gleðibankanum“ árið 1986."
+    }
+  ],
+  "tonlistUSA": "Addicted to Love – Robert Palmer (1986)",
+  "tonlistUK": "The Chicken Song – Spitting Image (1986)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "árdegis",
+    "skyring": "Orðið merkir fyrri hluta dags, einkum tímann fyrir hádegi."
+  },
+  "vissir_thu": "Stjórnarskráin sem pólsk-litháíska samveldið samþykkti 3. maí 1791 var fyrsta skráða þjóðarstjórnarskrá Evrópu.",
+  "stjornuspa": "Nautið finnur gamlan styrk í þolinmæðinni í dag, en gættu þess að breyta ekki hverju smáatriði í stjórnarskrármál. Settu góða plötu á fóninn, stattu fast á þínu og leyfðu öðrum að halda að hugmyndin hafi verið þeirra.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kazimierz_Wojniakowski%2C_Uchwalenie_Konstytucji_3_Maja.jpg/500px-Kazimierz_Wojniakowski%2C_Uchwalenie_Konstytucji_3_Maja.jpg",
+    "ar": "1791",
+    "texti": "Stóra þing pólsk-litháíska samveldisins samþykkti fyrstu skráðu þjóðarstjórnarskrá Evrópu. Hún var djarft skref í átt að nútímalegri stjórnskipan.",
+    "heimild": "https://en.wikipedia.org/wiki/Great_Sejm",
+    "breidd": 330,
+    "haed": 230
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

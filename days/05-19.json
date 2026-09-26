@@ -1,0 +1,148 @@
+{
+  "mmdd": "05-19",
+  "dagur": 19,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:00",
+  "sunset": "22:48",
+  "kvedja": "Góðan 19. maí! Í dag förum við úr reykmyrkri átjándu aldar í ískalda Franklin-leiðangurinn og endum svo með Marilyn við hljóðnemann — sagan kann svo sannarlega að skipta snöggt um gír. Naut dagsins ætti þó að halda ró sinni; það hefur sjaldan skaðað nokkurn mann að melta söguna hægt og örugglega.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "715",
+      "texti": "Gregoríus 2. tók við páfastóli. Deilur hans við Leó 3. Býsans keisara áttu síðar þátt í að leggja grunn að veraldlegu valdi páfa."
+    },
+    {
+      "ar": "1780",
+      "texti": "Þykkur reykur, þoka og skýjahula ollu því að myrkur skall á um hádegisbil í hlutum Kanada og Nýja-Englands. Dagurinn varð þekktur sem „myrki dagurinn“ — án þess að nokkur hefði fundið ljósrofann."
+    },
+    {
+      "ar": "1845",
+      "texti": "John Franklin kapteinn lagði frá Greenhithe á Englandi í leit að Norðvesturleiðinni um kanadíska norðurskautið. Skipin festust síðar í ís og allir 129 leiðangursmennirnir fórust."
+    },
+    {
+      "ar": "1962",
+      "texti": "Marilyn Monroe söng eftirminnilega og seiðandi útgáfu af „Happy Birthday to You“ fyrir John F. Kennedy Bandaríkjaforseta í sjónvarpsútsendingu. Fáir afmælissöngvar hafa síðan fengið jafnmikla athygli."
+    },
+    {
+      "ar": "1997",
+      "texti": "Lífhvolfssvæðið Sierra Gorda var stofnað í Mexíkó eftir öflugt grasrótarstarf heimamanna. Svæðið nær yfir vistfræðilega fjölbreyttasta landsvæði Mexíkó."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1341",
+      "texti": "Hekla gaus og annálar herma að gosið hafi nærri því eytt fimm hreppum. Fjallið minnti rækilega á að það væri enginn venjulegur nágranni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1933",
+      "texti": "Æstur múgur braust inn í fangelsið í Vestmannaeyjum og leysti fanga úr haldi. Tíu manns hlutu síðar fangelsisdóma fyrir tiltækið.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1983",
+      "texti": "Geimskutlan Enterprise hafði viðkomu á Keflavíkurflugvelli, borin á baki Boeing 747-þotu. Þetta hefur væntanlega verið ein óvenjulegasta flugvélasamstæða sem sést hefur á vellinum.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1990",
+      "texti": "Nýr fjölskyldu- og húsdýragarður var opnaður í Laugardal í Reykjavík með tuttugu tegundir húsdýra, sjávardýra og villtra dýra. Yfir tíu þúsund gestir komu strax fyrsta daginn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "André the Giant",
+      "starfsgrein": "fjölbragðaglímukappi og leikari",
+      "ar": "1946"
+    },
+    {
+      "nafn": "Archie Manning",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Andrea Pirlo",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Colin Chapman",
+      "starfsgrein": "verkfræðingur og stofnandi Lotus Cars",
+      "ar": "1928"
+    },
+    {
+      "nafn": "Jojo Siwa",
+      "starfsgrein": "dansari, söngkona og leikkona",
+      "ar": "2003"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Steingrímur Thorsteinsson",
+      "starfsgrein": "skáld og þýðandi",
+      "ar": "1831"
+    },
+    {
+      "nafn": "Sigurður H. Pétursson",
+      "starfsgrein": "gerlafræðingur",
+      "ar": "1907"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvert stefndi Franklin kapteinn árið 1845 í leit að siglingaleið?",
+      "svor": [
+        "Til Suðurskautslandsins",
+        "Til kanadíska norðurskautsins",
+        "Til Grænlands eingöngu",
+        "Til Kyrrahafseyja"
+      ],
+      "rett": 1,
+      "skyring": "Franklin leitaði Norðvesturleiðarinnar um kanadíska norðurskautið, en ísinn reyndist grimmur leiðsögumaður."
+    },
+    {
+      "spurning": "Hvaða fræga leikkona söng fyrir John F. Kennedy árið 1962?",
+      "svor": [
+        "Audrey Hepburn",
+        "Elizabeth Taylor",
+        "Marilyn Monroe",
+        "Grace Kelly"
+      ],
+      "rett": 2,
+      "skyring": "Marilyn Monroe flutti afmælissöng sem varð sjálfur hluti af poppsögunni."
+    },
+    {
+      "spurning": "Hvað var geimskutlan Enterprise að gera á Keflavíkurflugvelli árið 1983?",
+      "svor": [
+        "Hún lenti þar eftir geimferð",
+        "Hún var sýnd í flugskýli",
+        "Hún var borin þangað af Boeing 747",
+        "Henni var skotið þaðan á loft"
+      ],
+      "rett": 2,
+      "skyring": "Enterprise kom á baki Boeing 747 — sannkallaður háloftahestbakstur."
+    }
+  ],
+  "tonlistUSA": "Let's Hear It for the Boy – Deniece Williams (1984)",
+  "tonlistUK": "The Reflex – Duran Duran (1984)",
+  "bio": "Shrek (2001)",
+  "ord_dagsins": {
+    "ord": "húmdökkur",
+    "skyring": "Orðið lýsir einhverju sem er dökkt eða rökkurkennt, rétt eins og loftið á myrka deginum árið 1780."
+  },
+  "vissir_thu": "John Franklin og 128 félagar hans hurfu í leiðangrinum með skipunum HMS Erebus og HMS Terror; flök beggja skipanna fundust loks á 21. öld.",
+  "stjornuspa": "Nautið finnur í dag gamlan lista, gleymda kvittun eða hugmynd sem á skilið endurkomu — en ekki endilega allt þrennt. Haltu fast í þolinmæðina og forðastu að syngja afmælissöng með Marilyn-tilþrifum nema tilefnið sé alveg öruggt.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/SsigregoryIIpope.jpg/500px-SsigregoryIIpope.jpg",
+    "ar": "715",
+    "texti": "Gregoríus 2. tók við páfastóli. Deilur hans við Leó 3. Býsans keisara áttu síðar þátt í að leggja grunn að veraldlegu valdi páfa.",
+    "heimild": "https://en.wikipedia.org/wiki/Pope_Gregory_II",
+    "breidd": 330,
+    "haed": 417
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

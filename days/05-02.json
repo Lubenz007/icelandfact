@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-02",
+  "dagur": 2,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:57",
+  "sunset": "21:53",
+  "kvedja": "Góðan og söguríkan 2. maí! Í dag koma við sögu konungleg borgarskjöl, loðfeldaverslun, ballettskór stórvelda og íslenskar ljósmæður — sagan kann svo sannarlega að blanda sér kostulegan kokteil.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1194",
+      "texti": "Ríkharður 1. Englandskonungur veitti Portsmouth fyrsta konunglega stofnskrá bæjarins. Ljónshjarta kunni greinilega líka að beita penna."
+    },
+    {
+      "ar": "1670",
+      "texti": "Hudsonflóafélagið fékk konungsleyfi og einokun á loðfeldaverslun í Rupert's Land, á víðáttumiklu svæði í því sem nú er Kanada."
+    },
+    {
+      "ar": "1889",
+      "texti": "Wuchale-samningurinn var undirritaður og batt enda á stríð Ítalíu og Eþíópíu. Ólíkar þýðingar samningsins urðu síðar eldfimt deiluefni og leiddu til annars stríðs."
+    },
+    {
+      "ar": "1945",
+      "texti": "Helmuth Weidling, yfirmaður þýska hersins í Berlín, gafst upp fyrir sovéskum sveitum undir stjórn Georgí Zhukov. Þar með lauk orrustunni um Berlín."
+    },
+    {
+      "ar": "2008",
+      "texti": "Eldfjallið Chaitén í Chile tók að gjósa í fyrsta sinn frá því um 1640. Fjallið hafði því sofið óvenju lengi — og vaknaði með látum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1615",
+      "texti": "Þrettán skip fórust og áttatíu menn drukknuðu í aftakaveðri á Breiðafirði, einn mannskæðasti sjóskaði sem tengdur er þessum degi.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1919",
+      "texti": "Tuttugu ljósmæður stofnuðu Ljósmæðrafélag Íslands, fyrsta stéttarfélag faglærðra kvenna hér á landi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1970",
+      "texti": "Búrfellsvirkjun var vígð og formlega tekin í notkun. Þar hófst mikilvægur kafli í nýtingu vatnsafls Þjórsár.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1992",
+      "texti": "Jón Baldvin Hannibalsson utanríkisráðherra undirritaði samninginn um Evrópska efnahagssvæðið, sem telur um tuttugu þúsund blaðsíður — engin létt kvöldlesning.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Katrín mikla",
+      "starfsgrein": "keisaraynja Rússlands",
+      "ar": "1729"
+    },
+    {
+      "nafn": "Christine Baranski",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1952"
+    },
+    {
+      "nafn": "Bianca Jagger",
+      "starfsgrein": "fyrirsæta, leikkona og baráttukona",
+      "ar": "1945"
+    },
+    {
+      "nafn": "Benjamin Spock",
+      "starfsgrein": "barnalæknir og rithöfundur",
+      "ar": "1903"
+    },
+    {
+      "nafn": "BamBam",
+      "starfsgrein": "söngvari",
+      "ar": "1997"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Arnar Þór Jónsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Jón Böðvarsson",
+      "starfsgrein": "íslenskufræðingur",
+      "ar": "1930"
+    },
+    {
+      "nafn": "Þorlákur Thorlacius Þórðarson",
+      "starfsgrein": "skólameistari í Skálholti",
+      "ar": "1675"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða borg fékk sína fyrstu konunglegu stofnskrá árið 1194?",
+      "svor": [
+        "Portsmouth",
+        "Liverpool",
+        "Bristol",
+        "Manchester"
+      ],
+      "rett": 0,
+      "skyring": "Ríkharður ljónshjarta veitti Portsmouth konunglega stofnskrá — líklega án þess að öskra eitt einasta „arr!“"
+    },
+    {
+      "spurning": "Hvaða íslenska félag var stofnað 2. maí 1919?",
+      "svor": [
+        "Bandalag íslenskra listamanna",
+        "Ljósmæðrafélag Íslands",
+        "Ferðafélag Íslands",
+        "Rithöfundasamband Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Tuttugu ljósmæður stofnuðu Ljósmæðrafélag Íslands, fyrsta stéttarfélag faglærðra kvenna á Íslandi."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn varð keisaraynja Rússlands?",
+      "svor": [
+        "Bianca Jagger",
+        "Christine Baranski",
+        "Katrín mikla",
+        "BamBam"
+      ],
+      "rett": 2,
+      "skyring": "Katrín mikla fæddist árið 1729 og bar viðurnefni sem skilur lítið eftir fyrir hógværðina."
+    }
+  ],
+  "tonlistUSA": "Night Fever – Bee Gees (1978)",
+  "tonlistUK": "Bright Eyes – Art Garfunkel (1979)",
+  "bio": "Avengers: Endgame (2019)",
+  "ord_dagsins": {
+    "ord": "hirðstjóri",
+    "skyring": "Hirðstjóri var konungsfulltrúi sem fór með æðstu stjórn á Íslandi á síðmiðöldum."
+  },
+  "vissir_thu": "Wuchale-samningurinn frá 1889 var til á ítölsku og amharísku, en ósamræmi milli textanna varð að alvarlegu deilumáli milli Ítalíu og Eþíópíu.",
+  "stjornuspa": "Nautið finnur gamlan innri styrk og stendur fastar en Búrfellsvirkjun, en gæti þurft að minna sig á að þrjóska er ekki alltaf þjóðþrifamál. Klæddu þig í jarðliti, stilltu vasadiskóið á Bee Gees og leyfðu einhverjum öðrum að velja kaffistaðinn.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg/500px-Church_of_Fontevraud_Abbey_Richard_I_effigy.jpg",
+    "ar": "1194",
+    "texti": "Ríkharður 1. Englandskonungur veitti Portsmouth fyrsta konunglega stofnskrá bæjarins. Ljónshjarta kunni greinilega líka að beita penna.",
+    "heimild": "https://en.wikipedia.org/wiki/Richard_I_of_England",
+    "breidd": 330,
+    "haed": 186
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

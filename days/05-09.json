@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-09",
+  "dagur": 9,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:33",
+  "sunset": "22:16",
+  "kvedja": "Góðan 9. maí, kæri lesandi! Í dag sveiflum við okkur frá síðasta sjóorrustudansi tréskipanna yfir í fyrsta íslenska ljósmóðurprófið og endum við píanóið hjá Billy Joel. Sagan kann svo sannarlega að skipta um takt án þess að missa þráðinn.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1761",
+      "texti": "Fyrsta sýning Society of Artists of Great Britain var opnuð í Spring Gardens í Lundúnum. Þar fékk bresk myndlist sviðsljósið, löngu áður en nokkur gat tekið ljósmynd af verkunum og sett hana á samfélagsmiðla."
+    },
+    {
+      "ar": "1864",
+      "texti": "Orrustan við Helgoland var háð milli danskra og austurrísk-prússneskra flota í síðara Slésvíkurstríðinu. Hún varð síðasta sjóorrustan þar sem sveitir tréskipa tókust á."
+    },
+    {
+      "ar": "1960",
+      "texti": "Bandaríska matvæla- og lyfjaeftirlitið tilkynnti að samsetta getnaðarvarnarpillan Enovid yrði samþykkt. Sú ákvörðun átti eftir að hafa víðtæk samfélagsleg áhrif."
+    },
+    {
+      "ar": "1980",
+      "texti": "Hluti Sunshine Skyway-brúarinnar í Flórída hrundi eftir að flutningaskipið MV Summit Venture rakst á brúarstólpa. Alls létust 35 manns í slysinu."
+    },
+    {
+      "ar": "2023",
+      "texti": "Óeirðir brutust út í Pakistan eftir handtöku Imrans Khan, fyrrverandi forsætisráðherra landsins. Mótmælin urðu hörð og pólitísk spenna sauð upp úr."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1593",
+      "texti": "Konungur fyrirskipaði í bréfi til hirðstjóra að innsigli Íslands skyldi sýna hausaðan, óflattan þorsk með konungskórónu. Þorskurinn var þar með kominn í opinbert spariföt.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1768",
+      "texti": "Rannveig Egilsdóttir lauk ljósmóðurprófi á Staðarfelli í Dölum og varð fyrsta menntaða ljósmóðirin á Íslandi.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1855",
+      "texti": "Prentfrelsi var leitt í lög á Íslandi með konunglegri tilskipun, stórt skref fyrir opinbera umræðu og útgáfustarfsemi landsmanna.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1978",
+      "texti": "Samtökin '78 voru stofnuð og urðu síðar ein helstu baráttusamtök hinsegin fólks á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Billy Joel",
+      "starfsgrein": "söngvaskáld og píanóleikari",
+      "ar": "1949"
+    },
+    {
+      "nafn": "Albert Finney",
+      "starfsgrein": "leikari",
+      "ar": "1936"
+    },
+    {
+      "nafn": "Daniel Rosenfeld",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1989"
+    },
+    {
+      "nafn": "Beth Mead",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1995"
+    },
+    {
+      "nafn": "Anne Sofie von Otter",
+      "starfsgrein": "óperusöngkona",
+      "ar": "1955"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Fanndís Friðriksdóttir",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Sigurður Kári Kristjánsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1973"
+    },
+    {
+      "nafn": "Nanna Kristín Magnúsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1974"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða nýjung fékk samþykki bandaríska matvæla- og lyfjaeftirlitsins 9. maí 1960?",
+      "svor": [
+        "Samsetta getnaðarvarnarpillan Enovid",
+        "Fyrsta insúlíndælan",
+        "Hjarta- og lungnavélin",
+        "Rafræni hitamælirinn"
+      ],
+      "rett": 0,
+      "skyring": "Enovid fékk grænt ljós og samfélagssagan tók um leið býsna stóra beygju."
+    },
+    {
+      "spurning": "Hvað átti að vera á innsigli Íslands samkvæmt konungsbréfi frá 1593?",
+      "svor": [
+        "Fálki með veldissprota",
+        "Krýndur, hausaður og óflattur þorskur",
+        "Hvítabjörn með sverð",
+        "Hrútur undir norðurljósum"
+      ],
+      "rett": 1,
+      "skyring": "Rétta svarið er krýndi þorskurinn, enda hefur fiskurinn oft synt nærri miðju Íslandssögunnar."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt sem söngvaskáld og píanóleikari?",
+      "svor": [
+        "Albert Finney",
+        "Daniel Rosenfeld",
+        "Billy Joel",
+        "Beth Mead"
+      ],
+      "rett": 2,
+      "skyring": "Billy Joel situr við píanóið í þessu afmælisliði."
+    }
+  ],
+  "tonlistUSA": "(I Just) Died in Your Arms – Cutting Crew (1987)",
+  "tonlistUK": "Stand and Deliver – Adam and the Ants (1981)",
+  "bio": "Vertigo (1958)",
+  "ord_dagsins": {
+    "ord": "innsigli",
+    "skyring": "Innsigli er formlegt merki sem notað er til að staðfesta eða auðkenna skjal og var fyrrum oft þrýst í vax."
+  },
+  "vissir_thu": "Orrustan við Helgoland árið 1864 var síðasta sjóorrustan sem háð var milli sveita tréskipa.",
+  "stjornuspa": "Nautið finnur í dag gamlan takka, kassettu eða kvittun sem kveikir óvænta minningu; ekki henda henni fyrr en sagan hefur verið sögð. Vertu staðfastur, en mundu að jafnvel gramófónnálin þarf að hreyfast til að tónlistin heyrist.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Print%2C_frontispiece%2C_satirical_print_%28BM_Cc%2C1.163%29.jpg/500px-Print%2C_frontispiece%2C_satirical_print_%28BM_Cc%2C1.163%29.jpg",
+    "ar": "1761",
+    "texti": "Fyrsta sýning Society of Artists of Great Britain var opnuð í Spring Gardens í Lundúnum. Þar fékk bresk myndlist sviðsljósið, löngu áður en nokkur gat tekið ljósmynd af verkunum og sett hana á samfélagsmiðla.",
+    "heimild": "https://en.wikipedia.org/wiki/Exhibition_of_1761",
+    "breidd": 330,
+    "haed": 441
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

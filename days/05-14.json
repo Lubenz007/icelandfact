@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-14",
+  "dagur": 14,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:16",
+  "sunset": "22:32",
+  "kvedja": "Góðan 14. maí, kæri lesandi! Í dag leggjum við af stað með Lewis og Clark, lítum við hjá forsetahjónum og reynum að halda okkur réttu megin við Varsjárbandalagið — allt áður en kaffið kólnar.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1264",
+      "texti": "Hinrik 3. Englandskonungur beið ósigur í orrustunni við Lewes og neyddist til að samþykkja samkomulag sem gerði Simon de Montfort að raunverulegum stjórnanda Englands. Kóngurinn hélt krúnunni, en aðrir héldu um stýrið."
+    },
+    {
+      "ar": "1804",
+      "texti": "Leiðangursmenn undir forystu Meriwether Lewis og William Clark lögðu upp frá Camp Dubois í fyrstu landleiðangursferðina til vesturstrandar Bandaríkjanna og aftur til baka."
+    },
+    {
+      "ar": "1919",
+      "texti": "Sir Harry Hands, borgarstjóri Höfðaborgar, stóð fyrir fyrstu opinberu tveggja mínútna þögninni til minningar um þá sem féllu í fyrri heimsstyrjöldinni."
+    },
+    {
+      "ar": "1955",
+      "texti": "Átta ríki Austurblokkarinnar undirrituðu gagnkvæman varnarsamning og stofnuðu Varsjárbandalagið, mótvægi Sovétríkjanna og bandamanna þeirra við NATO."
+    },
+    {
+      "ar": "1980",
+      "texti": "Flóttafólk sem reyndi að komast frá El Salvador yfir Sumpulfljót til Hondúras varð fyrir árás hersveita beggja ríkja. Að minnsta kosti 300 manns létu lífið í fjöldamorðunum."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1922",
+      "texti": "Fimm skip fórust og 44 sjómenn týndu lífi í norðanofsaveðri sem gekk yfir norðan- og austanvert landið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1959",
+      "texti": "Pétur Ottesen lét af þingmennsku eftir 43 ár á Alþingi, lengri þingsetu en nokkur annar hafði þá átt að baki.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1965",
+      "texti": "Fyrsta Fokker Friendship-flugvél Flugfélags Íslands kom til landsins. Vélar af þeirri gerð urðu síðan kunnuglegir vinnuhestar innanlandsflugsins um áratugaskeið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2003",
+      "texti": "Ólafur Ragnar Grímsson, forseti Íslands, gekk að eiga Dorrit Moussaieff.",
+      "landshluti": "Höfuðborgarsvæðið"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Amber Tamblyn",
+      "starfsgrein": "leikkona, rithöfundur og leikstjóri",
+      "ar": "1983"
+    },
+    {
+      "nafn": "Martin Garrix",
+      "starfsgrein": "plötusnúður og tónlistarframleiðandi",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Rúben Dias",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1997"
+    },
+    {
+      "nafn": "Pokimane",
+      "starfsgrein": "netstjarna og streymari",
+      "ar": "1996"
+    },
+    {
+      "nafn": "Adolf Frederick",
+      "starfsgrein": "Svíakonungur",
+      "ar": "1710"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Ólafur Ragnar Grímsson",
+      "starfsgrein": "fyrrverandi forseti Íslands",
+      "ar": "1943"
+    },
+    {
+      "nafn": "Ari Freyr Skúlason",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Sigríður Anna Þórðardóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1946"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða tveir landkönnuðir lögðu af stað í mikinn leiðangur 14. maí 1804?",
+      "svor": [
+        "Lewis og Clark",
+        "Stanley og Livingstone",
+        "Amundsen og Scott",
+        "Burke og Wills"
+      ],
+      "rett": 0,
+      "skyring": "Meriwether Lewis og William Clark héldu vestur á bóginn með nesti, nógu góða skó og býsna stórt verkefni."
+    },
+    {
+      "spurning": "Hvaða hernaðarbandalag var stofnað 14. maí 1955?",
+      "svor": [
+        "Atlantshafsbandalagið",
+        "Varsjárbandalagið",
+        "Þjóðabandalagið",
+        "Evrópubandalagið"
+      ],
+      "rett": 1,
+      "skyring": "Varsjárbandalagið sameinaði átta ríki Austurblokkarinnar í gagnkvæmu varnarsamstarfi."
+    },
+    {
+      "spurning": "Hver hætti þingmennsku árið 1959 eftir 43 ár á Alþingi?",
+      "svor": [
+        "Ólafur Ragnar Grímsson",
+        "Pétur Ottesen",
+        "Ari Freyr Skúlason",
+        "Adolf Frederick"
+      ],
+      "rett": 1,
+      "skyring": "Pétur Ottesen kvaddi þingið eftir 43 ár — drjúga setu, jafnvel á mælikvarða þolinmóðra þingmanna."
+    }
+  ],
+  "tonlistUSA": "Beat It – Michael Jackson (1983)",
+  "tonlistUK": "True – Spandau Ballet (1983)",
+  "bio": "The Matrix (1999)",
+  "ord_dagsins": {
+    "ord": "grúskari",
+    "skyring": "Grúskari er maður sem sökkvir sér af áhuga í rannsóknir, bækur eða annað fræðastúss."
+  },
+  "vissir_thu": "Leiðangur Lewis og Clark hófst ekki við austurströnd Bandaríkjanna heldur við Camp Dubois, nærri Hartford í Illinois nútímans.",
+  "stjornuspa": "Nautið finnur gamalt verkefni í skúffu og klárar það með þeirri þrjósku sem einu sinni hefði reist járnbraut. Varastu þó að stofna varnarsamband um síðasta kaffibollann — kurteis samningaviðræða dugar.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Civil_War_in_England.jpg",
+    "ar": "1264",
+    "texti": "Hinrik 3. Englandskonungur beið ósigur í orrustunni við Lewes og neyddist til að samþykkja samkomulag sem gerði Simon de Montfort að raunverulegum stjórnanda Englands. Kóngurinn hélt krúnunni, en aðrir héldu um stýrið.",
+    "heimild": "https://en.wikipedia.org/wiki/Second_Barons'_War",
+    "breidd": 263,
+    "haed": 279
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}

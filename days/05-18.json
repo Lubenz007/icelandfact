@@ -1,0 +1,153 @@
+{
+  "mmdd": "05-18",
+  "dagur": 18,
+  "manudur": "maí",
+  "manudurNr": 5,
+  "stjornumerki": "Naut",
+  "sunrise": "04:04",
+  "sunset": "22:45",
+  "kvedja": "Góðan 18. maí, kæri lesandi! Í dag sveiflumst við frá mongólskum vígvöllum til íslenskrar landhelgi, með viðkomu við eldgos og Eurovision — sagan kann sannarlega að skipuleggja fjölbreytta dagskrá.",
+  "nafnadagur": "",
+  "atburdir": [
+    {
+      "ar": "1388",
+      "texti": "Í orrustunni við Buir-vatn sigraði her Ming-veldisins undir stjórn Lan Yu hersveitir Tögüs Temür, khans Norður-Yuan. Þar tók kínverska keisaraveldið hraustlega til hendinni á mongólsku sléttunum."
+    },
+    {
+      "ar": "1695",
+      "texti": "Öflugur jarðskjálfti, metinn 7,8 að stærð, reið yfir Shanxi-hérað í norðurhluta Kína. Að minnsta kosti 52.600 manns létust."
+    },
+    {
+      "ar": "1896",
+      "texti": "Hæstiréttur Bandaríkjanna staðfesti í málinu Plessy gegn Ferguson lögmæti kynþáttaaðskilnaðar í almenningssamgöngum samkvæmt kenningunni „aðskilið en jafnt“."
+    },
+    {
+      "ar": "1944",
+      "texti": "Sovétríkin hófu nauðungarflutning hundruð þúsunda Krímtatara til Úsbekska sovétlýðveldisins og annarra svæða ríkisins."
+    },
+    {
+      "ar": "1980",
+      "texti": "Eldfjallið St. Helens gaus með gífurlegum sprengingum í Washingtonríki. Um 57 manns létust, víðáttumikil svæði lögðust í auðn og tjónið fór yfir milljarð Bandaríkjadala."
+    }
+  ],
+  "atburdir_island": [
+    {
+      "ar": "1920",
+      "texti": "Sambandslögin frá 1918 voru staðfest með breytingum á stjórnarskrá Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1973",
+      "texti": "Breski sjávarútvegsráðherrann Joseph Godber tilkynnti að herskip yrðu send til að gæta breskra fiskiskipa innan 50 mílna fiskveiðilandhelgi Íslands.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1978",
+      "texti": "Selfoss fékk kaupstaðarréttindi — virðuleg upphefð fyrir bæ sem hafði lengi staðið vaktina við Ölfusá.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2019",
+      "texti": "Hatari keppti fyrir Íslands hönd í Eurovision í Tel Aviv og hafnaði í 10. sæti. Hollendingurinn Duncan Laurence sigraði með laginu „Arcade“.",
+      "landshluti": "Erlendis"
+    }
+  ],
+  "afmaeli": [
+    {
+      "nafn": "Bertrand Russell",
+      "starfsgrein": "heimspekingur, stærðfræðingur og rithöfundur",
+      "ar": "1872"
+    },
+    {
+      "nafn": "Albert Hammond",
+      "starfsgrein": "söngvari, lagahöfundur og tónlistarframleiðandi",
+      "ar": "1944"
+    },
+    {
+      "nafn": "Brad Friedel",
+      "starfsgrein": "knattspyrnumaður, þjálfari og íþróttalýsandi",
+      "ar": "1971"
+    },
+    {
+      "nafn": "Adwoa Aboah",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Alina Zagitova",
+      "starfsgrein": "listhlaupari á skautum",
+      "ar": "2002"
+    }
+  ],
+  "afmaeli_island": [
+    {
+      "nafn": "Gunnar Gunnarsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1889"
+    },
+    {
+      "nafn": "Davíð Tencer",
+      "starfsgrein": "kaþólskur biskup á Íslandi",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Erla Steina Arnardóttir",
+      "starfsgrein": "knattspyrnukona",
+      "ar": "1983"
+    }
+  ],
+  "spurningar": [
+    {
+      "spurning": "Hvaða eldfjall lét hressilega í sér heyra 18. maí 1980?",
+      "svor": [
+        "St. Helens",
+        "Etna",
+        "Vesúvíus",
+        "Krakatau"
+      ],
+      "rett": 0,
+      "skyring": "St. Helens gaus með slíku afli að hundruð ferkílómetra urðu að auðn."
+    },
+    {
+      "spurning": "Hvaða íslenski bær fékk kaupstaðarréttindi 18. maí 1978?",
+      "svor": [
+        "Húsavík",
+        "Selfoss",
+        "Stykkishólmur",
+        "Neskaupstaður"
+      ],
+      "rett": 1,
+      "skyring": "Selfoss fékk kaupstaðarréttindi þennan dag árið 1978."
+    },
+    {
+      "spurning": "Hver af þessum afmælisbörnum var breskur heimspekingur og Nóbelsverðlaunahafi?",
+      "svor": [
+        "Albert Hammond",
+        "Brad Friedel",
+        "Bertrand Russell",
+        "Gunnar Gunnarsson"
+      ],
+      "rett": 2,
+      "skyring": "Bertrand Russell var bæði heimspekingur og stærðfræðingur — maður sem lét fá hugðarefni ósnert."
+    }
+  ],
+  "tonlistUSA": "Don't You (Forget About Me) – Simple Minds (1985)",
+  "tonlistUK": "19 – Paul Hardcastle (1985)",
+  "bio": "Shrek (2001)",
+  "ord_dagsins": {
+    "ord": "eldibrandur",
+    "skyring": "Eldibrandur er logandi eða glóandi viðarkubbur úr eldi."
+  },
+  "vissir_thu": "Írland vann Eurovision í sjöunda sinn árið 1996 og átti eitt metið þar til Svíþjóð jafnaði það árið 2023.",
+  "stjornuspa": "Nautið finnur gamalt vasadiskó, snýr upp á yfirvaraskeggið og tekur fjármálin föstum tökum. Varastu þó að segja „ég sagði ykkur það“ of oft — jafnvel þegar þú sagðir þeim það.",
+  "mynd": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Buir_Nuur_in_Eastern_Mongolia_and_in_China_%28Inner_Mongolia%29%2C_LandSat-7_2005-08-9.png/500px-Buir_Nuur_in_Eastern_Mongolia_and_in_China_%28Inner_Mongolia%29%2C_LandSat-7_2005-08-9.png",
+    "ar": "1388",
+    "texti": "Í orrustunni við Buir-vatn sigraði her Ming-veldisins undir stjórn Lan Yu hersveitir Tögüs Temür, khans Norður-Yuan. Þar tók kínverska keisaraveldið hraustlega til hendinni á mongólsku sléttunum.",
+    "heimild": "https://en.wikipedia.org/wiki/Battle_of_Buir_Lake",
+    "breidd": 330,
+    "haed": 372
+  },
+  "veitandi": "Azure OpenAI",
+  "uppfaert": "2026-09-26"
+}
