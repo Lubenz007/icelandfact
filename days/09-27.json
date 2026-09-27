@@ -6,28 +6,28 @@
   "stjornumerki": "Vog",
   "sunrise": "07:23",
   "sunset": "19:11",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 27. september! Í dag leggjum við af stað með fyrstu gufulestinni, ráðum rúnir faraóanna og endum hjá GNU — því sagan kann svo sannarlega að skipta um gír.",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum septemberdegi ráðum við ráðgátur fornegypta, setjum heiminn á teina og hlustum eftir fyrsta hljóðinu í GNU-kerfinu — sagan kann sannarlega að skipta um gír. Vogin myndi eflaust kalla þetta ágætt jafnvægi, með örlitlu sögulegu glotti.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1422",
-      "texti": "Melno-samningurinn var undirritaður og markaði landamæri Prússlands og Litáens. Mörkin héldust nær óbreytt í um 500 ár, sem telst óvenjulega langur líftími fyrir strik á stjórnmálakorti."
+      "texti": "Melno-sáttmálinn var undirritaður og markaði landamæri Prússlands og Litháens. Mörkin héldust nær óbreytt í um 500 ár, sem verður að teljast óvenjulöng ending á striki á korti."
     },
     {
       "ar": "1822",
-      "texti": "Jean-François Champollion tilkynnti fyrstu árangursríku skrefin við að ráða egypsku myndletrið á Rósettusteininum. Þar með tóku fornir faraóar loksins að tala við nútímann."
+      "texti": "Jean-François Champollion greindi frönsku fræðasamfélagi frá fyrstu árangursríku skrefunum við að ráða egypsku myndletrið á Rósettusteininum. Þar með tóku faraóarnir loks að tala aftur — með dálítilli aðstoð málvísindanna."
+    },
+    {
+      "ar": "1825",
+      "texti": "Eimreiðin Locomotion No. 1 dró lest á opnunardegi Stockton–Darlington-járnbrautarinnar, fyrstu almenningsjárnbrautar heims sem notaði gufueimreiðar. Samgöngusagan var þar með komin á teina."
     },
     {
       "ar": "1908",
-      "texti": "Fyrsti Ford Model T-bíllinn var fullgerður í Detroit. Bíllinn átti stóran þátt í að gera einkabíla að almenningseign í Bandaríkjunum — og umferðarteppur að framtíðarverkefni."
+      "texti": "Fyrsta Ford Model T-bifreiðin úr framleiðslu var fullgerð í Detroit. Bíllinn átti stóran þátt í að gera bifreiðaeign almenna í Bandaríkjunum og breytti umferðinni úr munaði í fjöldafyrirbæri."
     },
     {
       "ar": "1983",
-      "texti": "Richard Stallman kynnti áform sín um GNU, frjálst Unix-líkt stýrikerfi. Tilkynningin varð eitt af upphafsskrefum frjálsrar hugbúnaðarhreyfingar."
-    },
-    {
-      "ar": "2014",
-      "texti": "Eldfjallið Ontake í miðhluta Japans gaus óvænt og 63 létust. Gosið var mannskæðasta eldgos í Japan í meira en heila öld."
+      "texti": "Richard Stallman tilkynnti áform sín um GNU, Unix-líkt stýrikerfi og fyrsta frjálsa hugbúnaðinn sem GNU-verkefnið þróaði. Þetta var upphafið að hugbúnaðarbyltingu þar sem frelsi notandans fékk sæti við lyklaborðið."
     }
   ],
   "atburdir_island": [
@@ -38,7 +38,7 @@
     },
     {
       "ar": "1922",
-      "texti": "Fyrsta íslenska myntin fór í dreifingu í Reykjavík: 10 aura og 25 aura peningar. Krónupeningurinn lét hins vegar bíða eftir sér til ársins 1925.",
+      "texti": "Fyrsta íslenska myntin fór í dreifingu í Reykjavík: 10 aura og 25 aura peningar. Krónupeningurinn lét þó bíða eftir sér til ársins 1925.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
@@ -48,35 +48,35 @@
     },
     {
       "ar": "2002",
-      "texti": "Skálinn, viðbygging við Alþingishúsið, var vígður í Reykjavík.",
+      "texti": "Skálinn, viðbygging við Alþingishúsið, var vígður. Þinghúsið fékk þar með meira olnbogarými, þótt stjórnmálin verði seint sögð rúmgóð.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Gwyneth Paltrow",
+      "starfsgrein": "leikkona og athafnakona",
+      "ar": "1972"
+    },
+    {
       "nafn": "Avril Lavigne",
-      "starfsgrein": "kanadísk söngkona og lagahöfundur",
+      "starfsgrein": "söngkona og lagahöfundur",
       "ar": "1984"
     },
     {
-      "nafn": "Anna Camp",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1982"
+      "nafn": "Jenna Ortega",
+      "starfsgrein": "leikkona",
+      "ar": "2002"
     },
     {
-      "nafn": "Cosimo de' Medici",
-      "starfsgrein": "ítalskur valdhafi og listverndari",
-      "ar": "1389"
+      "nafn": "Meat Loaf",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1947"
     },
     {
-      "nafn": "Agustín de Iturbide",
-      "starfsgrein": "mexíkóskur hermaður og keisari",
-      "ar": "1783"
-    },
-    {
-      "nafn": "Arthur Penn",
-      "starfsgrein": "bandarískur kvikmyndaleikstjóri",
-      "ar": "1922"
+      "nafn": "Francesco Totti",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1976"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða farartæki var fullgert í fyrsta sinn 27. september 1908?",
+      "spurning": "Hvaða eimreið dró lest á opnunardegi Stockton–Darlington-járnbrautarinnar árið 1825?",
       "svor": [
-        "Ford Model T",
-        "Volkswagen Bjalla",
-        "Rolls-Royce Silver Ghost",
-        "Citroën 2CV"
+        "Locomotion No. 1",
+        "Rocket No. 2",
+        "Steam Queen",
+        "Darlington Express"
       ],
       "rett": 0,
-      "skyring": "Ford Model T rann inn í söguna árið 1908 og hjálpaði til við að koma almenningi undir stýri."
+      "skyring": "Locomotion No. 1 fékk heiðurinn — nafnið var ekki beinlínis feimið við hlutverk sitt."
     },
     {
-      "spurning": "Hvaða íslenska brautryðjandi kvenréttinda fæddist þennan dag árið 1856?",
+      "spurning": "Hvaða íslensku myntir fóru fyrst í dreifingu árið 1922?",
       "svor": [
-        "Vigdís Finnbogadóttir",
-        "Bríet Bjarnhéðinsdóttir",
-        "Auður Auðuns",
-        "Ingibjörg H. Bjarnason"
+        "1 og 5 aura peningar",
+        "10 og 25 aura peningar",
+        "50 aura og 1 krónu peningar",
+        "1 og 2 krónu peningar"
       ],
       "rett": 1,
-      "skyring": "Bríet Bjarnhéðinsdóttir var einn áhrifamesti frumkvöðull íslenskrar kvenréttindabaráttu."
+      "skyring": "Það voru 10 og 25 aurar; krónupeningurinn mætti ekki til leiks fyrr en 1925."
     },
     {
-      "spurning": "Hvað kynnti Richard Stallman árið 1983?",
+      "spurning": "Hver tilkynnti áform um GNU-kerfið árið 1983?",
       "svor": [
-        "Google",
-        "Ford Model T",
-        "GNU-verkefnið",
-        "Rósettusteininn"
+        "Bill Gates",
+        "Steve Jobs",
+        "Richard Stallman",
+        "Tim Berners-Lee"
       ],
       "rett": 2,
-      "skyring": "GNU var stórt skref í átt að hugbúnaði sem notendur mættu nota, rannsaka, breyta og deila."
+      "skyring": "Richard Stallman ýtti GNU úr vör og gerði hugbúnaðarfrelsi að stórmáli."
     }
   ],
-  "tonlistUSA": "Shake Ya Tailfeather – Nelly, P. Diddy og Murphy Lee (2003)",
-  "tonlistUK": "Don't Leave Me This Way – The Communards (1986)",
+  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "tonlistUK": "Dancing in the Moonlight – Toploader (2000)",
   "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er dauf birta eða rökkur, þegar dagur og nótt virðast semja um vaktaskipti."
+    "ord": "goðorðsmaður",
+    "skyring": "Goðorðsmaður var maður sem fór með goðorð og hafði pólitískt og samfélagslegt forræði á þjóðveldisöld."
   },
-  "vissir_thu": "Landamærin sem Melno-samningurinn markaði árið 1422 héldust nær óbreytt í um 500 ár.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur skálin sé full af skyldum og hin af tertu. Segðu já við góðu samtali, en nei við því að stofna þitt eigið keisaradæmi fyrir hádegi.",
+  "vissir_thu": "Landamærin sem Melno-sáttmálinn markaði árið 1422 héldust nær óbreytt í um fimm aldir.",
+  "stjornuspa": "Vogin ætti að vega orð sín af nákvæmni í dag, en ekki svo lengi að gufulestin fari án hennar. Gamalt erindi eða gleymd hugmynd gæti reynst gulls ígildi — eða að minnsta kosti 25 aura virði.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Teutonic_Order_1410.png/500px-Teutonic_Order_1410.png",
     "ar": "1422",
-    "texti": "Melno-samningurinn var undirritaður og markaði landamæri Prússlands og Litáens. Mörkin héldust nær óbreytt í um 500 ár, sem telst óvenjulega langur líftími fyrir strik á stjórnmálakorti.",
+    "texti": "Melno-sáttmálinn var undirritaður og markaði landamæri Prússlands og Litháens. Mörkin héldust nær óbreytt í um 500 ár, sem verður að teljast óvenjulöng ending á striki á korti.",
     "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Melno",
     "breidd": 330,
     "haed": 287
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-09-27"
 }

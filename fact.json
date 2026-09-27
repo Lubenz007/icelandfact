@@ -1,158 +1,157 @@
 {
-  "date": "2026-09-26",
-  "dagur": 26,
+  "date": "2026-09-27",
+  "dagur": 27,
   "manudur": "september",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 269,
-  "sunrise": "07:21",
-  "sunset": "19:14",
-  "mmdd": "09-26",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 270,
+  "sunrise": "07:24",
+  "sunset": "19:10",
+  "mmdd": "09-27",
   "manudurNr": 9,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 26. september! Í dag siglum við kringum hnöttinn með Francis Drake, svífum yfir Ermarsund og þökkum Stanislav Petrov fyrir að halda höfðinu köldu þegar heimurinn mátti síst við fljótfærni.",
+  "kvedja": "Góðan dag, kæri lesandi! Á þessum septemberdegi ráðum við ráðgátur fornegypta, setjum heiminn á teina og hlustum eftir fyrsta hljóðinu í GNU-kerfinu — sagan kann sannarlega að skipta um gír. Vogin myndi eflaust kalla þetta ágætt jafnvægi, með örlitlu sögulegu glotti.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "-46",
-      "texti": "Júlíus Caesar vígði hof Venus Genetrix í Róm, en Venus var talin goðsögulegur ættfaðir fjölskyldu hans. Rómverjar kunnu sannarlega að gera ættarmót stór í sniðum."
+      "ar": "1422",
+      "texti": "Melno-sáttmálinn var undirritaður og markaði landamæri Prússlands og Litháens. Mörkin héldust nær óbreytt í um 500 ár, sem verður að teljast óvenjulöng ending á striki á korti."
     },
     {
-      "ar": "1580",
-      "texti": "Gullna hindin, skip enska landkönnuðarins Francis Drake, kom til Plymouth og lauk þar með hnattsiglingu sinni."
+      "ar": "1822",
+      "texti": "Jean-François Champollion greindi frönsku fræðasamfélagi frá fyrstu árangursríku skrefunum við að ráða egypsku myndletrið á Rósettusteininum. Þar með tóku faraóarnir loks að tala aftur — með dálítilli aðstoð málvísindanna."
     },
     {
-      "ar": "1907",
-      "texti": "Breska nýlendan Nýja-Sjáland varð formlega sjálfstjórnarríki innan breska heimsveldisins, til marks um það pólitíska sjálfstæði sem landið hafði þróað frá miðri 19. öld."
+      "ar": "1825",
+      "texti": "Eimreiðin Locomotion No. 1 dró lest á opnunardegi Stockton–Darlington-járnbrautarinnar, fyrstu almenningsjárnbrautar heims sem notaði gufueimreiðar. Samgöngusagan var þar með komin á teina."
+    },
+    {
+      "ar": "1908",
+      "texti": "Fyrsta Ford Model T-bifreiðin úr framleiðslu var fullgerð í Detroit. Bíllinn átti stóran þátt í að gera bifreiðaeign almenna í Bandaríkjunum og breytti umferðinni úr munaði í fjöldafyrirbæri."
     },
     {
       "ar": "1983",
-      "texti": "Sovéski undirofurstinn Stanislav Petrov áttaði sig á að viðvörun um yfirvofandi bandaríska eldflaugaárás var fölsk. Með yfirvegun sinni kom hann í veg fyrir að hættulegur misskilningur gæti hrundið af stað kjarnorkustríði."
-    },
-    {
-      "ar": "2008",
-      "texti": "Svissneski flugmaðurinn og uppfinningamaðurinn Yves Rossy flaug yfir Ermarsund með þotuknúinn vængjabúnað á bakinu. Ikarus hefði líklega bæði öfundað hann og óskað eftir öryggishjálmi."
+      "texti": "Richard Stallman tilkynnti áform sín um GNU, Unix-líkt stýrikerfi og fyrsta frjálsa hugbúnaðinn sem GNU-verkefnið þróaði. Þetta var upphafið að hugbúnaðarbyltingu þar sem frelsi notandans fékk sæti við lyklaborðið."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1915",
-      "texti": "Minnisvarði um Kristján 9. konung var afhjúpaður við Stjórnarráðshúsið í Reykjavík. Styttan er eftir Einar Jónsson og sýnir konunginn með stjórnarskrána í framréttri hendi.",
+      "ar": "1264",
+      "texti": "Þórður Andrésson, goðorðsmaður á Völlum á Rangárvöllum, var veginn af mönnum Gissurar Þorvaldssonar jarls. Eftir dauða sinn var Þórður nefndur síðasti Oddaverjinn.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1922",
+      "texti": "Fyrsta íslenska myntin fór í dreifingu í Reykjavík: 10 aura og 25 aura peningar. Krónupeningurinn lét þó bíða eftir sér til ársins 1925.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1950",
-      "texti": "Mengun í lofti olli því að dimmt var fram eftir degi víða um land og sólin virtist bláleit. Talið var að mengunin hefði borist frá eldgosi á Filippseyjum eða skógareldum í Norður-Ameríku.",
+      "ar": "1941",
+      "texti": "Menningar- og minningarsjóður kvenna var stofnaður á Íslandi.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1970",
-      "texti": "Fokker Friendship-farþegavél Flugfélags Íslands fórst á Mykinesi í Færeyjum. Um borð voru 30 farþegar og fjögurra manna áhöfn; átta létust, þar af einn Íslendingur.",
-      "landshluti": "Erlendis"
-    },
-    {
-      "ar": "2006",
-      "texti": "Um 10–15 þúsund manns gengu niður Laugaveg til að mótmæla stóriðjustefnu ríkisstjórnarinnar. Gangan var talin fjölmennasta mótmælaganga á Íslandi frá 24. maí 1973.",
+      "ar": "2002",
+      "texti": "Skálinn, viðbygging við Alþingishúsið, var vígður. Þinghúsið fékk þar með meira olnbogarými, þótt stjórnmálin verði seint sögð rúmgóð.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Serena Williams",
-      "starfsgrein": "tennisleikari",
-      "ar": "1981"
+      "nafn": "Gwyneth Paltrow",
+      "starfsgrein": "leikkona og athafnakona",
+      "ar": "1972"
     },
     {
-      "nafn": "Olivia Newton-John",
-      "starfsgrein": "söngkona og leikkona",
-      "ar": "1948"
+      "nafn": "Avril Lavigne",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1984"
     },
     {
-      "nafn": "Linda Hamilton",
+      "nafn": "Jenna Ortega",
       "starfsgrein": "leikkona",
-      "ar": "1956"
+      "ar": "2002"
     },
     {
-      "nafn": "T. S. Eliot",
-      "starfsgrein": "skáld, leikskáld og gagnrýnandi",
-      "ar": "1888"
+      "nafn": "Meat Loaf",
+      "starfsgrein": "söngvari og leikari",
+      "ar": "1947"
     },
     {
-      "nafn": "George Gershwin",
-      "starfsgrein": "tónskáld og píanóleikari",
-      "ar": "1898"
+      "nafn": "Francesco Totti",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1976"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Guðmundur góði Arason",
-      "starfsgrein": "Hólabiskup",
-      "ar": "1161"
+      "nafn": "Bríet Bjarnhéðinsdóttir",
+      "starfsgrein": "ritstjóri og kvenréttindafrömuður",
+      "ar": "1856"
     },
     {
-      "nafn": "Gunnar Karlsson",
-      "starfsgrein": "sagnfræðingur",
-      "ar": "1939"
+      "nafn": "Jón Steinar Gunnlaugsson",
+      "starfsgrein": "lögmaður og fyrrverandi hæstaréttardómari",
+      "ar": "1947"
     },
     {
-      "nafn": "Ólafur Jóhann Ólafsson",
-      "starfsgrein": "rithöfundur og viðskiptajöfur",
-      "ar": "1962"
+      "nafn": "Guðrún Nordal",
+      "starfsgrein": "íslenskufræðingur",
+      "ar": "1960"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hver áttaði sig á fölsku eldflaugaviðvöruninni árið 1983?",
+      "spurning": "Hvaða eimreið dró lest á opnunardegi Stockton–Darlington-járnbrautarinnar árið 1825?",
       "svor": [
-        "Stanislav Petrov",
-        "Francis Drake",
-        "Yves Rossy",
-        "George Gershwin"
+        "Locomotion No. 1",
+        "Rocket No. 2",
+        "Steam Queen",
+        "Darlington Express"
       ],
       "rett": 0,
-      "skyring": "Stanislav Petrov hélt ró sinni þegar tölvukerfin gerðu það svo sannarlega ekki."
+      "skyring": "Locomotion No. 1 fékk heiðurinn — nafnið var ekki beinlínis feimið við hlutverk sitt."
     },
     {
-      "spurning": "Hvaða skip lauk hnattsiglingu sinni í Plymouth árið 1580?",
+      "spurning": "Hvaða íslensku myntir fóru fyrst í dreifingu árið 1922?",
       "svor": [
-        "Australia II",
-        "Gullna hindin",
-        "Joola",
-        "Express Samina"
+        "1 og 5 aura peningar",
+        "10 og 25 aura peningar",
+        "50 aura og 1 krónu peningar",
+        "1 og 2 krónu peningar"
       ],
       "rett": 1,
-      "skyring": "Gullna hindin bar Francis Drake aftur til Plymouth eftir ferðina miklu."
+      "skyring": "Það voru 10 og 25 aurar; krónupeningurinn mætti ekki til leiks fyrr en 1925."
     },
     {
-      "spurning": "Hvaða tennisstjarna á afmæli 26. september?",
+      "spurning": "Hver tilkynnti áform um GNU-kerfið árið 1983?",
       "svor": [
-        "Linda Hamilton",
-        "Olivia Newton-John",
-        "Serena Williams",
-        "Talulah Riley"
+        "Bill Gates",
+        "Steve Jobs",
+        "Richard Stallman",
+        "Tim Berners-Lee"
       ],
       "rett": 2,
-      "skyring": "Serena Williams fæddist árið 1981 og á því sviðið í þessum tennisleik dagsins."
+      "skyring": "Richard Stallman ýtti GNU úr vör og gerði hugbúnaðarfrelsi að stórmáli."
     }
   ],
-  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
-  "tonlistUK": "Band of Gold – Freda Payne (1970)",
-  "bio": "Grease (1978)",
+  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "tonlistUK": "Dancing in the Moonlight – Toploader (2000)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er rökkur eða dauf birta þegar dagur og nótt mætast."
+    "ord": "goðorðsmaður",
+    "skyring": "Goðorðsmaður var maður sem fór með goðorð og hafði pólitískt og samfélagslegt forræði á þjóðveldisöld."
   },
-  "vissir_thu": "Árið 1983 lauk 132 ára samfelldri sigurgöngu New York Yacht Club í Ameríkubikarnum þegar ástralska skútan Australia II vann keppnina.",
-  "utvarpspistill": "Í dag, 26. september, minnumst við þess að Francis Drake lauk hnattsiglingu sinni árið 1580 þegar Gullna hindin kom til Plymouth. Árið 1983 sýndi Stanislav Petrov ótrúlega yfirvegun og greindi falska eldflaugaviðvörun sem hefði getað haft skelfilegar afleiðingar. Afmælisbörnin eru ekki af verri endanum: Serena Williams, Olivia Newton-John og T. S. Eliot. Og árið 2008 flaug Yves Rossy yfir Ermarsund með þotuvængi á bakinu — heldur ævintýralegri morgunferð en strætó.",
-  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi í dag, jafnvel þótt það taki þrjár tilraunir og einn kaffibolla. Gamalt samtal gæti fengið nýjan endi, svo dustaðu rykið af kurteisinni og settu glottið í gang.",
+  "vissir_thu": "Landamærin sem Melno-sáttmálinn markaði árið 1422 héldust nær óbreytt í um fimm aldir.",
+  "stjornuspa": "Vogin ætti að vega orð sín af nákvæmni í dag, en ekki svo lengi að gufulestin fari án hennar. Gamalt erindi eða gleymd hugmynd gæti reynst gulls ígildi — eða að minnsta kosti 25 aura virði.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg/500px-Retrato_de_Julio_C%C3%A9sar_%2826724093101%29_%28cropped%29.jpg",
-    "ar": "-46",
-    "texti": "Júlíus Caesar vígði hof Venus Genetrix í Róm, en Venus var talin goðsögulegur ættfaðir fjölskyldu hans. Rómverjar kunnu sannarlega að gera ættarmót stór í sniðum.",
-    "heimild": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Teutonic_Order_1410.png/500px-Teutonic_Order_1410.png",
+    "ar": "1422",
+    "texti": "Melno-sáttmálinn var undirritaður og markaði landamæri Prússlands og Litháens. Mörkin héldust nær óbreytt í um 500 ár, sem verður að teljast óvenjulöng ending á striki á korti.",
+    "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Melno",
     "breidd": 330,
-    "haed": 448
+    "haed": 287
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-09-27",
+  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
