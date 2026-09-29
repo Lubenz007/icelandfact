@@ -1,157 +1,147 @@
 {
-  "date": "2026-09-28",
-  "dagur": 28,
+  "date": "2026-09-29",
+  "dagur": 29,
   "manudur": "september",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 271,
-  "sunrise": "07:27",
-  "sunset": "19:07",
-  "mmdd": "09-28",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 272,
+  "sunrise": "07:30",
+  "sunset": "19:03",
+  "mmdd": "09-29",
   "manudurNr": 9,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 28. september! Í dag siglum við með Normönnum, gægjumst í mygluskál Flemings og minnumst þess að jafnvel páfadómur getur orðið óvenju stutt vakt. Vogin heldur auðvitað öllu í jafnvægi — eða reynir það að minnsta kosti með virðulegu glotti.",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 29. september! Í dag liggur leiðin frá víkingum í Kantaraborg til Maföldu í Argentínu, með viðkomu hjá Landssímanum og ókláruðu Disney-ævintýri — sagan kann sannarlega að halda mörgum boltum á lofti.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1066",
-      "texti": "Vilhjálmur sigursæli og um 600 skipa floti hans lentu við Pevensey í Sussex. Þar hófst landvinning Normanna á Englandi, með afleiðingum fyrir tungumál, stjórnskipan og ótal skólabækur."
+      "ar": "1011",
+      "texti": "Eftir viknalangt umsátur náði her víkinga Kantaraborg á sitt vald og tók Ælfheah erkibiskup til fanga. Þetta var engin kurteisisheimsókn að norrænum sið."
     },
     {
-      "ar": "1821",
-      "texti": "Sjálfstæðisyfirlýsing Mexíkóska keisaradæmisins frá Spáni var samin í Þjóðarhöllinni í Mexíkóborg. Langri sjálfstæðisbaráttu var þar með gefinn formlegur lokapunktur."
+      "ar": "1760",
+      "texti": "Williamsburg Bray-skólinn tók til starfa að tillögu Benjamins Franklin. Byggingin er elsta varðveitta skólahús Bandaríkjanna sem sérstaklega var ætlað menntun svartra barna."
     },
     {
-      "ar": "1928",
-      "texti": "Alexander Fleming tók eftir bakteríudrepandi myglu á rannsóknarstofu sinni og uppgötvaði penísilín. Óreiða á vinnuborði reyndist sjaldan jafn heilladrjúg."
+      "ar": "1941",
+      "texti": "Nasistasveitir, með aðstoð úkraínskra samverkamanna, hófu fjöldamorðin í Babyn Jar-gili í Kyiv. Meira en 30.000 gyðingar voru myrtir þar á tveimur dögum og þúsundir til viðbótar næstu mánuði."
     },
     {
-      "ar": "1978",
-      "texti": "Jóhannes Páll 1. páfi lést aðeins 33 dögum eftir kjör sitt, að því er virtist úr hjartadrepi. Árið varð því fyrsta ár þriggja páfa síðan 1605."
+      "ar": "1964",
+      "texti": "Argentínska teiknimyndasagan Mafalda eftir Quino birtist í dagblaði í fyrsta sinn. Hin unga og bráðsnjalla Mafalda varð síðar alþjóðlegt tákn forvitni, samfélagsgagnrýni og hárbeitts barnsvits."
     },
     {
-      "ar": "2023",
-      "texti": "Hið fræga Sycamore Gap-tré í Northumberland á Englandi var fellt með ólögmætum hætti. Tréð hafði staðið við Hadríanusarmúr og var orðið eitt þekktasta landslagsmerki Bretlands."
+      "ar": "1991",
+      "texti": "Disney-myndin Beauty and the Beast var frumsýnd ókláruð á kvikmyndahátíðinni í New York. Áhorfendur heilluðust þrátt fyrir hráar teikningar — stundum má greinilega sjá fegurðina áður en síðasta pensilstrikið er komið."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1930",
-      "texti": "Elliheimilið Grund í Reykjavík var vígt og hóf þar með langa þjónustusögu sína.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1906",
+      "texti": "Landssími Íslands tók til starfa og Hannes Hafstein ráðherra sendi konungi fyrsta símskeytið um nýlagðan neðansjávarstreng. Ísland var þar með komið í samband án þess að þurfa að bíða eftir næsta skipi.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1943",
-      "texti": "Haraldur Böðvarsson útgerðarmaður og eiginkona hans gáfu Akraneskaupstað Bíóhöllina, með því skilyrði að tekjunum yrði varið til menningarmála.",
-      "landshluti": "Vesturland"
+      "ar": "1974",
+      "texti": "Auður Eir Vilhjálmsdóttir varð fyrst kvenna til að vígjast prestur á Íslandi og markaði tímamót í íslenskri kirkjusögu.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1967",
-      "texti": "Fyrsti sjúklingurinn lagðist inn á Borgarspítalann í Reykjavík.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1990",
+      "texti": "Nesjavallavirkjun í Grafningi var gangsett og var fyrsti áfangi hennar 100 megawött. Jarðhitinn fékk þar með enn stærra hlutverk í daglegu lífi landsmanna.",
+      "landshluti": "Suðurland"
     },
     {
-      "ar": "2006",
-      "texti": "Lokað var fyrir hjáveitugöng Kárahnjúkastíflu og myndun Hálslóns hófst.",
-      "landshluti": "Austurland"
+      "ar": "2008",
+      "texti": "Ríkissjóður tilkynnti áform um kaup á 75 prósenta hlut í Glitni til að forða bankanum frá gjaldþroti. Þessi dagur er almennt talinn marka upphaf íslenska bankahrunsins.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Brigitte Bardot",
-      "starfsgrein": "frönsk leikkona og dýraverndarsinni",
-      "ar": "1934"
+      "nafn": "Halsey",
+      "starfsgrein": "bandarísk söngkona",
+      "ar": "1994"
     },
     {
-      "nafn": "Konfúsíus",
-      "starfsgrein": "kínverskur heimspekingur og kennari",
-      "ar": "551 f.Kr."
+      "nafn": "Erika Eleniak",
+      "starfsgrein": "bandarísk leikkona og fyrirsæta",
+      "ar": "1969"
     },
     {
-      "nafn": "Bam Margera",
-      "starfsgrein": "bandarískur hjólabrettamaður, leikari og áhættuatriðaþátttakandi",
-      "ar": "1979"
+      "nafn": "Chrissy Metz",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1980"
     },
     {
-      "nafn": "Dita Von Teese",
-      "starfsgrein": "bandarísk fyrirsæta og dansari",
-      "ar": "1972"
+      "nafn": "Anita Ekberg",
+      "starfsgrein": "sænsk-ítölsk leikkona og fyrirsæta",
+      "ar": "1931"
     },
     {
-      "nafn": "Ben E. King",
-      "starfsgrein": "bandarískur söngvari og lagahöfundur",
-      "ar": "1938"
+      "nafn": "Brett Anderson",
+      "starfsgrein": "enskur söngvari og lagahöfundur",
+      "ar": "1967"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Arnmundur Ernst Björnsson",
-      "starfsgrein": "leikari",
-      "ar": "1989"
-    },
-    {
-      "nafn": "Björn Gunnlaugsson",
-      "starfsgrein": "landmælingamaður",
-      "ar": "1788"
-    },
-    {
-      "nafn": "Ragnar H. Ragnar",
-      "starfsgrein": "tónskáld og tónlistarkennari",
-      "ar": "1898"
+      "nafn": "Bólu-Hjálmar",
+      "starfsgrein": "skáld",
+      "ar": "1796"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða uppgötvun gerði Alexander Fleming árið 1928 eftir að hafa tekið eftir myglu?",
+      "spurning": "Hvaða Disney-mynd var frumsýnd ókláruð á kvikmyndahátíðinni í New York árið 1991?",
       "svor": [
-        "Penísilín",
-        "Insúlín",
-        "Röntgengeisla",
-        "Bóluefni gegn bólusótt"
+        "Beauty and the Beast",
+        "Aladdin",
+        "The Lion King",
+        "Pocahontas"
       ],
       "rett": 0,
-      "skyring": "Myglan leiddi Fleming að penísilíni — glæsilegur sigur vísindanna og dálítið óhreins vinnuborðs."
+      "skyring": "Beauty and the Beast vann hug og hjörtu áhorfenda áður en teiknararnir höfðu lokið síðustu handtökunum."
     },
     {
-      "spurning": "Hvar lenti floti Vilhjálms sigursæla árið 1066?",
+      "spurning": "Hver varð fyrst kvenna vígð til prests á Íslandi?",
       "svor": [
-        "Dover",
-        "Pevensey",
-        "Plymouth",
-        "Liverpool"
+        "Vigdís Finnbogadóttir",
+        "Auður Eir Vilhjálmsdóttir",
+        "Bríet Bjarnhéðinsdóttir",
+        "Auður Ava Ólafsdóttir"
       ],
       "rett": 1,
-      "skyring": "Flotinn lenti við Pevensey og landvinning Normanna hófst af fullum krafti."
+      "skyring": "Auður Eir Vilhjálmsdóttir braut blað í íslenskri kirkjusögu árið 1974."
     },
     {
-      "spurning": "Hvaða íslenska mannvirki byrjaði að safna vatni í Hálslón árið 2006?",
+      "spurning": "Hvaða persóna birtist fyrst í argentínskum dagblöðum árið 1964?",
       "svor": [
-        "Búrfellsvirkjun",
-        "Blönduvirkjun",
-        "Kárahnjúkastífla",
-        "Sogsvirkjun"
+        "Tinni",
+        "Garfield",
+        "Mafalda",
+        "Ástríkur"
       ],
       "rett": 2,
-      "skyring": "Þegar hjáveitugöngum Kárahnjúkastíflu var lokað hófst myndun Hálslóns."
+      "skyring": "Mafalda mætti til leiks með stórar spurningar og lítið umburðarlyndi fyrir vitleysu heimsins."
     }
   ],
-  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
-  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
-  "bio": "Jurassic Park (1993)",
+  "tonlistUSA": "Let's Go Crazy – Prince and the Revolution (1984)",
+  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "bio": "Beauty and the Beast (1991)",
   "ord_dagsins": {
-    "ord": "dægurþras",
-    "skyring": "Dægurþras er þrætugjarnt karp um málefni líðandi stundar."
+    "ord": "hauströkkur",
+    "skyring": "Hauströkkur er rökkrið á haustkvöldi, þegar dagsbirtan víkur snemma og ljósin í gluggunum verða sérlega hlýleg."
   },
-  "vissir_thu": "Konfúsíus fæddist meira en tveimur árþúsundum á undan öðrum afmælisbörnum dagsins á þessum lista.",
-  "stjornuspa": "Vogin ætti að dusta rykið af kasettutækinu, stilla axlapúðana og taka eina ákvörðun án þess að stofna nefnd. Rómantíkin liggur í loftinu, en athugaðu fyrst hvort það sé ekki bara hárspreyið.",
+  "vissir_thu": "Beauty and the Beast var sýnd ókláruð á kvikmyndahátíðinni í New York, þar sem hlutar hennar voru enn aðeins grófar teikningar, en áhorfendur fögnuðu henni engu að síður.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skylduverka og þess að fletta gömlum myndaalbúmum yfir kaffibolla. Varastu þó að vega og meta hádegismatinn svo lengi að kvöldmaturinn taki við.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/William_the_Conqueror_%28TFA%29.jpg/500px-William_the_Conqueror_%28TFA%29.jpg",
-    "ar": "1066",
-    "texti": "Vilhjálmur sigursæli og um 600 skipa floti hans lentu við Pevensey í Sussex. Þar hófst landvinning Normanna á Englandi, með afleiðingum fyrir tungumál, stjórnskipan og ótal skólabækur.",
-    "heimild": "https://en.wikipedia.org/wiki/William_the_Conqueror",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canterburycathedralaelfhaehwindows.jpg/500px-Canterburycathedralaelfhaehwindows.jpg",
+    "ar": "1011",
+    "texti": "Eftir viknalangt umsátur náði her víkinga Kantaraborg á sitt vald og tók Ælfheah erkibiskup til fanga. Þetta var engin kurteisisheimsókn að norrænum sið.",
+    "heimild": "https://en.wikipedia.org/wiki/Siege_of_Canterbury",
     "breidd": 330,
-    "haed": 550
+    "haed": 191
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-28",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-09-29",
+  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
