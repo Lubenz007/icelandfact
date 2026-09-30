@@ -1,147 +1,157 @@
 {
-  "date": "2026-09-29",
-  "dagur": 29,
+  "date": "2026-09-30",
+  "dagur": 30,
   "manudur": "september",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 272,
-  "sunrise": "07:30",
-  "sunset": "19:03",
-  "mmdd": "09-29",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 273,
+  "sunrise": "07:33",
+  "sunset": "18:59",
+  "mmdd": "09-30",
   "manudurNr": 9,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 29. september! Í dag liggur leiðin frá víkingum í Kantaraborg til Maföldu í Argentínu, með viðkomu hjá Landssímanum og ókláruðu Disney-ævintýri — sagan kann sannarlega að halda mörgum boltum á lofti.",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan síðasta septemberdag! Í dag sveiflum við okkur frá Töfraflautunni til veraldarvefsins, með viðkomu í íslensku sjónvarpi og smá Formúlu 1-hraða — en reynum að lenda mjúklega.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1011",
-      "texti": "Eftir viknalangt umsátur náði her víkinga Kantaraborg á sitt vald og tók Ælfheah erkibiskup til fanga. Þetta var engin kurteisisheimsókn að norrænum sið."
+      "ar": "1791",
+      "texti": "Wolfgang Amadeus Mozart stjórnaði frumsýningu Töfraflautunnar í Vínarborg. Hún var síðasta ópera hans og hefur síðan töfrað áhorfendur með blöndu ævintýra, gamansemi og tónlistarlegs glæsileika."
     },
     {
-      "ar": "1760",
-      "texti": "Williamsburg Bray-skólinn tók til starfa að tillögu Benjamins Franklin. Byggingin er elsta varðveitta skólahús Bandaríkjanna sem sérstaklega var ætlað menntun svartra barna."
+      "ar": "1882",
+      "texti": "Vulcan Street-rafstöðin í Appleton í Wisconsin tók til starfa. Hún var fyrsta vatnsaflsstöðin í Norður-Ameríku sem þjónaði bæði heimilum og fyrirtækjum — rafmagnið var sem sagt farið að mæta til vinnu."
     },
     {
-      "ar": "1941",
-      "texti": "Nasistasveitir, með aðstoð úkraínskra samverkamanna, hófu fjöldamorðin í Babyn Jar-gili í Kyiv. Meira en 30.000 gyðingar voru myrtir þar á tveimur dögum og þúsundir til viðbótar næstu mánuði."
+      "ar": "1938",
+      "texti": "Adolf Hitler, Benito Mussolini, Neville Chamberlain og Édouard Daladier undirrituðu Münchenarsamkomulagið, sem skyldaði Tékkóslóvakíu til að láta Súdetahéruðin af hendi til Þýskalands. Samkomulagið varð síðar eitt þekktasta dæmið um undanlátsstefnu í aðdraganda síðari heimsstyrjaldar."
     },
     {
-      "ar": "1964",
-      "texti": "Argentínska teiknimyndasagan Mafalda eftir Quino birtist í dagblaði í fyrsta sinn. Hin unga og bráðsnjalla Mafalda varð síðar alþjóðlegt tákn forvitni, samfélagsgagnrýni og hárbeitts barnsvits."
+      "ar": "1998",
+      "texti": "ICANN, sjálfseignarstofnunin sem hefur umsjón með úthlutun léna og IP-talna á internetinu, var formlega stofnuð. Ósýnileg en mikilvæg umferðarstjórn á upplýsingahraðbrautinni var þar með komin á laggirnar."
     },
     {
-      "ar": "1991",
-      "texti": "Disney-myndin Beauty and the Beast var frumsýnd ókláruð á kvikmyndahátíðinni í New York. Áhorfendur heilluðust þrátt fyrir hráar teikningar — stundum má greinilega sjá fegurðina áður en síðasta pensilstrikið er komið."
+      "ar": "2009",
+      "texti": "Jarðskjálfti af stærðinni 7,6 reið yfir undan suðurströnd Súmötru í Indónesíu. Alls létust 1.115 manns og talið er að um 1,2 milljónir hafi orðið fyrir áhrifum hamfaranna."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1906",
-      "texti": "Landssími Íslands tók til starfa og Hannes Hafstein ráðherra sendi konungi fyrsta símskeytið um nýlagðan neðansjávarstreng. Ísland var þar með komið í samband án þess að þurfa að bíða eftir næsta skipi.",
+      "ar": "1148",
+      "texti": "Bærinn í Hítardal í Mýrasýslu brann til kaldra kola og meira en 70 manns fórust, þar á meðal Magnús Einarsson Skálholtsbiskup. Eldsvoðinn er sá mannskæðasti í Íslandssögunni.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1966",
+      "texti": "Útsendingar Sjónvarpsins hófust og íslensk kvöldstund fékk nýjan miðpunkt. Stofan varð smám saman að litlu leikhúsi þjóðarinnar.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1974",
-      "texti": "Auður Eir Vilhjálmsdóttir varð fyrst kvenna til að vígjast prestur á Íslandi og markaði tímamót í íslenskri kirkjusögu.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1990",
-      "texti": "Nesjavallavirkjun í Grafningi var gangsett og var fyrsti áfangi hennar 100 megawött. Jarðhitinn fékk þar með enn stærra hlutverk í daglegu lífi landsmanna.",
+      "ar": "1994",
+      "texti": "Ný 302 metra löng brú yfir Kúðafljót var tekin í notkun. Með henni styttist hringvegurinn um átta kílómetra, sem er býsna rausnarlegur sparnaður í einni brú.",
       "landshluti": "Suðurland"
     },
     {
-      "ar": "2008",
-      "texti": "Ríkissjóður tilkynnti áform um kaup á 75 prósenta hlut í Glitni til að forða bankanum frá gjaldþroti. Þessi dagur er almennt talinn marka upphaf íslenska bankahrunsins.",
-      "landshluti": "Landið allt"
+      "ar": "2006",
+      "texti": "Bandaríkjaher yfirgaf formlega herstöðina á Keflavíkurflugvelli og Íslendingar tóku við stjórn hennar. Þar lauk löngum og áhrifamiklum kafla í sögu varnarsamstarfsins.",
+      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Halsey",
-      "starfsgrein": "bandarísk söngkona",
-      "ar": "1994"
+      "nafn": "Max Verstappen",
+      "starfsgrein": "hollenskur kappakstursökumaður",
+      "ar": "1997"
     },
     {
-      "nafn": "Erika Eleniak",
-      "starfsgrein": "bandarísk leikkona og fyrirsæta",
-      "ar": "1969"
+      "nafn": "Monica Bellucci",
+      "starfsgrein": "ítölsk leikkona og fyrirsæta",
+      "ar": "1964"
     },
     {
-      "nafn": "Chrissy Metz",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1980"
+      "nafn": "Kieran Culkin",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1982"
     },
     {
-      "nafn": "Anita Ekberg",
-      "starfsgrein": "sænsk-ítölsk leikkona og fyrirsæta",
-      "ar": "1931"
+      "nafn": "Truman Capote",
+      "starfsgrein": "bandarískur rithöfundur og handritshöfundur",
+      "ar": "1924"
     },
     {
-      "nafn": "Brett Anderson",
-      "starfsgrein": "enskur söngvari og lagahöfundur",
-      "ar": "1967"
+      "nafn": "Rumi",
+      "starfsgrein": "persneskt skáld og súfískur dulspekingur",
+      "ar": "1207"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Bólu-Hjálmar",
-      "starfsgrein": "skáld",
-      "ar": "1796"
+      "nafn": "Gunnar Ingi Birgisson",
+      "starfsgrein": "stjórnmálamaður og fyrrverandi bæjarstjóri Kópavogs",
+      "ar": "1947"
+    },
+    {
+      "nafn": "Ragnheiður Elín Árnadóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Rósa Guðný Þórsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1958"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða Disney-mynd var frumsýnd ókláruð á kvikmyndahátíðinni í New York árið 1991?",
+      "spurning": "Hvaða óperu stjórnaði Mozart á frumsýningunni 30. september 1791?",
       "svor": [
-        "Beauty and the Beast",
-        "Aladdin",
-        "The Lion King",
-        "Pocahontas"
+        "Töfraflautunni",
+        "Carmen",
+        "Aidu",
+        "La Bohème"
       ],
       "rett": 0,
-      "skyring": "Beauty and the Beast vann hug og hjörtu áhorfenda áður en teiknararnir höfðu lokið síðustu handtökunum."
+      "skyring": "Mozart stjórnaði sjálfur frumsýningu Töfraflautunnar í Vínarborg."
     },
     {
-      "spurning": "Hver varð fyrst kvenna vígð til prests á Íslandi?",
+      "spurning": "Hvaða íslenski fjölmiðill hóf útsendingar árið 1966?",
       "svor": [
-        "Vigdís Finnbogadóttir",
-        "Auður Eir Vilhjálmsdóttir",
-        "Bríet Bjarnhéðinsdóttir",
-        "Auður Ava Ólafsdóttir"
+        "Rás 2",
+        "Sjónvarpið",
+        "Stöð 2",
+        "Bylgjan"
       ],
       "rett": 1,
-      "skyring": "Auður Eir Vilhjálmsdóttir braut blað í íslenskri kirkjusögu árið 1974."
+      "skyring": "Sjónvarpið hóf útsendingar og stofan fékk skyndilega dagskrárstjóra."
     },
     {
-      "spurning": "Hvaða persóna birtist fyrst í argentínskum dagblöðum árið 1964?",
+      "spurning": "Hvað styttist hringvegurinn mikið þegar brúin yfir Kúðafljót var tekin í notkun?",
       "svor": [
-        "Tinni",
-        "Garfield",
-        "Mafalda",
-        "Ástríkur"
+        "Um tvo kílómetra",
+        "Um fimm kílómetra",
+        "Um átta kílómetra",
+        "Um fimmtán kílómetra"
       ],
       "rett": 2,
-      "skyring": "Mafalda mætti til leiks með stórar spurningar og lítið umburðarlyndi fyrir vitleysu heimsins."
+      "skyring": "Brúin stytti hringveginn um átta kílómetra og sparaði ferðalöngum vænan krók."
     }
   ],
-  "tonlistUSA": "Let's Go Crazy – Prince and the Revolution (1984)",
-  "tonlistUK": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "bio": "Beauty and the Beast (1991)",
+  "tonlistUSA": "Girl I'm Gonna Miss You – Milli Vanilli (1989)",
+  "tonlistUK": "Ride on Time – Black Box (1989)",
+  "bio": "American Beauty (1999)",
   "ord_dagsins": {
-    "ord": "hauströkkur",
-    "skyring": "Hauströkkur er rökkrið á haustkvöldi, þegar dagsbirtan víkur snemma og ljósin í gluggunum verða sérlega hlýleg."
+    "ord": "orðheppinn",
+    "skyring": "Sá sem er orðheppinn á auðvelt með að finna viðeigandi, snjöll eða skemmtileg orð."
   },
-  "vissir_thu": "Beauty and the Beast var sýnd ókláruð á kvikmyndahátíðinni í New York, þar sem hlutar hennar voru enn aðeins grófar teikningar, en áhorfendur fögnuðu henni engu að síður.",
-  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skylduverka og þess að fletta gömlum myndaalbúmum yfir kaffibolla. Varastu þó að vega og meta hádegismatinn svo lengi að kvöldmaturinn taki við.",
+  "vissir_thu": "Töfraflautan var síðasta ópera Mozarts og hann stjórnaði sjálfur frumsýningu hennar í Vínarborg 30. september 1791.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skyldurækni og þess að fá sér aðeins lengri kaffitíma. Ef tveir kostir virðast jafn góðir skaltu velja þann sem hefði litið betur út í litsjónvarpi árið 1966.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Canterburycathedralaelfhaehwindows.jpg/500px-Canterburycathedralaelfhaehwindows.jpg",
-    "ar": "1011",
-    "texti": "Eftir viknalangt umsátur náði her víkinga Kantaraborg á sitt vald og tók Ælfheah erkibiskup til fanga. Þetta var engin kurteisisheimsókn að norrænum sið.",
-    "heimild": "https://en.wikipedia.org/wiki/Siege_of_Canterbury",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/500px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
+    "ar": "1791",
+    "texti": "Wolfgang Amadeus Mozart stjórnaði frumsýningu Töfraflautunnar í Vínarborg. Hún var síðasta ópera hans og hefur síðan töfrað áhorfendur með blöndu ævintýra, gamansemi og tónlistarlegs glæsileika.",
+    "heimild": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
     "breidd": 330,
-    "haed": 191
+    "haed": 440
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-29",
-  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-09-30",
+  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
