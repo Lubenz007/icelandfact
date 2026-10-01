@@ -1,157 +1,152 @@
 {
-  "date": "2026-09-30",
-  "dagur": 30,
-  "manudur": "september",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 273,
-  "sunrise": "07:33",
-  "sunset": "18:59",
-  "mmdd": "09-30",
-  "manudurNr": 9,
+  "date": "2026-10-01",
+  "dagur": 1,
+  "manudur": "október",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 274,
+  "sunrise": "07:36",
+  "sunset": "18:56",
+  "mmdd": "10-01",
+  "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan síðasta septemberdag! Í dag sveiflum við okkur frá Töfraflautunni til veraldarvefsins, með viðkomu í íslensku sjónvarpi og smá Formúlu 1-hraða — en reynum að lenda mjúklega.",
+  "kvedja": "Góðan 1. október! Í dag sveiflum við okkur frá Yosemite til Torgs hins himneska friðar, með viðkomu í hnefaleikahringnum í Manila og gömlum skólahúsum Reykjavíkur. Þetta er býsna langt ferðalag fyrir einn haustdag, svo taktu með þér nesti og sögulegt glott.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1791",
-      "texti": "Wolfgang Amadeus Mozart stjórnaði frumsýningu Töfraflautunnar í Vínarborg. Hún var síðasta ópera hans og hefur síðan töfrað áhorfendur með blöndu ævintýra, gamansemi og tónlistarlegs glæsileika."
+      "ar": "1890",
+      "texti": "Bandaríkjaþing stofnaði Yosemite-þjóðgarðinn í Kaliforníu, meðal annars fyrir hvatningu náttúruverndarsinnans Johns Muir. Þar fékk stórbrotin náttúran loks formlegan skjöld gegn því að menn breyttu öllu í timbur og tekjur."
     },
     {
-      "ar": "1882",
-      "texti": "Vulcan Street-rafstöðin í Appleton í Wisconsin tók til starfa. Hún var fyrsta vatnsaflsstöðin í Norður-Ameríku sem þjónaði bæði heimilum og fyrirtækjum — rafmagnið var sem sagt farið að mæta til vinnu."
+      "ar": "1949",
+      "texti": "Mao Zedong lýsti opinberlega yfir stofnun Alþýðulýðveldisins Kína á Torgi hins himneska friðar í Beijing. Þar með hófst nýr og afdrifaríkur kafli í sögu fjölmennasta ríkis heims."
     },
     {
-      "ar": "1938",
-      "texti": "Adolf Hitler, Benito Mussolini, Neville Chamberlain og Édouard Daladier undirrituðu Münchenarsamkomulagið, sem skyldaði Tékkóslóvakíu til að láta Súdetahéruðin af hendi til Þýskalands. Samkomulagið varð síðar eitt þekktasta dæmið um undanlátsstefnu í aðdraganda síðari heimsstyrjaldar."
+      "ar": "1975",
+      "texti": "Muhammad Ali sigraði Joe Frazier í hinum goðsagnakennda hnefaleikabardaga „Thrilla in Manila“. Bardaginn varð ein frægasta og grimmasta viðureign í sögu þungavigtarinnar."
     },
     {
-      "ar": "1998",
-      "texti": "ICANN, sjálfseignarstofnunin sem hefur umsjón með úthlutun léna og IP-talna á internetinu, var formlega stofnuð. Ósýnileg en mikilvæg umferðarstjórn á upplýsingahraðbrautinni var þar með komin á laggirnar."
+      "ar": "1989",
+      "texti": "Danmörk lögleiddi staðfesta samvist para af sama kyni, fyrst allra ríkja heims. Litla Danmörk tók þar stórt skref í réttindabaráttu hinsegin fólks."
     },
     {
-      "ar": "2009",
-      "texti": "Jarðskjálfti af stærðinni 7,6 reið yfir undan suðurströnd Súmötru í Indónesíu. Alls létust 1.115 manns og talið er að um 1,2 milljónir hafi orðið fyrir áhrifum hamfaranna."
+      "ar": "2018",
+      "texti": "Alþjóðadómstóllinn komst að þeirri niðurstöðu að Chile bæri ekki lagaleg skylda til að tryggja Bólivíu aftur aðgang að Kyrrahafinu, sem landið hafði misst á 19. öld. Landlukt Bólivía varð því áfram án eigin sjávarstrandar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1148",
-      "texti": "Bærinn í Hítardal í Mýrasýslu brann til kaldra kola og meira en 70 manns fórust, þar á meðal Magnús Einarsson Skálholtsbiskup. Eldsvoðinn er sá mannskæðasti í Íslandssögunni.",
-      "landshluti": "Vesturland"
+      "ar": "1846",
+      "texti": "Nýtt hús Lærða skólans í Reykjavík var vígt og skólinn settur þar í fyrsta sinn eftir flutninginn frá Bessastöðum.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1966",
-      "texti": "Útsendingar Sjónvarpsins hófust og íslensk kvöldstund fékk nýjan miðpunkt. Stofan varð smám saman að litlu leikhúsi þjóðarinnar.",
+      "ar": "1874",
+      "texti": "Kvennaskólinn í Reykjavík tók til starfa undir stjórn Þóru Melsteð og opnaði konum mikilvægar dyr að aukinni menntun.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1933",
+      "texti": "Ásta Magnúsdóttir var skipuð ríkisféhirðir og varð þar með fyrsta konan til að gegna opinberu embætti á Íslandi. Hún gegndi stöðunni í aldarfjórðung, svo þetta var engin stutt gestakoma.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1994",
-      "texti": "Ný 302 metra löng brú yfir Kúðafljót var tekin í notkun. Með henni styttist hringvegurinn um átta kílómetra, sem er býsna rausnarlegur sparnaður í einni brú.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "2006",
-      "texti": "Bandaríkjaher yfirgaf formlega herstöðina á Keflavíkurflugvelli og Íslendingar tóku við stjórn hennar. Þar lauk löngum og áhrifamiklum kafla í sögu varnarsamstarfsins.",
-      "landshluti": "Reykjanes"
+      "ar": "1987",
+      "texti": "Sjónvarpið hóf útsendingar á fimmtudögum, sem fram að því höfðu verið sjónvarpslausir. Fimmtudagskvöld þjóðarinnar fengu skyndilega bæði mynd og hljóð.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Max Verstappen",
-      "starfsgrein": "hollenskur kappakstursökumaður",
-      "ar": "1997"
+      "nafn": "Brie Larson",
+      "starfsgrein": "leikkona",
+      "ar": "1989"
     },
     {
-      "nafn": "Monica Bellucci",
-      "starfsgrein": "ítölsk leikkona og fyrirsæta",
-      "ar": "1964"
+      "nafn": "George Weah",
+      "starfsgrein": "knattspyrnumaður og stjórnmálamaður",
+      "ar": "1966"
     },
     {
-      "nafn": "Kieran Culkin",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1982"
+      "nafn": "André Rieu",
+      "starfsgrein": "fiðluleikari, tónskáld og hljómsveitarstjóri",
+      "ar": "1949"
     },
     {
-      "nafn": "Truman Capote",
-      "starfsgrein": "bandarískur rithöfundur og handritshöfundur",
-      "ar": "1924"
+      "nafn": "Ip Man",
+      "starfsgrein": "bardagalistamaður",
+      "ar": "1893"
     },
     {
-      "nafn": "Rumi",
-      "starfsgrein": "persneskt skáld og súfískur dulspekingur",
-      "ar": "1207"
+      "nafn": "George Peppard",
+      "starfsgrein": "leikari",
+      "ar": "1928"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Gunnar Ingi Birgisson",
-      "starfsgrein": "stjórnmálamaður og fyrrverandi bæjarstjóri Kópavogs",
-      "ar": "1947"
+      "nafn": "Hafsteinn Guðmundsson",
+      "starfsgrein": "íþróttakennari og æskulýðsfrömuður",
+      "ar": "1923"
     },
     {
-      "nafn": "Ragnheiður Elín Árnadóttir",
-      "starfsgrein": "stjórnmálakona",
-      "ar": "1967"
-    },
-    {
-      "nafn": "Rósa Guðný Þórsdóttir",
-      "starfsgrein": "leikkona",
-      "ar": "1958"
+      "nafn": "Jón Kr. Gunnarsson",
+      "starfsgrein": "skipstjóri",
+      "ar": "1929"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða óperu stjórnaði Mozart á frumsýningunni 30. september 1791?",
+      "spurning": "Hvaða land varð fyrst til að lögleiða staðfesta samvist para af sama kyni?",
       "svor": [
-        "Töfraflautunni",
-        "Carmen",
-        "Aidu",
-        "La Bohème"
+        "Danmörk",
+        "Svíþjóð",
+        "Ísland",
+        "Noregur"
       ],
       "rett": 0,
-      "skyring": "Mozart stjórnaði sjálfur frumsýningu Töfraflautunnar í Vínarborg."
+      "skyring": "Danmörk reið á vaðið árið 1989 og lét nágrannana hafa eitthvað nýtt til að ræða yfir kaffinu."
     },
     {
-      "spurning": "Hvaða íslenski fjölmiðill hóf útsendingar árið 1966?",
+      "spurning": "Hver sigraði Joe Frazier í bardaganum „Thrilla in Manila“?",
       "svor": [
-        "Rás 2",
-        "Sjónvarpið",
-        "Stöð 2",
-        "Bylgjan"
+        "George Foreman",
+        "Muhammad Ali",
+        "Mike Tyson",
+        "Joe Louis"
       ],
       "rett": 1,
-      "skyring": "Sjónvarpið hóf útsendingar og stofan fékk skyndilega dagskrárstjóra."
+      "skyring": "Muhammad Ali vann bardagann árið 1975 eftir ótrúlega harða viðureign."
     },
     {
-      "spurning": "Hvað styttist hringvegurinn mikið þegar brúin yfir Kúðafljót var tekin í notkun?",
+      "spurning": "Hvaða nýjung fékk íslenska þjóðin á fimmtudögum árið 1987?",
       "svor": [
-        "Um tvo kílómetra",
-        "Um fimm kílómetra",
-        "Um átta kílómetra",
-        "Um fimmtán kílómetra"
+        "Dagblöð í lit",
+        "Kvöldflug til Akureyrar",
+        "Sjónvarpsútsendingar",
+        "Símaþjónustu allan sólarhringinn"
       ],
       "rett": 2,
-      "skyring": "Brúin stytti hringveginn um átta kílómetra og sparaði ferðalöngum vænan krók."
+      "skyring": "Sjónvarpslausir fimmtudagar hurfu loks af dagskrá árið 1987."
     }
   ],
-  "tonlistUSA": "Girl I'm Gonna Miss You – Milli Vanilli (1989)",
-  "tonlistUK": "Ride on Time – Black Box (1989)",
-  "bio": "American Beauty (1999)",
+  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "The Social Network (2010)",
   "ord_dagsins": {
-    "ord": "orðheppinn",
-    "skyring": "Sá sem er orðheppinn á auðvelt með að finna viðeigandi, snjöll eða skemmtileg orð."
+    "ord": "haustbragur",
+    "skyring": "Haustbragur er það yfirbragð sem fylgir haustinu, svo sem kólnandi loft, fölnandi gróður og styttri dagar."
   },
-  "vissir_thu": "Töfraflautan var síðasta ópera Mozarts og hann stjórnaði sjálfur frumsýningu hennar í Vínarborg 30. september 1791.",
-  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skyldurækni og þess að fá sér aðeins lengri kaffitíma. Ef tveir kostir virðast jafn góðir skaltu velja þann sem hefði litið betur út í litsjónvarpi árið 1966.",
+  "vissir_thu": "Danmörk varð árið 1989 fyrsta ríki heims til að veita pörum af sama kyni formlega lagalega viðurkenningu með staðfestri samvist.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skylduverka og þess að horfa dreymandi út um gluggann eins og persóna í gömlu sjónvarpsleikriti. Taktu ákvörðun áður en kaffið kólnar; stjörnurnar hafa takmarkaða þolinmæði gagnvart nefndarfundum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/500px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg",
-    "ar": "1791",
-    "texti": "Wolfgang Amadeus Mozart stjórnaði frumsýningu Töfraflautunnar í Vínarborg. Hún var síðasta ópera hans og hefur síðan töfrað áhorfendur með blöndu ævintýra, gamansemi og tónlistarlegs glæsileika.",
-    "heimild": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/John_Muir_Watkins_Portrait_circa_1875_Edit.png/500px-John_Muir_Watkins_Portrait_circa_1875_Edit.png",
+    "ar": "1890",
+    "texti": "Bandaríkjaþing stofnaði Yosemite-þjóðgarðinn í Kaliforníu, meðal annars fyrir hvatningu náttúruverndarsinnans Johns Muir. Þar fékk stórbrotin náttúran loks formlegan skjöld gegn því að menn breyttu öllu í timbur og tekjur.",
+    "heimild": "https://en.wikipedia.org/wiki/John_Muir",
     "breidd": 330,
-    "haed": 440
+    "haed": 448
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-30",
+  "uppfaert": "2026-10-01",
   "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
