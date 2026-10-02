@@ -6,49 +6,49 @@
   "stjornumerki": "Vog",
   "sunrise": "07:38",
   "sunset": "18:54",
-  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 2. október, þar sem konungar snúa aftur, ostahjól rúlla um götur og réttlætið brýtur niður múra. Sagan er sjaldnast bragðlaus — og stundum er hún beinlínis með cheddar-keim.",
+  "kvedja": "Góðan 2. október, kæri lesandi! Í dag rennum við frá ensku konungskrúnunni yfir í ostauppþot, Broadway og íslensk göng — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós. Vogin biður þó alla um að halda jafnvægi, jafnvel þegar osturinn er í uppnámi.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1470",
-      "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn undir forystu Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Ensk miðaldasaga var sem sagt ekki ósvipuð stólaleik, nema með kórónum og herjum."
+      "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Enskar konungskrúnur sátu greinilega ekki alltaf fastar á höfði."
     },
     {
       "ar": "1766",
-      "texti": "Í mataróeirðum í Nottingham rændu bæjarbúar miklu magni af osti. Einn maður lét lífið þegar reynt var að koma á lögum og reglu, svo þessi sérkennilega „ostauppreisn“ var langt frá því að vera saklaus gleðiganga."
+      "texti": "Í mataróeirðum í Nottingham rændu bæjarbúar miklu magni af osti. Einn maður lést þegar reynt var að koma á lögum og reglu í þessari óvenju alvarlegu ostakreppu."
     },
     {
-      "ar": "1835",
-      "texti": "Mexíkóskir riddaraliðar, sem áttu að afvopna landnema við Gonzales í Texas, mættu vopnaðri mótspyrnu. Orrustan við Gonzales varð fyrsta vopnaða viðureign Texasbyltingarinnar."
+      "ar": "1913",
+      "texti": "Shubert-leikhúsið á Broadway opnaði dyr sínar með sýningu á Hamlet. Það var heldur dramatísk leið til að spyrja hvort nýtt leikhús ætti að vera eða ekki vera."
     },
     {
       "ar": "1967",
-      "texti": "Thurgood Marshall sór embættiseið sem fyrsti Bandaríkjamaðurinn af afrískum uppruna til að taka sæti í Hæstarétti Bandaríkjanna. Þar með féll einn mikilvægur múr í bandarískri réttarsögu."
+      "texti": "Thurgood Marshall sór embættiseið sem fyrsti svarti dómarinn við Hæstarétt Bandaríkjanna. Þar með var mikilvæg hindrun rofin í sögu bandarísks réttarfars."
     },
     {
       "ar": "2018",
-      "texti": "Blaðamaðurinn Jamal Khashoggi hjá The Washington Post var myrtur í ræðismannsskrifstofu Sádi-Arabíu í Istanbúl. Morðið vakti alþjóðlega reiði og beindi sjónum að öryggi blaðamanna og ábyrgð stjórnvalda."
+      "texti": "Blaðamaðurinn Jamal Khashoggi hjá The Washington Post var myrtur í ræðismannsskrifstofu Sádi-Arabíu í Istanbúl. Morðið vakti alþjóðlega reiði og varð að áleitnu tákni um hættur sem blaðamenn geta staðið frammi fyrir."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1786",
-      "texti": "Oddur Gíslason, prestur á Miklabæ, hvarf á heimleið og var afturgöngunni Miklabæjar-Solveigu kennt um hvarfið. Lík hans fannst ári síðar í læk skammt frá bænum, en þjóðsagan hafði þá þegar fengið vængi.",
+      "texti": "Oddur Gíslason, prestur á Miklabæ, hvarf á heimleið og var afturgöngunni Miklabæjar-Solveigu kennt um. Lík hans fannst ári síðar í læk skammt frá bænum, en þjóðsagan hafði þá þegar fundið sér góðan samastað.",
       "landshluti": "Norðurland"
     },
     {
       "ar": "1801",
-      "texti": "Konungur úrskurðaði að Ísland skyldi verða eitt biskupsdæmi og biskupsstóllinn á Hólum var lagður niður.",
+      "texti": "Konungur úrskurðaði að Ísland yrði eitt biskupsdæmi og biskupsstóllinn á Hólum var lagður niður.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1940",
-      "texti": "Áfengisskömmtun var tekin upp á Íslandi: karlar fengu fjórar hálfflöskur af sterkum drykkjum á mánuði en konur helming þess. Jafnréttishugtakið átti greinilega enn nokkuð í land.",
-      "landshluti": "Landið allt"
+      "ar": "1847",
+      "texti": "Prestaskólinn tók til starfa í Reykjavík og var fyrst um sinn til húsa í húsi Lærða skólans.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "2010",
-      "texti": "Héðinsfjarðargöng voru vígð og tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð. Fjöllin fengu þar með nýtt hlutverk sem veggir utan um samgöngumannvirki.",
+      "texti": "Héðinsfjarðargöng voru vígð og tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð. Fjöllin fengu þar með gönguhurð, ef svo má að orði komast.",
       "landshluti": "Norðurland"
     }
   ],
@@ -59,24 +59,24 @@
       "ar": "1992"
     },
     {
+      "nafn": "Camilla Belle",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1986"
+    },
+    {
       "nafn": "Annie Leibovitz",
       "starfsgrein": "bandarískur ljósmyndari",
       "ar": "1949"
     },
     {
-      "nafn": "Avery Brooks",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1948"
+      "nafn": "Brittany Howard",
+      "starfsgrein": "bandarísk söngkona, lagahöfundur og gítarleikari",
+      "ar": "1988"
     },
     {
-      "nafn": "Badly Drawn Boy",
-      "starfsgrein": "enskur tónlistarmaður",
-      "ar": "1969"
-    },
-    {
-      "nafn": "Alex Raymond",
-      "starfsgrein": "bandarískur teiknari og höfundur Flash Gordon",
-      "ar": "1909"
+      "nafn": "Bjarke Ingels",
+      "starfsgrein": "danskur arkitekt",
+      "ar": "1974"
     }
   ],
   "afmaeli_island": [
@@ -91,36 +91,36 @@
       "ar": "1962"
     },
     {
-      "nafn": "Árni M. Mathiesen",
+      "nafn": "Björk Vilhelmsdóttir",
       "starfsgrein": "stjórnmálamaður",
-      "ar": "1958"
+      "ar": "1963"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða matvæli rændu óeirðarseggir í Nottingham árið 1766?",
+      "spurning": "Hvaða matvæli voru í aðalhlutverki í óeirðunum í Nottingham árið 1766?",
       "svor": [
-        "Osti",
-        "Kartöflum",
+        "Ostur",
+        "Kartöflur",
         "Síld",
-        "Súkkulaði"
+        "Sveskjur"
       ],
       "rett": 0,
-      "skyring": "Mikið magn af osti hvarf í óeirðunum — líklega dramatískasti dagur í sögu breska ostabakkans."
+      "skyring": "Bæjarbúar rændu miklu magni af osti, svo þetta var engin venjuleg brauðdeila."
     },
     {
-      "spurning": "Hvaða tímamót markaði embættistaka Thurgoods Marshall árið 1967?",
+      "spurning": "Hver varð fyrstur svartra Bandaríkjamanna til að taka sæti í Hæstarétti Bandaríkjanna?",
       "svor": [
-        "Hann varð fyrsti kjörni forseti Hæstaréttar",
-        "Hann varð fyrsti dómarinn af afrískum uppruna í Hæstarétti Bandaríkjanna",
-        "Hann varð yngsti dómari í sögu réttarins",
-        "Hann varð fyrsti erlendi dómarinn í réttinum"
+        "Alex Karp",
+        "Thurgood Marshall",
+        "Jamal Khashoggi",
+        "Bjarke Ingels"
       ],
       "rett": 1,
-      "skyring": "Marshall varð fyrsti Bandaríkjamaðurinn af afrískum uppruna til að sitja í Hæstarétti landsins."
+      "skyring": "Thurgood Marshall sór embættiseiðinn 2. október 1967."
     },
     {
-      "spurning": "Hvaða göng voru vígð á Íslandi 2. október 2010?",
+      "spurning": "Hvaða íslensku göng voru vígð 2. október 2010?",
       "svor": [
         "Hvalfjarðargöng",
         "Vestfjarðagöng",
@@ -131,23 +131,23 @@
       "skyring": "Héðinsfjarðargöng tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð."
     }
   ],
-  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
-  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "tonlistUSA": "Hey Jude – The Beatles (1968)",
+  "tonlistUK": "Dancing Queen – ABBA (1976)",
   "bio": "The Martian (2015)",
   "ord_dagsins": {
-    "ord": "afturganga",
-    "skyring": "Afturganga er látin manneskja sem samkvæmt þjóðtrú gengur aftur og gerir vart við sig meðal lifenda."
+    "ord": "grúsk",
+    "skyring": "Grúsk er ítarleg og oft þolinmóð rannsóknarvinna, gjarnan í gömlum heimildum."
   },
-  "vissir_thu": "Thurgood Marshall hafði áður en hann varð hæstaréttardómari unnið mikilvæg dómsmál gegn kynþáttaaðskilnaði í bandarískum skólum.",
-  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi í dag, líklega eftir að hafa vegið málið aðeins lengur en allir aðrir höfðu þolinmæði fyrir. Dragðu fram flauelsjakkann, stilltu plötuspilarann og mundu að stundum er djarfasta ákvörðunin einfaldlega að velja annan kaffibolla.",
+  "vissir_thu": "Shubert-leikhúsið á Broadway, sem opnaði með Hamlet árið 1913, var nefnt eftir leikhúsfrömuðinum Sam S. Shubert.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skyldustarfa og þess að setjast virðulega niður með kaffibolla. Ef upp kemur ágreiningur skaltu miðla málum eins og hirðmaður árið 1470 — en halda þig fjarri bæði krúnudeilum og ostauppþotum.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Edward_IV_Plantagenet.jpg/500px-Edward_IV_Plantagenet.jpg",
     "ar": "1470",
-    "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn undir forystu Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Ensk miðaldasaga var sem sagt ekki ósvipuð stólaleik, nema með kórónum og herjum.",
+    "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Enskar konungskrúnur sátu greinilega ekki alltaf fastar á höfði.",
     "heimild": "https://en.wikipedia.org/wiki/Edward_IV",
     "breidd": 330,
     "haed": 477
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-02"
 }
