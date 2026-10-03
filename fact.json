@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-02",
-  "dagur": 2,
+  "date": "2026-10-03",
+  "dagur": 3,
   "manudur": "október",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 275,
-  "sunrise": "07:39",
-  "sunset": "18:52",
-  "mmdd": "10-02",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 276,
+  "sunrise": "07:42",
+  "sunset": "18:49",
+  "mmdd": "10-03",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 2. október, kæri lesandi! Í dag rennum við frá ensku konungskrúnunni yfir í ostauppþot, Broadway og íslensk göng — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós. Vogin biður þó alla um að halda jafnvægi, jafnvel þegar osturinn er í uppnámi.",
+  "kvedja": "Góðan 3. október! Í dag sveiflast vogarskálar sögunnar milli leyndardóms Edgars Allans Poe, íslenskrar heimastjórnar og afreka úti í geimnum — svo haltu fast í kaffibollann.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1470",
-      "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Enskar konungskrúnur sátu greinilega ekki alltaf fastar á höfði."
+      "ar": "1392",
+      "texti": "Muhammad VII varð tólfti soldán furstadæmisins Granada. Valdaskipti á miðöldum komu sjaldnast með köku og blöðrum."
     },
     {
-      "ar": "1766",
-      "texti": "Í mataróeirðum í Nottingham rændu bæjarbúar miklu magni af osti. Einn maður lést þegar reynt var að koma á lögum og reglu í þessari óvenju alvarlegu ostakreppu."
+      "ar": "1849",
+      "texti": "Rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar."
     },
     {
-      "ar": "1913",
-      "texti": "Shubert-leikhúsið á Broadway opnaði dyr sínar með sýningu á Hamlet. Það var heldur dramatísk leið til að spyrja hvort nýtt leikhús ætti að vera eða ekki vera."
+      "ar": "1952",
+      "texti": "Bretland framkvæmdi sína fyrstu kjarnorkutilraun og varð þar með þriðja kjarnorkuvopnaríki heims."
     },
     {
-      "ar": "1967",
-      "texti": "Thurgood Marshall sór embættiseið sem fyrsti svarti dómarinn við Hæstarétt Bandaríkjanna. Þar með var mikilvæg hindrun rofin í sögu bandarísks réttarfars."
+      "ar": "1991",
+      "texti": "Nadine Gordimer varð fyrst Suður-Afríkubúa til að hljóta Nóbelsverðlaunin í bókmenntum."
     },
     {
-      "ar": "2018",
-      "texti": "Blaðamaðurinn Jamal Khashoggi hjá The Washington Post var myrtur í ræðismannsskrifstofu Sádi-Arabíu í Istanbúl. Morðið vakti alþjóðlega reiði og varð að áleitnu tákni um hættur sem blaðamenn geta staðið frammi fyrir."
+      "ar": "2013",
+      "texti": "Bátur með farandfólk frá Líbíu sökk undan ítölsku eyjunni Lampedusa. Meira en 360 manns fórust í þessum skelfilega harmleik."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1786",
-      "texti": "Oddur Gíslason, prestur á Miklabæ, hvarf á heimleið og var afturgöngunni Miklabæjar-Solveigu kennt um. Lík hans fannst ári síðar í læk skammt frá bænum, en þjóðsagan hafði þá þegar fundið sér góðan samastað.",
-      "landshluti": "Norðurland"
+      "ar": "1473",
+      "texti": "Í Oddgeirshólareiðinni reið Þorleifur Björnsson með flokk manna að Oddgeirshólum í Flóa. Þar brutust út högg, slagsmál og blóðsúthellingar inni í kirkju, en tilefni ósköpanna er enn óþekkt.",
+      "landshluti": "Suðurland"
     },
     {
-      "ar": "1801",
-      "texti": "Konungur úrskurðaði að Ísland yrði eitt biskupsdæmi og biskupsstóllinn á Hólum var lagður niður.",
+      "ar": "1903",
+      "texti": "Danakonungur samþykkti ákvörðun danska þingsins um heimastjórn á Íslandi. Sama dag var ákveðið að skjaldarmerki landsins skyldi sýna hvítan íslenskan fálka á bláum grunni.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1847",
-      "texti": "Prestaskólinn tók til starfa í Reykjavík og var fyrst um sinn til húsa í húsi Lærða skólans.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1973",
+      "texti": "Bresk herskip yfirgáfu 50 sjómílna fiskveiðilögsögu Íslands í þorskastríðinu. Samkomulag við Breta fylgdi svo um miðjan október.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "2010",
-      "texti": "Héðinsfjarðargöng voru vígð og tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð. Fjöllin fengu þar með gönguhurð, ef svo má að orði komast.",
-      "landshluti": "Norðurland"
+      "ar": "1980",
+      "texti": "Íslenska óperan var formlega stofnuð — stór dagur fyrir sönglistina og dramatískar innkomur á svið.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Alisson Becker",
-      "starfsgrein": "brasilískur knattspyrnumaður",
-      "ar": "1992"
-    },
-    {
-      "nafn": "Camilla Belle",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1986"
-    },
-    {
-      "nafn": "Annie Leibovitz",
-      "starfsgrein": "bandarískur ljósmyndari",
-      "ar": "1949"
-    },
-    {
-      "nafn": "Brittany Howard",
-      "starfsgrein": "bandarísk söngkona, lagahöfundur og gítarleikari",
+      "nafn": "Alicia Vikander",
+      "starfsgrein": "sænsk leikkona",
       "ar": "1988"
     },
     {
-      "nafn": "Bjarke Ingels",
-      "starfsgrein": "danskur arkitekt",
-      "ar": "1974"
+      "nafn": "ASAP Rocky",
+      "starfsgrein": "bandarískur rappari og lagahöfundur",
+      "ar": "1988"
+    },
+    {
+      "nafn": "Gwen Stefani",
+      "starfsgrein": "bandarísk söngkona, lagahöfundur og fatahönnuður",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Zlatan Ibrahimović",
+      "starfsgrein": "sænskur knattspyrnumaður",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Lena Headey",
+      "starfsgrein": "bresk leikkona",
+      "ar": "1973"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Pálmi Gestsson",
-      "starfsgrein": "leikari",
-      "ar": "1957"
+      "nafn": "Stephan G. Stephansson",
+      "starfsgrein": "skáld",
+      "ar": "1853"
     },
     {
-      "nafn": "Sigtryggur Baldursson",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1962"
+      "nafn": "Silja Aðalsteinsdóttir",
+      "starfsgrein": "bókmenntafræðingur",
+      "ar": "1943"
     },
     {
-      "nafn": "Björk Vilhelmsdóttir",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1963"
+      "nafn": "Filippía Kristjánsdóttir",
+      "starfsgrein": "skáldkona",
+      "ar": "1905"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða matvæli voru í aðalhlutverki í óeirðunum í Nottingham árið 1766?",
+      "spurning": "Hvaða rithöfundur fannst ruglaður í Baltimore 3. október 1849?",
       "svor": [
-        "Ostur",
-        "Kartöflur",
-        "Síld",
-        "Sveskjur"
+        "Edgar Allan Poe",
+        "Gore Vidal",
+        "Stephan G. Stephansson",
+        "Lindsey Buckingham"
       ],
       "rett": 0,
-      "skyring": "Bæjarbúar rændu miklu magni af osti, svo þetta var engin venjuleg brauðdeila."
+      "skyring": "Edgar Allan Poe fannst við dularfullar aðstæður og ráðgátan hefur loðað við síðustu daga hans síðan."
     },
     {
-      "spurning": "Hver varð fyrstur svartra Bandaríkjamanna til að taka sæti í Hæstarétti Bandaríkjanna?",
+      "spurning": "Hvað gerðist í íslenskum landhelgismálum 3. október 1973?",
       "svor": [
-        "Alex Karp",
-        "Thurgood Marshall",
-        "Jamal Khashoggi",
-        "Bjarke Ingels"
+        "Fiskveiðilögsagan var afnumin",
+        "Bresk herskip yfirgáfu 50 sjómílna lögsöguna",
+        "Íslenska óperan var stofnuð",
+        "Smyrlabjargaárvirkjun var gangsett"
       ],
       "rett": 1,
-      "skyring": "Thurgood Marshall sór embættiseiðinn 2. október 1967."
+      "skyring": "Bresku herskipin héldu á brott úr 50 sjómílna fiskveiðilögsögunni — án þess að þorskurinn væri spurður álits."
     },
     {
-      "spurning": "Hvaða íslensku göng voru vígð 2. október 2010?",
+      "spurning": "Hvaða tvær stjörnur fæddust báðar 3. október 1988?",
       "svor": [
-        "Hvalfjarðargöng",
-        "Vestfjarðagöng",
-        "Héðinsfjarðargöng",
-        "Fáskrúðsfjarðargöng"
+        "Gwen Stefani og Zlatan Ibrahimović",
+        "Alicia Vikander og ASAP Rocky",
+        "Lena Headey og Alicia Vikander",
+        "ASAP Rocky og Zlatan Ibrahimović"
       ],
-      "rett": 2,
-      "skyring": "Héðinsfjarðargöng tengdu Siglufjörð og Ólafsfjörð um Héðinsfjörð."
+      "rett": 1,
+      "skyring": "Alicia Vikander og ASAP Rocky deila bæði afmælisdegi og fæðingarári."
     }
   ],
-  "tonlistUSA": "Hey Jude – The Beatles (1968)",
-  "tonlistUK": "Dancing Queen – ABBA (1976)",
-  "bio": "The Martian (2015)",
+  "tonlistUSA": "Jack & Diane – John Cougar (1982)",
+  "tonlistUK": "Prince Charming – Adam and the Ants (1981)",
+  "bio": "School of Rock (2003)",
   "ord_dagsins": {
-    "ord": "grúsk",
-    "skyring": "Grúsk er ítarleg og oft þolinmóð rannsóknarvinna, gjarnan í gömlum heimildum."
+    "ord": "vogarskál",
+    "skyring": "Vogarskál er önnur skál hefðbundinnar jafnvægisvogar, þar sem lóð eða hlutur er lagður."
   },
-  "vissir_thu": "Shubert-leikhúsið á Broadway, sem opnaði með Hamlet árið 1913, var nefnt eftir leikhúsfrömuðinum Sam S. Shubert.",
-  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skyldustarfa og þess að setjast virðulega niður með kaffibolla. Ef upp kemur ágreiningur skaltu miðla málum eins og hirðmaður árið 1470 — en halda þig fjarri bæði krúnudeilum og ostauppþotum.",
+  "vissir_thu": "Alicia Vikander og ASAP Rocky fæddust bæði 3. október 1988.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur vogarskálin sé hlaðin skyldum og hin kanilsnúðum. Farðu að ráði stjarnanna: vertu diplómatískur, en láttu engan ræna síðasta snúðnum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Edward_IV_Plantagenet.jpg/500px-Edward_IV_Plantagenet.jpg",
-    "ar": "1470",
-    "texti": "Hinrik 6. var settur aftur í hásæti Englands eftir að uppreisn Richards Neville neyddi Játvarð 4. til að flýja til Búrgundar. Enskar konungskrúnur sátu greinilega ekki alltaf fastar á höfði.",
-    "heimild": "https://en.wikipedia.org/wiki/Edward_IV",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
+    "ar": "1849",
+    "texti": "Rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar.",
+    "heimild": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
     "breidd": 330,
-    "haed": 477
+    "haed": 464
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-02",
-  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-03",
+  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

@@ -6,49 +6,49 @@
   "stjornumerki": "Vog",
   "sunrise": "07:41",
   "sunset": "18:50",
-  "kvedja": "Komdu sæl og blessaður á þessum viðburðaríka 3. október! Dagurinn sveiflast frá furstadæminu Granada og leyndardómi Edgars Allans Poe yfir í íslenska heimastjórn, óperusöng og fótboltasnilld Zlatans — sannkölluð Vog, sem vill hafa allt í jafnvægi, helst með dálitlum tilþrifum.",
+  "kvedja": "Góðan 3. október! Í dag sveiflast vogarskálar sögunnar milli leyndardóms Edgars Allans Poe, íslenskrar heimastjórnar og afreka úti í geimnum — svo haltu fast í kaffibollann.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1392",
-      "texti": "Muhammad VII varð tólfti soldán furstadæmisins Granada. Þar með tók hann við einu síðasta vígi múslima á Íberíuskaga."
+      "texti": "Muhammad VII varð tólfti soldán furstadæmisins Granada. Valdaskipti á miðöldum komu sjaldnast með köku og blöðrum."
     },
     {
       "ar": "1849",
-      "texti": "Bandaríski rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar."
+      "texti": "Rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar."
     },
     {
       "ar": "1952",
-      "texti": "Bretland framkvæmdi fyrstu kjarnorkutilraun sína og varð þar með þriðja kjarnorkuvopnaríki heims. Það var heldur óhugnanleg innkoma í afar fámennan klúbb."
+      "texti": "Bretland framkvæmdi sína fyrstu kjarnorkutilraun og varð þar með þriðja kjarnorkuvopnaríki heims."
     },
     {
       "ar": "1991",
-      "texti": "Nadine Gordimer varð fyrst Suður-Afríkubúa til að hljóta Nóbelsverðlaunin í bókmenntum. Verk hennar fjölluðu meðal annars af mikilli skerpu um aðskilnaðarstefnuna í heimalandinu."
+      "texti": "Nadine Gordimer varð fyrst Suður-Afríkubúa til að hljóta Nóbelsverðlaunin í bókmenntum."
     },
     {
       "ar": "2013",
-      "texti": "Bátur með farandfólk á leið frá Líbíu til Ítalíu sökk undan eyjunni Lampedusa. Meira en 360 manns létust í þessum skelfilega harmleik."
+      "texti": "Bátur með farandfólk frá Líbíu sökk undan ítölsku eyjunni Lampedusa. Meira en 360 manns fórust í þessum skelfilega harmleik."
     }
   ],
   "atburdir_island": [
+    {
+      "ar": "1473",
+      "texti": "Í Oddgeirshólareiðinni reið Þorleifur Björnsson með flokk manna að Oddgeirshólum í Flóa. Þar brutust út högg, slagsmál og blóðsúthellingar inni í kirkju, en tilefni ósköpanna er enn óþekkt.",
+      "landshluti": "Suðurland"
+    },
     {
       "ar": "1903",
       "texti": "Danakonungur samþykkti ákvörðun danska þingsins um heimastjórn á Íslandi. Sama dag var ákveðið að skjaldarmerki landsins skyldi sýna hvítan íslenskan fálka á bláum grunni.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1927",
-      "texti": "Olíuverzlun Íslands, sem síðar varð Olís, var stofnuð. Þar hófst saga fyrirtækis sem Íslendingar áttu síðar eftir að tengja jafnt við eldsneyti sem skyndibita á ferðalögum.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
       "ar": "1973",
-      "texti": "Í þorskastríðunum yfirgáfu bresk herskip 50 sjómílna fiskveiðilögsögu Íslands. Samkomulag við Breta fylgdi svo um miðjan október.",
+      "texti": "Bresk herskip yfirgáfu 50 sjómílna fiskveiðilögsögu Íslands í þorskastríðinu. Samkomulag við Breta fylgdi svo um miðjan október.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1980",
-      "texti": "Íslenska óperan var formlega stofnuð. Þar með fékk óperulistin traustari heimahöfn hér á landi — og dramatíkin gat loksins verið sungin af fullum krafti.",
+      "texti": "Íslenska óperan var formlega stofnuð — stór dagur fyrir sönglistina og dramatískar innkomur á svið.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
@@ -59,14 +59,14 @@
       "ar": "1988"
     },
     {
+      "nafn": "ASAP Rocky",
+      "starfsgrein": "bandarískur rappari og lagahöfundur",
+      "ar": "1988"
+    },
+    {
       "nafn": "Gwen Stefani",
       "starfsgrein": "bandarísk söngkona, lagahöfundur og fatahönnuður",
       "ar": "1969"
-    },
-    {
-      "nafn": "Lena Headey",
-      "starfsgrein": "bresk leikkona",
-      "ar": "1973"
     },
     {
       "nafn": "Zlatan Ibrahimović",
@@ -74,9 +74,9 @@
       "ar": "1981"
     },
     {
-      "nafn": "Stevie Ray Vaughan",
-      "starfsgrein": "bandarískur gítarleikari og söngvari",
-      "ar": "1954"
+      "nafn": "Lena Headey",
+      "starfsgrein": "bresk leikkona",
+      "ar": "1973"
     }
   ],
   "afmaeli_island": [
@@ -86,68 +86,68 @@
       "ar": "1853"
     },
     {
+      "nafn": "Silja Aðalsteinsdóttir",
+      "starfsgrein": "bókmenntafræðingur",
+      "ar": "1943"
+    },
+    {
       "nafn": "Filippía Kristjánsdóttir",
       "starfsgrein": "skáldkona",
       "ar": "1905"
-    },
-    {
-      "nafn": "Pétur Pétursson",
-      "starfsgrein": "biskup",
-      "ar": "1808"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvar fannst Edgar Allan Poe ruglaður og hálfmeðvitundarlaus árið 1849?",
+      "spurning": "Hvaða rithöfundur fannst ruglaður í Baltimore 3. október 1849?",
       "svor": [
-        "Baltimore",
-        "Boston",
-        "New York",
-        "Philadelphia"
+        "Edgar Allan Poe",
+        "Gore Vidal",
+        "Stephan G. Stephansson",
+        "Lindsey Buckingham"
       ],
       "rett": 0,
-      "skyring": "Poe fannst í Baltimore, en kringumstæður síðustu daga hans eru enn sveipaðar myrkri sem hæfir sögum hans óþægilega vel."
+      "skyring": "Edgar Allan Poe fannst við dularfullar aðstæður og ráðgátan hefur loðað við síðustu daga hans síðan."
     },
     {
-      "spurning": "Hvaða Íslendingur fékk heimastjórn samþykkta sem afmælisgjöf 3. október 1903?",
+      "spurning": "Hvað gerðist í íslenskum landhelgismálum 3. október 1973?",
       "svor": [
-        "Íslenska óperan",
-        "Íslenska þjóðin",
-        "Olíuverzlun Íslands",
-        "Landhelgisgæslan"
+        "Fiskveiðilögsagan var afnumin",
+        "Bresk herskip yfirgáfu 50 sjómílna lögsöguna",
+        "Íslenska óperan var stofnuð",
+        "Smyrlabjargaárvirkjun var gangsett"
       ],
       "rett": 1,
-      "skyring": "Ákvörðunin um heimastjórn varðaði landið allt og markaði stórt skref í sjálfstæðisbaráttunni."
+      "skyring": "Bresku herskipin héldu á brott úr 50 sjómílna fiskveiðilögsögunni — án þess að þorskurinn væri spurður álits."
     },
     {
-      "spurning": "Hver af afmælisbörnum dagsins er þekktur fyrir knattspyrnu?",
+      "spurning": "Hvaða tvær stjörnur fæddust báðar 3. október 1988?",
       "svor": [
-        "Stevie Ray Vaughan",
-        "Lena Headey",
-        "Zlatan Ibrahimović",
-        "Gwen Stefani"
+        "Gwen Stefani og Zlatan Ibrahimović",
+        "Alicia Vikander og ASAP Rocky",
+        "Lena Headey og Alicia Vikander",
+        "ASAP Rocky og Zlatan Ibrahimović"
       ],
-      "rett": 2,
-      "skyring": "Zlatan Ibrahimović gerði garðinn frægan á knattspyrnuvellinum — og var sjaldan feiminn við að minna fólk á það."
+      "rett": 1,
+      "skyring": "Alicia Vikander og ASAP Rocky deila bæði afmælisdegi og fæðingarári."
     }
   ],
-  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUSA": "Jack & Diane – John Cougar (1982)",
   "tonlistUK": "Prince Charming – Adam and the Ants (1981)",
-  "bio": "Mean Girls (2004)",
+  "bio": "School of Rock (2003)",
   "ord_dagsins": {
-    "ord": "orðheppinn",
-    "skyring": "Sá sem er orðheppinn á auðvelt með að finna viðeigandi, skemmtileg eða snjöll orð."
+    "ord": "vogarskál",
+    "skyring": "Vogarskál er önnur skál hefðbundinnar jafnvægisvogar, þar sem lóð eða hlutur er lagður."
   },
-  "vissir_thu": "Bretland varð þriðja ríki heims til að eignast kjarnorkuvopn þegar það framkvæmdi fyrstu kjarnorkutilraun sína árið 1952.",
-  "stjornuspa": "Vogin finnur gamalt vasadagatalið, setur vínilplötu á fóninn og reynir að sætta tvo vini sem rífast um hvor hlið kassettunnar sé betri. Láttu jafnvægisskynið ráða, en mundu að jafnvel þú þarft ekki að bera axlapúða beggja vegna.",
+  "vissir_thu": "Alicia Vikander og ASAP Rocky fæddust bæði 3. október 1988.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur vogarskálin sé hlaðin skyldum og hin kanilsnúðum. Farðu að ráði stjarnanna: vertu diplómatískur, en láttu engan ræna síðasta snúðnum.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
     "ar": "1849",
-    "texti": "Bandaríski rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar.",
+    "texti": "Rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar.",
     "heimild": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
     "breidd": 330,
     "haed": 464
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-03"
 }
