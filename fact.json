@@ -1,157 +1,141 @@
 {
-  "date": "2026-10-03",
-  "dagur": 3,
+  "date": "2026-10-04",
+  "dagur": 4,
   "manudur": "október",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 276,
-  "sunrise": "07:42",
-  "sunset": "18:49",
-  "mmdd": "10-03",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 277,
+  "sunrise": "07:45",
+  "sunset": "18:45",
+  "mmdd": "10-04",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 3. október! Í dag sveiflast vogarskálar sögunnar milli leyndardóms Edgars Allans Poe, íslenskrar heimastjórnar og afreka úti í geimnum — svo haltu fast í kaffibollann.",
+  "kvedja": "Góðan 4. október, kæri lesandi! Í dag hefjum við háskólakennslu, höggvum forseta í fjall og fljúgum norður til Bodø — allt án þess að missa kaffibollann. Vegin gæti vart óskað sér fjölbreyttari dags.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1392",
-      "texti": "Muhammad VII varð tólfti soldán furstadæmisins Granada. Valdaskipti á miðöldum komu sjaldnast með köku og blöðrum."
+      "ar": "1363",
+      "texti": "Zhu Yuanzhang vann orrustuna á Poyang-vatni í uppreisnum Rauðu túrbananna, meðal annars með því að senda logandi skip gegn óvininum. Þar sannaðist að stundum er vænlegra að brenna brýrnar — eða skipin."
     },
     {
-      "ar": "1849",
-      "texti": "Rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar."
+      "ar": "1633",
+      "texti": "Her pólsk-litháíska samveldisins rauf umsátur Rússa um Smolensk í Smolensk-stríðinu."
     },
     {
-      "ar": "1952",
-      "texti": "Bretland framkvæmdi sína fyrstu kjarnorkutilraun og varð þar með þriðja kjarnorkuvopnaríki heims."
+      "ar": "1876",
+      "texti": "Texas A&M-háskólinn tók til starfa sem fyrsta opinbera háskólastofnun Texas. Þar með fékk fylkið bókstaflega sitt fyrsta opinbera lærdómssetur."
     },
     {
-      "ar": "1991",
-      "texti": "Nadine Gordimer varð fyrst Suður-Afríkubúa til að hljóta Nóbelsverðlaunin í bókmenntum."
+      "ar": "1927",
+      "texti": "Gutzon Borglum og um 400 verkamenn hófu að höggva Mount Rushmore í fjallshlíðina. Verkefnið var vægast sagt stórt í sniðum og ekki beinlínis unnið með naglaþjöl."
     },
     {
-      "ar": "2013",
-      "texti": "Bátur með farandfólk frá Líbíu sökk undan ítölsku eyjunni Lampedusa. Meira en 360 manns fórust í þessum skelfilega harmleik."
+      "ar": "1943",
+      "texti": "Í síðari heimsstyrjöld gerðu bandamenn loftárásina Operation Leader á þýskar siglingar nærri Bodø í Noregi."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1473",
-      "texti": "Í Oddgeirshólareiðinni reið Þorleifur Björnsson með flokk manna að Oddgeirshólum í Flóa. Þar brutust út högg, slagsmál og blóðsúthellingar inni í kirkju, en tilefni ósköpanna er enn óþekkt.",
+      "ar": "1799",
+      "texti": "Sveinn Pálsson var skipaður fjórðungslæknir í Sunnlendingafjórðungi.",
       "landshluti": "Suðurland"
     },
     {
-      "ar": "1903",
-      "texti": "Danakonungur samþykkti ákvörðun danska þingsins um heimastjórn á Íslandi. Sama dag var ákveðið að skjaldarmerki landsins skyldi sýna hvítan íslenskan fálka á bláum grunni.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1973",
-      "texti": "Bresk herskip yfirgáfu 50 sjómílna fiskveiðilögsögu Íslands í þorskastríðinu. Samkomulag við Breta fylgdi svo um miðjan október.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1980",
-      "texti": "Íslenska óperan var formlega stofnuð — stór dagur fyrir sönglistina og dramatískar innkomur á svið.",
+      "ar": "1911",
+      "texti": "Kennsla hófst í Háskóla Íslands og íslenskt háskólalíf komst formlega á skrið.",
       "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1970",
+      "texti": "Rauðsokkahreyfingin var stofnuð á Íslandi og varð áberandi afl í íslenskri kvennabaráttu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1984",
+      "texti": "Allsherjarverkfall BSRB hófst og stóð til 30. október. Skólar lokuðust, strætisvagnar stöðvuðust og lítið sem ekkert heyrðist í Ríkisútvarpinu.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Alicia Vikander",
-      "starfsgrein": "sænsk leikkona",
-      "ar": "1988"
+      "nafn": "Caitríona Balfe",
+      "starfsgrein": "írsk leikkona",
+      "ar": "1979"
     },
     {
-      "nafn": "ASAP Rocky",
-      "starfsgrein": "bandarískur rappari og lagahöfundur",
-      "ar": "1988"
+      "nafn": "Alicia Silverstone",
+      "starfsgrein": "bandarísk leikkona og framleiðandi",
+      "ar": "1976"
     },
     {
-      "nafn": "Gwen Stefani",
-      "starfsgrein": "bandarísk söngkona, lagahöfundur og fatahönnuður",
-      "ar": "1969"
+      "nafn": "Anne Rice",
+      "starfsgrein": "bandarískur rithöfundur",
+      "ar": "1941"
     },
     {
-      "nafn": "Zlatan Ibrahimović",
-      "starfsgrein": "sænskur knattspyrnumaður",
-      "ar": "1981"
+      "nafn": "Alvin Toffler",
+      "starfsgrein": "bandarískur rithöfundur og framtíðarfræðingur",
+      "ar": "1928"
     },
     {
-      "nafn": "Lena Headey",
-      "starfsgrein": "bresk leikkona",
-      "ar": "1973"
+      "nafn": "Karl 9. Svíakonungur",
+      "starfsgrein": "Svíakonungur",
+      "ar": "1550"
     }
   ],
-  "afmaeli_island": [
-    {
-      "nafn": "Stephan G. Stephansson",
-      "starfsgrein": "skáld",
-      "ar": "1853"
-    },
-    {
-      "nafn": "Silja Aðalsteinsdóttir",
-      "starfsgrein": "bókmenntafræðingur",
-      "ar": "1943"
-    },
-    {
-      "nafn": "Filippía Kristjánsdóttir",
-      "starfsgrein": "skáldkona",
-      "ar": "1905"
-    }
-  ],
+  "afmaeli_island": [],
   "spurningar": [
     {
-      "spurning": "Hvaða rithöfundur fannst ruglaður í Baltimore 3. október 1849?",
+      "spurning": "Hvaða mikla höggmyndaverk hófst 4. október 1927?",
       "svor": [
-        "Edgar Allan Poe",
-        "Gore Vidal",
-        "Stephan G. Stephansson",
-        "Lindsey Buckingham"
+        "Mount Rushmore",
+        "Frelsisstyttan",
+        "Kristur lausnarinn",
+        "Sfinxinn mikli"
       ],
       "rett": 0,
-      "skyring": "Edgar Allan Poe fannst við dularfullar aðstæður og ráðgátan hefur loðað við síðustu daga hans síðan."
+      "skyring": "Gutzon Borglum og um 400 verkamenn hófu þá að móta Mount Rushmore."
     },
     {
-      "spurning": "Hvað gerðist í íslenskum landhelgismálum 3. október 1973?",
+      "spurning": "Hvaða íslenska stofnun hóf kennslu þennan dag árið 1911?",
       "svor": [
-        "Fiskveiðilögsagan var afnumin",
-        "Bresk herskip yfirgáfu 50 sjómílna lögsöguna",
-        "Íslenska óperan var stofnuð",
-        "Smyrlabjargaárvirkjun var gangsett"
+        "Kennaraháskóli Íslands",
+        "Háskóli Íslands",
+        "Menntaskólinn á Akureyri",
+        "Listaháskóli Íslands"
       ],
       "rett": 1,
-      "skyring": "Bresku herskipin héldu á brott úr 50 sjómílna fiskveiðilögsögunni — án þess að þorskurinn væri spurður álits."
+      "skyring": "Kennsla hófst í Háskóla Íslands 4. október 1911."
     },
     {
-      "spurning": "Hvaða tvær stjörnur fæddust báðar 3. október 1988?",
+      "spurning": "Hver þessara afmælisbarna er þekkt fyrir vampíruskáldsögur?",
       "svor": [
-        "Gwen Stefani og Zlatan Ibrahimović",
-        "Alicia Vikander og ASAP Rocky",
-        "Lena Headey og Alicia Vikander",
-        "ASAP Rocky og Zlatan Ibrahimović"
+        "Alicia Silverstone",
+        "Alvin Toffler",
+        "Anne Rice",
+        "Caitríona Balfe"
       ],
-      "rett": 1,
-      "skyring": "Alicia Vikander og ASAP Rocky deila bæði afmælisdegi og fæðingarári."
+      "rett": 2,
+      "skyring": "Anne Rice varð heimsfræg fyrir sögur sínar um vampírur."
     }
   ],
-  "tonlistUSA": "Jack & Diane – John Cougar (1982)",
-  "tonlistUK": "Prince Charming – Adam and the Ants (1981)",
-  "bio": "School of Rock (2003)",
+  "tonlistUSA": "Fame – David Bowie (1975)",
+  "tonlistUK": "Hold Me Close – David Essex (1975)",
+  "bio": "Joker (2019)",
   "ord_dagsins": {
-    "ord": "vogarskál",
-    "skyring": "Vogarskál er önnur skál hefðbundinnar jafnvægisvogar, þar sem lóð eða hlutur er lagður."
+    "ord": "bákn",
+    "skyring": "Bákn er eitthvað óvenjustórt, fyrirferðarmikið og gjarnan heldur óþjált."
   },
-  "vissir_thu": "Alicia Vikander og ASAP Rocky fæddust bæði 3. október 1988.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt önnur vogarskálin sé hlaðin skyldum og hin kanilsnúðum. Farðu að ráði stjarnanna: vertu diplómatískur, en láttu engan ræna síðasta snúðnum.",
+  "vissir_thu": "Andlit forsetanna fjögurra á Mount Rushmore eru hvert um 18 metra há.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt annar skálinn sé fullur af skyldum og hinn af köku. Taktu ákvörðun áður en næsta öld gengur í garð — en gerðu það með þokka.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg/500px-Edgar_Allan_Poe%2C_circa_1849%2C_restored%2C_squared_off.jpg",
-    "ar": "1849",
-    "texti": "Rithöfundurinn Edgar Allan Poe fannst hálfmeðvitundarlaus og ruglaður í Baltimore við dularfullar aðstæður. Þetta var í síðasta sinn sem hann sást opinberlega áður en hann lést fjórum dögum síðar.",
-    "heimild": "https://en.wikipedia.org/wiki/Edgar_Allan_Poe",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Red_Turban.png/500px-Red_Turban.png",
+    "ar": "1363",
+    "texti": "Zhu Yuanzhang vann orrustuna á Poyang-vatni í uppreisnum Rauðu túrbananna, meðal annars með því að senda logandi skip gegn óvininum. Þar sannaðist að stundum er vænlegra að brenna brýrnar — eða skipin.",
+    "heimild": "https://en.wikipedia.org/wiki/Red_Turban_Rebellions",
     "breidd": 330,
-    "haed": 464
+    "haed": 233
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-03",
-  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-04",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
