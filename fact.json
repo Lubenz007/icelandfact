@@ -1,141 +1,157 @@
 {
-  "date": "2026-10-04",
-  "dagur": 4,
+  "date": "2026-10-05",
+  "dagur": 5,
   "manudur": "október",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 277,
-  "sunrise": "07:45",
-  "sunset": "18:45",
-  "mmdd": "10-04",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 278,
+  "sunrise": "07:48",
+  "sunset": "18:42",
+  "mmdd": "10-05",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 4. október, kæri lesandi! Í dag hefjum við háskólakennslu, höggvum forseta í fjall og fljúgum norður til Bodø — allt án þess að missa kaffibollann. Vegin gæti vart óskað sér fjölbreyttari dags.",
+  "kvedja": "Góðan 5. október! Í dag göngum við með Parísarkonum til Versala, fylgjumst með Mississippi brjótast út úr göngum og setjum síðan bæði Bítlana og James Bond á fóninn. Sagan kann sannarlega að halda mörgum boltum á lofti — rétt eins og góð Vog.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1363",
-      "texti": "Zhu Yuanzhang vann orrustuna á Poyang-vatni í uppreisnum Rauðu túrbananna, meðal annars með því að senda logandi skip gegn óvininum. Þar sannaðist að stundum er vænlegra að brenna brýrnar — eða skipin."
+      "ar": "869",
+      "texti": "Fjórða kirkjuþingið í Konstantínópel var kallað saman til að ræða stöðu Fótíusar fyrsta, patríarka borgarinnar. Kirkjupólitík miðalda var sjaldan einfalt kaffiboð."
     },
     {
-      "ar": "1633",
-      "texti": "Her pólsk-litháíska samveldisins rauf umsátur Rússa um Smolensk í Smolensk-stríðinu."
+      "ar": "1789",
+      "texti": "Þúsundir Parísarkvenna og bandamanna þeirra gengu til Versala vegna brauðskorts og hás verðs. Gangan varð einn af eftirminnilegustu atburðum frönsku byltingarinnar."
     },
     {
-      "ar": "1876",
-      "texti": "Texas A&M-háskólinn tók til starfa sem fyrsta opinbera háskólastofnun Texas. Þar með fékk fylkið bókstaflega sitt fyrsta opinbera lærdómssetur."
+      "ar": "1869",
+      "texti": "Við gerð Eastman-ganganna í Minnesota braust Mississippi-fljót í gegnum kalksteinsþakið og var nærri búið að eyðileggja Saint Anthony-fossana. Fljótið hafði greinilega sínar eigin hugmyndir um framkvæmdirnar."
     },
     {
-      "ar": "1927",
-      "texti": "Gutzon Borglum og um 400 verkamenn hófu að höggva Mount Rushmore í fjallshlíðina. Verkefnið var vægast sagt stórt í sniðum og ekki beinlínis unnið með naglaþjöl."
+      "ar": "1962",
+      "texti": "„Love Me Do“, fyrsta smáskífa Bítlanna, kom út í Bretlandi og boðaði nýja tíma í poppsögunni."
     },
     {
-      "ar": "1943",
-      "texti": "Í síðari heimsstyrjöld gerðu bandamenn loftárásina Operation Leader á þýskar siglingar nærri Bodø í Noregi."
+      "ar": "1962",
+      "texti": "Dr. No, fyrsta kvikmyndin um James Bond, var frumsýnd. Þar hófst ein langlífasta kvikmyndasería sögunnar — með martíní, njósnagræjum og hæfilega lyftri augabrún."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1799",
-      "texti": "Sveinn Pálsson var skipaður fjórðungslæknir í Sunnlendingafjórðungi.",
-      "landshluti": "Suðurland"
+      "ar": "1615",
+      "texti": "Í Spánverjavígunum var hópur baskneskra hvalveiðimanna drepinn við Skaganaust yst á Dýrafirði.",
+      "landshluti": "Vestfirðir"
     },
     {
-      "ar": "1911",
-      "texti": "Kennsla hófst í Háskóla Íslands og íslenskt háskólalíf komst formlega á skrið.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1970",
-      "texti": "Rauðsokkahreyfingin var stofnuð á Íslandi og varð áberandi afl í íslenskri kvennabaráttu.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1984",
-      "texti": "Allsherjarverkfall BSRB hófst og stóð til 30. október. Skólar lokuðust, strætisvagnar stöðvuðust og lítið sem ekkert heyrðist í Ríkisútvarpinu.",
+      "ar": "1897",
+      "texti": "Barnablaðið Æskan hóf göngu sína og varð síðar gamalkunnur gestur á íslenskum heimilum.",
       "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1946",
+      "texti": "Alþingi samþykkti að veita Bandaríkjunum afnot af landi á Miðnesheiði. Samningurinn olli miklum pólitískum deilum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1963",
+      "texti": "Keflavíkurhljómsveitin Hljómar kom opinberlega fram í fyrsta sinn og íslenska bítlabylgjan fékk byr undir báða vængi.",
+      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Caitríona Balfe",
-      "starfsgrein": "írsk leikkona",
-      "ar": "1979"
+      "nafn": "Travis Kelce",
+      "starfsgrein": "leikmaður í amerískum fótbolta",
+      "ar": "1989"
     },
     {
-      "nafn": "Alicia Silverstone",
-      "starfsgrein": "bandarísk leikkona og framleiðandi",
-      "ar": "1976"
+      "nafn": "Kate Winslet",
+      "starfsgrein": "leikkona",
+      "ar": "1975"
     },
     {
-      "nafn": "Anne Rice",
-      "starfsgrein": "bandarískur rithöfundur",
-      "ar": "1941"
+      "nafn": "Jesse Eisenberg",
+      "starfsgrein": "leikari og rithöfundur",
+      "ar": "1983"
     },
     {
-      "nafn": "Alvin Toffler",
-      "starfsgrein": "bandarískur rithöfundur og framtíðarfræðingur",
-      "ar": "1928"
+      "nafn": "Neil deGrasse Tyson",
+      "starfsgrein": "stjarneðlisfræðingur og rithöfundur",
+      "ar": "1958"
     },
     {
-      "nafn": "Karl 9. Svíakonungur",
-      "starfsgrein": "Svíakonungur",
-      "ar": "1550"
+      "nafn": "Brian Johnson",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1947"
     }
   ],
-  "afmaeli_island": [],
+  "afmaeli_island": [
+    {
+      "nafn": "Albert Guðmundsson",
+      "starfsgrein": "knattspyrnu- og stjórnmálamaður",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Jón Thoroddsen eldri",
+      "starfsgrein": "sýslumaður",
+      "ar": "1818"
+    },
+    {
+      "nafn": "Ásthildur Kjartansdóttir",
+      "starfsgrein": "leikstjóri",
+      "ar": "1950"
+    }
+  ],
   "spurningar": [
     {
-      "spurning": "Hvaða mikla höggmyndaverk hófst 4. október 1927?",
+      "spurning": "Hvert gengu Parísarkonur árið 1789 til að mótmæla brauðskorti og háu verði?",
       "svor": [
-        "Mount Rushmore",
-        "Frelsisstyttan",
-        "Kristur lausnarinn",
-        "Sfinxinn mikli"
+        "Til Versala",
+        "Til Bastillunnar",
+        "Til Marseille",
+        "Til Brussel"
       ],
       "rett": 0,
-      "skyring": "Gutzon Borglum og um 400 verkamenn hófu þá að móta Mount Rushmore."
+      "skyring": "Kvennagangan lá til Versala, þar sem konungshirðin sat við heldur betri kost en almenningur."
     },
     {
-      "spurning": "Hvaða íslenska stofnun hóf kennslu þennan dag árið 1911?",
+      "spurning": "Hvaða tvö menningarfyrirbæri litu dagsins ljós í Bretlandi 5. október 1962?",
       "svor": [
-        "Kennaraháskóli Íslands",
-        "Háskóli Íslands",
-        "Menntaskólinn á Akureyri",
-        "Listaháskóli Íslands"
+        "Star Wars og ABBA",
+        "Dr. No og „Love Me Do“",
+        "Doctor Who og Rolling Stones",
+        "Mary Poppins og „Hey Jude“"
       ],
       "rett": 1,
-      "skyring": "Kennsla hófst í Háskóla Íslands 4. október 1911."
+      "skyring": "Fyrsta Bond-myndin og fyrsta smáskífa Bítlanna komu út sama dag."
     },
     {
-      "spurning": "Hver þessara afmælisbarna er þekkt fyrir vampíruskáldsögur?",
+      "spurning": "Hvaðan var hljómsveitin Hljómar, sem kom fyrst opinberlega fram árið 1963?",
       "svor": [
-        "Alicia Silverstone",
-        "Alvin Toffler",
-        "Anne Rice",
-        "Caitríona Balfe"
+        "Akureyri",
+        "Ísafjörður",
+        "Keflavík",
+        "Selfoss"
       ],
       "rett": 2,
-      "skyring": "Anne Rice varð heimsfræg fyrir sögur sínar um vampírur."
+      "skyring": "Hljómar komu frá Keflavík, sem varð ein helsta vagga íslenska bítlatímans."
     }
   ],
-  "tonlistUSA": "Fame – David Bowie (1975)",
-  "tonlistUK": "Hold Me Close – David Essex (1975)",
-  "bio": "Joker (2019)",
+  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
+  "bio": "Dr. No (1962)",
   "ord_dagsins": {
-    "ord": "bákn",
-    "skyring": "Bákn er eitthvað óvenjustórt, fyrirferðarmikið og gjarnan heldur óþjált."
+    "ord": "brauðfótur",
+    "skyring": "Brauðfótur er sá sem vinnur fyrir heimilinu og sér því fyrir lífsviðurværi."
   },
-  "vissir_thu": "Andlit forsetanna fjögurra á Mount Rushmore eru hvert um 18 metra há.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt annar skálinn sé fullur af skyldum og hinn af köku. Taktu ákvörðun áður en næsta öld gengur í garð — en gerðu það með þokka.",
+  "vissir_thu": "Vissir þú að fyrsta James Bond-myndin og fyrsta smáskífa Bítlanna komu báðar út í Bretlandi 5. október 1962?",
+  "stjornuspa": "Vogin finnur fullkomið jafnvægi milli þess að hlusta á Bítlana og horfa á Bond — en á erfiðara með að velja snarl. Treystu innsæinu; það hallar líklega að einhverju með súkkulaði.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Red_Turban.png/500px-Red_Turban.png",
-    "ar": "1363",
-    "texti": "Zhu Yuanzhang vann orrustuna á Poyang-vatni í uppreisnum Rauðu túrbananna, meðal annars með því að senda logandi skip gegn óvininum. Þar sannaðist að stundum er vænlegra að brenna brýrnar — eða skipin.",
-    "heimild": "https://en.wikipedia.org/wiki/Red_Turban_Rebellions",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg/500px-Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg",
+    "ar": "869",
+    "texti": "Fjórða kirkjuþingið í Konstantínópel var kallað saman til að ræða stöðu Fótíusar fyrsta, patríarka borgarinnar. Kirkjupólitík miðalda var sjaldan einfalt kaffiboð.",
+    "heimild": "https://en.wikipedia.org/wiki/Fourth_Council_of_Constantinople_(Catholic_Church)",
     "breidd": 330,
-    "haed": 233
+    "haed": 324
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-04",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-05",
+  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
