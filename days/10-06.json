@@ -6,77 +6,77 @@
   "stjornumerki": "Vog",
   "sunrise": "07:49",
   "sunset": "18:40",
-  "kvedja": "Góðan 6. október, kæri lesandi! Í dag siglum við frá orrustu í Kína yfir í talmyndir, fjarlæga reikistjörnu og íslenskt bankahrun — býsna langt ferðalag án þess að þurfa að leita að vegabréfinu. Vogin minnir okkur svo á að halda jafnvægi, jafnvel þegar sagan sjálf virðist standa á öðrum fæti.",
+  "kvedja": "Góðan 6. október, kæri lesandi! Í dag flökkum við frá valdabaráttu í Kína til kvikmyndahúsa, fjarreikistjarna og íslenskra gervihnattasambanda — enda kann sagan vel við langar vegalengdir og stuttar dagsetningar.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "618",
-      "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs verulega í valdabaráttunni þegar Sui-ættin var að líða undir lok og Tang-ættin að taka við."
+      "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs svo mjög að hann gat síðar steypt Sui-keisaraættinni af stóli — kínversk valdataflmennska með ansi háum húfi."
     },
     {
       "ar": "1762",
-      "texti": "Orrustunni um Manila í sjö ára stríðinu lauk með sigri Breta á Spánverjum. Bretar héldu borginni síðan í um tuttugu mánuði — heimsveldin voru sannarlega ekki feimin við að færa húsgögnin hjá nágrannanum."
+      "texti": "Orrustunni um Manila lauk með sigri Breta á Spánverjum í sjö ára stríðinu. Í kjölfarið héldu Bretar borginni hersetinni í tuttugu mánuði."
     },
     {
       "ar": "1908",
-      "texti": "Austurríki-Ungverjaland tilkynnti innlimun Bosníu og Hersegóvínu. Afleiðingin varð alþjóðleg kreppa sem stórskaðaði samskipti ríkisins við Rússland og Serbíu."
+      "texti": "Austurríki-Ungverjaland tilkynnti innlimun Bosníu og Hersegóvínu. Afleiðingin varð alþjóðleg kreppa sem stórskaðaði samskiptin við Rússland og Serbíu."
     },
     {
       "ar": "1927",
-      "texti": "Kvikmyndin The Jazz Singer var frumsýnd, ein fyrsta kvikmyndin í fullri lengd með samstilltri hljóðritaðri tónlist. Hvíta tjaldið var skyndilega hætt að kunna að þegja."
+      "texti": "Kvikmyndin The Jazz Singer var frumsýnd og varð ein fyrsta kvikmyndin í fullri lengd með samstilltri, hljóðritaðri tónlist. Tjaldhetjurnar voru skyndilega farnar að láta í sér heyra."
     },
     {
       "ar": "1995",
-      "texti": "Stjörnufræðingarnir Michel Mayor og Didier Queloz greindu frá reikistjörnu á braut um stjörnuna 51 Pegasi. Hún var fyrsta þekkta fjarreikistjarnan sem fannst við meginraðarstjörnu."
+      "texti": "Stjörnufræðingarnir Michel Mayor og Didier Queloz greindu frá reikistjörnu á braut um 51 Pegasi. Hún var fyrsta þekkta fjarreikistjarnan sem fannst við sólstjörnu á meginröð."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1659",
-      "texti": "Hollenskt kaupskip sökk í höfninni í Flatey á Breiðafirði.",
-      "landshluti": "Vesturland"
-    },
-    {
       "ar": "1863",
-      "texti": "Stofnað var félag til að koma upp sjúkrahúsi í Reykjavík. Konur söfnuðu fé til verkefnisins og sjúkrahúsið tók til starfa við Aðalstræti árið 1866.",
+      "texti": "Stofnað var félag til að byggja sjúkrahús í Reykjavík. Konur söfnuðu fé til framkvæmdanna og sjúkrahúsið tók til starfa við Aðalstræti árið 1866.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1919",
-      "texti": "Alþingi samþykkti lög um stofnun Hæstaréttar Íslands, sem tók til starfa um miðjan febrúar árið 1920.",
-      "landshluti": "Landið allt"
+      "ar": "1961",
+      "texti": "Hálfrar aldar afmælis Háskóla Íslands var minnst og Háskólabíó vígt við það tækifæri. Þar var lengi stærsta bíótjald Evrópu, um 200 fermetrar — sæmilegur dúkur undir bíókvöldið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1980",
+      "texti": "Jarðstöðin Skyggnir var tekin í notkun og þar með komst á gervihnattasamband milli Íslands og útlanda.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "2008",
-      "texti": "Í miðju bankahruninu samþykkti Alþingi neyðarlög sem veittu Fjármálaeftirlitinu auknar heimildir til afskipta af rekstri fjármálafyrirtækja.",
+      "texti": "Í bankahruninu samþykkti Alþingi neyðarlög sem veittu Fjármálaeftirlitinu auknar heimildir til að hlutast til um rekstur fjármálafyrirtækja.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
+    {
+      "nafn": "Elisabeth Shue",
+      "starfsgrein": "leikkona",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Gerry Adams",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Emily Mortimer",
+      "starfsgrein": "leikkona",
+      "ar": "1971"
+    },
     {
       "nafn": "Addison Rae",
       "starfsgrein": "samfélagsmiðlastjarna, dansari og söngkona",
       "ar": "2000"
     },
     {
-      "nafn": "Amy Jo Johnson",
-      "starfsgrein": "leikkona",
-      "ar": "1970"
-    },
-    {
       "nafn": "Britt Ekland",
       "starfsgrein": "leikkona og söngkona",
       "ar": "1942"
-    },
-    {
-      "nafn": "Barbara Castle",
-      "starfsgrein": "blaðakona og stjórnmálakona",
-      "ar": "1910"
-    },
-    {
-      "nafn": "Adam Gemili",
-      "starfsgrein": "spretthlaupari",
-      "ar": "1993"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða kvikmynd lét hvíta tjaldið í sér heyra 6. október 1927?",
+      "spurning": "Hvaða reikistjörnufundur var kynntur árið 1995?",
       "svor": [
-        "The Jazz Singer",
-        "Meet the Parents",
-        "Casablanca",
-        "Metropolis"
+        "Fjarreikistjarna við 51 Pegasi",
+        "Nýtt tungl við Mars",
+        "Hringur um Merkúr",
+        "Dvergreikistjarna handan Neptúnusar"
       ],
       "rett": 0,
-      "skyring": "The Jazz Singer var ein fyrsta kvikmyndin í fullri lengd með samstilltri hljóðritaðri tónlist."
+      "skyring": "Mayor og Queloz fundu reikistjörnu á braut um 51 Pegasi og opnuðu þar með nýjan glugga út í geiminn."
     },
     {
-      "spurning": "Við hvaða stjörnu fannst fjarreikistjarna sem Mayor og Queloz kynntu árið 1995?",
+      "spurning": "Hvaða bygging var vígð á hálfrar aldar afmæli Háskóla Íslands árið 1961?",
       "svor": [
-        "Síríus",
-        "Pólstjörnuna",
-        "51 Pegasi",
-        "Betelgás"
-      ],
-      "rett": 2,
-      "skyring": "Reikistjarnan fannst á braut um 51 Pegasi, stjörnu í stjörnumerkinu Pegasus."
-    },
-    {
-      "spurning": "Hvaða íslenski rithöfundur fæddist 6. október 1826?",
-      "svor": [
-        "Stefán Íslandi",
-        "Benedikt Gröndal",
-        "Ásmundur Guðmundsson",
-        "Helga Sigurðardóttir"
+        "Þjóðleikhúsið",
+        "Háskólabíó",
+        "Perlan",
+        "Borgarleikhúsið"
       ],
       "rett": 1,
-      "skyring": "Benedikt Gröndal fæddist þennan dag árið 1826 og hafði bæði fræðimennsku og skáldskap í farteskinu."
+      "skyring": "Háskólabíó var vígt og státaði síðar af um 200 fermetra sýningartjaldi."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var íslenskur rithöfundur?",
+      "svor": [
+        "Stefán Íslandi",
+        "Britt Ekland",
+        "Benedikt Gröndal",
+        "Ásmundur Guðmundsson"
+      ],
+      "rett": 2,
+      "skyring": "Benedikt Gröndal var rithöfundur, en hin báru söng, leik og kirkjuembætti á herðum sér."
     }
   ],
-  "tonlistUSA": "Mack the Knife – Bobby Darin (1959)",
-  "tonlistUK": "Telstar – The Tornados (1962)",
+  "tonlistUSA": "I Gotta Feeling – The Black Eyed Peas (2009)",
+  "tonlistUK": "Where Is the Love? – The Black Eyed Peas (2003)",
   "bio": "The Jazz Singer (1927)",
   "ord_dagsins": {
-    "ord": "dægur",
-    "skyring": "Dægur merkir dagur eða stutt tímabil og lifir meðal annars í orðinu dægurlag."
+    "ord": "árekstragígur",
+    "skyring": "Árekstragígur er dæld eða gígur sem myndast þegar loftsteinn eða annað geimfyrirbæri skellur á yfirborði hnattar."
   },
-  "vissir_thu": "Fjarreikistjarnan við 51 Pegasi var ekki fyrsta fjarreikistjarnan sem menn þekktu, en hún var sú fyrsta sem fannst á braut um meginraðarstjörnu.",
-  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og kaffibolla í postulínsstelli. Varastu þó að vega alla valkosti svo lengi að einhver annar borði síðustu kökusneiðina.",
+  "vissir_thu": "Fjarreikistjarnan við 51 Pegasi, sem kynnt var árið 1995, var sú fyrsta sem vitað var um á braut um sólstjörnu á meginröð.",
+  "stjornuspa": "Vogin finnur jafnvægið milli þess að svara öllum skilaboðum og láta sem gervihnattasambandið hafi bilað. Í kvöld skaltu velja eins og árið sé 1927: svolítinn djass, dálítinn glæsileika og ekkert óþarfa fum.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sui_Dynasty_Uprisings.png/500px-Sui_Dynasty_Uprisings.png",
     "ar": "618",
-    "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs verulega í valdabaráttunni þegar Sui-ættin var að líða undir lok og Tang-ættin að taka við.",
+    "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs svo mjög að hann gat síðar steypt Sui-keisaraættinni af stóli — kínversk valdataflmennska með ansi háum húfi.",
     "heimild": "https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang",
     "breidd": 330,
     "haed": 233
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-06"
 }

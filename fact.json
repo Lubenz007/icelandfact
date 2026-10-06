@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-05",
-  "dagur": 5,
+  "date": "2026-10-06",
+  "dagur": 6,
   "manudur": "október",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 278,
-  "sunrise": "07:48",
-  "sunset": "18:42",
-  "mmdd": "10-05",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 279,
+  "sunrise": "07:50",
+  "sunset": "18:38",
+  "mmdd": "10-06",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 5. október! Í dag göngum við með Parísarkonum til Versala, fylgjumst með Mississippi brjótast út úr göngum og setjum síðan bæði Bítlana og James Bond á fóninn. Sagan kann sannarlega að halda mörgum boltum á lofti — rétt eins og góð Vog.",
+  "kvedja": "Góðan 6. október, kæri lesandi! Í dag flökkum við frá valdabaráttu í Kína til kvikmyndahúsa, fjarreikistjarna og íslenskra gervihnattasambanda — enda kann sagan vel við langar vegalengdir og stuttar dagsetningar.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "869",
-      "texti": "Fjórða kirkjuþingið í Konstantínópel var kallað saman til að ræða stöðu Fótíusar fyrsta, patríarka borgarinnar. Kirkjupólitík miðalda var sjaldan einfalt kaffiboð."
+      "ar": "618",
+      "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs svo mjög að hann gat síðar steypt Sui-keisaraættinni af stóli — kínversk valdataflmennska með ansi háum húfi."
     },
     {
-      "ar": "1789",
-      "texti": "Þúsundir Parísarkvenna og bandamanna þeirra gengu til Versala vegna brauðskorts og hás verðs. Gangan varð einn af eftirminnilegustu atburðum frönsku byltingarinnar."
+      "ar": "1762",
+      "texti": "Orrustunni um Manila lauk með sigri Breta á Spánverjum í sjö ára stríðinu. Í kjölfarið héldu Bretar borginni hersetinni í tuttugu mánuði."
     },
     {
-      "ar": "1869",
-      "texti": "Við gerð Eastman-ganganna í Minnesota braust Mississippi-fljót í gegnum kalksteinsþakið og var nærri búið að eyðileggja Saint Anthony-fossana. Fljótið hafði greinilega sínar eigin hugmyndir um framkvæmdirnar."
+      "ar": "1908",
+      "texti": "Austurríki-Ungverjaland tilkynnti innlimun Bosníu og Hersegóvínu. Afleiðingin varð alþjóðleg kreppa sem stórskaðaði samskiptin við Rússland og Serbíu."
     },
     {
-      "ar": "1962",
-      "texti": "„Love Me Do“, fyrsta smáskífa Bítlanna, kom út í Bretlandi og boðaði nýja tíma í poppsögunni."
+      "ar": "1927",
+      "texti": "Kvikmyndin The Jazz Singer var frumsýnd og varð ein fyrsta kvikmyndin í fullri lengd með samstilltri, hljóðritaðri tónlist. Tjaldhetjurnar voru skyndilega farnar að láta í sér heyra."
     },
     {
-      "ar": "1962",
-      "texti": "Dr. No, fyrsta kvikmyndin um James Bond, var frumsýnd. Þar hófst ein langlífasta kvikmyndasería sögunnar — með martíní, njósnagræjum og hæfilega lyftri augabrún."
+      "ar": "1995",
+      "texti": "Stjörnufræðingarnir Michel Mayor og Didier Queloz greindu frá reikistjörnu á braut um 51 Pegasi. Hún var fyrsta þekkta fjarreikistjarnan sem fannst við sólstjörnu á meginröð."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1615",
-      "texti": "Í Spánverjavígunum var hópur baskneskra hvalveiðimanna drepinn við Skaganaust yst á Dýrafirði.",
-      "landshluti": "Vestfirðir"
+      "ar": "1863",
+      "texti": "Stofnað var félag til að byggja sjúkrahús í Reykjavík. Konur söfnuðu fé til framkvæmdanna og sjúkrahúsið tók til starfa við Aðalstræti árið 1866.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1897",
-      "texti": "Barnablaðið Æskan hóf göngu sína og varð síðar gamalkunnur gestur á íslenskum heimilum.",
+      "ar": "1961",
+      "texti": "Hálfrar aldar afmælis Háskóla Íslands var minnst og Háskólabíó vígt við það tækifæri. Þar var lengi stærsta bíótjald Evrópu, um 200 fermetrar — sæmilegur dúkur undir bíókvöldið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1980",
+      "texti": "Jarðstöðin Skyggnir var tekin í notkun og þar með komst á gervihnattasamband milli Íslands og útlanda.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2008",
+      "texti": "Í bankahruninu samþykkti Alþingi neyðarlög sem veittu Fjármálaeftirlitinu auknar heimildir til að hlutast til um rekstur fjármálafyrirtækja.",
       "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1946",
-      "texti": "Alþingi samþykkti að veita Bandaríkjunum afnot af landi á Miðnesheiði. Samningurinn olli miklum pólitískum deilum.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1963",
-      "texti": "Keflavíkurhljómsveitin Hljómar kom opinberlega fram í fyrsta sinn og íslenska bítlabylgjan fékk byr undir báða vængi.",
-      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Travis Kelce",
-      "starfsgrein": "leikmaður í amerískum fótbolta",
-      "ar": "1989"
-    },
-    {
-      "nafn": "Kate Winslet",
+      "nafn": "Elisabeth Shue",
       "starfsgrein": "leikkona",
-      "ar": "1975"
+      "ar": "1963"
     },
     {
-      "nafn": "Jesse Eisenberg",
-      "starfsgrein": "leikari og rithöfundur",
-      "ar": "1983"
+      "nafn": "Gerry Adams",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1948"
     },
     {
-      "nafn": "Neil deGrasse Tyson",
-      "starfsgrein": "stjarneðlisfræðingur og rithöfundur",
-      "ar": "1958"
+      "nafn": "Emily Mortimer",
+      "starfsgrein": "leikkona",
+      "ar": "1971"
     },
     {
-      "nafn": "Brian Johnson",
-      "starfsgrein": "söngvari og lagahöfundur",
-      "ar": "1947"
+      "nafn": "Addison Rae",
+      "starfsgrein": "samfélagsmiðlastjarna, dansari og söngkona",
+      "ar": "2000"
+    },
+    {
+      "nafn": "Britt Ekland",
+      "starfsgrein": "leikkona og söngkona",
+      "ar": "1942"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Albert Guðmundsson",
-      "starfsgrein": "knattspyrnu- og stjórnmálamaður",
-      "ar": "1923"
+      "nafn": "Benedikt Gröndal",
+      "starfsgrein": "rithöfundur",
+      "ar": "1826"
     },
     {
-      "nafn": "Jón Thoroddsen eldri",
-      "starfsgrein": "sýslumaður",
-      "ar": "1818"
+      "nafn": "Stefán Íslandi",
+      "starfsgrein": "söngvari",
+      "ar": "1907"
     },
     {
-      "nafn": "Ásthildur Kjartansdóttir",
-      "starfsgrein": "leikstjóri",
-      "ar": "1950"
+      "nafn": "Ásmundur Guðmundsson",
+      "starfsgrein": "biskup",
+      "ar": "1888"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvert gengu Parísarkonur árið 1789 til að mótmæla brauðskorti og háu verði?",
+      "spurning": "Hvaða reikistjörnufundur var kynntur árið 1995?",
       "svor": [
-        "Til Versala",
-        "Til Bastillunnar",
-        "Til Marseille",
-        "Til Brussel"
+        "Fjarreikistjarna við 51 Pegasi",
+        "Nýtt tungl við Mars",
+        "Hringur um Merkúr",
+        "Dvergreikistjarna handan Neptúnusar"
       ],
       "rett": 0,
-      "skyring": "Kvennagangan lá til Versala, þar sem konungshirðin sat við heldur betri kost en almenningur."
+      "skyring": "Mayor og Queloz fundu reikistjörnu á braut um 51 Pegasi og opnuðu þar með nýjan glugga út í geiminn."
     },
     {
-      "spurning": "Hvaða tvö menningarfyrirbæri litu dagsins ljós í Bretlandi 5. október 1962?",
+      "spurning": "Hvaða bygging var vígð á hálfrar aldar afmæli Háskóla Íslands árið 1961?",
       "svor": [
-        "Star Wars og ABBA",
-        "Dr. No og „Love Me Do“",
-        "Doctor Who og Rolling Stones",
-        "Mary Poppins og „Hey Jude“"
+        "Þjóðleikhúsið",
+        "Háskólabíó",
+        "Perlan",
+        "Borgarleikhúsið"
       ],
       "rett": 1,
-      "skyring": "Fyrsta Bond-myndin og fyrsta smáskífa Bítlanna komu út sama dag."
+      "skyring": "Háskólabíó var vígt og státaði síðar af um 200 fermetra sýningartjaldi."
     },
     {
-      "spurning": "Hvaðan var hljómsveitin Hljómar, sem kom fyrst opinberlega fram árið 1963?",
+      "spurning": "Hver þessara afmælisbarna var íslenskur rithöfundur?",
       "svor": [
-        "Akureyri",
-        "Ísafjörður",
-        "Keflavík",
-        "Selfoss"
+        "Stefán Íslandi",
+        "Britt Ekland",
+        "Benedikt Gröndal",
+        "Ásmundur Guðmundsson"
       ],
       "rett": 2,
-      "skyring": "Hljómar komu frá Keflavík, sem varð ein helsta vagga íslenska bítlatímans."
+      "skyring": "Benedikt Gröndal var rithöfundur, en hin báru söng, leik og kirkjuembætti á herðum sér."
     }
   ],
-  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
-  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
-  "bio": "Dr. No (1962)",
+  "tonlistUSA": "I Gotta Feeling – The Black Eyed Peas (2009)",
+  "tonlistUK": "Where Is the Love? – The Black Eyed Peas (2003)",
+  "bio": "The Jazz Singer (1927)",
   "ord_dagsins": {
-    "ord": "brauðfótur",
-    "skyring": "Brauðfótur er sá sem vinnur fyrir heimilinu og sér því fyrir lífsviðurværi."
+    "ord": "árekstragígur",
+    "skyring": "Árekstragígur er dæld eða gígur sem myndast þegar loftsteinn eða annað geimfyrirbæri skellur á yfirborði hnattar."
   },
-  "vissir_thu": "Vissir þú að fyrsta James Bond-myndin og fyrsta smáskífa Bítlanna komu báðar út í Bretlandi 5. október 1962?",
-  "stjornuspa": "Vogin finnur fullkomið jafnvægi milli þess að hlusta á Bítlana og horfa á Bond — en á erfiðara með að velja snarl. Treystu innsæinu; það hallar líklega að einhverju með súkkulaði.",
+  "vissir_thu": "Fjarreikistjarnan við 51 Pegasi, sem kynnt var árið 1995, var sú fyrsta sem vitað var um á braut um sólstjörnu á meginröð.",
+  "stjornuspa": "Vogin finnur jafnvægið milli þess að svara öllum skilaboðum og láta sem gervihnattasambandið hafi bilað. Í kvöld skaltu velja eins og árið sé 1927: svolítinn djass, dálítinn glæsileika og ekkert óþarfa fum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg/500px-Cesare_Nebbia_%E2%80%93_Fourth_Council_of_Constantinople.jpg",
-    "ar": "869",
-    "texti": "Fjórða kirkjuþingið í Konstantínópel var kallað saman til að ræða stöðu Fótíusar fyrsta, patríarka borgarinnar. Kirkjupólitík miðalda var sjaldan einfalt kaffiboð.",
-    "heimild": "https://en.wikipedia.org/wiki/Fourth_Council_of_Constantinople_(Catholic_Church)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sui_Dynasty_Uprisings.png/500px-Sui_Dynasty_Uprisings.png",
+    "ar": "618",
+    "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs svo mjög að hann gat síðar steypt Sui-keisaraættinni af stóli — kínversk valdataflmennska með ansi háum húfi.",
+    "heimild": "https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang",
     "breidd": 330,
-    "haed": 324
+    "haed": 233
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-05",
-  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-06",
+  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
