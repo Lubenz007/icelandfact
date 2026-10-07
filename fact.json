@@ -1,157 +1,147 @@
 {
-  "date": "2026-10-06",
-  "dagur": 6,
+  "date": "2026-10-07",
+  "dagur": 7,
   "manudur": "október",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 279,
-  "sunrise": "07:50",
-  "sunset": "18:38",
-  "mmdd": "10-06",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 280,
+  "sunrise": "07:53",
+  "sunset": "18:35",
+  "mmdd": "10-07",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 6. október, kæri lesandi! Í dag flökkum við frá valdabaráttu í Kína til kvikmyndahúsa, fjarreikistjarna og íslenskra gervihnattasambanda — enda kann sagan vel við langar vegalengdir og stuttar dagsetningar.",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 7. október! Í dag siglum við frá Lepanto til Reykjavíkur, lítum upp eftir smástirni og gætum þess sérstaklega að kirkjudyrnar opnist í rétta átt — sagan kann nefnilega bæði stórar orrustur og býsna hagnýtar reglugerðir.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "618",
-      "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs svo mjög að hann gat síðar steypt Sui-keisaraættinni af stóli — kínversk valdataflmennska með ansi háum húfi."
+      "ar": "1571",
+      "texti": "Orrustan við Lepanto var háð nærri Korintuflóa og varð Ottómanaveldi verulegt áfall. Þetta var síðasta stóra sjóorrustan sem alfarið var háð á galeiðum."
     },
     {
-      "ar": "1762",
-      "texti": "Orrustunni um Manila lauk með sigri Breta á Spánverjum í sjö ára stríðinu. Í kjölfarið héldu Bretar borginni hersetinni í tuttugu mánuði."
+      "ar": "1849",
+      "texti": "Bandaríski rithöfundurinn Edgar Allan Poe lést á sjúkrahúsi í Baltimore, fjórum dögum eftir að hann fannst ringlaður og illa á sig kominn á götu. Dánarorsökin er enn ráðgáta, alveg í anda höfundarins sjálfs."
     },
     {
-      "ar": "1908",
-      "texti": "Austurríki-Ungverjaland tilkynnti innlimun Bosníu og Hersegóvínu. Afleiðingin varð alþjóðleg kreppa sem stórskaðaði samskiptin við Rússland og Serbíu."
+      "ar": "1944",
+      "texti": "Fangar úr Sonderkommando-vinnusveit í Auschwitz gerðu uppreisn þegar þeir komust að því að til stæði að myrða þá. Nokkrir sluppu um stund, en flestir uppreisnarmannanna voru drepnir sama dag."
     },
     {
-      "ar": "1927",
-      "texti": "Kvikmyndin The Jazz Singer var frumsýnd og varð ein fyrsta kvikmyndin í fullri lengd með samstilltri, hljóðritaðri tónlist. Tjaldhetjurnar voru skyndilega farnar að láta í sér heyra."
+      "ar": "2006",
+      "texti": "Rússneska blaðakonan og mannréttindakonan Anna Politkovskaya var myrt í lyftu fjölbýlishúss síns í Moskvu. Hún hafði verið þekkt fyrir óvægna umfjöllun um stjórnvöld og stríðið í Tsjetsjeníu."
     },
     {
-      "ar": "1995",
-      "texti": "Stjörnufræðingarnir Michel Mayor og Didier Queloz greindu frá reikistjörnu á braut um 51 Pegasi. Hún var fyrsta þekkta fjarreikistjarnan sem fannst við sólstjörnu á meginröð."
+      "ar": "2008",
+      "texti": "Smástirnið 2008 TC3 sprakk yfir Núbíueyðimörkinni í Súdan. Þetta var í fyrsta sinn sem árekstri smástirnis við lofthjúp jarðar hafði verið spáð áður en það kom inn í hann."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1863",
-      "texti": "Stofnað var félag til að byggja sjúkrahús í Reykjavík. Konur söfnuðu fé til framkvæmdanna og sjúkrahúsið tók til starfa við Aðalstræti árið 1866.",
+      "ar": "1828",
+      "texti": "Konungur gaf út úrskurð um að kirkjudyr skyldu opnast út. Hagnýt ákvörðun sem hefur sjálfsagt komið sér vel þegar kirkjugestir vildu komast rösklega heim í kaffið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1954",
+      "texti": "Minjasafn Reykjavíkur var stofnað, en síðar var starfseminni skipt milli Árbæjarsafns og Borgarskjalasafns.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1961",
-      "texti": "Hálfrar aldar afmælis Háskóla Íslands var minnst og Háskólabíó vígt við það tækifæri. Þar var lengi stærsta bíótjald Evrópu, um 200 fermetrar — sæmilegur dúkur undir bíókvöldið.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1980",
-      "texti": "Jarðstöðin Skyggnir var tekin í notkun og þar með komst á gervihnattasamband milli Íslands og útlanda.",
+      "ar": "1992",
+      "texti": "Flóðljós voru tekin í notkun á Laugardalsvelli í Reykjavík. Þar með gátu knattspyrnumenn elt boltann eftir að skammdegið mætti til leiks.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "2008",
-      "texti": "Í bankahruninu samþykkti Alþingi neyðarlög sem veittu Fjármálaeftirlitinu auknar heimildir til að hlutast til um rekstur fjármálafyrirtækja.",
+      "texti": "Í bankahruninu tók Fjármálaeftirlitið yfir rekstur Landsbanka Íslands, einn af afdrifaríkustu atburðum íslenskrar fjármálasögu.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Elisabeth Shue",
-      "starfsgrein": "leikkona",
-      "ar": "1963"
+      "nafn": "Desmond Tutu",
+      "starfsgrein": "erkibiskup og mannréttindafrömuður",
+      "ar": "1931"
     },
     {
-      "nafn": "Gerry Adams",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1948"
+      "nafn": "Alesha Dixon",
+      "starfsgrein": "söngkona, lagahöfundur og dansari",
+      "ar": "1978"
     },
     {
-      "nafn": "Emily Mortimer",
-      "starfsgrein": "leikkona",
-      "ar": "1971"
+      "nafn": "Aaron Ashmore",
+      "starfsgrein": "leikari",
+      "ar": "1979"
     },
     {
-      "nafn": "Addison Rae",
-      "starfsgrein": "samfélagsmiðlastjarna, dansari og söngkona",
-      "ar": "2000"
+      "nafn": "Jermain Defoe",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1982"
     },
     {
-      "nafn": "Britt Ekland",
-      "starfsgrein": "leikkona og söngkona",
-      "ar": "1942"
+      "nafn": "Diego Costa",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1988"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Benedikt Gröndal",
-      "starfsgrein": "rithöfundur",
-      "ar": "1826"
-    },
-    {
-      "nafn": "Stefán Íslandi",
-      "starfsgrein": "söngvari",
-      "ar": "1907"
-    },
-    {
-      "nafn": "Ásmundur Guðmundsson",
-      "starfsgrein": "biskup",
-      "ar": "1888"
+      "nafn": "Dr. Gunni",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1965"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða reikistjörnufundur var kynntur árið 1995?",
+      "spurning": "Hvaða rithöfundur lést við dularfullar aðstæður 7. október 1849?",
       "svor": [
-        "Fjarreikistjarna við 51 Pegasi",
-        "Nýtt tungl við Mars",
-        "Hringur um Merkúr",
-        "Dvergreikistjarna handan Neptúnusar"
+        "Edgar Allan Poe",
+        "Charles Dickens",
+        "Mark Twain",
+        "Oscar Wilde"
       ],
       "rett": 0,
-      "skyring": "Mayor og Queloz fundu reikistjörnu á braut um 51 Pegasi og opnuðu þar með nýjan glugga út í geiminn."
+      "skyring": "Edgar Allan Poe lést eftir að hafa fundist ringlaður á götu í Baltimore — ráðgátan hefði sómt sér vel í einni af sögum hans."
     },
     {
-      "spurning": "Hvaða bygging var vígð á hálfrar aldar afmæli Háskóla Íslands árið 1961?",
+      "spurning": "Hvað var tekið í notkun á Laugardalsvelli árið 1992?",
       "svor": [
-        "Þjóðleikhúsið",
-        "Háskólabíó",
-        "Perlan",
-        "Borgarleikhúsið"
+        "Upphitað gras",
+        "Flóðljós",
+        "Rennandi þak",
+        "Rafrænt dómarakerfi"
       ],
       "rett": 1,
-      "skyring": "Háskólabíó var vígt og státaði síðar af um 200 fermetra sýningartjaldi."
+      "skyring": "Flóðljósin voru tekin í notkun og skammdegið fékk loksins verðugan mótherja."
     },
     {
-      "spurning": "Hver þessara afmælisbarna var íslenskur rithöfundur?",
+      "spurning": "Hver afmælisbarna dagsins hlaut friðarverðlaun Nóbels?",
       "svor": [
-        "Stefán Íslandi",
-        "Britt Ekland",
-        "Benedikt Gröndal",
-        "Ásmundur Guðmundsson"
+        "Aaron Ashmore",
+        "Jermain Defoe",
+        "Desmond Tutu",
+        "Diego Costa"
       ],
       "rett": 2,
-      "skyring": "Benedikt Gröndal var rithöfundur, en hin báru söng, leik og kirkjuembætti á herðum sér."
+      "skyring": "Desmond Tutu hlaut friðarverðlaun Nóbels fyrir baráttu sína gegn aðskilnaðarstefnunni í Suður-Afríku."
     }
   ],
-  "tonlistUSA": "I Gotta Feeling – The Black Eyed Peas (2009)",
-  "tonlistUK": "Where Is the Love? – The Black Eyed Peas (2003)",
-  "bio": "The Jazz Singer (1927)",
+  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
+  "tonlistUK": "Fairground – Simply Red (1995)",
+  "bio": "The French Connection (1971)",
   "ord_dagsins": {
-    "ord": "árekstragígur",
-    "skyring": "Árekstragígur er dæld eða gígur sem myndast þegar loftsteinn eða annað geimfyrirbæri skellur á yfirborði hnattar."
+    "ord": "galeiða",
+    "skyring": "Galeiða er langt og mjótt skip sem einkum var knúið áfram með árum, þótt segl væru einnig notuð."
   },
-  "vissir_thu": "Fjarreikistjarnan við 51 Pegasi, sem kynnt var árið 1995, var sú fyrsta sem vitað var um á braut um sólstjörnu á meginröð.",
-  "stjornuspa": "Vogin finnur jafnvægið milli þess að svara öllum skilaboðum og láta sem gervihnattasambandið hafi bilað. Í kvöld skaltu velja eins og árið sé 1927: svolítinn djass, dálítinn glæsileika og ekkert óþarfa fum.",
+  "vissir_thu": "Smástirnið 2008 TC3 var það fyrsta sem vísindamenn sáu fyrir að myndi rekast á lofthjúp jarðar áður en það gerðist.",
+  "stjornuspa": "Vogin ætti að vega og meta málin af yfirvegun, en ekki svo lengi að kaffið kólni. Óvænt skilaboð gætu borist — svaraðu þeim með þeirri kurteisi sem hæfir diplómata frá árinu 1974.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Sui_Dynasty_Uprisings.png/500px-Sui_Dynasty_Uprisings.png",
-    "ar": "618",
-    "texti": "Her Wang Shichong sigraði sveitir Li Mi í orrustunni við Yanshi. Sigurinn styrkti stöðu Wangs svo mjög að hann gat síðar steypt Sui-keisaraættinni af stóli — kínversk valdataflmennska með ansi háum húfi.",
-    "heimild": "https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/MixCollage-15-Jan-2024-09-37-PM-7066.jpg/500px-MixCollage-15-Jan-2024-09-37-PM-7066.jpg",
+    "ar": "1571",
+    "texti": "Orrustan við Lepanto var háð nærri Korintuflóa og varð Ottómanaveldi verulegt áfall. Þetta var síðasta stóra sjóorrustan sem alfarið var háð á galeiðum.",
+    "heimild": "https://en.wikipedia.org/wiki/Ottoman–Habsburg_wars",
     "breidd": 330,
-    "haed": 233
+    "haed": 330
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-06",
-  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-07",
+  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
