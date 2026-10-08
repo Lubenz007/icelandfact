@@ -1,147 +1,157 @@
 {
-  "date": "2026-10-07",
-  "dagur": 7,
+  "date": "2026-10-08",
+  "dagur": 8,
   "manudur": "október",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 280,
-  "sunrise": "07:53",
-  "sunset": "18:35",
-  "mmdd": "10-07",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 281,
+  "sunrise": "07:56",
+  "sunset": "18:31",
+  "mmdd": "10-08",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 7. október! Í dag siglum við frá Lepanto til Reykjavíkur, lítum upp eftir smástirni og gætum þess sérstaklega að kirkjudyrnar opnist í rétta átt — sagan kann nefnilega bæði stórar orrustur og býsna hagnýtar reglugerðir.",
+  "kvedja": "Góðan 8. október, kæri lesandi! Í dag sveiflum við okkur frá kirkjuþingi ársins 451 til Chicagoeldsins, fullkomins hafnaboltaleiks og Bruno Mars — sagan kann sannarlega að halda mörgum boltum á lofti. Vogin minnir okkur svo á að jafnvægi sé ágætt, jafnvel þegar fortíðin er á fleygiferð.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1571",
-      "texti": "Orrustan við Lepanto var háð nærri Korintuflóa og varð Ottómanaveldi verulegt áfall. Þetta var síðasta stóra sjóorrustan sem alfarið var háð á galeiðum."
+      "ar": "451",
+      "texti": "Kirkjuþingið í Kalkedon var sett og varð síðar eitt áhrifamesta kirkjuþing kristninnar; þar var eineðliskenningu Evtykes hafnað og Kalkedonsjátningin mótuð."
     },
     {
-      "ar": "1849",
-      "texti": "Bandaríski rithöfundurinn Edgar Allan Poe lést á sjúkrahúsi í Baltimore, fjórum dögum eftir að hann fannst ringlaður og illa á sig kominn á götu. Dánarorsökin er enn ráðgáta, alveg í anda höfundarins sjálfs."
+      "ar": "1871",
+      "texti": "Chicagoeldurinn mikli hófst og lagði stóran hluta miðborgarinnar í rúst. Um 300 létust og 90.000 misstu heimili sín — afskaplega dýr áminning um að eldur virðir hvorki götur né glæsihýsi."
     },
     {
-      "ar": "1944",
-      "texti": "Fangar úr Sonderkommando-vinnusveit í Auschwitz gerðu uppreisn þegar þeir komust að því að til stæði að myrða þá. Nokkrir sluppu um stund, en flestir uppreisnarmannanna voru drepnir sama dag."
+      "ar": "1956",
+      "texti": "Kastarinn Don Larsen lék eina fullkomna leikinn í sögu úrslitakeppni bandarísku hafnaboltadeildarinnar. Enginn mótherji komst á stöð, sem á hafnaboltamáli jafngildir því að sagan haldi niðri í sér andanum."
     },
     {
-      "ar": "2006",
-      "texti": "Rússneska blaðakonan og mannréttindakonan Anna Politkovskaya var myrt í lyftu fjölbýlishúss síns í Moskvu. Hún hafði verið þekkt fyrir óvægna umfjöllun um stjórnvöld og stríðið í Tsjetsjeníu."
+      "ar": "1967",
+      "texti": "Byltingarmaðurinn og skæruliðaforinginn Che Guevara var handtekinn nærri La Higuera í Bólivíu."
     },
     {
-      "ar": "2008",
-      "texti": "Smástirnið 2008 TC3 sprakk yfir Núbíueyðimörkinni í Súdan. Þetta var í fyrsta sinn sem árekstri smástirnis við lofthjúp jarðar hafði verið spáð áður en það kom inn í hann."
+      "ar": "2001",
+      "texti": "Flugvél Scandinavian Airlines, SK686, rakst í flugtaki á Cessna Citation II við Linate-flugvöll í Mílanó. Alls létust 118 manns í slysinu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1828",
-      "texti": "Konungur gaf út úrskurð um að kirkjudyr skyldu opnast út. Hagnýt ákvörðun sem hefur sjálfsagt komið sér vel þegar kirkjugestir vildu komast rösklega heim í kaffið.",
-      "landshluti": "Landið allt"
+      "ar": "1720",
+      "texti": "Bjarnastaðaskriða féll úr Vatnsdalsfjalli á tvo bæi í Húnavatnssýslu og sex manns fórust. Skriðan stíflaði einnig Vatnsdalsá og myndaði stöðuvatnið sem kallast Flóðið.",
+      "landshluti": "Norðurland"
     },
     {
-      "ar": "1954",
-      "texti": "Minjasafn Reykjavíkur var stofnað, en síðar var starfseminni skipt milli Árbæjarsafns og Borgarskjalasafns.",
+      "ar": "1879",
+      "texti": "Hið íslenska fornleifafélag var stofnað í Reykjavík, enda fortíðin of merkileg til að skilja hana eina eftir úti í móa.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1992",
-      "texti": "Flóðljós voru tekin í notkun á Laugardalsvelli í Reykjavík. Þar með gátu knattspyrnumenn elt boltann eftir að skammdegið mætti til leiks.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1910",
+      "texti": "Enskur togari rændi hreppstjóra og sýslumanni Barðstrendinga og flutti þá til Englands — embættisferð sem hvorugur hafði væntanlega samþykkt.",
+      "landshluti": "Vestfirðir"
     },
     {
       "ar": "2008",
-      "texti": "Í bankahruninu tók Fjármálaeftirlitið yfir rekstur Landsbanka Íslands, einn af afdrifaríkustu atburðum íslenskrar fjármálasögu.",
-      "landshluti": "Landið allt"
+      "texti": "Í miðju bankahruninu setti breska fjármálaeftirlitið Kaupthing Singer & Friedlander í greiðslustöðvun.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Desmond Tutu",
-      "starfsgrein": "erkibiskup og mannréttindafrömuður",
-      "ar": "1931"
+      "nafn": "Bruno Mars",
+      "starfsgrein": "söngvari, lagahöfundur og upptökustjóri",
+      "ar": "1985"
     },
     {
-      "nafn": "Alesha Dixon",
-      "starfsgrein": "söngkona, lagahöfundur og dansari",
-      "ar": "1978"
+      "nafn": "Bella Thorne",
+      "starfsgrein": "leikkona",
+      "ar": "1997"
     },
     {
-      "nafn": "Aaron Ashmore",
+      "nafn": "Angus T. Jones",
       "starfsgrein": "leikari",
-      "ar": "1979"
+      "ar": "1993"
     },
     {
-      "nafn": "Jermain Defoe",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1982"
+      "nafn": "Ardal O'Hanlon",
+      "starfsgrein": "grínisti, leikari og handritshöfundur",
+      "ar": "1965"
     },
     {
-      "nafn": "Diego Costa",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1988"
+      "nafn": "Garbiñe Muguruza",
+      "starfsgrein": "tenniskona",
+      "ar": "1993"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Dr. Gunni",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1965"
+      "nafn": "Eva Pandóra Baldursdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1990"
+    },
+    {
+      "nafn": "Björn Jónsson",
+      "starfsgrein": "ráðherra",
+      "ar": "1846"
+    },
+    {
+      "nafn": "Bryndís Hlöðversdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1960"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða rithöfundur lést við dularfullar aðstæður 7. október 1849?",
+      "spurning": "Hvaða borg varð fyrir miklum eldsvoða 8. október 1871?",
       "svor": [
-        "Edgar Allan Poe",
-        "Charles Dickens",
-        "Mark Twain",
-        "Oscar Wilde"
+        "Chicago",
+        "Mílanó",
+        "Bakú",
+        "Osló"
       ],
       "rett": 0,
-      "skyring": "Edgar Allan Poe lést eftir að hafa fundist ringlaður á götu í Baltimore — ráðgátan hefði sómt sér vel í einni af sögum hans."
+      "skyring": "Chicagoeldurinn mikli hófst þennan dag og skildi 90.000 manns eftir heimilislausa."
     },
     {
-      "spurning": "Hvað var tekið í notkun á Laugardalsvelli árið 1992?",
+      "spurning": "Hvaða afmælisbarn gæti líklegast sungið okkur inn í daginn með miklum sviðsglæsibrag?",
       "svor": [
-        "Upphitað gras",
-        "Flóðljós",
-        "Rennandi þak",
-        "Rafrænt dómarakerfi"
+        "Ardal O'Hanlon",
+        "Bruno Mars",
+        "Angus T. Jones",
+        "Garbiñe Muguruza"
       ],
       "rett": 1,
-      "skyring": "Flóðljósin voru tekin í notkun og skammdegið fékk loksins verðugan mótherja."
+      "skyring": "Bruno Mars fæddist árið 1985 og hefur sjaldan verið sakaður um skort á sviðsþokka."
     },
     {
-      "spurning": "Hver afmælisbarna dagsins hlaut friðarverðlaun Nóbels?",
+      "spurning": "Hvaða félag var stofnað í Reykjavík árið 1879?",
       "svor": [
-        "Aaron Ashmore",
-        "Jermain Defoe",
-        "Desmond Tutu",
-        "Diego Costa"
+        "Íþróttafélagið Draupnir",
+        "Hið íslenska fornleifafélag",
+        "Scandinavian Airlines",
+        "Kaupthing Singer & Friedlander"
       ],
-      "rett": 2,
-      "skyring": "Desmond Tutu hlaut friðarverðlaun Nóbels fyrir baráttu sína gegn aðskilnaðarstefnunni í Suður-Afríku."
+      "rett": 1,
+      "skyring": "Hið íslenska fornleifafélag var stofnað til að sinna íslenskum fornminjum og sögu."
     }
   ],
-  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
-  "tonlistUK": "Fairground – Simply Red (1995)",
-  "bio": "The French Connection (1971)",
+  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
+  "tonlistUK": "If I Was – Midge Ure (1985)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "galeiða",
-    "skyring": "Galeiða er langt og mjótt skip sem einkum var knúið áfram með árum, þótt segl væru einnig notuð."
+    "ord": "málalengingar",
+    "skyring": "Málalengingar eru óþarflega langar eða tafsamar umræður, oft notaðar til að tefja framgang máls."
   },
-  "vissir_thu": "Smástirnið 2008 TC3 var það fyrsta sem vísindamenn sáu fyrir að myndi rekast á lofthjúp jarðar áður en það gerðist.",
-  "stjornuspa": "Vogin ætti að vega og meta málin af yfirvegun, en ekki svo lengi að kaffið kólni. Óvænt skilaboð gætu borist — svaraðu þeim með þeirri kurteisi sem hæfir diplómata frá árinu 1974.",
+  "vissir_thu": "Í fullkomnum hafnaboltaleik kemst enginn leikmaður mótherjanna á stöð, og leikur Don Larsen árið 1956 er enn sá eini slíki í sögu úrslitakeppni bandarísku atvinnudeildarinnar.",
+  "stjornuspa": "Vog, dustaðu rykið af bestu flíkinni og láttu eins og árið sé 1985: stórt hár og enn stærri áform. Mundu þó að jafnvægi felst líka í því að segja nei við einni málalengingu áður en kaffið kólnar.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/MixCollage-15-Jan-2024-09-37-PM-7066.jpg/500px-MixCollage-15-Jan-2024-09-37-PM-7066.jpg",
-    "ar": "1571",
-    "texti": "Orrustan við Lepanto var háð nærri Korintuflóa og varð Ottómanaveldi verulegt áfall. Þetta var síðasta stóra sjóorrustan sem alfarið var háð á galeiðum.",
-    "heimild": "https://en.wikipedia.org/wiki/Ottoman–Habsburg_wars",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fourth_ecumenical_council_of_chalcedon_-_1876.jpg/500px-Fourth_ecumenical_council_of_chalcedon_-_1876.jpg",
+    "ar": "451",
+    "texti": "Kirkjuþingið í Kalkedon var sett og varð síðar eitt áhrifamesta kirkjuþing kristninnar; þar var eineðliskenningu Evtykes hafnað og Kalkedonsjátningin mótuð.",
+    "heimild": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
     "breidd": 330,
-    "haed": 330
+    "haed": 293
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-07",
-  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-08",
+  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

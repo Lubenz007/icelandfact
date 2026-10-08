@@ -6,56 +6,56 @@
   "stjornumerki": "Vog",
   "sunrise": "07:55",
   "sunset": "18:33",
-  "kvedja": "Góðan 8. október, kæri lesandi! Í dag förum við frá kirkjuþingi í Kalkedon yfir í eldhaf í Chicago, með viðkomu á hafnaboltavelli og í íslenskri skriðu — sagan kann sannarlega ekki að sitja kyrr.",
+  "kvedja": "Góðan 8. október, kæri lesandi! Í dag sveiflum við okkur frá kirkjuþingi ársins 451 til Chicagoeldsins, fullkomins hafnaboltaleiks og Bruno Mars — sagan kann sannarlega að halda mörgum boltum á lofti. Vogin minnir okkur svo á að jafnvægi sé ágætt, jafnvel þegar fortíðin er á fleygiferð.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "451",
-      "texti": "Kirkjuþingið í Kalkedon var sett og varð eitt áhrifamesta kirkjuþing frumkristninnar. Þar var kenningu Eutýkesar um eitt eðli Krists hafnað og Kalkedonsjátningin mótuð."
+      "texti": "Kirkjuþingið í Kalkedon var sett og varð síðar eitt áhrifamesta kirkjuþing kristninnar; þar var eineðliskenningu Evtykes hafnað og Kalkedonsjátningin mótuð."
     },
     {
       "ar": "1871",
-      "texti": "Chicago-eldurinn mikli hófst og lagði stóran hluta miðborgarinnar í rúst. Um 300 manns létust og 90.000 urðu heimilislaus — borgin fékk heldur betur óumbeðna endurskipulagningu."
-    },
-    {
-      "ar": "1918",
-      "texti": "Í Meuse–Argonne-sókninni leiddi bandaríski undirliðþjálfinn Alvin York sjö eftirlifandi félaga sína gegn þýsku vélbyssuhreiðri. Tuttugu og fimm þýskir hermenn féllu og 132 voru teknir til fanga."
+      "texti": "Chicagoeldurinn mikli hófst og lagði stóran hluta miðborgarinnar í rúst. Um 300 létust og 90.000 misstu heimili sín — afskaplega dýr áminning um að eldur virðir hvorki götur né glæsihýsi."
     },
     {
       "ar": "1956",
-      "texti": "Don Larsen kastaði eina fullkomna leiknum í sögu úrslitakeppni bandaríska hafnaboltans. Enginn mótherji komst á stöð — dagur þar sem orðið „fullkomið“ var ekki bara íþróttafréttaklisja."
+      "texti": "Kastarinn Don Larsen lék eina fullkomna leikinn í sögu úrslitakeppni bandarísku hafnaboltadeildarinnar. Enginn mótherji komst á stöð, sem á hafnaboltamáli jafngildir því að sagan haldi niðri í sér andanum."
+    },
+    {
+      "ar": "1967",
+      "texti": "Byltingarmaðurinn og skæruliðaforinginn Che Guevara var handtekinn nærri La Higuera í Bólivíu."
     },
     {
       "ar": "2001",
-      "texti": "Á Linate-flugvellinum í Mílanó rakst farþegaþota Scandinavian Airlines á Cessna Citation II-einkaþotu í flugtaki. Alls létust 118 manns í slysinu."
+      "texti": "Flugvél Scandinavian Airlines, SK686, rakst í flugtaki á Cessna Citation II við Linate-flugvöll í Mílanó. Alls létust 118 manns í slysinu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1720",
-      "texti": "Bjarnastaðaskriða féll úr Vatnsdalsfjalli á tvo bæi í Húnavatnssýslu og sex manns fórust. Skriðan stíflaði jafnframt Vatnsdalsá og myndaði stöðuvatnið Flóðið.",
+      "texti": "Bjarnastaðaskriða féll úr Vatnsdalsfjalli á tvo bæi í Húnavatnssýslu og sex manns fórust. Skriðan stíflaði einnig Vatnsdalsá og myndaði stöðuvatnið sem kallast Flóðið.",
       "landshluti": "Norðurland"
     },
     {
       "ar": "1879",
-      "texti": "Hið íslenska fornleifafélag var stofnað í Reykjavík, enda fortíðin of verðmæt til að skilja hana eina eftir úti í móa.",
+      "texti": "Hið íslenska fornleifafélag var stofnað í Reykjavík, enda fortíðin of merkileg til að skilja hana eina eftir úti í móa.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1976",
-      "texti": "Hjónin Finnbogi Rútur Valdimarsson og Hulda Dóra Jakobsdóttir voru kjörin fyrstu heiðursborgarar Kópavogs.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1910",
+      "texti": "Enskur togari rændi hreppstjóra og sýslumanni Barðstrendinga og flutti þá til Englands — embættisferð sem hvorugur hafði væntanlega samþykkt.",
+      "landshluti": "Vestfirðir"
     },
     {
       "ar": "2008",
-      "texti": "Í bankahruninu setti breska fjármálaeftirlitið Kaupthing Singer & Friedlander í greiðslustöðvun.",
+      "texti": "Í miðju bankahruninu setti breska fjármálaeftirlitið Kaupthing Singer & Friedlander í greiðslustöðvun.",
       "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
       "nafn": "Bruno Mars",
-      "starfsgrein": "söngvari, lagahöfundur og tónlistarframleiðandi",
+      "starfsgrein": "söngvari, lagahöfundur og upptökustjóri",
       "ar": "1985"
     },
     {
@@ -74,9 +74,9 @@
       "ar": "1965"
     },
     {
-      "nafn": "Eddie Rickenbacker",
-      "starfsgrein": "hermaður og flugmaður",
-      "ar": "1890"
+      "nafn": "Garbiñe Muguruza",
+      "starfsgrein": "tenniskona",
+      "ar": "1993"
     }
   ],
   "afmaeli_island": [
@@ -91,63 +91,63 @@
       "ar": "1846"
     },
     {
-      "nafn": "Grímur Jónsson Thorkelín",
-      "starfsgrein": "sagnfræðingur",
-      "ar": "1752"
+      "nafn": "Bryndís Hlöðversdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1960"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða borg varð eldhafi 8. október 1871?",
+      "spurning": "Hvaða borg varð fyrir miklum eldsvoða 8. október 1871?",
       "svor": [
         "Chicago",
-        "Boston",
-        "Seattle",
-        "New Orleans"
+        "Mílanó",
+        "Bakú",
+        "Osló"
       ],
       "rett": 0,
-      "skyring": "Chicago-eldurinn mikli hófst þennan dag og skildi um 90.000 manns eftir heimilislausa."
+      "skyring": "Chicagoeldurinn mikli hófst þennan dag og skildi 90.000 manns eftir heimilislausa."
     },
     {
-      "spurning": "Hver kastaði fullkomnum leik í úrslitakeppni hafnaboltans árið 1956?",
+      "spurning": "Hvaða afmælisbarn gæti líklegast sungið okkur inn í daginn með miklum sviðsglæsibrag?",
       "svor": [
-        "Babe Ruth",
-        "Don Larsen",
-        "Joe DiMaggio",
-        "Jackie Robinson"
+        "Ardal O'Hanlon",
+        "Bruno Mars",
+        "Angus T. Jones",
+        "Garbiñe Muguruza"
       ],
       "rett": 1,
-      "skyring": "Don Larsen náði afrekinu, og enginn hefur leikið það eftir í úrslitakeppninni."
+      "skyring": "Bruno Mars fæddist árið 1985 og hefur sjaldan verið sakaður um skort á sviðsþokka."
     },
     {
-      "spurning": "Hvaða félag var stofnað í Reykjavík 8. október 1879?",
+      "spurning": "Hvaða félag var stofnað í Reykjavík árið 1879?",
       "svor": [
-        "Ferðafélag Íslands",
-        "Hið íslenska náttúrufræðifélag",
+        "Íþróttafélagið Draupnir",
         "Hið íslenska fornleifafélag",
-        "Sögufélag"
+        "Scandinavian Airlines",
+        "Kaupthing Singer & Friedlander"
       ],
-      "rett": 2,
-      "skyring": "Hið íslenska fornleifafélag tók til starfa og fór að halda utan um gamla tíma af myndarskap."
+      "rett": 1,
+      "skyring": "Hið íslenska fornleifafélag var stofnað til að sinna íslenskum fornminjum og sögu."
     }
   ],
-  "tonlistUSA": "Love Bites – Def Leppard (1988)",
-  "tonlistUK": "One Moment in Time – Whitney Houston (1988)",
-  "bio": "Joker (2019)",
+  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
+  "tonlistUK": "If I Was – Midge Ure (1985)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "vályndi",
-    "skyring": "Vályndi merkir ógn eða yfirvofandi hættu og er einkar hentugt orð þegar sagan tekur að ýfa kambinn."
+    "ord": "málalengingar",
+    "skyring": "Málalengingar eru óþarflega langar eða tafsamar umræður, oft notaðar til að tefja framgang máls."
   },
-  "vissir_thu": "Fullkominn hafnaboltaleikur þýðir að enginn leikmaður mótherjanna kemst á stöð allan leikinn; Don Larsen er enn sá eini sem hefur afrekað það í úrslitakeppninni.",
-  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að setja góða plötu á fóninn. Varastu þó að vega og meta kaffibollann of lengi — hann kólnar, jafnvel þótt Merkúr sé þér hliðhollur.",
+  "vissir_thu": "Í fullkomnum hafnaboltaleik kemst enginn leikmaður mótherjanna á stöð, og leikur Don Larsen árið 1956 er enn sá eini slíki í sögu úrslitakeppni bandarísku atvinnudeildarinnar.",
+  "stjornuspa": "Vog, dustaðu rykið af bestu flíkinni og láttu eins og árið sé 1985: stórt hár og enn stærri áform. Mundu þó að jafnvægi felst líka í því að segja nei við einni málalengingu áður en kaffið kólnar.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fourth_ecumenical_council_of_chalcedon_-_1876.jpg/500px-Fourth_ecumenical_council_of_chalcedon_-_1876.jpg",
     "ar": "451",
-    "texti": "Kirkjuþingið í Kalkedon var sett og varð eitt áhrifamesta kirkjuþing frumkristninnar. Þar var kenningu Eutýkesar um eitt eðli Krists hafnað og Kalkedonsjátningin mótuð.",
+    "texti": "Kirkjuþingið í Kalkedon var sett og varð síðar eitt áhrifamesta kirkjuþing kristninnar; þar var eineðliskenningu Evtykes hafnað og Kalkedonsjátningin mótuð.",
     "heimild": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
     "breidd": 330,
     "haed": 293
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-08"
 }
