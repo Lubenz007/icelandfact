@@ -6,49 +6,49 @@
   "stjornumerki": "Vog",
   "sunrise": "07:58",
   "sunset": "18:29",
-  "kvedja": "Góðan 9. október! Í dag kveikjum við á ljósdíóðunni, sendum bréf yfir landamæri og rifjum upp kvöldið þegar íslenska karlalandsliðið tryggði sér farseðilinn á HM. Sagan er stundum eins og póstkort: lítil að sjá, en stútfull af stórum tíðindum.",
+  "kvedja": "Góðan 9. október! Í dag kveikjum við á ljósdíóðunni, opnum póstinn og rifjum upp kvöldið þegar Ísland tryggði sér loksins sæti á HM — Vogin má því eiga von á býsna góðu jafnvægi milli vísinda, sögu og fótboltagleði.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1676",
-      "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu í Lundúnum og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í dropa."
+      "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í vatnsdropa."
     },
     {
       "ar": "1780",
-      "texti": "Mannskæðasti fellibylur sem vitað er um á Atlantshafi tók að herja á Karíbahafið. Að minnsta kosti 20.000 manns fórust á Antillaeyjum næstu daga."
+      "texti": "Mannskæðasti fellibylur sem skráður hefur verið á Atlantshafi tók að herja á Karíbahafið. Að minnsta kosti 20.000 manns létust á Antillaeyjum næstu daga."
     },
     {
       "ar": "1874",
-      "texti": "Alþjóðapóstsambandið var stofnað með Bernarsáttmálanum til að samræma póstþjónustu ríkja og auðvelda alþjóðlegar sendingar. Bréfið fékk loksins eins konar vegabréf."
+      "texti": "Alþjóðapóstsambandið var stofnað með Bernarsamningnum til að samræma póstþjónustu milli ríkja. Bréf gátu loksins ferðast yfir landamæri án þess að lenda í skriffinnskuvölundarhúsi."
     },
     {
       "ar": "1962",
-      "texti": "Verkfræðingurinn Nick Holonyak hjá General Electric sýndi ljósdíóðu opinberlega í fyrsta sinn. Litla LED-ljósið átti síðar eftir að blikka á nánast öllum raftækjum heimilisins."
+      "texti": "Verkfræðingurinn Nick Holonyak hjá General Electric sýndi ljósdíóðu opinberlega í fyrsta sinn. Litla ljósið átti síðar eftir að blikka úr ótal tækjum heimsins."
     },
     {
       "ar": "2012",
-      "texti": "Pakistanski menntunarsinninn Malala Yousafzai særðist lífshættulega þegar talíbani reyndi að ráða hana af dögum. Hún lifði árásina af og varð síðar eitt þekktasta tákn heims fyrir rétt stúlkna til menntunar."
+      "texti": "Pakistanska menntabaráttukonan Malala Yousafzai særðist alvarlega þegar talibani reyndi að ráða hana af dögum. Hún lifði árásina af og hélt áfram baráttu sinni fyrir menntun stúlkna."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1696",
-      "texti": "Alþingisbókin, fyrsta íslenska tímaritið, var prentuð í Skálholti af Jóni Snorrasyni. Íslensk tímaritaútgáfa hófst því ekki með glanspappír heldur prentsvertu í biskupssetri.",
+      "texti": "Alþingisbókin, fyrsta íslenska tímaritið, var prentuð í Skálholti af Jóni Snorrasyni.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1943",
+      "texti": "Lifandi leðurblaka fannst á Hvoli í Mýrdal og lifði þar í tíu daga. Slíkt dýr hafði aldrei áður fundist á Íslandi — óvæntur gestur, vængjaður og án vegabréfs.",
       "landshluti": "Suðurland"
     },
     {
       "ar": "1986",
-      "texti": "Stöð 2, fyrsta einkarekna sjónvarpsstöð Íslands, tók til starfa undir stjórn Jóns Óttars Ragnarssonar. Landsmenn fengu þar með fleiri rásir — og fjarstýringin aukið ábyrgðarhlutverk.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "2007",
-      "texti": "Yoko Ono afhjúpaði Friðarsúluna í Viðey á afmælisdegi Johns Lennon. Ljós súlunnar hefur síðan minnt á friðarboðskap með látlausum en björtum hætti.",
+      "texti": "Stöð 2, fyrsta einkarekna sjónvarpsstöð Íslands, hóf útsendingar undir stjórn Jóns Óttars Ragnarssonar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "2017",
-      "texti": "Íslenska karlalandsliðið í knattspyrnu tryggði sér í fyrsta sinn sæti á heimsmeistaramóti með 2:0 sigri á Kósóvó í Laugardal. Smáþjóðin var skyndilega komin á stærsta fótboltasvið heims.",
+      "texti": "Íslenska karlalandsliðið í knattspyrnu tryggði sér í fyrsta sinn sæti á heimsmeistaramóti með 2:0 sigri á Kósóvó í Laugardal.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
@@ -64,9 +64,9 @@
       "ar": "1979"
     },
     {
-      "nafn": "Annika Sörenstam",
-      "starfsgrein": "kylfingur",
-      "ar": "1970"
+      "nafn": "Jacob Batalon",
+      "starfsgrein": "leikari",
+      "ar": "1996"
     },
     {
       "nafn": "Camille Saint-Saëns",
@@ -81,68 +81,73 @@
   ],
   "afmaeli_island": [
     {
-      "nafn": "Ingibjörg Einarsdóttir",
-      "starfsgrein": "eiginkona Jóns Sigurðssonar og húsfreyja",
-      "ar": "1804"
-    },
-    {
       "nafn": "Jakob Jóhannesson Smári",
       "starfsgrein": "skáld",
       "ar": "1889"
+    },
+    {
+      "nafn": "Ingibjörg Einarsdóttir",
+      "starfsgrein": "eiginkona Jóns Sigurðssonar",
+      "ar": "1804"
+    },
+    {
+      "nafn": "Sæmundur Stefánsson",
+      "starfsgrein": "íslenskur holdsveikisjúklingur",
+      "ar": "1859"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða uppfinning var sýnd opinberlega í fyrsta sinn árið 1962?",
+      "spurning": "Hvaða alþjóðastofnun var komið á fót með Bernarsamningnum árið 1874?",
       "svor": [
-        "Ljósdíóða",
-        "Geislaspilari",
-        "Vasareiknir",
-        "Fjarstýring"
+        "Alþjóðapóstsambandinu",
+        "Alþjóðaheilbrigðismálastofnuninni",
+        "Atlantshafsbandalaginu",
+        "Alþjóðaknattspyrnusambandinu"
       ],
       "rett": 0,
-      "skyring": "Nick Holonyak sýndi ljósdíóðuna, litla ljósið sem síðar lagði undir sig raftækjaheiminn."
+      "skyring": "Alþjóðapóstsambandið gerði póstsendingar milli ríkja mun einfaldari."
     },
     {
-      "spurning": "Hvar var fyrsta íslenska tímaritið prentað árið 1696?",
+      "spurning": "Hvað fannst lifandi á Hvoli í Mýrdal árið 1943?",
       "svor": [
-        "Á Hólum",
-        "Í Viðey",
-        "Í Skálholti",
-        "Á Bessastöðum"
-      ],
-      "rett": 2,
-      "skyring": "Alþingisbókin var prentuð í Skálholti af Jóni Snorrasyni."
-    },
-    {
-      "spurning": "Hvaða lið vann Ísland 2:0 þegar sætið á HM 2018 var tryggt?",
-      "svor": [
-        "Króatíu",
-        "Kósóvó",
-        "Úkraínu",
-        "Finnland"
+        "Ísbjörn",
+        "Leðurblaka",
+        "Minkur",
+        "Lundi"
       ],
       "rett": 1,
-      "skyring": "Sigurinn á Kósóvó í Laugardal innsiglaði sögulegt HM-sæti Íslands."
+      "skyring": "Leðurblakan lifði í tíu daga eftir fundinn og vakti skiljanlega talsverða furðu."
+    },
+    {
+      "spurning": "Hvaða lið sigraði Ísland þegar HM-sætið var tryggt árið 2017?",
+      "svor": [
+        "Króatíu",
+        "Úkraínu",
+        "Kósóvó",
+        "Finnland"
+      ],
+      "rett": 2,
+      "skyring": "Ísland vann Kósóvó 2:0 í Laugardal og þjóðin fékk loksins HM-miðann sinn."
     }
   ],
-  "tonlistUSA": "Dancing Queen – ABBA (1976)",
-  "tonlistUK": "Pass the Dutchie – Musical Youth (1982)",
-  "bio": "E.T. the Extra-Terrestrial (1982)",
+  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
+  "bio": "Joker (2019)",
   "ord_dagsins": {
-    "ord": "orðsending",
-    "skyring": "Orðsending er stutt skilaboð eða boð sem komið er áleiðis til annars manns."
+    "ord": "örveröld",
+    "skyring": "Örveröld er afar lítill eða afmarkaður heimur sem getur endurspeglað stærri heild."
   },
-  "vissir_thu": "Alþjóðapóstsambandið, sem stofnað var 9. október 1874, er nú sérstofnun Sameinuðu þjóðanna.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag með aðstoð bréfs, blikkandi ljóss og hæfilega sterks kaffibolla. Varastu þó að vega alla möguleika svo lengi að Stöð 2 verði aftur eina einkarekna sjónvarpsstöðin.",
+  "vissir_thu": "Antonie van Leeuwenhoek smíðaði einfaldar smásjár sem gátu stækkað nægilega mikið til að hann sæi örverur sem mannlegt auga hafði aldrei áður greint.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag með þeirri gamalreyndu aðferð að velta báðum kostum fyrir sér þar til kaffið kólnar. Óvænt skilaboð kunna að berast, svo hafðu póstlúðra Alþjóðapóstsambandsins andlega við höndina.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/500px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
     "ar": "1676",
-    "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu í Lundúnum og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í dropa.",
+    "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í vatnsdropa.",
     "heimild": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
     "breidd": 330,
     "haed": 391
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-09"
 }

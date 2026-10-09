@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-08",
-  "dagur": 8,
+  "date": "2026-10-09",
+  "dagur": 9,
   "manudur": "október",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 281,
-  "sunrise": "07:56",
-  "sunset": "18:31",
-  "mmdd": "10-08",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 282,
+  "sunrise": "07:59",
+  "sunset": "18:28",
+  "mmdd": "10-09",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 8. október, kæri lesandi! Í dag sveiflum við okkur frá kirkjuþingi ársins 451 til Chicagoeldsins, fullkomins hafnaboltaleiks og Bruno Mars — sagan kann sannarlega að halda mörgum boltum á lofti. Vogin minnir okkur svo á að jafnvægi sé ágætt, jafnvel þegar fortíðin er á fleygiferð.",
+  "kvedja": "Góðan 9. október! Í dag kveikjum við á ljósdíóðunni, opnum póstinn og rifjum upp kvöldið þegar Ísland tryggði sér loksins sæti á HM — Vogin má því eiga von á býsna góðu jafnvægi milli vísinda, sögu og fótboltagleði.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "451",
-      "texti": "Kirkjuþingið í Kalkedon var sett og varð síðar eitt áhrifamesta kirkjuþing kristninnar; þar var eineðliskenningu Evtykes hafnað og Kalkedonsjátningin mótuð."
+      "ar": "1676",
+      "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í vatnsdropa."
     },
     {
-      "ar": "1871",
-      "texti": "Chicagoeldurinn mikli hófst og lagði stóran hluta miðborgarinnar í rúst. Um 300 létust og 90.000 misstu heimili sín — afskaplega dýr áminning um að eldur virðir hvorki götur né glæsihýsi."
+      "ar": "1780",
+      "texti": "Mannskæðasti fellibylur sem skráður hefur verið á Atlantshafi tók að herja á Karíbahafið. Að minnsta kosti 20.000 manns létust á Antillaeyjum næstu daga."
     },
     {
-      "ar": "1956",
-      "texti": "Kastarinn Don Larsen lék eina fullkomna leikinn í sögu úrslitakeppni bandarísku hafnaboltadeildarinnar. Enginn mótherji komst á stöð, sem á hafnaboltamáli jafngildir því að sagan haldi niðri í sér andanum."
+      "ar": "1874",
+      "texti": "Alþjóðapóstsambandið var stofnað með Bernarsamningnum til að samræma póstþjónustu milli ríkja. Bréf gátu loksins ferðast yfir landamæri án þess að lenda í skriffinnskuvölundarhúsi."
     },
     {
-      "ar": "1967",
-      "texti": "Byltingarmaðurinn og skæruliðaforinginn Che Guevara var handtekinn nærri La Higuera í Bólivíu."
+      "ar": "1962",
+      "texti": "Verkfræðingurinn Nick Holonyak hjá General Electric sýndi ljósdíóðu opinberlega í fyrsta sinn. Litla ljósið átti síðar eftir að blikka úr ótal tækjum heimsins."
     },
     {
-      "ar": "2001",
-      "texti": "Flugvél Scandinavian Airlines, SK686, rakst í flugtaki á Cessna Citation II við Linate-flugvöll í Mílanó. Alls létust 118 manns í slysinu."
+      "ar": "2012",
+      "texti": "Pakistanska menntabaráttukonan Malala Yousafzai særðist alvarlega þegar talibani reyndi að ráða hana af dögum. Hún lifði árásina af og hélt áfram baráttu sinni fyrir menntun stúlkna."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1720",
-      "texti": "Bjarnastaðaskriða féll úr Vatnsdalsfjalli á tvo bæi í Húnavatnssýslu og sex manns fórust. Skriðan stíflaði einnig Vatnsdalsá og myndaði stöðuvatnið sem kallast Flóðið.",
-      "landshluti": "Norðurland"
+      "ar": "1696",
+      "texti": "Alþingisbókin, fyrsta íslenska tímaritið, var prentuð í Skálholti af Jóni Snorrasyni.",
+      "landshluti": "Suðurland"
     },
     {
-      "ar": "1879",
-      "texti": "Hið íslenska fornleifafélag var stofnað í Reykjavík, enda fortíðin of merkileg til að skilja hana eina eftir úti í móa.",
+      "ar": "1943",
+      "texti": "Lifandi leðurblaka fannst á Hvoli í Mýrdal og lifði þar í tíu daga. Slíkt dýr hafði aldrei áður fundist á Íslandi — óvæntur gestur, vængjaður og án vegabréfs.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1986",
+      "texti": "Stöð 2, fyrsta einkarekna sjónvarpsstöð Íslands, hóf útsendingar undir stjórn Jóns Óttars Ragnarssonar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1910",
-      "texti": "Enskur togari rændi hreppstjóra og sýslumanni Barðstrendinga og flutti þá til Englands — embættisferð sem hvorugur hafði væntanlega samþykkt.",
-      "landshluti": "Vestfirðir"
-    },
-    {
-      "ar": "2008",
-      "texti": "Í miðju bankahruninu setti breska fjármálaeftirlitið Kaupthing Singer & Friedlander í greiðslustöðvun.",
-      "landshluti": "Erlendis"
+      "ar": "2017",
+      "texti": "Íslenska karlalandsliðið í knattspyrnu tryggði sér í fyrsta sinn sæti á heimsmeistaramóti með 2:0 sigri á Kósóvó í Laugardal.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Bruno Mars",
-      "starfsgrein": "söngvari, lagahöfundur og upptökustjóri",
-      "ar": "1985"
+      "nafn": "Bella Hadid",
+      "starfsgrein": "fyrirsæta",
+      "ar": "1996"
     },
     {
-      "nafn": "Bella Thorne",
-      "starfsgrein": "leikkona",
-      "ar": "1997"
+      "nafn": "Chris O'Dowd",
+      "starfsgrein": "leikari og handritshöfundur",
+      "ar": "1979"
     },
     {
-      "nafn": "Angus T. Jones",
+      "nafn": "Jacob Batalon",
       "starfsgrein": "leikari",
-      "ar": "1993"
+      "ar": "1996"
     },
     {
-      "nafn": "Ardal O'Hanlon",
-      "starfsgrein": "grínisti, leikari og handritshöfundur",
-      "ar": "1965"
+      "nafn": "Camille Saint-Saëns",
+      "starfsgrein": "tónskáld og hljómsveitarstjóri",
+      "ar": "1835"
     },
     {
-      "nafn": "Garbiñe Muguruza",
-      "starfsgrein": "tenniskona",
-      "ar": "1993"
+      "nafn": "Alfred Dreyfus",
+      "starfsgrein": "franskur herforingi",
+      "ar": "1859"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Eva Pandóra Baldursdóttir",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1990"
+      "nafn": "Jakob Jóhannesson Smári",
+      "starfsgrein": "skáld",
+      "ar": "1889"
     },
     {
-      "nafn": "Björn Jónsson",
-      "starfsgrein": "ráðherra",
-      "ar": "1846"
+      "nafn": "Ingibjörg Einarsdóttir",
+      "starfsgrein": "eiginkona Jóns Sigurðssonar",
+      "ar": "1804"
     },
     {
-      "nafn": "Bryndís Hlöðversdóttir",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1960"
+      "nafn": "Sæmundur Stefánsson",
+      "starfsgrein": "íslenskur holdsveikisjúklingur",
+      "ar": "1859"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða borg varð fyrir miklum eldsvoða 8. október 1871?",
+      "spurning": "Hvaða alþjóðastofnun var komið á fót með Bernarsamningnum árið 1874?",
       "svor": [
-        "Chicago",
-        "Mílanó",
-        "Bakú",
-        "Osló"
+        "Alþjóðapóstsambandinu",
+        "Alþjóðaheilbrigðismálastofnuninni",
+        "Atlantshafsbandalaginu",
+        "Alþjóðaknattspyrnusambandinu"
       ],
       "rett": 0,
-      "skyring": "Chicagoeldurinn mikli hófst þennan dag og skildi 90.000 manns eftir heimilislausa."
+      "skyring": "Alþjóðapóstsambandið gerði póstsendingar milli ríkja mun einfaldari."
     },
     {
-      "spurning": "Hvaða afmælisbarn gæti líklegast sungið okkur inn í daginn með miklum sviðsglæsibrag?",
+      "spurning": "Hvað fannst lifandi á Hvoli í Mýrdal árið 1943?",
       "svor": [
-        "Ardal O'Hanlon",
-        "Bruno Mars",
-        "Angus T. Jones",
-        "Garbiñe Muguruza"
+        "Ísbjörn",
+        "Leðurblaka",
+        "Minkur",
+        "Lundi"
       ],
       "rett": 1,
-      "skyring": "Bruno Mars fæddist árið 1985 og hefur sjaldan verið sakaður um skort á sviðsþokka."
+      "skyring": "Leðurblakan lifði í tíu daga eftir fundinn og vakti skiljanlega talsverða furðu."
     },
     {
-      "spurning": "Hvaða félag var stofnað í Reykjavík árið 1879?",
+      "spurning": "Hvaða lið sigraði Ísland þegar HM-sætið var tryggt árið 2017?",
       "svor": [
-        "Íþróttafélagið Draupnir",
-        "Hið íslenska fornleifafélag",
-        "Scandinavian Airlines",
-        "Kaupthing Singer & Friedlander"
+        "Króatíu",
+        "Úkraínu",
+        "Kósóvó",
+        "Finnland"
       ],
-      "rett": 1,
-      "skyring": "Hið íslenska fornleifafélag var stofnað til að sinna íslenskum fornminjum og sögu."
+      "rett": 2,
+      "skyring": "Ísland vann Kósóvó 2:0 í Laugardal og þjóðin fékk loksins HM-miðann sinn."
     }
   ],
-  "tonlistUSA": "Money for Nothing – Dire Straits (1985)",
-  "tonlistUK": "If I Was – Midge Ure (1985)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
+  "bio": "Joker (2019)",
   "ord_dagsins": {
-    "ord": "málalengingar",
-    "skyring": "Málalengingar eru óþarflega langar eða tafsamar umræður, oft notaðar til að tefja framgang máls."
+    "ord": "örveröld",
+    "skyring": "Örveröld er afar lítill eða afmarkaður heimur sem getur endurspeglað stærri heild."
   },
-  "vissir_thu": "Í fullkomnum hafnaboltaleik kemst enginn leikmaður mótherjanna á stöð, og leikur Don Larsen árið 1956 er enn sá eini slíki í sögu úrslitakeppni bandarísku atvinnudeildarinnar.",
-  "stjornuspa": "Vog, dustaðu rykið af bestu flíkinni og láttu eins og árið sé 1985: stórt hár og enn stærri áform. Mundu þó að jafnvægi felst líka í því að segja nei við einni málalengingu áður en kaffið kólnar.",
+  "vissir_thu": "Antonie van Leeuwenhoek smíðaði einfaldar smásjár sem gátu stækkað nægilega mikið til að hann sæi örverur sem mannlegt auga hafði aldrei áður greint.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag með þeirri gamalreyndu aðferð að velta báðum kostum fyrir sér þar til kaffið kólnar. Óvænt skilaboð kunna að berast, svo hafðu póstlúðra Alþjóðapóstsambandsins andlega við höndina.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Fourth_ecumenical_council_of_chalcedon_-_1876.jpg/500px-Fourth_ecumenical_council_of_chalcedon_-_1876.jpg",
-    "ar": "451",
-    "texti": "Kirkjuþingið í Kalkedon var sett og varð síðar eitt áhrifamesta kirkjuþing kristninnar; þar var eineðliskenningu Evtykes hafnað og Kalkedonsjátningin mótuð.",
-    "heimild": "https://en.wikipedia.org/wiki/Council_of_Chalcedon",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/500px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
+    "ar": "1676",
+    "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í vatnsdropa.",
+    "heimild": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
     "breidd": 330,
-    "haed": 293
+    "haed": 391
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-08",
-  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-09",
+  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
