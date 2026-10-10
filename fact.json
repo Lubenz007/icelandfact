@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-09",
-  "dagur": 9,
+  "date": "2026-10-10",
+  "dagur": 10,
   "manudur": "október",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 282,
-  "sunrise": "07:59",
-  "sunset": "18:28",
-  "mmdd": "10-09",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 283,
+  "sunrise": "08:02",
+  "sunset": "18:25",
+  "mmdd": "10-10",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 9. október! Í dag kveikjum við á ljósdíóðunni, opnum póstinn og rifjum upp kvöldið þegar Ísland tryggði sér loksins sæti á HM — Vogin má því eiga von á býsna góðu jafnvægi milli vísinda, sögu og fótboltagleði.",
+  "kvedja": "Góðan 10. október! Í dag sveiflum við okkur frá tunglinu Tríton yfir í kvenréttindabaráttu, með viðkomu á íslenskum skólum, sjúkrahúsum og skyrslettu á Alþingi. Sagan kann greinilega bæði að byggja brýr og gera dálítið at í virðulegum sölum.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1676",
-      "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í vatnsdropa."
+      "ar": "680",
+      "texti": "Husayn ibn Ali, dóttursonur Múhameðs, féll í orrustunni við Karbala eftir að hafa neitað að viðurkenna Yazid I sem kalífa. Atburðurinn varð einn sá örlagaríkasti í sögu íslams."
     },
     {
-      "ar": "1780",
-      "texti": "Mannskæðasti fellibylur sem skráður hefur verið á Atlantshafi tók að herja á Karíbahafið. Að minnsta kosti 20.000 manns létust á Antillaeyjum næstu daga."
+      "ar": "1846",
+      "texti": "Enski stjörnufræðingurinn William Lassell uppgötvaði Tríton, stærsta tungl Neptúnusar. Það var býsna góður fengur á næturvaktinni."
     },
     {
-      "ar": "1874",
-      "texti": "Alþjóðapóstsambandið var stofnað með Bernarsamningnum til að samræma póstþjónustu milli ríkja. Bréf gátu loksins ferðast yfir landamæri án þess að lenda í skriffinnskuvölundarhúsi."
+      "ar": "1903",
+      "texti": "Emmeline Pankhurst stofnaði Women's Social and Political Union, herská samtök sem börðust fyrir kosningarétti kvenna í Bretlandi. Konurnar ætluðu ekki lengur að bíða prúðar í forstofu lýðræðisins."
     },
     {
-      "ar": "1962",
-      "texti": "Verkfræðingurinn Nick Holonyak hjá General Electric sýndi ljósdíóðu opinberlega í fyrsta sinn. Litla ljósið átti síðar eftir að blikka úr ótal tækjum heimsins."
+      "ar": "1911",
+      "texti": "Xinhai-byltingin hófst með Wuchang-uppreisninni. Hún hratt af stað falli Qing-ættarinnar og varð undanfari stofnunar kínverska lýðveldisins."
     },
     {
-      "ar": "2012",
-      "texti": "Pakistanska menntabaráttukonan Malala Yousafzai særðist alvarlega þegar talibani reyndi að ráða hana af dögum. Hún lifði árásina af og hélt áfram baráttu sinni fyrir menntun stúlkna."
+      "ar": "1963",
+      "texti": "Samningurinn um bann við tilraunum með kjarnavopn að hluta tók gildi. Hann bannaði slíkar sprengingar alls staðar nema neðanjarðar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1696",
-      "texti": "Alþingisbókin, fyrsta íslenska tímaritið, var prentuð í Skálholti af Jóni Snorrasyni.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1943",
-      "texti": "Lifandi leðurblaka fannst á Hvoli í Mýrdal og lifði þar í tíu daga. Slíkt dýr hafði aldrei áður fundist á Íslandi — óvæntur gestur, vængjaður og án vegabréfs.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1986",
-      "texti": "Stöð 2, fyrsta einkarekna sjónvarpsstöð Íslands, hóf útsendingar undir stjórn Jóns Óttars Ragnarssonar.",
+      "ar": "1898",
+      "texti": "Fyrstu sjúklingarnir komu á Holdsveikraspítalann í Laugarnesi.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2017",
-      "texti": "Íslenska karlalandsliðið í knattspyrnu tryggði sér í fyrsta sinn sæti á heimsmeistaramóti með 2:0 sigri á Kósóvó í Laugardal.",
+      "ar": "1908",
+      "texti": "Miðbæjarskólinn við Tjörnina í Reykjavík var vígður.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1970",
+      "texti": "Auður Auðuns tók við embætti dóms- og kirkjumálaráðherra og varð þar með fyrsti kvenráðherra Íslands.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1972",
+      "texti": "Helgi Hóseasson sletti skyri á alþingismenn við þingsetningu og tryggði mjólkurafurðinni óvenjulegan sess í stjórnmálasögunni.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Bella Hadid",
-      "starfsgrein": "fyrirsæta",
-      "ar": "1996"
+      "nafn": "Charles Dance",
+      "starfsgrein": "leikari, leikstjóri og handritshöfundur",
+      "ar": "1946"
     },
     {
-      "nafn": "Chris O'Dowd",
-      "starfsgrein": "leikari og handritshöfundur",
-      "ar": "1979"
-    },
-    {
-      "nafn": "Jacob Batalon",
+      "nafn": "Dan Stevens",
       "starfsgrein": "leikari",
-      "ar": "1996"
+      "ar": "1982"
     },
     {
-      "nafn": "Camille Saint-Saëns",
-      "starfsgrein": "tónskáld og hljómsveitarstjóri",
-      "ar": "1835"
+      "nafn": "Bradley Whitford",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1959"
     },
     {
-      "nafn": "Alfred Dreyfus",
-      "starfsgrein": "franskur herforingi",
-      "ar": "1859"
+      "nafn": "David Lee Roth",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1954"
+    },
+    {
+      "nafn": "Michael Giacchino",
+      "starfsgrein": "tónskáld",
+      "ar": "1967"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Jakob Jóhannesson Smári",
-      "starfsgrein": "skáld",
-      "ar": "1889"
+      "nafn": "Ellert B. Schram",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1939"
     },
     {
-      "nafn": "Ingibjörg Einarsdóttir",
-      "starfsgrein": "eiginkona Jóns Sigurðssonar",
-      "ar": "1804"
+      "nafn": "Guðmundur G. Hagalín",
+      "starfsgrein": "rithöfundur",
+      "ar": "1898"
     },
     {
-      "nafn": "Sæmundur Stefánsson",
-      "starfsgrein": "íslenskur holdsveikisjúklingur",
-      "ar": "1859"
+      "nafn": "Skúli Guðmundsson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1900"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða alþjóðastofnun var komið á fót með Bernarsamningnum árið 1874?",
+      "spurning": "Hvaða hnött uppgötvaði William Lassell árið 1846?",
       "svor": [
-        "Alþjóðapóstsambandinu",
-        "Alþjóðaheilbrigðismálastofnuninni",
-        "Atlantshafsbandalaginu",
-        "Alþjóðaknattspyrnusambandinu"
+        "Tríton",
+        "Títan",
+        "Evrópu",
+        "Fóbos"
       ],
       "rett": 0,
-      "skyring": "Alþjóðapóstsambandið gerði póstsendingar milli ríkja mun einfaldari."
+      "skyring": "Tríton er stærsta tungl Neptúnusar og reyndist sannkallaður himnafleygur dagsins."
     },
     {
-      "spurning": "Hvað fannst lifandi á Hvoli í Mýrdal árið 1943?",
+      "spurning": "Hver varð fyrsti kvenráðherra Íslands árið 1970?",
       "svor": [
-        "Ísbjörn",
-        "Leðurblaka",
-        "Minkur",
-        "Lundi"
+        "Vigdís Finnbogadóttir",
+        "Auður Auðuns",
+        "Bríet Bjarnhéðinsdóttir",
+        "Jóhanna Sigurðardóttir"
       ],
       "rett": 1,
-      "skyring": "Leðurblakan lifði í tíu daga eftir fundinn og vakti skiljanlega talsverða furðu."
+      "skyring": "Auður Auðuns tók þá við embætti dóms- og kirkjumálaráðherra."
     },
     {
-      "spurning": "Hvaða lið sigraði Ísland þegar HM-sætið var tryggt árið 2017?",
+      "spurning": "Hver stofnaði Women's Social and Political Union árið 1903?",
       "svor": [
-        "Króatíu",
-        "Úkraínu",
-        "Kósóvó",
-        "Finnland"
+        "Helen Hayes",
+        "Emmeline Pankhurst",
+        "Kirsty MacColl",
+        "Elínóra af Kastilíu"
       ],
-      "rett": 2,
-      "skyring": "Ísland vann Kósóvó 2:0 í Laugardal og þjóðin fékk loksins HM-miðann sinn."
+      "rett": 1,
+      "skyring": "Emmeline Pankhurst stofnaði samtökin til að knýja á um kosningarétt kvenna."
     }
   ],
-  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
   "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
   "bio": "Joker (2019)",
   "ord_dagsins": {
-    "ord": "örveröld",
-    "skyring": "Örveröld er afar lítill eða afmarkaður heimur sem getur endurspeglað stærri heild."
+    "ord": "vígahnöttur",
+    "skyring": "Vígahnöttur er mjög bjartur loftsteinn sem sést brenna á himni."
   },
-  "vissir_thu": "Antonie van Leeuwenhoek smíðaði einfaldar smásjár sem gátu stækkað nægilega mikið til að hann sæi örverur sem mannlegt auga hafði aldrei áður greint.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag með þeirri gamalreyndu aðferð að velta báðum kostum fyrir sér þar til kaffið kólnar. Óvænt skilaboð kunna að berast, svo hafðu póstlúðra Alþjóðapóstsambandsins andlega við höndina.",
+  "vissir_thu": "Tríton, stærsta tungl Neptúnusar, fer um reikistjörnuna í öfuga stefnu miðað við snúning hennar.",
+  "stjornuspa": "Vogin finnur gamla vasabók, gleymt símanúmer eða hugmynd sem hefði sómt sér vel árið 1972. Vigtaðu málin vandlega, en mundu að jafnvel fullkomið jafnvægi má krydda með örlítilli skyrslettu.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg/500px-Anthonie_van_Leeuwenhoek_%281632-1723%29._Natuurkundige_te_Delft_Rijksmuseum_SK-A-957.jpeg",
-    "ar": "1676",
-    "texti": "Antonie van Leeuwenhoek skrifaði Konunglega vísindafélaginu og lýsti örsmáum „dýrum“ sem hann hafði séð í smásjá. Þar var komin fyrsta þekkta lýsingin á frumdýrum — heill heimur í vatnsdropa.",
-    "heimild": "https://en.wikipedia.org/wiki/Antonie_van_Leeuwenhoek",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fonds_Christian_Bromberger_-_Affiches_de_la_p%C3%A9riode_de_la_R%C3%A9volution_islamique_%28Iran%2C_1978-1979%29_-_Portraits_des_trois_premiers_imams_chiites%2C_sabre_au_centre_et_grille_de_mausol%C3%A9e_en_arri%C3%A8re-plan_%28M%C3%A9diHAL_1791411%29_%28Husayn_ibn_Ali%29.jpg/500px-thumbnail.jpg",
+    "ar": "680",
+    "texti": "Husayn ibn Ali, dóttursonur Múhameðs, féll í orrustunni við Karbala eftir að hafa neitað að viðurkenna Yazid I sem kalífa. Atburðurinn varð einn sá örlagaríkasti í sögu íslams.",
+    "heimild": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
     "breidd": 330,
-    "haed": 391
+    "haed": 482
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-09",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-10",
+  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
