@@ -6,57 +6,57 @@
   "stjornumerki": "Vog",
   "sunrise": "08:04",
   "sunset": "18:22",
-  "kvedja": "Góðan dag, kæri lesandi! Ellefti október hefur bæði sent fólk út í geim og leiðtoga inn í Höfða, svo sagan virðist aldeilis hafa verið með stórar hugmyndir í dag. Vona að þín dagskrá verði ögn rólegri — en alls ekki leiðinlegri.",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 11. október förum við úr miðaldafriði í geimgöngu, með viðkomu á Austurvelli, í Höfða og við briddsborðið í Japan — sagan ferðast létt, þótt farangurinn sé stundum þungur. Stilltu Vogina, helltu upp á og komdu með.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1142",
-      "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á Jin–Song-stríðin, þótt bardagar blossuðu áfram upp öðru hverju til ársins 1234. Friðurinn mætti sem sagt á svæðið, en gleymdi að taka með sér punktinn."
+      "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á stríð Jin- og Song-veldanna, þótt bardagar blossuðu áfram upp öðru hverju allt til 1234. Friðurinn kom sem sagt með dálitlu smáu letri."
     },
     {
       "ar": "1776",
-      "texti": "Breskur floti sigraði bandarísk skip í orrustunni við Valcour-eyju á Champlainvatni. Taktískt töpuðu Bandaríkjamenn, en viðnámið gaf þeim dýrmætan tíma til að styrkja varnir sínar fyrir Saratoga-herförina."
+      "texti": "Breskur floti sigraði bandarísk skip í orrustunni við Valcour-eyju á Champlain-vatni. Töfin sem bardaginn olli gaf Bandaríkjamönnum þó dýrmætan tíma til að undirbúa varnir sínar fyrir Saratoga-herferðina."
     },
     {
       "ar": "1865",
-      "texti": "Morant Bay-uppreisnin hófst á Jamaíku undir forystu Paul Bogle og George William Gordon. Eftir að mótmælendur brenndu dómhúsið bældi John Edward Eyre landstjóri uppreisnina niður af mikilli hörku."
+      "texti": "Morant Bay-uppreisnin hófst á Jamaíku undir forystu Paul Bogle og George William Gordon. Eftir að mótmælendur brenndu dómhúsið var uppreisnin bæld niður af mikilli hörku."
     },
     {
       "ar": "1968",
-      "texti": "Apollo 7 var skotið á loft frá Kennedyhöfða í Flórída, fyrsta mannaða ferð Apollo-áætlunarinnar og fyrsta bandaríska geimferðin með þriggja manna áhöfn."
+      "texti": "Apollo 7 var skotið á loft frá Kennedy-höfða í Flórída, fyrsta mannaða leiðangri Apollo-áætlunarinnar og fyrsta bandaríska geimferðinni með þriggja manna áhöfn."
     },
     {
       "ar": "1984",
-      "texti": "Kathryn D. Sullivan steig út úr geimskutlunni Challenger og varð fyrsta bandaríska konan til að fara í geimgöngu. Það er líklega eins langt frá venjulegum föstudagsgöngutúr og komist verður."
+      "texti": "Kathryn D. Sullivan steig út úr geimskutlunni Challenger og varð fyrsta bandaríska konan til að fara í geimgöngu. Það er óneitanlega áhrifarík leið til að fá sér ferskt loft."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1977",
-      "texti": "Opinberir starfsmenn í BSRB hófu sitt fyrsta verkfall. Samningar náðust hálfum mánuði síðar.",
-      "landshluti": "Landið allt"
-    },
-    {
       "ar": "1986",
-      "texti": "Ronald Reagan Bandaríkjaforseti og Mikhaíl Gorbatsjev Sovétleiðtogi hittust á leiðtogafundinum í Höfða í Reykjavík og ræddu fækkun kjarnorkuvopna.",
+      "texti": "Ronald Reagan og Mikhaíl Gorbatsjev hittust á leiðtogafundinum í Höfða í Reykjavík og ræddu fækkun kjarnorkuvopna. Þótt ekki næðist endanlegt samkomulag varð fundurinn mikilvægur á lokaspretti kalda stríðsins.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
+      "ar": "1987",
+      "texti": "Spænsk þota varð eldsneytislaus nærri Íslandi og nauðlenti á hafinu um 50 sjómílur vestur af Reykjanesi. Sex mönnum var bjargað úr gúmmíbjörgunarbát um borð í Þorlák ÁR.",
+      "landshluti": "Reykjanes"
+    },
+    {
       "ar": "1988",
-      "texti": "Guðrún Helgadóttir varð fyrsta konan sem kosin var forseti sameinaðs Alþingis.",
+      "texti": "Guðrún Helgadóttir varð fyrsta konan sem kosin var forseti sameinaðs Alþingis og braut þar með enn eitt glerþakið í íslenskum stjórnmálum.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1991",
-      "texti": "Íslenska landsliðið í bridds vann heimsmeistaramótið í Japan og tryggði sér hina frægu Bermúdaskál. Þar sannaðist að stundum vinnast stærstu sigrarnir sitjandi við spilaborð.",
+      "texti": "Íslenska landsliðið í bridds vann heimsmeistaratitilinn í Japan og tryggði sér hina frægu Bermúdaskál. Fáar þjóðir hafa fagnað spili með jafn þjóðlegum þunga.",
       "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Arman Tsarukyan",
-      "starfsgrein": "bardagamaður í blönduðum bardagaíþróttum",
-      "ar": "1996"
+      "nafn": "Amitabh Bachchan",
+      "starfsgrein": "leikari, framleiðandi og sjónvarpsmaður",
+      "ar": "1942"
     },
     {
       "nafn": "Cardi B",
@@ -64,19 +64,19 @@
       "ar": "1992"
     },
     {
-      "nafn": "Amitabh Bachchan",
-      "starfsgrein": "kvikmyndaleikari og framleiðandi",
-      "ar": "1942"
-    },
-    {
-      "nafn": "Brandon Flynn",
-      "starfsgrein": "leikari",
-      "ar": "1993"
+      "nafn": "Arman Tsarukyan",
+      "starfsgrein": "bardagaíþróttamaður",
+      "ar": "1996"
     },
     {
       "nafn": "Art Blakey",
-      "starfsgrein": "djassleikari og hljómsveitarstjóri",
+      "starfsgrein": "trommuleikari og hljómsveitarstjóri",
       "ar": "1919"
+    },
+    {
+      "nafn": "Andy McCoy",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1962"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða geimfari varð fyrsta bandaríska konan til að fara í geimgöngu?",
+      "spurning": "Hvar hittust Ronald Reagan og Mikhaíl Gorbatsjev árið 1986?",
       "svor": [
-        "Kathryn D. Sullivan",
-        "Cardi B",
-        "Guðrún Helgadóttir",
-        "Bryndís Petra Bragadóttir"
+        "Í Höfða",
+        "Á Bessastöðum",
+        "Í Alþingishúsinu",
+        "Á Þingvöllum"
       ],
       "rett": 0,
+      "skyring": "Leiðtogarnir hittust í Höfða í Reykjavík, þar sem litla húsið fékk skyndilega heimspólitískt aðalhlutverk."
+    },
+    {
+      "spurning": "Hver varð fyrsta bandaríska konan til að fara í geimgöngu?",
+      "svor": [
+        "Sally Ride",
+        "Kathryn D. Sullivan",
+        "Mae Jemison",
+        "Eileen Collins"
+      ],
+      "rett": 1,
       "skyring": "Kathryn D. Sullivan fór í hina sögulegu geimgöngu frá Challenger árið 1984."
     },
     {
-      "spurning": "Hvar hittust Ronald Reagan og Mikhaíl Gorbatsjev árið 1986?",
-      "svor": [
-        "Á Bessastöðum",
-        "Í Höfða",
-        "Á Þingvöllum",
-        "Í Alþingishúsinu"
-      ],
-      "rett": 1,
-      "skyring": "Leiðtogarnir funduðu í Höfða í Reykjavík og ræddu þar kjarnorkuafvopnun."
-    },
-    {
-      "spurning": "Hvaða bikar vann íslenska briddslandsliðið árið 1991?",
+      "spurning": "Hvaða verðlaun vann íslenska landsliðið í bridds árið 1991?",
       "svor": [
         "Stanley-bikarinn",
-        "Davis-bikarinn",
+        "Ryder-bikarinn",
         "Bermúdaskálina",
-        "Ryder-bikarinn"
+        "Davis-bikarinn"
       ],
       "rett": 2,
-      "skyring": "Íslenska liðið vann Bermúdaskálina á heimsmeistaramótinu í Japan."
+      "skyring": "Briddssnillingarnir íslensku tóku Bermúdaskálina í Japan — án þess að þurfa að gefa eitt einasta mark."
     }
   ],
-  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUSA": "Macarena – Los del Río (1996)",
   "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
-  "bio": "Joker (2019)",
+  "bio": "Apollo 13 (1995)",
   "ord_dagsins": {
-    "ord": "orrahrið",
-    "skyring": "Orrahrið er snörp og hörð atlaga eða skammvinn orrusta."
+    "ord": "gluggaveður",
+    "skyring": "Veður sem lítur vel út um glugga en reynist kalt eða ónotalegt þegar út er komið."
   },
   "vissir_thu": "Apollo 7 var ekki aðeins fyrsta mannaða ferð Apollo-áætlunarinnar heldur einnig fyrsta bandaríska geimferðin með þriggja manna áhöfn.",
-  "stjornuspa": "Vogin ætti að stilla skífunni á 1984: djarfir litir, stórar hugmyndir og örlítið geimlegt sjálfstraust. Ef ákvörðun reynist erfið skaltu velja þann kost sem passar best við axlapúðana.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og kaffibolla, en gæti þurft leiðtogafund við sjálfa sig áður en nokkur ákvörðun er tekin. Klæddu þig eins og árið sé 1984 og taktu lítið skref út fyrir þægindarammann — geimbúningur er þó óþarfur.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jin_Dynasty_1141_%28no_borders%29.png/500px-Jin_Dynasty_1141_%28no_borders%29.png",
     "ar": "1142",
-    "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á Jin–Song-stríðin, þótt bardagar blossuðu áfram upp öðru hverju til ársins 1234. Friðurinn mætti sem sagt á svæðið, en gleymdi að taka með sér punktinn.",
+    "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á stríð Jin- og Song-veldanna, þótt bardagar blossuðu áfram upp öðru hverju allt til 1234. Friðurinn kom sem sagt með dálitlu smáu letri.",
     "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Shaoxing",
     "breidd": 330,
     "haed": 319
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-11"
 }

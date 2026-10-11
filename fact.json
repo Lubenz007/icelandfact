@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-10",
-  "dagur": 10,
+  "date": "2026-10-11",
+  "dagur": 11,
   "manudur": "október",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 283,
-  "sunrise": "08:02",
-  "sunset": "18:25",
-  "mmdd": "10-10",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 284,
+  "sunrise": "08:05",
+  "sunset": "18:21",
+  "mmdd": "10-11",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 10. október! Í dag sveiflum við okkur frá tunglinu Tríton yfir í kvenréttindabaráttu, með viðkomu á íslenskum skólum, sjúkrahúsum og skyrslettu á Alþingi. Sagan kann greinilega bæði að byggja brýr og gera dálítið at í virðulegum sölum.",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 11. október förum við úr miðaldafriði í geimgöngu, með viðkomu á Austurvelli, í Höfða og við briddsborðið í Japan — sagan ferðast létt, þótt farangurinn sé stundum þungur. Stilltu Vogina, helltu upp á og komdu með.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "680",
-      "texti": "Husayn ibn Ali, dóttursonur Múhameðs, féll í orrustunni við Karbala eftir að hafa neitað að viðurkenna Yazid I sem kalífa. Atburðurinn varð einn sá örlagaríkasti í sögu íslams."
+      "ar": "1142",
+      "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á stríð Jin- og Song-veldanna, þótt bardagar blossuðu áfram upp öðru hverju allt til 1234. Friðurinn kom sem sagt með dálitlu smáu letri."
     },
     {
-      "ar": "1846",
-      "texti": "Enski stjörnufræðingurinn William Lassell uppgötvaði Tríton, stærsta tungl Neptúnusar. Það var býsna góður fengur á næturvaktinni."
+      "ar": "1776",
+      "texti": "Breskur floti sigraði bandarísk skip í orrustunni við Valcour-eyju á Champlain-vatni. Töfin sem bardaginn olli gaf Bandaríkjamönnum þó dýrmætan tíma til að undirbúa varnir sínar fyrir Saratoga-herferðina."
     },
     {
-      "ar": "1903",
-      "texti": "Emmeline Pankhurst stofnaði Women's Social and Political Union, herská samtök sem börðust fyrir kosningarétti kvenna í Bretlandi. Konurnar ætluðu ekki lengur að bíða prúðar í forstofu lýðræðisins."
+      "ar": "1865",
+      "texti": "Morant Bay-uppreisnin hófst á Jamaíku undir forystu Paul Bogle og George William Gordon. Eftir að mótmælendur brenndu dómhúsið var uppreisnin bæld niður af mikilli hörku."
     },
     {
-      "ar": "1911",
-      "texti": "Xinhai-byltingin hófst með Wuchang-uppreisninni. Hún hratt af stað falli Qing-ættarinnar og varð undanfari stofnunar kínverska lýðveldisins."
+      "ar": "1968",
+      "texti": "Apollo 7 var skotið á loft frá Kennedy-höfða í Flórída, fyrsta mannaða leiðangri Apollo-áætlunarinnar og fyrsta bandaríska geimferðinni með þriggja manna áhöfn."
     },
     {
-      "ar": "1963",
-      "texti": "Samningurinn um bann við tilraunum með kjarnavopn að hluta tók gildi. Hann bannaði slíkar sprengingar alls staðar nema neðanjarðar."
+      "ar": "1984",
+      "texti": "Kathryn D. Sullivan steig út úr geimskutlunni Challenger og varð fyrsta bandaríska konan til að fara í geimgöngu. Það er óneitanlega áhrifarík leið til að fá sér ferskt loft."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1898",
-      "texti": "Fyrstu sjúklingarnir komu á Holdsveikraspítalann í Laugarnesi.",
+      "ar": "1986",
+      "texti": "Ronald Reagan og Mikhaíl Gorbatsjev hittust á leiðtogafundinum í Höfða í Reykjavík og ræddu fækkun kjarnorkuvopna. Þótt ekki næðist endanlegt samkomulag varð fundurinn mikilvægur á lokaspretti kalda stríðsins.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1908",
-      "texti": "Miðbæjarskólinn við Tjörnina í Reykjavík var vígður.",
+      "ar": "1987",
+      "texti": "Spænsk þota varð eldsneytislaus nærri Íslandi og nauðlenti á hafinu um 50 sjómílur vestur af Reykjanesi. Sex mönnum var bjargað úr gúmmíbjörgunarbát um borð í Þorlák ÁR.",
+      "landshluti": "Reykjanes"
+    },
+    {
+      "ar": "1988",
+      "texti": "Guðrún Helgadóttir varð fyrsta konan sem kosin var forseti sameinaðs Alþingis og braut þar með enn eitt glerþakið í íslenskum stjórnmálum.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1970",
-      "texti": "Auður Auðuns tók við embætti dóms- og kirkjumálaráðherra og varð þar með fyrsti kvenráðherra Íslands.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1972",
-      "texti": "Helgi Hóseasson sletti skyri á alþingismenn við þingsetningu og tryggði mjólkurafurðinni óvenjulegan sess í stjórnmálasögunni.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1991",
+      "texti": "Íslenska landsliðið í bridds vann heimsmeistaratitilinn í Japan og tryggði sér hina frægu Bermúdaskál. Fáar þjóðir hafa fagnað spili með jafn þjóðlegum þunga.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Charles Dance",
-      "starfsgrein": "leikari, leikstjóri og handritshöfundur",
-      "ar": "1946"
+      "nafn": "Amitabh Bachchan",
+      "starfsgrein": "leikari, framleiðandi og sjónvarpsmaður",
+      "ar": "1942"
     },
     {
-      "nafn": "Dan Stevens",
-      "starfsgrein": "leikari",
-      "ar": "1982"
+      "nafn": "Cardi B",
+      "starfsgrein": "rappari",
+      "ar": "1992"
     },
     {
-      "nafn": "Bradley Whitford",
-      "starfsgrein": "leikari og framleiðandi",
-      "ar": "1959"
+      "nafn": "Arman Tsarukyan",
+      "starfsgrein": "bardagaíþróttamaður",
+      "ar": "1996"
     },
     {
-      "nafn": "David Lee Roth",
-      "starfsgrein": "söngvari og lagahöfundur",
-      "ar": "1954"
+      "nafn": "Art Blakey",
+      "starfsgrein": "trommuleikari og hljómsveitarstjóri",
+      "ar": "1919"
     },
     {
-      "nafn": "Michael Giacchino",
-      "starfsgrein": "tónskáld",
-      "ar": "1967"
+      "nafn": "Andy McCoy",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1962"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Ellert B. Schram",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1939"
+      "nafn": "Bryndís Petra Bragadóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1958"
     },
     {
-      "nafn": "Guðmundur G. Hagalín",
-      "starfsgrein": "rithöfundur",
-      "ar": "1898"
+      "nafn": "Stefán frá Hvítadal",
+      "starfsgrein": "skáld",
+      "ar": "1887"
     },
     {
-      "nafn": "Skúli Guðmundsson",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1900"
+      "nafn": "Jón Ásgeirsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1928"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða hnött uppgötvaði William Lassell árið 1846?",
+      "spurning": "Hvar hittust Ronald Reagan og Mikhaíl Gorbatsjev árið 1986?",
       "svor": [
-        "Tríton",
-        "Títan",
-        "Evrópu",
-        "Fóbos"
+        "Í Höfða",
+        "Á Bessastöðum",
+        "Í Alþingishúsinu",
+        "Á Þingvöllum"
       ],
       "rett": 0,
-      "skyring": "Tríton er stærsta tungl Neptúnusar og reyndist sannkallaður himnafleygur dagsins."
+      "skyring": "Leiðtogarnir hittust í Höfða í Reykjavík, þar sem litla húsið fékk skyndilega heimspólitískt aðalhlutverk."
     },
     {
-      "spurning": "Hver varð fyrsti kvenráðherra Íslands árið 1970?",
+      "spurning": "Hver varð fyrsta bandaríska konan til að fara í geimgöngu?",
       "svor": [
-        "Vigdís Finnbogadóttir",
-        "Auður Auðuns",
-        "Bríet Bjarnhéðinsdóttir",
-        "Jóhanna Sigurðardóttir"
+        "Sally Ride",
+        "Kathryn D. Sullivan",
+        "Mae Jemison",
+        "Eileen Collins"
       ],
       "rett": 1,
-      "skyring": "Auður Auðuns tók þá við embætti dóms- og kirkjumálaráðherra."
+      "skyring": "Kathryn D. Sullivan fór í hina sögulegu geimgöngu frá Challenger árið 1984."
     },
     {
-      "spurning": "Hver stofnaði Women's Social and Political Union árið 1903?",
+      "spurning": "Hvaða verðlaun vann íslenska landsliðið í bridds árið 1991?",
       "svor": [
-        "Helen Hayes",
-        "Emmeline Pankhurst",
-        "Kirsty MacColl",
-        "Elínóra af Kastilíu"
+        "Stanley-bikarinn",
+        "Ryder-bikarinn",
+        "Bermúdaskálina",
+        "Davis-bikarinn"
       ],
-      "rett": 1,
-      "skyring": "Emmeline Pankhurst stofnaði samtökin til að knýja á um kosningarétt kvenna."
+      "rett": 2,
+      "skyring": "Briddssnillingarnir íslensku tóku Bermúdaskálina í Japan — án þess að þurfa að gefa eitt einasta mark."
     }
   ],
-  "tonlistUSA": "Endless Love – Diana Ross og Lionel Richie (1981)",
+  "tonlistUSA": "Macarena – Los del Río (1996)",
   "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
-  "bio": "Joker (2019)",
+  "bio": "Apollo 13 (1995)",
   "ord_dagsins": {
-    "ord": "vígahnöttur",
-    "skyring": "Vígahnöttur er mjög bjartur loftsteinn sem sést brenna á himni."
+    "ord": "gluggaveður",
+    "skyring": "Veður sem lítur vel út um glugga en reynist kalt eða ónotalegt þegar út er komið."
   },
-  "vissir_thu": "Tríton, stærsta tungl Neptúnusar, fer um reikistjörnuna í öfuga stefnu miðað við snúning hennar.",
-  "stjornuspa": "Vogin finnur gamla vasabók, gleymt símanúmer eða hugmynd sem hefði sómt sér vel árið 1972. Vigtaðu málin vandlega, en mundu að jafnvel fullkomið jafnvægi má krydda með örlítilli skyrslettu.",
+  "vissir_thu": "Apollo 7 var ekki aðeins fyrsta mannaða ferð Apollo-áætlunarinnar heldur einnig fyrsta bandaríska geimferðin með þriggja manna áhöfn.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og kaffibolla, en gæti þurft leiðtogafund við sjálfa sig áður en nokkur ákvörðun er tekin. Klæddu þig eins og árið sé 1984 og taktu lítið skref út fyrir þægindarammann — geimbúningur er þó óþarfur.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Fonds_Christian_Bromberger_-_Affiches_de_la_p%C3%A9riode_de_la_R%C3%A9volution_islamique_%28Iran%2C_1978-1979%29_-_Portraits_des_trois_premiers_imams_chiites%2C_sabre_au_centre_et_grille_de_mausol%C3%A9e_en_arri%C3%A8re-plan_%28M%C3%A9diHAL_1791411%29_%28Husayn_ibn_Ali%29.jpg/500px-thumbnail.jpg",
-    "ar": "680",
-    "texti": "Husayn ibn Ali, dóttursonur Múhameðs, féll í orrustunni við Karbala eftir að hafa neitað að viðurkenna Yazid I sem kalífa. Atburðurinn varð einn sá örlagaríkasti í sögu íslams.",
-    "heimild": "https://en.wikipedia.org/wiki/Husayn_ibn_Ali",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jin_Dynasty_1141_%28no_borders%29.png/500px-Jin_Dynasty_1141_%28no_borders%29.png",
+    "ar": "1142",
+    "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á stríð Jin- og Song-veldanna, þótt bardagar blossuðu áfram upp öðru hverju allt til 1234. Friðurinn kom sem sagt með dálitlu smáu letri.",
+    "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Shaoxing",
     "breidd": 330,
-    "haed": 482
+    "haed": 319
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-10",
-  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-11",
+  "verdlag": "Árið 1970 kostaði eintak af Morgunblaðinu um 10 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 1418-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
