@@ -1,157 +1,152 @@
 {
-  "date": "2026-10-11",
-  "dagur": 11,
+  "date": "2026-10-12",
+  "dagur": 12,
   "manudur": "október",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 284,
-  "sunrise": "08:05",
-  "sunset": "18:21",
-  "mmdd": "10-11",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 285,
+  "sunrise": "08:08",
+  "sunset": "18:18",
+  "mmdd": "10-12",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 11. október förum við úr miðaldafriði í geimgöngu, með viðkomu á Austurvelli, í Höfða og við briddsborðið í Japan — sagan ferðast létt, þótt farangurinn sé stundum þungur. Stilltu Vogina, helltu upp á og komdu með.",
+  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 12. október, þar sem sagan svífur í fallhlíf, urrar undir Kötlu og hleypir Hugh Jackman á svið. Vogin ræður deginum, svo við reynum að halda jafnvægi — jafnvel þótt fortíðin hafi sjaldnast verið sérlega samvinnuþýð.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1142",
-      "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á stríð Jin- og Song-veldanna, þótt bardagar blossuðu áfram upp öðru hverju allt til 1234. Friðurinn kom sem sagt með dálitlu smáu letri."
+      "ar": "1406",
+      "texti": "Chen Yanxiang kom til Seúl eftir fjögurra mánaða ferð frá Jövu. Hann er eini maðurinn frá Indónesíu sem vitað er að hafi heimsótt Kóreu á tímum konungsættanna."
     },
     {
-      "ar": "1776",
-      "texti": "Breskur floti sigraði bandarísk skip í orrustunni við Valcour-eyju á Champlain-vatni. Töfin sem bardaginn olli gaf Bandaríkjamönnum þó dýrmætan tíma til að undirbúa varnir sínar fyrir Saratoga-herferðina."
+      "ar": "1492",
+      "texti": "Kristófer Kólumbus tók land á eyju í Karíbahafi, sannfærður um að hann væri kominn til Austur-Indía. Ferðin varð upphaf að atburðarás sem leiddi til landnáms og nýlenduvæðingar Evrópumanna í Ameríku."
     },
     {
-      "ar": "1865",
-      "texti": "Morant Bay-uppreisnin hófst á Jamaíku undir forystu Paul Bogle og George William Gordon. Eftir að mótmælendur brenndu dómhúsið var uppreisnin bæld niður af mikilli hörku."
+      "ar": "1799",
+      "texti": "Jeanne Geneviève Garnerin varð fyrst kvenna til að fara niður í fallhlíf þegar hún lét sig síga um 900 metra í körfu loftbelgs. Þetta var ekki beint rólegur sunnudagsrúntur."
     },
     {
-      "ar": "1968",
-      "texti": "Apollo 7 var skotið á loft frá Kennedy-höfða í Flórída, fyrsta mannaða leiðangri Apollo-áætlunarinnar og fyrsta bandaríska geimferðinni með þriggja manna áhöfn."
+      "ar": "1928",
+      "texti": "Járnlunga var í fyrsta sinn notað á Barnaspítalanum í Boston til að hjálpa átta ára stúlku sem hafði lamast af völdum lömunarveiki."
     },
     {
-      "ar": "1984",
-      "texti": "Kathryn D. Sullivan steig út úr geimskutlunni Challenger og varð fyrsta bandaríska konan til að fara í geimgöngu. Það er óneitanlega áhrifarík leið til að fá sér ferskt loft."
+      "ar": "1979",
+      "texti": "Fellibylurinn Tip náði loftþrýstingnum 870 millibörum yfir vestanverðu Kyrrahafi. Hann er talinn stærsti og öflugasti hitabeltisstormur sem mælst hefur."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1986",
-      "texti": "Ronald Reagan og Mikhaíl Gorbatsjev hittust á leiðtogafundinum í Höfða í Reykjavík og ræddu fækkun kjarnorkuvopna. Þótt ekki næðist endanlegt samkomulag varð fundurinn mikilvægur á lokaspretti kalda stríðsins.",
+      "ar": "1581",
+      "texti": "Á Patreksfirði var kveðinn upp Vopnadómur, sem skyldaði alla Íslendinga til að eiga vopn. Dómurinn komst þó aðeins til framkvæmda á Vestfjörðum.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1905",
+      "texti": "Verzlunarskóli Íslands var settur í fyrsta sinn og þar með hófst löng saga skólans.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1987",
-      "texti": "Spænsk þota varð eldsneytislaus nærri Íslandi og nauðlenti á hafinu um 50 sjómílur vestur af Reykjanesi. Sex mönnum var bjargað úr gúmmíbjörgunarbát um borð í Þorlák ÁR.",
-      "landshluti": "Reykjanes"
+      "ar": "1918",
+      "texti": "Kötlugos hófst og stóð til 4. nóvember. Gosinu fylgdi gríðarlegt jökulhlaup yfir Mýrdalssand og í kjölfarið myndaðist Kötlutangi.",
+      "landshluti": "Suðurland"
     },
     {
-      "ar": "1988",
-      "texti": "Guðrún Helgadóttir varð fyrsta konan sem kosin var forseti sameinaðs Alþingis og braut þar með enn eitt glerþakið í íslenskum stjórnmálum.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1991",
-      "texti": "Íslenska landsliðið í bridds vann heimsmeistaratitilinn í Japan og tryggði sér hina frægu Bermúdaskál. Fáar þjóðir hafa fagnað spili með jafn þjóðlegum þunga.",
-      "landshluti": "Erlendis"
+      "ar": "1949",
+      "texti": "Óshlíðarvegur milli Hnífsdals og Bolungarvíkur var opnaður. Sigurður Bjarnason alþingismaður ók fyrstu bifreiðinni um veginn.",
+      "landshluti": "Vestfirðir"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Amitabh Bachchan",
-      "starfsgrein": "leikari, framleiðandi og sjónvarpsmaður",
-      "ar": "1942"
+      "nafn": "Hugh Jackman",
+      "starfsgrein": "leikari, söngvari og framleiðandi",
+      "ar": "1968"
     },
     {
-      "nafn": "Cardi B",
-      "starfsgrein": "rappari",
+      "nafn": "Játvarður 6.",
+      "starfsgrein": "Englandskonungur",
+      "ar": "1537"
+    },
+    {
+      "nafn": "Josh Hutcherson",
+      "starfsgrein": "leikari og framleiðandi",
       "ar": "1992"
     },
     {
-      "nafn": "Arman Tsarukyan",
-      "starfsgrein": "bardagaíþróttamaður",
-      "ar": "1996"
-    },
-    {
-      "nafn": "Art Blakey",
-      "starfsgrein": "trommuleikari og hljómsveitarstjóri",
-      "ar": "1919"
-    },
-    {
-      "nafn": "Andy McCoy",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1962"
+      "nafn": "Katie Piper",
+      "starfsgrein": "sjónvarpskona og góðgerðasinni",
+      "ar": "1983"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Bryndís Petra Bragadóttir",
-      "starfsgrein": "leikkona",
-      "ar": "1958"
+      "nafn": "Magnús Magnússon",
+      "starfsgrein": "íslensk-skoskur sjónvarpskynnir, blaðamaður og fræðimaður",
+      "ar": "1929"
     },
     {
-      "nafn": "Stefán frá Hvítadal",
-      "starfsgrein": "skáld",
-      "ar": "1887"
+      "nafn": "Páll Ísólfsson",
+      "starfsgrein": "tónskáld og organisti",
+      "ar": "1893"
     },
     {
-      "nafn": "Jón Ásgeirsson",
-      "starfsgrein": "tónskáld",
-      "ar": "1928"
+      "nafn": "Adolf Smári Unnarsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1993"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvar hittust Ronald Reagan og Mikhaíl Gorbatsjev árið 1986?",
+      "spurning": "Hvaða eldfjall hóf að gjósa á Íslandi 12. október 1918?",
       "svor": [
-        "Í Höfða",
-        "Á Bessastöðum",
-        "Í Alþingishúsinu",
-        "Á Þingvöllum"
+        "Katla",
+        "Hekla",
+        "Askja",
+        "Snæfellsjökull"
       ],
       "rett": 0,
-      "skyring": "Leiðtogarnir hittust í Höfða í Reykjavík, þar sem litla húsið fékk skyndilega heimspólitískt aðalhlutverk."
+      "skyring": "Katla rumskaði rækilega og sendi mikið jökulhlaup yfir Mýrdalssand."
     },
     {
-      "spurning": "Hver varð fyrsta bandaríska konan til að fara í geimgöngu?",
+      "spurning": "Hvað af þessu var notað í fyrsta sinn á sjúkrahúsi árið 1928?",
       "svor": [
-        "Sally Ride",
-        "Kathryn D. Sullivan",
-        "Mae Jemison",
-        "Eileen Collins"
+        "Hjartastuðtæki",
+        "Járnlunga",
+        "Gervihjarta",
+        "Segulómtæki"
       ],
       "rett": 1,
-      "skyring": "Kathryn D. Sullivan fór í hina sögulegu geimgöngu frá Challenger árið 1984."
+      "skyring": "Járnlunga hjálpaði átta ára stúlku að anda eftir lömun af völdum lömunarveiki."
     },
     {
-      "spurning": "Hvaða verðlaun vann íslenska landsliðið í bridds árið 1991?",
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt fyrir bæði leik og söng?",
       "svor": [
-        "Stanley-bikarinn",
-        "Ryder-bikarinn",
-        "Bermúdaskálina",
-        "Davis-bikarinn"
+        "Játvarður 6.",
+        "Josh Hutcherson",
+        "Hugh Jackman",
+        "Magnús Magnússon"
       ],
       "rett": 2,
-      "skyring": "Briddssnillingarnir íslensku tóku Bermúdaskálina í Japan — án þess að þurfa að gefa eitt einasta mark."
+      "skyring": "Hugh Jackman getur bæði brugðið sér í klær Wolverine og sungið upp úr skónum."
     }
   ],
   "tonlistUSA": "Macarena – Los del Río (1996)",
-  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
-  "bio": "Apollo 13 (1995)",
+  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
+  "bio": "First Man (2018)",
   "ord_dagsins": {
-    "ord": "gluggaveður",
-    "skyring": "Veður sem lítur vel út um glugga en reynist kalt eða ónotalegt þegar út er komið."
+    "ord": "briggskip",
+    "skyring": "Briggskip er tvímastra seglskip með ráseglum á báðum möstrum."
   },
-  "vissir_thu": "Apollo 7 var ekki aðeins fyrsta mannaða ferð Apollo-áætlunarinnar heldur einnig fyrsta bandaríska geimferðin með þriggja manna áhöfn.",
-  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldustarfa og kaffibolla, en gæti þurft leiðtogafund við sjálfa sig áður en nokkur ákvörðun er tekin. Klæddu þig eins og árið sé 1984 og taktu lítið skref út fyrir þægindarammann — geimbúningur er þó óþarfur.",
+  "vissir_thu": "Fellibylurinn Tip var svo stór að þvermál stormkerfisins mældist um 2.220 kílómetrar.",
+  "stjornuspa": "Vog, í dag skaltu vega og meta málin af yfirvegun, en ekki svo lengi að lestin fari án þín. Gamalt kynni eða gleymd hugmynd gæti bankað upp á — bjóðið henni kaffi, en látið hana ekki ráða heimilinu.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Jin_Dynasty_1141_%28no_borders%29.png/500px-Jin_Dynasty_1141_%28no_borders%29.png",
-    "ar": "1142",
-    "texti": "Shaoxing-sáttmálinn var staðfestur og batt enda á stríð Jin- og Song-veldanna, þótt bardagar blossuðu áfram upp öðru hverju allt til 1234. Friðurinn kom sem sagt með dálitlu smáu letri.",
-    "heimild": "https://en.wikipedia.org/wiki/Treaty_of_Shaoxing",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_the_East_Indies_by_Jodocus_Hondius_in_1606.jpg/500px-Map_of_the_East_Indies_by_Jodocus_Hondius_in_1606.jpg",
+    "ar": "1492",
+    "texti": "Kristófer Kólumbus tók land á eyju í Karíbahafi, sannfærður um að hann væri kominn til Austur-Indía. Ferðin varð upphaf að atburðarás sem leiddi til landnáms og nýlenduvæðingar Evrópumanna í Ameríku.",
+    "heimild": "https://en.wikipedia.org/wiki/East_Indies",
     "breidd": 330,
-    "haed": 319
+    "haed": 250
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-11",
-  "verdlag": "Árið 1970 kostaði eintak af Morgunblaðinu um 10 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 1418-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-12",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
