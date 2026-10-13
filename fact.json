@@ -1,152 +1,157 @@
 {
-  "date": "2026-10-12",
-  "dagur": 12,
+  "date": "2026-10-13",
+  "dagur": 13,
   "manudur": "október",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 285,
-  "sunrise": "08:08",
-  "sunset": "18:18",
-  "mmdd": "10-12",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 286,
+  "sunrise": "08:11",
+  "sunset": "18:14",
+  "mmdd": "10-13",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og velkominn inn í 12. október, þar sem sagan svífur í fallhlíf, urrar undir Kötlu og hleypir Hugh Jackman á svið. Vogin ræður deginum, svo við reynum að halda jafnvægi — jafnvel þótt fortíðin hafi sjaldnast verið sérlega samvinnuþýð.",
+  "kvedja": "Góðan 13. október, kæri lesandi! Í dag svífum við frá fjarlægri vetrarbraut niður í ísköld sundtök Sæunnar í Önundarfirði, með viðkomu hjá musterisriddurum og Andesfjöllum. Sagan kann greinilega bæði dramatík og dálítið kúakjánalegt glott.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1406",
-      "texti": "Chen Yanxiang kom til Seúl eftir fjögurra mánaða ferð frá Jövu. Hann er eini maðurinn frá Indónesíu sem vitað er að hafi heimsótt Kóreu á tímum konungsættanna."
+      "ar": "645",
+      "texti": "Tang-herinn undir stjórn Taizong keisara varð að hætta umsátrinu um Ansi-virki í stríðinu við Goguryeo. Jafnvel keisaraherir þurfa stundum að pakka tjöldunum og halda heim."
     },
     {
-      "ar": "1492",
-      "texti": "Kristófer Kólumbus tók land á eyju í Karíbahafi, sannfærður um að hann væri kominn til Austur-Indía. Ferðin varð upphaf að atburðarás sem leiddi til landnáms og nýlenduvæðingar Evrópumanna í Ameríku."
+      "ar": "1307",
+      "texti": "Útsendarar Filippusar 4. Frakkakonungs réðust að musterisriddurum í dögun, handtóku fjölda þeirra og þvinguðu fram falskar játningar með pyntingum. Þessi föstudagur varð sannarlega enginn happadagur riddarareglunnar."
     },
     {
-      "ar": "1799",
-      "texti": "Jeanne Geneviève Garnerin varð fyrst kvenna til að fara niður í fallhlíf þegar hún lét sig síga um 900 metra í körfu loftbelgs. Þetta var ekki beint rólegur sunnudagsrúntur."
+      "ar": "1773",
+      "texti": "Franski stjörnufræðingurinn Charles Messier uppgötvaði Whirlpool-vetrarbrautina, glæsilega þyrilvetrarbraut í um 31 milljón ljósára fjarlægð. Það er heldur lengra en venjulegur sunnudagsbíltúr."
     },
     {
-      "ar": "1928",
-      "texti": "Járnlunga var í fyrsta sinn notað á Barnaspítalanum í Boston til að hjálpa átta ára stúlku sem hafði lamast af völdum lömunarveiki."
+      "ar": "1908",
+      "texti": "Breska súffragettan Margaret Travers Symons slapp frá fylgdarmanni sínum inn í sal neðri málstofunnar og varð fyrsta konan til að tala þar, þótt erindið væri hrópað yfir þingheim. Stundum þarf að ryðja sér bókstaflega til rúms í sögunni."
     },
     {
-      "ar": "1979",
-      "texti": "Fellibylurinn Tip náði loftþrýstingnum 870 millibörum yfir vestanverðu Kyrrahafi. Hann er talinn stærsti og öflugasti hitabeltisstormur sem mælst hefur."
+      "ar": "1972",
+      "texti": "Flug 571 á vegum úrúgvæska flughersins fórst á afskekktum slóðum í Andesfjöllum nærri landamærum Chile og Argentínu. Sextán eftirlifendur fundust ekki fyrr en rúmum tveimur mánuðum síðar."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1581",
-      "texti": "Á Patreksfirði var kveðinn upp Vopnadómur, sem skyldaði alla Íslendinga til að eiga vopn. Dómurinn komst þó aðeins til framkvæmda á Vestfjörðum.",
+      "ar": "1987",
+      "texti": "Kýrin Harpa synti yfir Önundarfjörð frá Flateyri að Kirkjubóli í Valþjófsdal þegar leiða átti hana til slátrunar. Eftir þetta mikla sundafrek fékk hún nafnið Sæunn og lífið að launum.",
       "landshluti": "Vestfirðir"
     },
     {
-      "ar": "1905",
-      "texti": "Verzlunarskóli Íslands var settur í fyrsta sinn og þar með hófst löng saga skólans.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1996",
+      "texti": "Eldgosinu í Gjálp, sem hafði hafist 2. október, lauk. Jökullinn fékk þó ekki að hafa síðasta orðið, því gosið leiddi síðar til mikils Skeiðarárhlaups.",
+      "landshluti": "Austurland"
     },
     {
-      "ar": "1918",
-      "texti": "Kötlugos hófst og stóð til 4. nóvember. Gosinu fylgdi gríðarlegt jökulhlaup yfir Mýrdalssand og í kjölfarið myndaðist Kötlutangi.",
+      "ar": "1996",
+      "texti": "Strandakirkja var endurvígð eftir endurbætur. Hin þekkta áheitakirkja við suðurströndina mætti því endurnærð til leiks.",
       "landshluti": "Suðurland"
     },
     {
-      "ar": "1949",
-      "texti": "Óshlíðarvegur milli Hnífsdals og Bolungarvíkur var opnaður. Sigurður Bjarnason alþingismaður ók fyrstu bifreiðinni um veginn.",
-      "landshluti": "Vestfirðir"
+      "ar": "2000",
+      "texti": "Starfsgreinasamband Íslands var stofnað og varð þar með nýtt afl í íslenskri verkalýðshreyfingu.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Hugh Jackman",
-      "starfsgrein": "leikari, söngvari og framleiðandi",
-      "ar": "1968"
+      "nafn": "Alexandria Ocasio-Cortez",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1989"
     },
     {
-      "nafn": "Játvarður 6.",
-      "starfsgrein": "Englandskonungur",
-      "ar": "1537"
+      "nafn": "Jimin",
+      "starfsgrein": "söngvari",
+      "ar": "1995"
     },
     {
-      "nafn": "Josh Hutcherson",
-      "starfsgrein": "leikari og framleiðandi",
-      "ar": "1992"
+      "nafn": "Ashanti",
+      "starfsgrein": "söngkona, lagahöfundur og leikkona",
+      "ar": "1980"
     },
     {
-      "nafn": "Katie Piper",
-      "starfsgrein": "sjónvarpskona og góðgerðasinni",
-      "ar": "1983"
+      "nafn": "Caleb McLaughlin",
+      "starfsgrein": "leikari",
+      "ar": "2001"
+    },
+    {
+      "nafn": "Ian Thorpe",
+      "starfsgrein": "sundmaður",
+      "ar": "1982"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Magnús Magnússon",
-      "starfsgrein": "íslensk-skoskur sjónvarpskynnir, blaðamaður og fræðimaður",
-      "ar": "1929"
+      "nafn": "Steinn Steinarr",
+      "starfsgrein": "skáld",
+      "ar": "1908"
     },
     {
-      "nafn": "Páll Ísólfsson",
-      "starfsgrein": "tónskáld og organisti",
-      "ar": "1893"
+      "nafn": "Bjarni Jónsson frá Vogi",
+      "starfsgrein": "alþingismaður",
+      "ar": "1863"
     },
     {
-      "nafn": "Adolf Smári Unnarsson",
-      "starfsgrein": "rithöfundur",
-      "ar": "1993"
+      "nafn": "Agnar Klemens Jónsson",
+      "starfsgrein": "lögfræðingur",
+      "ar": "1909"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða eldfjall hóf að gjósa á Íslandi 12. október 1918?",
+      "spurning": "Hvaða dýr vann sér lengra líf með sundferð yfir Önundarfjörð?",
       "svor": [
-        "Katla",
-        "Hekla",
-        "Askja",
-        "Snæfellsjökull"
+        "Kýrin Sæunn",
+        "Hryssan Hekla",
+        "Ærin Bylgja",
+        "Geitin Harpa"
       ],
       "rett": 0,
-      "skyring": "Katla rumskaði rækilega og sendi mikið jökulhlaup yfir Mýrdalssand."
+      "skyring": "Kýrin Harpa var nefnd Sæunn eftir sundafrekið og slapp við slátrun."
     },
     {
-      "spurning": "Hvað af þessu var notað í fyrsta sinn á sjúkrahúsi árið 1928?",
+      "spurning": "Hvað uppgötvaði Charles Messier 13. október 1773?",
       "svor": [
-        "Hjartastuðtæki",
-        "Járnlunga",
-        "Gervihjarta",
-        "Segulómtæki"
+        "Halastjörnu Halleys",
+        "Whirlpool-vetrarbrautina",
+        "Tungl Júpíters",
+        "Hringi Satúrnusar"
       ],
       "rett": 1,
-      "skyring": "Járnlunga hjálpaði átta ára stúlku að anda eftir lömun af völdum lömunarveiki."
+      "skyring": "Messier kom auga á Whirlpool-vetrarbrautina, um 31 milljón ljósára frá okkur."
     },
     {
-      "spurning": "Hvaða afmælisbarn dagsins er þekkt fyrir bæði leik og söng?",
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt suðurkóresk poppstjarna?",
       "svor": [
-        "Játvarður 6.",
-        "Josh Hutcherson",
-        "Hugh Jackman",
-        "Magnús Magnússon"
+        "Ian Thorpe",
+        "Caleb McLaughlin",
+        "Jimin",
+        "Jerry Rice"
       ],
       "rett": 2,
-      "skyring": "Hugh Jackman getur bæði brugðið sér í klær Wolverine og sungið upp úr skónum."
+      "skyring": "Jimin fæddist árið 1995 og er söngvari frá Suður-Kóreu."
     }
   ],
-  "tonlistUSA": "Macarena – Los del Río (1996)",
-  "tonlistUK": "(Everything I Do) I Do It for You – Bryan Adams (1991)",
-  "bio": "First Man (2018)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "Allt um Evu (1950)",
   "ord_dagsins": {
-    "ord": "briggskip",
-    "skyring": "Briggskip er tvímastra seglskip með ráseglum á báðum möstrum."
+    "ord": "gluggaveður",
+    "skyring": "Veður sem virðist fallegt þegar horft er út um glugga en reynist ónotalegt þegar út er komið."
   },
-  "vissir_thu": "Fellibylurinn Tip var svo stór að þvermál stormkerfisins mældist um 2.220 kílómetrar.",
-  "stjornuspa": "Vog, í dag skaltu vega og meta málin af yfirvegun, en ekki svo lengi að lestin fari án þín. Gamalt kynni eða gleymd hugmynd gæti bankað upp á — bjóðið henni kaffi, en látið hana ekki ráða heimilinu.",
+  "vissir_thu": "Whirlpool-vetrarbrautin er þyrilvetrarbraut í um 31 milljón ljósára fjarlægð, svo ljósið sem við sjáum frá henni lagði af stað löngu áður en menn komu fram.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skyldurækni og þess að stara dreymandi út um gluggann. Varastu þó að vega og meta kaffibollann svo lengi að hann verði kaldur.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_the_East_Indies_by_Jodocus_Hondius_in_1606.jpg/500px-Map_of_the_East_Indies_by_Jodocus_Hondius_in_1606.jpg",
-    "ar": "1492",
-    "texti": "Kristófer Kólumbus tók land á eyju í Karíbahafi, sannfærður um að hann væri kominn til Austur-Indía. Ferðin varð upphaf að atburðarás sem leiddi til landnáms og nýlenduvæðingar Evrópumanna í Ameríku.",
-    "heimild": "https://en.wikipedia.org/wiki/East_Indies",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Tang-Korean_wars.png/500px-Tang-Korean_wars.png",
+    "ar": "645",
+    "texti": "Tang-herinn undir stjórn Taizong keisara varð að hætta umsátrinu um Ansi-virki í stríðinu við Goguryeo. Jafnvel keisaraherir þurfa stundum að pakka tjöldunum og halda heim.",
+    "heimild": "https://en.wikipedia.org/wiki/Goguryeo–Tang_War",
     "breidd": 330,
-    "haed": 250
+    "haed": 228
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-12",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-13",
+  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
