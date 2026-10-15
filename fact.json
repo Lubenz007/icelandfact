@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-14",
-  "dagur": 14,
+  "date": "2026-10-15",
+  "dagur": 15,
   "manudur": "október",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 287,
-  "sunrise": "08:14",
-  "sunset": "18:11",
-  "mmdd": "10-14",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 288,
+  "sunrise": "08:17",
+  "sunset": "18:07",
+  "mmdd": "10-15",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 14. október, kæri lesandi! Í dag fljúgum við frá hunangskrukku Bangsímonar yfir hljóðmúrinn og lendum loks við gamla rafreikninn í Háskóla Íslands — sjálfsagt með nokkrum villuboðum á leiðinni. Haltu fast í hattinn; sagan er sjaldnast kyrr í sætinu.",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 15. október! Í dag siglum við frá umsátrinu um Vín til útlegðar Napóleons, með viðkomu í íslenskri fiskveiðilögsögu og afmælisveislu Kjarvals — heldur fjölbreyttari ferð en hefðbundinn miðvikudagsrúntur.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1913",
-      "texti": "Sprenging í Universal-námunni við Senghenydd í Wales kostaði 440 manns lífið. Þetta varð mannskæðasta námuslys í sögu Bretlands."
+      "ar": "1529",
+      "texti": "Umsátri Tyrkjaveldis um Vín lauk þegar austurrískum varnarliðum tókst að hrekja innrásarherinn frá borginni. Umskiptin mörkuðu þáttaskil eftir nær heila öld af útþenslu Tyrkjaveldis í Evrópu."
     },
     {
-      "ar": "1926",
-      "texti": "Fyrsta bókin um Bangsímon eftir A. A. Milne kom út. Þar með hófst bókmenntaferill bjarnar sem hafði meiri áhuga á hunangi en hetjudáðum."
+      "ar": "1815",
+      "texti": "Napóleon hóf útlegð sína á hinni afskekktu Sankti Helenu í Suður-Atlantshafi. Þar eyddi fyrrverandi keisarinn síðustu sex árum ævinnar, víðs fjarri bæði París og pólitískum púðurtunnum."
     },
     {
-      "ar": "1943",
-      "texti": "Fangar í útrýmingarbúðunum Sobibor gerðu uppreisn, drápu ellefu SS-foringja og efndu til fjöldaflótta. Uppreisnin varð eitt eftirminnilegasta dæmið um skipulagða andspyrnu fanga í útrýmingarbúðum nasista."
+      "ar": "1888",
+      "texti": "Hið svonefnda „From Hell“-bréf, sem sagt var vera frá Jack the Ripper, var sent George Lusk, formanni eftirlitsnefndar í Whitechapel í Lundúnum. Ekki hefur verið sannað að höfundurinn hafi í raun verið morðinginn."
     },
     {
-      "ar": "1956",
-      "texti": "B. R. Ambedkar, leiðtogi úr hópi dalíta á Indlandi, tók opinberlega búddatrú og varð leiðtogi búddistahreyfingar dalíta. Trúarskiptin voru jafnframt öflug mótmæli gegn stéttskiptingu og mismunun."
+      "ar": "1967",
+      "texti": "Styttan Móðurlandið kallar var vígð í Volgograd til minningar um fórnarlömb orrustunnar um Stalíngrad. Þetta risavaxna minnismerki varð þá hæsta stytta heims."
     },
     {
-      "ar": "2012",
-      "texti": "Felix Baumgartner stökk úr helíumbelg í heiðhvolfinu og varð fyrstur manna til að rjúfa hljóðmúrinn án þess að vera knúinn áfram af farartæki. Þetta var fallhlífarstökk með heldur meira útsýni en gengur og gerist."
+      "ar": "2011",
+      "texti": "Mótmæli gegn efnahagslegum ójöfnuði, áhrifum stórfyrirtækja á stjórnvöld og fleiri samfélagsmálum fóru fram í yfir 950 borgum í 82 löndum. Heimurinn fékk sem sagt sameiginlegan mótmælafund, án þess þó að þurfa að finna nógu stórt félagsheimili."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1201",
-      "texti": "Guðmundur Arason, prestur á Víðimýri, var kjörinn biskup á Hólum.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1863",
-      "texti": "Fjórir Íslendingar sem fluttust til Brasilíu komu til Rio de Janeiro eftir þriggja mánaða ferð.",
-      "landshluti": "Erlendis"
-    },
-    {
-      "ar": "1961",
-      "texti": "Á Siglufirði var aldarafmælis séra Bjarna Þorsteinssonar minnst, en hann safnaði íslenskum þjóðlögum og gaf þau út.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1964",
-      "texti": "Rafreiknir Háskóla Íslands kom til landsins og þótti ákaflega afkastamikill, þótt venjuleg borðtölva nútímans hafi hann auðveldlega undir.",
+      "ar": "1929",
+      "texti": "Fimleikafélag Hafnarfjarðar var stofnað í Hafnarfirði.",
       "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1940",
+      "texti": "Strandferðaskipið Esja kom til Reykjavíkur frá Petsamo í Finnlandi með 258 íslenska ríkisborgara sem höfðu lokast inni í Evrópu vegna heimsstyrjaldarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Lög um útfærslu íslensku fiskveiðilögsögunnar í 200 mílur tóku gildi og þorskastríð við Breta hófst. Þar var ekki barist um uppskrift að plokkfiski heldur yfirráðin yfir fiskimiðunum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1979",
+      "texti": "Minnihlutastjórn Alþýðuflokksins undir forsæti Benedikts Gröndals tók við völdum. Hún sat í tæpa fjóra mánuði, sem telst fremur stutt vakt í stjórnarráðinu.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Dwight D. Eisenhower",
-      "starfsgrein": "hershöfðingi og Bandaríkjaforseti",
-      "ar": "1890"
+      "nafn": "Dominic West",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1969"
     },
     {
-      "nafn": "Roger Moore",
-      "starfsgrein": "leikari og kvikmyndaframleiðandi",
-      "ar": "1927"
+      "nafn": "Anthony Joshua",
+      "starfsgrein": "atvinnuhnefaleikamaður",
+      "ar": "1989"
     },
     {
-      "nafn": "Ralph Lauren",
-      "starfsgrein": "fatahönnuður",
-      "ar": "1939"
+      "nafn": "Friedrich Nietzsche",
+      "starfsgrein": "heimspekingur, skáld og tónskáld",
+      "ar": "1844"
     },
     {
-      "nafn": "Cliff Richard",
-      "starfsgrein": "söngvari, lagahöfundur og leikari",
-      "ar": "1940"
+      "nafn": "Michel Foucault",
+      "starfsgrein": "heimspekingur og sagnfræðingur",
+      "ar": "1926"
     },
     {
-      "nafn": "Usher",
-      "starfsgrein": "söngvari, dansari og leikari",
-      "ar": "1978"
+      "nafn": "Mesut Özil",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1988"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Bríet Héðinsdóttir",
-      "starfsgrein": "leikkona og leikstjóri",
-      "ar": "1935"
+      "nafn": "Jóhannes Sveinsson Kjarval",
+      "starfsgrein": "listmálari",
+      "ar": "1885"
     },
     {
-      "nafn": "Bjarni Þorsteinsson",
-      "starfsgrein": "prestur og þjóðlagasafnari",
-      "ar": "1861"
+      "nafn": "Bergljót Arnalds",
+      "starfsgrein": "leikkona og rithöfundur",
+      "ar": "1968"
     },
     {
-      "nafn": "Halldóra Bjarnadóttir",
-      "starfsgrein": "skólastjóri",
-      "ar": "1873"
+      "nafn": "Árni Thorsteinson",
+      "starfsgrein": "tónskáld og ljósmyndari",
+      "ar": "1870"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða bókmenntabjörn birtist fyrst á bók árið 1926?",
+      "spurning": "Hvert var Napóleon sendur í útlegð árið 1815?",
       "svor": [
-        "Paddington",
-        "Bangsímon",
-        "Baloo",
-        "Björn Bósi"
-      ],
-      "rett": 1,
-      "skyring": "Bangsímon mætti til leiks árið 1926, vopnaður óseðjandi hunangslöngun."
-    },
-    {
-      "spurning": "Hver rauf hljóðmúrinn í stökki úr heiðhvolfinu árið 2012?",
-      "svor": [
-        "Chuck Yeager",
-        "Neil Armstrong",
-        "Felix Baumgartner",
-        "Roger Moore"
-      ],
-      "rett": 2,
-      "skyring": "Felix Baumgartner rauf hljóðmúrinn án farartækis og gerði venjulegt fallhlífarstökk skyndilega fremur hversdagslegt."
-    },
-    {
-      "spurning": "Hvaða tæki kom til Háskóla Íslands árið 1964?",
-      "svor": [
-        "Rafreiknir",
-        "Rafeindasmásjá",
-        "Sjónvarpssendir",
-        "Gervihnattadiskur"
+        "Sankti Helenu",
+        "Korsíku",
+        "Sikileyjar",
+        "Grænlands"
       ],
       "rett": 0,
-      "skyring": "Rafreiknirinn þótti mikið undratæki, þótt borðtölvur nútímans skilji hann langt eftir."
+      "skyring": "Sankti Helena varð síðasti viðkomustaður keisarans og þar dvaldi hann í sex ár."
+    },
+    {
+      "spurning": "Hversu langt var íslenska fiskveiðilögsagan færð út árið 1975?",
+      "svor": [
+        "12 mílur",
+        "50 mílur",
+        "100 mílur",
+        "200 mílur"
+      ],
+      "rett": 3,
+      "skyring": "Útfærslan í 200 mílur tók gildi og kveikti nýjan kafla í þorskastríðunum."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins málaði íslenskt landslag af einstökum krafti?",
+      "svor": [
+        "Michel Foucault",
+        "Jóhannes Sveinsson Kjarval",
+        "Dominic West",
+        "Anthony Joshua"
+      ],
+      "rett": 1,
+      "skyring": "Kjarval gerði hraun, mosa og fjöll að stórstjörnum íslenskrar myndlistar."
     }
   ],
-  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
-  "tonlistUK": "Ride on Time – Black Box (1989)",
-  "bio": "Pulp Fiction (1994)",
+  "tonlistUSA": "Total Eclipse of the Heart – Bonnie Tyler (1983)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "hljóðfrár",
-    "skyring": "Hljóðfrár merkir að fara hraðar en hljóðið, líkt og Felix Baumgartner gerði í hinu sögulega stökki sínu."
+    "ord": "vogrek",
+    "skyring": "Vogrek er rekaviður eða annað lauslegt sem berst fyrir vindi og straumum að landi."
   },
-  "vissir_thu": "Chuck Yeager rauf hljóðmúrinn í Bell X-1-flugvélinni 14. október 1947, nákvæmlega 65 árum áður en Felix Baumgartner gerði það án farartækis.",
-  "stjornuspa": "Vogin finnur í dag fullkomið jafnvægi milli Bangsímonar og hljóðmúrsins: fáðu þér eitthvað sætt, en vertu svo tilbúin að taka stökk. Gamaldags kurteisi opnar dyr, jafnvel þótt þær ískri dálítið eins og gamall rafreiknir.",
+  "vissir_thu": "Móðurlandið kallar í Volgograd var hæsta stytta heims þegar hún var vígð árið 1967.",
+  "stjornuspa": "Vogin reynir að halda jafnvægi milli skyldu og skemmtunar, en í dag hallar vogarskálin óvenju ákveðið að kaffibollanum. Klæddu þig eins og árið sé 1983 og taktu mikilvægar ákvarðanir aðeins eftir að mixtæpan er tilbúin.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Winnie-the-Pooh_%28book%29.png/330px-Winnie-the-Pooh_%28book%29.png",
-    "ar": "1926",
-    "texti": "Fyrsta bókin um Bangsímon eftir A. A. Milne kom út. Þar með hófst bókmenntaferill bjarnar sem hafði meiri áhuga á hunangi en hetjudáðum.",
-    "heimild": "https://en.wikipedia.org/wiki/Winnie-the-Pooh_(book)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/MixCollage-15-Jan-2024-09-37-PM-7066.jpg/500px-MixCollage-15-Jan-2024-09-37-PM-7066.jpg",
+    "ar": "1529",
+    "texti": "Umsátri Tyrkjaveldis um Vín lauk þegar austurrískum varnarliðum tókst að hrekja innrásarherinn frá borginni. Umskiptin mörkuðu þáttaskil eftir nær heila öld af útþenslu Tyrkjaveldis í Evrópu.",
+    "heimild": "https://en.wikipedia.org/wiki/Ottoman–Habsburg_wars",
     "breidd": 330,
-    "haed": 414
+    "haed": 330
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-14",
-  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-15",
+  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
