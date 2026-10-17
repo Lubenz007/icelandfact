@@ -1,152 +1,147 @@
 {
-  "date": "2026-10-16",
-  "dagur": 16,
+  "date": "2026-10-17",
+  "dagur": 17,
   "manudur": "október",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 289,
-  "sunrise": "08:20",
-  "sunset": "18:04",
-  "mmdd": "10-16",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 290,
+  "sunrise": "08:23",
+  "sunset": "18:00",
+  "mmdd": "10-17",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 16. október, kæri lesandi! Í dag kíkjum við inn í Narníu, fylgjumst með Disney-bræðrum leggja grunn að draumaverksmiðju og heyrum fyrsta íslenska „málþráðinn“ suða milli bæja. Sagan er nefnilega eins og gömul símalína: stundum brakandi, en alltaf með eitthvað merkilegt á hinum endanum.",
+  "kvedja": "Góðan 17. október! Í dag fylgjumst við með sprengistjörnu, bjórflóði og falli Al Capones fyrir skattmanninum — því sagan veit að jafnvel stórglæpamenn þurfa að muna eftir framtalinu. Megi dagurinn þinn verða viðburðaríkur, en þó laus við brostna bjórtanka.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1384",
-      "texti": "Jadwiga var krýnd „konungur Póllands“ fremur en drottning, enda átti titillinn að undirstrika að hún væri sjálfstæður þjóðhöfðingi en ekki aðeins maki konungs."
+      "ar": "1604",
+      "texti": "Johannes Kepler hóf athuganir á óvenju björtu fyrirbæri í stjörnumerkinu Naðurvalda. Fyrirbærið reyndist vera sprengistjarna og er nú þekkt sem sprengistjarna Keplers."
     },
     {
-      "ar": "1834",
-      "texti": "Mestur hluti Westminsterhallarinnar í London brann eftir að gömlum talnastikum úr tré var fargað í eldi. Bókhaldstilþrifin urðu sem sagt heldur kostnaðarsamari en ætlað var."
+      "ar": "1777",
+      "texti": "John Burgoyne hershöfðingi gafst upp fyrir Bandaríkjamönnum eftir Saratoga-herferðina. Uppgjöfin átti síðar þátt í að sannfæra Frakka um að ganga til liðs við Bandaríkin í frelsisstríðinu."
     },
     {
-      "ar": "1923",
-      "texti": "Bræðurnir Walt og Roy Disney stofnuðu Disney Brothers Cartoon Studio í Hollywood. Litla teiknimyndastofan óx síðar í eitt stærsta fjölmiðla- og afþreyingarfyrirtæki heims."
+      "ar": "1814",
+      "texti": "Risastór gerjunartankur brast í Lundúnum og hrinti af stað flóði úr að minnsta kosti 580.000 lítrum af porter-bjór. Átta létust í þessum sérkennilega en skelfilega atburði."
     },
     {
-      "ar": "1950",
-      "texti": "The Lion, the Witch and the Wardrobe eftir C. S. Lewis kom út í Bretlandi, fyrsta útgefna bókin í The Chronicles of Narnia. Þar með opnuðust dyrnar á fataskápnum fyrir kynslóðum lesenda."
+      "ar": "1860",
+      "texti": "Opna meistaramótið í golfi var haldið í fyrsta sinn á Prestwick-vellinum í Skotlandi. Það er elst þeirra fjögurra stórmóta sem skipa æðsta sess í karlagolfinu."
     },
     {
-      "ar": "2017",
-      "texti": "Maltneska blaðakonan og baráttukonan gegn spillingu, Daphne Caruana Galizia, var myrt í bílsprengjuárás í Bidnija. Morðið vakti hörð alþjóðleg viðbrögð og varð tákn um hættuna sem rannsóknarblaðamenn geta staðið frammi fyrir."
+      "ar": "1931",
+      "texti": "Bandaríski glæpaforinginn Al Capone var sakfelldur fyrir skattsvik í fimm liðum. Lögreglunni hafði reynst erfitt að festa hendur á honum fyrir ofbeldisglæpi, en skatturinn fann aðra leið inn."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1551",
-      "texti": "Ólafur Hjaltason var útnefndur biskup í Hólabiskupsdæmi.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1612",
-      "texti": "Eldgos braust út í Kötlu, þeirri miklu eldstöð undir Mýrdalsjökli sem hefur löngum minnt landsmenn á að Suðurland sefur ekki alltaf vært.",
+      "ar": "1755",
+      "texti": "Mikið Kötlugos hófst með jökulhlaupi og öskufalli. Gosið, sem stóð fram í febrúar, er talið mesta öskugos Kötlu á sögulegum tíma.",
       "landshluti": "Suðurland"
     },
     {
-      "ar": "1890",
-      "texti": "Landshöfðingi vígði fyrsta símann sem lagður var á Íslandi, milli Reykjavíkur og Hafnarfjarðar. Í Fjallkonunni var þessi nýstárlega tækni kölluð „málþráður“.",
+      "ar": "1941",
+      "texti": "Ellefu bandarískir hermenn fórust þegar þýskur kafbátur skaut á bandarískan tundurspilli vestur af Íslandi. Skipið komst við illan leik inn á Hvalfjörð og mennirnir urðu fyrstu bandarísku hermennirnir sem féllu í síðari heimsstyrjöld.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1941",
+      "texti": "Ákveðið var að Sáttmálasjóður Háskóla Íslands skyldi eiga og reka kvikmyndahús.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2003",
-      "texti": "Listaverkið The Weather Project eftir Ólaf Elíasson var opnað almenningi í Tate Modern í London.",
-      "landshluti": "Erlendis"
+      "ar": "1965",
+      "texti": "Syrtlingur, lítil eldfjallaeyja við Surtsey, sást í síðasta sinn ofansjávar. Hafið sá um lokaatriðið og eyjan hvarf undir yfirborðið.",
+      "landshluti": "Suðurland"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Tim Robbins",
-      "starfsgrein": "leikari, leikstjóri og handritshöfundur",
-      "ar": "1958"
+      "nafn": "Eminem",
+      "starfsgrein": "rappari, upptökustjóri og leikari",
+      "ar": "1972"
     },
     {
-      "nafn": "Oscar Wilde",
-      "starfsgrein": "leikskáld, rithöfundur og ljóðskáld",
-      "ar": "1854"
+      "nafn": "Norm Macdonald",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1959"
     },
     {
-      "nafn": "Charles Leclerc",
+      "nafn": "Matthew Macfadyen",
+      "starfsgrein": "leikari",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Rita Hayworth",
+      "starfsgrein": "leikkona, söngkona og dansari",
+      "ar": "1918"
+    },
+    {
+      "nafn": "Kimi Räikkönen",
       "starfsgrein": "kappakstursökumaður",
-      "ar": "1997"
-    },
-    {
-      "nafn": "Angela Lansbury",
-      "starfsgrein": "leikkona, söngkona og framleiðandi",
-      "ar": "1925"
-    },
-    {
-      "nafn": "Flea",
-      "starfsgrein": "bassaleikari, lagahöfundur og leikari",
-      "ar": "1962"
+      "ar": "1979"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Brynjar Gunnarsson",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1975"
-    },
-    {
-      "nafn": "Elín Briem",
-      "starfsgrein": "skólastofnandi og höfundur",
-      "ar": "1856"
+      "nafn": "Pétur Heiðar Þórðarson",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1972"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða ævintýrabók kom fyrst út 16. október 1950?",
+      "spurning": "Hvaða glæpaforingja felldi skatturinn loks árið 1931?",
       "svor": [
-        "The Lion, the Witch and the Wardrobe",
-        "The Hobbit",
-        "Peter Pan",
-        "Alice's Adventures in Wonderland"
+        "Al Capone",
+        "John Dillinger",
+        "Bugsy Siegel",
+        "Lucky Luciano"
       ],
       "rett": 0,
-      "skyring": "C. S. Lewis opnaði dyrnar að Narníu þennan dag árið 1950."
+      "skyring": "Al Capone var sakfelldur fyrir skattsvik í fimm liðum — bókhaldið reyndist býsna beitt vopn."
     },
     {
-      "spurning": "Hvað kallaði Fjallkonan fyrsta íslenska símann?",
+      "spurning": "Hvaða íslenska eldfjall hóf mikið gos 17. október 1755?",
       "svor": [
-        "Raddstreng",
-        "Málþráð",
-        "Fréttavír",
-        "Hljóðband"
+        "Hekla",
+        "Katla",
+        "Askja",
+        "Grímsvötn"
       ],
       "rett": 1,
-      "skyring": "„Málþráður“ var einkar myndrænt heiti á tæki sem flutti tal eftir vír."
+      "skyring": "Katla hóf þá öflugt gos með jökulhlaupi og miklu öskufalli."
     },
     {
-      "spurning": "Hvaða titil hlaut Jadwiga við krýningu sína árið 1384?",
+      "spurning": "Hver af afmælisbörnum dagsins er finnskur kappakstursökumaður?",
       "svor": [
-        "Keisari Póllands",
-        "Prinsessa Póllands",
-        "Konungur Póllands",
-        "Hertogi Póllands"
+        "Norm Macdonald",
+        "Matthew Macfadyen",
+        "Kimi Räikkönen",
+        "Eminem"
       ],
       "rett": 2,
-      "skyring": "Hún var krýnd konungur til að undirstrika að hún ríkti í eigin rétti."
+      "skyring": "Kimi Räikkönen er finnski ökuþórinn í hópnum og jafnan spar á bæði orð og óþarfa beygjur."
     }
   ],
-  "tonlistUSA": "Jack & Diane – John Cougar (1982)",
-  "tonlistUK": "Pass the Dutchie – Musical Youth (1982)",
-  "bio": "Pulp Fiction (1994)",
+  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
+  "tonlistUK": "Sleeping Satellite – Tasmin Archer (1992)",
+  "bio": "Bullitt (1968)",
   "ord_dagsins": {
-    "ord": "málþráður",
-    "skyring": "Gamalt og myndrænt íslenskt orð sem notað var um síma eða símalínu."
+    "ord": "stjörnuhrap",
+    "skyring": "Ljósrák sem verður þegar lítið geimryk eða steinn glóir við ferð sína inn í lofthjúp jarðar."
   },
-  "vissir_thu": "Jadwiga var aðeins um tíu ára þegar hún var krýnd „konungur Póllands“ árið 1384.",
-  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli þess að svara málþræðinum og hverfa inn í fataskáp til Narníu. Varastu þó að láta ákvörðun um kaffibolla verða að jafnflóknu diplómatísku máli og friðarviðræður.",
+  "vissir_thu": "Sprengistjarna Keplers frá 1604 varð svo björt að hún sást með berum augum, enda sjónaukanum ekki beint til að dreifa á þeim tíma.",
+  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt annar skálinn geymi sprengistjörnu og hinn 580.000 lítra af porter. Taktu ákvarðanir af yfirvegun, en mundu að enginn varð goðsögn af því einu að raða öllum pennunum beint.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Jadwiga_Andegawe%C5%84ska_seal_1386.PNG/500px-Jadwiga_Andegawe%C5%84ska_seal_1386.PNG",
-    "ar": "1384",
-    "texti": "Jadwiga var krýnd „konungur Póllands“ fremur en drottning, enda átti titillinn að undirstrika að hún væri sjálfstæður þjóðhöfðingi en ekki aðeins maki konungs.",
-    "heimild": "https://en.wikipedia.org/wiki/Jadwiga_of_Poland",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
+    "ar": "1604",
+    "texti": "Johannes Kepler hóf athuganir á óvenju björtu fyrirbæri í stjörnumerkinu Naðurvalda. Fyrirbærið reyndist vera sprengistjarna og er nú þekkt sem sprengistjarna Keplers.",
+    "heimild": "https://en.wikipedia.org/wiki/Johannes_Kepler",
     "breidd": 330,
-    "haed": 334
+    "haed": 474
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-16",
-  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-17",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
