@@ -6,28 +6,28 @@
   "stjornumerki": "Vog",
   "sunrise": "08:25",
   "sunset": "17:58",
-  "kvedja": "Góðan 18. október! Í dag stökkvum við með Bob Beamon, svífum til Venusar og kveikjum fyrstu rafljósin á Seyðisfirði — enda þarf sagan bæði langstökk og góða lýsingu. Vogin heldur jafnvæginu á meðan Sagnfræðingurinn reynir að missa ekki gleraugun í öllum látunum.",
+  "kvedja": "Góðan 18. október! Í dag stökk Bob Beamon nánast inn í framtíðina, Seyðfirðingar kveiktu ljósin og Brahms lyfti tónsprotanum — sagan kann greinilega bæði stór stökk og fína takta. Megi dagurinn þinn verða bjartur, vel stilltur og laus við jarðskjálfta.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "320",
-      "texti": "Pappos frá Alexandríu fylgdist með sólmyrkva. Sú athugun gerði síðari tíma sagnfræðingum kleift að áætla hvenær þessi mikli stærðfræðingur fornaldar var uppi."
-    },
-    {
       "ar": "1356",
-      "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði Basel í Sviss að miklu leyti í rúst. Þar minnti jarðskorpan óþyrmilega á að hún væri ekki aðeins undirstaða heldur líka þátttakandi."
+      "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði stóran hluta Basel í Sviss í rúst. Þetta var dagur þegar borgarskipulagið breyttist með heldur harkalegri hætti en venjulegt er."
     },
     {
       "ar": "1587",
-      "texti": "Filippseyskir sjómenn af Manila-galeiðunni Nuestra Señora de Buena Esperanza stigu á land þar sem nú er Morro Bay í Kaliforníu. Þetta er fyrsta skjalfesta dæmið um Asíubúa í Ameríku."
+      "texti": "Filippseyskir sjómenn af Manila-gallíóninu Nuestra Señora de Buena Esperanza stigu á land við Morro Bay í Kaliforníu. Þetta er elsta skjalfesta dæmið um komu Asíubúa til Ameríku."
     },
     {
-      "ar": "1967",
-      "texti": "Sovéska geimfarið Venera 4 varð fyrst til að framkvæma beina greiningu á umhverfi annarrar reikistjörnu þegar það rannsakaði lofthjúp Venusar."
+      "ar": "1748",
+      "texti": "Austurríska erfðastríðinu lauk með friðarsamningnum í Aachen. Eftir átta ára átök lögðu stórveldin loks frá sér vopnin — að minnsta kosti um stundarsakir."
     },
     {
       "ar": "1968",
-      "texti": "Bandaríkjamaðurinn Bob Beamon stökk 8,90 metra í langstökki á Ólympíuleikunum í Mexíkóborg. Heimsmetið stóð í 23 ár og stökkið varð samstundis eitt frægasta augnablik frjálsíþróttasögunnar."
+      "texti": "Bandaríkjamaðurinn Bob Beamon stökk 8,90 metra í langstökki á Ólympíuleikunum í Mexíkóborg. Heimsmetið var svo stórkostlegt að það stóð óhaggað í 23 ár."
+    },
+    {
+      "ar": "2019",
+      "texti": "Mótmæli í Santiago í Síle, sem höfðu hafist ellefu dögum fyrr, mögnuðust upp í hörð átök við lögreglu. Sebastián Piñera forseti lýsti í kjölfarið yfir neyðarástandi."
     }
   ],
   "atburdir_island": [
@@ -38,75 +38,75 @@
     },
     {
       "ar": "1906",
-      "texti": "Sjö hús brunnu í stórbruna á Akureyri og um áttatíu manns misstu heimili sín. Blaðið Norðurland kallaði þetta „mesta húsbruna á Íslandi“.",
+      "texti": "Stórbruni varð á Akureyri þar sem sjö hús brunnu og um áttatíu manns misstu heimili sín. Blaðið Norðurland kallaði þetta „mesta húsbruna á Íslandi“.",
       "landshluti": "Norðurland"
     },
     {
       "ar": "1913",
-      "texti": "Rafveita sem náði til alls bæjarfélagsins var vígð á Seyðisfirði. Þegar fyrstu rafljósin voru tendruð héldu bæjarbúar ljósahátíð — fullkomlega eðlileg viðbrögð við því að geta loks séð almennilega eftir myrkur.",
+      "texti": "Rafveita Seyðisfjarðar var vígð og fyrstu rafljósin kveikt við hátíðlega ljósahátíð. Hún var ein fyrsta íslenska rafveitan sem náði til heils bæjarfélags.",
       "landshluti": "Austurland"
     },
     {
       "ar": "1986",
-      "texti": "Kvikmyndin Stella í orlofi var frumsýnd í Reykjavík og Stella hóf þar með langlífan feril sinn sem ein ástsælasta gamanpersóna íslenskrar kvikmyndasögu.",
+      "texti": "Kvikmyndin Stella í orlofi var frumsýnd í Reykjavík og íslensk þjóð eignaðist eina eftirminnilegustu gamanmynd sína.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Chuck Berry",
+      "starfsgrein": "tónlistarmaður og gítarleikari",
+      "ar": "1926"
+    },
+    {
+      "nafn": "Martina Navratilova",
+      "starfsgrein": "tenniskona og þjálfari",
+      "ar": "1956"
+    },
+    {
+      "nafn": "Jean-Claude Van Damme",
+      "starfsgrein": "leikari og bardagalistamaður",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Zac Efron",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1987"
+    },
+    {
       "nafn": "Barry Keoghan",
-      "starfsgrein": "írskur leikari",
+      "starfsgrein": "leikari",
       "ar": "1992"
-    },
-    {
-      "nafn": "Brittney Griner",
-      "starfsgrein": "bandarísk körfuknattleikskona",
-      "ar": "1990"
-    },
-    {
-      "nafn": "Catherine Ringer",
-      "starfsgrein": "frönsk söngkona, lagahöfundur og leikkona",
-      "ar": "1957"
-    },
-    {
-      "nafn": "Arliss Howard",
-      "starfsgrein": "bandarískur leikari og leikstjóri",
-      "ar": "1954"
-    },
-    {
-      "nafn": "Bobby Troup",
-      "starfsgrein": "bandarískur söngvari, lagahöfundur og píanóleikari",
-      "ar": "1918"
     }
   ],
   "afmaeli_island": [
     {
+      "nafn": "Chris Albertson",
+      "starfsgrein": "íslensk-bandarískur sagnfræðingur, blaðamaður og upptökustjóri",
+      "ar": "1931"
+    },
+    {
       "nafn": "Tryggvi Gunnarsson",
-      "starfsgrein": "bankastjóri og alþingismaður",
+      "starfsgrein": "bankastjóri",
       "ar": "1835"
     },
     {
       "nafn": "Magnús Stephensen",
-      "starfsgrein": "embættismaður og síðasti landshöfðingi Íslands",
+      "starfsgrein": "landshöfðingi Íslands",
       "ar": "1836"
-    },
-    {
-      "nafn": "Chris Albertson",
-      "starfsgrein": "íslensk-bandarískur sagnfræðingur, blaðamaður og upptökustjóri",
-      "ar": "1931"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hversu langt stökk Bob Beamon í hinu sögufræga langstökki sínu árið 1968?",
+      "spurning": "Hversu langt stökk Bob Beamon í hinu sögulega langstökki sínu?",
       "svor": [
         "8,90 metra",
-        "8,45 metra",
+        "8,35 metra",
         "9,02 metra",
         "7,98 metra"
       ],
       "rett": 0,
-      "skyring": "Beamon sveif 8,90 metra og heimsmet hans stóð í heil 23 ár."
+      "skyring": "Beamon flaug 8,90 metra og metið stóð í heil 23 ár."
     },
     {
       "spurning": "Í hvaða bæ var haldin ljósahátíð þegar rafveita var vígð árið 1913?",
@@ -114,40 +114,40 @@
         "Akureyri",
         "Seyðisfirði",
         "Ísafirði",
-        "Vestmannaeyjum"
+        "Hafnarfirði"
       ],
       "rett": 1,
-      "skyring": "Seyðfirðingar fögnuðu fyrstu rafljósunum með ljósahátíð, eins og bjartsýnir ljósaperueigendur gera."
+      "skyring": "Seyðfirðingar fögnuðu rafljósunum með ljósahátíð — eðlilega."
     },
     {
-      "spurning": "Hvaða geimfar rannsakaði lofthjúp Venusar árið 1967?",
+      "spurning": "Hvaða afmælisbarn dagsins var einn helsti frumkvöðull rokktónlistar?",
       "svor": [
-        "Galileo",
-        "Venera 4",
-        "Voyager 1",
-        "Sputnik 2"
+        "Zac Efron",
+        "Barry Keoghan",
+        "Chuck Berry",
+        "Jean-Claude Van Damme"
       ],
-      "rett": 1,
-      "skyring": "Venera 4 varð fyrst geimfara til að greina umhverfi annarrar reikistjörnu með beinum hætti."
+      "rett": 2,
+      "skyring": "Chuck Berry hjálpaði til við að móta hljóm og sviðsframkomu rokksins."
     }
   ],
-  "tonlistUSA": "When I Think of You – Janet Jackson (1986)",
+  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
   "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
-  "bio": "Crocodile Dundee (1986)",
+  "bio": "The Martian (2015)",
   "ord_dagsins": {
-    "ord": "skíma",
-    "skyring": "Skíma er dauf eða lítil birta, gjarnan fyrsta dagsljósið eða veikur ljósbjarmi."
+    "ord": "ljósmeti",
+    "skyring": "Ljósmeti er birta eða ljós, einkum notað í hátíðlegu eða skáldlegu máli."
   },
-  "vissir_thu": "Heimsmet Bob Beamons frá 1968, 8,90 metrar í langstökki, stóð í 23 ár.",
-  "stjornuspa": "Vogin finnur í dag fullkomið jafnvægi milli þess að vinna afrek og fá sér kaffibolla — hallist vogarskálin, bættu þá við kleinunni. Gamalt erindi eða gleymd hugmynd gæti skotið upp kollinum eins og póstkort úr fortíðinni.",
+  "vissir_thu": "Stökk Bob Beamons árið 1968 bætti fyrra heimsmetið í langstökki um 55 sentímetra, sem þótti svo ótrúlegt afrek að það var kallað „stökkið inn í 21. öldina“.",
+  "stjornuspa": "Vogin finnur jafnvægið milli skyldu og skemmtunar, jafnvel þótt það krefjist útreikninga á vasareikni frá 1986. Segðu já við góðu boði, en nei við öllu sem lyktar af óþarfa fundi.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pappi_Alexandrini._Mathematicae_collectiones._1588.jpg/500px-Pappi_Alexandrini._Mathematicae_collectiones._1588.jpg",
-    "ar": "320",
-    "texti": "Pappos frá Alexandríu fylgdist með sólmyrkva. Sú athugun gerði síðari tíma sagnfræðingum kleift að áætla hvenær þessi mikli stærðfræðingur fornaldar var uppi.",
-    "heimild": "https://en.wikipedia.org/wiki/Pappus_of_Alexandria",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Erdbeben_Basel_Jauslin.JPG/500px-Erdbeben_Basel_Jauslin.JPG",
+    "ar": "1356",
+    "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði stóran hluta Basel í Sviss í rúst. Þetta var dagur þegar borgarskipulagið breyttist með heldur harkalegri hætti en venjulegt er.",
+    "heimild": "https://en.wikipedia.org/wiki/1356_Basel_earthquake",
     "breidd": 330,
-    "haed": 485
+    "haed": 248
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-18"
 }

@@ -1,147 +1,157 @@
 {
-  "date": "2026-10-17",
-  "dagur": 17,
+  "date": "2026-10-18",
+  "dagur": 18,
   "manudur": "október",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 290,
-  "sunrise": "08:23",
-  "sunset": "18:00",
-  "mmdd": "10-17",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 291,
+  "sunrise": "08:26",
+  "sunset": "17:57",
+  "mmdd": "10-18",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 17. október! Í dag fylgjumst við með sprengistjörnu, bjórflóði og falli Al Capones fyrir skattmanninum — því sagan veit að jafnvel stórglæpamenn þurfa að muna eftir framtalinu. Megi dagurinn þinn verða viðburðaríkur, en þó laus við brostna bjórtanka.",
+  "kvedja": "Góðan 18. október! Í dag stökk Bob Beamon nánast inn í framtíðina, Seyðfirðingar kveiktu ljósin og Brahms lyfti tónsprotanum — sagan kann greinilega bæði stór stökk og fína takta. Megi dagurinn þinn verða bjartur, vel stilltur og laus við jarðskjálfta.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1604",
-      "texti": "Johannes Kepler hóf athuganir á óvenju björtu fyrirbæri í stjörnumerkinu Naðurvalda. Fyrirbærið reyndist vera sprengistjarna og er nú þekkt sem sprengistjarna Keplers."
+      "ar": "1356",
+      "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði stóran hluta Basel í Sviss í rúst. Þetta var dagur þegar borgarskipulagið breyttist með heldur harkalegri hætti en venjulegt er."
     },
     {
-      "ar": "1777",
-      "texti": "John Burgoyne hershöfðingi gafst upp fyrir Bandaríkjamönnum eftir Saratoga-herferðina. Uppgjöfin átti síðar þátt í að sannfæra Frakka um að ganga til liðs við Bandaríkin í frelsisstríðinu."
+      "ar": "1587",
+      "texti": "Filippseyskir sjómenn af Manila-gallíóninu Nuestra Señora de Buena Esperanza stigu á land við Morro Bay í Kaliforníu. Þetta er elsta skjalfesta dæmið um komu Asíubúa til Ameríku."
     },
     {
-      "ar": "1814",
-      "texti": "Risastór gerjunartankur brast í Lundúnum og hrinti af stað flóði úr að minnsta kosti 580.000 lítrum af porter-bjór. Átta létust í þessum sérkennilega en skelfilega atburði."
+      "ar": "1748",
+      "texti": "Austurríska erfðastríðinu lauk með friðarsamningnum í Aachen. Eftir átta ára átök lögðu stórveldin loks frá sér vopnin — að minnsta kosti um stundarsakir."
     },
     {
-      "ar": "1860",
-      "texti": "Opna meistaramótið í golfi var haldið í fyrsta sinn á Prestwick-vellinum í Skotlandi. Það er elst þeirra fjögurra stórmóta sem skipa æðsta sess í karlagolfinu."
+      "ar": "1968",
+      "texti": "Bandaríkjamaðurinn Bob Beamon stökk 8,90 metra í langstökki á Ólympíuleikunum í Mexíkóborg. Heimsmetið var svo stórkostlegt að það stóð óhaggað í 23 ár."
     },
     {
-      "ar": "1931",
-      "texti": "Bandaríski glæpaforinginn Al Capone var sakfelldur fyrir skattsvik í fimm liðum. Lögreglunni hafði reynst erfitt að festa hendur á honum fyrir ofbeldisglæpi, en skatturinn fann aðra leið inn."
+      "ar": "2019",
+      "texti": "Mótmæli í Santiago í Síle, sem höfðu hafist ellefu dögum fyrr, mögnuðust upp í hörð átök við lögreglu. Sebastián Piñera forseti lýsti í kjölfarið yfir neyðarástandi."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1755",
-      "texti": "Mikið Kötlugos hófst með jökulhlaupi og öskufalli. Gosið, sem stóð fram í febrúar, er talið mesta öskugos Kötlu á sögulegum tíma.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1941",
-      "texti": "Ellefu bandarískir hermenn fórust þegar þýskur kafbátur skaut á bandarískan tundurspilli vestur af Íslandi. Skipið komst við illan leik inn á Hvalfjörð og mennirnir urðu fyrstu bandarísku hermennirnir sem féllu í síðari heimsstyrjöld.",
-      "landshluti": "Vesturland"
-    },
-    {
-      "ar": "1941",
-      "texti": "Ákveðið var að Sáttmálasjóður Háskóla Íslands skyldi eiga og reka kvikmyndahús.",
+      "ar": "1905",
+      "texti": "Alliance hf., fyrsta togaraútgerðarfélag Íslands, var stofnað og markaði mikilvægt skref í vélvæðingu íslensks sjávarútvegs.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1965",
-      "texti": "Syrtlingur, lítil eldfjallaeyja við Surtsey, sást í síðasta sinn ofansjávar. Hafið sá um lokaatriðið og eyjan hvarf undir yfirborðið.",
-      "landshluti": "Suðurland"
+      "ar": "1906",
+      "texti": "Stórbruni varð á Akureyri þar sem sjö hús brunnu og um áttatíu manns misstu heimili sín. Blaðið Norðurland kallaði þetta „mesta húsbruna á Íslandi“.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1913",
+      "texti": "Rafveita Seyðisfjarðar var vígð og fyrstu rafljósin kveikt við hátíðlega ljósahátíð. Hún var ein fyrsta íslenska rafveitan sem náði til heils bæjarfélags.",
+      "landshluti": "Austurland"
+    },
+    {
+      "ar": "1986",
+      "texti": "Kvikmyndin Stella í orlofi var frumsýnd í Reykjavík og íslensk þjóð eignaðist eina eftirminnilegustu gamanmynd sína.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Eminem",
-      "starfsgrein": "rappari, upptökustjóri og leikari",
-      "ar": "1972"
+      "nafn": "Chuck Berry",
+      "starfsgrein": "tónlistarmaður og gítarleikari",
+      "ar": "1926"
     },
     {
-      "nafn": "Norm Macdonald",
-      "starfsgrein": "leikari og grínisti",
-      "ar": "1959"
+      "nafn": "Martina Navratilova",
+      "starfsgrein": "tenniskona og þjálfari",
+      "ar": "1956"
     },
     {
-      "nafn": "Matthew Macfadyen",
+      "nafn": "Jean-Claude Van Damme",
+      "starfsgrein": "leikari og bardagalistamaður",
+      "ar": "1960"
+    },
+    {
+      "nafn": "Zac Efron",
+      "starfsgrein": "leikari og söngvari",
+      "ar": "1987"
+    },
+    {
+      "nafn": "Barry Keoghan",
       "starfsgrein": "leikari",
-      "ar": "1974"
-    },
-    {
-      "nafn": "Rita Hayworth",
-      "starfsgrein": "leikkona, söngkona og dansari",
-      "ar": "1918"
-    },
-    {
-      "nafn": "Kimi Räikkönen",
-      "starfsgrein": "kappakstursökumaður",
-      "ar": "1979"
+      "ar": "1992"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Pétur Heiðar Þórðarson",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1972"
+      "nafn": "Chris Albertson",
+      "starfsgrein": "íslensk-bandarískur sagnfræðingur, blaðamaður og upptökustjóri",
+      "ar": "1931"
+    },
+    {
+      "nafn": "Tryggvi Gunnarsson",
+      "starfsgrein": "bankastjóri",
+      "ar": "1835"
+    },
+    {
+      "nafn": "Magnús Stephensen",
+      "starfsgrein": "landshöfðingi Íslands",
+      "ar": "1836"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða glæpaforingja felldi skatturinn loks árið 1931?",
+      "spurning": "Hversu langt stökk Bob Beamon í hinu sögulega langstökki sínu?",
       "svor": [
-        "Al Capone",
-        "John Dillinger",
-        "Bugsy Siegel",
-        "Lucky Luciano"
+        "8,90 metra",
+        "8,35 metra",
+        "9,02 metra",
+        "7,98 metra"
       ],
       "rett": 0,
-      "skyring": "Al Capone var sakfelldur fyrir skattsvik í fimm liðum — bókhaldið reyndist býsna beitt vopn."
+      "skyring": "Beamon flaug 8,90 metra og metið stóð í heil 23 ár."
     },
     {
-      "spurning": "Hvaða íslenska eldfjall hóf mikið gos 17. október 1755?",
+      "spurning": "Í hvaða bæ var haldin ljósahátíð þegar rafveita var vígð árið 1913?",
       "svor": [
-        "Hekla",
-        "Katla",
-        "Askja",
-        "Grímsvötn"
+        "Akureyri",
+        "Seyðisfirði",
+        "Ísafirði",
+        "Hafnarfirði"
       ],
       "rett": 1,
-      "skyring": "Katla hóf þá öflugt gos með jökulhlaupi og miklu öskufalli."
+      "skyring": "Seyðfirðingar fögnuðu rafljósunum með ljósahátíð — eðlilega."
     },
     {
-      "spurning": "Hver af afmælisbörnum dagsins er finnskur kappakstursökumaður?",
+      "spurning": "Hvaða afmælisbarn dagsins var einn helsti frumkvöðull rokktónlistar?",
       "svor": [
-        "Norm Macdonald",
-        "Matthew Macfadyen",
-        "Kimi Räikkönen",
-        "Eminem"
+        "Zac Efron",
+        "Barry Keoghan",
+        "Chuck Berry",
+        "Jean-Claude Van Damme"
       ],
       "rett": 2,
-      "skyring": "Kimi Räikkönen er finnski ökuþórinn í hópnum og jafnan spar á bæði orð og óþarfa beygjur."
+      "skyring": "Chuck Berry hjálpaði til við að móta hljóm og sviðsframkomu rokksins."
     }
   ],
-  "tonlistUSA": "End of the Road – Boyz II Men (1992)",
-  "tonlistUK": "Sleeping Satellite – Tasmin Archer (1992)",
-  "bio": "Bullitt (1968)",
+  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
+  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
+  "bio": "The Martian (2015)",
   "ord_dagsins": {
-    "ord": "stjörnuhrap",
-    "skyring": "Ljósrák sem verður þegar lítið geimryk eða steinn glóir við ferð sína inn í lofthjúp jarðar."
+    "ord": "ljósmeti",
+    "skyring": "Ljósmeti er birta eða ljós, einkum notað í hátíðlegu eða skáldlegu máli."
   },
-  "vissir_thu": "Sprengistjarna Keplers frá 1604 varð svo björt að hún sást með berum augum, enda sjónaukanum ekki beint til að dreifa á þeim tíma.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt annar skálinn geymi sprengistjörnu og hinn 580.000 lítra af porter. Taktu ákvarðanir af yfirvegun, en mundu að enginn varð goðsögn af því einu að raða öllum pennunum beint.",
+  "vissir_thu": "Stökk Bob Beamons árið 1968 bætti fyrra heimsmetið í langstökki um 55 sentímetra, sem þótti svo ótrúlegt afrek að það var kallað „stökkið inn í 21. öldina“.",
+  "stjornuspa": "Vogin finnur jafnvægið milli skyldu og skemmtunar, jafnvel þótt það krefjist útreikninga á vasareikni frá 1986. Segðu já við góðu boði, en nei við öllu sem lyktar af óþarfa fundi.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/JKepler.jpg/500px-JKepler.jpg",
-    "ar": "1604",
-    "texti": "Johannes Kepler hóf athuganir á óvenju björtu fyrirbæri í stjörnumerkinu Naðurvalda. Fyrirbærið reyndist vera sprengistjarna og er nú þekkt sem sprengistjarna Keplers.",
-    "heimild": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Erdbeben_Basel_Jauslin.JPG/500px-Erdbeben_Basel_Jauslin.JPG",
+    "ar": "1356",
+    "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði stóran hluta Basel í Sviss í rúst. Þetta var dagur þegar borgarskipulagið breyttist með heldur harkalegri hætti en venjulegt er.",
+    "heimild": "https://en.wikipedia.org/wiki/1356_Basel_earthquake",
     "breidd": 330,
-    "haed": 474
+    "haed": 248
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-17",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-18",
+  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
