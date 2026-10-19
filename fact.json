@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-18",
-  "dagur": 18,
+  "date": "2026-10-19",
+  "dagur": 19,
   "manudur": "október",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 291,
-  "sunrise": "08:26",
-  "sunset": "17:57",
-  "mmdd": "10-18",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 292,
+  "sunrise": "08:29",
+  "sunset": "17:53",
+  "mmdd": "10-19",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 18. október! Í dag stökk Bob Beamon nánast inn í framtíðina, Seyðfirðingar kveiktu ljósin og Brahms lyfti tónsprotanum — sagan kann greinilega bæði stór stökk og fína takta. Megi dagurinn þinn verða bjartur, vel stilltur og laus við jarðskjálfta.",
+  "kvedja": "Góðan 19. október, kæri lesandi! Í dag fljúgum við frá skoskum konungshöllum yfir í flugdreka Benjamíns Franklins, komum við í Eurovision og skjótumst loks út fyrir sólkerfið með ʻOumuamua — sæmilegt ferðalag fyrir einn haustdag.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1356",
-      "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði stóran hluta Basel í Sviss í rúst. Þetta var dagur þegar borgarskipulagið breyttist með heldur harkalegri hætti en venjulegt er."
+      "ar": "1579",
+      "texti": "Við hátíðlega athöfn í Edinborg var þess minnst að Jakob 6. Skotakonungur væri orðinn fullveðja stjórnandi. Þar með var æsku konungsins formlega pakkað niður og ríkisreksturinn tekinn við."
     },
     {
-      "ar": "1587",
-      "texti": "Filippseyskir sjómenn af Manila-gallíóninu Nuestra Señora de Buena Esperanza stigu á land við Morro Bay í Kaliforníu. Þetta er elsta skjalfesta dæmið um komu Asíubúa til Ameríku."
+      "ar": "1752",
+      "texti": "Pennsylvania Gazette birti frásögn Benjamíns Franklins af flugdrekatilraun sem átti að sýna fram á rafmagnseðli eldinga. Þetta var með öðrum orðum vísindatilraun sem enginn ætti að endurtaka í næsta þrumuveðri."
     },
     {
-      "ar": "1748",
-      "texti": "Austurríska erfðastríðinu lauk með friðarsamningnum í Aachen. Eftir átta ára átök lögðu stórveldin loks frá sér vopnin — að minnsta kosti um stundarsakir."
+      "ar": "1781",
+      "texti": "Breski herinn undir stjórn Cornwallis lávarðar gafst formlega upp fyrir fransk-bandarísku liði George Washingtons og greifans de Rochambeau við Yorktown. Þar lauk umsátrinu sem markaði afgerandi þáttaskil í bandaríska frelsisstríðinu."
     },
     {
-      "ar": "1968",
-      "texti": "Bandaríkjamaðurinn Bob Beamon stökk 8,90 metra í langstökki á Ólympíuleikunum í Mexíkóborg. Heimsmetið var svo stórkostlegt að það stóð óhaggað í 23 ár."
+      "ar": "1955",
+      "texti": "Allsherjarþing Sambands evrópskra sjónvarpsstöðva samþykkti að efna til fyrstu Eurovision-keppninnar. Evrópa hafði þar með fundið friðsamlega leið til að deila um lög, búninga og stigagjöf."
     },
     {
-      "ar": "2019",
-      "texti": "Mótmæli í Santiago í Síle, sem höfðu hafist ellefu dögum fyrr, mögnuðust upp í hörð átök við lögreglu. Sebastián Piñera forseti lýsti í kjölfarið yfir neyðarástandi."
+      "ar": "2017",
+      "texti": "Kanadíski stjörnufræðingurinn Robert Weryk uppgötvaði ʻOumuamua, fyrsta þekkta fyrirbærið utan úr geimnum sem greindist á ferð um sólkerfið. Óvæntur gestur, og ekki einu sinni með bókaða heimferð."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1905",
-      "texti": "Alliance hf., fyrsta togaraútgerðarfélag Íslands, var stofnað og markaði mikilvægt skref í vélvæðingu íslensks sjávarútvegs.",
+      "ar": "1898",
+      "texti": "Í Reykjavík var vígt timburhús fyrir Barnaskóla Reykjavíkur, síðar nefnt Miðbæjarskólinn. Timbrið varð fyrir valinu vegna ótta við að steinhús kynni að hrynja í jarðskjálfta.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1906",
-      "texti": "Stórbruni varð á Akureyri þar sem sjö hús brunnu og um áttatíu manns misstu heimili sín. Blaðið Norðurland kallaði þetta „mesta húsbruna á Íslandi“.",
-      "landshluti": "Norðurland"
+      "ar": "1918",
+      "texti": "Í þjóðaratkvæðagreiðslu var sambandslagasamningurinn samþykktur með rúmlega 90% atkvæða, en kosningaþátttaka var tæplega 44%. Samningurinn tók gildi 1. desember sama ár.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1913",
-      "texti": "Rafveita Seyðisfjarðar var vígð og fyrstu rafljósin kveikt við hátíðlega ljósahátíð. Hún var ein fyrsta íslenska rafveitan sem náði til heils bæjarfélags.",
-      "landshluti": "Austurland"
+      "ar": "1918",
+      "texti": "Spænska veikin barst til Íslands og geisaði fram í desember. Talið er að um 400–500 manns hafi látist af hennar völdum.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1986",
-      "texti": "Kvikmyndin Stella í orlofi var frumsýnd í Reykjavík og íslensk þjóð eignaðist eina eftirminnilegustu gamanmynd sína.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "2007",
+      "texti": "Ný heildarþýðing Biblíunnar á íslensku kom út undir heitinu Biblía 21. aldar.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Chuck Berry",
-      "starfsgrein": "tónlistarmaður og gítarleikari",
-      "ar": "1926"
+      "nafn": "Rebecca Ferguson",
+      "starfsgrein": "sænsk leikkona",
+      "ar": "1983"
     },
     {
-      "nafn": "Martina Navratilova",
-      "starfsgrein": "tenniskona og þjálfari",
-      "ar": "1956"
+      "nafn": "Michael Gambon",
+      "starfsgrein": "írsk-breskur leikari",
+      "ar": "1940"
     },
     {
-      "nafn": "Jean-Claude Van Damme",
-      "starfsgrein": "leikari og bardagalistamaður",
-      "ar": "1960"
+      "nafn": "Jon Favreau",
+      "starfsgrein": "bandarískur leikari, leikstjóri og handritshöfundur",
+      "ar": "1966"
     },
     {
-      "nafn": "Zac Efron",
-      "starfsgrein": "leikari og söngvari",
-      "ar": "1987"
+      "nafn": "Trey Parker",
+      "starfsgrein": "bandarískur teiknimyndahöfundur, leikari og framleiðandi",
+      "ar": "1969"
     },
     {
-      "nafn": "Barry Keoghan",
-      "starfsgrein": "leikari",
-      "ar": "1992"
+      "nafn": "John le Carré",
+      "starfsgrein": "enskur rithöfundur og fyrrverandi leyniþjónustumaður",
+      "ar": "1931"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Chris Albertson",
-      "starfsgrein": "íslensk-bandarískur sagnfræðingur, blaðamaður og upptökustjóri",
-      "ar": "1931"
+      "nafn": "Agnes M. Sigurðardóttir",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1954"
     },
     {
-      "nafn": "Tryggvi Gunnarsson",
-      "starfsgrein": "bankastjóri",
-      "ar": "1835"
+      "nafn": "Benjamín H. J. Eiríksson",
+      "starfsgrein": "hagfræðingur",
+      "ar": "1910"
     },
     {
-      "nafn": "Magnús Stephensen",
-      "starfsgrein": "landshöfðingi Íslands",
-      "ar": "1836"
+      "nafn": "Elín Briem",
+      "starfsgrein": "stofnandi Hússtjórnarskóla Reykjavíkur",
+      "ar": "1856"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hversu langt stökk Bob Beamon í hinu sögulega langstökki sínu?",
+      "spurning": "Hvaða geimfyrirbæri uppgötvaði Robert Weryk árið 2017?",
       "svor": [
-        "8,90 metra",
-        "8,35 metra",
-        "9,02 metra",
-        "7,98 metra"
+        "ʻOumuamua",
+        "Halastjörnu Halleys",
+        "Plútó",
+        "Títan"
       ],
       "rett": 0,
-      "skyring": "Beamon flaug 8,90 metra og metið stóð í heil 23 ár."
+      "skyring": "ʻOumuamua var fyrsta þekkta millistjörnufyrirbærið sem greindist á ferð um sólkerfið."
     },
     {
-      "spurning": "Í hvaða bæ var haldin ljósahátíð þegar rafveita var vígð árið 1913?",
+      "spurning": "Hvaða söngvakeppni fékk formlegt grænt ljós árið 1955?",
       "svor": [
-        "Akureyri",
-        "Seyðisfirði",
-        "Ísafirði",
-        "Hafnarfirði"
+        "Melodifestivalen",
+        "Eurovision",
+        "Sanremo",
+        "Söngvakeppni framhaldsskólanna"
       ],
       "rett": 1,
-      "skyring": "Seyðfirðingar fögnuðu rafljósunum með ljósahátíð — eðlilega."
+      "skyring": "Samband evrópskra sjónvarpsstöðva samþykkti þá að halda fyrstu Eurovision-keppnina."
     },
     {
-      "spurning": "Hvaða afmælisbarn dagsins var einn helsti frumkvöðull rokktónlistar?",
+      "spurning": "Hversu stórt hlutfall greiddra atkvæða studdi sambandslagasamninginn árið 1918?",
       "svor": [
-        "Zac Efron",
-        "Barry Keoghan",
-        "Chuck Berry",
-        "Jean-Claude Van Damme"
+        "Rúmlega 50%",
+        "Rúmlega 60%",
+        "Rúmlega 75%",
+        "Rúmlega 90%"
       ],
-      "rett": 2,
-      "skyring": "Chuck Berry hjálpaði til við að móta hljóm og sviðsframkomu rokksins."
+      "rett": 3,
+      "skyring": "Samningurinn var samþykktur með rúmlega 90% atkvæða, þótt þátttakan væri tæplega 44%."
     }
   ],
-  "tonlistUSA": "Another One Bites the Dust – Queen (1980)",
-  "tonlistUK": "Don't Stand So Close to Me – The Police (1980)",
-  "bio": "The Martian (2015)",
+  "tonlistUSA": "Take on Me – A-ha (1985)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "ljósmeti",
-    "skyring": "Ljósmeti er birta eða ljós, einkum notað í hátíðlegu eða skáldlegu máli."
+    "ord": "elding",
+    "skyring": "Elding er rafmagnsneisti í lofthjúpnum, oftast samfara þrumuveðri."
   },
-  "vissir_thu": "Stökk Bob Beamons árið 1968 bætti fyrra heimsmetið í langstökki um 55 sentímetra, sem þótti svo ótrúlegt afrek að það var kallað „stökkið inn í 21. öldina“.",
-  "stjornuspa": "Vogin finnur jafnvægið milli skyldu og skemmtunar, jafnvel þótt það krefjist útreikninga á vasareikni frá 1986. Segðu já við góðu boði, en nei við öllu sem lyktar af óþarfa fundi.",
+  "vissir_thu": "ʻOumuamua var fyrsta þekkta fyrirbærið utan úr geimnum sem menn greindu á ferð um sólkerfið.",
+  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skylduverka og þess að horfa hugsandi út um gluggann. Varastu þó að ræða Eurovision-stigagjöf við þrjóska ættingja — jafnvel diplómatískasta Vog á sín takmörk.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Erdbeben_Basel_Jauslin.JPG/500px-Erdbeben_Basel_Jauslin.JPG",
-    "ar": "1356",
-    "texti": "Öflugasti skráði jarðskjálfti í sögu Mið-Evrópu lagði stóran hluta Basel í Sviss í rúst. Þetta var dagur þegar borgarskipulagið breyttist með heldur harkalegri hætti en venjulegt er.",
-    "heimild": "https://en.wikipedia.org/wiki/1356_Basel_earthquake",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Iacobus_6_Dei_Gra_Rex_Scotor_%28BM_1874%2C1212.515%29.jpg/500px-Iacobus_6_Dei_Gra_Rex_Scotor_%28BM_1874%2C1212.515%29.jpg",
+    "ar": "1579",
+    "texti": "Við hátíðlega athöfn í Edinborg var þess minnst að Jakob 6. Skotakonungur væri orðinn fullveðja stjórnandi. Þar með var æsku konungsins formlega pakkað niður og ríkisreksturinn tekinn við.",
+    "heimild": "https://en.wikipedia.org/wiki/Entry_of_James_VI_into_Edinburgh",
     "breidd": 330,
-    "haed": 248
+    "haed": 413
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-18",
-  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-19",
+  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
