@@ -6,77 +6,77 @@
   "stjornumerki": "Vog",
   "sunrise": "08:31",
   "sunset": "17:51",
-  "kvedja": "Góðan 20. október, kæri lesandi! Í dag stígum við varlega milli Habsborgara, kvarka og íslenskra menningarhúsa—enda kennir sagan okkur að bæði heimsveldi og leikhús þurfa traustan grunn. Vogin heldur jafnvæginu á meðan Sagnfræðingurinn hallar sér örlítið að kaffibollanum.",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 20. október! Í dag björgum við íslenskum skinnhandritum úr eldi, skyggnumst inn í róteindina og röltum með Viggo Mortensen og Snoop Dogg í afmælisveislu sögunnar — þar verður varla dauð stund.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1740",
-      "texti": "María Teresa tók við Habsborgarlöndunum samkvæmt erfðalögum Pragmatísku sanktionarinnar. Valdatakan varð upphafið að löngum átökum, því evrópskir nágrannar létu ekki stóran arf óáreittan."
+      "texti": "María Teresa tók við löndum Habsborgara samkvæmt Pragmatísku viðurlögunum. Valdatími hennar hófst þó ekki með værð og vöfflum, heldur erfðastríði um nær alla Evrópu."
     },
     {
       "ar": "1944",
-      "texti": "Douglas MacArthur hershöfðingi gekk á land á Leyte og hóf endurheimt Filippseyja úr höndum Japana. Þar efndi hann loforð sitt um að snúa aftur—með heldur meiri viðhöfn en fylgir venjulegri endurkomu."
+      "texti": "Douglas MacArthur hershöfðingi gekk á land á Leyte og hóf endurheimt Filippseyja úr höndum Japana. Þar efndi hann loforð sitt um að snúa aftur."
     },
     {
       "ar": "1969",
-      "texti": "Niðurstöður tilrauna við Stanford Linear Accelerator Center voru birtar og sýndu að róteindir væru gerðar úr smærri ögnum. Þetta varð fyrsta sönnunargagnið fyrir tilvist kvarka og opnaði nýja smugu inn í innviði efnisins."
+      "texti": "Niðurstöður tilrauna við Stanford-línuhraðalinn sýndu að róteindir væru samsettar úr smærri eindum. Þetta var fyrsta vísbendingin um kvarka — smágerða en afskaplega áhrifamikla leigjendur efnisheimsins."
     },
     {
       "ar": "1973",
-      "texti": "Elliot Richardson, dómsmálaráðherra Bandaríkjanna, og William Ruckelshaus aðstoðarmaður hans sögðu af sér eftir að hafa neitað skipun Richards Nixon um að reka saksóknarann Archibald Cox. Atburðurinn varð frægur kafli Watergate-hneykslisins."
+      "texti": "Bandarísku embættismennirnir Elliot Richardson og William Ruckelshaus sögðu af sér eftir að hafa neitað að reka Archibald Cox að skipun Richards Nixon forseta. Atburðurinn varð einn dramatískasti kafli Watergate-hneykslisins."
     },
     {
       "ar": "2011",
-      "texti": "Muammar Gaddafi, fyrrverandi leiðtogi Líbíu, var handsamaður af uppreisnarmönnum í orrustunni um Sirte og drepinn skömmu síðar. Þar með lauk einum dramatískasta kafla fyrri borgarastyrjaldarinnar í Líbíu."
+      "texti": "Muammar Gaddafi, fyrrverandi leiðtogi Líbíu, var handsamaður af uppreisnarmönnum í orrustunni um Sirte og drepinn skömmu síðar. Þar með lauk einum af örlagaríkustu köflum fyrra borgarastríðsins í Líbíu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1728",
-      "texti": "Mikill eldsvoði hófst í Kaupmannahöfn og geisaði í þrjá daga. Hluti bókasafns Árna Magnússonar fórst, en sem betur fer tókst að bjarga megninu af dýrmætum skinnhandritum hans.",
+      "texti": "Mikill eldsvoði hófst í Kaupmannahöfn og geisaði í þrjá daga. Hluti bókasafns Árna Magnússonar fórst, en sem betur fer tókst að bjarga megninu af ómetanlegum skinnhandritum hans.",
       "landshluti": "Erlendis"
     },
     {
       "ar": "1905",
-      "texti": "Konungur undirritaði lög um stofnun Kleppsspítala í Reykjavík, mikilvægan áfanga í sögu íslenskrar heilbrigðisþjónustu.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Landsdómur var stofnaður til að fjalla um mál þar sem ráðherrar eru sakaðir um brot í stjórnarathöfnum. Dómstóllinn hefur aldrei þjáðst af yfirfullri dagskrá.",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "1989",
-      "texti": "Borgarleikhúsið í Reykjavík var vígt með mikilli viðhöfn eftir þrettán ára byggingartíma. Leikhúsið hafði því þegar leikið langt þolinmæðisverk áður en fyrsta tjaldið reis.",
+      "texti": "Borgarleikhúsið í Reykjavík var vígt með mikilli viðhöfn eftir 13 ára byggingartíma. Tjöldin fóru loks upp — og biðin hafði þá verið lengri en margar leiksýningar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "2012",
-      "texti": "Þjóðaratkvæðagreiðsla var haldin á Íslandi um tillögur stjórnlagaráðs að nýrri stjórnarskrá.",
+      "texti": "Þjóðaratkvæðagreiðsla fór fram á Íslandi um tillögur stjórnlagaráðs að nýrri stjórnarskrá. Þar fékk þjóðin sjálf að stíga inn á stjórnskipunarsviðið.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Andrey Rublev",
-      "starfsgrein": "tennisleikari",
-      "ar": "1997"
+      "nafn": "John Krasinski",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1979"
     },
     {
-      "nafn": "Ademola Lookman",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1997"
+      "nafn": "Viggo Mortensen",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1958"
     },
     {
-      "nafn": "Arthur Rimbaud",
-      "starfsgrein": "skáld",
-      "ar": "1854"
+      "nafn": "Snoop Dogg",
+      "starfsgrein": "rappari, framleiðandi og leikari",
+      "ar": "1971"
     },
     {
-      "nafn": "Alona Tal",
-      "starfsgrein": "leikkona",
-      "ar": "1983"
+      "nafn": "Tom Petty",
+      "starfsgrein": "söngvaskáld og gítarleikari",
+      "ar": "1950"
     },
     {
-      "nafn": "ASAP Ferg",
-      "starfsgrein": "rappari",
-      "ar": "1988"
+      "nafn": "Kamala Harris",
+      "starfsgrein": "stjórnmálamaður og lögfræðingur",
+      "ar": "1964"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða agnir komu fyrst skýrt við sögu í niðurstöðum Stanford-tilraunanna árið 1969?",
+      "spurning": "Hvaða leyndardómsfullu smáeindir komu við sögu í niðurstöðum Stanford-tilraunanna árið 1969?",
       "svor": [
         "Kvarkar",
         "Nifteindir",
         "Ljóseindir",
-        "Nifteindir úr kaffivél"
+        "Vogir"
       ],
       "rett": 0,
-      "skyring": "Tilraunirnar gáfu fyrstu sönnunargögnin fyrir því að róteindir væru meðal annars gerðar úr kvörkum."
+      "skyring": "Tilraunirnar gáfu fyrstu vísbendinguna um að róteindir væru samsettar úr kvörkum."
     },
     {
-      "spurning": "Hvaða íslenska menningarhús var vígt 20. október 1989?",
+      "spurning": "Hvaða íslenska menningarhús var vígt eftir 13 ára byggingartíma árið 1989?",
       "svor": [
         "Þjóðleikhúsið",
-        "Harpa",
         "Borgarleikhúsið",
-        "Hof á Akureyri"
-      ],
-      "rett": 2,
-      "skyring": "Borgarleikhúsið var vígt eftir þrettán ára byggingarsögu, sem hefði sjálf getað orðið leikrit."
-    },
-    {
-      "spurning": "Hver þessara afmælisbarna var franskt skáld?",
-      "svor": [
-        "Andrey Rublev",
-        "Arthur Rimbaud",
-        "Ademola Lookman",
-        "ASAP Ferg"
+        "Harpa",
+        "Hof"
       ],
       "rett": 1,
-      "skyring": "Arthur Rimbaud var franskt skáld og eitt kunnasta undrabarn bókmenntasögunnar."
+      "skyring": "Borgarleikhúsið var vígt í Reykjavík 20. október 1989."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna er þekktur fyrir hlutverk Aragorns?",
+      "svor": [
+        "John Krasinski",
+        "Snoop Dogg",
+        "Viggo Mortensen",
+        "Tom Petty"
+      ],
+      "rett": 2,
+      "skyring": "Viggo Mortensen lék Aragorn og bar sverð, ábyrgð og dramatískt augnaráð með prýði."
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUSA": "Rise – Herb Alpert (1979)",
   "tonlistUK": "Freedom – Wham! (1984)",
-  "bio": "The Terminator (1984)",
+  "bio": "The Departed (2006)",
   "ord_dagsins": {
-    "ord": "andvari",
-    "skyring": "Andvari er hægur og mildur vindur, rétt nógu ákveðinn til að minna á sig án þess að feykja hattinum út í buskann."
+    "ord": "hret",
+    "skyring": "Hret er skammvinnt kulda- og óveðurskast, gjarnan með snjókomu eða slyddu."
   },
-  "vissir_thu": "Douglas MacArthur hafði árið 1942 heitið því að snúa aftur til Filippseyja og efndi það loforð þegar hann gekk á land á Leyte 20. október 1944.",
-  "stjornuspa": "Vog, dagurinn kallar á jafnvægi milli skyldustarfa og þess að setja Stevie Wonder á fóninn. Gamalt bréf eða gleymd hugmynd gæti skotið upp kollinum—lestu smáa letrið áður en þú lýsir yfir nýju heimsveldi.",
+  "vissir_thu": "Meginhluti skinnhandrita Árna Magnússonar slapp úr Kaupmannahafnarbrunanum 1728, þótt hluti bókasafns hans færi forgörðum.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að hlusta á eina Tom Petty-plötu í viðbót. Varastu þó að gera Watergate-drama úr því hver á að tæma uppþvottavélina.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pragmatica_Sanc.jpg/500px-Pragmatica_Sanc.jpg",
     "ar": "1740",
-    "texti": "María Teresa tók við Habsborgarlöndunum samkvæmt erfðalögum Pragmatísku sanktionarinnar. Valdatakan varð upphafið að löngum átökum, því evrópskir nágrannar létu ekki stóran arf óáreittan.",
+    "texti": "María Teresa tók við löndum Habsborgara samkvæmt Pragmatísku viðurlögunum. Valdatími hennar hófst þó ekki með værð og vöfflum, heldur erfðastríði um nær alla Evrópu.",
     "heimild": "https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_1713",
     "breidd": 330,
     "haed": 233
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-20"
 }

@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-19",
-  "dagur": 19,
+  "date": "2026-10-20",
+  "dagur": 20,
   "manudur": "október",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 292,
-  "sunrise": "08:29",
-  "sunset": "17:53",
-  "mmdd": "10-19",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 293,
+  "sunrise": "08:32",
+  "sunset": "17:50",
+  "mmdd": "10-20",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan 19. október, kæri lesandi! Í dag fljúgum við frá skoskum konungshöllum yfir í flugdreka Benjamíns Franklins, komum við í Eurovision og skjótumst loks út fyrir sólkerfið með ʻOumuamua — sæmilegt ferðalag fyrir einn haustdag.",
+  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 20. október! Í dag björgum við íslenskum skinnhandritum úr eldi, skyggnumst inn í róteindina og röltum með Viggo Mortensen og Snoop Dogg í afmælisveislu sögunnar — þar verður varla dauð stund.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1579",
-      "texti": "Við hátíðlega athöfn í Edinborg var þess minnst að Jakob 6. Skotakonungur væri orðinn fullveðja stjórnandi. Þar með var æsku konungsins formlega pakkað niður og ríkisreksturinn tekinn við."
+      "ar": "1740",
+      "texti": "María Teresa tók við löndum Habsborgara samkvæmt Pragmatísku viðurlögunum. Valdatími hennar hófst þó ekki með værð og vöfflum, heldur erfðastríði um nær alla Evrópu."
     },
     {
-      "ar": "1752",
-      "texti": "Pennsylvania Gazette birti frásögn Benjamíns Franklins af flugdrekatilraun sem átti að sýna fram á rafmagnseðli eldinga. Þetta var með öðrum orðum vísindatilraun sem enginn ætti að endurtaka í næsta þrumuveðri."
+      "ar": "1944",
+      "texti": "Douglas MacArthur hershöfðingi gekk á land á Leyte og hóf endurheimt Filippseyja úr höndum Japana. Þar efndi hann loforð sitt um að snúa aftur."
     },
     {
-      "ar": "1781",
-      "texti": "Breski herinn undir stjórn Cornwallis lávarðar gafst formlega upp fyrir fransk-bandarísku liði George Washingtons og greifans de Rochambeau við Yorktown. Þar lauk umsátrinu sem markaði afgerandi þáttaskil í bandaríska frelsisstríðinu."
+      "ar": "1969",
+      "texti": "Niðurstöður tilrauna við Stanford-línuhraðalinn sýndu að róteindir væru samsettar úr smærri eindum. Þetta var fyrsta vísbendingin um kvarka — smágerða en afskaplega áhrifamikla leigjendur efnisheimsins."
     },
     {
-      "ar": "1955",
-      "texti": "Allsherjarþing Sambands evrópskra sjónvarpsstöðva samþykkti að efna til fyrstu Eurovision-keppninnar. Evrópa hafði þar með fundið friðsamlega leið til að deila um lög, búninga og stigagjöf."
+      "ar": "1973",
+      "texti": "Bandarísku embættismennirnir Elliot Richardson og William Ruckelshaus sögðu af sér eftir að hafa neitað að reka Archibald Cox að skipun Richards Nixon forseta. Atburðurinn varð einn dramatískasti kafli Watergate-hneykslisins."
     },
     {
-      "ar": "2017",
-      "texti": "Kanadíski stjörnufræðingurinn Robert Weryk uppgötvaði ʻOumuamua, fyrsta þekkta fyrirbærið utan úr geimnum sem greindist á ferð um sólkerfið. Óvæntur gestur, og ekki einu sinni með bókaða heimferð."
+      "ar": "2011",
+      "texti": "Muammar Gaddafi, fyrrverandi leiðtogi Líbíu, var handsamaður af uppreisnarmönnum í orrustunni um Sirte og drepinn skömmu síðar. Þar með lauk einum af örlagaríkustu köflum fyrra borgarastríðsins í Líbíu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1898",
-      "texti": "Í Reykjavík var vígt timburhús fyrir Barnaskóla Reykjavíkur, síðar nefnt Miðbæjarskólinn. Timbrið varð fyrir valinu vegna ótta við að steinhús kynni að hrynja í jarðskjálfta.",
+      "ar": "1728",
+      "texti": "Mikill eldsvoði hófst í Kaupmannahöfn og geisaði í þrjá daga. Hluti bókasafns Árna Magnússonar fórst, en sem betur fer tókst að bjarga megninu af ómetanlegum skinnhandritum hans.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1905",
+      "texti": "Landsdómur var stofnaður til að fjalla um mál þar sem ráðherrar eru sakaðir um brot í stjórnarathöfnum. Dómstóllinn hefur aldrei þjáðst af yfirfullri dagskrá.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1989",
+      "texti": "Borgarleikhúsið í Reykjavík var vígt með mikilli viðhöfn eftir 13 ára byggingartíma. Tjöldin fóru loks upp — og biðin hafði þá verið lengri en margar leiksýningar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1918",
-      "texti": "Í þjóðaratkvæðagreiðslu var sambandslagasamningurinn samþykktur með rúmlega 90% atkvæða, en kosningaþátttaka var tæplega 44%. Samningurinn tók gildi 1. desember sama ár.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1918",
-      "texti": "Spænska veikin barst til Íslands og geisaði fram í desember. Talið er að um 400–500 manns hafi látist af hennar völdum.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "2007",
-      "texti": "Ný heildarþýðing Biblíunnar á íslensku kom út undir heitinu Biblía 21. aldar.",
+      "ar": "2012",
+      "texti": "Þjóðaratkvæðagreiðsla fór fram á Íslandi um tillögur stjórnlagaráðs að nýrri stjórnarskrá. Þar fékk þjóðin sjálf að stíga inn á stjórnskipunarsviðið.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Rebecca Ferguson",
-      "starfsgrein": "sænsk leikkona",
-      "ar": "1983"
+      "nafn": "John Krasinski",
+      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "ar": "1979"
     },
     {
-      "nafn": "Michael Gambon",
-      "starfsgrein": "írsk-breskur leikari",
-      "ar": "1940"
+      "nafn": "Viggo Mortensen",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1958"
     },
     {
-      "nafn": "Jon Favreau",
-      "starfsgrein": "bandarískur leikari, leikstjóri og handritshöfundur",
-      "ar": "1966"
+      "nafn": "Snoop Dogg",
+      "starfsgrein": "rappari, framleiðandi og leikari",
+      "ar": "1971"
     },
     {
-      "nafn": "Trey Parker",
-      "starfsgrein": "bandarískur teiknimyndahöfundur, leikari og framleiðandi",
-      "ar": "1969"
+      "nafn": "Tom Petty",
+      "starfsgrein": "söngvaskáld og gítarleikari",
+      "ar": "1950"
     },
     {
-      "nafn": "John le Carré",
-      "starfsgrein": "enskur rithöfundur og fyrrverandi leyniþjónustumaður",
-      "ar": "1931"
+      "nafn": "Kamala Harris",
+      "starfsgrein": "stjórnmálamaður og lögfræðingur",
+      "ar": "1964"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Agnes M. Sigurðardóttir",
-      "starfsgrein": "biskup Íslands",
-      "ar": "1954"
+      "nafn": "Ingimar Eydal",
+      "starfsgrein": "tónlistarmaður",
+      "ar": "1936"
     },
     {
-      "nafn": "Benjamín H. J. Eiríksson",
-      "starfsgrein": "hagfræðingur",
-      "ar": "1910"
+      "nafn": "Tryggvi Emilsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1902"
     },
     {
-      "nafn": "Elín Briem",
-      "starfsgrein": "stofnandi Hússtjórnarskóla Reykjavíkur",
-      "ar": "1856"
+      "nafn": "Áskell Löve",
+      "starfsgrein": "grasafræðingur",
+      "ar": "1916"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða geimfyrirbæri uppgötvaði Robert Weryk árið 2017?",
+      "spurning": "Hvaða leyndardómsfullu smáeindir komu við sögu í niðurstöðum Stanford-tilraunanna árið 1969?",
       "svor": [
-        "ʻOumuamua",
-        "Halastjörnu Halleys",
-        "Plútó",
-        "Títan"
+        "Kvarkar",
+        "Nifteindir",
+        "Ljóseindir",
+        "Vogir"
       ],
       "rett": 0,
-      "skyring": "ʻOumuamua var fyrsta þekkta millistjörnufyrirbærið sem greindist á ferð um sólkerfið."
+      "skyring": "Tilraunirnar gáfu fyrstu vísbendinguna um að róteindir væru samsettar úr kvörkum."
     },
     {
-      "spurning": "Hvaða söngvakeppni fékk formlegt grænt ljós árið 1955?",
+      "spurning": "Hvaða íslenska menningarhús var vígt eftir 13 ára byggingartíma árið 1989?",
       "svor": [
-        "Melodifestivalen",
-        "Eurovision",
-        "Sanremo",
-        "Söngvakeppni framhaldsskólanna"
+        "Þjóðleikhúsið",
+        "Borgarleikhúsið",
+        "Harpa",
+        "Hof"
       ],
       "rett": 1,
-      "skyring": "Samband evrópskra sjónvarpsstöðva samþykkti þá að halda fyrstu Eurovision-keppnina."
+      "skyring": "Borgarleikhúsið var vígt í Reykjavík 20. október 1989."
     },
     {
-      "spurning": "Hversu stórt hlutfall greiddra atkvæða studdi sambandslagasamninginn árið 1918?",
+      "spurning": "Hver þessara afmælisbarna er þekktur fyrir hlutverk Aragorns?",
       "svor": [
-        "Rúmlega 50%",
-        "Rúmlega 60%",
-        "Rúmlega 75%",
-        "Rúmlega 90%"
+        "John Krasinski",
+        "Snoop Dogg",
+        "Viggo Mortensen",
+        "Tom Petty"
       ],
-      "rett": 3,
-      "skyring": "Samningurinn var samþykktur með rúmlega 90% atkvæða, þótt þátttakan væri tæplega 44%."
+      "rett": 2,
+      "skyring": "Viggo Mortensen lék Aragorn og bar sverð, ábyrgð og dramatískt augnaráð með prýði."
     }
   ],
-  "tonlistUSA": "Take on Me – A-ha (1985)",
-  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "Rise – Herb Alpert (1979)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "The Departed (2006)",
   "ord_dagsins": {
-    "ord": "elding",
-    "skyring": "Elding er rafmagnsneisti í lofthjúpnum, oftast samfara þrumuveðri."
+    "ord": "hret",
+    "skyring": "Hret er skammvinnt kulda- og óveðurskast, gjarnan með snjókomu eða slyddu."
   },
-  "vissir_thu": "ʻOumuamua var fyrsta þekkta fyrirbærið utan úr geimnum sem menn greindu á ferð um sólkerfið.",
-  "stjornuspa": "Vogin finnur í dag hið fullkomna jafnvægi milli skylduverka og þess að horfa hugsandi út um gluggann. Varastu þó að ræða Eurovision-stigagjöf við þrjóska ættingja — jafnvel diplómatískasta Vog á sín takmörk.",
+  "vissir_thu": "Meginhluti skinnhandrita Árna Magnússonar slapp úr Kaupmannahafnarbrunanum 1728, þótt hluti bókasafns hans færi forgörðum.",
+  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að hlusta á eina Tom Petty-plötu í viðbót. Varastu þó að gera Watergate-drama úr því hver á að tæma uppþvottavélina.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Iacobus_6_Dei_Gra_Rex_Scotor_%28BM_1874%2C1212.515%29.jpg/500px-Iacobus_6_Dei_Gra_Rex_Scotor_%28BM_1874%2C1212.515%29.jpg",
-    "ar": "1579",
-    "texti": "Við hátíðlega athöfn í Edinborg var þess minnst að Jakob 6. Skotakonungur væri orðinn fullveðja stjórnandi. Þar með var æsku konungsins formlega pakkað niður og ríkisreksturinn tekinn við.",
-    "heimild": "https://en.wikipedia.org/wiki/Entry_of_James_VI_into_Edinburgh",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pragmatica_Sanc.jpg/500px-Pragmatica_Sanc.jpg",
+    "ar": "1740",
+    "texti": "María Teresa tók við löndum Habsborgara samkvæmt Pragmatísku viðurlögunum. Valdatími hennar hófst þó ekki með værð og vöfflum, heldur erfðastríði um nær alla Evrópu.",
+    "heimild": "https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_1713",
     "breidd": 330,
-    "haed": 413
+    "haed": 233
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-19",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-20",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
