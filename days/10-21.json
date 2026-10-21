@@ -6,80 +6,85 @@
   "stjornumerki": "Vog",
   "sunrise": "08:34",
   "sunset": "17:48",
-  "kvedja": "Góðan 21. október, kæri lesandi! Í dag sveiflumst við frá krossförum til Guggenheim, með viðkomu hjá Florence Nightingale og nokkrum íslenskum kjörkössum — sagan kann sannarlega að pakka vel í dagsferð.",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 21. október teygir sig frá krossförum og kosningarétti kvenna til Guggenheim-safnsins og Kim Kardashian — sagan hefur greinilega aldrei óttast fjölbreytta dagskrá. Helltu upp á eitthvað gott og njóttu dagsins með Sagnfræðingnum.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1096",
-      "texti": "Seldsjúkar undir stjórn Kilij Arslan gjöreyddu her Alþýðukrossferðarinnar í orrustunni við Civetot, þegar liðið stefndi til Níkeu. Fyrsta krossferðin hófst því með býsna óblíðum raunveruleikakennslutíma."
+      "texti": "Í orrustunni við Civetot gjöreyddu Seljúkar undir stjórn Kilij Arslan her Alþýðukrossferðarinnar, sem stefndi í átt að Níkeu. Fyrsta krossferðin hófst því með heldur harkalegri áminningu um að trúarhiti kæmi ekki í stað herstjórnar."
     },
     {
       "ar": "1854",
-      "texti": "Florence Nightingale hélt ásamt 38 hjúkrunarkonum og 15 nunnum til Tyrkjaveldis til að annast særða breska hermenn í Krímstríðinu. Förin varð stór áfangi í sögu nútímahjúkrunar."
+      "texti": "Florence Nightingale hélt ásamt 38 hjúkrunarkonum og 15 nunnum til Tyrkjaveldis til að annast særða breska hermenn í Krímstríðinu. Starf hennar varð síðar stór áfangi í þróun nútímahjúkrunar."
     },
     {
       "ar": "1959",
-      "texti": "Solomon R. Guggenheim-safnið, hannað af Frank Lloyd Wright, var opnað í New York. Hringlaga byggingin var sjálf svo eftirminnilegt listaverk að málverkin þurftu næstum að keppa við veggina um athyglina."
+      "texti": "Solomon R. Guggenheim-safnið, hannað af Frank Lloyd Wright, var opnað í New York. Hringlaga byggingin reyndist sjálf næstum jafn mikið sýningargripur og listaverkin innan dyra."
     },
     {
       "ar": "1966",
-      "texti": "Kolúrgangshaugur féll yfir velska þorpið Aberfan og varð 144 að bana, flestum skólabörnum. Harmleikurinn varð eitt átakanlegasta iðnaðarslys í sögu Bretlands."
+      "texti": "Kolavinnsluúrgangur féll yfir þorpið Aberfan í Wales og 144 létust, flest þeirra skólabörn. Hamfarirnar urðu einn átakanlegasti harmleikur í sögu Wales á 20. öld."
     },
     {
       "ar": "1994",
-      "texti": "Norður-Kórea og Bandaríkin undirrituðu svonefnt Agreed Framework, samkomulag sem átti að takmarka kjarnorkuvopnaáætlun Norður-Kóreu og greiða fyrir eðlilegri samskiptum ríkjanna."
+      "texti": "Norður-Kórea og Bandaríkin undirrituðu svonefnt Agreed Framework, sem átti að takmarka kjarnorkuvopnaáætlun Norður-Kóreu og greiða fyrir eðlilegri samskiptum ríkjanna. Samkomulagið var metnaðarfullt, þótt framhaldið yrði fjarri því einfalt."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1171",
-      "texti": "Hvamm-Sturla Þórðarson og Einar Þorgilsson á Staðarhóli börðust í Sælingsdal. Sturla hafði betur og var eftir það talinn voldugasti höfðinginn við Breiðafjörð.",
+      "texti": "Hvamm-Sturla Þórðarson og Einar Þorgilsson á Staðarhóli börðust í Sælingsdal. Sturla hafði sigur og var eftir það talinn mestur höfðingja við Breiðafjörð.",
       "landshluti": "Vesturland"
     },
     {
       "ar": "1916",
-      "texti": "Alþingiskosningar voru haldnar, þær fyrstu eftir að konur fengu kosningarétt. Samhliða höfnuðu kjósendur tillögu um þegnskylduvinnu ungra karla með 90% atkvæða — býsna afdráttarlaust nei.",
+      "texti": "Alþingiskosningar voru haldnar, þær fyrstu eftir að konur fengu kosningarétt. Samhliða var tillaga um þegnskylduvinnu heilbrigðra karla á aldrinum 17 til 25 ára felld með 90% atkvæða.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1933",
-      "texti": "Þjóðaratkvæðagreiðsla fór fram um bannlögin svonefndu og í kjölfarið var áfengisbannið afnumið.",
+      "ar": "1944",
+      "texti": "Nýsköpunarstjórnin undir forsæti Ólafs Thors tók við völdum. Að henni stóðu Sjálfstæðisflokkurinn, Alþýðuflokkurinn og Sósíalistaflokkurinn — býsna breið pólitísk heimilisfesti.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1988",
-      "texti": "Listasafn Sigurjóns Ólafssonar var opnað í Reykjavík á þeim degi sem myndhöggvarinn hefði orðið áttræður.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "2006",
+      "texti": "Hellisheiðarvirkjun var formlega gangsett og jarðhitinn á Hellisheiði tekinn í þjónustu orkufreks nútímans.",
+      "landshluti": "Suðurland"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Benjamin Netanyahu",
-      "starfsgrein": "ísraelskur stjórnmálamaður",
-      "ar": "1949"
+      "nafn": "Kim Kardashian",
+      "starfsgrein": "sjónvarpsstjarna og viðskiptakona",
+      "ar": "1980"
     },
     {
-      "nafn": "Andrew Scott",
-      "starfsgrein": "írskur leikari",
-      "ar": "1976"
-    },
-    {
-      "nafn": "Amber Rose",
-      "starfsgrein": "bandarísk fyrirsæta",
-      "ar": "1983"
-    },
-    {
-      "nafn": "Celia Cruz",
-      "starfsgrein": "kúbversk-bandarísk söngkona",
-      "ar": "1925"
+      "nafn": "Carrie Fisher",
+      "starfsgrein": "leikkona og handritshöfundur",
+      "ar": "1956"
     },
     {
       "nafn": "Alfred Nobel",
-      "starfsgrein": "sænskur efnafræðingur og uppfinningamaður",
+      "starfsgrein": "efnafræðingur, verkfræðingur og stofnandi Nóbelsverðlaunanna",
       "ar": "1833"
+    },
+    {
+      "nafn": "Ursula K. Le Guin",
+      "starfsgrein": "rithöfundur og bókmenntagagnrýnandi",
+      "ar": "1929"
+    },
+    {
+      "nafn": "Doja Cat",
+      "starfsgrein": "rappari og söngkona",
+      "ar": "1995"
     }
   ],
   "afmaeli_island": [
+    {
+      "nafn": "Sigurjón Ólafsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1908"
+    },
     {
       "nafn": "Bjarni Jónsson",
       "starfsgrein": "vígslubiskup",
@@ -89,65 +94,60 @@
       "nafn": "Bárður Ísleifsson",
       "starfsgrein": "arkitekt",
       "ar": "1905"
-    },
-    {
-      "nafn": "Sigurjón Ólafsson",
-      "starfsgrein": "myndhöggvari",
-      "ar": "1908"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða safn opnaði í New York 21. október 1959?",
+      "spurning": "Hvaða fræga safn var opnað í New York árið 1959?",
       "svor": [
         "Solomon R. Guggenheim-safnið",
-        "Louvre-safnið",
-        "Prado-safnið",
-        "British Museum"
+        "Listasafn Sigurjóns Ólafssonar",
+        "Hellisheiðarvirkjun",
+        "Staðarhóll"
       ],
       "rett": 0,
-      "skyring": "Guggenheim-safnið opnaði í byggingu Frank Lloyd Wright og beygði þar með bæði veggi og væntingar."
+      "skyring": "Guggenheim-safnið opnaði dyr sínar og bauð gestum jafnframt upp á eina frægustu safnbyggingu heims."
     },
     {
-      "spurning": "Hver lagði af stað til Tyrkjaveldis árið 1854 með hópi hjúkrunarkvenna og nunna?",
+      "spurning": "Hvað einkenndi alþingiskosningarnar árið 1916 sérstaklega?",
       "svor": [
-        "Celia Cruz",
-        "Florence Nightingale",
-        "Albertina Sisulu",
-        "Amber Rose"
+        "Þær voru fyrstu kosningarnar eftir stofnun lýðveldisins",
+        "Þær voru fyrstu alþingiskosningarnar eftir að konur fengu kosningarétt",
+        "Þær komu Nýsköpunarstjórninni til valda",
+        "Þær fóru aðeins fram á Vesturlandi"
       ],
       "rett": 1,
-      "skyring": "Florence Nightingale fór til að annast særða breska hermenn í Krímstríðinu."
+      "skyring": "Kosningarnar 1916 voru þær fyrstu eftir að konur öðluðust kosningarétt til Alþingis."
     },
     {
-      "spurning": "Hvaða íslenska safn var opnað 21. október 1988?",
+      "spurning": "Hver af afmælisbörnum dagsins stofnaði Nóbelsverðlaunin?",
       "svor": [
-        "Listasafn Einars Jónssonar",
-        "Þjóðminjasafn Íslands",
-        "Listasafn Sigurjóns Ólafssonar",
-        "Safnahúsið"
+        "Alfred Nobel",
+        "Frank Lloyd Wright",
+        "Sigurjón Ólafsson",
+        "Ursula K. Le Guin"
       ],
-      "rett": 2,
-      "skyring": "Listasafn Sigurjóns Ólafssonar opnaði á áttræðisafmæli myndhöggvarans."
+      "rett": 0,
+      "skyring": "Alfred Nobel stofnaði verðlaunin sem bera nafn hans — óvenju áhrifamikil afmælisgjöf til framtíðarinnar."
     }
   ],
   "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
   "tonlistUK": "That's What I Like – Jive Bunny and the Mastermixers (1989)",
   "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er hálfrökkur eða dauf birta, gjarnan þegar dagur og nótt skiptast á vakt."
+    "ord": "þegnskylda",
+    "skyring": "Þegnskylda er lögboðin skylda borgara til að vinna tiltekin störf eða gegna þjónustu í þágu ríkisins."
   },
-  "vissir_thu": "Frank Lloyd Wright lést í apríl 1959 og náði því ekki að sjá Guggenheim-safnið opnað í október sama ár.",
-  "stjornuspa": "Vogin finnur jafnvægið í dag, jafnvel þótt annar skálinn sé fullur af skyldum og hinn af tertu. Taktu mikilvægar ákvarðanir með reisn, en mundu að enginn sagnfræðingur hefur nokkru sinni harmað aukabolla af kaffi.",
+  "vissir_thu": "Í Aberfan-hamförunum árið 1966 létust 144 manns, flest þeirra skólabörn.",
+  "stjornuspa": "Vogin finnur jafnvægi milli skyldustarfa og kaffibolla, enda má hvorugt vega of létt í skálunum. Óvænt hugmynd gæti reynst verðlaunaverð, en þú þarft líklega ekki að finna upp dýnamít til að koma henni á framfæri.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/500px-Peter_the_Hermit.jpg",
     "ar": "1096",
-    "texti": "Seldsjúkar undir stjórn Kilij Arslan gjöreyddu her Alþýðukrossferðarinnar í orrustunni við Civetot, þegar liðið stefndi til Níkeu. Fyrsta krossferðin hófst því með býsna óblíðum raunveruleikakennslutíma.",
+    "texti": "Í orrustunni við Civetot gjöreyddu Seljúkar undir stjórn Kilij Arslan her Alþýðukrossferðarinnar, sem stefndi í átt að Níkeu. Fyrsta krossferðin hófst því með heldur harkalegri áminningu um að trúarhiti kæmi ekki í stað herstjórnar.",
     "heimild": "https://en.wikipedia.org/wiki/First_Crusade",
     "breidd": 330,
     "haed": 318
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-21"
 }

@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-20",
-  "dagur": 20,
+  "date": "2026-10-21",
+  "dagur": 21,
   "manudur": "október",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 293,
-  "sunrise": "08:32",
-  "sunset": "17:50",
-  "mmdd": "10-20",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 294,
+  "sunrise": "08:36",
+  "sunset": "17:46",
+  "mmdd": "10-21",
   "manudurNr": 10,
   "stjornumerki": "Vog",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilegan 20. október! Í dag björgum við íslenskum skinnhandritum úr eldi, skyggnumst inn í róteindina og röltum með Viggo Mortensen og Snoop Dogg í afmælisveislu sögunnar — þar verður varla dauð stund.",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 21. október teygir sig frá krossförum og kosningarétti kvenna til Guggenheim-safnsins og Kim Kardashian — sagan hefur greinilega aldrei óttast fjölbreytta dagskrá. Helltu upp á eitthvað gott og njóttu dagsins með Sagnfræðingnum.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1740",
-      "texti": "María Teresa tók við löndum Habsborgara samkvæmt Pragmatísku viðurlögunum. Valdatími hennar hófst þó ekki með værð og vöfflum, heldur erfðastríði um nær alla Evrópu."
+      "ar": "1096",
+      "texti": "Í orrustunni við Civetot gjöreyddu Seljúkar undir stjórn Kilij Arslan her Alþýðukrossferðarinnar, sem stefndi í átt að Níkeu. Fyrsta krossferðin hófst því með heldur harkalegri áminningu um að trúarhiti kæmi ekki í stað herstjórnar."
     },
     {
-      "ar": "1944",
-      "texti": "Douglas MacArthur hershöfðingi gekk á land á Leyte og hóf endurheimt Filippseyja úr höndum Japana. Þar efndi hann loforð sitt um að snúa aftur."
+      "ar": "1854",
+      "texti": "Florence Nightingale hélt ásamt 38 hjúkrunarkonum og 15 nunnum til Tyrkjaveldis til að annast særða breska hermenn í Krímstríðinu. Starf hennar varð síðar stór áfangi í þróun nútímahjúkrunar."
     },
     {
-      "ar": "1969",
-      "texti": "Niðurstöður tilrauna við Stanford-línuhraðalinn sýndu að róteindir væru samsettar úr smærri eindum. Þetta var fyrsta vísbendingin um kvarka — smágerða en afskaplega áhrifamikla leigjendur efnisheimsins."
+      "ar": "1959",
+      "texti": "Solomon R. Guggenheim-safnið, hannað af Frank Lloyd Wright, var opnað í New York. Hringlaga byggingin reyndist sjálf næstum jafn mikið sýningargripur og listaverkin innan dyra."
     },
     {
-      "ar": "1973",
-      "texti": "Bandarísku embættismennirnir Elliot Richardson og William Ruckelshaus sögðu af sér eftir að hafa neitað að reka Archibald Cox að skipun Richards Nixon forseta. Atburðurinn varð einn dramatískasti kafli Watergate-hneykslisins."
+      "ar": "1966",
+      "texti": "Kolavinnsluúrgangur féll yfir þorpið Aberfan í Wales og 144 létust, flest þeirra skólabörn. Hamfarirnar urðu einn átakanlegasti harmleikur í sögu Wales á 20. öld."
     },
     {
-      "ar": "2011",
-      "texti": "Muammar Gaddafi, fyrrverandi leiðtogi Líbíu, var handsamaður af uppreisnarmönnum í orrustunni um Sirte og drepinn skömmu síðar. Þar með lauk einum af örlagaríkustu köflum fyrra borgarastríðsins í Líbíu."
+      "ar": "1994",
+      "texti": "Norður-Kórea og Bandaríkin undirrituðu svonefnt Agreed Framework, sem átti að takmarka kjarnorkuvopnaáætlun Norður-Kóreu og greiða fyrir eðlilegri samskiptum ríkjanna. Samkomulagið var metnaðarfullt, þótt framhaldið yrði fjarri því einfalt."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1728",
-      "texti": "Mikill eldsvoði hófst í Kaupmannahöfn og geisaði í þrjá daga. Hluti bókasafns Árna Magnússonar fórst, en sem betur fer tókst að bjarga megninu af ómetanlegum skinnhandritum hans.",
-      "landshluti": "Erlendis"
+      "ar": "1171",
+      "texti": "Hvamm-Sturla Þórðarson og Einar Þorgilsson á Staðarhóli börðust í Sælingsdal. Sturla hafði sigur og var eftir það talinn mestur höfðingja við Breiðafjörð.",
+      "landshluti": "Vesturland"
     },
     {
-      "ar": "1905",
-      "texti": "Landsdómur var stofnaður til að fjalla um mál þar sem ráðherrar eru sakaðir um brot í stjórnarathöfnum. Dómstóllinn hefur aldrei þjáðst af yfirfullri dagskrá.",
+      "ar": "1916",
+      "texti": "Alþingiskosningar voru haldnar, þær fyrstu eftir að konur fengu kosningarétt. Samhliða var tillaga um þegnskylduvinnu heilbrigðra karla á aldrinum 17 til 25 ára felld með 90% atkvæða.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1989",
-      "texti": "Borgarleikhúsið í Reykjavík var vígt með mikilli viðhöfn eftir 13 ára byggingartíma. Tjöldin fóru loks upp — og biðin hafði þá verið lengri en margar leiksýningar.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1944",
+      "texti": "Nýsköpunarstjórnin undir forsæti Ólafs Thors tók við völdum. Að henni stóðu Sjálfstæðisflokkurinn, Alþýðuflokkurinn og Sósíalistaflokkurinn — býsna breið pólitísk heimilisfesti.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "2012",
-      "texti": "Þjóðaratkvæðagreiðsla fór fram á Íslandi um tillögur stjórnlagaráðs að nýrri stjórnarskrá. Þar fékk þjóðin sjálf að stíga inn á stjórnskipunarsviðið.",
-      "landshluti": "Landið allt"
+      "ar": "2006",
+      "texti": "Hellisheiðarvirkjun var formlega gangsett og jarðhitinn á Hellisheiði tekinn í þjónustu orkufreks nútímans.",
+      "landshluti": "Suðurland"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "John Krasinski",
-      "starfsgrein": "leikari, leikstjóri og framleiðandi",
-      "ar": "1979"
+      "nafn": "Kim Kardashian",
+      "starfsgrein": "sjónvarpsstjarna og viðskiptakona",
+      "ar": "1980"
     },
     {
-      "nafn": "Viggo Mortensen",
-      "starfsgrein": "leikari og framleiðandi",
-      "ar": "1958"
+      "nafn": "Carrie Fisher",
+      "starfsgrein": "leikkona og handritshöfundur",
+      "ar": "1956"
     },
     {
-      "nafn": "Snoop Dogg",
-      "starfsgrein": "rappari, framleiðandi og leikari",
-      "ar": "1971"
+      "nafn": "Alfred Nobel",
+      "starfsgrein": "efnafræðingur, verkfræðingur og stofnandi Nóbelsverðlaunanna",
+      "ar": "1833"
     },
     {
-      "nafn": "Tom Petty",
-      "starfsgrein": "söngvaskáld og gítarleikari",
-      "ar": "1950"
+      "nafn": "Ursula K. Le Guin",
+      "starfsgrein": "rithöfundur og bókmenntagagnrýnandi",
+      "ar": "1929"
     },
     {
-      "nafn": "Kamala Harris",
-      "starfsgrein": "stjórnmálamaður og lögfræðingur",
-      "ar": "1964"
+      "nafn": "Doja Cat",
+      "starfsgrein": "rappari og söngkona",
+      "ar": "1995"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Ingimar Eydal",
-      "starfsgrein": "tónlistarmaður",
-      "ar": "1936"
+      "nafn": "Sigurjón Ólafsson",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1908"
     },
     {
-      "nafn": "Tryggvi Emilsson",
-      "starfsgrein": "rithöfundur",
-      "ar": "1902"
+      "nafn": "Bjarni Jónsson",
+      "starfsgrein": "vígslubiskup",
+      "ar": "1881"
     },
     {
-      "nafn": "Áskell Löve",
-      "starfsgrein": "grasafræðingur",
-      "ar": "1916"
+      "nafn": "Bárður Ísleifsson",
+      "starfsgrein": "arkitekt",
+      "ar": "1905"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða leyndardómsfullu smáeindir komu við sögu í niðurstöðum Stanford-tilraunanna árið 1969?",
+      "spurning": "Hvaða fræga safn var opnað í New York árið 1959?",
       "svor": [
-        "Kvarkar",
-        "Nifteindir",
-        "Ljóseindir",
-        "Vogir"
+        "Solomon R. Guggenheim-safnið",
+        "Listasafn Sigurjóns Ólafssonar",
+        "Hellisheiðarvirkjun",
+        "Staðarhóll"
       ],
       "rett": 0,
-      "skyring": "Tilraunirnar gáfu fyrstu vísbendinguna um að róteindir væru samsettar úr kvörkum."
+      "skyring": "Guggenheim-safnið opnaði dyr sínar og bauð gestum jafnframt upp á eina frægustu safnbyggingu heims."
     },
     {
-      "spurning": "Hvaða íslenska menningarhús var vígt eftir 13 ára byggingartíma árið 1989?",
+      "spurning": "Hvað einkenndi alþingiskosningarnar árið 1916 sérstaklega?",
       "svor": [
-        "Þjóðleikhúsið",
-        "Borgarleikhúsið",
-        "Harpa",
-        "Hof"
+        "Þær voru fyrstu kosningarnar eftir stofnun lýðveldisins",
+        "Þær voru fyrstu alþingiskosningarnar eftir að konur fengu kosningarétt",
+        "Þær komu Nýsköpunarstjórninni til valda",
+        "Þær fóru aðeins fram á Vesturlandi"
       ],
       "rett": 1,
-      "skyring": "Borgarleikhúsið var vígt í Reykjavík 20. október 1989."
+      "skyring": "Kosningarnar 1916 voru þær fyrstu eftir að konur öðluðust kosningarétt til Alþingis."
     },
     {
-      "spurning": "Hver þessara afmælisbarna er þekktur fyrir hlutverk Aragorns?",
+      "spurning": "Hver af afmælisbörnum dagsins stofnaði Nóbelsverðlaunin?",
       "svor": [
-        "John Krasinski",
-        "Snoop Dogg",
-        "Viggo Mortensen",
-        "Tom Petty"
+        "Alfred Nobel",
+        "Frank Lloyd Wright",
+        "Sigurjón Ólafsson",
+        "Ursula K. Le Guin"
       ],
-      "rett": 2,
-      "skyring": "Viggo Mortensen lék Aragorn og bar sverð, ábyrgð og dramatískt augnaráð með prýði."
+      "rett": 0,
+      "skyring": "Alfred Nobel stofnaði verðlaunin sem bera nafn hans — óvenju áhrifamikil afmælisgjöf til framtíðarinnar."
     }
   ],
-  "tonlistUSA": "Rise – Herb Alpert (1979)",
-  "tonlistUK": "Freedom – Wham! (1984)",
-  "bio": "The Departed (2006)",
+  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
+  "tonlistUK": "That's What I Like – Jive Bunny and the Mastermixers (1989)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "hret",
-    "skyring": "Hret er skammvinnt kulda- og óveðurskast, gjarnan með snjókomu eða slyddu."
+    "ord": "þegnskylda",
+    "skyring": "Þegnskylda er lögboðin skylda borgara til að vinna tiltekin störf eða gegna þjónustu í þágu ríkisins."
   },
-  "vissir_thu": "Meginhluti skinnhandrita Árna Magnússonar slapp úr Kaupmannahafnarbrunanum 1728, þótt hluti bókasafns hans færi forgörðum.",
-  "stjornuspa": "Vogin finnur hið fullkomna jafnvægi milli skyldurækni og þess að hlusta á eina Tom Petty-plötu í viðbót. Varastu þó að gera Watergate-drama úr því hver á að tæma uppþvottavélina.",
+  "vissir_thu": "Í Aberfan-hamförunum árið 1966 létust 144 manns, flest þeirra skólabörn.",
+  "stjornuspa": "Vogin finnur jafnvægi milli skyldustarfa og kaffibolla, enda má hvorugt vega of létt í skálunum. Óvænt hugmynd gæti reynst verðlaunaverð, en þú þarft líklega ekki að finna upp dýnamít til að koma henni á framfæri.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Pragmatica_Sanc.jpg/500px-Pragmatica_Sanc.jpg",
-    "ar": "1740",
-    "texti": "María Teresa tók við löndum Habsborgara samkvæmt Pragmatísku viðurlögunum. Valdatími hennar hófst þó ekki með værð og vöfflum, heldur erfðastríði um nær alla Evrópu.",
-    "heimild": "https://en.wikipedia.org/wiki/Pragmatic_Sanction_of_1713",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Peter_the_Hermit.jpg/500px-Peter_the_Hermit.jpg",
+    "ar": "1096",
+    "texti": "Í orrustunni við Civetot gjöreyddu Seljúkar undir stjórn Kilij Arslan her Alþýðukrossferðarinnar, sem stefndi í átt að Níkeu. Fyrsta krossferðin hófst því með heldur harkalegri áminningu um að trúarhiti kæmi ekki í stað herstjórnar.",
+    "heimild": "https://en.wikipedia.org/wiki/First_Crusade",
     "breidd": 330,
-    "haed": 233
+    "haed": 318
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-20",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-21",
+  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
