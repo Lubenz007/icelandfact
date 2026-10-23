@@ -6,76 +6,76 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "08:41",
   "sunset": "17:41",
-  "kvedja": "Góðan og blessaðan 23. október! Í dag svífum við frá danskri vígvöllu upp í heiðhvolfið, lendum við Hringbraut og fáum svo „Weird Al“ til að semja lendingarstefið — sagan kann sannarlega að skipta um gír.",
+  "kvedja": "Góðan 23. október! Í dag svífum við frá dönskum vígvelli upp í loftið með Santos-Dumont, lendum í ungverskri byltingu og endum í Liberty City — sagan kann sannarlega ekki að sitja kyrr. Taktu daginn fagnandi, en farðu varlega í beygjunum.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1157",
-      "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, en Sveinn Eiríksson konungur féll — miðaldastjórnmál buðu sjaldan upp á mjúka lendingu."
+      "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, enda var konungspólitík miðalda sjaldnast fyrir viðkvæmar sálir."
     },
     {
       "ar": "1850",
-      "texti": "Fyrsta landsþing Bandaríkjanna um réttindi kvenna hófst í Worcester í Massachusetts undir forsæti baráttukonunnar Paulinu Wright Davis. Þar var ekki aðeins rætt um breytingar; þar var farið fram á þær."
+      "texti": "Fyrsta landsþing Bandaríkjanna um réttindi kvenna hófst í Worcester í Massachusetts undir forsæti Paulinu Wright Davis. Þar var ekki beðið kurteislega eftir jafnréttinu heldur gengið rösklega til verks."
     },
     {
       "ar": "1906",
-      "texti": "Alberto Santos-Dumont flaug tvíþekjunni 14-bis um 50 metra í París, í um fjögurra metra hæð. Flugið var stutt, en nógu langt til að framtíðin lyfti sér frá jörðu."
+      "texti": "Alberto Santos-Dumont flaug tvíþekjunni 14-bis um 50 metra í París, í um fjögurra metra hæð. Flugferðin var stutt, en mikilvægt skref í átt að heimi þar sem tafir á flugvöllum urðu mögulegar."
     },
     {
       "ar": "1956",
-      "texti": "Ungverska uppreisnin hófst sem friðsamleg stúdentamótmæli í Búdapest og laðaði að sér þúsundir á leið að þinghúsinu. Gangan varð upphaf að mikilli uppreisn gegn sovéskum yfirráðum."
+      "texti": "Ungverska byltingin hófst með friðsamlegri stúdentasamkomu sem dró þúsundir manna að þinghúsinu í Búdapest. Mótmælin uxu hratt í víðtæka uppreisn gegn sovéskum áhrifum."
     },
     {
       "ar": "2001",
-      "texti": "Tölvuleikurinn Grand Theft Auto III kom út og átti stóran þátt í að gera opna leikheima og efni ætlað fullorðnum að almennum þáttum tölvuleikjamenningar. Skyndilega varð borgin sjálf að leikvelli — með afar vafasömum umferðarvenjum."
+      "texti": "Tölvuleikurinn Grand Theft Auto III kom út og átti stóran þátt í að gera opna leikheima og efni ætlað fullorðnum vinsælt. Skyndilega mátti villast um heila borg — viljandi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1938",
-      "texti": "Samband íslenskra berklasjúklinga, SÍBS, var stofnað og varð mikilvægt afl í réttinda- og heilbrigðismálum.",
+      "texti": "Samband íslenskra berklasjúklinga, SÍBS, var stofnað og varð öflugur málsvari berklasjúklinga og annarra sem glímdu við langvinn veikindi.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1955",
-      "texti": "Stytta af verkalýðsleiðtoganum Héðni Valdimarssyni var reist við verkamannabústaðina við Hringbraut í Reykjavík.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1958",
+      "texti": "Bandalag háskólamanna, BHM, var stofnað á Íslandi. Háskólamenntað fólk hafði þar með eignast sameiginlegan vettvang — og fundargerðirnar urðu væntanlega prýðilega stafsettar.",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "1963",
-      "texti": "Í Vestmannaeyjum mældist tíu mínútna meðalvindhraði 200 km/klst. Það varð íslenskt vindhraðamet og var ekki jafnað fyrr en 1991 — einnig í Eyjum, auðvitað.",
+      "texti": "Í Vestmannaeyjum mældist tíu mínútna meðalvindhraði 200 km/klst., íslenskt vindhraðamet sem stóð ójafnað til ársins 1991. Þetta var veður af þeirri gerð sem fær jafnvel sjófugla til að endurskoða ferðaáætlanir.",
       "landshluti": "Suðurland"
     },
     {
       "ar": "1976",
-      "texti": "Alexandersflugvöllur var tekinn í notkun á Sauðárkróki og hafði þá lengstu flugbraut landsins utan Keflavíkurflugvallar.",
+      "texti": "Alexandersflugvöllur var tekinn í notkun á Sauðárkróki og var flugbrautin þá sú lengsta á Íslandi utan Keflavíkurflugvallar.",
       "landshluti": "Norðurland"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Ryan Reynolds",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1976"
+    },
+    {
+      "nafn": "Emilia Clarke",
+      "starfsgrein": "leikkona",
+      "ar": "1986"
+    },
+    {
+      "nafn": "Pelé",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1940"
+    },
+    {
       "nafn": "„Weird Al“ Yankovic",
-      "starfsgrein": "gríntónlistarmaður, höfundur og leikari",
+      "starfsgrein": "gríntónlistarmaður, rithöfundur og leikari",
       "ar": "1959"
     },
     {
-      "nafn": "Ang Lee",
-      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
-      "ar": "1954"
-    },
-    {
-      "nafn": "Amandla Stenberg",
-      "starfsgrein": "leikkona",
-      "ar": "1998"
-    },
-    {
-      "nafn": "Andoni Zubizarreta",
-      "starfsgrein": "knattspyrnumaður og íþróttafréttamaður",
-      "ar": "1961"
-    },
-    {
-      "nafn": "Anita Roddick",
-      "starfsgrein": "athafnakona og baráttukona",
+      "nafn": "Michael Crichton",
+      "starfsgrein": "rithöfundur og handritshöfundur",
       "ar": "1942"
     }
   ],
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða uppreisn hófst með friðsamlegum stúdentamótmælum 23. október 1956?",
+      "spurning": "Hvaða atburður hófst með friðsamlegri stúdentasamkomu 23. október 1956?",
       "svor": [
-        "Ungverska uppreisnin",
-        "Írska uppreisnin",
-        "Franska byltingin",
-        "Rússneska byltingin"
+        "Ungverska byltingin",
+        "Danska borgarastyrjöldin",
+        "Bandaríska frelsisstríðið",
+        "Franska byltingin"
       ],
       "rett": 0,
-      "skyring": "Ungverska uppreisnin hófst með göngu námsmanna um miðborg Búdapest."
+      "skyring": "Ungverska byltingin hófst með mótmælum stúdenta í Búdapest og óx hratt."
     },
     {
-      "spurning": "Hvar mældist tíu mínútna meðalvindhraði upp á 200 km/klst. árið 1963?",
+      "spurning": "Hversu mikill tíu mínútna meðalvindhraði mældist í Vestmannaeyjum árið 1963?",
       "svor": [
-        "Á Sauðárkróki",
-        "Í Vestmannaeyjum",
-        "Í Reykjavík",
-        "Á Ísafirði"
-      ],
-      "rett": 1,
-      "skyring": "Vestmannaeyjar settu metið og jöfnuðu það síðar sjálfar — vindurinn hélt sig við heimavöllinn."
-    },
-    {
-      "spurning": "Hver af afmælisbörnum dagsins er þekktur fyrir gamansamar lagaútgáfur?",
-      "svor": [
-        "Ang Lee",
-        "Andoni Zubizarreta",
-        "„Weird Al“ Yankovic",
-        "Anita Roddick"
+        "120 km/klst.",
+        "160 km/klst.",
+        "200 km/klst.",
+        "240 km/klst."
       ],
       "rett": 2,
-      "skyring": "„Weird Al“ Yankovic hefur gert lagaskop að heilli listgrein."
+      "skyring": "Meðalvindurinn náði 200 km/klst. — hattaveður af allra verstu sort."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var brasilísk knattspyrnugoðsögn?",
+      "svor": [
+        "Ryan Reynolds",
+        "Michael Crichton",
+        "Pelé",
+        "„Weird Al“ Yankovic"
+      ],
+      "rett": 2,
+      "skyring": "Pelé var einn kunnasti og áhrifamesti knattspyrnumaður sögunnar."
     }
   ],
   "tonlistUSA": "Jack & Diane – John Cougar (1982)",
-  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
+  "bio": "Jurassic Park (1993)",
   "ord_dagsins": {
-    "ord": "heiðhvolf",
-    "skyring": "Heiðhvolf er lag lofthjúpsins ofan veðrahvolfsins, þar sem loftbelgir hafa meðal annars sett hæðarmet."
+    "ord": "hret",
+    "skyring": "Hret er skyndilegt kast af köldu og slæmu veðri, oft með snjókomu eða slyddu."
   },
-  "vissir_thu": "Jeannette Piccard varð árið 1934 fyrsta konan til að fljúga í heiðhvolfinu þegar hún stýrði loftbelg upp í 17.550 metra hæð.",
-  "stjornuspa": "Sporðdrekinn finnur í dag vísbendingu þar sem aðrir sjá aðeins gamlan kvittunarmiða — rannsóknareðlið sefur aldrei. Varastu þó að yfirheyra kaffivélina; hún veit minna en hún gefur í skyn.",
+  "vissir_thu": "Alberto Santos-Dumont flaug 14-bis án þess að vélin væri skotin á loft með sérstöku ræsibúnaði; flugið fór fram fyrir augum fjölda vitna í París.",
+  "stjornuspa": "Sporðdreki, segulmagn þitt er í dag svo sterkt að jafnvel vasapeningar leita í áttina að þér — en reikningarnir fylgja fast á eftir. Treystu innsæinu, dustaðu rykið af leðurjakkanum og láttu sem árið sé 1982.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grathe_Hede_-_Froelich.jpg/500px-Grathe_Hede_-_Froelich.jpg",
     "ar": "1157",
-    "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, en Sveinn Eiríksson konungur féll — miðaldastjórnmál buðu sjaldan upp á mjúka lendingu.",
+    "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, enda var konungspólitík miðalda sjaldnast fyrir viðkvæmar sálir.",
     "heimild": "https://en.wikipedia.org/wiki/Battle_of_Grathe_Heath",
     "breidd": 330,
     "haed": 207
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-23"
 }
