@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-23",
-  "dagur": 23,
+  "date": "2026-10-24",
+  "dagur": 24,
   "manudur": "október",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 296,
-  "sunrise": "08:42",
-  "sunset": "17:40",
-  "mmdd": "10-23",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 297,
+  "sunrise": "08:45",
+  "sunset": "17:36",
+  "mmdd": "10-24",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 23. október! Í dag svífum við frá dönskum vígvelli upp í loftið með Santos-Dumont, lendum í ungverskri byltingu og endum í Liberty City — sagan kann sannarlega ekki að sitja kyrr. Taktu daginn fagnandi, en farðu varlega í beygjunum.",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 24. október spannar allt frá valdabaráttu mamlúka til kvennafrídagsins, með viðkomu á Úranusi — sagan kann sannarlega að skipuleggja fjölbreytta dagskrá. Dragðu því fram kaffibollann og njóttu ferðarinnar með mér.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1157",
-      "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, enda var konungspólitík miðalda sjaldnast fyrir viðkvæmar sálir."
+      "ar": "1260",
+      "texti": "Qutuz Egyptalandssúltan var ráðinn af dögum og mamlúkaleiðtoginn Baybars tók við völdum. Valdaskipti á þessum tíma voru sjaldnast afgreidd með kurteislegu handabandi."
     },
     {
-      "ar": "1850",
-      "texti": "Fyrsta landsþing Bandaríkjanna um réttindi kvenna hófst í Worcester í Massachusetts undir forsæti Paulinu Wright Davis. Þar var ekki beðið kurteislega eftir jafnréttinu heldur gengið rösklega til verks."
+      "ar": "1851",
+      "texti": "Stjörnufræðingurinn William Lassell uppgötvaði Ariel og Umbriel, þriðja og fjórða stærsta tungl Úranusar. Þar með fjölgaði þekktum nágrönnum reikistjörnunnar um tvo."
     },
     {
-      "ar": "1906",
-      "texti": "Alberto Santos-Dumont flaug tvíþekjunni 14-bis um 50 metra í París, í um fjögurra metra hæð. Flugferðin var stutt, en mikilvægt skref í átt að heimi þar sem tafir á flugvöllum urðu mögulegar."
+      "ar": "1929",
+      "texti": "Á svörtum fimmtudegi féll verðmæti kauphallarinnar í New York um 11 prósent strax við opnun undir gríðarlegum viðskiptum. Dagurinn markaði upphaf kreppunnar miklu."
     },
     {
-      "ar": "1956",
-      "texti": "Ungverska byltingin hófst með friðsamlegri stúdentasamkomu sem dró þúsundir manna að þinghúsinu í Búdapest. Mótmælin uxu hratt í víðtæka uppreisn gegn sovéskum áhrifum."
+      "ar": "1945",
+      "texti": "Stofnsáttmáli Sameinuðu þjóðanna tók gildi eftir fullgildingu fastaríkja Öryggisráðsins og meirihluta annarra undirritunarríkja. Þessi dagur er því talinn fæðingardagur Sameinuðu þjóðanna."
     },
     {
-      "ar": "2001",
-      "texti": "Tölvuleikurinn Grand Theft Auto III kom út og átti stóran þátt í að gera opna leikheima og efni ætlað fullorðnum vinsælt. Skyndilega mátti villast um heila borg — viljandi."
+      "ar": "1975",
+      "texti": "Um 90 prósent íslenskra kvenna lögðu niður launuð og ólaunuð störf til að mótmæla launamun og óréttlæti á vinnumarkaði. Kvennafrídagurinn sýndi svo um munaði hvað gerist þegar konur leggja ekki hönd á plóg."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1938",
-      "texti": "Samband íslenskra berklasjúklinga, SÍBS, var stofnað og varð öflugur málsvari berklasjúklinga og annarra sem glímdu við langvinn veikindi.",
+      "ar": "1919",
+      "texti": "Fyrsta tölublað Alþýðublaðsins kom út.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1944",
+      "texti": "Ein mesta björgun við Íslandsstrendur fór fram þegar 198 manns var bjargað af kanadíska tundurspillinum Skeena, sem fórst við Viðey. Um fimmtán manns fórust með skipinu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1975",
+      "texti": "Á kvennafrídaginn lögðu íslenskar konur niður vinnu til að sýna fram á mikilvægi framlags þeirra í atvinnulífinu.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1958",
-      "texti": "Bandalag háskólamanna, BHM, var stofnað á Íslandi. Háskólamenntað fólk hafði þar með eignast sameiginlegan vettvang — og fundargerðirnar urðu væntanlega prýðilega stafsettar.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1963",
-      "texti": "Í Vestmannaeyjum mældist tíu mínútna meðalvindhraði 200 km/klst., íslenskt vindhraðamet sem stóð ójafnað til ársins 1991. Þetta var veður af þeirri gerð sem fær jafnvel sjófugla til að endurskoða ferðaáætlanir.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1976",
-      "texti": "Alexandersflugvöllur var tekinn í notkun á Sauðárkróki og var flugbrautin þá sú lengsta á Íslandi utan Keflavíkurflugvallar.",
-      "landshluti": "Norðurland"
+      "ar": "2010",
+      "texti": "Gerpla varð fyrst íslenskra liða til að vinna Evrópumeistaratitil í fimleikum.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ryan Reynolds",
-      "starfsgrein": "leikari og kvikmyndaframleiðandi",
-      "ar": "1976"
+      "nafn": "Raye",
+      "starfsgrein": "bresk söngkona og lagahöfundur",
+      "ar": "1997"
     },
     {
-      "nafn": "Emilia Clarke",
-      "starfsgrein": "leikkona",
+      "nafn": "Wayne Rooney",
+      "starfsgrein": "enskur knattspyrnumaður",
+      "ar": "1985"
+    },
+    {
+      "nafn": "Drake",
+      "starfsgrein": "kanadískur rappari og leikari",
       "ar": "1986"
     },
     {
-      "nafn": "Pelé",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1940"
+      "nafn": "Roman Abramovich",
+      "starfsgrein": "rússneskur viðskiptamaður og stjórnmálamaður",
+      "ar": "1966"
     },
     {
-      "nafn": "„Weird Al“ Yankovic",
-      "starfsgrein": "gríntónlistarmaður, rithöfundur og leikari",
-      "ar": "1959"
-    },
-    {
-      "nafn": "Michael Crichton",
-      "starfsgrein": "rithöfundur og handritshöfundur",
-      "ar": "1942"
+      "nafn": "Kevin Kline",
+      "starfsgrein": "bandarískur leikari og söngvari",
+      "ar": "1947"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Kristmann Guðmundsson",
+      "nafn": "Guðmundur Friðjónsson",
       "starfsgrein": "rithöfundur",
-      "ar": "1901"
+      "ar": "1869"
     },
     {
-      "nafn": "Málfríður Einarsdóttir",
-      "starfsgrein": "rithöfundur",
-      "ar": "1899"
+      "nafn": "Magnús Jónsson",
+      "starfsgrein": "leikari",
+      "ar": "1965"
     },
     {
-      "nafn": "Hilmar Þorbjörnsson",
-      "starfsgrein": "frjálsíþróttamaður",
-      "ar": "1934"
+      "nafn": "Karl Ottó Runólfsson",
+      "starfsgrein": "tónskáld",
+      "ar": "1900"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða atburður hófst með friðsamlegri stúdentasamkomu 23. október 1956?",
+      "spurning": "Hvaða tvö tungl Úranusar fundust 24. október 1851?",
       "svor": [
-        "Ungverska byltingin",
-        "Danska borgarastyrjöldin",
-        "Bandaríska frelsisstríðið",
-        "Franska byltingin"
+        "Ariel og Umbriel",
+        "Fóbos og Deimos",
+        "Íó og Evrópa",
+        "Títan og Mímas"
       ],
       "rett": 0,
-      "skyring": "Ungverska byltingin hófst með mótmælum stúdenta í Búdapest og óx hratt."
+      "skyring": "William Lassell kom auga á Ariel og Umbriel, sem eru heldur fjarlægari afmælisgestir en flestir."
     },
     {
-      "spurning": "Hversu mikill tíu mínútna meðalvindhraði mældist í Vestmannaeyjum árið 1963?",
+      "spurning": "Hversu hátt hlutfall íslenskra kvenna lagði niður störf á kvennafrídaginn 1975?",
       "svor": [
-        "120 km/klst.",
-        "160 km/klst.",
-        "200 km/klst.",
-        "240 km/klst."
+        "Um 25 prósent",
+        "Um 50 prósent",
+        "Um 70 prósent",
+        "Um 90 prósent"
       ],
-      "rett": 2,
-      "skyring": "Meðalvindurinn náði 200 km/klst. — hattaveður af allra verstu sort."
+      "rett": 3,
+      "skyring": "Um 90 prósent tóku þátt og áhrifin fóru ekki fram hjá nokkrum manni."
     },
     {
-      "spurning": "Hver þessara afmælisbarna var brasilísk knattspyrnugoðsögn?",
+      "spurning": "Hvaða knattspyrnumaður á afmæli í dag?",
       "svor": [
-        "Ryan Reynolds",
-        "Michael Crichton",
-        "Pelé",
-        "„Weird Al“ Yankovic"
+        "David Beckham",
+        "Wayne Rooney",
+        "Thierry Henry",
+        "Steven Gerrard"
       ],
-      "rett": 2,
-      "skyring": "Pelé var einn kunnasti og áhrifamesti knattspyrnumaður sögunnar."
+      "rett": 1,
+      "skyring": "Wayne Rooney fæddist 24. október 1985."
     }
   ],
-  "tonlistUSA": "Jack & Diane – John Cougar (1982)",
-  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
-  "bio": "Jurassic Park (1993)",
+  "tonlistUSA": "Arthur's Theme (Best That You Can Do) – Christopher Cross (1981)",
+  "tonlistUK": "It's My Party – Dave Stewart og Barbara Gaskin (1981)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "hret",
-    "skyring": "Hret er skyndilegt kast af köldu og slæmu veðri, oft með snjókomu eða slyddu."
+    "ord": "þrasgjarn",
+    "skyring": "Þrasgjarn er sá sem er sífellt tilbúinn að deila eða karpa um málin."
   },
-  "vissir_thu": "Alberto Santos-Dumont flaug 14-bis án þess að vélin væri skotin á loft með sérstöku ræsibúnaði; flugið fór fram fyrir augum fjölda vitna í París.",
-  "stjornuspa": "Sporðdreki, segulmagn þitt er í dag svo sterkt að jafnvel vasapeningar leita í áttina að þér — en reikningarnir fylgja fast á eftir. Treystu innsæinu, dustaðu rykið af leðurjakkanum og láttu sem árið sé 1982.",
+  "vissir_thu": "Ariel og Umbriel, sem William Lassell uppgötvaði árið 1851, eru þriðja og fjórða stærsta tungl Úranusar.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamalt leyndarmál þar sem aðrir sjá aðeins ómerktan pappír — en gættu þess að gera ekki hvert kaffiboð að rannsóknarnefnd. Retro-ráð dagsins er að treysta innsæinu, pússa sólgleraugun og láta dulúðina vinna hálfa vinnuna.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Grathe_Hede_-_Froelich.jpg/500px-Grathe_Hede_-_Froelich.jpg",
-    "ar": "1157",
-    "texti": "Orrustan á Grathe-heiði batt enda á danska borgarastyrjöld. Valdimar stóð uppi sem sigurvegari, enda var konungspólitík miðalda sjaldnast fyrir viðkvæmar sálir.",
-    "heimild": "https://en.wikipedia.org/wiki/Battle_of_Grathe_Heath",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg/500px-%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
+    "ar": "1260",
+    "texti": "Qutuz Egyptalandssúltan var ráðinn af dögum og mamlúkaleiðtoginn Baybars tók við völdum. Valdaskipti á þessum tíma voru sjaldnast afgreidd með kurteislegu handabandi.",
+    "heimild": "https://en.wikipedia.org/wiki/Qutuz",
     "breidd": 330,
-    "haed": 207
+    "haed": 440
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-23",
+  "uppfaert": "2026-10-24",
   "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

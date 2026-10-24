@@ -6,77 +6,77 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "08:44",
   "sunset": "17:37",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 24. október finnum við allt frá mamelúkum og örsmáum tunglum til kvenna sem stöðvuðu Ísland — og knattspyrnuleiks sem endaði með pizzusneið á flugi. Sagan kann greinilega bæði að breyta heiminum og skilja eftir sig dálítið rusl í búningsklefanum.",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 24. október spannar allt frá valdabaráttu mamlúka til kvennafrídagsins, með viðkomu á Úranusi — sagan kann sannarlega að skipuleggja fjölbreytta dagskrá. Dragðu því fram kaffibollann og njóttu ferðarinnar með mér.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1260",
-      "texti": "Qutuz Egyptalandss soldán var ráðinn af dögum og mamelúkaleiðtoginn Baybars tók við völdum. Valdaskipti á miðöldum fóru sjaldnast fram með blómvendi og þakkarræðu."
+      "texti": "Qutuz Egyptalandssúltan var ráðinn af dögum og mamlúkaleiðtoginn Baybars tók við völdum. Valdaskipti á þessum tíma voru sjaldnast afgreidd með kurteislegu handabandi."
     },
     {
       "ar": "1851",
-      "texti": "Breski stjörnufræðingurinn William Lassell uppgötvaði Ariel og Umbriel, þriðja og fjórða tungl Úranusar sem menn fundu. Himingeimurinn varð þar með tveimur tunglum ríkari í skrám mannkyns."
+      "texti": "Stjörnufræðingurinn William Lassell uppgötvaði Ariel og Umbriel, þriðja og fjórða stærsta tungl Úranusar. Þar með fjölgaði þekktum nágrönnum reikistjörnunnar um tvo."
     },
     {
       "ar": "1929",
-      "texti": "Á svarta fimmtudeginum féll verðmæti kauphallarinnar í New York um 11 prósent strax við opnun. Dagurinn markaði upphaf hrunsins sem tengt er upphafi kreppunnar miklu."
+      "texti": "Á svörtum fimmtudegi féll verðmæti kauphallarinnar í New York um 11 prósent strax við opnun undir gríðarlegum viðskiptum. Dagurinn markaði upphaf kreppunnar miklu."
     },
     {
       "ar": "1945",
-      "texti": "Sáttmáli Sameinuðu þjóðanna tók gildi eftir fullgildingu fastafulltrúa öryggisráðsins og meirihluta annarra undirritunarríkja. Þar með urðu Sameinuðu þjóðirnar formlega að alþjóðasamtökum."
+      "texti": "Stofnsáttmáli Sameinuðu þjóðanna tók gildi eftir fullgildingu fastaríkja Öryggisráðsins og meirihluta annarra undirritunarríkja. Þessi dagur er því talinn fæðingardagur Sameinuðu þjóðanna."
     },
     {
-      "ar": "2004",
-      "texti": "Manchester United vann Arsenal 2–0 í leiknum sem síðar var kallaður „orrustan um hlaðborðið“ og batt enda á metlangan taplausan kafla Arsenal. Eftir leikinn mun pizzusneið hafa fengið óvænt hlutverk í knattspyrnusögunni."
+      "ar": "1975",
+      "texti": "Um 90 prósent íslenskra kvenna lögðu niður launuð og ólaunuð störf til að mótmæla launamun og óréttlæti á vinnumarkaði. Kvennafrídagurinn sýndi svo um munaði hvað gerist þegar konur leggja ekki hönd á plóg."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1919",
-      "texti": "Fyrsta tölublað Alþýðublaðsins kom út og ný rödd bættist í íslenska fjölmiðlaflóru.",
+      "texti": "Fyrsta tölublað Alþýðublaðsins kom út.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1944",
-      "texti": "Kanadíski tundurspillirinn Skeena fórst við Viðey. Um 198 manns var bjargað í einni mestu björgun við Íslandsstrendur, en um fimmtán létust.",
+      "texti": "Ein mesta björgun við Íslandsstrendur fór fram þegar 198 manns var bjargað af kanadíska tundurspillinum Skeena, sem fórst við Viðey. Um fimmtán manns fórust með skipinu.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1975",
-      "texti": "Á kvennafrídeginum lögðu íslenskar konur niður vinnu til að sýna fram á mikilvægi framlags þeirra í atvinnulífi og samfélagi. Um 90 prósent kvenna tóku þátt og dagurinn vakti heimsathygli.",
+      "texti": "Á kvennafrídaginn lögðu íslenskar konur niður vinnu til að sýna fram á mikilvægi framlags þeirra í atvinnulífinu.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1987",
-      "texti": "Tvö virt bresk tónlistarblöð birtu Sykurmolana á forsíðum sínum og hjálpuðu þannig til við að bera hróður sveitarinnar víða um heim.",
+      "ar": "2010",
+      "texti": "Gerpla varð fyrst íslenskra liða til að vinna Evrópumeistaratitil í fimleikum.",
       "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "BD Wong",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1960"
+      "nafn": "Raye",
+      "starfsgrein": "bresk söngkona og lagahöfundur",
+      "ar": "1997"
     },
     {
-      "nafn": "Bill Wyman",
-      "starfsgrein": "enskur bassaleikari og lagahöfundur",
-      "ar": "1936"
+      "nafn": "Wayne Rooney",
+      "starfsgrein": "enskur knattspyrnumaður",
+      "ar": "1985"
     },
     {
-      "nafn": "Antonie van Leeuwenhoek",
-      "starfsgrein": "hollenskur líffræðingur og frumkvöðull í örverufræði",
-      "ar": "1632"
+      "nafn": "Drake",
+      "starfsgrein": "kanadískur rappari og leikari",
+      "ar": "1986"
     },
     {
-      "nafn": "Adrienne Bailon",
-      "starfsgrein": "bandarísk söngkona, dansari og leikkona",
-      "ar": "1983"
+      "nafn": "Roman Abramovich",
+      "starfsgrein": "rússneskur viðskiptamaður og stjórnmálamaður",
+      "ar": "1966"
     },
     {
-      "nafn": "Annie Edson Taylor",
-      "starfsgrein": "bandarísk áhættukona og kennari",
-      "ar": "1838"
+      "nafn": "Kevin Kline",
+      "starfsgrein": "bandarískur leikari og söngvari",
+      "ar": "1947"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða íslenski atburður 24. október 1975 vakti heimsathygli?",
+      "spurning": "Hvaða tvö tungl Úranusar fundust 24. október 1851?",
       "svor": [
-        "Kvennafrídagurinn",
-        "Stofnun SÍBS",
-        "Koma togarans Vigra",
-        "Fyrsta útgáfa Alþýðublaðsins"
-      ],
-      "rett": 0,
-      "skyring": "Um 90 prósent íslenskra kvenna lögðu niður vinnu á kvennafrídeginum."
-    },
-    {
-      "spurning": "Hvaða tvö tungl uppgötvaði William Lassell árið 1851?",
-      "svor": [
-        "Fóbos og Deimos",
         "Ariel og Umbriel",
-        "Íó og Evrópu",
+        "Fóbos og Deimos",
+        "Íó og Evrópa",
         "Títan og Mímas"
       ],
-      "rett": 1,
-      "skyring": "Ariel og Umbriel eru tungl Úranusar og fengu sæti í stjörnufræðibókunum þennan dag."
+      "rett": 0,
+      "skyring": "William Lassell kom auga á Ariel og Umbriel, sem eru heldur fjarlægari afmælisgestir en flestir."
     },
     {
-      "spurning": "Hvaða lið stöðvaði taplausa hrinu Arsenal í „orrustunni um hlaðborðið“?",
+      "spurning": "Hversu hátt hlutfall íslenskra kvenna lagði niður störf á kvennafrídaginn 1975?",
       "svor": [
-        "Chelsea",
-        "Liverpool",
-        "Manchester United",
-        "Tottenham Hotspur"
+        "Um 25 prósent",
+        "Um 50 prósent",
+        "Um 70 prósent",
+        "Um 90 prósent"
       ],
-      "rett": 2,
-      "skyring": "Manchester United vann 2–0 og knattspyrnusagan fékk óvæntan keim af pizzum."
+      "rett": 3,
+      "skyring": "Um 90 prósent tóku þátt og áhrifin fóru ekki fram hjá nokkrum manni."
+    },
+    {
+      "spurning": "Hvaða knattspyrnumaður á afmæli í dag?",
+      "svor": [
+        "David Beckham",
+        "Wayne Rooney",
+        "Thierry Henry",
+        "Steven Gerrard"
+      ],
+      "rett": 1,
+      "skyring": "Wayne Rooney fæddist 24. október 1985."
     }
   ],
-  "tonlistUSA": "Monster Mash – Bobby Pickett (1962)",
+  "tonlistUSA": "Arthur's Theme (Best That You Can Do) – Christopher Cross (1981)",
   "tonlistUK": "It's My Party – Dave Stewart og Barbara Gaskin (1981)",
   "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "dægurþras",
-    "skyring": "Dægurþras er þrætuefni líðandi stundar sem getur virst afar mikilvægt í dag en gleymst furðufljótt."
+    "ord": "þrasgjarn",
+    "skyring": "Þrasgjarn er sá sem er sífellt tilbúinn að deila eða karpa um málin."
   },
-  "vissir_thu": "Annie Edson Taylor varð fyrst til að lifa af ferð niður Niagarafossana í tunnu — og gerði það á 63 ára afmælisdegi sínum, 24. október 1901.",
-  "stjornuspa": "Sporðdrekinn finnur í dag gamla leyndardóma þar sem aðrir sjá aðeins óraðaða skúffu. Varastu þó dramatík við kaffivélina; ekki sérhver horfinn bolli kallar á rannsóknarnefnd.",
+  "vissir_thu": "Ariel og Umbriel, sem William Lassell uppgötvaði árið 1851, eru þriðja og fjórða stærsta tungl Úranusar.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamalt leyndarmál þar sem aðrir sjá aðeins ómerktan pappír — en gættu þess að gera ekki hvert kaffiboð að rannsóknarnefnd. Retro-ráð dagsins er að treysta innsæinu, pússa sólgleraugun og láta dulúðina vinna hálfa vinnuna.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg/500px-%D8%B5%D9%88%D8%B1%D8%A9_%D8%AA%D9%85%D8%AB%D8%A7%D9%84_%D8%B3%D9%8A%D9%81_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%82%D8%B7%D8%B2_crop.jpg",
     "ar": "1260",
-    "texti": "Qutuz Egyptalandss soldán var ráðinn af dögum og mamelúkaleiðtoginn Baybars tók við völdum. Valdaskipti á miðöldum fóru sjaldnast fram með blómvendi og þakkarræðu.",
+    "texti": "Qutuz Egyptalandssúltan var ráðinn af dögum og mamlúkaleiðtoginn Baybars tók við völdum. Valdaskipti á þessum tíma voru sjaldnast afgreidd með kurteislegu handabandi.",
     "heimild": "https://en.wikipedia.org/wiki/Qutuz",
     "breidd": 330,
     "haed": 440
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-24"
 }
