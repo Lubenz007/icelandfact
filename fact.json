@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-25",
-  "dagur": 25,
+  "date": "2026-10-26",
+  "dagur": 26,
   "manudur": "október",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 298,
-  "sunrise": "08:48",
-  "sunset": "17:33",
-  "mmdd": "10-25",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 299,
+  "sunrise": "08:51",
+  "sunset": "17:30",
+  "mmdd": "10-26",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan og söguríkan 25. október! Í dag hittum við bogmenn við Agincourt, barnaskóla á Eyrarbakka og Windows XP — óvenjulegan hóp sem hefði líklega átt í vandræðum með að deila einu kaffiborði.",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. október mætast kóresk herkænska, íslensk eldfjöll, knattspyrnusaga og teiknimyndahúmor við sama morgunverðarborðið. Sagan kann sannarlega að raða ólíklegasta fólki saman í sæti.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1147",
-      "texti": "Her Afonso 1. Portúgalskonungs náði Lissabon af Márum eftir fjögurra mánaða umsátur. Sigurinn var einn af fáum sigrum kristinna herja í annarri krossferðinni."
+      "ar": "1597",
+      "texti": "Yi Sun-sin aðmíráll stýrði aðeins þrettán kóreskum skipum til sigurs gegn miklu stærri japönskum innrásarflota í orrustunni við Myeongnyang. Stundum skiptir snilldin meira máli en skipatalan."
     },
     {
-      "ar": "1415",
-      "texti": "Her Hinriks 5. Englandskonungs, að mestu skipaður bogmönnum, vann óvæntan sigur á fjölmennara riddaraliði Frakka í orrustunni við Agincourt."
+      "ar": "1863",
+      "texti": "Knattspyrnusamband Englands var stofnað í London og varð fyrsta stjórnvald heims yfir þeirri íþrótt sem við köllum nú knattspyrnu. Þar með hófst hið langa ferli að koma reglu á 22 menn og einn bolta."
     },
     {
-      "ar": "1616",
-      "texti": "Hollenski landkönnuðurinn Dirk Hartog skildi eftir áletraðan disk á eyju við Shark Bay. Diskurinn er elsti þekkti gripurinn frá landkönnun Evrópumanna í Ástralíu sem varðveist hefur."
+      "ar": "1892",
+      "texti": "Blaðakonan Ida B. Wells hóf að birta rannsóknir sínar á múglynchingum í Bandaríkjunum. Fyrir þetta mikilvæga og hættulega brautryðjendastarf hlaut hún Pulitzer-verðlaun að henni látinni árið 2020."
     },
     {
-      "ar": "1854",
-      "texti": "Hin örlagaríka árás léttu riddaraliðssveitarinnar í orrustunni við Balaclava var hrundið af rússneskum hersveitum. Hugrekkið var mikið, en hernaðaráætlunin öllu síðri."
+      "ar": "1977",
+      "texti": "Ali Maow Maalin, kokkur á sjúkrahúsi í Sómalíu, tók að sýna einkenni bólusóttar og varð síðasti maðurinn sem vitað er til að hafi smitast af sjúkdómnum með náttúrulegum hætti."
     },
     {
-      "ar": "2001",
-      "texti": "Windows XP kom í smásölu og varð síðar ein vinsælasta og útbreiddasta útgáfa Windows-stýrikerfisins. Bakgrunnsmyndin með grænu hæðinni varð nærri jafnþekkt og kerfið sjálft."
+      "ar": "1994",
+      "texti": "Ísrael og Jórdanía undirrituðu friðarsamning sem kom samskiptum ríkjanna í formlegt horf. Þau hétu jafnframt að leyfa ekki þriðja ríki að nota landsvæði sitt sem stökkpall fyrir hernaðarárásir."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1852",
-      "texti": "Barnaskólinn á Eyrarbakka var settur í fyrsta sinn. Hann er elsti starfandi barnaskóli á Íslandi.",
-      "landshluti": "Suðurland"
+      "ar": "1927",
+      "texti": "Gagnfræðaskólinn á Akureyri fékk heimild til að útskrifa stúdenta og tók í kjölfarið upp nafnið Menntaskólinn á Akureyri.",
+      "landshluti": "Norðurland"
     },
     {
-      "ar": "1875",
-      "texti": "Fyrsta borgaralega hjónavígslan á Íslandi fór fram í Vestmannaeyjum þegar sýslumaður fékk konungsleyfi til að gefa saman nokkra mormóna.",
-      "landshluti": "Suðurland"
+      "ar": "1961",
+      "texti": "Allmikið hraungos hófst í Öskju og stóð fram í desember. Jörðin tók sér með öðrum orðum haustönn í eldfjallafræði.",
+      "landshluti": "Norðurland"
     },
     {
-      "ar": "1914",
-      "texti": "Fyrsta verkakvennafélag landsins var stofnað þegar Kvenréttindafélag Íslands stóð að stofnun Verkakvennafélagsins Framsóknar í Reykjavík.",
+      "ar": "1986",
+      "texti": "Hallgrímskirkja í Reykjavík var vígð eftir 41 árs byggingarsögu. Við athöfnina gengu 2.000 kirkjugestir til altaris, fleiri en áður hafði gerst í íslenskri kirkjusögu.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1959",
-      "texti": "Seinni Alþingiskosningar ársins fóru fram og voru jafnframt þær fyrstu samkvæmt nýrri kjördæmaskipan.",
-      "landshluti": "Landið allt"
+      "ar": "1995",
+      "texti": "Snjóflóð féll á Flateyri og tuttugu manns fórust. Atburðurinn markaði djúp spor í sögu Vestfjarða og þjóðarinnar allrar.",
+      "landshluti": "Vestfirðir"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Katy Perry",
-      "starfsgrein": "söngkona, lagahöfundur og leikkona",
-      "ar": "1984"
+      "nafn": "Seth MacFarlane",
+      "starfsgrein": "raddleikari, handritshöfundur og framleiðandi",
+      "ar": "1973"
     },
     {
-      "nafn": "Pablo Picasso",
-      "starfsgrein": "listmálari og myndhöggvari",
-      "ar": "1881"
+      "nafn": "Hillary Clinton",
+      "starfsgrein": "lögfræðingur og stjórnmálakona",
+      "ar": "1947"
     },
     {
-      "nafn": "Shaun Wright-Phillips",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1981"
+      "nafn": "Keith Urban",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1967"
     },
     {
-      "nafn": "Ciara",
-      "starfsgrein": "söngkona, dansari og leikkona",
-      "ar": "1985"
+      "nafn": "Cary Elwes",
+      "starfsgrein": "leikari og framleiðandi",
+      "ar": "1962"
     },
     {
-      "nafn": "Chad Smith",
-      "starfsgrein": "trommuleikari",
-      "ar": "1961"
+      "nafn": "Bob Hoskins",
+      "starfsgrein": "leikari og leikstjóri",
+      "ar": "1942"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Ingibjörg Þorbergs",
-      "starfsgrein": "tónskáld",
-      "ar": "1927"
+      "nafn": "Gísli H. Guðjónsson",
+      "starfsgrein": "réttarsálfræðingur",
+      "ar": "1947"
     },
     {
-      "nafn": "Egill Egilsson",
-      "starfsgrein": "eðlisfræðingur",
-      "ar": "1942"
+      "nafn": "Einar Kristjánsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1911"
     },
     {
-      "nafn": "Oddur Björnsson",
-      "starfsgrein": "leikskáld",
-      "ar": "1932"
+      "nafn": "Haraldur Guðbergsson",
+      "starfsgrein": "myndlistarmaður",
+      "ar": "1930"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða stýrikerfi kom í smásölu 25. október 2001?",
+      "spurning": "Hversu mörgum skipum stýrði Yi Sun-sin í orrustunni við Myeongnyang?",
       "svor": [
-        "Windows 95",
-        "Windows XP",
-        "Windows Vista",
-        "Windows 7"
+        "Þrettán",
+        "Tuttugu og sex",
+        "Fimmtíu",
+        "Hundrað og þrettán"
+      ],
+      "rett": 0,
+      "skyring": "Hann hafði aðeins þrettán skip, en notaði þau af slíkri snilld að stærri flotinn laut í lægra haldi."
+    },
+    {
+      "spurning": "Hvaða íslenska kennslustofnun fékk rétt til að útskrifa stúdenta árið 1927?",
+      "svor": [
+        "Menntaskólinn í Reykjavík",
+        "Gagnfræðaskólinn á Akureyri",
+        "Háskóli Íslands",
+        "Héraðsskólinn á Laugarvatni"
       ],
       "rett": 1,
-      "skyring": "Windows XP mætti í búðir árið 2001 og settist fljótt að á ótal heimilistölvum."
+      "skyring": "Gagnfræðaskólinn á Akureyri fékk réttindin og varð eftir það Menntaskólinn á Akureyri."
     },
     {
-      "spurning": "Hvar fór fyrsta borgaralega hjónavígslan á Íslandi fram?",
+      "spurning": "Hver afmælisbarna dagsins hefur verið utanríkisráðherra Bandaríkjanna?",
       "svor": [
-        "Á Eyrarbakka",
-        "Á Akureyri",
-        "Í Vestmannaeyjum",
-        "Á Ísafirði"
+        "Rita Wilson",
+        "Natalie Merchant",
+        "Hillary Clinton",
+        "Jaclyn Smith"
       ],
       "rett": 2,
-      "skyring": "Vestmannaeyjar urðu vettvangur þessa merka áfanga árið 1875."
-    },
-    {
-      "spurning": "Hvaða heimsfrægi myndlistarmaður fæddist 25. október 1881?",
-      "svor": [
-        "Claude Monet",
-        "Salvador Dalí",
-        "Vincent van Gogh",
-        "Pablo Picasso"
-      ],
-      "rett": 3,
-      "skyring": "Pablo Picasso fæddist árið 1881 og átti síðar eftir að umbylta myndlistinni."
+      "skyring": "Hillary Clinton gegndi embætti utanríkisráðherra Bandaríkjanna."
     }
   ],
-  "tonlistUSA": "True Colors – Cyndi Lauper (1986)",
-  "tonlistUK": "Every Loser Wins – Nick Berry (1986)",
-  "bio": "Halloween (1978)",
+  "tonlistUSA": "Caribbean Queen – Billy Ocean (1984)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "The Terminator (1984)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er dauf birta eða rökkur þegar dagur og nótt takast kurteislega á um völdin."
+    "ord": "gusthlaup",
+    "skyring": "Gusthlaup er hraðfleygur straumur heitra lofttegunda, ösku og bergmylsnu niður hlíðar eldfjalls."
   },
-  "vissir_thu": "Diskurinn sem Dirk Hartog skildi eftir við vesturströnd Ástralíu árið 1616 er elsti þekkti varðveitti gripurinn frá landkönnun Evrópumanna þar í landi.",
-  "stjornuspa": "Sporðdrekinn ætti að treysta innsæinu í dag, en ekki svo blint að hann ríði eins og létta riddaraliðið við Balaclava beint inn í vandræðin. Dularfullt augnaráð og vel tímasettur kaffibolli opna fleiri dyr en þú heldur.",
+  "vissir_thu": "Bólusótt er eini smitsjúkdómurinn í mönnum sem hefur verið útrýmt á heimsvísu með markvissu bólusetningarstarfi.",
+  "stjornuspa": "Sporðdreki, í dag finnurðu leyndarmál sem hefur legið í skúffu síðan kassettutækin ríktu, en láttu það bíða þar til eftir kaffi. Segulkraftur þinn er mikill, svo notaðu hann af ábyrgð og forðastu að stofna eigið knattspyrnusamband fyrir hádegi.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cantigas_battle.jpg/330px-Cantigas_battle.jpg",
-    "ar": "1147",
-    "texti": "Her Afonso 1. Portúgalskonungs náði Lissabon af Márum eftir fjögurra mánaða umsátur. Sigurinn var einn af fáum sigrum kristinna herja í annarri krossferðinni.",
-    "heimild": "https://en.wikipedia.org/wiki/Reconquista",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Siege-of-Busanjin-1592.jpg/500px-Siege-of-Busanjin-1592.jpg",
+    "ar": "1597",
+    "texti": "Yi Sun-sin aðmíráll stýrði aðeins þrettán kóreskum skipum til sigurs gegn miklu stærri japönskum innrásarflota í orrustunni við Myeongnyang. Stundum skiptir snilldin meira máli en skipatalan.",
+    "heimild": "https://en.wikipedia.org/wiki/Imjin_War",
     "breidd": 330,
-    "haed": 320
+    "haed": 500
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-25",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-26",
+  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
