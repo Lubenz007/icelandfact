@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-26",
-  "dagur": 26,
+  "date": "2026-10-27",
+  "dagur": 27,
   "manudur": "október",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 299,
-  "sunrise": "08:51",
-  "sunset": "17:30",
-  "mmdd": "10-26",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 300,
+  "sunrise": "08:54",
+  "sunset": "17:26",
+  "mmdd": "10-27",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. október mætast kóresk herkænska, íslensk eldfjöll, knattspyrnusaga og teiknimyndahúmor við sama morgunverðarborðið. Sagan kann sannarlega að raða ólíklegasta fólki saman í sæti.",
+  "kvedja": "Góðan 27. október! Í dag förum við neðanjarðar í New York, hlýðum á Bach í Leipzig og fylgjumst með Ronald Reagan stíga fyrsta stóra skrefið inn á stjórnmálasviðið. Sporðdrekinn má því hafa broddinn reiðubúinn — en helst með glotti.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1597",
-      "texti": "Yi Sun-sin aðmíráll stýrði aðeins þrettán kóreskum skipum til sigurs gegn miklu stærri japönskum innrásarflota í orrustunni við Myeongnyang. Stundum skiptir snilldin meira máli en skipatalan."
+      "ar": "1674",
+      "texti": "Eftir þriggja mánaða umsátur gáfust franskar hersveitir í virkisborginni Grave upp fyrir Hollendingum í fransk-hollenska stríðinu. Virki eru traust, en þrír mánuðir eru býsna langur kaffitími."
     },
     {
-      "ar": "1863",
-      "texti": "Knattspyrnusamband Englands var stofnað í London og varð fyrsta stjórnvald heims yfir þeirri íþrótt sem við köllum nú knattspyrnu. Þar með hófst hið langa ferli að koma reglu á 22 menn og einn bolta."
+      "ar": "1726",
+      "texti": "Jóhann Sebastian Bach stjórnaði frumflutningi verksins Ich will den Kreuzstab gerne tragen í Leipzig. Þetta var eitt fárra verka sem tónskáldið sjálft kallaði kantötu."
     },
     {
-      "ar": "1892",
-      "texti": "Blaðakonan Ida B. Wells hóf að birta rannsóknir sínar á múglynchingum í Bandaríkjunum. Fyrir þetta mikilvæga og hættulega brautryðjendastarf hlaut hún Pulitzer-verðlaun að henni látinni árið 2020."
+      "ar": "1904",
+      "texti": "Fyrsti neðanjarðarkafli New York-lestarinnar var opnaður og tengdi ráðhúsið við Harlem. Þar með hófst nýr kafli í þeirri göfugu borgaríþrótt að troða sér inn í fullan lestarvagn."
     },
     {
-      "ar": "1977",
-      "texti": "Ali Maow Maalin, kokkur á sjúkrahúsi í Sómalíu, tók að sýna einkenni bólusóttar og varð síðasti maðurinn sem vitað er til að hafi smitast af sjúkdómnum með náttúrulegum hætti."
+      "ar": "1964",
+      "texti": "Leikarinn Ronald Reagan flutti sjónvarpsræðu til stuðnings forsetaframbjóðandanum Barry Goldwater. Ræðan hratt stjórnmálaferli Reagans af stað og síðar sat hann tvö heil kjörtímabil sem forseti Bandaríkjanna."
     },
     {
-      "ar": "1994",
-      "texti": "Ísrael og Jórdanía undirrituðu friðarsamning sem kom samskiptum ríkjanna í formlegt horf. Þau hétu jafnframt að leyfa ekki þriðja ríki að nota landsvæði sitt sem stökkpall fyrir hernaðarárásir."
+      "ar": "2019",
+      "texti": "Málverkið The Mocking of Christ eftir Cimabue var selt á uppboði í Frakklandi fyrir 19,5 milljónir evra. Það var metverð fyrir listaverk frá því fyrir árið 1500 — býsna rífleg upphæð fyrir mynd sem hafði lifað af fleiri aldir en flest hús."
     }
   ],
   "atburdir_island": [
     {
+      "ar": "1923",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
       "ar": "1927",
-      "texti": "Gagnfræðaskólinn á Akureyri fékk heimild til að útskrifa stúdenta og tók í kjölfarið upp nafnið Menntaskólinn á Akureyri.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1961",
-      "texti": "Allmikið hraungos hófst í Öskju og stóð fram í desember. Jörðin tók sér með öðrum orðum haustönn í eldfjallafræði.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1986",
-      "texti": "Hallgrímskirkja í Reykjavík var vígð eftir 41 árs byggingarsögu. Við athöfnina gengu 2.000 kirkjugestir til altaris, fleiri en áður hafði gerst í íslenskri kirkjusögu.",
+      "texti": "Úrsmiðafélag Íslands var stofnað í Reykjavík — og hefur tímasetningin væntanlega verið nákvæm.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1995",
-      "texti": "Snjóflóð féll á Flateyri og tuttugu manns fórust. Atburðurinn markaði djúp spor í sögu Vestfjarða og þjóðarinnar allrar.",
-      "landshluti": "Vestfirðir"
+      "ar": "1927",
+      "texti": "Fyrsta tölublað skólablaðsins Munins kom út á Akureyri.",
+      "landshluti": "Norðurland"
+    },
+    {
+      "ar": "1936",
+      "texti": "Minnismerki um Niels R. Finsen var afhjúpað í Menntaskólanum í Reykjavík, en hann hafði orðið stúdent þaðan árið 1882.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Seth MacFarlane",
-      "starfsgrein": "raddleikari, handritshöfundur og framleiðandi",
-      "ar": "1973"
+      "nafn": "Luiz Inácio Lula da Silva",
+      "starfsgrein": "verkalýðsleiðtogi og stjórnmálamaður",
+      "ar": "1945"
     },
     {
-      "nafn": "Hillary Clinton",
-      "starfsgrein": "lögfræðingur og stjórnmálakona",
-      "ar": "1947"
+      "nafn": "Theodore Roosevelt",
+      "starfsgrein": "Bandaríkjaforseti og friðarverðlaunahafi Nóbels",
+      "ar": "1858"
     },
     {
-      "nafn": "Keith Urban",
-      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
-      "ar": "1967"
+      "nafn": "John Cleese",
+      "starfsgrein": "leikari, grínisti og handritshöfundur",
+      "ar": "1939"
     },
     {
-      "nafn": "Cary Elwes",
-      "starfsgrein": "leikari og framleiðandi",
-      "ar": "1962"
+      "nafn": "Sylvia Plath",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1932"
     },
     {
-      "nafn": "Bob Hoskins",
-      "starfsgrein": "leikari og leikstjóri",
-      "ar": "1942"
+      "nafn": "Simon Le Bon",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1958"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Gísli H. Guðjónsson",
-      "starfsgrein": "réttarsálfræðingur",
-      "ar": "1947"
+      "nafn": "Emil Jónsson",
+      "starfsgrein": "stjórnmálamaður og forsætisráðherra Íslands",
+      "ar": "1902"
     },
     {
-      "nafn": "Einar Kristjánsson",
-      "starfsgrein": "rithöfundur",
-      "ar": "1911"
+      "nafn": "Geir Vídalín",
+      "starfsgrein": "biskup Íslands",
+      "ar": "1761"
     },
     {
-      "nafn": "Haraldur Guðbergsson",
-      "starfsgrein": "myndlistarmaður",
-      "ar": "1930"
+      "nafn": "Árni Helgason",
+      "starfsgrein": "prestur",
+      "ar": "1777"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hversu mörgum skipum stýrði Yi Sun-sin í orrustunni við Myeongnyang?",
+      "spurning": "Hvaða borg fékk sinn fyrsta neðanjarðarlestarkafla 27. október 1904?",
       "svor": [
-        "Þrettán",
-        "Tuttugu og sex",
-        "Fimmtíu",
-        "Hundrað og þrettán"
+        "New York",
+        "Boston",
+        "Chicago",
+        "Philadelphia"
       ],
       "rett": 0,
-      "skyring": "Hann hafði aðeins þrettán skip, en notaði þau af slíkri snilld að stærri flotinn laut í lægra haldi."
+      "skyring": "Fyrsti kaflinn í New York tengdi ráðhúsið við Harlem."
     },
     {
-      "spurning": "Hvaða íslenska kennslustofnun fékk rétt til að útskrifa stúdenta árið 1927?",
+      "spurning": "Hvaða tónskáld stjórnaði frumflutningi kantötu í Leipzig árið 1726?",
       "svor": [
-        "Menntaskólinn í Reykjavík",
-        "Gagnfræðaskólinn á Akureyri",
-        "Háskóli Íslands",
-        "Héraðsskólinn á Laugarvatni"
-      ],
-      "rett": 1,
-      "skyring": "Gagnfræðaskólinn á Akureyri fékk réttindin og varð eftir það Menntaskólinn á Akureyri."
-    },
-    {
-      "spurning": "Hver afmælisbarna dagsins hefur verið utanríkisráðherra Bandaríkjanna?",
-      "svor": [
-        "Rita Wilson",
-        "Natalie Merchant",
-        "Hillary Clinton",
-        "Jaclyn Smith"
+        "Wolfgang Amadeus Mozart",
+        "Ludwig van Beethoven",
+        "Jóhann Sebastian Bach",
+        "Georg Friedrich Händel"
       ],
       "rett": 2,
-      "skyring": "Hillary Clinton gegndi embætti utanríkisráðherra Bandaríkjanna."
+      "skyring": "Bach hélt sjálfur um stjórnvölinn við frumflutninginn."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins er þekkt úr breska gamanhópnum Monty Python?",
+      "svor": [
+        "Simon Le Bon",
+        "John Cleese",
+        "Theodore Roosevelt",
+        "Lula da Silva"
+      ],
+      "rett": 1,
+      "skyring": "John Cleese er einn þekktasti meðlimur Monty Python — og líklega sá hæsti."
     }
   ],
-  "tonlistUSA": "Caribbean Queen – Billy Ocean (1984)",
-  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Freedom – Wham! (1984)",
   "bio": "The Terminator (1984)",
   "ord_dagsins": {
-    "ord": "gusthlaup",
-    "skyring": "Gusthlaup er hraðfleygur straumur heitra lofttegunda, ösku og bergmylsnu niður hlíðar eldfjalls."
+    "ord": "húm",
+    "skyring": "Húm er rökkur eða dauf birta, gjarnan þegar dagur og nótt takast kurteislega á um völdin."
   },
-  "vissir_thu": "Bólusótt er eini smitsjúkdómurinn í mönnum sem hefur verið útrýmt á heimsvísu með markvissu bólusetningarstarfi.",
-  "stjornuspa": "Sporðdreki, í dag finnurðu leyndarmál sem hefur legið í skúffu síðan kassettutækin ríktu, en láttu það bíða þar til eftir kaffi. Segulkraftur þinn er mikill, svo notaðu hann af ábyrgð og forðastu að stofna eigið knattspyrnusamband fyrir hádegi.",
+  "vissir_thu": "Málverk Cimabues sem seldist fyrir 19,5 milljónir evra árið 2019 setti met fyrir listaverk frá því fyrir árið 1500.",
+  "stjornuspa": "Sporðdreki, gömul ráðgáta gæti leyst úr sér í dag ef þú beitir rannsóknarhæfileikum þínum fremur en dramatískri þögn. Haltu broddinum í slíðrinu fram yfir kaffitímann; þá verður dagurinn bæði friðsælli og fyndnari.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Siege-of-Busanjin-1592.jpg/500px-Siege-of-Busanjin-1592.jpg",
-    "ar": "1597",
-    "texti": "Yi Sun-sin aðmíráll stýrði aðeins þrettán kóreskum skipum til sigurs gegn miklu stærri japönskum innrásarflota í orrustunni við Myeongnyang. Stundum skiptir snilldin meira máli en skipatalan.",
-    "heimild": "https://en.wikipedia.org/wiki/Imjin_War",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Franco-Dutch_War_Collave.jpg/500px-Franco-Dutch_War_Collave.jpg",
+    "ar": "1674",
+    "texti": "Eftir þriggja mánaða umsátur gáfust franskar hersveitir í virkisborginni Grave upp fyrir Hollendingum í fransk-hollenska stríðinu. Virki eru traust, en þrír mánuðir eru býsna langur kaffitími.",
+    "heimild": "https://en.wikipedia.org/wiki/Franco-Dutch_War",
     "breidd": 330,
-    "haed": 500
+    "haed": 330
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-26",
-  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-27",
+  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
