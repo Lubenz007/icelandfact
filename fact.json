@@ -1,157 +1,152 @@
 {
-  "date": "2026-10-27",
-  "dagur": 27,
+  "date": "2026-10-28",
+  "dagur": 28,
   "manudur": "október",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 300,
-  "sunrise": "08:54",
-  "sunset": "17:26",
-  "mmdd": "10-27",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 301,
+  "sunrise": "08:57",
+  "sunset": "17:23",
+  "mmdd": "10-28",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 27. október! Í dag förum við neðanjarðar í New York, hlýðum á Bach í Leipzig og fylgjumst með Ronald Reagan stíga fyrsta stóra skrefið inn á stjórnmálasviðið. Sporðdrekinn má því hafa broddinn reiðubúinn — en helst með glotti.",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 28. október liggur leiðin frá Róm til Reykjavíkur, með viðkomu í geimnum og gröf Tútankamons — býsna drjúg dagsferð án þess að þurfa einu sinni að pakka nesti. Sporðdrekinn má því spenna beltin og njóta sögunnar með örlitlu glotti.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1674",
-      "texti": "Eftir þriggja mánaða umsátur gáfust franskar hersveitir í virkisborginni Grave upp fyrir Hollendingum í fransk-hollenska stríðinu. Virki eru traust, en þrír mánuðir eru býsna langur kaffitími."
+      "ar": "312",
+      "texti": "Konstantínus mikli sigraði Maxentíus í orrustunni við Milvísku brúna í Róm. Sigurinn varð örlagaríkur kafli í valdabaráttu Rómaveldis — þar var sannarlega meira í húfi en brúartollurinn."
     },
     {
-      "ar": "1726",
-      "texti": "Jóhann Sebastian Bach stjórnaði frumflutningi verksins Ich will den Kreuzstab gerne tragen í Leipzig. Þetta var eitt fárra verka sem tónskáldið sjálft kallaði kantötu."
+      "ar": "1707",
+      "texti": "Hōei-jarðskjálftinn reif samtímis alla hluta Nankai-meginsprungunnar í Japan. Hann er eini skráði jarðskjálftinn sem vitað er að hafi leikið þann ógnvænlega leik."
     },
     {
-      "ar": "1904",
-      "texti": "Fyrsti neðanjarðarkafli New York-lestarinnar var opnaður og tengdi ráðhúsið við Harlem. Þar með hófst nýr kafli í þeirri göfugu borgaríþrótt að troða sér inn í fullan lestarvagn."
+      "ar": "1886",
+      "texti": "Grover Cleveland Bandaríkjaforseti vígði Frelsisstyttuna í höfninni við New York. Styttan var gjöf Frakka til minningar um sjálfstæðisyfirlýsingu Bandaríkjanna og hefur síðan orðið eitt kunnasta tákn heims."
     },
     {
-      "ar": "1964",
-      "texti": "Leikarinn Ronald Reagan flutti sjónvarpsræðu til stuðnings forsetaframbjóðandanum Barry Goldwater. Ræðan hratt stjórnmálaferli Reagans af stað og síðar sat hann tvö heil kjörtímabil sem forseti Bandaríkjanna."
+      "ar": "1925",
+      "texti": "Greftrunargríma Tútankamons kom aftur fyrir sjónir manna eftir um 3.250 ár í myrkri. Talið er mögulegt að hún hafi upphaflega verið gerð fyrir Neferneferuaten drottningu."
     },
     {
-      "ar": "2019",
-      "texti": "Málverkið The Mocking of Christ eftir Cimabue var selt á uppboði í Frakklandi fyrir 19,5 milljónir evra. Það var metverð fyrir listaverk frá því fyrir árið 1500 — býsna rífleg upphæð fyrir mynd sem hafði lifað af fleiri aldir en flest hús."
+      "ar": "1971",
+      "texti": "Prospero, fyrsti breski gervihnötturinn sem skotið var á loft með breskri eldflaug, hóf ferð sína frá Woomera í Suður-Ástralíu. Bretar gátu þar með sagt að þeir hefðu sent sinn eigin pakka út í geim — án milligöngu póstsins."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1923",
-      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "ar": "1134",
+      "texti": "Magnús Einarsson var vígður biskup í Skálholti af Össuri erkibiskupi í Lundi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1848",
+      "texti": "Dómkirkjan í Reykjavík var vígð að nýju eftir gagngera endurbyggingu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1981",
+      "texti": "Hrauneyjafossvirkjun í Tungnaá var tekin í notkun og vatnsaflið látið bretta upp ermar.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "2017",
+      "texti": "Alþingiskosningar fóru fram á Íslandi og kjósendur tóku til við hið reglubundna lýðræðisverkefni að raða fólki á þing.",
       "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1927",
-      "texti": "Úrsmiðafélag Íslands var stofnað í Reykjavík — og hefur tímasetningin væntanlega verið nákvæm.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1927",
-      "texti": "Fyrsta tölublað skólablaðsins Munins kom út á Akureyri.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1936",
-      "texti": "Minnismerki um Niels R. Finsen var afhjúpað í Menntaskólanum í Reykjavík, en hann hafði orðið stúdent þaðan árið 1882.",
-      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Luiz Inácio Lula da Silva",
-      "starfsgrein": "verkalýðsleiðtogi og stjórnmálamaður",
-      "ar": "1945"
+      "nafn": "Caitlyn Jenner",
+      "starfsgrein": "fyrrverandi tugþrautarkona og sjónvarpskona",
+      "ar": "1949"
     },
     {
-      "nafn": "Theodore Roosevelt",
-      "starfsgrein": "Bandaríkjaforseti og friðarverðlaunahafi Nóbels",
-      "ar": "1858"
+      "nafn": "Julia Roberts",
+      "starfsgrein": "leikkona og kvikmyndaframleiðandi",
+      "ar": "1967"
     },
     {
-      "nafn": "John Cleese",
-      "starfsgrein": "leikari, grínisti og handritshöfundur",
-      "ar": "1939"
+      "nafn": "Joaquin Phoenix",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1974"
     },
     {
-      "nafn": "Sylvia Plath",
-      "starfsgrein": "skáld og rithöfundur",
-      "ar": "1932"
+      "nafn": "Bill Gates",
+      "starfsgrein": "frumkvöðull og góðgerðarmaður",
+      "ar": "1955"
     },
     {
-      "nafn": "Simon Le Bon",
-      "starfsgrein": "söngvari og lagahöfundur",
-      "ar": "1958"
+      "nafn": "Erasmus",
+      "starfsgrein": "heimspekingur og húmanisti",
+      "ar": "1466"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Emil Jónsson",
-      "starfsgrein": "stjórnmálamaður og forsætisráðherra Íslands",
-      "ar": "1902"
+      "nafn": "Þórólfur Guðnason",
+      "starfsgrein": "læknir og fyrrverandi sóttvarnalæknir",
+      "ar": "1953"
     },
     {
-      "nafn": "Geir Vídalín",
-      "starfsgrein": "biskup Íslands",
-      "ar": "1761"
-    },
-    {
-      "nafn": "Árni Helgason",
-      "starfsgrein": "prestur",
-      "ar": "1777"
+      "nafn": "Margrét Indriðadóttir",
+      "starfsgrein": "fréttamaður og fréttastjóri Ríkisútvarpsins",
+      "ar": "1923"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða borg fékk sinn fyrsta neðanjarðarlestarkafla 27. október 1904?",
+      "spurning": "Hvaða fræga mannvirki var vígt í höfninni við New York árið 1886?",
       "svor": [
-        "New York",
-        "Boston",
-        "Chicago",
-        "Philadelphia"
+        "Frelsisstyttan",
+        "Gateway Arch",
+        "Empire State-byggingin",
+        "Brooklyn-brúin"
       ],
       "rett": 0,
-      "skyring": "Fyrsti kaflinn í New York tengdi ráðhúsið við Harlem."
+      "skyring": "Frelsisstyttan var gjöf Frakka og fékk formlega vígslu þennan dag."
     },
     {
-      "spurning": "Hvaða tónskáld stjórnaði frumflutningi kantötu í Leipzig árið 1726?",
+      "spurning": "Hvað hét breski gervihnötturinn sem fór á loft árið 1971?",
       "svor": [
-        "Wolfgang Amadeus Mozart",
-        "Ludwig van Beethoven",
-        "Jóhann Sebastian Bach",
-        "Georg Friedrich Händel"
-      ],
-      "rett": 2,
-      "skyring": "Bach hélt sjálfur um stjórnvölinn við frumflutninginn."
-    },
-    {
-      "spurning": "Hvaða afmælisbarn dagsins er þekkt úr breska gamanhópnum Monty Python?",
-      "svor": [
-        "Simon Le Bon",
-        "John Cleese",
-        "Theodore Roosevelt",
-        "Lula da Silva"
+        "Hamlet",
+        "Prospero",
+        "Macbeth",
+        "Merlin"
       ],
       "rett": 1,
-      "skyring": "John Cleese er einn þekktasti meðlimur Monty Python — og líklega sá hæsti."
+      "skyring": "Prospero varð fyrsti breski gervihnötturinn sem skotið var á loft með breskri eldflaug."
+    },
+    {
+      "spurning": "Hvaða íslenska virkjun var tekin í notkun 28. október 1981?",
+      "svor": [
+        "Búrfellsvirkjun",
+        "Kárahnjúkavirkjun",
+        "Hrauneyjafossvirkjun",
+        "Blönduvirkjun"
+      ],
+      "rett": 2,
+      "skyring": "Hrauneyjafossvirkjun í Tungnaá tók til starfa árið 1981."
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "Freedom – Wham! (1984)",
-  "bio": "The Terminator (1984)",
+  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
+  "tonlistUK": "That's What I Like – Jive Bunny and the Mastermixers (1989)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er rökkur eða dauf birta, gjarnan þegar dagur og nótt takast kurteislega á um völdin."
+    "ord": "kviðlingur",
+    "skyring": "Kviðlingur er stutt kvæði eða vísa, gjarnan ort af gamansemi eða með dálitlum broddi."
   },
-  "vissir_thu": "Málverk Cimabues sem seldist fyrir 19,5 milljónir evra árið 2019 setti met fyrir listaverk frá því fyrir árið 1500.",
-  "stjornuspa": "Sporðdreki, gömul ráðgáta gæti leyst úr sér í dag ef þú beitir rannsóknarhæfileikum þínum fremur en dramatískri þögn. Haltu broddinum í slíðrinu fram yfir kaffitímann; þá verður dagurinn bæði friðsælli og fyndnari.",
+  "vissir_thu": "Prospero er enn á braut um jörðu, þótt samskiptum við gervihnöttinn hafi fyrir löngu lokið.",
+  "stjornuspa": "Sporðdrekinn finnur í dag gamalt mál sem þarf að leysa, en gættu þess að mæta ekki með rómverskan her að Milvísku brúnni. Hlýtt orð og kaffibolli skila líklega meiri sigri en sverð og skjöldur.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Franco-Dutch_War_Collave.jpg/500px-Franco-Dutch_War_Collave.jpg",
-    "ar": "1674",
-    "texti": "Eftir þriggja mánaða umsátur gáfust franskar hersveitir í virkisborginni Grave upp fyrir Hollendingum í fransk-hollenska stríðinu. Virki eru traust, en þrír mánuðir eru býsna langur kaffitími.",
-    "heimild": "https://en.wikipedia.org/wiki/Franco-Dutch_War",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raphael-Constantine_at_Milvian_Bridge.jpg/500px-Raphael-Constantine_at_Milvian_Bridge.jpg",
+    "ar": "312",
+    "texti": "Konstantínus mikli sigraði Maxentíus í orrustunni við Milvísku brúna í Róm. Sigurinn varð örlagaríkur kafli í valdabaráttu Rómaveldis — þar var sannarlega meira í húfi en brúartollurinn.",
+    "heimild": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
     "breidd": 330,
-    "haed": 330
+    "haed": 426
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-27",
+  "uppfaert": "2026-10-28",
   "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
