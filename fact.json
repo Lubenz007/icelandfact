@@ -1,152 +1,157 @@
 {
-  "date": "2026-10-28",
-  "dagur": 28,
+  "date": "2026-10-29",
+  "dagur": 29,
   "manudur": "október",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 301,
-  "sunrise": "08:57",
-  "sunset": "17:23",
-  "mmdd": "10-28",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 302,
+  "sunrise": "09:01",
+  "sunset": "17:20",
+  "mmdd": "10-29",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 28. október liggur leiðin frá Róm til Reykjavíkur, með viðkomu í geimnum og gröf Tútankamons — býsna drjúg dagsferð án þess að þurfa einu sinni að pakka nesti. Sporðdrekinn má því spenna beltin og njóta sögunnar með örlitlu glotti.",
+  "kvedja": "Góðan dag, kæri lesandi! Þennan 29. október þeysumst við frá Mount Hood yfir í geiminn og endum í lest undir Bospórussundi — sem er býsna drjúg dagsferð án þess að þurfa að pakka nesti. Haltu fast í söguhandriðið og njóttu ferðarinnar!",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "312",
-      "texti": "Konstantínus mikli sigraði Maxentíus í orrustunni við Milvísku brúna í Róm. Sigurinn varð örlagaríkur kafli í valdabaráttu Rómaveldis — þar var sannarlega meira í húfi en brúartollurinn."
+      "ar": "1792",
+      "texti": "William Robert Broughton, úr leiðangri George Vancouver, kom auga á fjallstind í Oregon og nefndi hann Mount Hood eftir breska aðmírálnum Samuel Hood. Landkönnuðir voru iðnir við að skíra það sem heimamenn þekktu auðvitað fyrir."
     },
     {
-      "ar": "1707",
-      "texti": "Hōei-jarðskjálftinn reif samtímis alla hluta Nankai-meginsprungunnar í Japan. Hann er eini skráði jarðskjálftinn sem vitað er að hafi leikið þann ógnvænlega leik."
+      "ar": "1831",
+      "texti": "Óeirðir brutust út í Bristol eftir að annað frumvarpið um umbætur á breska þinginu náði ekki fram að ganga. Um 250 urðu fyrir meiðslum eða létust og eignatjón nam 300.000 pundum."
     },
     {
-      "ar": "1886",
-      "texti": "Grover Cleveland Bandaríkjaforseti vígði Frelsisstyttuna í höfninni við New York. Styttan var gjöf Frakka til minningar um sjálfstæðisyfirlýsingu Bandaríkjanna og hefur síðan orðið eitt kunnasta tákn heims."
+      "ar": "1956",
+      "texti": "Súezdeilan hófst þegar Ísrael réðst inn á Sínaískaga og hrakti egypskar hersveitir í átt að Súezskurðinum. Þar með var kveikt í einni eldfimustu alþjóðadeilu eftirstríðsáranna."
     },
     {
-      "ar": "1925",
-      "texti": "Greftrunargríma Tútankamons kom aftur fyrir sjónir manna eftir um 3.250 ár í myrkri. Talið er mögulegt að hún hafi upphaflega verið gerð fyrir Neferneferuaten drottningu."
+      "ar": "1991",
+      "texti": "Geimfarið Galileo varð fyrst geimfara til að heimsækja smástirni þegar það flaug fram hjá Gaspra. Smástirnið fékk þannig frægasta framhjáflug sögunnar."
     },
     {
-      "ar": "1971",
-      "texti": "Prospero, fyrsti breski gervihnötturinn sem skotið var á loft með breskri eldflaug, hóf ferð sína frá Woomera í Suður-Ástralíu. Bretar gátu þar með sagt að þeir hefðu sent sinn eigin pakka út í geim — án milligöngu póstsins."
+      "ar": "2013",
+      "texti": "Fyrsti áfangi Marmaray-verkefnisins var opnaður: járnbrautargöng undir Bospórussundi sem tengja Evrópu- og Asíuhluta Istanbúl. Nú mátti fara milli heimsálfa án þess að blotna í fæturna."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1134",
-      "texti": "Magnús Einarsson var vígður biskup í Skálholti af Össuri erkibiskupi í Lundi.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1848",
-      "texti": "Dómkirkjan í Reykjavík var vígð að nýju eftir gagngera endurbyggingu.",
+      "ar": "1919",
+      "texti": "Alþýðublaðið kom út í fyrsta sinn og Ólafur Friðriksson var fyrsti ritstjóri þess.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1981",
-      "texti": "Hrauneyjafossvirkjun í Tungnaá var tekin í notkun og vatnsaflið látið bretta upp ermar.",
-      "landshluti": "Suðurland"
+      "ar": "1922",
+      "texti": "Rekstur elliheimilis hófst í húsinu Grund við Kaplaskjólsveg í Reykjavík. Átta árum síðar fluttist starfsemin í nýtt hús sem fékk nafnið Elliheimilið Grund.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2017",
-      "texti": "Alþingiskosningar fóru fram á Íslandi og kjósendur tóku til við hið reglubundna lýðræðisverkefni að raða fólki á þing.",
+      "ar": "1936",
+      "texti": "Raftækjaverksmiðjan Rafha var stofnuð á Íslandi og varð síðar kunn fyrir íslensk heimilistæki.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2016",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi; kjörseðlarnir fengu sinn stóra dag og þjóðin sitt pólitíska laugardagskvöld.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Caitlyn Jenner",
-      "starfsgrein": "fyrrverandi tugþrautarkona og sjónvarpskona",
-      "ar": "1949"
+      "nafn": "Winona Ryder",
+      "starfsgrein": "leikkona og framleiðandi",
+      "ar": "1971"
     },
     {
-      "nafn": "Julia Roberts",
-      "starfsgrein": "leikkona og kvikmyndaframleiðandi",
+      "nafn": "Rufus Sewell",
+      "starfsgrein": "leikari",
       "ar": "1967"
     },
     {
-      "nafn": "Joaquin Phoenix",
-      "starfsgrein": "leikari og kvikmyndaframleiðandi",
-      "ar": "1974"
+      "nafn": "Bob Ross",
+      "starfsgrein": "listmálari og sjónvarpsmaður",
+      "ar": "1942"
     },
     {
-      "nafn": "Bill Gates",
-      "starfsgrein": "frumkvöðull og góðgerðarmaður",
-      "ar": "1955"
+      "nafn": "Richard Dreyfuss",
+      "starfsgrein": "leikari og baráttumaður",
+      "ar": "1947"
     },
     {
-      "nafn": "Erasmus",
-      "starfsgrein": "heimspekingur og húmanisti",
-      "ar": "1466"
+      "nafn": "Dan Castellaneta",
+      "starfsgrein": "leikari og raddleikari",
+      "ar": "1957"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Þórólfur Guðnason",
-      "starfsgrein": "læknir og fyrrverandi sóttvarnalæknir",
-      "ar": "1953"
+      "nafn": "Flosi Ólafsson",
+      "starfsgrein": "leikari, leikstjóri og rithöfundur",
+      "ar": "1929"
     },
     {
-      "nafn": "Margrét Indriðadóttir",
-      "starfsgrein": "fréttamaður og fréttastjóri Ríkisútvarpsins",
-      "ar": "1923"
+      "nafn": "Einar Már Sigurðarson",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1951"
+    },
+    {
+      "nafn": "Sigurður Einarsson í Holti",
+      "starfsgrein": "prestur, rithöfundur og skáld",
+      "ar": "1898"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða fræga mannvirki var vígt í höfninni við New York árið 1886?",
+      "spurning": "Hvaða geimfar varð fyrst til að heimsækja smástirni?",
       "svor": [
-        "Frelsisstyttan",
-        "Gateway Arch",
-        "Empire State-byggingin",
-        "Brooklyn-brúin"
+        "Galileo",
+        "Voyager 1",
+        "Apollo 11",
+        "Discovery"
       ],
       "rett": 0,
-      "skyring": "Frelsisstyttan var gjöf Frakka og fékk formlega vígslu þennan dag."
+      "skyring": "Galileo flaug fram hjá smástirninu Gaspra árið 1991 og braut þar með nýtt blað í geimsögunni."
     },
     {
-      "spurning": "Hvað hét breski gervihnötturinn sem fór á loft árið 1971?",
+      "spurning": "Hvaða íslenska dagblað kom fyrst út 29. október 1919?",
       "svor": [
-        "Hamlet",
-        "Prospero",
-        "Macbeth",
-        "Merlin"
-      ],
-      "rett": 1,
-      "skyring": "Prospero varð fyrsti breski gervihnötturinn sem skotið var á loft með breskri eldflaug."
-    },
-    {
-      "spurning": "Hvaða íslenska virkjun var tekin í notkun 28. október 1981?",
-      "svor": [
-        "Búrfellsvirkjun",
-        "Kárahnjúkavirkjun",
-        "Hrauneyjafossvirkjun",
-        "Blönduvirkjun"
+        "Morgunblaðið",
+        "Tíminn",
+        "Alþýðublaðið",
+        "Vísir"
       ],
       "rett": 2,
-      "skyring": "Hrauneyjafossvirkjun í Tungnaá tók til starfa árið 1981."
+      "skyring": "Alþýðublaðið hóf göngu sína þennan dag undir ritstjórn Ólafs Friðrikssonar."
+    },
+    {
+      "spurning": "Hvaða listmálari og sjónvarpsmaður á afmæli 29. október?",
+      "svor": [
+        "Bob Ross",
+        "Andy Warhol",
+        "Roy Lichtenstein",
+        "David Hockney"
+      ],
+      "rett": 0,
+      "skyring": "Bob Ross fæddist árið 1942 og gerði friðsæl landslagsmálverk að einstaklega notalegu sjónvarpsefni."
     }
   ],
-  "tonlistUSA": "Miss You Much – Janet Jackson (1989)",
-  "tonlistUK": "That's What I Like – Jive Bunny and the Mastermixers (1989)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "Bad – Michael Jackson (1987)",
+  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
+  "bio": "The Terminator (1984)",
   "ord_dagsins": {
-    "ord": "kviðlingur",
-    "skyring": "Kviðlingur er stutt kvæði eða vísa, gjarnan ort af gamansemi eða með dálitlum broddi."
+    "ord": "hret",
+    "skyring": "Hret er skyndilegt og oft stutt kulda- eða illviðriskast."
   },
-  "vissir_thu": "Prospero er enn á braut um jörðu, þótt samskiptum við gervihnöttinn hafi fyrir löngu lokið.",
-  "stjornuspa": "Sporðdrekinn finnur í dag gamalt mál sem þarf að leysa, en gættu þess að mæta ekki með rómverskan her að Milvísku brúnni. Hlýtt orð og kaffibolli skila líklega meiri sigri en sverð og skjöldur.",
+  "vissir_thu": "Marmaray-göngin liggja undir Bospórussundi og tengja þannig Evrópu- og Asíuhluta Istanbúl með járnbraut.",
+  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í skúffu, en það reynist líklega bara ógreiddur reikningur eða týnd uppskrift. Treystu innsæinu, klæddu þig í þinn dramatískasta jakka og láttu engan sjá að þú gleymdir lykilorðinu.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Raphael-Constantine_at_Milvian_Bridge.jpg/500px-Raphael-Constantine_at_Milvian_Bridge.jpg",
-    "ar": "312",
-    "texti": "Konstantínus mikli sigraði Maxentíus í orrustunni við Milvísku brúna í Róm. Sigurinn varð örlagaríkur kafli í valdabaráttu Rómaveldis — þar var sannarlega meira í húfi en brúartollurinn.",
-    "heimild": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Captain_William_Broughton_%281762-1821%29_RMG_BHC2576.tiff/lossy-page1-330px-Captain_William_Broughton_%281762-1821%29_RMG_BHC2576.tiff.jpg",
+    "ar": "1792",
+    "texti": "William Robert Broughton, úr leiðangri George Vancouver, kom auga á fjallstind í Oregon og nefndi hann Mount Hood eftir breska aðmírálnum Samuel Hood. Landkönnuðir voru iðnir við að skíra það sem heimamenn þekktu auðvitað fyrir.",
+    "heimild": "https://en.wikipedia.org/wiki/William_Robert_Broughton",
     "breidd": 330,
-    "haed": 426
+    "haed": 400
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-28",
-  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-29",
+  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
