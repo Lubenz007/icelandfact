@@ -6,34 +6,34 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:03",
   "sunset": "17:17",
-  "kvedja": "Góðan dag, kæri lesandi! Þessi 30. október ber okkur frá uppgjöf herliðs án bardaga til útvarpsmanna sem hleyptu Marsbúum lausum í stofum fólks — og endar svo á íslenskum fótboltasigri. Sagan kann sannarlega að blanda sérkennilegan kokteil, með örlitlu glotti á brúninni.",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 30. október býður upp á allt frá herbrögðum og geimverum í útvarpi til lýðræðis og þeirrar ágætu áminningar að njóta hverrar samloku. Sagan er nefnilega stundum djúp, stundum dramatísk og stöku sinnum með majónesi.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1806",
-      "texti": "Þýska setuliðið í Stettin gafst upp fyrir mun fámennara frönsku liði án þess að til bardaga kæmi, enda taldi það ranglega að ofurefli stæði fyrir utan. Stundum vinnur sannfærandi framkoma fleiri orrustur en fallbyssur."
+      "texti": "Þýska setuliðið í Stettin taldi sig standa frammi fyrir ofurefli og gafst upp fyrir mun fámennara frönsku liði án bardaga. Stundum vinnst orrusta einfaldlega með nægilega sannfærandi svip."
     },
     {
       "ar": "1938",
-      "texti": "CBS útvarpaði leikgerðinni „The War of the Worlds“. Dagblöð fullyrtu síðar að útsendingin hefði blekkt Bandaríkjamenn til að halda að Marsbúar væru í alvöru mættir í heimsókn."
+      "texti": "CBS Radio sendi út leikritið The War of the Worlds, en dagblöð héldu því síðar fram að útsendingin hefði talið Bandaríkjamönnum trú um að Marsbúar væru að gera innrás."
     },
     {
       "ar": "1960",
-      "texti": "Michael Woodruff framkvæmdi fyrsta árangursríka nýrnaígræðsluna í Bretlandi á Royal Infirmary í Edinborg. Þar var skrifaður mikilvægur kafli í sögu líffæraígræðslna."
+      "texti": "Michael Woodruff framkvæmdi fyrstu vel heppnuðu nýrnaígræðsluna í Bretlandi á Royal Infirmary of Edinburgh. Þar var stigið stórt skref í sögu breskra læknavísinda."
     },
     {
       "ar": "1983",
-      "texti": "Argentínumenn gengu að kjörborðinu í fyrstu lýðræðislegu kosningunum í áratug þegar herforingjastjórnin var að líða undir lok. Raúl Alfonsín var kjörinn forseti."
+      "texti": "Eftir áratug án lýðræðislegra forsetakosninga kusu Argentínumenn Raúl Alfonsín forseta þegar herforingjastjórnin var að líða undir lok."
     },
     {
-      "ar": "2020",
-      "texti": "Jarðskjálfti af stærðinni 7,0 reið yfir Eyjahaf milli Grikklands og Tyrklands, hrinti af stað flóðbylgju og kostaði 119 manns lífið."
+      "ar": "2002",
+      "texti": "Warren Zevon kom síðast fram opinberlega í Late Show with David Letterman eftir að hafa greinst með banvænt krabbamein. Ráð hans voru einföld og ógleymanleg: að njóta hverrar samloku."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1936",
-      "texti": "Mikið tjón varð á Suðvesturlandi vegna sjávarflóða og elstu menn mundu vart annað eins. Hafið minnti rækilega á að það lætur ekki alltaf nægja að vera fallegt á póstkortum.",
+      "texti": "Mikið tjón varð á Suðvesturlandi vegna sjávarflóða og mundu elstu menn ekki annað eins.",
       "landshluti": "Suðurland"
     },
     {
@@ -43,40 +43,40 @@
     },
     {
       "ar": "1984",
-      "texti": "Samningar náðust milli ríkisins og BSRB eftir allsherjarverkfall sem hafði staðið frá 4. október. Eftir langan mánuð máttu samningamenn loksins leggja frá sér kaffibollana.",
+      "texti": "Samningar náðust milli ríkisins og BSRB eftir að allsherjarverkfall hafði staðið frá 4. október.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "2008",
-      "texti": "Íslenska kvennalandsliðið í knattspyrnu vann Írland 3–0 á Laugardalsvelli og tryggði sér sæti á EM 2009, fyrst íslenskra A-landsliða í knattspyrnu.",
+      "texti": "Íslenska kvennalandsliðið í knattspyrnu vann Írland 3–0 á Laugardalsvelli og tryggði sér sæti á EM 2009, fyrst íslenskra A-landsliða.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Cale Makar",
-      "starfsgrein": "kanadískur íshokkímaður",
-      "ar": "1998"
+      "nafn": "John Adams",
+      "starfsgrein": "lögmaður og Bandaríkjaforseti",
+      "ar": "1735"
     },
     {
-      "nafn": "Julia the Elder",
-      "starfsgrein": "rómversk aðalskona og dóttir Ágústusar",
-      "ar": "39 f.Kr."
+      "nafn": "Diego Maradona",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1960"
     },
     {
-      "nafn": "Ashley Graham",
-      "starfsgrein": "bandarísk fyrirsæta",
-      "ar": "1987"
+      "nafn": "Henry Winkler",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1945"
     },
     {
-      "nafn": "Christopher Wren",
-      "starfsgrein": "enskur arkitekt, eðlisfræðingur og stærðfræðingur",
-      "ar": "1632"
+      "nafn": "Grace Slick",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1939"
     },
     {
-      "nafn": "Artemi Panarin",
-      "starfsgrein": "rússneskur íshokkímaður",
-      "ar": "1991"
+      "nafn": "Ivanka Trump",
+      "starfsgrein": "athafnakona og fyrrverandi fyrirsæta",
+      "ar": "1981"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +98,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða útvarpsleikrit var sagt hafa komið Bandaríkjamönnum í Marsbúakast árið 1938?",
+      "spurning": "Hvaða útvarpsleikrit olli uppnámi vegna meintrar innrásar frá Mars?",
       "svor": [
         "The War of the Worlds",
-        "Hamlet",
-        "Dracula",
-        "The Invisible Man"
+        "The Invisible Man",
+        "Journey to the Center of the Earth",
+        "The Time Machine"
       ],
       "rett": 0,
-      "skyring": "„The War of the Worlds“ sendi Marsbúa í loftið, þótt þeir kæmust sem betur fer aldrei lengra en í útvarpstækin."
+      "skyring": "The War of the Worlds fór í loftið árið 1938 og Marsbúarnir fengu ókeypis umtal næstu áratugina."
     },
     {
-      "spurning": "Hvaða lið vann íslenska kvennalandsliðið 3–0 árið 2008 og tryggði sér þar með sæti á EM?",
+      "spurning": "Hvaða fótboltagoðsögn fæddist 30. október 1960?",
       "svor": [
-        "Noreg",
-        "Írland",
-        "Danmörku",
-        "Skotland"
+        "Pelé",
+        "Johan Cruyff",
+        "Diego Maradona",
+        "Franz Beckenbauer"
       ],
-      "rett": 1,
-      "skyring": "Írar urðu fyrir íslenska áhlaupinu á Laugardalsvelli og lokatölurnar urðu 3–0."
+      "rett": 2,
+      "skyring": "Diego Maradona fæddist þennan dag og varð síðar eitt stærsta nafn knattspyrnusögunnar."
     },
     {
-      "spurning": "Hvaða frægi arkitekt, fæddur 30. október, hannaði dómkirkju heilags Páls í Lundúnum?",
+      "spurning": "Hvað afrekaði íslenska kvennalandsliðið 30. október 2008?",
       "svor": [
-        "Alfred Sisley",
-        "Christopher Wren",
-        "Michael Woodruff",
-        "Raúl Alfonsín"
+        "Vann Ólympíugull",
+        "Tryggði sér sæti á EM 2009",
+        "Vann sitt fyrsta mót á Íslandi",
+        "Tryggði sér sæti á HM 2011"
       ],
       "rett": 1,
-      "skyring": "Christopher Wren hannaði hina frægu dómkirkju og skildi eftir sig myndarlegt spor í borgarlandslagi Lundúna."
+      "skyring": "Þriggja marka sigur á Írum tryggði liðinu sögulegt sæti á EM 2009."
     }
   ],
   "tonlistUSA": "Who Can It Be Now? – Men at Work (1982)",
   "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
   "bio": "Halloween (1978)",
   "ord_dagsins": {
-    "ord": "háski",
-    "skyring": "Háski merkir mikil hætta eða voði og á sérlega vel við þegar bæði jarðskjálftar og ímyndaðir Marsbúar eru á dagskrá."
+    "ord": "sjávarflóð",
+    "skyring": "Sjávarflóð verður þegar sjór gengur óvenjulangt á land, til dæmis vegna storms og mikillar sjávarstöðu."
   },
-  "vissir_thu": "Christopher Wren var ekki aðeins arkitekt heldur einnig stærðfræðingur og eðlisfræðingur; maðurinn gat sem sagt bæði reiknað út hvelfinguna og teiknað hana.",
-  "stjornuspa": "Sporðdreki, segulkraftur þinn er svo mikill í dag að jafnvel Marsbúar gætu villst af leið og lent í kaffiboði hjá þér. Varastu þó að gefa upp virkið án bardaga — sérstaklega ef deilan snýst um síðasta kökubita dagsins.",
+  "vissir_thu": "John Adams, sem fæddist þennan dag árið 1735, varð annar forseti Bandaríkjanna.",
+  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í dag, mögulega í skúffu sem átti bara að geyma rafhlöður og ábyrgðarskírteini. Treystu innsæinu, en ekki láta það sannfæra þig um að axlapúðar eigi aftur fullt erindi.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/500px-War_of_the_4th_Coalition.jpg",
     "ar": "1806",
-    "texti": "Þýska setuliðið í Stettin gafst upp fyrir mun fámennara frönsku liði án þess að til bardaga kæmi, enda taldi það ranglega að ofurefli stæði fyrir utan. Stundum vinnur sannfærandi framkoma fleiri orrustur en fallbyssur.",
+    "texti": "Þýska setuliðið í Stettin taldi sig standa frammi fyrir ofurefli og gafst upp fyrir mun fámennara frönsku liði án bardaga. Stundum vinnst orrusta einfaldlega með nægilega sannfærandi svip.",
     "heimild": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition",
     "breidd": 330,
     "haed": 248
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-30"
 }

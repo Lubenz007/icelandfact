@@ -1,157 +1,157 @@
 {
-  "date": "2026-10-29",
-  "dagur": 29,
+  "date": "2026-10-30",
+  "dagur": 30,
   "manudur": "október",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 302,
-  "sunrise": "09:01",
-  "sunset": "17:20",
-  "mmdd": "10-29",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 303,
+  "sunrise": "09:04",
+  "sunset": "17:17",
+  "mmdd": "10-30",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 29. október þeysumst við frá Mount Hood yfir í geiminn og endum í lest undir Bospórussundi — sem er býsna drjúg dagsferð án þess að þurfa að pakka nesti. Haltu fast í söguhandriðið og njóttu ferðarinnar!",
+  "kvedja": "Góðan dag, kæri lesandi! Þessi 30. október býður upp á allt frá herbrögðum og geimverum í útvarpi til lýðræðis og þeirrar ágætu áminningar að njóta hverrar samloku. Sagan er nefnilega stundum djúp, stundum dramatísk og stöku sinnum með majónesi.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1792",
-      "texti": "William Robert Broughton, úr leiðangri George Vancouver, kom auga á fjallstind í Oregon og nefndi hann Mount Hood eftir breska aðmírálnum Samuel Hood. Landkönnuðir voru iðnir við að skíra það sem heimamenn þekktu auðvitað fyrir."
+      "ar": "1806",
+      "texti": "Þýska setuliðið í Stettin taldi sig standa frammi fyrir ofurefli og gafst upp fyrir mun fámennara frönsku liði án bardaga. Stundum vinnst orrusta einfaldlega með nægilega sannfærandi svip."
     },
     {
-      "ar": "1831",
-      "texti": "Óeirðir brutust út í Bristol eftir að annað frumvarpið um umbætur á breska þinginu náði ekki fram að ganga. Um 250 urðu fyrir meiðslum eða létust og eignatjón nam 300.000 pundum."
+      "ar": "1938",
+      "texti": "CBS Radio sendi út leikritið The War of the Worlds, en dagblöð héldu því síðar fram að útsendingin hefði talið Bandaríkjamönnum trú um að Marsbúar væru að gera innrás."
     },
     {
-      "ar": "1956",
-      "texti": "Súezdeilan hófst þegar Ísrael réðst inn á Sínaískaga og hrakti egypskar hersveitir í átt að Súezskurðinum. Þar með var kveikt í einni eldfimustu alþjóðadeilu eftirstríðsáranna."
+      "ar": "1960",
+      "texti": "Michael Woodruff framkvæmdi fyrstu vel heppnuðu nýrnaígræðsluna í Bretlandi á Royal Infirmary of Edinburgh. Þar var stigið stórt skref í sögu breskra læknavísinda."
     },
     {
-      "ar": "1991",
-      "texti": "Geimfarið Galileo varð fyrst geimfara til að heimsækja smástirni þegar það flaug fram hjá Gaspra. Smástirnið fékk þannig frægasta framhjáflug sögunnar."
+      "ar": "1983",
+      "texti": "Eftir áratug án lýðræðislegra forsetakosninga kusu Argentínumenn Raúl Alfonsín forseta þegar herforingjastjórnin var að líða undir lok."
     },
     {
-      "ar": "2013",
-      "texti": "Fyrsti áfangi Marmaray-verkefnisins var opnaður: járnbrautargöng undir Bospórussundi sem tengja Evrópu- og Asíuhluta Istanbúl. Nú mátti fara milli heimsálfa án þess að blotna í fæturna."
+      "ar": "2002",
+      "texti": "Warren Zevon kom síðast fram opinberlega í Late Show with David Letterman eftir að hafa greinst með banvænt krabbamein. Ráð hans voru einföld og ógleymanleg: að njóta hverrar samloku."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1919",
-      "texti": "Alþýðublaðið kom út í fyrsta sinn og Ólafur Friðriksson var fyrsti ritstjóri þess.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1922",
-      "texti": "Rekstur elliheimilis hófst í húsinu Grund við Kaplaskjólsveg í Reykjavík. Átta árum síðar fluttist starfsemin í nýtt hús sem fékk nafnið Elliheimilið Grund.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
       "ar": "1936",
-      "texti": "Raftækjaverksmiðjan Rafha var stofnuð á Íslandi og varð síðar kunn fyrir íslensk heimilistæki.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Mikið tjón varð á Suðvesturlandi vegna sjávarflóða og mundu elstu menn ekki annað eins.",
+      "landshluti": "Suðurland"
     },
     {
-      "ar": "2016",
-      "texti": "Alþingiskosningar voru haldnar á Íslandi; kjörseðlarnir fengu sinn stóra dag og þjóðin sitt pólitíska laugardagskvöld.",
+      "ar": "1982",
+      "texti": "Landssöfnunin „Þjóðarátak gegn krabbameini“ afhenti Krabbameinsfélaginu þrettán milljónir króna, mun meira en áður hafði safnast í sambærilegum söfnunum.",
       "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1984",
+      "texti": "Samningar náðust milli ríkisins og BSRB eftir að allsherjarverkfall hafði staðið frá 4. október.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Íslenska kvennalandsliðið í knattspyrnu vann Írland 3–0 á Laugardalsvelli og tryggði sér sæti á EM 2009, fyrst íslenskra A-landsliða.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Winona Ryder",
-      "starfsgrein": "leikkona og framleiðandi",
-      "ar": "1971"
+      "nafn": "John Adams",
+      "starfsgrein": "lögmaður og Bandaríkjaforseti",
+      "ar": "1735"
     },
     {
-      "nafn": "Rufus Sewell",
-      "starfsgrein": "leikari",
-      "ar": "1967"
+      "nafn": "Diego Maradona",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1960"
     },
     {
-      "nafn": "Bob Ross",
-      "starfsgrein": "listmálari og sjónvarpsmaður",
-      "ar": "1942"
+      "nafn": "Henry Winkler",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1945"
     },
     {
-      "nafn": "Richard Dreyfuss",
-      "starfsgrein": "leikari og baráttumaður",
-      "ar": "1947"
+      "nafn": "Grace Slick",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1939"
     },
     {
-      "nafn": "Dan Castellaneta",
-      "starfsgrein": "leikari og raddleikari",
-      "ar": "1957"
+      "nafn": "Ivanka Trump",
+      "starfsgrein": "athafnakona og fyrrverandi fyrirsæta",
+      "ar": "1981"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Flosi Ólafsson",
-      "starfsgrein": "leikari, leikstjóri og rithöfundur",
-      "ar": "1929"
-    },
-    {
-      "nafn": "Einar Már Sigurðarson",
+      "nafn": "Björgvin G. Sigurðsson",
       "starfsgrein": "stjórnmálamaður",
-      "ar": "1951"
+      "ar": "1970"
     },
     {
-      "nafn": "Sigurður Einarsson í Holti",
-      "starfsgrein": "prestur, rithöfundur og skáld",
-      "ar": "1898"
+      "nafn": "Mörður Árnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1953"
+    },
+    {
+      "nafn": "Matthías Þórðarson",
+      "starfsgrein": "þjóðminjavörður",
+      "ar": "1877"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða geimfar varð fyrst til að heimsækja smástirni?",
+      "spurning": "Hvaða útvarpsleikrit olli uppnámi vegna meintrar innrásar frá Mars?",
       "svor": [
-        "Galileo",
-        "Voyager 1",
-        "Apollo 11",
-        "Discovery"
+        "The War of the Worlds",
+        "The Invisible Man",
+        "Journey to the Center of the Earth",
+        "The Time Machine"
       ],
       "rett": 0,
-      "skyring": "Galileo flaug fram hjá smástirninu Gaspra árið 1991 og braut þar með nýtt blað í geimsögunni."
+      "skyring": "The War of the Worlds fór í loftið árið 1938 og Marsbúarnir fengu ókeypis umtal næstu áratugina."
     },
     {
-      "spurning": "Hvaða íslenska dagblað kom fyrst út 29. október 1919?",
+      "spurning": "Hvaða fótboltagoðsögn fæddist 30. október 1960?",
       "svor": [
-        "Morgunblaðið",
-        "Tíminn",
-        "Alþýðublaðið",
-        "Vísir"
+        "Pelé",
+        "Johan Cruyff",
+        "Diego Maradona",
+        "Franz Beckenbauer"
       ],
       "rett": 2,
-      "skyring": "Alþýðublaðið hóf göngu sína þennan dag undir ritstjórn Ólafs Friðrikssonar."
+      "skyring": "Diego Maradona fæddist þennan dag og varð síðar eitt stærsta nafn knattspyrnusögunnar."
     },
     {
-      "spurning": "Hvaða listmálari og sjónvarpsmaður á afmæli 29. október?",
+      "spurning": "Hvað afrekaði íslenska kvennalandsliðið 30. október 2008?",
       "svor": [
-        "Bob Ross",
-        "Andy Warhol",
-        "Roy Lichtenstein",
-        "David Hockney"
+        "Vann Ólympíugull",
+        "Tryggði sér sæti á EM 2009",
+        "Vann sitt fyrsta mót á Íslandi",
+        "Tryggði sér sæti á HM 2011"
       ],
-      "rett": 0,
-      "skyring": "Bob Ross fæddist árið 1942 og gerði friðsæl landslagsmálverk að einstaklega notalegu sjónvarpsefni."
+      "rett": 1,
+      "skyring": "Þriggja marka sigur á Írum tryggði liðinu sögulegt sæti á EM 2009."
     }
   ],
-  "tonlistUSA": "Bad – Michael Jackson (1987)",
-  "tonlistUK": "Karma Chameleon – Culture Club (1983)",
-  "bio": "The Terminator (1984)",
+  "tonlistUSA": "Who Can It Be Now? – Men at Work (1982)",
+  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
+  "bio": "Halloween (1978)",
   "ord_dagsins": {
-    "ord": "hret",
-    "skyring": "Hret er skyndilegt og oft stutt kulda- eða illviðriskast."
+    "ord": "sjávarflóð",
+    "skyring": "Sjávarflóð verður þegar sjór gengur óvenjulangt á land, til dæmis vegna storms og mikillar sjávarstöðu."
   },
-  "vissir_thu": "Marmaray-göngin liggja undir Bospórussundi og tengja þannig Evrópu- og Asíuhluta Istanbúl með járnbraut.",
-  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í skúffu, en það reynist líklega bara ógreiddur reikningur eða týnd uppskrift. Treystu innsæinu, klæddu þig í þinn dramatískasta jakka og láttu engan sjá að þú gleymdir lykilorðinu.",
+  "vissir_thu": "John Adams, sem fæddist þennan dag árið 1735, varð annar forseti Bandaríkjanna.",
+  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í dag, mögulega í skúffu sem átti bara að geyma rafhlöður og ábyrgðarskírteini. Treystu innsæinu, en ekki láta það sannfæra þig um að axlapúðar eigi aftur fullt erindi.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Captain_William_Broughton_%281762-1821%29_RMG_BHC2576.tiff/lossy-page1-330px-Captain_William_Broughton_%281762-1821%29_RMG_BHC2576.tiff.jpg",
-    "ar": "1792",
-    "texti": "William Robert Broughton, úr leiðangri George Vancouver, kom auga á fjallstind í Oregon og nefndi hann Mount Hood eftir breska aðmírálnum Samuel Hood. Landkönnuðir voru iðnir við að skíra það sem heimamenn þekktu auðvitað fyrir.",
-    "heimild": "https://en.wikipedia.org/wiki/William_Robert_Broughton",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/500px-War_of_the_4th_Coalition.jpg",
+    "ar": "1806",
+    "texti": "Þýska setuliðið í Stettin taldi sig standa frammi fyrir ofurefli og gafst upp fyrir mun fámennara frönsku liði án bardaga. Stundum vinnst orrusta einfaldlega með nægilega sannfærandi svip.",
+    "heimild": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition",
     "breidd": 330,
-    "haed": 400
+    "haed": 248
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-29",
-  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-30",
+  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
