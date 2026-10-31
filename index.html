@@ -421,6 +421,23 @@
     #error-detail { font-size: 0.72rem; color: #b84040; margin-top: 0.4rem; word-break: break-word; }
 
     /* ── FOOTER ── */
+    /* Auglýsing: hitt.is */
+    .ad {
+      display: grid; grid-template-columns: 96px 1fr; gap: 0.8rem; align-items: center;
+      margin-top: 1.4rem; padding: 0.7rem 0.8rem; border: 3px double #0c0c0a;
+      color: inherit; text-decoration: none; position: relative;
+    }
+    .ad-label {
+      position: absolute; top: -0.55rem; left: 50%; transform: translateX(-50%);
+      background: #f8f6ee; padding: 0 0.45rem; font-size: 0.55rem; letter-spacing: 0.22em; text-transform: uppercase; color: #777;
+    }
+    .ad img { width: 96px; height: 96px; object-fit: cover; filter: grayscale(1) contrast(1.1); transition: filter .25s; }
+    .ad:hover img { filter: none; }
+    .ad-head { font-family: 'Playfair Display', Georgia, serif; font-weight: 900; font-size: clamp(1rem, 3.6vw, 1.25rem); line-height: 1.15; }
+    .ad-text { font-size: clamp(0.72rem, 2vw, 0.8rem); line-height: 1.5; color: #333; margin: 0.25rem 0; }
+    .ad-cta { font-size: 0.7rem; letter-spacing: 0.12em; text-transform: uppercase; font-weight: 700; white-space: nowrap; }
+    .ad:hover .ad-cta { text-decoration: underline; }
+
     .paper-footer {
       text-align: center;
       margin-top: 1.25rem;
@@ -594,6 +611,16 @@
       <button class="small-btn" id="share-bday-btn" onclick="showTab('bday')">Sjá þinn afmælisdag →</button>
     </div>
   </div>
+
+  <a class="ad" href="https://hitt.is/verslun/darts/?utm_source=saganidag&utm_medium=auglysing&utm_campaign=darts" target="_blank" rel="noopener" onclick="track('ad_click', {ad: 'hitt.is'})">
+    <span class="ad-label">Auglýsing</span>
+    <img src="https://hitt.is/images/darts-sett/01-upplyst-spjald-800.webp" alt="Upplýst Autodarts pílukastspjald" loading="lazy">
+    <span>
+      <span class="ad-head">Pílukast heima – með sjálfvirkri stigatalningu</span>
+      <span class="ad-text" style="display:block">Autodarts sett, samsett og prófað. Myndavélar telja stigin, ljósahringur lýsir spjaldið. Píluhaldarar og pílukarusell líka. Hannað og 3D prentað á Íslandi.</span>
+      <span class="ad-cta">hitt.is · frá 19.900 kr. →</span>
+    </span>
+  </a>
 
   <div class="paper-footer">
     Sagan í Dag · saganidag.is<br>
