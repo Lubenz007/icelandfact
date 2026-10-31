@@ -6,39 +6,34 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:06",
   "sunset": "17:14",
-  "kvedja": "Góðan dag, kæri lesandi, og gleðilega hrekkjavöku! Í dag liggur leiðin frá síðasta keisara Vestrómverska ríkisins yfir í siðbót, strætisvagna og írskumælandi sjónvarp — sagan kann sannarlega að skreyta sig þegar líður að nóvember.",
+  "kvedja": "Góðan dag og gleðilega hrekkjavöku! Þessi 31. október býður upp á siðbót, þyrluflótta og forseta höggna í granít — sagan hefur greinilega mætt í búningapartí og ákveðið að fara alla leið.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "475",
-      "texti": "Romulus Augustulus tók við keisaratign og varð síðasti keisari Vestrómverska ríkisins. Valdatíðin varð stutt og nafnið stórbrotnara en lokakaflinn."
+      "texti": "Romulus Augustulus tók við keisaratign og varð síðasti keisari Vestrómverska ríkisins. Nafnið var stórfenglegt, en valdatíminn reyndist öllu styttri en rómverska sagan."
     },
     {
       "ar": "1517",
-      "texti": "Marteinn Lúther birti 95 greinar sínar á dyrum Allraheilagrakirkjunnar í Wittenberg. Þar með hófst siðbótin, með afleiðingum sem bárust síðar alla leið til Íslands."
-    },
-    {
-      "ar": "1917",
-      "texti": "Bandamenn sigruðu tyrkneskar hersveitir í orrustunni við Beersheba í Suður-Palestínu. Þar var meðal annars gerð ein síðasta vel heppnaða riddaraárás hernaðarsögunnar."
+      "texti": "Marteinn Lúther birti 95 greinar sínar á kirkjudyrunum í Wittenberg og markaði þar með upphaf siðbótarinnar. Fáar tilkynningar á kirkjudyrum hafa valdið jafn miklum titringi."
     },
     {
       "ar": "1941",
-      "texti": "Um 400 verkamenn luku við 18 metra há andlit George Washington, Thomas Jefferson, Theodore Roosevelt og Abraham Lincoln í Mount Rushmore. Fjórir forsetar sátu þar með fastir fyrir myndatöku um ókomna tíð."
+      "texti": "Um 400 verkamenn luku við 18 metra há andlit George Washington, Thomas Jefferson, Theodore Roosevelt og Abraham Lincoln í Mount Rushmore. Þar fengu forsetarnir útsýni sem enginn kjósandi gat lofað þeim."
     },
     {
-      "ar": "1996",
-      "texti": "TG4, fyrsta sjónvarpsstöð heims sem sendi út á írsku, hóf útsendingar. Tungumálið fékk þar með sinn eigin glugga inn í stofur landsmanna."
+      "ar": "1973",
+      "texti": "Þrír liðsmenn Bráðabirgða-IRA flúðu úr Mountjoy-fangelsinu í Dublin með rænt þyrlufar sem lenti á æfingasvæði fangelsisins. Flótti með meiri kvikmyndabrag en flest fangelsi hefðu kosið."
+    },
+    {
+      "ar": "2005",
+      "texti": "Tilkynnt var um fund tunglanna Nix og Hydra á braut um Plútó, byggt á ljósmyndum Hubble-geimsjónaukans frá því tæpum fimm mánuðum áður. Jafnvel dvergreikistjörnur geta átt fjölmennt heimili."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1817",
-      "texti": "Í Reykjavík var minnst þess að þrjár aldir voru liðnar frá upphafi siðbótar Marteins Lúthers.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
       "ar": "1931",
-      "texti": "Strætisvagnar Reykjavíkur hófu akstur og lá fyrsta leiðin milli Lækjartorgs og Klepps.",
+      "texti": "Akstur Strætisvagna Reykjavíkur hófst og fyrsta leiðin lá milli Lækjartorgs og Klepps. Þar hófst langur kafli í sögu borgarinnar — með stoppistöðvum.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
@@ -47,91 +42,102 @@
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1976",
-      "texti": "Fyrsta skóflustungan var tekin að Borgarleikhúsinu í Reykjavík — langur leikþáttur byggingarframkvæmda var þar með hafinn.",
+      "ar": "1936",
+      "texti": "Dagblaðið Þjóðviljinn hóf göngu sína og studdi fyrst Kommúnistaflokkinn en síðar Sósíalistaflokkinn og Alþýðubandalagið.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1964",
+      "texti": "Stytta af Einari Benediktssyni var afhjúpuð á Miklatúni í Reykjavík í tilefni af aldarafmæli skáldsins.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ad-Rock",
-      "starfsgrein": "rappari, upptökustjóri og leikari",
-      "ar": "1966"
+      "nafn": "Peter Jackson",
+      "starfsgrein": "kvikmyndaleikstjóri og framleiðandi",
+      "ar": "1961"
     },
     {
-      "nafn": "Ansu Fati",
+      "nafn": "Marcus Rashford",
       "starfsgrein": "knattspyrnumaður",
-      "ar": "2002"
+      "ar": "1997"
     },
     {
-      "nafn": "Adam Schlesinger",
-      "starfsgrein": "bassaleikari, lagahöfundur og upptökustjóri",
-      "ar": "1967"
+      "nafn": "John Candy",
+      "starfsgrein": "leikari og grínisti",
+      "ar": "1950"
     },
     {
-      "nafn": "Alexander Alekhine",
-      "starfsgrein": "skákmaður og rithöfundur",
-      "ar": "1892"
+      "nafn": "Marco van Basten",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1964"
     },
     {
-      "nafn": "Ali Farka Touré",
-      "starfsgrein": "söngvaskáld og gítarleikari",
-      "ar": "1939"
+      "nafn": "Willow Smith",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "2000"
     }
   ],
-  "afmaeli_island": [],
+  "afmaeli_island": [
+    {
+      "nafn": "Einar Benediktsson",
+      "starfsgrein": "skáld og athafnamaður",
+      "ar": "1864"
+    }
+  ],
   "spurningar": [
     {
-      "spurning": "Hvaða leið óku fyrstu Strætisvagnar Reykjavíkur árið 1931?",
+      "spurning": "Hvað fundu vísindamenn á braut um Plútó samkvæmt tilkynningu árið 2005?",
       "svor": [
-        "Lækjartorg–Kleppur",
-        "Hlemmur–Hafnarfjörður",
-        "Grandi–Mosfellsbær",
-        "Austurvöllur–Seltjarnarnes"
+        "Tunglin Nix og Hydra",
+        "Hring úr ísögnum",
+        "Geimfar frá Mars",
+        "Smástirnið Klepp"
       ],
       "rett": 0,
-      "skyring": "Fyrsta leiðin lá milli Lækjartorgs og Klepps, áður en leiðakerfið varð að þeirri litríku flækju sem við þekkjum."
+      "skyring": "Nix og Hydra reyndust vera tungl Plútós, enda var Hubble ekki að mynda hrekkjavökuskraut."
     },
     {
-      "spurning": "Hvaða sjónvarpsstöð hóf útsendingar á írsku árið 1996?",
+      "spurning": "Hver var fyrsta leið Strætisvagna Reykjavíkur árið 1931?",
       "svor": [
-        "BBC Two",
-        "TG4",
-        "RTÉ News",
-        "Channel 4"
+        "Hlemmur–Hafnarfjörður",
+        "Lækjartorg–Kleppur",
+        "Miðbær–Mosfellsbær",
+        "Grandi–Elliðaár"
       ],
       "rett": 1,
-      "skyring": "TG4 varð fyrsta írskumælandi sjónvarpsstöð heims."
+      "skyring": "Fyrsti strætisvagninn ók milli Lækjartorgs og Klepps."
     },
     {
-      "spurning": "Hver birti 95 greinar sínar í Wittenberg árið 1517?",
+      "spurning": "Hvaða afmælisbarn leikstýrði stórmyndum um Miðgarð?",
       "svor": [
-        "John Keats",
-        "Abraham Lincoln",
-        "Marteinn Lúther",
-        "Romulus Augustulus"
+        "John Candy",
+        "Marcus Rashford",
+        "Peter Jackson",
+        "Marco van Basten"
       ],
       "rett": 2,
-      "skyring": "Marteinn Lúther birti greinarnar og ýtti þar með siðbótinni úr vör."
+      "skyring": "Peter Jackson færði Miðgarð á hvíta tjaldið — með örlítið fleiri hobbítum en gengur og gerist."
     }
   ],
   "tonlistUSA": "Bad – Michael Jackson (1987)",
-  "tonlistUK": "It's My Party – Dave Stewart and Barbara Gaskin (1981)",
+  "tonlistUK": "You Win Again – Bee Gees (1987)",
   "bio": "Halloween (1978)",
   "ord_dagsins": {
-    "ord": "kögur",
-    "skyring": "Kögur er jaðar eða hangandi skraut, til dæmis þráðarönd á klæði."
+    "ord": "afturganga",
+    "skyring": "Afturganga er látin manneskja sem sögð er ganga aftur og láta hina lifandi sjaldnast alveg í friði."
   },
-  "vissir_thu": "Mount Rushmore sýnir fjóra Bandaríkjaforseta, en hvert höfuð er um 18 metra hátt frá höku að hvirfli.",
-  "stjornuspa": "Sporðdreki, í dag skaltu treysta innsæinu, en ekki svo blint að þú endir með að hengja 95 kvartanir á ísskápshurðina. Kvöldið lofar dulúð, góðu spjalli og mögulega sælgæti sem átti samkvæmt öllum reglum að vera handa börnunum.",
+  "vissir_thu": "Andlit forsetanna fjögurra í Mount Rushmore eru hvert um 18 metra há, svo þar þyrfti óvenju stóran hrekkjavökumaska.",
+  "stjornuspa": "Sporðdreki, dularfull framkoma þín hentar hrekkjavökunni svo vel að aðrir gætu grunað þig um að hafa æft allt árið. Gamalt erindi eða gleymd hugmynd gengur aftur í dag — taktu vel á móti henni, en ekki gefa henni allt nammið.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/500px-Gold_Solidus_of_Romulus_Augustulus.jpg",
     "ar": "475",
-    "texti": "Romulus Augustulus tók við keisaratign og varð síðasti keisari Vestrómverska ríkisins. Valdatíðin varð stutt og nafnið stórbrotnara en lokakaflinn.",
+    "texti": "Romulus Augustulus tók við keisaratign og varð síðasti keisari Vestrómverska ríkisins. Nafnið var stórfenglegt, en valdatíminn reyndist öllu styttri en rómverska sagan.",
     "heimild": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
     "breidd": 330,
     "haed": 321
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-10-31"
 }

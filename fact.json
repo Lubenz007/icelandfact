@@ -1,157 +1,147 @@
 {
-  "date": "2026-10-30",
-  "dagur": 30,
+  "date": "2026-10-31",
+  "dagur": 31,
   "manudur": "október",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 303,
-  "sunrise": "09:04",
-  "sunset": "17:17",
-  "mmdd": "10-30",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 304,
+  "sunrise": "09:07",
+  "sunset": "17:13",
+  "mmdd": "10-31",
   "manudurNr": 10,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan dag, kæri lesandi! Þessi 30. október býður upp á allt frá herbrögðum og geimverum í útvarpi til lýðræðis og þeirrar ágætu áminningar að njóta hverrar samloku. Sagan er nefnilega stundum djúp, stundum dramatísk og stöku sinnum með majónesi.",
+  "kvedja": "Góðan dag og gleðilega hrekkjavöku! Þessi 31. október býður upp á siðbót, þyrluflótta og forseta höggna í granít — sagan hefur greinilega mætt í búningapartí og ákveðið að fara alla leið.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1806",
-      "texti": "Þýska setuliðið í Stettin taldi sig standa frammi fyrir ofurefli og gafst upp fyrir mun fámennara frönsku liði án bardaga. Stundum vinnst orrusta einfaldlega með nægilega sannfærandi svip."
+      "ar": "475",
+      "texti": "Romulus Augustulus tók við keisaratign og varð síðasti keisari Vestrómverska ríkisins. Nafnið var stórfenglegt, en valdatíminn reyndist öllu styttri en rómverska sagan."
     },
     {
-      "ar": "1938",
-      "texti": "CBS Radio sendi út leikritið The War of the Worlds, en dagblöð héldu því síðar fram að útsendingin hefði talið Bandaríkjamönnum trú um að Marsbúar væru að gera innrás."
+      "ar": "1517",
+      "texti": "Marteinn Lúther birti 95 greinar sínar á kirkjudyrunum í Wittenberg og markaði þar með upphaf siðbótarinnar. Fáar tilkynningar á kirkjudyrum hafa valdið jafn miklum titringi."
     },
     {
-      "ar": "1960",
-      "texti": "Michael Woodruff framkvæmdi fyrstu vel heppnuðu nýrnaígræðsluna í Bretlandi á Royal Infirmary of Edinburgh. Þar var stigið stórt skref í sögu breskra læknavísinda."
+      "ar": "1941",
+      "texti": "Um 400 verkamenn luku við 18 metra há andlit George Washington, Thomas Jefferson, Theodore Roosevelt og Abraham Lincoln í Mount Rushmore. Þar fengu forsetarnir útsýni sem enginn kjósandi gat lofað þeim."
     },
     {
-      "ar": "1983",
-      "texti": "Eftir áratug án lýðræðislegra forsetakosninga kusu Argentínumenn Raúl Alfonsín forseta þegar herforingjastjórnin var að líða undir lok."
+      "ar": "1973",
+      "texti": "Þrír liðsmenn Bráðabirgða-IRA flúðu úr Mountjoy-fangelsinu í Dublin með rænt þyrlufar sem lenti á æfingasvæði fangelsisins. Flótti með meiri kvikmyndabrag en flest fangelsi hefðu kosið."
     },
     {
-      "ar": "2002",
-      "texti": "Warren Zevon kom síðast fram opinberlega í Late Show with David Letterman eftir að hafa greinst með banvænt krabbamein. Ráð hans voru einföld og ógleymanleg: að njóta hverrar samloku."
+      "ar": "2005",
+      "texti": "Tilkynnt var um fund tunglanna Nix og Hydra á braut um Plútó, byggt á ljósmyndum Hubble-geimsjónaukans frá því tæpum fimm mánuðum áður. Jafnvel dvergreikistjörnur geta átt fjölmennt heimili."
     }
   ],
   "atburdir_island": [
     {
+      "ar": "1931",
+      "texti": "Akstur Strætisvagna Reykjavíkur hófst og fyrsta leiðin lá milli Lækjartorgs og Klepps. Þar hófst langur kafli í sögu borgarinnar — með stoppistöðvum.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1934",
+      "texti": "Hæstiréttur Íslands dæmdi Þórberg Þórðarson til að greiða 200 krónur í sekt fyrir meiðandi ummæli um Adolf Hitler og stjórn Þriðja ríkisins.",
+      "landshluti": "Landið allt"
+    },
+    {
       "ar": "1936",
-      "texti": "Mikið tjón varð á Suðvesturlandi vegna sjávarflóða og mundu elstu menn ekki annað eins.",
-      "landshluti": "Suðurland"
+      "texti": "Dagblaðið Þjóðviljinn hóf göngu sína og studdi fyrst Kommúnistaflokkinn en síðar Sósíalistaflokkinn og Alþýðubandalagið.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1982",
-      "texti": "Landssöfnunin „Þjóðarátak gegn krabbameini“ afhenti Krabbameinsfélaginu þrettán milljónir króna, mun meira en áður hafði safnast í sambærilegum söfnunum.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1984",
-      "texti": "Samningar náðust milli ríkisins og BSRB eftir að allsherjarverkfall hafði staðið frá 4. október.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "2008",
-      "texti": "Íslenska kvennalandsliðið í knattspyrnu vann Írland 3–0 á Laugardalsvelli og tryggði sér sæti á EM 2009, fyrst íslenskra A-landsliða.",
+      "ar": "1964",
+      "texti": "Stytta af Einari Benediktssyni var afhjúpuð á Miklatúni í Reykjavík í tilefni af aldarafmæli skáldsins.",
       "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "John Adams",
-      "starfsgrein": "lögmaður og Bandaríkjaforseti",
-      "ar": "1735"
+      "nafn": "Peter Jackson",
+      "starfsgrein": "kvikmyndaleikstjóri og framleiðandi",
+      "ar": "1961"
     },
     {
-      "nafn": "Diego Maradona",
-      "starfsgrein": "knattspyrnumaður og þjálfari",
-      "ar": "1960"
+      "nafn": "Marcus Rashford",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1997"
     },
     {
-      "nafn": "Henry Winkler",
+      "nafn": "John Candy",
       "starfsgrein": "leikari og grínisti",
-      "ar": "1945"
+      "ar": "1950"
     },
     {
-      "nafn": "Grace Slick",
-      "starfsgrein": "söngkona og lagahöfundur",
-      "ar": "1939"
+      "nafn": "Marco van Basten",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1964"
     },
     {
-      "nafn": "Ivanka Trump",
-      "starfsgrein": "athafnakona og fyrrverandi fyrirsæta",
-      "ar": "1981"
+      "nafn": "Willow Smith",
+      "starfsgrein": "söngkona og leikkona",
+      "ar": "2000"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Björgvin G. Sigurðsson",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1970"
-    },
-    {
-      "nafn": "Mörður Árnason",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1953"
-    },
-    {
-      "nafn": "Matthías Þórðarson",
-      "starfsgrein": "þjóðminjavörður",
-      "ar": "1877"
+      "nafn": "Einar Benediktsson",
+      "starfsgrein": "skáld og athafnamaður",
+      "ar": "1864"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða útvarpsleikrit olli uppnámi vegna meintrar innrásar frá Mars?",
+      "spurning": "Hvað fundu vísindamenn á braut um Plútó samkvæmt tilkynningu árið 2005?",
       "svor": [
-        "The War of the Worlds",
-        "The Invisible Man",
-        "Journey to the Center of the Earth",
-        "The Time Machine"
+        "Tunglin Nix og Hydra",
+        "Hring úr ísögnum",
+        "Geimfar frá Mars",
+        "Smástirnið Klepp"
       ],
       "rett": 0,
-      "skyring": "The War of the Worlds fór í loftið árið 1938 og Marsbúarnir fengu ókeypis umtal næstu áratugina."
+      "skyring": "Nix og Hydra reyndust vera tungl Plútós, enda var Hubble ekki að mynda hrekkjavökuskraut."
     },
     {
-      "spurning": "Hvaða fótboltagoðsögn fæddist 30. október 1960?",
+      "spurning": "Hver var fyrsta leið Strætisvagna Reykjavíkur árið 1931?",
       "svor": [
-        "Pelé",
-        "Johan Cruyff",
-        "Diego Maradona",
-        "Franz Beckenbauer"
-      ],
-      "rett": 2,
-      "skyring": "Diego Maradona fæddist þennan dag og varð síðar eitt stærsta nafn knattspyrnusögunnar."
-    },
-    {
-      "spurning": "Hvað afrekaði íslenska kvennalandsliðið 30. október 2008?",
-      "svor": [
-        "Vann Ólympíugull",
-        "Tryggði sér sæti á EM 2009",
-        "Vann sitt fyrsta mót á Íslandi",
-        "Tryggði sér sæti á HM 2011"
+        "Hlemmur–Hafnarfjörður",
+        "Lækjartorg–Kleppur",
+        "Miðbær–Mosfellsbær",
+        "Grandi–Elliðaár"
       ],
       "rett": 1,
-      "skyring": "Þriggja marka sigur á Írum tryggði liðinu sögulegt sæti á EM 2009."
+      "skyring": "Fyrsti strætisvagninn ók milli Lækjartorgs og Klepps."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn leikstýrði stórmyndum um Miðgarð?",
+      "svor": [
+        "John Candy",
+        "Marcus Rashford",
+        "Peter Jackson",
+        "Marco van Basten"
+      ],
+      "rett": 2,
+      "skyring": "Peter Jackson færði Miðgarð á hvíta tjaldið — með örlítið fleiri hobbítum en gengur og gerist."
     }
   ],
-  "tonlistUSA": "Who Can It Be Now? – Men at Work (1982)",
-  "tonlistUK": "Do You Really Want to Hurt Me – Culture Club (1982)",
+  "tonlistUSA": "Bad – Michael Jackson (1987)",
+  "tonlistUK": "You Win Again – Bee Gees (1987)",
   "bio": "Halloween (1978)",
   "ord_dagsins": {
-    "ord": "sjávarflóð",
-    "skyring": "Sjávarflóð verður þegar sjór gengur óvenjulangt á land, til dæmis vegna storms og mikillar sjávarstöðu."
+    "ord": "afturganga",
+    "skyring": "Afturganga er látin manneskja sem sögð er ganga aftur og láta hina lifandi sjaldnast alveg í friði."
   },
-  "vissir_thu": "John Adams, sem fæddist þennan dag árið 1735, varð annar forseti Bandaríkjanna.",
-  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í dag, mögulega í skúffu sem átti bara að geyma rafhlöður og ábyrgðarskírteini. Treystu innsæinu, en ekki láta það sannfæra þig um að axlapúðar eigi aftur fullt erindi.",
+  "vissir_thu": "Andlit forsetanna fjögurra í Mount Rushmore eru hvert um 18 metra há, svo þar þyrfti óvenju stóran hrekkjavökumaska.",
+  "stjornuspa": "Sporðdreki, dularfull framkoma þín hentar hrekkjavökunni svo vel að aðrir gætu grunað þig um að hafa æft allt árið. Gamalt erindi eða gleymd hugmynd gengur aftur í dag — taktu vel á móti henni, en ekki gefa henni allt nammið.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/War_of_the_4th_Coalition.jpg/500px-War_of_the_4th_Coalition.jpg",
-    "ar": "1806",
-    "texti": "Þýska setuliðið í Stettin taldi sig standa frammi fyrir ofurefli og gafst upp fyrir mun fámennara frönsku liði án bardaga. Stundum vinnst orrusta einfaldlega með nægilega sannfærandi svip.",
-    "heimild": "https://en.wikipedia.org/wiki/War_of_the_Fourth_Coalition",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Gold_Solidus_of_Romulus_Augustulus.jpg/500px-Gold_Solidus_of_Romulus_Augustulus.jpg",
+    "ar": "475",
+    "texti": "Romulus Augustulus tók við keisaratign og varð síðasti keisari Vestrómverska ríkisins. Nafnið var stórfenglegt, en valdatíminn reyndist öllu styttri en rómverska sagan.",
+    "heimild": "https://en.wikipedia.org/wiki/Romulus_Augustulus",
     "breidd": 330,
-    "haed": 248
+    "haed": 321
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-10-30",
-  "verdlag": "Árið 1988 kostaði eintak af Morgunblaðinu um 70 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 6.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-10-31",
+  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
