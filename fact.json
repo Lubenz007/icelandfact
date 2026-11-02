@@ -1,147 +1,157 @@
 {
-  "date": "2026-11-01",
-  "dagur": 1,
+  "date": "2026-11-02",
+  "dagur": 2,
   "manudur": "nóvember",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 305,
-  "sunrise": "09:10",
-  "sunset": "17:10",
-  "mmdd": "11-01",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 306,
+  "sunrise": "09:13",
+  "sunset": "17:07",
+  "mmdd": "11-02",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Komdu sæll, kæri lesandi, og vertu velkominn inn í 1. nóvember, þar sem konungar skiptast á gíslum, markverðir setja upp grímur og veðurathugunarmenn halda ótrauðir til verka. Sagan minnir okkur á að góðar hugmyndir kvikna stundum við skrifborð — en stundum eftir að maður fær íshokkípökk í andlitið.",
+  "kvedja": "Góðan 2. nóvember! Í dag fljúgum við frá emústríðinu í Ástralíu upp í Alþjóðlegu geimstöðina, með viðkomu í Fjalakettinum og Formúlu 1 — sagan hefur greinilega aldrei kunnað að halda sig á einni akrein. Sporðdrekar mega taka daginn með ró; Lewis Hamilton vann jú heimsmeistaratitil með því að bíða alveg fram í síðustu beygjur.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1141",
-      "texti": "Matthildur keisaraynja leysti Stefán Englandskonung úr haldi og hann sleppti í staðinn Róbert af Gloucester, öflugasta stuðningsmanni hennar. Þessi fangaskipti framlengdu borgarastyrjöldina sem kölluð er Stjórnleysið — fremur óheppilegt framhald en snyrtilegur sögulokakafli."
+      "ar": "1880",
+      "texti": "James A. Garfield var kjörinn forseti Bandaríkjanna í kosningum sem enn eiga metið fyrir minnsta mun í heildaratkvæðafjölda."
     },
     {
-      "ar": "1214",
-      "texti": "Seljúkar náðu mikilvægu hafnarborginni Sinope í átökum sínum við Býsansveldið. Þar með styrktu þeir stöðu sína við Svartahaf, þar sem hafnir voru lyklar að bæði viðskiptum og völdum."
+      "ar": "1917",
+      "texti": "Breska ríkisstjórnin gaf út Balfour-yfirlýsinguna og lýsti stuðningi við þjóðarheimili gyðinga í Palestínu, sem þá var hluti af Tyrkjaveldi."
     },
     {
-      "ar": "1824",
-      "texti": "Eingangsskipið Columbus kom að The Downs undan Englandi og var þá stærsta skip sem hafði siglt yfir Atlantshafið. Skipið var smíðað fyrir eina ferð, sem verður að teljast býsna stórfengleg útgáfa af einnota umbúðum."
+      "ar": "1932",
+      "texti": "Ástralski herinn hóf svonefnt emústríð gegn stórum hópum emúa sem ollu uppskerutjóni í Vestur-Ástralíu. Fuglarnir voru ófleygir en reyndust síður en svo auðsigraðir."
     },
     {
-      "ar": "1921",
-      "texti": "Frances Kyle fékk málflutningsréttindi á Írlandi og varð fyrsta konan til þess á Írlandi eða í Bretlandi. Dyr réttarsalanna höfðu loksins opnast — þótt lömin hefði greinilega verið ansi stirð."
+      "ar": "2000",
+      "texti": "William Shepherd, Sergei Krikalev og Yuri Gidzenko komu til Alþjóðlegu geimstöðvarinnar sem fyrsta fastaáhöfn hennar. Þar með hófst nýr kafli í sambýli mannkyns og þyngdarleysis."
     },
     {
-      "ar": "1959",
-      "texti": "Kanadíski íshokkímarkvörðurinn Jacques Plante fékk pökk í andlitið en sneri aftur inn á í andlitsgrímu. Gríman varð síðar sjálfsagður öryggisbúnaður markvarða, enda er hugrekki ágætt en heilar tennur líka."
+      "ar": "2008",
+      "texti": "Lewis Hamilton fór fram úr Timo Glock í síðustu beygjum brasilíska kappakstursins og tryggði sér heimsmeistaratitil ökumanna í Formúlu 1 með aðeins eins stigs mun."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1845",
-      "texti": "Árni Thorlacius hóf samfelldar veðurathuganir í Stykkishólmi. Þar er elsta veðurathugunarstöð landsins, svo Stykkishólmur hefur lengi haft tölur upp á það sem Íslendingar ræða mest.",
-      "landshluti": "Vesturland"
-    },
-    {
-      "ar": "1952",
-      "texti": "Síðustu íbúarnir fluttu frá Hesteyri á Hornströndum. Þar lauk heilsársbúsetu í þorpinu, en húsin og sagan standa áfram í hljóðri samræðu við fjöllin.",
-      "landshluti": "Vestfirðir"
-    },
-    {
-      "ar": "1977",
-      "texti": "Íslenska óperan var stofnuð og íslenskt tónlistarlíf fékk þar með nýjan og raddsterkan vettvang. Það má segja að dagurinn hafi verið tekinn með háa C-inu.",
+      "ar": "1906",
+      "texti": "Fyrsta kvikmyndahús Íslands hóf starfsemi í Fjalakettinum við Aðalstræti undir nafninu Reykjavíkur Biograftheater og varð síðar Gamla bíó.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2004",
-      "texti": "Eldgos hófst í Grímsvötnum um klukkan tíu að kvöldi. Jörðin beið sem sagt ekki eftir morgunfréttunum með tilkynninguna.",
-      "landshluti": "Suðurland"
+      "ar": "1912",
+      "texti": "Skátafélag Reykjavíkur var stofnað í Fjósinu, bakhúsi Menntaskólans í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1913",
+      "texti": "Morgunblaðið hóf göngu sína undir ritstjórn stofnandans Vilhjálms Finsen.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1941",
+      "texti": "Bandarískur Martin PBM-I Mariner-flugbátur fórst á Langahrygg í Fagradalsfjalli og með honum ellefu menn; þetta var þá mesta flugslys sem orðið hafði á Íslandi.",
+      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Anthony Kiedis",
-      "starfsgrein": "söngvari og lagahöfundur",
-      "ar": "1962"
+      "nafn": "Marie Antoinette",
+      "starfsgrein": "Frakklandsdrottning",
+      "ar": "1755"
     },
     {
-      "nafn": "Toni Collette",
-      "starfsgrein": "leikkona",
-      "ar": "1972"
+      "nafn": "Shah Rukh Khan",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1965"
     },
     {
-      "nafn": "Aishwarya Rai",
-      "starfsgrein": "leikkona og fyrirsæta",
-      "ar": "1973"
-    },
-    {
-      "nafn": "Tim Cook",
-      "starfsgrein": "viðskiptamaður og verkfræðingur",
-      "ar": "1960"
-    },
-    {
-      "nafn": "Penn Badgley",
+      "nafn": "David Schwimmer",
       "starfsgrein": "leikari",
-      "ar": "1986"
+      "ar": "1966"
+    },
+    {
+      "nafn": "Nelly",
+      "starfsgrein": "rappari",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Burt Lancaster",
+      "starfsgrein": "leikari",
+      "ar": "1913"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Jón Sigurbjörnsson",
-      "starfsgrein": "leikari og söngvari",
-      "ar": "1922"
+      "nafn": "Bergur Ebbi Benediktsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Ásgeir Blöndal Magnússon",
+      "starfsgrein": "málfræðingur og orðabókarhöfundur",
+      "ar": "1909"
+    },
+    {
+      "nafn": "Lúðvík Þorgeirsson",
+      "starfsgrein": "kaupmaður og íþróttaforystumaður",
+      "ar": "1910"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða íshokkímarkvörður gerði andlitsgrímuna fræga eftir að hafa fengið pökk í andlitið?",
+      "spurning": "Hvaða ófleygu fuglum lýsti ástralski herinn stríð á árið 1932?",
       "svor": [
-        "Jacques Plante",
-        "Stuart Skinner",
-        "Ken Miles",
-        "Vilhjálmur Einarsson"
+        "Emúum",
+        "Mörgæsum",
+        "Strútum",
+        "Kasuörum"
       ],
       "rett": 0,
-      "skyring": "Jacques Plante sneri aftur í markið með grímu og hjálpaði þannig til við að breyta öryggisbúnaði íshokkímarkvarða."
+      "skyring": "Emúarnir voru skotmarkið, þótt niðurstaðan hafi varla verið glæsilegur hernaðarsigur."
     },
     {
-      "spurning": "Í hvaða bæ hófust samfelldar veðurathuganir árið 1845?",
+      "spurning": "Hvar hóf fyrsta kvikmyndahús Íslands starfsemi?",
       "svor": [
-        "Akureyri",
-        "Stykkishólmi",
-        "Höfn",
-        "Ísafirði"
+        "Í Iðnó",
+        "Í Fjalakettinum",
+        "Í Alþingishúsinu",
+        "Í Fjósinu"
       ],
       "rett": 1,
-      "skyring": "Árni Thorlacius hóf athuganirnar í Stykkishólmi, þar sem veðrið hefur síðan fengið bæði athygli og bókhald."
+      "skyring": "Reykjavíkur Biograftheater opnaði í Fjalakettinum árið 1906."
     },
     {
-      "spurning": "Hver þessara afmælisbarna er söngvari og lagahöfundur?",
+      "spurning": "Hversu mikill var munurinn þegar Lewis Hamilton varð heimsmeistari árið 2008?",
       "svor": [
-        "Tim Cook",
-        "Penn Badgley",
-        "Anthony Kiedis",
-        "Toni Collette"
+        "Eitt stig",
+        "Tvö stig",
+        "Fimm stig",
+        "Tíu stig"
       ],
-      "rett": 2,
-      "skyring": "Anthony Kiedis er söngvari og lagahöfundur, vanur því að láta söguna hljóma dálítið rokkaðri."
+      "rett": 0,
+      "skyring": "Eitt örlítið stig skildi að heimsmeistaratitil og næstum því."
     }
   ],
-  "tonlistUSA": "Woman in Love – Barbra Streisand (1980)",
-  "tonlistUK": "Woman in Love – Barbra Streisand (1980)",
-  "bio": "Elvis on Tour (1972)",
+  "tonlistUSA": "Macarena (Bayside Boys Mix) – Los del Río (1996)",
+  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "bio": "Skrímsli hf. (2001)",
   "ord_dagsins": {
-    "ord": "gluggaveður",
-    "skyring": "Gluggaveður er veður sem virðist fallegt innan frá en reynist kaldara eða leiðinlegra þegar út er komið."
+    "ord": "andvari",
+    "skyring": "Andvari er hægur og mildur vindur."
   },
-  "vissir_thu": "Andlitsgríma Jacques Plante vakti fyrst mótspyrnu í íshokkíheiminum, en grímur urðu síðar skyldubúnaður markvarða.",
-  "stjornuspa": "Sporðdrekinn finnur í dag gamla ráðgátu þar sem aðrir sjá aðeins óraðaða skúffu; varastu þó að yfirheyra fjölskylduna út af týndum sokki. Kvöldið hentar vel fyrir dramatíska tónlist, sterkt kaffi og áætlanir sem mega bíða til morguns.",
+  "vissir_thu": "Fyrsta fastaáhöfn Alþjóðlegu geimstöðvarinnar var skipuð einum Bandaríkjamanni og tveimur Rússum.",
+  "stjornuspa": "Sporðdreki, gamalt leyndarmál gæti skotið upp kollinum eins og emúi úr kornakri, en þú kannt að mæta slíku með svip sem segir allt án þess að segja neitt. Haltu þínu striki og mundu að stundum ræður síðasta beygjan úrslitum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Empress_Matilda.png/330px-Empress_Matilda.png",
-    "ar": "1141",
-    "texti": "Matthildur keisaraynja leysti Stefán Englandskonung úr haldi og hann sleppti í staðinn Róbert af Gloucester, öflugasta stuðningsmanni hennar. Þessi fangaskipti framlengdu borgarastyrjöldina sem kölluð er Stjórnleysið — fremur óheppilegt framhald en snyrtilegur sögulokakafli.",
-    "heimild": "https://en.wikipedia.org/wiki/Empress_Matilda",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/500px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
+    "ar": "1880",
+    "texti": "James A. Garfield var kjörinn forseti Bandaríkjanna í kosningum sem enn eiga metið fyrir minnsta mun í heildaratkvæðafjölda.",
+    "heimild": "https://en.wikipedia.org/wiki/James_A._Garfield",
     "breidd": 330,
-    "haed": 524
+    "haed": 418
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-01",
+  "uppfaert": "2026-11-02",
   "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
