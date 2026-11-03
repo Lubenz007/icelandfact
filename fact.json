@@ -1,157 +1,152 @@
 {
-  "date": "2026-11-02",
-  "dagur": 2,
+  "date": "2026-11-03",
+  "dagur": 3,
   "manudur": "nóvember",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 306,
-  "sunrise": "09:13",
-  "sunset": "17:07",
-  "mmdd": "11-02",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 307,
+  "sunrise": "09:16",
+  "sunset": "17:04",
+  "mmdd": "11-03",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 2. nóvember! Í dag fljúgum við frá emústríðinu í Ástralíu upp í Alþjóðlegu geimstöðina, með viðkomu í Fjalakettinum og Formúlu 1 — sagan hefur greinilega aldrei kunnað að halda sig á einni akrein. Sporðdrekar mega taka daginn með ró; Lewis Hamilton vann jú heimsmeistaratitil með því að bíða alveg fram í síðustu beygjur.",
+  "kvedja": "Góðan og gleðilegan 3. nóvember! Í dag höldum við frá Kötlugosi og kvikmyndatjaldi yfir í geiminn, þar sem Laika varð frægasti ferfætti brautryðjandi sögunnar. Festið því beltin — sagan kann sjaldnast að aka rólega.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1880",
-      "texti": "James A. Garfield var kjörinn forseti Bandaríkjanna í kosningum sem enn eiga metið fyrir minnsta mun í heildaratkvæðafjölda."
+      "ar": "1534",
+      "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik 8. að yfirmanni ensku kirkjunnar í stað páfa. Þetta var skilnaður við Róm af stærri gerðinni."
     },
     {
-      "ar": "1917",
-      "texti": "Breska ríkisstjórnin gaf út Balfour-yfirlýsinguna og lýsti stuðningi við þjóðarheimili gyðinga í Palestínu, sem þá var hluti af Tyrkjaveldi."
+      "ar": "1793",
+      "texti": "Franska leikskáldið, blaðakonan og femínistinn Olympe de Gouges var hálshöggvin í frönsku byltingunni. Hún hafði ótrauð krafist réttinda kvenna á tímum þegar slíkt kostaði meira en hvassar athugasemdir."
     },
     {
-      "ar": "1932",
-      "texti": "Ástralski herinn hóf svonefnt emústríð gegn stórum hópum emúa sem ollu uppskerutjóni í Vestur-Ástralíu. Fuglarnir voru ófleygir en reyndust síður en svo auðsigraðir."
+      "ar": "1848",
+      "texti": "Ný stjórnarskrá, samin af Johan Rudolph Thorbecke, tók gildi í Hollandi og takmarkaði völd konungsveldisins. Krúnan sat áfram, en fékk minna svigrúm til að ráða ferðinni."
     },
     {
-      "ar": "2000",
-      "texti": "William Shepherd, Sergei Krikalev og Yuri Gidzenko komu til Alþjóðlegu geimstöðvarinnar sem fyrsta fastaáhöfn hennar. Þar með hófst nýr kafli í sambýli mannkyns og þyngdarleysis."
+      "ar": "1957",
+      "texti": "Sovétríkin skutu Spútnik 2 á loft með tíkina Laiku innanborðs, fyrstu lifandi veruna sem fór á braut um jörðu. Geimferðin var söguleg en örlög Laiku jafnframt átakanleg."
     },
     {
-      "ar": "2008",
-      "texti": "Lewis Hamilton fór fram úr Timo Glock í síðustu beygjum brasilíska kappakstursins og tryggði sér heimsmeistaratitil ökumanna í Formúlu 1 með aðeins eins stigs mun."
+      "ar": "1996",
+      "texti": "Tyrkneski þjóðernissinninn Abdullah Çatlı lést í bílslysi við Susurluk. Slysið hratt af stað hneyksli sem afhjúpaði djúp tengsl tyrkneskra ríkisstofnana við skipulagða glæpastarfsemi."
     }
   ],
   "atburdir_island": [
     {
+      "ar": "1660",
+      "texti": "Kötlugos hófst með miklum jarðskjálftum og jökulhlaupum og stóð fram á vetur. Katla minnti rækilega á að hún þarf enga lúðrasveit til að vekja athygli.",
+      "landshluti": "Suðurland"
+    },
+    {
       "ar": "1906",
-      "texti": "Fyrsta kvikmyndahús Íslands hóf starfsemi í Fjalakettinum við Aðalstræti undir nafninu Reykjavíkur Biograftheater og varð síðar Gamla bíó.",
+      "texti": "Reglulegar kvikmyndasýningar hófust í Reykjavík í Reykjavíkur Biograftheater, betur þekktu sem Fjalakettinum. Þar hófst nýr kafli í íslenskri bíómenningu — með flöktandi tjaldi en án streymisáskriftar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1912",
-      "texti": "Skátafélag Reykjavíkur var stofnað í Fjósinu, bakhúsi Menntaskólans í Reykjavík.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1968",
+      "texti": "Alþýðubandalagið var stofnað sem formlegur stjórnmálaflokkur eftir að hafa starfað sem kosningabandalag frá 1956.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1913",
-      "texti": "Morgunblaðið hóf göngu sína undir ritstjórn stofnandans Vilhjálms Finsen.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1941",
-      "texti": "Bandarískur Martin PBM-I Mariner-flugbátur fórst á Langahrygg í Fagradalsfjalli og með honum ellefu menn; þetta var þá mesta flugslys sem orðið hafði á Íslandi.",
-      "landshluti": "Reykjanes"
+      "ar": "1988",
+      "texti": "Ísland og hin fjögur norrænu ríkin undirrituðu sáttmála um stofnun Norræna þróunarsjóðsins.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Marie Antoinette",
-      "starfsgrein": "Frakklandsdrottning",
-      "ar": "1755"
+      "nafn": "Kendall Jenner",
+      "starfsgrein": "fyrirsæta og fjölmiðlastjarna",
+      "ar": "1995"
     },
     {
-      "nafn": "Shah Rukh Khan",
-      "starfsgrein": "leikari og kvikmyndaframleiðandi",
-      "ar": "1965"
+      "nafn": "Ian Wright",
+      "starfsgrein": "knattspyrnumaður og íþróttaskýrandi",
+      "ar": "1963"
     },
     {
-      "nafn": "David Schwimmer",
-      "starfsgrein": "leikari",
-      "ar": "1966"
+      "nafn": "Gabe Newell",
+      "starfsgrein": "tölvuleikjafrumkvöðull og meðstofnandi Valve",
+      "ar": "1962"
     },
     {
-      "nafn": "Nelly",
-      "starfsgrein": "rappari",
-      "ar": "1974"
+      "nafn": "Gerd Müller",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1945"
     },
     {
-      "nafn": "Burt Lancaster",
-      "starfsgrein": "leikari",
-      "ar": "1913"
+      "nafn": "Meiji keisari",
+      "starfsgrein": "keisari Japans",
+      "ar": "1852"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Bergur Ebbi Benediktsson",
-      "starfsgrein": "rithöfundur",
-      "ar": "1981"
+      "nafn": "Vilhjálmur Stefánsson",
+      "starfsgrein": "vesturíslenskur landkönnuður",
+      "ar": "1879"
     },
     {
-      "nafn": "Ásgeir Blöndal Magnússon",
-      "starfsgrein": "málfræðingur og orðabókarhöfundur",
-      "ar": "1909"
-    },
-    {
-      "nafn": "Lúðvík Þorgeirsson",
-      "starfsgrein": "kaupmaður og íþróttaforystumaður",
-      "ar": "1910"
+      "nafn": "Þórarinn Böðvar Egilson",
+      "starfsgrein": "útgerðarmaður",
+      "ar": "1881"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða ófleygu fuglum lýsti ástralski herinn stríð á árið 1932?",
+      "spurning": "Hvaða dýr fór á braut um jörðu með Spútnik 2 árið 1957?",
       "svor": [
-        "Emúum",
-        "Mörgæsum",
-        "Strútum",
-        "Kasuörum"
+        "Tíkin Laika",
+        "Kötturinn Felix",
+        "Apinn Ham",
+        "Hesturinn Búkefalos"
       ],
       "rett": 0,
-      "skyring": "Emúarnir voru skotmarkið, þótt niðurstaðan hafi varla verið glæsilegur hernaðarsigur."
+      "skyring": "Laika varð fyrsta lifandi veran sem fór á braut um jörðu."
     },
     {
-      "spurning": "Hvar hóf fyrsta kvikmyndahús Íslands starfsemi?",
+      "spurning": "Hvar hófust reglulegar kvikmyndasýningar í Reykjavík árið 1906?",
       "svor": [
-        "Í Iðnó",
-        "Í Fjalakettinum",
-        "Í Alþingishúsinu",
-        "Í Fjósinu"
+        "Gamla bíói",
+        "Fjalakettinum",
+        "Háskólabíói",
+        "Austurbæjarbíói"
       ],
       "rett": 1,
-      "skyring": "Reykjavíkur Biograftheater opnaði í Fjalakettinum árið 1906."
+      "skyring": "Reykjavíkur Biograftheater í Fjalakettinum bauð Reykvíkingum reglulega í bíó."
     },
     {
-      "spurning": "Hversu mikill var munurinn þegar Lewis Hamilton varð heimsmeistari árið 2008?",
+      "spurning": "Hvaða eldfjall hóf að gjósa 3. nóvember 1660?",
       "svor": [
-        "Eitt stig",
-        "Tvö stig",
-        "Fimm stig",
-        "Tíu stig"
+        "Hekla",
+        "Askja",
+        "Katla",
+        "Snæfellsjökull"
       ],
-      "rett": 0,
-      "skyring": "Eitt örlítið stig skildi að heimsmeistaratitil og næstum því."
+      "rett": 2,
+      "skyring": "Katla hóf gos með jarðskjálftum og jökulhlaupum og lét ekki staðar numið fyrr en um veturinn."
     }
   ],
-  "tonlistUSA": "Macarena (Bayside Boys Mix) – Los del Río (1996)",
-  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
-  "bio": "Skrímsli hf. (2001)",
+  "tonlistUSA": "Caribbean Queen (No More Love on the Run) – Billy Ocean (1984)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "Godzilla (1954)",
   "ord_dagsins": {
-    "ord": "andvari",
-    "skyring": "Andvari er hægur og mildur vindur."
+    "ord": "uppivöðslusemi",
+    "skyring": "Uppivöðslusemi er frek eða ágeng framkoma þar sem maður ryðst áfram án mikillar tillitssemi."
   },
-  "vissir_thu": "Fyrsta fastaáhöfn Alþjóðlegu geimstöðvarinnar var skipuð einum Bandaríkjamanni og tveimur Rússum.",
-  "stjornuspa": "Sporðdreki, gamalt leyndarmál gæti skotið upp kollinum eins og emúi úr kornakri, en þú kannt að mæta slíku með svip sem segir allt án þess að segja neitt. Haltu þínu striki og mundu að stundum ræður síðasta beygjan úrslitum.",
+  "vissir_thu": "Laika var flækingshundur af götum Moskvu áður en hún var valin til geimferðarinnar með Spútnik 2.",
+  "stjornuspa": "Sporðdreki, segulband lífsins virðist hafa flækst, en þú kannt betur en flestir að vinda það upp með blýanti og þrjósku. Leyndardómsfullt augnaráð þitt opnar dyr í dag — eða fær að minnsta kosti síðasta vínarbrauðið.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/James_Abram_Garfield%2C_photo_portrait_seated.jpg/500px-James_Abram_Garfield%2C_photo_portrait_seated.jpg",
-    "ar": "1880",
-    "texti": "James A. Garfield var kjörinn forseti Bandaríkjanna í kosningum sem enn eiga metið fyrir minnsta mun í heildaratkvæðafjölda.",
-    "heimild": "https://en.wikipedia.org/wiki/James_A._Garfield",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Coat_of_Arms_of_England_%28-1340%29.svg/500px-Coat_of_Arms_of_England_%28-1340%29.svg.png",
+    "ar": "1534",
+    "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik 8. að yfirmanni ensku kirkjunnar í stað páfa. Þetta var skilnaður við Róm af stærri gerðinni.",
+    "heimild": "https://en.wikipedia.org/wiki/Parliament_of_England",
     "breidd": 330,
-    "haed": 418
+    "haed": 423
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-02",
-  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-03",
+  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

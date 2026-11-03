@@ -6,77 +6,77 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:15",
   "sunset": "17:04",
-  "kvedja": "Góðan 3. nóvember! Í dag skilja Hinrik VIII og páfinn að skiptum, Godzilla stígur á hvíta tjaldið og Laika fer lengra í göngutúr en nokkur hundur hafði áður gert. Sagan kann svo sannarlega að blanda saman dramatík, skrímslum og örlitlu geimryki.",
+  "kvedja": "Góðan og gleðilegan 3. nóvember! Í dag höldum við frá Kötlugosi og kvikmyndatjaldi yfir í geiminn, þar sem Laika varð frægasti ferfætti brautryðjandi sögunnar. Festið því beltin — sagan kann sjaldnast að aka rólega.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1534",
-      "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik VIII að æðsta yfirmanni ensku kirkjunnar. Páfinn var þar með settur út fyrir sviga í enskum kirkjumálum."
+      "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik 8. að yfirmanni ensku kirkjunnar í stað páfa. Þetta var skilnaður við Róm af stærri gerðinni."
     },
     {
       "ar": "1793",
-      "texti": "Franska leikskáldið, blaðakonan og femínistinn Olympe de Gouges var tekin af lífi í fallöxinni. Hún hafði meðal annars krafist þess að réttindi byltingarinnar næðu jafnt til kvenna."
+      "texti": "Franska leikskáldið, blaðakonan og femínistinn Olympe de Gouges var hálshöggvin í frönsku byltingunni. Hún hafði ótrauð krafist réttinda kvenna á tímum þegar slíkt kostaði meira en hvassar athugasemdir."
     },
     {
       "ar": "1848",
-      "texti": "Ný stjórnarskrá, samin af Johan Rudolph Thorbecke, var birt í Hollandi og dró verulega úr völdum konungs. Hollenska konungsveldið fékk þannig rammari skorður og þingræðið meira olnbogarými."
-    },
-    {
-      "ar": "1954",
-      "texti": "Fyrsta kvikmyndin um risaskrímslið Godzilla var frumsýnd um allt Japan. Þar hófst langur ferill kvikmyndaskrímslis sem hefur síðan troðið niður ófá pappalíkön af stórborgum."
+      "texti": "Ný stjórnarskrá, samin af Johan Rudolph Thorbecke, tók gildi í Hollandi og takmarkaði völd konungsveldisins. Krúnan sat áfram, en fékk minna svigrúm til að ráða ferðinni."
     },
     {
       "ar": "1957",
-      "texti": "Sovétríkin skutu Spútnik 2 á loft með tíkina Laiku innanborðs. Hún varð fyrsta lifandi veran til að komast á sporbraut um jörðu."
+      "texti": "Sovétríkin skutu Spútnik 2 á loft með tíkina Laiku innanborðs, fyrstu lifandi veruna sem fór á braut um jörðu. Geimferðin var söguleg en örlög Laiku jafnframt átakanleg."
+    },
+    {
+      "ar": "1996",
+      "texti": "Tyrkneski þjóðernissinninn Abdullah Çatlı lést í bílslysi við Susurluk. Slysið hratt af stað hneyksli sem afhjúpaði djúp tengsl tyrkneskra ríkisstofnana við skipulagða glæpastarfsemi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1660",
-      "texti": "Kötlugos hófst með miklum jarðskjálftum og jökulhlaupum og stóð fram á vetur. Katla minnti þannig rækilega á sig, eins og henni er lagið.",
+      "texti": "Kötlugos hófst með miklum jarðskjálftum og jökulhlaupum og stóð fram á vetur. Katla minnti rækilega á að hún þarf enga lúðrasveit til að vekja athygli.",
       "landshluti": "Suðurland"
     },
     {
       "ar": "1906",
-      "texti": "Reglulegar kvikmyndasýningar hófust í Reykjavík í Reykjavíkur Biograftheater, betur þekktu sem Fjalakettinum. Þar eignaðist hvíta tjaldið fastan samastað í bæjarlífinu.",
+      "texti": "Reglulegar kvikmyndasýningar hófust í Reykjavík í Reykjavíkur Biograftheater, betur þekktu sem Fjalakettinum. Þar hófst nýr kafli í íslenskri bíómenningu — með flöktandi tjaldi en án streymisáskriftar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1968",
-      "texti": "Alþýðubandalagið var stofnað sem formlegur stjórnmálaflokkur eftir að hafa starfað sem kosningabandalag frá árinu 1956.",
+      "texti": "Alþýðubandalagið var stofnað sem formlegur stjórnmálaflokkur eftir að hafa starfað sem kosningabandalag frá 1956.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1978",
-      "texti": "Megas hélt hina frægu tónleika Drög að sjálfsmorði í Menntaskólanum við Hamrahlíð. Titillinn var þungur, en tónleikarnir urðu eftirminnilegur hluti íslenskrar tónlistarsögu.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1988",
+      "texti": "Ísland og hin fjögur norrænu ríkin undirrituðu sáttmála um stofnun Norræna þróunarsjóðsins.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Adolf Dassler",
-      "starfsgrein": "þýskur athafnamaður og stofnandi Adidas",
-      "ar": "1900"
+      "nafn": "Kendall Jenner",
+      "starfsgrein": "fyrirsæta og fjölmiðlastjarna",
+      "ar": "1995"
     },
     {
-      "nafn": "Amartya Sen",
-      "starfsgrein": "indverskur hagfræðingur og Nóbelsverðlaunahafi",
-      "ar": "1933"
+      "nafn": "Ian Wright",
+      "starfsgrein": "knattspyrnumaður og íþróttaskýrandi",
+      "ar": "1963"
     },
     {
-      "nafn": "Aurangzeb",
-      "starfsgrein": "keisari Mógúlveldisins á Indlandi",
-      "ar": "1618"
+      "nafn": "Gabe Newell",
+      "starfsgrein": "tölvuleikjafrumkvöðull og meðstofnandi Valve",
+      "ar": "1962"
     },
     {
-      "nafn": "Benvenuto Cellini",
-      "starfsgrein": "ítalskur myndhöggvari og listmálari",
-      "ar": "1500"
+      "nafn": "Gerd Müller",
+      "starfsgrein": "knattspyrnumaður og þjálfari",
+      "ar": "1945"
     },
     {
-      "nafn": "Courtney Barnett",
-      "starfsgrein": "áströlsk söngkona, lagahöfundur og gítarleikari",
-      "ar": "1987"
+      "nafn": "Meiji keisari",
+      "starfsgrein": "keisari Japans",
+      "ar": "1852"
     }
   ],
   "afmaeli_island": [
@@ -87,62 +87,62 @@
     },
     {
       "nafn": "Þórarinn Böðvar Egilson",
-      "starfsgrein": "íslenskur útgerðarmaður",
+      "starfsgrein": "útgerðarmaður",
       "ar": "1881"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða ferfætti geimfari fór á sporbraut með Spútnik 2?",
+      "spurning": "Hvaða dýr fór á braut um jörðu með Spútnik 2 árið 1957?",
       "svor": [
-        "Laika",
-        "Snati",
-        "Lassie",
-        "Godzilla"
+        "Tíkin Laika",
+        "Kötturinn Felix",
+        "Apinn Ham",
+        "Hesturinn Búkefalos"
       ],
       "rett": 0,
-      "skyring": "Laika varð fyrsta lifandi veran til að komast á sporbraut um jörðu."
-    },
-    {
-      "spurning": "Hvaða kvikmyndaskrímsli steig fyrst á japönsk hvítt tjald 3. nóvember 1954?",
-      "svor": [
-        "King Kong",
-        "Godzilla",
-        "Drakúla",
-        "Múmínpabbi"
-      ],
-      "rett": 1,
-      "skyring": "Godzilla hóf þennan dag feril sem ein þekktasta risaeðla kvikmyndanna."
+      "skyring": "Laika varð fyrsta lifandi veran sem fór á braut um jörðu."
     },
     {
       "spurning": "Hvar hófust reglulegar kvikmyndasýningar í Reykjavík árið 1906?",
       "svor": [
-        "Í Háskólabíói",
-        "Í Austurbæjarbíói",
-        "Í Fjalakettinum",
-        "Í Gamla bíói"
+        "Gamla bíói",
+        "Fjalakettinum",
+        "Háskólabíói",
+        "Austurbæjarbíói"
+      ],
+      "rett": 1,
+      "skyring": "Reykjavíkur Biograftheater í Fjalakettinum bauð Reykvíkingum reglulega í bíó."
+    },
+    {
+      "spurning": "Hvaða eldfjall hóf að gjósa 3. nóvember 1660?",
+      "svor": [
+        "Hekla",
+        "Askja",
+        "Katla",
+        "Snæfellsjökull"
       ],
       "rett": 2,
-      "skyring": "Reykjavíkur Biograftheater í Fjalakettinum varð vettvangur reglulegra kvikmyndasýninga."
+      "skyring": "Katla hóf gos með jarðskjálftum og jökulhlaupum og lét ekki staðar numið fyrr en um veturinn."
     }
   ],
   "tonlistUSA": "Caribbean Queen (No More Love on the Run) – Billy Ocean (1984)",
   "tonlistUK": "Freedom – Wham! (1984)",
   "bio": "Godzilla (1954)",
   "ord_dagsins": {
-    "ord": "glapsýn",
-    "skyring": "Glapsýn er röng eða villandi sýn á mál, nokkurs konar dómgreindarvilla í sparifötum."
+    "ord": "uppivöðslusemi",
+    "skyring": "Uppivöðslusemi er frek eða ágeng framkoma þar sem maður ryðst áfram án mikillar tillitssemi."
   },
-  "vissir_thu": "Laika var fyrsta lifandi veran sem fór á sporbraut um jörðu, en hún var ekki fyrsta dýrið sem fór út í geim.",
-  "stjornuspa": "Sporðdreki, dulúð þín er svo sterk í dag að jafnvel Hinrik VIII myndi biðja um skriflegt leyfi áður en hann truflaði þig. Forðastu þó að gera Godzilla úr smávægilegu ágreiningsefni — tebolli og rólegt samtal duga oft betur.",
+  "vissir_thu": "Laika var flækingshundur af götum Moskvu áður en hún var valin til geimferðarinnar með Spútnik 2.",
+  "stjornuspa": "Sporðdreki, segulband lífsins virðist hafa flækst, en þú kannt betur en flestir að vinda það upp með blýanti og þrjósku. Leyndardómsfullt augnaráð þitt opnar dyr í dag — eða fær að minnsta kosti síðasta vínarbrauðið.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Coat_of_Arms_of_England_%28-1340%29.svg/500px-Coat_of_Arms_of_England_%28-1340%29.svg.png",
     "ar": "1534",
-    "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik VIII að æðsta yfirmanni ensku kirkjunnar. Páfinn var þar með settur út fyrir sviga í enskum kirkjumálum.",
+    "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik 8. að yfirmanni ensku kirkjunnar í stað páfa. Þetta var skilnaður við Róm af stærri gerðinni.",
     "heimild": "https://en.wikipedia.org/wiki/Parliament_of_England",
     "breidd": 330,
     "haed": 423
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-11-03"
 }
