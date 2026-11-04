@@ -6,62 +6,62 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:19",
   "sunset": "17:01",
-  "kvedja": "Góðan 4. nóvember! Í dag liggur leiðin frá grafhýsi Tútankhamons niður í fyrstu djúplest Lundúna og þaðan rakleiðis á forsetakjörstað — sagan kann sannarlega að skipta um sviðsmynd án þess að blikka. Helltu upp á eitthvað gott og komdu með; hér er nóg að grafa upp, jafnvel án haka og skóflu.",
+  "kvedja": "Góðan 4. nóvember! Í dag förum við úr neðanjarðarlest í London yfir í grafhýsi faraós og endum við loftslagssamning í París — sagan kann sannarlega að skipta um vagn án fyrirvara. Sporðdrekinn má svo halda um stýrið, en helst ekki stinga samferðafólkið.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1780",
-      "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestíska bænda gegn umbótum Búrbóna í spænska varakonungsdæminu Perú. Þetta varð eitt þekktasta andóf frumbyggja gegn nýlendustjórn á svæðinu."
+      "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestísabænda gegn Bourbon-umbótunum í spænska varakonungsdæminu Perú. Þetta varð upphaf umfangsmikillar andspyrnu gegn nýlendustjórninni."
     },
     {
       "ar": "1890",
-      "texti": "City and South London Railway var formlega opnuð milli Lundúnaborgar og Stockwell. Hún var fyrsta djúplesta heims og teygði sig 5,1 kílómetra — stutt ferð sem markaði stórt spor neðanjarðar."
+      "texti": "City and South London Railway var formlega opnuð milli Lundúnaborgar og Stockwell. Hún var fyrsta djúplæga neðanjarðarlestakerfi heims — og Lundúnabúar höfðu loks fengið nýja leið til að forðast veðrið."
     },
     {
       "ar": "1922",
-      "texti": "Leiðangur undir stjórn breska Egyptalandsfræðingsins Howards Carter fann grafhýsi Tútankhamons. Þar með opnaðist bókstaflega dyragætt að einni frægustu fornleifauppgötvun 20. aldar."
+      "texti": "Hópur undir stjórn breska Egyptalandsfræðingsins Howards Carter fann grafhýsi Tútankamons. Uppgötvunin varð ein sú frægasta í sögu fornleifafræðinnar."
     },
     {
       "ar": "1995",
-      "texti": "Yitzhak Rabin, forsætisráðherra Ísraels, var myrtur af hægriöfgamanninum Yigal Amir eftir friðarsamkomu á Konungatorgi Ísraels í Tel Aviv. Morðið varð þungt áfall fyrir friðarferlið í Mið-Austurlöndum."
+      "texti": "Ísraelski forsætisráðherrann Yitzhak Rabin var myrtur af hægriöfgamanninum Yigal Amir eftir friðarfund í Tel Aviv. Morðið varð þungt áfall fyrir friðarumleitanir Ísraela og Palestínumanna."
     },
     {
-      "ar": "2008",
-      "texti": "Barack Obama var kjörinn forseti Bandaríkjanna, fyrstur manna af blönduðum eða afrísk-amerískum uppruna til að ná því embætti. Kosningakvöldið varð samstundis hluti af stjórnmálasögunni."
+      "ar": "2016",
+      "texti": "Parísarsamningurinn um loftslagsmál tók gildi undir merkjum Loftslagssamnings Sameinuðu þjóðanna. Þar með varð alþjóðlegt loforð um aðgerðir gegn hlýnun jarðar formlega virkt."
     }
   ],
   "atburdir_island": [],
   "afmaeli": [
     {
+      "nafn": "Matthew McConaughey",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1969"
+    },
+    {
+      "nafn": "Ralph Macchio",
+      "starfsgrein": "leikari",
+      "ar": "1961"
+    },
+    {
+      "nafn": "Luís Figo",
+      "starfsgrein": "knattspyrnumaður og íþróttafréttamaður",
+      "ar": "1972"
+    },
+    {
       "nafn": "Achraf Hakimi",
-      "starfsgrein": "marokkóskur knattspyrnumaður",
+      "starfsgrein": "knattspyrnumaður",
       "ar": "1998"
     },
     {
-      "nafn": "Art Carney",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1918"
-    },
-    {
-      "nafn": "Anthony Ruivivar",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1970"
-    },
-    {
-      "nafn": "Alexz Johnson",
-      "starfsgrein": "kanadísk leikkona og söngvaskáld",
-      "ar": "1986"
-    },
-    {
-      "nafn": "Alfonso II af Napólí",
-      "starfsgrein": "konungur Napólí",
-      "ar": "1448"
+      "nafn": "Walter Cronkite",
+      "starfsgrein": "fréttamaður og sjónvarpsmaður",
+      "ar": "1916"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Jóhannes úr Kötlum",
-      "starfsgrein": "skáld",
+      "starfsgrein": "skáld og rithöfundur",
       "ar": "1899"
     },
     {
@@ -77,56 +77,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hver stýrði teyminu sem fann grafhýsi Tútankhamons árið 1922?",
+      "spurning": "Hvaða fornfræga gersemi fann hópur Howards Carter árið 1922?",
       "svor": [
-        "Howard Carter",
-        "Art Carney",
-        "Alfred Lee Loomis",
-        "Barack Obama"
+        "Grafhýsi Tútankamons",
+        "Borgina Pompeii",
+        "Rosetta-steininn",
+        "Höll Knossos"
       ],
       "rett": 0,
-      "skyring": "Howard Carter leiddi leiðangurinn sem fann grafhýsið — fornleifafræðilegt lukkupottakast."
+      "skyring": "Grafhýsi Tútankamons kom aftur í dagsljósið eftir meira en þrjú árþúsund í felum."
     },
     {
-      "spurning": "Hvaða afmælisbarn varð tvöfaldur Evrópumeistari í kúluvarpi?",
+      "spurning": "Hvaða samgöngunýjung var opnuð í London árið 1890?",
       "svor": [
-        "Jóhannes úr Kötlum",
-        "Gunnar Huseby",
-        "Ottó N. Þorláksson",
-        "Achraf Hakimi"
+        "Fyrsta rafknúna sporvagnaleið Evrópu",
+        "Fyrsta djúplæga neðanjarðarlest heims",
+        "Fyrstu almenningsreiðhjól borgarinnar",
+        "Fyrsta gufuknúna leigubifreiðin"
       ],
       "rett": 1,
-      "skyring": "Gunnar Huseby varð tvöfaldur Evrópumeistari og lét kúluna tala sínu máli."
+      "skyring": "City and South London Railway var fyrsta djúplæga neðanjarðarlestin í heiminum."
     },
     {
-      "spurning": "Hvaða tímamót urðu í forsetakosningunum í Bandaríkjunum árið 2008?",
+      "spurning": "Hvaða afmælisbarn dagsins varð tvöfaldur Evrópumeistari í kúluvarpi?",
       "svor": [
-        "Fyrsta konan var kjörin forseti",
-        "Fyrsti sitjandi forsetinn tapaði öllum ríkjum",
-        "Barack Obama varð fyrsti forsetinn af blönduðum eða afrísk-amerískum uppruna",
-        "Kosningunum var frestað um eitt ár"
+        "Ottó N. Þorláksson",
+        "Jóhannes úr Kötlum",
+        "Gunnar Huseby",
+        "Walter Cronkite"
       ],
       "rett": 2,
-      "skyring": "Barack Obama braut sögulegan múr með kjöri sínu árið 2008."
+      "skyring": "Gunnar Huseby var afreksmaður í kúluvarpi og vann Evrópumeistaratitilinn tvisvar."
     }
   ],
-  "tonlistUSA": "It's Now or Never – Elvis Presley (1960)",
-  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
-  "bio": "The Incredibles (2004)",
+  "tonlistUSA": "Fantasy – Mariah Carey (1995)",
+  "tonlistUK": "Gangsta's Paradise – Coolio feat. L.V. (1995)",
+  "bio": "Bohemian Rhapsody (2018)",
   "ord_dagsins": {
-    "ord": "fornleif",
-    "skyring": "Fornleif er varðveitt ummerki um mannlíf frá fyrri tíð, til dæmis hlutur, mannvirki eða gröf."
+    "ord": "dægurþras",
+    "skyring": "Dægurþras er hversdagslegt karp eða þrætur um mál líðandi stundar."
   },
-  "vissir_thu": "City and South London Railway, sem opnaði 4. nóvember 1890, var fyrsta djúplesta heims og er hluti af Northern-línu Lundúnaneðanjarðarlestarinnar í dag.",
-  "stjornuspa": "Sporðdreki, dragðu fram gamla vasadagatalið og treystu innsæinu; það veit meira en reiknivélin í skrifborðsskúffunni. Leyndarmál gæti komið í ljós, en sýndu meiri stillingu en fornleifafræðingur með nýfundna hurð.",
+  "vissir_thu": "Þegar grafhýsi Tútankamons fannst 4. nóvember 1922 var það fyrsta trappan að innganginum sem kom í ljós; Howard Carter leit ekki inn í innri hluta grafhýsisins fyrr en síðar í mánuðinum.",
+  "stjornuspa": "Sporðdreki, gömul ráðgáta dúkkar upp eins og grafhýsi úr sandi, en lausnin gæti reynst miklu hversdagslegri en bölvun faraós. Haltu dulúðinni, en mundu að svara skilaboðum áður en þau verða sjálf að sögulegum heimildum.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/TupacAmaruII.jpg",
     "ar": "1780",
-    "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestíska bænda gegn umbótum Búrbóna í spænska varakonungsdæminu Perú. Þetta varð eitt þekktasta andóf frumbyggja gegn nýlendustjórn á svæðinu.",
+    "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestísabænda gegn Bourbon-umbótunum í spænska varakonungsdæminu Perú. Þetta varð upphaf umfangsmikillar andspyrnu gegn nýlendustjórninni.",
     "heimild": "https://en.wikipedia.org/wiki/Túpac_Amaru_II",
     "breidd": 297,
     "haed": 500
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-11-04"
 }

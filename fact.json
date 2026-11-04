@@ -1,152 +1,136 @@
 {
-  "date": "2026-11-03",
-  "dagur": 3,
+  "date": "2026-11-04",
+  "dagur": 4,
   "manudur": "nóvember",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 307,
-  "sunrise": "09:16",
-  "sunset": "17:04",
-  "mmdd": "11-03",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 308,
+  "sunrise": "09:20",
+  "sunset": "17:01",
+  "mmdd": "11-04",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan og gleðilegan 3. nóvember! Í dag höldum við frá Kötlugosi og kvikmyndatjaldi yfir í geiminn, þar sem Laika varð frægasti ferfætti brautryðjandi sögunnar. Festið því beltin — sagan kann sjaldnast að aka rólega.",
+  "kvedja": "Góðan 4. nóvember! Í dag förum við úr neðanjarðarlest í London yfir í grafhýsi faraós og endum við loftslagssamning í París — sagan kann sannarlega að skipta um vagn án fyrirvara. Sporðdrekinn má svo halda um stýrið, en helst ekki stinga samferðafólkið.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1534",
-      "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik 8. að yfirmanni ensku kirkjunnar í stað páfa. Þetta var skilnaður við Róm af stærri gerðinni."
+      "ar": "1780",
+      "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestísabænda gegn Bourbon-umbótunum í spænska varakonungsdæminu Perú. Þetta varð upphaf umfangsmikillar andspyrnu gegn nýlendustjórninni."
     },
     {
-      "ar": "1793",
-      "texti": "Franska leikskáldið, blaðakonan og femínistinn Olympe de Gouges var hálshöggvin í frönsku byltingunni. Hún hafði ótrauð krafist réttinda kvenna á tímum þegar slíkt kostaði meira en hvassar athugasemdir."
+      "ar": "1890",
+      "texti": "City and South London Railway var formlega opnuð milli Lundúnaborgar og Stockwell. Hún var fyrsta djúplæga neðanjarðarlestakerfi heims — og Lundúnabúar höfðu loks fengið nýja leið til að forðast veðrið."
     },
     {
-      "ar": "1848",
-      "texti": "Ný stjórnarskrá, samin af Johan Rudolph Thorbecke, tók gildi í Hollandi og takmarkaði völd konungsveldisins. Krúnan sat áfram, en fékk minna svigrúm til að ráða ferðinni."
+      "ar": "1922",
+      "texti": "Hópur undir stjórn breska Egyptalandsfræðingsins Howards Carter fann grafhýsi Tútankamons. Uppgötvunin varð ein sú frægasta í sögu fornleifafræðinnar."
     },
     {
-      "ar": "1957",
-      "texti": "Sovétríkin skutu Spútnik 2 á loft með tíkina Laiku innanborðs, fyrstu lifandi veruna sem fór á braut um jörðu. Geimferðin var söguleg en örlög Laiku jafnframt átakanleg."
+      "ar": "1995",
+      "texti": "Ísraelski forsætisráðherrann Yitzhak Rabin var myrtur af hægriöfgamanninum Yigal Amir eftir friðarfund í Tel Aviv. Morðið varð þungt áfall fyrir friðarumleitanir Ísraela og Palestínumanna."
     },
     {
-      "ar": "1996",
-      "texti": "Tyrkneski þjóðernissinninn Abdullah Çatlı lést í bílslysi við Susurluk. Slysið hratt af stað hneyksli sem afhjúpaði djúp tengsl tyrkneskra ríkisstofnana við skipulagða glæpastarfsemi."
+      "ar": "2016",
+      "texti": "Parísarsamningurinn um loftslagsmál tók gildi undir merkjum Loftslagssamnings Sameinuðu þjóðanna. Þar með varð alþjóðlegt loforð um aðgerðir gegn hlýnun jarðar formlega virkt."
     }
   ],
-  "atburdir_island": [
-    {
-      "ar": "1660",
-      "texti": "Kötlugos hófst með miklum jarðskjálftum og jökulhlaupum og stóð fram á vetur. Katla minnti rækilega á að hún þarf enga lúðrasveit til að vekja athygli.",
-      "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1906",
-      "texti": "Reglulegar kvikmyndasýningar hófust í Reykjavík í Reykjavíkur Biograftheater, betur þekktu sem Fjalakettinum. Þar hófst nýr kafli í íslenskri bíómenningu — með flöktandi tjaldi en án streymisáskriftar.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1968",
-      "texti": "Alþýðubandalagið var stofnað sem formlegur stjórnmálaflokkur eftir að hafa starfað sem kosningabandalag frá 1956.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1988",
-      "texti": "Ísland og hin fjögur norrænu ríkin undirrituðu sáttmála um stofnun Norræna þróunarsjóðsins.",
-      "landshluti": "Landið allt"
-    }
-  ],
+  "atburdir_island": [],
   "afmaeli": [
     {
-      "nafn": "Kendall Jenner",
-      "starfsgrein": "fyrirsæta og fjölmiðlastjarna",
-      "ar": "1995"
+      "nafn": "Matthew McConaughey",
+      "starfsgrein": "leikari og kvikmyndaframleiðandi",
+      "ar": "1969"
     },
     {
-      "nafn": "Ian Wright",
-      "starfsgrein": "knattspyrnumaður og íþróttaskýrandi",
-      "ar": "1963"
+      "nafn": "Ralph Macchio",
+      "starfsgrein": "leikari",
+      "ar": "1961"
     },
     {
-      "nafn": "Gabe Newell",
-      "starfsgrein": "tölvuleikjafrumkvöðull og meðstofnandi Valve",
-      "ar": "1962"
+      "nafn": "Luís Figo",
+      "starfsgrein": "knattspyrnumaður og íþróttafréttamaður",
+      "ar": "1972"
     },
     {
-      "nafn": "Gerd Müller",
-      "starfsgrein": "knattspyrnumaður og þjálfari",
-      "ar": "1945"
+      "nafn": "Achraf Hakimi",
+      "starfsgrein": "knattspyrnumaður",
+      "ar": "1998"
     },
     {
-      "nafn": "Meiji keisari",
-      "starfsgrein": "keisari Japans",
-      "ar": "1852"
+      "nafn": "Walter Cronkite",
+      "starfsgrein": "fréttamaður og sjónvarpsmaður",
+      "ar": "1916"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Vilhjálmur Stefánsson",
-      "starfsgrein": "vesturíslenskur landkönnuður",
-      "ar": "1879"
+      "nafn": "Jóhannes úr Kötlum",
+      "starfsgrein": "skáld og rithöfundur",
+      "ar": "1899"
     },
     {
-      "nafn": "Þórarinn Böðvar Egilson",
-      "starfsgrein": "útgerðarmaður",
-      "ar": "1881"
+      "nafn": "Gunnar Huseby",
+      "starfsgrein": "frjálsíþróttamaður og tvöfaldur Evrópumeistari í kúluvarpi",
+      "ar": "1923"
+    },
+    {
+      "nafn": "Ottó N. Þorláksson",
+      "starfsgrein": "verkalýðsfrömuður og fyrsti forseti ASÍ",
+      "ar": "1871"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða dýr fór á braut um jörðu með Spútnik 2 árið 1957?",
+      "spurning": "Hvaða fornfræga gersemi fann hópur Howards Carter árið 1922?",
       "svor": [
-        "Tíkin Laika",
-        "Kötturinn Felix",
-        "Apinn Ham",
-        "Hesturinn Búkefalos"
+        "Grafhýsi Tútankamons",
+        "Borgina Pompeii",
+        "Rosetta-steininn",
+        "Höll Knossos"
       ],
       "rett": 0,
-      "skyring": "Laika varð fyrsta lifandi veran sem fór á braut um jörðu."
+      "skyring": "Grafhýsi Tútankamons kom aftur í dagsljósið eftir meira en þrjú árþúsund í felum."
     },
     {
-      "spurning": "Hvar hófust reglulegar kvikmyndasýningar í Reykjavík árið 1906?",
+      "spurning": "Hvaða samgöngunýjung var opnuð í London árið 1890?",
       "svor": [
-        "Gamla bíói",
-        "Fjalakettinum",
-        "Háskólabíói",
-        "Austurbæjarbíói"
+        "Fyrsta rafknúna sporvagnaleið Evrópu",
+        "Fyrsta djúplæga neðanjarðarlest heims",
+        "Fyrstu almenningsreiðhjól borgarinnar",
+        "Fyrsta gufuknúna leigubifreiðin"
       ],
       "rett": 1,
-      "skyring": "Reykjavíkur Biograftheater í Fjalakettinum bauð Reykvíkingum reglulega í bíó."
+      "skyring": "City and South London Railway var fyrsta djúplæga neðanjarðarlestin í heiminum."
     },
     {
-      "spurning": "Hvaða eldfjall hóf að gjósa 3. nóvember 1660?",
+      "spurning": "Hvaða afmælisbarn dagsins varð tvöfaldur Evrópumeistari í kúluvarpi?",
       "svor": [
-        "Hekla",
-        "Askja",
-        "Katla",
-        "Snæfellsjökull"
+        "Ottó N. Þorláksson",
+        "Jóhannes úr Kötlum",
+        "Gunnar Huseby",
+        "Walter Cronkite"
       ],
       "rett": 2,
-      "skyring": "Katla hóf gos með jarðskjálftum og jökulhlaupum og lét ekki staðar numið fyrr en um veturinn."
+      "skyring": "Gunnar Huseby var afreksmaður í kúluvarpi og vann Evrópumeistaratitilinn tvisvar."
     }
   ],
-  "tonlistUSA": "Caribbean Queen (No More Love on the Run) – Billy Ocean (1984)",
-  "tonlistUK": "Freedom – Wham! (1984)",
-  "bio": "Godzilla (1954)",
+  "tonlistUSA": "Fantasy – Mariah Carey (1995)",
+  "tonlistUK": "Gangsta's Paradise – Coolio feat. L.V. (1995)",
+  "bio": "Bohemian Rhapsody (2018)",
   "ord_dagsins": {
-    "ord": "uppivöðslusemi",
-    "skyring": "Uppivöðslusemi er frek eða ágeng framkoma þar sem maður ryðst áfram án mikillar tillitssemi."
+    "ord": "dægurþras",
+    "skyring": "Dægurþras er hversdagslegt karp eða þrætur um mál líðandi stundar."
   },
-  "vissir_thu": "Laika var flækingshundur af götum Moskvu áður en hún var valin til geimferðarinnar með Spútnik 2.",
-  "stjornuspa": "Sporðdreki, segulband lífsins virðist hafa flækst, en þú kannt betur en flestir að vinda það upp með blýanti og þrjósku. Leyndardómsfullt augnaráð þitt opnar dyr í dag — eða fær að minnsta kosti síðasta vínarbrauðið.",
+  "vissir_thu": "Þegar grafhýsi Tútankamons fannst 4. nóvember 1922 var það fyrsta trappan að innganginum sem kom í ljós; Howard Carter leit ekki inn í innri hluta grafhýsisins fyrr en síðar í mánuðinum.",
+  "stjornuspa": "Sporðdreki, gömul ráðgáta dúkkar upp eins og grafhýsi úr sandi, en lausnin gæti reynst miklu hversdagslegri en bölvun faraós. Haltu dulúðinni, en mundu að svara skilaboðum áður en þau verða sjálf að sögulegum heimildum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Coat_of_Arms_of_England_%28-1340%29.svg/500px-Coat_of_Arms_of_England_%28-1340%29.svg.png",
-    "ar": "1534",
-    "texti": "Enska þingið samþykkti fyrstu lögin um konunglegt kirkjuvald og gerði Hinrik 8. að yfirmanni ensku kirkjunnar í stað páfa. Þetta var skilnaður við Róm af stærri gerðinni.",
-    "heimild": "https://en.wikipedia.org/wiki/Parliament_of_England",
-    "breidd": 330,
-    "haed": 423
+    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/TupacAmaruII.jpg",
+    "ar": "1780",
+    "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestísabænda gegn Bourbon-umbótunum í spænska varakonungsdæminu Perú. Þetta varð upphaf umfangsmikillar andspyrnu gegn nýlendustjórninni.",
+    "heimild": "https://en.wikipedia.org/wiki/Túpac_Amaru_II",
+    "breidd": 297,
+    "haed": 500
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-03",
-  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-04",
+  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
