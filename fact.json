@@ -1,136 +1,136 @@
 {
-  "date": "2026-11-04",
-  "dagur": 4,
+  "date": "2026-11-05",
+  "dagur": 5,
   "manudur": "nóvember",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 308,
-  "sunrise": "09:20",
-  "sunset": "17:01",
-  "mmdd": "11-04",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 309,
+  "sunrise": "09:23",
+  "sunset": "16:57",
+  "mmdd": "11-05",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 4. nóvember! Í dag förum við úr neðanjarðarlest í London yfir í grafhýsi faraós og endum við loftslagssamning í París — sagan kann sannarlega að skipta um vagn án fyrirvara. Sporðdrekinn má svo halda um stýrið, en helst ekki stinga samferðafólkið.",
+  "kvedja": "Góðan dag, kæri lesandi! Fimmti nóvember hefur borið með sér allt frá tveggja ára keisara og púðursamsæri til geimfars á leið til Mars — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1780",
-      "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestísabænda gegn Bourbon-umbótunum í spænska varakonungsdæminu Perú. Þetta varð upphaf umfangsmikillar andspyrnu gegn nýlendustjórninni."
+      "ar": "1138",
+      "texti": "Lý Anh Tông var settur í keisarastól Đại Việt aðeins tveggja ára gamall og ríkti síðan í 37 ár. Flest börn á þeim aldri eru enn að semja um háttatímann."
     },
     {
-      "ar": "1890",
-      "texti": "City and South London Railway var formlega opnuð milli Lundúnaborgar og Stockwell. Hún var fyrsta djúplæga neðanjarðarlestakerfi heims — og Lundúnabúar höfðu loks fengið nýja leið til að forðast veðrið."
+      "ar": "1605",
+      "texti": "Guy Fawkes fannst við leit í Westminster-höll og var handtekinn, en þar með fór Púðursamsærið út um þúfur áður en hægt var að sprengja lávarðadeild breska þingsins."
     },
     {
-      "ar": "1922",
-      "texti": "Hópur undir stjórn breska Egyptalandsfræðingsins Howards Carter fann grafhýsi Tútankamons. Uppgötvunin varð ein sú frægasta í sögu fornleifafræðinnar."
+      "ar": "1854",
+      "texti": "Í Krímstríðinu sigruðu herir Breta og Frakka mun fjölmennara rússneskt lið í orrustunni við Inkerman í því sem nú er Úkraína, þrátt fyrir þykka þoku og afar erfiðar aðstæður."
     },
     {
-      "ar": "1995",
-      "texti": "Ísraelski forsætisráðherrann Yitzhak Rabin var myrtur af hægriöfgamanninum Yigal Amir eftir friðarfund í Tel Aviv. Morðið varð þungt áfall fyrir friðarumleitanir Ísraela og Palestínumanna."
+      "ar": "1952",
+      "texti": "Öflugur jarðskjálfti reið yfir Kamtsjatkaskaga og kom af stað mikilli flóðbylgju sem barst til Kúrileyja og víðar um Kyrrahaf."
     },
     {
-      "ar": "2016",
-      "texti": "Parísarsamningurinn um loftslagsmál tók gildi undir merkjum Loftslagssamnings Sameinuðu þjóðanna. Þar með varð alþjóðlegt loforð um aðgerðir gegn hlýnun jarðar formlega virkt."
+      "ar": "2013",
+      "texti": "Indverska geimrannsóknastofnunin skaut Mars Orbiter Mission á loft, fyrsta geimfari Indlands sem ætlað var út fyrir nágrenni jarðar og til annarrar reikistjörnu."
     }
   ],
   "atburdir_island": [],
   "afmaeli": [
     {
-      "nafn": "Matthew McConaughey",
-      "starfsgrein": "leikari og kvikmyndaframleiðandi",
-      "ar": "1969"
+      "nafn": "Kris Jenner",
+      "starfsgrein": "viðskiptakona og umboðsmaður",
+      "ar": "1955"
     },
     {
-      "nafn": "Ralph Macchio",
+      "nafn": "Sam Rockwell",
       "starfsgrein": "leikari",
-      "ar": "1961"
+      "ar": "1968"
     },
     {
-      "nafn": "Luís Figo",
-      "starfsgrein": "knattspyrnumaður og íþróttafréttamaður",
-      "ar": "1972"
+      "nafn": "Tilda Swinton",
+      "starfsgrein": "leikkona",
+      "ar": "1960"
     },
     {
-      "nafn": "Achraf Hakimi",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1998"
+      "nafn": "Vivien Leigh",
+      "starfsgrein": "leikkona",
+      "ar": "1913"
     },
     {
-      "nafn": "Walter Cronkite",
-      "starfsgrein": "fréttamaður og sjónvarpsmaður",
-      "ar": "1916"
+      "nafn": "Bryan Adams",
+      "starfsgrein": "söngvari og lagahöfundur",
+      "ar": "1959"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Jóhannes úr Kötlum",
-      "starfsgrein": "skáld og rithöfundur",
-      "ar": "1899"
+      "nafn": "Þorgerður Ingólfsdóttir",
+      "starfsgrein": "kórstjóri",
+      "ar": "1943"
     },
     {
-      "nafn": "Gunnar Huseby",
-      "starfsgrein": "frjálsíþróttamaður og tvöfaldur Evrópumeistari í kúluvarpi",
-      "ar": "1923"
+      "nafn": "Guðrún Hallgrímsdóttir",
+      "starfsgrein": "matvælaverkfræðingur",
+      "ar": "1941"
     },
     {
-      "nafn": "Ottó N. Þorláksson",
-      "starfsgrein": "verkalýðsfrömuður og fyrsti forseti ASÍ",
-      "ar": "1871"
+      "nafn": "Hlynur Sigtryggsson",
+      "starfsgrein": "veðurfræðingur",
+      "ar": "1921"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða fornfræga gersemi fann hópur Howards Carter árið 1922?",
+      "spurning": "Hvað varð um Púðursamsærið 5. nóvember 1605?",
       "svor": [
-        "Grafhýsi Tútankamons",
-        "Borgina Pompeii",
-        "Rosetta-steininn",
-        "Höll Knossos"
-      ],
-      "rett": 0,
-      "skyring": "Grafhýsi Tútankamons kom aftur í dagsljósið eftir meira en þrjú árþúsund í felum."
-    },
-    {
-      "spurning": "Hvaða samgöngunýjung var opnuð í London árið 1890?",
-      "svor": [
-        "Fyrsta rafknúna sporvagnaleið Evrópu",
-        "Fyrsta djúplæga neðanjarðarlest heims",
-        "Fyrstu almenningsreiðhjól borgarinnar",
-        "Fyrsta gufuknúna leigubifreiðin"
+        "Það tókst samkvæmt áætlun",
+        "Guy Fawkes fannst og var handtekinn",
+        "Samsærismenn tóku konunginn til fanga",
+        "Þinghúsið var flutt til Oxford"
       ],
       "rett": 1,
-      "skyring": "City and South London Railway var fyrsta djúplæga neðanjarðarlestin í heiminum."
+      "skyring": "Guy Fawkes fannst í Westminster-höll og púðrið fékk því aldrei að ráða niðurlögum þingsins."
     },
     {
-      "spurning": "Hvaða afmælisbarn dagsins varð tvöfaldur Evrópumeistari í kúluvarpi?",
+      "spurning": "Hvaða land sendi Mars Orbiter Mission á loft árið 2013?",
       "svor": [
-        "Ottó N. Þorláksson",
-        "Jóhannes úr Kötlum",
-        "Gunnar Huseby",
-        "Walter Cronkite"
+        "Japan",
+        "Indland",
+        "Kanada",
+        "Brasilía"
       ],
-      "rett": 2,
-      "skyring": "Gunnar Huseby var afreksmaður í kúluvarpi og vann Evrópumeistaratitilinn tvisvar."
+      "rett": 1,
+      "skyring": "Leiðangurinn var fyrsta könnunarfar Indlands sem stefndi til annarrar reikistjörnu."
+    },
+    {
+      "spurning": "Hvaða afmælisbarn dagsins söng meðal annars kraftmiklar rokkballöður á borð við „Heaven“?",
+      "svor": [
+        "Sam Rockwell",
+        "Bryan Adams",
+        "Tilda Swinton",
+        "Kris Jenner"
+      ],
+      "rett": 1,
+      "skyring": "Bryan Adams á afmæli í dag og hefur lengi kunnað þá list að setja gítar og hjartslátt í sama takt."
     }
   ],
-  "tonlistUSA": "Fantasy – Mariah Carey (1995)",
-  "tonlistUK": "Gangsta's Paradise – Coolio feat. L.V. (1995)",
-  "bio": "Bohemian Rhapsody (2018)",
+  "tonlistUSA": "Islands in the Stream – Kenny Rogers og Dolly Parton (1983)",
+  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
+  "bio": "The Terminator (1984)",
   "ord_dagsins": {
-    "ord": "dægurþras",
-    "skyring": "Dægurþras er hversdagslegt karp eða þrætur um mál líðandi stundar."
+    "ord": "launráð",
+    "skyring": "Launráð eru leynileg ráðagerð eða samsæri, gjarnan með óheiðarlegu eða hættulegu markmiði."
   },
-  "vissir_thu": "Þegar grafhýsi Tútankamons fannst 4. nóvember 1922 var það fyrsta trappan að innganginum sem kom í ljós; Howard Carter leit ekki inn í innri hluta grafhýsisins fyrr en síðar í mánuðinum.",
-  "stjornuspa": "Sporðdreki, gömul ráðgáta dúkkar upp eins og grafhýsi úr sandi, en lausnin gæti reynst miklu hversdagslegri en bölvun faraós. Haltu dulúðinni, en mundu að svara skilaboðum áður en þau verða sjálf að sögulegum heimildum.",
+  "vissir_thu": "Lý Anh Tông var aðeins tveggja ára þegar hann varð keisari Đại Việt árið 1138 og ríkti í 37 ár.",
+  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í dag, líklega í skúffu sem átti bara að geyma rafhlöður og ábyrgðarskírteini. Haltu ró þinni og beittu dulúðinni sparlega — þú þarft ekki að líta út eins og njósnari í svarthvítri kvikmynd.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/2/23/TupacAmaruII.jpg",
-    "ar": "1780",
-    "texti": "Túpac Amaru II hóf uppreisn Aymara-, Quechua- og mestísabænda gegn Bourbon-umbótunum í spænska varakonungsdæminu Perú. Þetta varð upphaf umfangsmikillar andspyrnu gegn nýlendustjórninni.",
-    "heimild": "https://en.wikipedia.org/wiki/Túpac_Amaru_II",
-    "breidd": 297,
-    "haed": 500
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg/330px-The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg",
+    "ar": "1605",
+    "texti": "Guy Fawkes fannst við leit í Westminster-höll og var handtekinn, en þar með fór Púðursamsærið út um þúfur áður en hægt var að sprengja lávarðadeild breska þingsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+    "breidd": 330,
+    "haed": 465
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-04",
+  "uppfaert": "2026-11-05",
   "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
