@@ -1,136 +1,157 @@
 {
-  "date": "2026-11-05",
-  "dagur": 5,
+  "date": "2026-11-06",
+  "dagur": 6,
   "manudur": "nóvember",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 309,
-  "sunrise": "09:23",
-  "sunset": "16:57",
-  "mmdd": "11-05",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 310,
+  "sunrise": "09:26",
+  "sunset": "16:54",
+  "mmdd": "11-06",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan dag, kæri lesandi! Fimmti nóvember hefur borið með sér allt frá tveggja ára keisara og púðursamsæri til geimfars á leið til Mars — sagan kann sannarlega að skipta um gír án þess að gefa stefnuljós.",
+  "kvedja": "Góðan 6. nóvember! Í dag röltum við frá konunglegum skógum miðalda yfir í körfuboltahöll James Naismiths, með viðkomu í Dómkirkjunni og hjá Emmu Stone. Sagan kann svo sannarlega að pakka ólíku fólki í sama afmælispakkann.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1138",
-      "texti": "Lý Anh Tông var settur í keisarastól Đại Việt aðeins tveggja ára gamall og ríkti síðan í 37 ár. Flest börn á þeim aldri eru enn að semja um háttatímann."
+      "ar": "1217",
+      "texti": "Hinrik 3. Englandskonungur gaf út Skógarsáttmálann, sem endurreisti rétt frjálsra manna til aðgangs að konunglegum skógum. Þetta var snemma áminning um að jafnvel konungar gætu ekki girt allt af."
     },
     {
-      "ar": "1605",
-      "texti": "Guy Fawkes fannst við leit í Westminster-höll og var handtekinn, en þar með fór Púðursamsærið út um þúfur áður en hægt var að sprengja lávarðadeild breska þingsins."
+      "ar": "1868",
+      "texti": "Red Cloud, leiðtogi Oglala Lakota, undirritaði Fort Laramie-sáttmálann. Þar með lauk stríði hans við Bandaríkin og Stóra-Sioux-verndarsvæðið var stofnað."
     },
     {
-      "ar": "1854",
-      "texti": "Í Krímstríðinu sigruðu herir Breta og Frakka mun fjölmennara rússneskt lið í orrustunni við Inkerman í því sem nú er Úkraína, þrátt fyrir þykka þoku og afar erfiðar aðstæður."
+      "ar": "1939",
+      "texti": "Gestapo handtók 184 prófessora, stúdenta og starfsmenn Jagellónska háskólans í Kraká. Aðgerðin var liður í áætlun nasista um að uppræta pólska mennta- og menningarelítu."
     },
     {
-      "ar": "1952",
-      "texti": "Öflugur jarðskjálfti reið yfir Kamtsjatkaskaga og kom af stað mikilli flóðbylgju sem barst til Kúrileyja og víðar um Kyrrahaf."
+      "ar": "1944",
+      "texti": "B-kjarnakljúfurinn í Hanford í Washingtonríki hóf framleiðslu á plútoni. Stöðin átti síðar eftir að framleiða efni fyrir stóran hluta bandaríska kjarnorkuvopnabúrsins."
     },
     {
-      "ar": "2013",
-      "texti": "Indverska geimrannsóknastofnunin skaut Mars Orbiter Mission á loft, fyrsta geimfari Indlands sem ætlað var út fyrir nágrenni jarðar og til annarrar reikistjörnu."
+      "ar": "2012",
+      "texti": "Tammy Baldwin varð fyrsti opinberlega samkynhneigði stjórnmálamaðurinn til að ná kjöri í öldungadeild Bandaríkjaþings. Þar var sannarlega brotið blað í stjórnmálasögunni."
     }
   ],
-  "atburdir_island": [],
+  "atburdir_island": [
+    {
+      "ar": "1796",
+      "texti": "Dómkirkjan í Reykjavík var vígð og hefur síðan staðið vaktina við Austurvöll, þótt veður og stjórnmál hafi löngum keppt um athyglina þar í kring.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1864",
+      "texti": "Bókasafn Akraness var stofnað. Skagamenn fengu þar með nýjan stað til að sækja sér sögur og fróðleik án þess að þurfa að róa eftir honum.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1918",
+      "texti": "Talið var að þriðjungur Reykvíkinga hefði veikst af spænsku veikinni, sem lagðist af miklum þunga á bæinn.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1920",
+      "texti": "Hríseyjarviti var tekinn í notkun og bætti öryggi sjófarenda við Eyjafjörð.",
+      "landshluti": "Norðurland"
+    }
+  ],
   "afmaeli": [
     {
-      "nafn": "Kris Jenner",
-      "starfsgrein": "viðskiptakona og umboðsmaður",
-      "ar": "1955"
-    },
-    {
-      "nafn": "Sam Rockwell",
-      "starfsgrein": "leikari",
-      "ar": "1968"
-    },
-    {
-      "nafn": "Tilda Swinton",
+      "nafn": "Emma Stone",
       "starfsgrein": "leikkona",
-      "ar": "1960"
+      "ar": "1988"
     },
     {
-      "nafn": "Vivien Leigh",
+      "nafn": "Glenn Frey",
+      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
+      "ar": "1948"
+    },
+    {
+      "nafn": "Sally Field",
       "starfsgrein": "leikkona",
-      "ar": "1913"
+      "ar": "1946"
     },
     {
-      "nafn": "Bryan Adams",
-      "starfsgrein": "söngvari og lagahöfundur",
-      "ar": "1959"
+      "nafn": "Súleiman mikli",
+      "starfsgrein": "soldán Ottómanaveldisins",
+      "ar": "1494"
+    },
+    {
+      "nafn": "James Naismith",
+      "starfsgrein": "læknir, kennari og uppfinningamaður körfuknattleiksins",
+      "ar": "1861"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Þorgerður Ingólfsdóttir",
-      "starfsgrein": "kórstjóri",
+      "nafn": "Jón Stefánsson",
+      "starfsgrein": "fræðimaður",
+      "ar": "1862"
+    },
+    {
+      "nafn": "Einar Bollason",
+      "starfsgrein": "körfuknattleiksþjálfari",
       "ar": "1943"
     },
     {
-      "nafn": "Guðrún Hallgrímsdóttir",
-      "starfsgrein": "matvælaverkfræðingur",
-      "ar": "1941"
-    },
-    {
-      "nafn": "Hlynur Sigtryggsson",
-      "starfsgrein": "veðurfræðingur",
-      "ar": "1921"
+      "nafn": "Þorkell Þorkelsson",
+      "starfsgrein": "eðlisfræðingur",
+      "ar": "1876"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvað varð um Púðursamsærið 5. nóvember 1605?",
+      "spurning": "Hvaða bygging í Reykjavík var vígð 6. nóvember 1796?",
       "svor": [
-        "Það tókst samkvæmt áætlun",
-        "Guy Fawkes fannst og var handtekinn",
-        "Samsærismenn tóku konunginn til fanga",
-        "Þinghúsið var flutt til Oxford"
+        "Dómkirkjan í Reykjavík",
+        "Alþingishúsið",
+        "Hallgrímskirkja",
+        "Höfði"
       ],
-      "rett": 1,
-      "skyring": "Guy Fawkes fannst í Westminster-höll og púðrið fékk því aldrei að ráða niðurlögum þingsins."
+      "rett": 0,
+      "skyring": "Dómkirkjan var vígð árið 1796 og stendur enn prúð við Austurvöll."
     },
     {
-      "spurning": "Hvaða land sendi Mars Orbiter Mission á loft árið 2013?",
+      "spurning": "Hver af afmælisbörnum dagsins fann upp körfuknattleikinn?",
       "svor": [
-        "Japan",
-        "Indland",
-        "Kanada",
-        "Brasilía"
+        "Glenn Frey",
+        "James Naismith",
+        "Súleiman mikli",
+        "Einar Bollason"
       ],
       "rett": 1,
-      "skyring": "Leiðangurinn var fyrsta könnunarfar Indlands sem stefndi til annarrar reikistjörnu."
+      "skyring": "James Naismith fann upp körfuknattleikinn, en Súleiman mikli hefði eflaust verið öflugur undir körfunni."
     },
     {
-      "spurning": "Hvaða afmælisbarn dagsins söng meðal annars kraftmiklar rokkballöður á borð við „Heaven“?",
+      "spurning": "Hvaða sögulega skref steig Tammy Baldwin árið 2012?",
       "svor": [
-        "Sam Rockwell",
-        "Bryan Adams",
-        "Tilda Swinton",
-        "Kris Jenner"
+        "Hún varð fyrsta konan til að stjórna Bandaríkjunum",
+        "Hún varð fyrsti öldungadeildarþingmaðurinn frá Alaska",
+        "Hún varð fyrsti opinberlega samkynhneigði stjórnmálamaðurinn kjörinn í öldungadeild Bandaríkjaþings",
+        "Hún varð fyrsti leikarinn kjörinn á Bandaríkjaþing"
       ],
-      "rett": 1,
-      "skyring": "Bryan Adams á afmæli í dag og hefur lengi kunnað þá list að setja gítar og hjartslátt í sama takt."
+      "rett": 2,
+      "skyring": "Kjör Tammy Baldwin markaði tímamót í sögu bandarískra stjórnmála."
     }
   ],
-  "tonlistUSA": "Islands in the Stream – Kenny Rogers og Dolly Parton (1983)",
-  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
-  "bio": "The Terminator (1984)",
+  "tonlistUSA": "Smooth – Santana ásamt Rob Thomas (1999)",
+  "tonlistUK": "Keep On Movin' – Five (1999)",
+  "bio": "Interstellar (2014)",
   "ord_dagsins": {
-    "ord": "launráð",
-    "skyring": "Launráð eru leynileg ráðagerð eða samsæri, gjarnan með óheiðarlegu eða hættulegu markmiði."
+    "ord": "skógarnytjar",
+    "skyring": "Skógarnytjar eru þau gæði og afnot sem fólk hefur af skógi, svo sem viðartekja, beit eða berjatínsla."
   },
-  "vissir_thu": "Lý Anh Tông var aðeins tveggja ára þegar hann varð keisari Đại Việt árið 1138 og ríkti í 37 ár.",
-  "stjornuspa": "Sporðdrekinn finnur gamalt leyndarmál í dag, líklega í skúffu sem átti bara að geyma rafhlöður og ábyrgðarskírteini. Haltu ró þinni og beittu dulúðinni sparlega — þú þarft ekki að líta út eins og njósnari í svarthvítri kvikmynd.",
+  "vissir_thu": "James Naismith notaði ferskjukörfur sem mörk þegar hann mótaði fyrstu körfuknattleiksreglurnar árið 1891.",
+  "stjornuspa": "Sporðdrekinn finnur gamla ráðgátu í dag og leysir hana með svip sem segir að þetta hafi auðvitað legið ljóst fyrir allan tímann. Varastu þó að gera hvert kaffihlé að rannsóknarnefnd; sumt fólk vill einfaldlega fá sér kleinuna sína í friði.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg/330px-The_Gunpowder_Plot_Conspirators%2C_1605_from_NPG_%28cropped%29.jpg",
-    "ar": "1605",
-    "texti": "Guy Fawkes fannst við leit í Westminster-höll og var handtekinn, en þar með fór Púðursamsærið út um þúfur áður en hægt var að sprengja lávarðadeild breska þingsins.",
-    "heimild": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HenryIII.jpg/500px-HenryIII.jpg",
+    "ar": "1217",
+    "texti": "Hinrik 3. Englandskonungur gaf út Skógarsáttmálann, sem endurreisti rétt frjálsra manna til aðgangs að konunglegum skógum. Þetta var snemma áminning um að jafnvel konungar gætu ekki girt allt af.",
+    "heimild": "https://en.wikipedia.org/wiki/Henry_III_of_England",
     "breidd": 330,
-    "haed": 465
+    "haed": 372
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-05",
-  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-06",
+  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
