@@ -1,157 +1,157 @@
 {
-  "date": "2026-11-06",
-  "dagur": 6,
+  "date": "2026-11-07",
+  "dagur": 7,
   "manudur": "nóvember",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 310,
-  "sunrise": "09:26",
-  "sunset": "16:54",
-  "mmdd": "11-06",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 311,
+  "sunrise": "09:30",
+  "sunset": "16:51",
+  "mmdd": "11-07",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 6. nóvember! Í dag röltum við frá konunglegum skógum miðalda yfir í körfuboltahöll James Naismiths, með viðkomu í Dómkirkjunni og hjá Emmu Stone. Sagan kann svo sannarlega að pakka ólíku fólki í sama afmælispakkann.",
+  "kvedja": "Góðan 7. nóvember, kæri lesandi! Í dag förum við frá kirkjuþingi í Konstantínópel yfir í Bach, baráttu fyrir prentfrelsi og geimferð til Mars — sagan kann sannarlega ekki að sitja kyrr.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "1217",
-      "texti": "Hinrik 3. Englandskonungur gaf út Skógarsáttmálann, sem endurreisti rétt frjálsra manna til aðgangs að konunglegum skógum. Þetta var snemma áminning um að jafnvel konungar gætu ekki girt allt af."
+      "ar": "680",
+      "texti": "Þriðja kirkjuþingið í Konstantínópel kom saman til að útkljá flóknar deilur um eðli og vilja Krists. Fundarefnið var ekki beinlínis léttmeti með morgunkaffinu."
     },
     {
-      "ar": "1868",
-      "texti": "Red Cloud, leiðtogi Oglala Lakota, undirritaði Fort Laramie-sáttmálann. Þar með lauk stríði hans við Bandaríkin og Stóra-Sioux-verndarsvæðið var stofnað."
+      "ar": "1723",
+      "texti": "Samræðukantata Johanns Sebastians Bach, „O Ewigkeit, du Donnerwort“, BWV 60, var frumflutt í Leipzig. Bach lét sjálfa eilífðina hljóma — og gerði það auðvitað í mörgum röddum."
     },
     {
-      "ar": "1939",
-      "texti": "Gestapo handtók 184 prófessora, stúdenta og starfsmenn Jagellónska háskólans í Kraká. Aðgerðin var liður í áætlun nasista um að uppræta pólska mennta- og menningarelítu."
+      "ar": "1837",
+      "texti": "Bandaríski afnámsmaðurinn og ritstjórinn Elijah Parish Lovejoy var myrtur af hópi fylgjenda þrælahalds í Illinois þegar þeir réðust á prentsmiðju hans og gögn gegn þrælahaldi."
     },
     {
-      "ar": "1944",
-      "texti": "B-kjarnakljúfurinn í Hanford í Washingtonríki hóf framleiðslu á plútoni. Stöðin átti síðar eftir að framleiða efni fyrir stóran hluta bandaríska kjarnorkuvopnabúrsins."
+      "ar": "1916",
+      "texti": "Jeannette Rankin varð fyrsta konan sem kjörin var í fulltrúadeild Bandaríkjaþings. Hún braut þar með pólitískt glerþak áður en hugtakið sjálft komst í tísku."
     },
     {
-      "ar": "2012",
-      "texti": "Tammy Baldwin varð fyrsti opinberlega samkynhneigði stjórnmálamaðurinn til að ná kjöri í öldungadeild Bandaríkjaþings. Þar var sannarlega brotið blað í stjórnmálasögunni."
+      "ar": "1996",
+      "texti": "NASA skaut Mars Global Surveyor á loft frá Kennedy-geimferðamiðstöðinni á Flórída. Könnunarfarið hélt til Mars til að kortleggja plánetuna af meiri nákvæmni en áður hafði þekkst."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1796",
-      "texti": "Dómkirkjan í Reykjavík var vígð og hefur síðan staðið vaktina við Austurvöll, þótt veður og stjórnmál hafi löngum keppt um athyglina þar í kring.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1550",
+      "texti": "Jón Arason, biskup á Hólum, og synir hans, Björn og Ari Jónssynir, voru teknir af lífi í Skálholti eftir harðar valdadeilur kaþólskra og lútherskra manna.",
+      "landshluti": "Suðurland"
     },
     {
-      "ar": "1864",
-      "texti": "Bókasafn Akraness var stofnað. Skagamenn fengu þar með nýjan stað til að sækja sér sögur og fróðleik án þess að þurfa að róa eftir honum.",
+      "ar": "1718",
+      "texti": "Danska herskipið Giötheborg strandaði við Ölfusárósa, en öll áhöfnin bjargaðist.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1931",
+      "texti": "Héraðsskólinn í Reykholti var vígður, einn níu skóla sem stofnaðir voru að frumkvæði Jónasar Jónssonar frá Hriflu.",
       "landshluti": "Vesturland"
     },
     {
-      "ar": "1918",
-      "texti": "Talið var að þriðjungur Reykvíkinga hefði veikst af spænsku veikinni, sem lagðist af miklum þunga á bæinn.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1920",
-      "texti": "Hríseyjarviti var tekinn í notkun og bætti öryggi sjófarenda við Eyjafjörð.",
-      "landshluti": "Norðurland"
+      "ar": "1976",
+      "texti": "Fyrsti hluti Hitaveitu Suðurnesja var tekinn í notkun og ylurinn fór að streyma um lagnirnar.",
+      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Emma Stone",
-      "starfsgrein": "leikkona",
-      "ar": "1988"
+      "nafn": "Marie Curie",
+      "starfsgrein": "eðlis- og efnafræðingur",
+      "ar": "1867"
     },
     {
-      "nafn": "Glenn Frey",
-      "starfsgrein": "söngvari, lagahöfundur og gítarleikari",
-      "ar": "1948"
+      "nafn": "Joni Mitchell",
+      "starfsgrein": "söngvaskáld og gítarleikari",
+      "ar": "1943"
     },
     {
-      "nafn": "Sally Field",
-      "starfsgrein": "leikkona",
-      "ar": "1946"
+      "nafn": "Albert Camus",
+      "starfsgrein": "rithöfundur og heimspekingur",
+      "ar": "1913"
     },
     {
-      "nafn": "Súleiman mikli",
-      "starfsgrein": "soldán Ottómanaveldisins",
-      "ar": "1494"
+      "nafn": "James Cook",
+      "starfsgrein": "skipstjóri, landkönnuður og kortagerðarmaður",
+      "ar": "1728"
     },
     {
-      "nafn": "James Naismith",
-      "starfsgrein": "læknir, kennari og uppfinningamaður körfuknattleiksins",
-      "ar": "1861"
+      "nafn": "Lorde",
+      "starfsgrein": "söngkona og lagahöfundur",
+      "ar": "1996"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Jón Stefánsson",
-      "starfsgrein": "fræðimaður",
-      "ar": "1862"
+      "nafn": "Eiður Svanberg Guðnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1939"
     },
     {
-      "nafn": "Einar Bollason",
-      "starfsgrein": "körfuknattleiksþjálfari",
-      "ar": "1943"
+      "nafn": "Pétur J. Thorsteinsson",
+      "starfsgrein": "sendiherra og forsetaframbjóðandi",
+      "ar": "1917"
     },
     {
-      "nafn": "Þorkell Þorkelsson",
-      "starfsgrein": "eðlisfræðingur",
-      "ar": "1876"
+      "nafn": "Vilhjálmur Finsen",
+      "starfsgrein": "ritstjóri",
+      "ar": "1883"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða bygging í Reykjavík var vígð 6. nóvember 1796?",
+      "spurning": "Hvaða kona varð fyrst kjörin í fulltrúadeild Bandaríkjaþings árið 1916?",
       "svor": [
-        "Dómkirkjan í Reykjavík",
-        "Alþingishúsið",
-        "Hallgrímskirkja",
-        "Höfði"
+        "Jeannette Rankin",
+        "Marie Curie",
+        "Joni Mitchell",
+        "Hillary Clinton"
       ],
       "rett": 0,
-      "skyring": "Dómkirkjan var vígð árið 1796 og stendur enn prúð við Austurvöll."
+      "skyring": "Jeannette Rankin braut blað í bandarískri stjórnmálasögu 7. nóvember 1916."
     },
     {
-      "spurning": "Hver af afmælisbörnum dagsins fann upp körfuknattleikinn?",
+      "spurning": "Hvar voru Jón Arason og synir hans teknir af lífi árið 1550?",
       "svor": [
-        "Glenn Frey",
-        "James Naismith",
-        "Súleiman mikli",
-        "Einar Bollason"
-      ],
-      "rett": 1,
-      "skyring": "James Naismith fann upp körfuknattleikinn, en Súleiman mikli hefði eflaust verið öflugur undir körfunni."
-    },
-    {
-      "spurning": "Hvaða sögulega skref steig Tammy Baldwin árið 2012?",
-      "svor": [
-        "Hún varð fyrsta konan til að stjórna Bandaríkjunum",
-        "Hún varð fyrsti öldungadeildarþingmaðurinn frá Alaska",
-        "Hún varð fyrsti opinberlega samkynhneigði stjórnmálamaðurinn kjörinn í öldungadeild Bandaríkjaþings",
-        "Hún varð fyrsti leikarinn kjörinn á Bandaríkjaþing"
+        "Á Hólum",
+        "Í Reykholti",
+        "Í Skálholti",
+        "Við Ölfusárósa"
       ],
       "rett": 2,
-      "skyring": "Kjör Tammy Baldwin markaði tímamót í sögu bandarískra stjórnmála."
+      "skyring": "Aftakan fór fram í Skálholti og markaði dramatísk þáttaskil í siðaskiptasögu Íslands."
+    },
+    {
+      "spurning": "Hvaða plánetu átti Mars Global Surveyor að rannsaka?",
+      "svor": [
+        "Venus",
+        "Mars",
+        "Júpíter",
+        "Merkúríus"
+      ],
+      "rett": 1,
+      "skyring": "Nafnið gaf býsna myndarlega vísbendingu: könnunarfarið var sent til Mars."
     }
   ],
-  "tonlistUSA": "Smooth – Santana ásamt Rob Thomas (1999)",
-  "tonlistUK": "Keep On Movin' – Five (1999)",
-  "bio": "Interstellar (2014)",
+  "tonlistUSA": "No Diggity – Blackstreet ásamt Dr. Dre (1996)",
+  "tonlistUK": "Every Little Thing She Does Is Magic – The Police (1981)",
+  "bio": "The Bone Collector (1999)",
   "ord_dagsins": {
-    "ord": "skógarnytjar",
-    "skyring": "Skógarnytjar eru þau gæði og afnot sem fólk hefur af skógi, svo sem viðartekja, beit eða berjatínsla."
+    "ord": "gandreið",
+    "skyring": "Gandreið er samkvæmt gamalli þjóðtrú ferð nornakunnugs fólks um loftin á töfragrip eða dýri."
   },
-  "vissir_thu": "James Naismith notaði ferskjukörfur sem mörk þegar hann mótaði fyrstu körfuknattleiksreglurnar árið 1891.",
-  "stjornuspa": "Sporðdrekinn finnur gamla ráðgátu í dag og leysir hana með svip sem segir að þetta hafi auðvitað legið ljóst fyrir allan tímann. Varastu þó að gera hvert kaffihlé að rannsóknarnefnd; sumt fólk vill einfaldlega fá sér kleinuna sína í friði.",
+  "vissir_thu": "Marie Curie er eina manneskjan sem hefur hlotið Nóbelsverðlaun í tveimur ólíkum vísindagreinum: eðlisfræði og efnafræði.",
+  "stjornuspa": "Sporðdreki, í dag skaltu treysta innsæinu, en ekki svo blint að þú sendir það eitt út í búð með innkaupalistann. Gamalt leyndarmál gæti skotið upp kollinum; taktu á móti því með reisn og hæfilega dramatískri augabrún.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/HenryIII.jpg/500px-HenryIII.jpg",
-    "ar": "1217",
-    "texti": "Hinrik 3. Englandskonungur gaf út Skógarsáttmálann, sem endurreisti rétt frjálsra manna til aðgangs að konunglegum skógum. Þetta var snemma áminning um að jafnvel konungar gætu ekki girt allt af.",
-    "heimild": "https://en.wikipedia.org/wiki/Henry_III_of_England",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/45-manasses-chronicle.jpg/500px-45-manasses-chronicle.jpg",
+    "ar": "680",
+    "texti": "Þriðja kirkjuþingið í Konstantínópel kom saman til að útkljá flóknar deilur um eðli og vilja Krists. Fundarefnið var ekki beinlínis léttmeti með morgunkaffinu.",
+    "heimild": "https://en.wikipedia.org/wiki/Third_Council_of_Constantinople",
     "breidd": 330,
-    "haed": 372
+    "haed": 220
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-06",
-  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-07",
+  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
