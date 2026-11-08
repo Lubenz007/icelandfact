@@ -1,157 +1,147 @@
 {
-  "date": "2026-11-07",
-  "dagur": 7,
+  "date": "2026-11-08",
+  "dagur": 8,
   "manudur": "nóvember",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 311,
-  "sunrise": "09:30",
-  "sunset": "16:51",
-  "mmdd": "11-07",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 312,
+  "sunrise": "09:33",
+  "sunset": "16:48",
+  "mmdd": "11-08",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 7. nóvember, kæri lesandi! Í dag förum við frá kirkjuþingi í Konstantínópel yfir í Bach, baráttu fyrir prentfrelsi og geimferð til Mars — sagan kann sannarlega ekki að sitja kyrr.",
+  "kvedja": "Góðan 8. nóvember! Í dag förum við frá keisarahöllum og glerofnum til emústríðs og afmælis Gordons Ramsay — söguleg dagskrá sem hefði sennilega endað með vel steiktum emúa, hefði kokkurinn fengið að ráða. Komdu þér vel fyrir og mundu: fortíðin er aldrei langt undan, hún er bara illa merkt.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "680",
-      "texti": "Þriðja kirkjuþingið í Konstantínópel kom saman til að útkljá flóknar deilur um eðli og vilja Krists. Fundarefnið var ekki beinlínis léttmeti með morgunkaffinu."
+      "ar": "960",
+      "texti": "Í stríðum Araba og Býsansmanna sátu býsanskar hersveitir undir stjórn Leós Fókasar yngri fyrir her Hamdanída og gjöreyddu honum. Fyrirsát er gömul hernaðaraðferð, en sjaldan góð leið til að eignast vini."
     },
     {
-      "ar": "1723",
-      "texti": "Samræðukantata Johanns Sebastians Bach, „O Ewigkeit, du Donnerwort“, BWV 60, var frumflutt í Leipzig. Bach lét sjálfa eilífðina hljóma — og gerði það auðvitað í mörgum röddum."
+      "ar": "1291",
+      "texti": "Lög voru sett sem færðu mestan hluta glergerðar Feneyja yfir til eyjarinnar Murano. Þar varð til heimsfræg glerhefð, þótt upphaflega hafi meðal annars vakað fyrir mönnum að halda eldhættulegum ofnunum frá borginni."
     },
     {
-      "ar": "1837",
-      "texti": "Bandaríski afnámsmaðurinn og ritstjórinn Elijah Parish Lovejoy var myrtur af hópi fylgjenda þrælahalds í Illinois þegar þeir réðust á prentsmiðju hans og gögn gegn þrælahaldi."
+      "ar": "1644",
+      "texti": "Shunzhi-keisarinn var settur í hásæti í Beijing eftir fall Ming-ættarinnar. Hann varð þar með fyrsti keisari Qing-ættarinnar sem ríkti yfir Kína."
     },
     {
-      "ar": "1916",
-      "texti": "Jeannette Rankin varð fyrsta konan sem kjörin var í fulltrúadeild Bandaríkjaþings. Hún braut þar með pólitískt glerþak áður en hugtakið sjálft komst í tísku."
+      "ar": "1932",
+      "texti": "Ástralski herinn dró sig út úr hinu svonefnda emústríði í Vestur-Ástralíu eftir óhagstæða fjölmiðlaumfjöllun. Emúarnir skrifuðu enga formlega siguryfirlýsingu, en höfðu engu að síður betur."
     },
     {
-      "ar": "1996",
-      "texti": "NASA skaut Mars Global Surveyor á loft frá Kennedy-geimferðamiðstöðinni á Flórída. Könnunarfarið hélt til Mars til að kortleggja plánetuna af meiri nákvæmni en áður hafði þekkst."
+      "ar": "2013",
+      "texti": "Fellibylurinn Haiyan gekk á land á Visayas-eyjum Filippseyja og varð að minnsta kosti 6.300 manns að bana. Hann er mannskæðasti fellibylur sem skráður hefur verið á Filippseyjum í nútímasögu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1550",
-      "texti": "Jón Arason, biskup á Hólum, og synir hans, Björn og Ari Jónssynir, voru teknir af lífi í Skálholti eftir harðar valdadeilur kaþólskra og lútherskra manna.",
-      "landshluti": "Suðurland"
+      "ar": "1879",
+      "texti": "Hið íslenska fornleifafélag var stofnað og tók að sinna varðveislu og rannsóknum á menningarminjum þjóðarinnar.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1718",
-      "texti": "Danska herskipið Giötheborg strandaði við Ölfusárósa, en öll áhöfnin bjargaðist.",
-      "landshluti": "Suðurland"
+      "ar": "1949",
+      "texti": "Fyrstu umferðarljós landsins voru tekin í notkun á fjórum gatnamótum í miðbæ Reykjavíkur. Borgarbúar þurftu þá að læra að rautt ljós væri ekki kurteisleg ábending heldur skipun.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1931",
-      "texti": "Héraðsskólinn í Reykholti var vígður, einn níu skóla sem stofnaðir voru að frumkvæði Jónasar Jónssonar frá Hriflu.",
-      "landshluti": "Vesturland"
+      "ar": "1978",
+      "texti": "Friðrik Ólafsson var kjörinn forseti Alþjóða skáksambandsins FIDE og gegndi embættinu í fjögur ár — glæsilegur leikur á alþjóðlega skákborðinu.",
+      "landshluti": "Erlendis"
     },
     {
-      "ar": "1976",
-      "texti": "Fyrsti hluti Hitaveitu Suðurnesja var tekinn í notkun og ylurinn fór að streyma um lagnirnar.",
-      "landshluti": "Reykjanes"
+      "ar": "1983",
+      "texti": "Þyrla Landhelgisgæslunnar TF-Rán fórst í Jökulfjörðum og með henni fjórir menn.",
+      "landshluti": "Vestfirðir"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Marie Curie",
-      "starfsgrein": "eðlis- og efnafræðingur",
-      "ar": "1867"
+      "nafn": "Matthew Rhys",
+      "starfsgrein": "velskur leikari",
+      "ar": "1974"
     },
     {
-      "nafn": "Joni Mitchell",
-      "starfsgrein": "söngvaskáld og gítarleikari",
-      "ar": "1943"
+      "nafn": "Gordon Ramsay",
+      "starfsgrein": "breskur kokkur og sjónvarpsmaður",
+      "ar": "1966"
     },
     {
-      "nafn": "Albert Camus",
-      "starfsgrein": "rithöfundur og heimspekingur",
-      "ar": "1913"
+      "nafn": "Kazuo Ishiguro",
+      "starfsgrein": "japansk-breskur rithöfundur",
+      "ar": "1954"
     },
     {
-      "nafn": "James Cook",
-      "starfsgrein": "skipstjóri, landkönnuður og kortagerðarmaður",
-      "ar": "1728"
+      "nafn": "Bram Stoker",
+      "starfsgrein": "írskur rithöfundur",
+      "ar": "1847"
     },
     {
-      "nafn": "Lorde",
-      "starfsgrein": "söngkona og lagahöfundur",
-      "ar": "1996"
+      "nafn": "SZA",
+      "starfsgrein": "bandarísk söngkona og lagahöfundur",
+      "ar": "1989"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Eiður Svanberg Guðnason",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1939"
-    },
-    {
-      "nafn": "Pétur J. Thorsteinsson",
-      "starfsgrein": "sendiherra og forsetaframbjóðandi",
-      "ar": "1917"
-    },
-    {
-      "nafn": "Vilhjálmur Finsen",
-      "starfsgrein": "ritstjóri",
-      "ar": "1883"
+      "nafn": "Karl Ísfeld",
+      "starfsgrein": "blaðamaður, rithöfundur og þýðandi",
+      "ar": "1906"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða kona varð fyrst kjörin í fulltrúadeild Bandaríkjaþings árið 1916?",
+      "spurning": "Hvaða andstæðingur reyndist ástralska hernum óþægilega harður í horn að taka árið 1932?",
       "svor": [
-        "Jeannette Rankin",
-        "Marie Curie",
-        "Joni Mitchell",
-        "Hillary Clinton"
+        "Emúar",
+        "Kengúrur",
+        "Kameldýr",
+        "Vambarlausir sauðir"
       ],
       "rett": 0,
-      "skyring": "Jeannette Rankin braut blað í bandarískri stjórnmálasögu 7. nóvember 1916."
+      "skyring": "Emúarnir höfðu betur í þessum einkennilega kafla ástralskrar sögu."
     },
     {
-      "spurning": "Hvar voru Jón Arason og synir hans teknir af lífi árið 1550?",
+      "spurning": "Hvaða Íslendingur var kjörinn forseti Alþjóða skáksambandsins FIDE árið 1978?",
       "svor": [
-        "Á Hólum",
-        "Í Reykholti",
-        "Í Skálholti",
-        "Við Ölfusárósa"
-      ],
-      "rett": 2,
-      "skyring": "Aftakan fór fram í Skálholti og markaði dramatísk þáttaskil í siðaskiptasögu Íslands."
-    },
-    {
-      "spurning": "Hvaða plánetu átti Mars Global Surveyor að rannsaka?",
-      "svor": [
-        "Venus",
-        "Mars",
-        "Júpíter",
-        "Merkúríus"
+        "Jón L. Árnason",
+        "Friðrik Ólafsson",
+        "Guðmundur Sigurjónsson",
+        "Margrét Þórhallsdóttir"
       ],
       "rett": 1,
-      "skyring": "Nafnið gaf býsna myndarlega vísbendingu: könnunarfarið var sent til Mars."
+      "skyring": "Friðrik Ólafsson stýrði FIDE næstu fjögur árin."
+    },
+    {
+      "spurning": "Hver af afmælisbörnum dagsins skapaði Drakúla greifa?",
+      "svor": [
+        "Kazuo Ishiguro",
+        "Matthew Rhys",
+        "Bram Stoker",
+        "Gordon Ramsay"
+      ],
+      "rett": 2,
+      "skyring": "Bram Stoker gaf heiminum Drakúla — gest sem þarf hvorki rúm né morgunverð."
     }
   ],
-  "tonlistUSA": "No Diggity – Blackstreet ásamt Dr. Dre (1996)",
-  "tonlistUK": "Every Little Thing She Does Is Magic – The Police (1981)",
-  "bio": "The Bone Collector (1999)",
+  "tonlistUSA": "Island Girl – Elton John (1975)",
+  "tonlistUK": "The Name of the Game – ABBA (1977)",
+  "bio": "Hrói Höttur (1973)",
   "ord_dagsins": {
-    "ord": "gandreið",
-    "skyring": "Gandreið er samkvæmt gamalli þjóðtrú ferð nornakunnugs fólks um loftin á töfragrip eða dýri."
+    "ord": "dægur",
+    "skyring": "Dægur merkir dagur eða sólarhringur og kemur meðal annars fyrir í orðinu dægurlag."
   },
-  "vissir_thu": "Marie Curie er eina manneskjan sem hefur hlotið Nóbelsverðlaun í tveimur ólíkum vísindagreinum: eðlisfræði og efnafræði.",
-  "stjornuspa": "Sporðdreki, í dag skaltu treysta innsæinu, en ekki svo blint að þú sendir það eitt út í búð með innkaupalistann. Gamalt leyndarmál gæti skotið upp kollinum; taktu á móti því með reisn og hæfilega dramatískri augabrún.",
+  "vissir_thu": "Murano varð miðstöð feneyskrar glergerðar eftir að lög árið 1291 bundu mestan hluta iðnaðarins við eyjuna.",
+  "stjornuspa": "Sporðdreki, segulmagn þitt er sterkt í dag, en reyndu að nota það ekki til að yfirheyra fólk um hver tók síðasta kaffibollann. Gömul ráðgáta leysist þegar þú hættir að leita að flóknustu skýringunni og kveikir einfaldlega á lampanum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/45-manasses-chronicle.jpg/500px-45-manasses-chronicle.jpg",
-    "ar": "680",
-    "texti": "Þriðja kirkjuþingið í Konstantínópel kom saman til að útkljá flóknar deilur um eðli og vilja Krists. Fundarefnið var ekki beinlínis léttmeti með morgunkaffinu.",
-    "heimild": "https://en.wikipedia.org/wiki/Third_Council_of_Constantinople",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg",
+    "ar": "960",
+    "texti": "Í stríðum Araba og Býsansmanna sátu býsanskar hersveitir undir stjórn Leós Fókasar yngri fyrir her Hamdanída og gjöreyddu honum. Fyrirsát er gömul hernaðaraðferð, en sjaldan góð leið til að eignast vini.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab–Byzantine_wars",
     "breidd": 330,
-    "haed": 220
+    "haed": 169
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-07",
-  "verdlag": "Árið 1952 kostaði eintak af Morgunblaðinu um 1 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 5721-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-08",
+  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
