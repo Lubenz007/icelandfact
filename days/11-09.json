@@ -6,44 +6,44 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:35",
   "sunset": "16:45",
-  "kvedja": "Góðan dag, kæri lesandi! Níundi nóvember minnir okkur á að handvömm á blaðamannafundi getur fellt múr, en stundum þarf heilan stórmeistara til að fella kóng. Haltu því höfðinu köldu í dag — og peðunum í góðu skjóli.",
+  "kvedja": "Góðan 9. nóvember! Dagurinn spannar allt frá leyfisbréfi Odds Gottskálkssonar til falls Berlínarmúrsins — og sannar að bæði prentvélar og klaufalegir blaðamannafundir geta breytt sögunni. Fáðu þér kaffisopa og gakktu óhræddur inn í annál dagsins.",
   "nafnadagur": "",
   "atburdir": [
     {
       "ar": "1822",
-      "texti": "Bandaríska herskipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var greinilega ekki allt pálmatré og rólegheit."
-    },
-    {
-      "ar": "1913",
-      "texti": "Ofsaveður yfir Stóru vötnum Norður-Ameríku náði hámarki, grandaði 19 skipum og varð meira en 250 manns að bana. Veðurguðirnir tóku engum silkihönskum þann daginn."
+      "texti": "Bandaríska skipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var sem sagt ekki eingöngu sól, sandur og regnhlífar í glösum."
     },
     {
       "ar": "1938",
-      "texti": "Kristalsnóttin hófst í Þýskalandi og Austurríki þegar stormsveitir SA og almennir borgarar réðust á heimili, fyrirtæki og bænahús gyðinga. Að minnsta kosti 90 létust og 30.000 karlar voru fluttir í fangabúðir."
+      "texti": "Kristalsnótt hófst þegar stormsveitir SA og almennir borgarar réðust á heimili, fyrirtæki og bænahús gyðinga í Þýskalandi og Austurríki. Að minnsta kosti 90 létust og 30.000 karlar voru fluttir í fangabúðir."
     },
     {
-      "ar": "1985",
-      "texti": "Garrí Kasparov sigraði Anatólí Karpov og varð, aðeins 22 ára, þá yngsti heimsmeistari skáksögunnar. Þar sannaðist að aldur er aukaatriði þegar maður sér nokkra leiki fram í tímann."
+      "ar": "1967",
+      "texti": "Fyrsta tölublað bandaríska tímaritsins Rolling Stone kom út, helgað tónlist, stjórnmálum og dægurmenningu. Rokkið hafði þar með fengið sitt eigið prentsvertuþakta heimili."
     },
     {
       "ar": "1989",
-      "texti": "Austur-þýski embættismaðurinn Günter Schabowski tilkynnti fyrir mistök að landamærin yrðu opnuð þegar í stað. Um kvöldið streymdi fólk að Berlínarmúrnum og fall hans varð að veruleika."
+      "texti": "Austur-þýski embættismaðurinn Günter Schabowski tilkynnti fyrir mistök að landamærin yrðu opnuð þegar í stað. Um kvöldið féll Berlínarmúrinn — söguleg áminning um að lesa tilkynninguna vandlega áður en myndavélarnar fara í gang."
+    },
+    {
+      "ar": "2019",
+      "texti": "Forsætisráðherra Pakistans, Imran Khan, vígði Kartarpur-ganginn, vegabréfsáritunarlausa landamæraleið að helgistaðnum Gurdwara Darbar Sahib. Leiðin auðveldaði pílagrímum för yfir landamæri Indlands og Pakistans."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1539",
-      "texti": "Háskólakennarar í Kaupmannahöfn veittu leyfi til prentunar á Nýjatestamentisþýðingu Odds Gottskálkssonar, mikilvægu skrefi í íslenskri bókmennta- og trúarsögu.",
+      "texti": "Háskólakennarar í Kaupmannahöfn veittu leyfi til að prenta Nýjatestamentisþýðingu Odds Gottskálkssonar, mikilvægt skref í sögu íslensks ritmáls og prentunar.",
       "landshluti": "Erlendis"
     },
     {
       "ar": "1932",
-      "texti": "Gúttóslagurinn braust út í Reykjavík þegar áheyrendur hleyptu upp bæjarstjórnarfundi vegna fyrirhugaðrar launalækkunar í atvinnubótavinnu.",
+      "texti": "Gúttóslagurinn braust út í Reykjavík þegar áheyrendur hleyptu upp bæjarstjórnarfundi í Góðtemplarahúsinu vegna fyrirhugaðrar launalækkunar í atvinnubótavinnu.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1985",
-      "texti": "Minnisvarði um skáldið Matthías Jochumsson var afhjúpaður á fæðingarstað hans á Skógum í Þorskafirði, 150 árum eftir fæðingu hans.",
+      "texti": "Minnisvarði um þjóðskáldið Matthías Jochumsson var afhjúpaður á Skógum í Þorskafirði, þar sem hann fæddist 150 árum áður.",
       "landshluti": "Vestfirðir"
     },
     {
@@ -54,29 +54,29 @@
   ],
   "afmaeli": [
     {
+      "nafn": "Hedy Lamarr",
+      "starfsgrein": "leikkona og uppfinningakona",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Carl Sagan",
+      "starfsgrein": "stjörnufræðingur og vísindamiðlari",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Ryan Murphy",
+      "starfsgrein": "sjónvarpshöfundur, framleiðandi og leikstjóri",
+      "ar": "1965"
+    },
+    {
       "nafn": "Alessandro Del Piero",
-      "starfsgrein": "ítalskur knattspyrnumaður",
+      "starfsgrein": "knattspyrnumaður",
       "ar": "1974"
     },
     {
-      "nafn": "Isabella of Valois",
-      "starfsgrein": "frönsk prinsessa og Englandsdrottning",
-      "ar": "1389"
-    },
-    {
-      "nafn": "Bob Gibson",
-      "starfsgrein": "bandarískur hafnaboltamaður og þjálfari",
-      "ar": "1935"
-    },
-    {
-      "nafn": "Anne Sexton",
-      "starfsgrein": "bandarískt skáld",
-      "ar": "1928"
-    },
-    {
-      "nafn": "Andreas Brehme",
-      "starfsgrein": "þýskur knattspyrnumaður og knattspyrnustjóri",
-      "ar": "1960"
+      "nafn": "Finn Cole",
+      "starfsgrein": "leikari",
+      "ar": "1995"
     }
   ],
   "afmaeli_island": [
@@ -93,56 +93,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða klaufalega tilkynning reyndist sögulegt rothögg á Berlínarmúrinn?",
+      "spurning": "Hvaða sögufrægi múr féll að kvöldi 9. nóvember 1989?",
       "svor": [
-        "Að landamærin yrðu opnuð þegar í stað",
-        "Að Austur-Þýskaland tæki upp dollar",
-        "Að múrinn yrði málaður blár",
-        "Að Berlín yrði gerð að fríhöfn"
+        "Berlínarmúrinn",
+        "Hadrianusarmúrinn",
+        "Kínamúrinn",
+        "Veggir Jeríkó"
       ],
       "rett": 0,
-      "skyring": "Günter Schabowski sagði fyrir mistök að nýju ferðareglurnar tækju þegar gildi."
+      "skyring": "Berlínarmúrinn féll eftir að Günter Schabowski tilkynnti opnun landamæranna fyrir mistök."
     },
     {
-      "spurning": "Hversu gamall var Garrí Kasparov þegar hann varð heimsmeistari í skák árið 1985?",
-      "svor": [
-        "19 ára",
-        "22 ára",
-        "27 ára",
-        "31 árs"
-      ],
-      "rett": 1,
-      "skyring": "Kasparov var aðeins 22 ára — varla kominn á miðtaflið í lífinu."
-    },
-    {
-      "spurning": "Hvar á Íslandi átti Gúttóslagurinn sér stað árið 1932?",
+      "spurning": "Hvar átti Gúttóslagurinn sér stað árið 1932?",
       "svor": [
         "Á Akureyri",
-        "Á Ísafirði",
         "Í Reykjavík",
-        "Á Seyðisfirði"
+        "Á Ísafirði",
+        "Í Vestmannaeyjum"
       ],
-      "rett": 2,
-      "skyring": "Óeirðirnar brutust út við bæjarstjórnarfund í Góðtemplarahúsinu í Reykjavík."
+      "rett": 1,
+      "skyring": "Ólætin brutust út við bæjarstjórnarfund í Góðtemplarahúsinu í Reykjavík."
+    },
+    {
+      "spurning": "Hver þessara afmælisbarna var bæði kvikmyndastjarna og uppfinningakona?",
+      "svor": [
+        "María Guðmundsdóttir",
+        "Hedy Lamarr",
+        "Finn Cole",
+        "Alessandro Del Piero"
+      ],
+      "rett": 1,
+      "skyring": "Hedy Lamarr sameinaði glæsilegan kvikmyndaferil og merkilega uppfinningastarfsemi."
     }
   ],
-  "tonlistUSA": "Macarena – Los del Río (1996)",
-  "tonlistUK": "The Power of Love – Jennifer Rush (1985)",
+  "tonlistUSA": "Miami Vice Theme – Jan Hammer (1985)",
+  "tonlistUK": "A Good Heart – Feargal Sharkey (1985)",
   "bio": "Skyfall (2012)",
   "ord_dagsins": {
-    "ord": "handvömm",
-    "skyring": "Handvömm er mistök eða yfirsjón sem verður vegna óvarkárni."
+    "ord": "húm",
+    "skyring": "Húm er dauft ljós eða hálfrökkur, einkum þegar dagur rennur saman við nótt."
   },
-  "vissir_thu": "Garrí Kasparov var aðeins 22 ára þegar hann lagði Anatólí Karpov að velli og varð heimsmeistari í skák árið 1985.",
-  "stjornuspa": "Sporðdreki, segulbandstækið virðist vita leyndarmál þín, en láttu það ekki stöðva þig í að hringja mikilvægt símtal. Forðastu stórar axlapúðaákvarðanir eftir hádegi og treystu innsæinu frekar en neonljósunum.",
+  "vissir_thu": "Hedy Lamarr og tónskáldið George Antheil fengu einkaleyfi á tíðnihoppskerfi sem ætlað var að gera fjarstýringu tundurskeyta erfiðari að trufla.",
+  "stjornuspa": "Sporðdrekinn finnur í dag leynihurð þar sem aðrir sjá aðeins bókahillu — en athugaðu fyrst hvort hún sé ekki einfaldlega skökk. Segulbandstæki, flauelsjakki og dularfullt augnaráð gætu fleytt þér langt, að minnsta kosti fram að kaffitíma.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Alligator.jpg/500px-USS_Alligator.jpg",
     "ar": "1822",
-    "texti": "Bandaríska herskipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var greinilega ekki allt pálmatré og rólegheit.",
+    "texti": "Bandaríska skipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var sem sagt ekki eingöngu sól, sandur og regnhlífar í glösum.",
     "heimild": "https://en.wikipedia.org/wiki/USS_Alligator_(1820)",
     "breidd": 330,
     "haed": 220
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "uppfaert": "2026-11-09"
 }

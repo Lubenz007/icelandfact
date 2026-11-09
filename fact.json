@@ -1,147 +1,152 @@
 {
-  "date": "2026-11-08",
-  "dagur": 8,
+  "date": "2026-11-09",
+  "dagur": 9,
   "manudur": "nóvember",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 312,
-  "sunrise": "09:33",
-  "sunset": "16:48",
-  "mmdd": "11-08",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 313,
+  "sunrise": "09:36",
+  "sunset": "16:45",
+  "mmdd": "11-09",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 8. nóvember! Í dag förum við frá keisarahöllum og glerofnum til emústríðs og afmælis Gordons Ramsay — söguleg dagskrá sem hefði sennilega endað með vel steiktum emúa, hefði kokkurinn fengið að ráða. Komdu þér vel fyrir og mundu: fortíðin er aldrei langt undan, hún er bara illa merkt.",
+  "kvedja": "Góðan 9. nóvember! Dagurinn spannar allt frá leyfisbréfi Odds Gottskálkssonar til falls Berlínarmúrsins — og sannar að bæði prentvélar og klaufalegir blaðamannafundir geta breytt sögunni. Fáðu þér kaffisopa og gakktu óhræddur inn í annál dagsins.",
   "nafnadagur": "",
   "atburdir": [
     {
-      "ar": "960",
-      "texti": "Í stríðum Araba og Býsansmanna sátu býsanskar hersveitir undir stjórn Leós Fókasar yngri fyrir her Hamdanída og gjöreyddu honum. Fyrirsát er gömul hernaðaraðferð, en sjaldan góð leið til að eignast vini."
+      "ar": "1822",
+      "texti": "Bandaríska skipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var sem sagt ekki eingöngu sól, sandur og regnhlífar í glösum."
     },
     {
-      "ar": "1291",
-      "texti": "Lög voru sett sem færðu mestan hluta glergerðar Feneyja yfir til eyjarinnar Murano. Þar varð til heimsfræg glerhefð, þótt upphaflega hafi meðal annars vakað fyrir mönnum að halda eldhættulegum ofnunum frá borginni."
+      "ar": "1938",
+      "texti": "Kristalsnótt hófst þegar stormsveitir SA og almennir borgarar réðust á heimili, fyrirtæki og bænahús gyðinga í Þýskalandi og Austurríki. Að minnsta kosti 90 létust og 30.000 karlar voru fluttir í fangabúðir."
     },
     {
-      "ar": "1644",
-      "texti": "Shunzhi-keisarinn var settur í hásæti í Beijing eftir fall Ming-ættarinnar. Hann varð þar með fyrsti keisari Qing-ættarinnar sem ríkti yfir Kína."
+      "ar": "1967",
+      "texti": "Fyrsta tölublað bandaríska tímaritsins Rolling Stone kom út, helgað tónlist, stjórnmálum og dægurmenningu. Rokkið hafði þar með fengið sitt eigið prentsvertuþakta heimili."
     },
     {
-      "ar": "1932",
-      "texti": "Ástralski herinn dró sig út úr hinu svonefnda emústríði í Vestur-Ástralíu eftir óhagstæða fjölmiðlaumfjöllun. Emúarnir skrifuðu enga formlega siguryfirlýsingu, en höfðu engu að síður betur."
+      "ar": "1989",
+      "texti": "Austur-þýski embættismaðurinn Günter Schabowski tilkynnti fyrir mistök að landamærin yrðu opnuð þegar í stað. Um kvöldið féll Berlínarmúrinn — söguleg áminning um að lesa tilkynninguna vandlega áður en myndavélarnar fara í gang."
     },
     {
-      "ar": "2013",
-      "texti": "Fellibylurinn Haiyan gekk á land á Visayas-eyjum Filippseyja og varð að minnsta kosti 6.300 manns að bana. Hann er mannskæðasti fellibylur sem skráður hefur verið á Filippseyjum í nútímasögu."
+      "ar": "2019",
+      "texti": "Forsætisráðherra Pakistans, Imran Khan, vígði Kartarpur-ganginn, vegabréfsáritunarlausa landamæraleið að helgistaðnum Gurdwara Darbar Sahib. Leiðin auðveldaði pílagrímum för yfir landamæri Indlands og Pakistans."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1879",
-      "texti": "Hið íslenska fornleifafélag var stofnað og tók að sinna varðveislu og rannsóknum á menningarminjum þjóðarinnar.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1949",
-      "texti": "Fyrstu umferðarljós landsins voru tekin í notkun á fjórum gatnamótum í miðbæ Reykjavíkur. Borgarbúar þurftu þá að læra að rautt ljós væri ekki kurteisleg ábending heldur skipun.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1978",
-      "texti": "Friðrik Ólafsson var kjörinn forseti Alþjóða skáksambandsins FIDE og gegndi embættinu í fjögur ár — glæsilegur leikur á alþjóðlega skákborðinu.",
+      "ar": "1539",
+      "texti": "Háskólakennarar í Kaupmannahöfn veittu leyfi til að prenta Nýjatestamentisþýðingu Odds Gottskálkssonar, mikilvægt skref í sögu íslensks ritmáls og prentunar.",
       "landshluti": "Erlendis"
     },
     {
-      "ar": "1983",
-      "texti": "Þyrla Landhelgisgæslunnar TF-Rán fórst í Jökulfjörðum og með henni fjórir menn.",
+      "ar": "1932",
+      "texti": "Gúttóslagurinn braust út í Reykjavík þegar áheyrendur hleyptu upp bæjarstjórnarfundi í Góðtemplarahúsinu vegna fyrirhugaðrar launalækkunar í atvinnubótavinnu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1985",
+      "texti": "Minnisvarði um þjóðskáldið Matthías Jochumsson var afhjúpaður á Skógum í Þorskafirði, þar sem hann fæddist 150 árum áður.",
       "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1986",
+      "texti": "Tveimur hvalbátum var sökkt í Reykjavíkurhöfn og samtökin Sea Shepherd lýstu ábyrgð á verknaðinum.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Matthew Rhys",
-      "starfsgrein": "velskur leikari",
+      "nafn": "Hedy Lamarr",
+      "starfsgrein": "leikkona og uppfinningakona",
+      "ar": "1914"
+    },
+    {
+      "nafn": "Carl Sagan",
+      "starfsgrein": "stjörnufræðingur og vísindamiðlari",
+      "ar": "1934"
+    },
+    {
+      "nafn": "Ryan Murphy",
+      "starfsgrein": "sjónvarpshöfundur, framleiðandi og leikstjóri",
+      "ar": "1965"
+    },
+    {
+      "nafn": "Alessandro Del Piero",
+      "starfsgrein": "knattspyrnumaður",
       "ar": "1974"
     },
     {
-      "nafn": "Gordon Ramsay",
-      "starfsgrein": "breskur kokkur og sjónvarpsmaður",
-      "ar": "1966"
-    },
-    {
-      "nafn": "Kazuo Ishiguro",
-      "starfsgrein": "japansk-breskur rithöfundur",
-      "ar": "1954"
-    },
-    {
-      "nafn": "Bram Stoker",
-      "starfsgrein": "írskur rithöfundur",
-      "ar": "1847"
-    },
-    {
-      "nafn": "SZA",
-      "starfsgrein": "bandarísk söngkona og lagahöfundur",
-      "ar": "1989"
+      "nafn": "Finn Cole",
+      "starfsgrein": "leikari",
+      "ar": "1995"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Karl Ísfeld",
-      "starfsgrein": "blaðamaður, rithöfundur og þýðandi",
-      "ar": "1906"
+      "nafn": "Dóri Jónsson",
+      "starfsgrein": "rithöfundur",
+      "ar": "1901"
+    },
+    {
+      "nafn": "María Guðmundsdóttir",
+      "starfsgrein": "leikkona",
+      "ar": "1935"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða andstæðingur reyndist ástralska hernum óþægilega harður í horn að taka árið 1932?",
+      "spurning": "Hvaða sögufrægi múr féll að kvöldi 9. nóvember 1989?",
       "svor": [
-        "Emúar",
-        "Kengúrur",
-        "Kameldýr",
-        "Vambarlausir sauðir"
+        "Berlínarmúrinn",
+        "Hadrianusarmúrinn",
+        "Kínamúrinn",
+        "Veggir Jeríkó"
       ],
       "rett": 0,
-      "skyring": "Emúarnir höfðu betur í þessum einkennilega kafla ástralskrar sögu."
+      "skyring": "Berlínarmúrinn féll eftir að Günter Schabowski tilkynnti opnun landamæranna fyrir mistök."
     },
     {
-      "spurning": "Hvaða Íslendingur var kjörinn forseti Alþjóða skáksambandsins FIDE árið 1978?",
+      "spurning": "Hvar átti Gúttóslagurinn sér stað árið 1932?",
       "svor": [
-        "Jón L. Árnason",
-        "Friðrik Ólafsson",
-        "Guðmundur Sigurjónsson",
-        "Margrét Þórhallsdóttir"
+        "Á Akureyri",
+        "Í Reykjavík",
+        "Á Ísafirði",
+        "Í Vestmannaeyjum"
       ],
       "rett": 1,
-      "skyring": "Friðrik Ólafsson stýrði FIDE næstu fjögur árin."
+      "skyring": "Ólætin brutust út við bæjarstjórnarfund í Góðtemplarahúsinu í Reykjavík."
     },
     {
-      "spurning": "Hver af afmælisbörnum dagsins skapaði Drakúla greifa?",
+      "spurning": "Hver þessara afmælisbarna var bæði kvikmyndastjarna og uppfinningakona?",
       "svor": [
-        "Kazuo Ishiguro",
-        "Matthew Rhys",
-        "Bram Stoker",
-        "Gordon Ramsay"
+        "María Guðmundsdóttir",
+        "Hedy Lamarr",
+        "Finn Cole",
+        "Alessandro Del Piero"
       ],
-      "rett": 2,
-      "skyring": "Bram Stoker gaf heiminum Drakúla — gest sem þarf hvorki rúm né morgunverð."
+      "rett": 1,
+      "skyring": "Hedy Lamarr sameinaði glæsilegan kvikmyndaferil og merkilega uppfinningastarfsemi."
     }
   ],
-  "tonlistUSA": "Island Girl – Elton John (1975)",
-  "tonlistUK": "The Name of the Game – ABBA (1977)",
-  "bio": "Hrói Höttur (1973)",
+  "tonlistUSA": "Miami Vice Theme – Jan Hammer (1985)",
+  "tonlistUK": "A Good Heart – Feargal Sharkey (1985)",
+  "bio": "Skyfall (2012)",
   "ord_dagsins": {
-    "ord": "dægur",
-    "skyring": "Dægur merkir dagur eða sólarhringur og kemur meðal annars fyrir í orðinu dægurlag."
+    "ord": "húm",
+    "skyring": "Húm er dauft ljós eða hálfrökkur, einkum þegar dagur rennur saman við nótt."
   },
-  "vissir_thu": "Murano varð miðstöð feneyskrar glergerðar eftir að lög árið 1291 bundu mestan hluta iðnaðarins við eyjuna.",
-  "stjornuspa": "Sporðdreki, segulmagn þitt er sterkt í dag, en reyndu að nota það ekki til að yfirheyra fólk um hver tók síðasta kaffibollann. Gömul ráðgáta leysist þegar þú hættir að leita að flóknustu skýringunni og kveikir einfaldlega á lampanum.",
+  "vissir_thu": "Hedy Lamarr og tónskáldið George Antheil fengu einkaleyfi á tíðnihoppskerfi sem ætlað var að gera fjarstýringu tundurskeyta erfiðari að trufla.",
+  "stjornuspa": "Sporðdrekinn finnur í dag leynihurð þar sem aðrir sjá aðeins bókahillu — en athugaðu fyrst hvort hún sé ekki einfaldlega skökk. Segulbandstæki, flauelsjakki og dularfullt augnaráð gætu fleytt þér langt, að minnsta kosti fram að kaffitíma.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Greekfire-madridskylitzes1.jpg/500px-Greekfire-madridskylitzes1.jpg",
-    "ar": "960",
-    "texti": "Í stríðum Araba og Býsansmanna sátu býsanskar hersveitir undir stjórn Leós Fókasar yngri fyrir her Hamdanída og gjöreyddu honum. Fyrirsát er gömul hernaðaraðferð, en sjaldan góð leið til að eignast vini.",
-    "heimild": "https://en.wikipedia.org/wiki/Arab–Byzantine_wars",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Alligator.jpg/500px-USS_Alligator.jpg",
+    "ar": "1822",
+    "texti": "Bandaríska skipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var sem sagt ekki eingöngu sól, sandur og regnhlífar í glösum.",
+    "heimild": "https://en.wikipedia.org/wiki/USS_Alligator_(1820)",
     "breidd": 330,
-    "haed": 169
+    "haed": 220
   },
   "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-08",
-  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-09",
+  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
