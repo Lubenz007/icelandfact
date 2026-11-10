@@ -1,152 +1,142 @@
 {
-  "date": "2026-11-09",
-  "dagur": 9,
+  "date": "2026-11-10",
+  "dagur": 10,
   "manudur": "nóvember",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 313,
-  "sunrise": "09:36",
-  "sunset": "16:45",
-  "mmdd": "11-09",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 314,
+  "sunrise": "09:39",
+  "sunset": "16:42",
+  "mmdd": "11-10",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan 9. nóvember! Dagurinn spannar allt frá leyfisbréfi Odds Gottskálkssonar til falls Berlínarmúrsins — og sannar að bæði prentvélar og klaufalegir blaðamannafundir geta breytt sögunni. Fáðu þér kaffisopa og gakktu óhræddur inn í annál dagsins.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag er 10. nóvember, og það er ljóst að þessi dagur hefur verið fullur af dramatík og stóratburðum í gegnum aldirnar. Hvort sem það er konungur sem skipar forseta að þegja eða sjónvarpsþáttur sem breytir heimi barna, þá er nóg að taka úr. Hér er smá sagnfræðileg kryddun á föstudeginum ykkar!",
+  "nafnadagur": "Ólafur",
   "atburdir": [
     {
-      "ar": "1822",
-      "texti": "Bandaríska skipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var sem sagt ekki eingöngu sól, sandur og regnhlífar í glösum."
+      "ar": "2020",
+      "texti": "Bresk stjórnvöld tilkynntu að síðasta jarðsprengjan hefði verið fjarlægð frá Falklandseyjum, en hún var lögð þar af argentínskum hersveitum í Falklandseyjastríðinu 1982."
     },
     {
-      "ar": "1938",
-      "texti": "Kristalsnótt hófst þegar stormsveitir SA og almennir borgarar réðust á heimili, fyrirtæki og bænahús gyðinga í Þýskalandi og Austurríki. Að minnsta kosti 90 létust og 30.000 karlar voru fluttir í fangabúðir."
+      "ar": "2007",
+      "texti": "Á Ibero-Ameríku fundinum í Santiago, Chile, spurði Juan Carlos I Spánarkonungur Hugo Chávez, forseta Venesúela, „Af hverju þegirðu ekki?“ eftir að Chávez truflaði ítrekað ræðu forsætisráðherra Spánar."
     },
     {
-      "ar": "1967",
-      "texti": "Fyrsta tölublað bandaríska tímaritsins Rolling Stone kom út, helgað tónlist, stjórnmálum og dægurmenningu. Rokkið hafði þar með fengið sitt eigið prentsvertuþakta heimili."
+      "ar": "1969",
+      "texti": "Fyrsti þátturinn af barnasjónvarpsþáttunum Sesame Street var sýndur í Bandaríkjunum, og breytti þar með sjónvarpi barna til frambúðar."
     },
     {
-      "ar": "1989",
-      "texti": "Austur-þýski embættismaðurinn Günter Schabowski tilkynnti fyrir mistök að landamærin yrðu opnuð þegar í stað. Um kvöldið féll Berlínarmúrinn — söguleg áminning um að lesa tilkynninguna vandlega áður en myndavélarnar fara í gang."
+      "ar": "1898",
+      "texti": "Hvítir yfirburðarsinnar tóku völdin og myrtu svarta Bandaríkjamenn í Wilmington-fjöldamorðunum, sem er eina dæmið um að sveitarstjórn hafi verið steypt af stóli í sögu Bandaríkjanna."
     },
     {
-      "ar": "2019",
-      "texti": "Forsætisráðherra Pakistans, Imran Khan, vígði Kartarpur-ganginn, vegabréfsáritunarlausa landamæraleið að helgistaðnum Gurdwara Darbar Sahib. Leiðin auðveldaði pílagrímum för yfir landamæri Indlands og Pakistans."
+      "ar": "1202",
+      "texti": "Fjórða krossferðin: Umsátrið um Zara hófst, sem var fyrsta árásin á kaþólska borg af kaþólskum krossförum, í borginni Zadar í Króatíu í dag."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1539",
-      "texti": "Háskólakennarar í Kaupmannahöfn veittu leyfi til að prenta Nýjatestamentisþýðingu Odds Gottskálkssonar, mikilvægt skref í sögu íslensks ritmáls og prentunar.",
-      "landshluti": "Erlendis"
+      "ar": "1944",
+      "texti": "Þýski kafbáturinn U-300 sökkti breska olíuskipinu Shirvan og íslenska farþegaskipinu Goðafossi út af Garðskaga, en 42 manns fórust í árásunum.",
+      "landshluti": "Reykjanes"
     },
     {
-      "ar": "1932",
-      "texti": "Gúttóslagurinn braust út í Reykjavík þegar áheyrendur hleyptu upp bæjarstjórnarfundi í Góðtemplarahúsinu vegna fyrirhugaðrar launalækkunar í atvinnubótavinnu.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1967",
+      "texti": "Siglufjörður komst í vegasamband allt árið um kring með opnun Strákaganga, sem voru lengstu göng á Íslandi á þeim tíma, 800 metrar.",
+      "landshluti": "Norðurland"
     },
     {
-      "ar": "1985",
-      "texti": "Minnisvarði um þjóðskáldið Matthías Jochumsson var afhjúpaður á Skógum í Þorskafirði, þar sem hann fæddist 150 árum áður.",
-      "landshluti": "Vestfirðir"
+      "ar": "1984",
+      "texti": "Raforkukerfi Íslands varð hringtengt þegar Suðurlína var tekin í notkun, stórt skref í orkuöryggi landsins.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1986",
-      "texti": "Tveimur hvalbátum var sökkt í Reykjavíkurhöfn og samtökin Sea Shepherd lýstu ábyrgð á verknaðinum.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "2023",
+      "texti": "Grindavíkurbær var rýmdur eftir að stór kvikugangur myndaðist undir bænum, sem leiddi til mikillar óvissu og áhyggna.",
+      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Hedy Lamarr",
-      "starfsgrein": "leikkona og uppfinningakona",
-      "ar": "1914"
+      "nafn": "Martin Luther",
+      "starfsgrein": "þýskur munkur og siðbótarfrömuður",
+      "ar": "1483"
     },
     {
-      "nafn": "Carl Sagan",
-      "starfsgrein": "stjörnufræðingur og vísindamiðlari",
-      "ar": "1934"
+      "nafn": "Richard Burton",
+      "starfsgrein": "velskur leikari og söngvari",
+      "ar": "1925"
     },
     {
-      "nafn": "Ryan Murphy",
-      "starfsgrein": "sjónvarpshöfundur, framleiðandi og leikstjóri",
-      "ar": "1965"
+      "nafn": "Neil Gaiman",
+      "starfsgrein": "enskur rithöfundur og handritshöfundur",
+      "ar": "1960"
     },
     {
-      "nafn": "Alessandro Del Piero",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1974"
-    },
-    {
-      "nafn": "Finn Cole",
-      "starfsgrein": "leikari",
-      "ar": "1995"
+      "nafn": "Ennio Morricone",
+      "starfsgrein": "ítalskt tónskáld og hljómsveitarstjóri",
+      "ar": "1928"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Dóri Jónsson",
-      "starfsgrein": "rithöfundur",
-      "ar": "1901"
-    },
-    {
-      "nafn": "María Guðmundsdóttir",
-      "starfsgrein": "leikkona",
-      "ar": "1935"
+      "nafn": "Einar Pálsson",
+      "starfsgrein": "skólastjóri og rithöfundur",
+      "ar": "1925"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða sögufrægi múr féll að kvöldi 9. nóvember 1989?",
+      "spurning": "Hvaða sjónvarpsþáttur hóf göngu sína þennan dag árið 1969?",
       "svor": [
-        "Berlínarmúrinn",
-        "Hadrianusarmúrinn",
-        "Kínamúrinn",
-        "Veggir Jeríkó"
+        "Sesame Street",
+        "The Brady Bunch",
+        "Scooby-Doo, Where Are You!",
+        "Monty Python's Flying Circus"
       ],
       "rett": 0,
-      "skyring": "Berlínarmúrinn féll eftir að Günter Schabowski tilkynnti opnun landamæranna fyrir mistök."
+      "skyring": "Sesame Street hefur glatt ótal kynslóðir barna í áratugi."
     },
     {
-      "spurning": "Hvar átti Gúttóslagurinn sér stað árið 1932?",
+      "spurning": "Hvaða íslenska mannvirki varð hringtengt þennan dag árið 1984?",
       "svor": [
-        "Á Akureyri",
-        "Í Reykjavík",
-        "Á Ísafirði",
-        "Í Vestmannaeyjum"
+        "Raforkukerfi Íslands",
+        "Símanetið",
+        "Vatnsveitan",
+        "Vegakerfið"
       ],
-      "rett": 1,
-      "skyring": "Ólætin brutust út við bæjarstjórnarfund í Góðtemplarahúsinu í Reykjavík."
+      "rett": 0,
+      "skyring": "Raforkukerfið varð hringtengt með Suðurlínu, sem var mikilvægt skref fyrir orkuöryggi landsins."
     },
     {
-      "spurning": "Hver þessara afmælisbarna var bæði kvikmyndastjarna og uppfinningakona?",
+      "spurning": "Hvaða frægi siðbótarfrömuður fæddist þennan dag árið 1483?",
       "svor": [
-        "María Guðmundsdóttir",
-        "Hedy Lamarr",
-        "Finn Cole",
-        "Alessandro Del Piero"
+        "Martin Luther",
+        "Jean Calvin",
+        "Huldrych Zwingli",
+        "John Knox"
       ],
-      "rett": 1,
-      "skyring": "Hedy Lamarr sameinaði glæsilegan kvikmyndaferil og merkilega uppfinningastarfsemi."
+      "rett": 0,
+      "skyring": "Martin Luther er þekktur fyrir að hafa hrint af stað siðbótinni í Evrópu."
     }
   ],
-  "tonlistUSA": "Miami Vice Theme – Jan Hammer (1985)",
-  "tonlistUK": "A Good Heart – Feargal Sharkey (1985)",
-  "bio": "Skyfall (2012)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er dauft ljós eða hálfrökkur, einkum þegar dagur rennur saman við nótt."
+    "ord": "hringtengdur",
+    "skyring": "Þegar eitthvað er tengt saman í hring, eins og raforkukerfið sem varð hringtengt á Íslandi."
   },
-  "vissir_thu": "Hedy Lamarr og tónskáldið George Antheil fengu einkaleyfi á tíðnihoppskerfi sem ætlað var að gera fjarstýringu tundurskeyta erfiðari að trufla.",
-  "stjornuspa": "Sporðdrekinn finnur í dag leynihurð þar sem aðrir sjá aðeins bókahillu — en athugaðu fyrst hvort hún sé ekki einfaldlega skökk. Segulbandstæki, flauelsjakki og dularfullt augnaráð gætu fleytt þér langt, að minnsta kosti fram að kaffitíma.",
+  "vissir_thu": "Árið 1913 var járnbrautarlest notuð til fólksflutninga á Íslandi í fyrsta skipti, þegar blaðamenn og farþegar voru fluttir frá Reykjavíkurhöfn að Öskjuhlíð.",
+  "stjornuspa": "Sporðdreki, í dag gæti verið góður dagur til að spyrja þá sem trufla þig: „Af hverju þegirðu ekki?“ En mundu að gera það með stíl, ekki eins og konungur. Eða kannski bara horfa á Sesame Street og slaka á.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/USS_Alligator.jpg/500px-USS_Alligator.jpg",
-    "ar": "1822",
-    "texti": "Bandaríska skipið USS Alligator lenti í átökum við þrjár sjóræningjaskútur undan strönd Kúbu. Karíbahafið var sem sagt ekki eingöngu sól, sandur og regnhlífar í glösum.",
-    "heimild": "https://en.wikipedia.org/wiki/USS_Alligator_(1820)",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mines_-_Copie_%282%29_%283445582152%29.jpg/500px-Mines_-_Copie_%282%29_%283445582152%29.jpg",
+    "ar": "2020",
+    "texti": "Bresk stjórnvöld tilkynntu að síðasta jarðsprengjan hefði verið fjarlægð frá Falklandseyjum, en hún var lögð þar af argentínskum hersveitum í Falklandseyjastríðinu 1982.",
+    "heimild": "https://en.wikipedia.org/wiki/Land_mines_in_the_Falkland_Islands",
     "breidd": 330,
-    "haed": 220
+    "haed": 258
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-11-09",
-  "verdlag": "Árið 2003 kostaði eintak af Morgunblaðinu um 190 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.9-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-10",
+  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

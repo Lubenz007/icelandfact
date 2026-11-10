@@ -6,77 +6,72 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:38",
   "sunset": "16:42",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 10. nóvember getum við ferðast frá krossförum við Adríahaf til brúðuleikhúss á Sesame Street og þaðan alla leið í íslenska járnbrautarlest — sem er býsna drjúg dagsferð. Spenntu því sögulega öryggisbeltið og hafðu glottið með í för.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag er 10. nóvember, og það er ljóst að þessi dagur hefur verið fullur af dramatík og stóratburðum í gegnum aldirnar. Hvort sem það er konungur sem skipar forseta að þegja eða sjónvarpsþáttur sem breytir heimi barna, þá er nóg að taka úr. Hér er smá sagnfræðileg kryddun á föstudeginum ykkar!",
+  "nafnadagur": "Ólafur",
   "atburdir": [
     {
-      "ar": "1202",
-      "texti": "Umsátrið um Zara hófst í fjórðu krossferðinni, þegar kaþólskir krossfarar réðust í fyrsta sinn á kaþólska borg. Þar tók ferðin heldur betur óvænta og óþægilega stefnu."
+      "ar": "2020",
+      "texti": "Bresk stjórnvöld tilkynntu að síðasta jarðsprengjan hefði verið fjarlægð frá Falklandseyjum, en hún var lögð þar af argentínskum hersveitum í Falklandseyjastríðinu 1982."
     },
     {
-      "ar": "1599",
-      "texti": "Stuðningsmenn hins fallna Sigismundar 3. Vasa voru teknir af lífi opinberlega í Blóðbaðinu í Åbo, við lok sænskrar borgarastyrjaldar."
-    },
-    {
-      "ar": "1871",
-      "texti": "Blaðamaðurinn og landkönnuðurinn Henry Morton Stanley fann trúboðann og landkönnuðinn David Livingstone nærri Tanganjikavatni í því sem nú er Tansanía. Fundurinn varð einn sá frægasti í sögu landkönnunar."
+      "ar": "2007",
+      "texti": "Á Ibero-Ameríku fundinum í Santiago, Chile, spurði Juan Carlos I Spánarkonungur Hugo Chávez, forseta Venesúela, „Af hverju þegirðu ekki?“ eftir að Chávez truflaði ítrekað ræðu forsætisráðherra Spánar."
     },
     {
       "ar": "1969",
-      "texti": "Barnasjónvarpsþættirnir Sesame Street hófu göngu sína í Bandaríkjunum. Þar með hófst áratugalöng blanda af stafrófi, talnalærdómi og óvenju viðkunnanlegum brúðum."
+      "texti": "Fyrsti þátturinn af barnasjónvarpsþáttunum Sesame Street var sýndur í Bandaríkjunum, og breytti þar með sjónvarpi barna til frambúðar."
     },
     {
-      "ar": "2020",
-      "texti": "Breska ríkisstjórnin tilkynnti að síðasta jarðsprengjan á Falklandseyjum hefði verið fjarlægð. Sprengjurnar höfðu verið lagðar af argentínskum hersveitum í Falklandseyjastríðinu 1982."
+      "ar": "1898",
+      "texti": "Hvítir yfirburðarsinnar tóku völdin og myrtu svarta Bandaríkjamenn í Wilmington-fjöldamorðunum, sem er eina dæmið um að sveitarstjórn hafi verið steypt af stóli í sögu Bandaríkjanna."
+    },
+    {
+      "ar": "1202",
+      "texti": "Fjórða krossferðin: Umsátrið um Zara hófst, sem var fyrsta árásin á kaþólska borg af kaþólskum krossförum, í borginni Zadar í Króatíu í dag."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1913",
-      "texti": "Járnbrautarlest var í fyrsta sinn notuð til fólksflutninga á Íslandi, þegar verktakar fluttu blaðamenn og aðra farþega frá Reykjavíkurhöfn að Öskjuhlíð. Íslensk lestarsaga varð stutt, en þennan dag fékk hún að minnsta kosti farþega.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
       "ar": "1944",
-      "texti": "Þýski kafbáturinn U-300 sökkti íslenska farþegaskipinu Goðafossi og breska olíuskipinu Shirvan út af Garðskaga. Tuttugu og fjórir fórust með Goðafossi, átján með Shirvan og sextán með dráttarbátnum Empire Wold, sem fórst á leið til aðstoðar.",
+      "texti": "Þýski kafbáturinn U-300 sökkti breska olíuskipinu Shirvan og íslenska farþegaskipinu Goðafossi út af Garðskaga, en 42 manns fórust í árásunum.",
       "landshluti": "Reykjanes"
     },
     {
       "ar": "1967",
-      "texti": "Siglufjörður komst í heilsárssamband á landi þegar Strákagöng voru opnuð. Göngin voru 800 metra löng og þá þau lengstu á Íslandi.",
+      "texti": "Siglufjörður komst í vegasamband allt árið um kring með opnun Strákaganga, sem voru lengstu göng á Íslandi á þeim tíma, 800 metrar.",
       "landshluti": "Norðurland"
     },
     {
+      "ar": "1984",
+      "texti": "Raforkukerfi Íslands varð hringtengt þegar Suðurlína var tekin í notkun, stórt skref í orkuöryggi landsins.",
+      "landshluti": "Landið allt"
+    },
+    {
       "ar": "2023",
-      "texti": "Grindavíkurbær var rýmdur eftir að stór kvikugangur myndaðist undir bænum. Íbúar þurftu að yfirgefa heimili sín með skömmum fyrirvara vegna þeirrar hættu sem fylgdi jarðhræringunum.",
+      "texti": "Grindavíkurbær var rýmdur eftir að stór kvikugangur myndaðist undir bænum, sem leiddi til mikillar óvissu og áhyggna.",
       "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Brittany Murphy",
-      "starfsgrein": "leikkona og söngkona",
-      "ar": "1977"
+      "nafn": "Martin Luther",
+      "starfsgrein": "þýskur munkur og siðbótarfrömuður",
+      "ar": "1483"
     },
     {
-      "nafn": "Armand Duplantis",
-      "starfsgrein": "stangarstökkvari",
-      "ar": "1999"
+      "nafn": "Richard Burton",
+      "starfsgrein": "velskur leikari og söngvari",
+      "ar": "1925"
     },
     {
-      "nafn": "Ann Reinking",
-      "starfsgrein": "leikkona, dansari og danshöfundur",
-      "ar": "1949"
+      "nafn": "Neil Gaiman",
+      "starfsgrein": "enskur rithöfundur og handritshöfundur",
+      "ar": "1960"
     },
     {
-      "nafn": "Aleksandar Kolarov",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1985"
-    },
-    {
-      "nafn": "Andrei Tupolev",
-      "starfsgrein": "flugvélahönnuður og verkfræðingur",
-      "ar": "1888"
+      "nafn": "Ennio Morricone",
+      "starfsgrein": "ítalskt tónskáld og hljómsveitarstjóri",
+      "ar": "1928"
     }
   ],
   "afmaeli_island": [
@@ -84,65 +79,60 @@
       "nafn": "Einar Pálsson",
       "starfsgrein": "skólastjóri og rithöfundur",
       "ar": "1925"
-    },
-    {
-      "nafn": "Hallgrímur Hallgrímsson",
-      "starfsgrein": "byltingarmaður",
-      "ar": "1910"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða sígilda barnasjónvarpsþáttur hóf göngu sína 10. nóvember 1969?",
+      "spurning": "Hvaða sjónvarpsþáttur hóf göngu sína þennan dag árið 1969?",
       "svor": [
         "Sesame Street",
-        "Prúðuleikararnir",
-        "Teletubbies",
-        "Thomas og vinir hans"
+        "The Brady Bunch",
+        "Scooby-Doo, Where Are You!",
+        "Monty Python's Flying Circus"
       ],
       "rett": 0,
-      "skyring": "Sesame Street opnaði dyrnar að götunni árið 1969 og hefur kennt kynslóðum bókstafi, tölur og brúðusiði."
+      "skyring": "Sesame Street hefur glatt ótal kynslóðir barna í áratugi."
     },
     {
-      "spurning": "Hvar var járnbrautarlest fyrst notuð til fólksflutninga á Íslandi árið 1913?",
+      "spurning": "Hvaða íslenska mannvirki varð hringtengt þennan dag árið 1984?",
       "svor": [
-        "Frá Akureyrarhöfn að Glerá",
-        "Frá Reykjavíkurhöfn að Öskjuhlíð",
-        "Frá Hafnarfirði að Vífilsstöðum",
-        "Frá Þingvöllum að Laugarvatni"
+        "Raforkukerfi Íslands",
+        "Símanetið",
+        "Vatnsveitan",
+        "Vegakerfið"
       ],
-      "rett": 1,
-      "skyring": "Farþegarnir fengu óvenjulega lestarferð frá Reykjavíkurhöfn að Öskjuhlíð."
+      "rett": 0,
+      "skyring": "Raforkukerfið varð hringtengt með Suðurlínu, sem var mikilvægt skref fyrir orkuöryggi landsins."
     },
     {
-      "spurning": "Hvaða afmælisbarn dagsins er heimsþekktur stangarstökkvari?",
+      "spurning": "Hvaða frægi siðbótarfrömuður fæddist þennan dag árið 1483?",
       "svor": [
-        "Andre De Grasse",
-        "Aleksandar Kolarov",
-        "Armand Duplantis",
-        "Brendon Hartley"
+        "Martin Luther",
+        "Jean Calvin",
+        "Huldrych Zwingli",
+        "John Knox"
       ],
-      "rett": 2,
-      "skyring": "Armand Duplantis hefur gert stangarstökk að listgrein þar sem þyngdaraflið fær reglulega frí."
+      "rett": 0,
+      "skyring": "Martin Luther er þekktur fyrir að hafa hrint af stað siðbótinni í Evrópu."
     }
   ],
-  "tonlistUSA": "Caribbean Queen (No More Love on the Run) – Billy Ocean (1984)",
-  "tonlistUK": "I Feel for You – Chaka Khan (1984)",
-  "bio": "The Incredibles (2004)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Freedom – Wham! (1984)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "gluggaveður",
-    "skyring": "Gluggaveður er veður sem virðist fallegt og notalegt séð innan frá, en reynist mun kaldara eða leiðinlegra þegar út er komið."
+    "ord": "hringtengdur",
+    "skyring": "Þegar eitthvað er tengt saman í hring, eins og raforkukerfið sem varð hringtengt á Íslandi."
   },
-  "vissir_thu": "Árásin á Zara árið 1202 var fyrsta árás kaþólskra krossfara á kaþólska borg í sögu krossferðanna.",
-  "stjornuspa": "Sporðdreki, gömul leyndarmál kunna að skríða fram úr skjalaskápnum í dag, en þú tekur á móti þeim eins og sannur rannsóknarblaðamaður með kaffibolla. Forðastu þó að segja „Dr. Livingstone, vænti ég?“ við ókunnuga — nema stemningin sé alveg sérstaklega söguleg.",
+  "vissir_thu": "Árið 1913 var járnbrautarlest notuð til fólksflutninga á Íslandi í fyrsta skipti, þegar blaðamenn og farþegar voru fluttir frá Reykjavíkurhöfn að Öskjuhlíð.",
+  "stjornuspa": "Sporðdreki, í dag gæti verið góður dagur til að spyrja þá sem trufla þig: „Af hverju þegirðu ekki?“ En mundu að gera það með stíl, ekki eins og konungur. Eða kannski bara horfa á Sesame Street og slaka á.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/ConquestOfConstantinopleByTheCrusadersIn1204.jpg/500px-ConquestOfConstantinopleByTheCrusadersIn1204.jpg",
-    "ar": "1202",
-    "texti": "Umsátrið um Zara hófst í fjórðu krossferðinni, þegar kaþólskir krossfarar réðust í fyrsta sinn á kaþólska borg. Þar tók ferðin heldur betur óvænta og óþægilega stefnu.",
-    "heimild": "https://en.wikipedia.org/wiki/Fourth_Crusade",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mines_-_Copie_%282%29_%283445582152%29.jpg/500px-Mines_-_Copie_%282%29_%283445582152%29.jpg",
+    "ar": "2020",
+    "texti": "Bresk stjórnvöld tilkynntu að síðasta jarðsprengjan hefði verið fjarlægð frá Falklandseyjum, en hún var lögð þar af argentínskum hersveitum í Falklandseyjastríðinu 1982.",
+    "heimild": "https://en.wikipedia.org/wiki/Land_mines_in_the_Falkland_Islands",
     "breidd": 330,
-    "haed": 205
+    "haed": 258
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-10"
 }
