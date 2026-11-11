@@ -6,148 +6,138 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:41",
   "sunset": "16:39",
-  "kvedja": "Góðan 11. nóvember! Dagurinn ber með sér bæði vopnahlé, konunglegar umbætur og íslenska seiglu — og minnir okkur á að sagan kann bæði að hvísla og skella hurðum. Sporðdrekinn má því halda ró sinni, en hafa broddinn til taks.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 11. nóvember, er dagur sem minnir okkur á bæði lok stríða og upphaf nýrra tíma. Hvort sem þú ert að fagna friði eða bara hlusta á góða tónlist, þá vona ég að dagurinn verði þér góður!",
+  "nafnadagur": "Már",
   "atburdir": [
     {
-      "ar": "1778",
-      "texti": "Í bandaríska frelsisstríðinu réðust breskar hersveitir og bandamenn þeirra úr röðum Írókesa á virki og þorpið Cherry Valley í New York. Fjórtán hermenn og þrjátíu óbreyttir borgarar féllu."
-    },
-    {
-      "ar": "1813",
-      "texti": "Breskar og kanadískar hersveitir hrundu bandarískri árás í orrustunni við Crysler's Farm. Þar með varð tilraun Bandaríkjamanna til að ná Montreal að engu."
-    },
-    {
-      "ar": "1918",
-      "texti": "Vopnahlé milli Þýskalands og bandamanna var undirritað í járnbrautarvagni í Compiègne-skógi í Frakklandi. Þar með lauk bardögum fyrri heimsstyrjaldarinnar — loksins þagnaði stórskotaliðið."
-    },
-    {
-      "ar": "1940",
-      "texti": "Breski flotinn gerði árás á ítalska flotann við Taranto, fyrstu sjóorrustu sögunnar þar sem flugvélar einar voru notaðar til árásar milli flota. Flugmóðurskipið var þar með orðið ógnvænlegur leikmaður á taflborði hafsins."
+      "ar": "2008",
+      "texti": "Eftir 30 ár við völd tók Mohamed Nasheed við af Maumoon Abdul Gayoom sem forseti Maldíveyja."
     },
     {
       "ar": "1999",
-      "texti": "Bresku lávarðadeildarlögin hlutu konunglegt samþykki og sviptu flesta erfðalávarða sjálfkrafa sæti í lávarðadeildinni. Ættartalan ein dugði því ekki lengur sem aðgöngumiði."
+      "texti": "Lög um lávarðadeildina fengu konunglega staðfestingu, sem fjarlægði flesta erfðalvarða úr bresku lávarðadeildinni."
+    },
+    {
+      "ar": "1965",
+      "texti": "Ródesía, undir forystu Ian Smith forsætisráðherra, lýsti einhliða yfir sjálfstæði frá Bretlandi."
+    },
+    {
+      "ar": "1918",
+      "texti": "Fyrri heimsstyrjöldinni lauk formlega með undirritun vopnahléss milli Þýskalands og bandamanna í járnbrautarvagni í Compiègne-skóginum í Frakklandi."
+    },
+    {
+      "ar": "1880",
+      "texti": "Ástralski útlaga Ned Kelly var hengdur í Melbourne, þrátt fyrir að stuðningsmenn hans héldu fjöldafundi til að reyna að bjarga honum."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1846",
-      "texti": "Bein Reynistaðarbræðra, sem hurfu á Kili árið 1780 og fundust sumarið 1846, voru jarðsett að Reynistað.",
-      "landshluti": "Norðurland"
+      "texti": "Bein Reynistaðarbræðra, sem hurfu á Kili árið 1780, voru jarðsett á Reynistað eftir að þau fundust um sumarið.",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "1918",
-      "texti": "Lokum fyrri heimsstyrjaldarinnar var fagnað víða, en í Reykjavík blöktu fánar í hálfa stöng vegna spænsku veikinnar. Gleði heimsins og sorg bæjarins mættust á sama degi.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Fyrri heimsstyrjöldinni lauk, en í Reykjavík blöktu fánar í hálfa stöng vegna spænsku veikinnar, sem sýnir hversu alvarleg staðan var hér heima.",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "1943",
-      "texti": "Leigubílastöðin Hreyfill var stofnuð í Reykjavík og hefur síðan komið ótal farþegum á leiðarenda — stundum með sögur í aftursætinu.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Leigubílastöðin Hreyfill var stofnuð, og hefur síðan þá verið hluti af borgarmyndinni.",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "2023",
-      "texti": "Grindavík var rýmd vegna yfirvofandi eldgoss eftir að öflug jarðskjálftahrina hafði valdið talsverðum skemmdum á byggingum.",
-      "landshluti": "Reykjanes"
+      "texti": "Grindavík var rýmd vegna yfirvofandi eldgoss og jarðskjálftahrina olli miklum skemmdum á byggingum, sem varð mörgum hugleikið.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Calista Flockhart",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1964"
+      "nafn": "Leonardo DiCaprio",
+      "starfsgrein": "bandarískur leikari og framleiðandi",
+      "ar": "1974"
     },
     {
-      "nafn": "Adam Beach",
-      "starfsgrein": "kanadískur leikari",
-      "ar": "1972"
+      "nafn": "Stanley Tucci",
+      "starfsgrein": "bandarískur leikari og leikstjóri",
+      "ar": "1960"
     },
     {
-      "nafn": "Alison Doody",
-      "starfsgrein": "írsk leikkona og fyrirsæta",
-      "ar": "1966"
+      "nafn": "Demi Moore",
+      "starfsgrein": "bandarísk leikkona, leikstjóri og framleiðandi",
+      "ar": "1962"
     },
     {
-      "nafn": "Adam Rippon",
-      "starfsgrein": "bandarískur listskautamaður",
-      "ar": "1989"
-    },
-    {
-      "nafn": "Andy Partridge",
-      "starfsgrein": "enskur tónlistarmaður og lagahöfundur",
-      "ar": "1953"
+      "nafn": "Fjodor Dostojevskíj",
+      "starfsgrein": "rússneskur rithöfundur og heimspekingur",
+      "ar": "1821"
     }
   ],
   "afmaeli_island": [
-    {
-      "nafn": "Birkir Már Sævarsson",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1984"
-    },
     {
       "nafn": "Matthías Jochumsson",
       "starfsgrein": "prestur og skáld",
       "ar": "1835"
     },
     {
-      "nafn": "Gísli Þorláksson",
-      "starfsgrein": "Hólabiskup",
-      "ar": "1631"
+      "nafn": "Birkir Már Sævarsson",
+      "starfsgrein": "íslenskur knattspyrnumaður",
+      "ar": "1984"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvar var vopnahléið árið 1918 undirritað?",
+      "spurning": "Hvaða merkilegi atburður átti sér stað í Reykjavík á sama tíma og Fyrri heimsstyrjöldinni lauk árið 1918?",
       "svor": [
-        "Í járnbrautarvagni",
-        "Í konungshöll",
-        "Um borð í herskipi",
-        "Í ráðhúsi Berlínar"
+        "Fánar blöktu í hálfa stöng vegna spænsku veikinnar",
+        "Stórkostleg hátíð var haldin til að fagna friði",
+        "Nýtt leikhús var opnað með pompi og prakt",
+        "Enginn vissi af lokum stríðsins fyrr en viku síðar"
       ],
       "rett": 0,
-      "skyring": "Samningurinn var undirritaður í járnbrautarvagni í Compiègne-skógi — óvenjuleg skrifstofa fyrir stóran dag."
+      "skyring": "Því miður var spænska veikin að herja á Ísland þegar friður var kominn á í Evrópu."
     },
     {
-      "spurning": "Hvaða bær var rýmdur 11. nóvember 2023 vegna hættu á eldgosi?",
+      "spurning": "Hvaða frægi ástralski útlaga var hengdur í Melbourne þennan dag árið 1880?",
       "svor": [
-        "Húsavík",
-        "Grindavík",
-        "Stykkishólmur",
-        "Höfn"
+        "Ned Kelly",
+        "Jesse James",
+        "Billy the Kid",
+        "Al Capone"
       ],
-      "rett": 1,
-      "skyring": "Grindavík var rýmd eftir mikla jarðskjálftahrinu á Reykjanesi."
+      "rett": 0,
+      "skyring": "Ned Kelly var þekktur fyrir að vera útlaga og varð að lokum hengdur."
     },
     {
-      "spurning": "Hver afmælisbarnanna er íslenskur knattspyrnumaður?",
+      "spurning": "Hvaða leikari, þekktur fyrir hlutverk sín í kvikmyndum eins og 'Titanic' og 'The Wolf of Wall Street', á afmæli í dag?",
       "svor": [
-        "Adam Beach",
-        "Andy Partridge",
-        "Birkir Már Sævarsson",
-        "Adam Rippon"
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Brad Pitt",
+        "Johnny Depp"
       ],
-      "rett": 2,
-      "skyring": "Birkir Már Sævarsson er knattspyrnumaðurinn í hópnum; hinir hafa elt annars konar bolta, tóna eða sviðsljós."
+      "rett": 0,
+      "skyring": "Leonardo DiCaprio er einn af stóru nöfnunum sem fagna afmæli í dag."
     }
   ],
-  "tonlistUSA": "When I See You Smile – Bad English (1989)",
-  "tonlistUK": "All Around the World – Lisa Stansfield (1989)",
-  "bio": "Black Panther: Wakanda Forever (2022)",
+  "tonlistUSA": "I Heard It Through the Grapevine – Marvin Gaye (1968)",
+  "tonlistUK": "With a Little Help from My Friends – Joe Cocker (1968)",
+  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
   "ord_dagsins": {
-    "ord": "dagmál",
-    "skyring": "Dagmál er gamalt íslenskt heiti á tíma dags, um það bil klukkan níu að morgni."
+    "ord": "hrakfallabálkur",
+    "skyring": "Maður sem verður fyrir mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Vopnahlé fyrri heimsstyrjaldarinnar tók gildi klukkan ellefu að morgni 11. dags 11. mánaðar árið 1918.",
-  "stjornuspa": "Sporðdreki, gamalt leyndarmál gæti skotið upp kollinum eins og gleymt skjal úr skjalasafni — lestu smáa letrið áður en þú bregst við. Í ást og fjármálum borgar sig að beita diplómatíu frekar en broddinum.",
+  "vissir_thu": "Fyrri heimsstyrjöldinni lauk á 11. klukkustund 11. dags 11. mánaðar árið 1918, sem er ástæðan fyrir því að 11. nóvember er oft kallaður Vopnahlésdagurinn.",
+  "stjornuspa": "Sporðdreki, í dag gætu óvæntar uppákomur komið þér á óvart – en mundu, jafnvel í hrakfallabálki getur leynst tækifæri til að skína! Vertu opinn fyrir nýjum hugmyndum og láttu ekki smávegis óhöpp draga úr þér kjarkinn.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/500px-Surrender_of_Lord_Cornwallis.jpg",
-    "ar": "1778",
-    "texti": "Í bandaríska frelsisstríðinu réðust breskar hersveitir og bandamenn þeirra úr röðum Írókesa á virki og þorpið Cherry Valley í New York. Fjórtán hermenn og þrjátíu óbreyttir borgarar féllu.",
-    "heimild": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Maumoon_Abdul_Gayoom_Presidential_Portrait_2000s_%28cropped%29.jpeg/500px-Maumoon_Abdul_Gayoom_Presidential_Portrait_2000s_%28cropped%29.jpeg",
+    "ar": "2008",
+    "texti": "Eftir 30 ár við völd tók Mohamed Nasheed við af Maumoon Abdul Gayoom sem forseti Maldíveyja.",
+    "heimild": "https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom",
     "breidd": 330,
-    "haed": 218
+    "haed": 426
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-11"
 }

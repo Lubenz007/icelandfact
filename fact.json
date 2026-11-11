@@ -1,142 +1,147 @@
 {
-  "date": "2026-11-10",
-  "dagur": 10,
+  "date": "2026-11-11",
+  "dagur": 11,
   "manudur": "nóvember",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 314,
-  "sunrise": "09:39",
-  "sunset": "16:42",
-  "mmdd": "11-10",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 315,
+  "sunrise": "09:43",
+  "sunset": "16:39",
+  "mmdd": "11-11",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag er 10. nóvember, og það er ljóst að þessi dagur hefur verið fullur af dramatík og stóratburðum í gegnum aldirnar. Hvort sem það er konungur sem skipar forseta að þegja eða sjónvarpsþáttur sem breytir heimi barna, þá er nóg að taka úr. Hér er smá sagnfræðileg kryddun á föstudeginum ykkar!",
-  "nafnadagur": "Ólafur",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 11. nóvember, er dagur sem minnir okkur á bæði lok stríða og upphaf nýrra tíma. Hvort sem þú ert að fagna friði eða bara hlusta á góða tónlist, þá vona ég að dagurinn verði þér góður!",
+  "nafnadagur": "Már",
   "atburdir": [
     {
-      "ar": "2020",
-      "texti": "Bresk stjórnvöld tilkynntu að síðasta jarðsprengjan hefði verið fjarlægð frá Falklandseyjum, en hún var lögð þar af argentínskum hersveitum í Falklandseyjastríðinu 1982."
+      "ar": "2008",
+      "texti": "Eftir 30 ár við völd tók Mohamed Nasheed við af Maumoon Abdul Gayoom sem forseti Maldíveyja."
     },
     {
-      "ar": "2007",
-      "texti": "Á Ibero-Ameríku fundinum í Santiago, Chile, spurði Juan Carlos I Spánarkonungur Hugo Chávez, forseta Venesúela, „Af hverju þegirðu ekki?“ eftir að Chávez truflaði ítrekað ræðu forsætisráðherra Spánar."
+      "ar": "1999",
+      "texti": "Lög um lávarðadeildina fengu konunglega staðfestingu, sem fjarlægði flesta erfðalvarða úr bresku lávarðadeildinni."
     },
     {
-      "ar": "1969",
-      "texti": "Fyrsti þátturinn af barnasjónvarpsþáttunum Sesame Street var sýndur í Bandaríkjunum, og breytti þar með sjónvarpi barna til frambúðar."
+      "ar": "1965",
+      "texti": "Ródesía, undir forystu Ian Smith forsætisráðherra, lýsti einhliða yfir sjálfstæði frá Bretlandi."
     },
     {
-      "ar": "1898",
-      "texti": "Hvítir yfirburðarsinnar tóku völdin og myrtu svarta Bandaríkjamenn í Wilmington-fjöldamorðunum, sem er eina dæmið um að sveitarstjórn hafi verið steypt af stóli í sögu Bandaríkjanna."
+      "ar": "1918",
+      "texti": "Fyrri heimsstyrjöldinni lauk formlega með undirritun vopnahléss milli Þýskalands og bandamanna í járnbrautarvagni í Compiègne-skóginum í Frakklandi."
     },
     {
-      "ar": "1202",
-      "texti": "Fjórða krossferðin: Umsátrið um Zara hófst, sem var fyrsta árásin á kaþólska borg af kaþólskum krossförum, í borginni Zadar í Króatíu í dag."
+      "ar": "1880",
+      "texti": "Ástralski útlaga Ned Kelly var hengdur í Melbourne, þrátt fyrir að stuðningsmenn hans héldu fjöldafundi til að reyna að bjarga honum."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1944",
-      "texti": "Þýski kafbáturinn U-300 sökkti breska olíuskipinu Shirvan og íslenska farþegaskipinu Goðafossi út af Garðskaga, en 42 manns fórust í árásunum.",
-      "landshluti": "Reykjanes"
+      "ar": "1846",
+      "texti": "Bein Reynistaðarbræðra, sem hurfu á Kili árið 1780, voru jarðsett á Reynistað eftir að þau fundust um sumarið.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1967",
-      "texti": "Siglufjörður komst í vegasamband allt árið um kring með opnun Strákaganga, sem voru lengstu göng á Íslandi á þeim tíma, 800 metrar.",
-      "landshluti": "Norðurland"
+      "ar": "1918",
+      "texti": "Fyrri heimsstyrjöldinni lauk, en í Reykjavík blöktu fánar í hálfa stöng vegna spænsku veikinnar, sem sýnir hversu alvarleg staðan var hér heima.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1984",
-      "texti": "Raforkukerfi Íslands varð hringtengt þegar Suðurlína var tekin í notkun, stórt skref í orkuöryggi landsins.",
+      "ar": "1943",
+      "texti": "Leigubílastöðin Hreyfill var stofnuð, og hefur síðan þá verið hluti af borgarmyndinni.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "2023",
-      "texti": "Grindavíkurbær var rýmdur eftir að stór kvikugangur myndaðist undir bænum, sem leiddi til mikillar óvissu og áhyggna.",
-      "landshluti": "Reykjanes"
+      "texti": "Grindavík var rýmd vegna yfirvofandi eldgoss og jarðskjálftahrina olli miklum skemmdum á byggingum, sem varð mörgum hugleikið.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Martin Luther",
-      "starfsgrein": "þýskur munkur og siðbótarfrömuður",
-      "ar": "1483"
+      "nafn": "Leonardo DiCaprio",
+      "starfsgrein": "bandarískur leikari og framleiðandi",
+      "ar": "1974"
     },
     {
-      "nafn": "Richard Burton",
-      "starfsgrein": "velskur leikari og söngvari",
-      "ar": "1925"
-    },
-    {
-      "nafn": "Neil Gaiman",
-      "starfsgrein": "enskur rithöfundur og handritshöfundur",
+      "nafn": "Stanley Tucci",
+      "starfsgrein": "bandarískur leikari og leikstjóri",
       "ar": "1960"
     },
     {
-      "nafn": "Ennio Morricone",
-      "starfsgrein": "ítalskt tónskáld og hljómsveitarstjóri",
-      "ar": "1928"
+      "nafn": "Demi Moore",
+      "starfsgrein": "bandarísk leikkona, leikstjóri og framleiðandi",
+      "ar": "1962"
+    },
+    {
+      "nafn": "Fjodor Dostojevskíj",
+      "starfsgrein": "rússneskur rithöfundur og heimspekingur",
+      "ar": "1821"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Einar Pálsson",
-      "starfsgrein": "skólastjóri og rithöfundur",
-      "ar": "1925"
+      "nafn": "Matthías Jochumsson",
+      "starfsgrein": "prestur og skáld",
+      "ar": "1835"
+    },
+    {
+      "nafn": "Birkir Már Sævarsson",
+      "starfsgrein": "íslenskur knattspyrnumaður",
+      "ar": "1984"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða sjónvarpsþáttur hóf göngu sína þennan dag árið 1969?",
+      "spurning": "Hvaða merkilegi atburður átti sér stað í Reykjavík á sama tíma og Fyrri heimsstyrjöldinni lauk árið 1918?",
       "svor": [
-        "Sesame Street",
-        "The Brady Bunch",
-        "Scooby-Doo, Where Are You!",
-        "Monty Python's Flying Circus"
+        "Fánar blöktu í hálfa stöng vegna spænsku veikinnar",
+        "Stórkostleg hátíð var haldin til að fagna friði",
+        "Nýtt leikhús var opnað með pompi og prakt",
+        "Enginn vissi af lokum stríðsins fyrr en viku síðar"
       ],
       "rett": 0,
-      "skyring": "Sesame Street hefur glatt ótal kynslóðir barna í áratugi."
+      "skyring": "Því miður var spænska veikin að herja á Ísland þegar friður var kominn á í Evrópu."
     },
     {
-      "spurning": "Hvaða íslenska mannvirki varð hringtengt þennan dag árið 1984?",
+      "spurning": "Hvaða frægi ástralski útlaga var hengdur í Melbourne þennan dag árið 1880?",
       "svor": [
-        "Raforkukerfi Íslands",
-        "Símanetið",
-        "Vatnsveitan",
-        "Vegakerfið"
+        "Ned Kelly",
+        "Jesse James",
+        "Billy the Kid",
+        "Al Capone"
       ],
       "rett": 0,
-      "skyring": "Raforkukerfið varð hringtengt með Suðurlínu, sem var mikilvægt skref fyrir orkuöryggi landsins."
+      "skyring": "Ned Kelly var þekktur fyrir að vera útlaga og varð að lokum hengdur."
     },
     {
-      "spurning": "Hvaða frægi siðbótarfrömuður fæddist þennan dag árið 1483?",
+      "spurning": "Hvaða leikari, þekktur fyrir hlutverk sín í kvikmyndum eins og 'Titanic' og 'The Wolf of Wall Street', á afmæli í dag?",
       "svor": [
-        "Martin Luther",
-        "Jean Calvin",
-        "Huldrych Zwingli",
-        "John Knox"
+        "Leonardo DiCaprio",
+        "Tom Hanks",
+        "Brad Pitt",
+        "Johnny Depp"
       ],
       "rett": 0,
-      "skyring": "Martin Luther er þekktur fyrir að hafa hrint af stað siðbótinni í Evrópu."
+      "skyring": "Leonardo DiCaprio er einn af stóru nöfnunum sem fagna afmæli í dag."
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "Freedom – Wham! (1984)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "I Heard It Through the Grapevine – Marvin Gaye (1968)",
+  "tonlistUK": "With a Little Help from My Friends – Joe Cocker (1968)",
+  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
   "ord_dagsins": {
-    "ord": "hringtengdur",
-    "skyring": "Þegar eitthvað er tengt saman í hring, eins og raforkukerfið sem varð hringtengt á Íslandi."
+    "ord": "hrakfallabálkur",
+    "skyring": "Maður sem verður fyrir mörgum óhöppum eða er óheppinn."
   },
-  "vissir_thu": "Árið 1913 var járnbrautarlest notuð til fólksflutninga á Íslandi í fyrsta skipti, þegar blaðamenn og farþegar voru fluttir frá Reykjavíkurhöfn að Öskjuhlíð.",
-  "stjornuspa": "Sporðdreki, í dag gæti verið góður dagur til að spyrja þá sem trufla þig: „Af hverju þegirðu ekki?“ En mundu að gera það með stíl, ekki eins og konungur. Eða kannski bara horfa á Sesame Street og slaka á.",
+  "vissir_thu": "Fyrri heimsstyrjöldinni lauk á 11. klukkustund 11. dags 11. mánaðar árið 1918, sem er ástæðan fyrir því að 11. nóvember er oft kallaður Vopnahlésdagurinn.",
+  "stjornuspa": "Sporðdreki, í dag gætu óvæntar uppákomur komið þér á óvart – en mundu, jafnvel í hrakfallabálki getur leynst tækifæri til að skína! Vertu opinn fyrir nýjum hugmyndum og láttu ekki smávegis óhöpp draga úr þér kjarkinn.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Mines_-_Copie_%282%29_%283445582152%29.jpg/500px-Mines_-_Copie_%282%29_%283445582152%29.jpg",
-    "ar": "2020",
-    "texti": "Bresk stjórnvöld tilkynntu að síðasta jarðsprengjan hefði verið fjarlægð frá Falklandseyjum, en hún var lögð þar af argentínskum hersveitum í Falklandseyjastríðinu 1982.",
-    "heimild": "https://en.wikipedia.org/wiki/Land_mines_in_the_Falkland_Islands",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Maumoon_Abdul_Gayoom_Presidential_Portrait_2000s_%28cropped%29.jpeg/500px-Maumoon_Abdul_Gayoom_Presidential_Portrait_2000s_%28cropped%29.jpeg",
+    "ar": "2008",
+    "texti": "Eftir 30 ár við völd tók Mohamed Nasheed við af Maumoon Abdul Gayoom sem forseti Maldíveyja.",
+    "heimild": "https://en.wikipedia.org/wiki/Maumoon_Abdul_Gayoom",
     "breidd": 330,
-    "haed": 258
+    "haed": 426
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-10",
-  "verdlag": "Árið 1994 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.8-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-11",
+  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
