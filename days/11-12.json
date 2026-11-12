@@ -6,148 +6,148 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:45",
   "sunset": "16:36",
-  "kvedja": "Góðan 12. nóvember! Í dag lendum við á halastjörnu, rifjum upp hið makalausa stríð Ástrala við emúa og kveðjum síðustu íbúa Flateyjar á Skjálfanda. Sagan er nefnilega stundum stórbrotin, stundum tregafull og einstaka sinnum með fiður og herforingjahúfu.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 12. nóvember og sagan sýnir okkur að þetta er dagur mikilla atburða, allt frá geimferðum til stórra stjórnmálahneyksla. Vonandi er ykkar dagur aðeins rólegri en sumir þeirra atburða sem við rifjum upp í dag!",
+  "nafnadagur": "Benedikt",
   "atburdir": [
     {
-      "ar": "1892",
-      "texti": "William Heffelfinger fékk 500 dali fyrir að leika með Allegheny Athletic Association og varð þar með fyrsti atvinnumaðurinn í amerískum fótbolta. Um leið varð umslag með peningum óopinber hluti af leikskipulaginu."
+      "ar": "2014",
+      "texti": "Lendingarfarið Philae frá Geimferðastofnun Evrópu lenti á halastjörnunni 67P/Churyumov–Gerasimenko og varð þar með fyrsta geimfarið til að lenda á halastjörnu."
     },
     {
-      "ar": "1912",
-      "texti": "Lík Roberts Falcons Scotts og félaga hans fundust á Ross-íshellunni á Suðurskautslandinu, átta mánuðum eftir að þeir fórust í hinum örlagaríka Terra Nova-leiðangri."
+      "ar": "1996",
+      "texti": "Boeing 747 vél Saudi Arabian Airlines og Ilyushin Il-76 vél Kazakhstan Airlines rákust á í lofti nálægt Nýju Delí, sem varð 349 manns að bana og er mannskæðasta slíka árekstur sögunnar."
     },
     {
-      "ar": "1932",
-      "texti": "Ástralski herinn hóf að nýju hernað gegn emúum í Vestur-Ástralíu, að beiðni heimastjórnarinnar. Emúastríðið er sjaldgæft dæmi um að fuglar hafi valdið hernum verulegum heilabrotum."
+      "ar": "1973",
+      "texti": "Fyrsti þátturinn af 'Last of the Summer Wine', lengstu sjónvarpsþáttaröð sögunnar, var frumsýndur á BBC."
     },
     {
       "ar": "1970",
-      "texti": "Bhola-hvirfilbylurinn gekk á land í Austur-Pakistan, þar sem nú er Bangladess, og varð mannskæðasti hitabeltisstormur sögunnar. Að minnsta kosti 250.000 manns létust."
+      "texti": "Mannskæðasti fellibylur sögunnar gekk á land við strendur Austur-Pakistan (nú Bangladess) og olli dauða að minnsta kosti 250.000 manns."
     },
     {
-      "ar": "2014",
-      "texti": "Lendingarfarið Philae frá Evrópsku geimferðastofnuninni settist á halastjörnuna 67P/Tjurjumov–Gerasímenkó. Þetta var í fyrsta sinn sem geimfar lenti á halastjörnu — heldur ósléttari lendingarstað en Keflavíkurflugvöllur."
+      "ar": "1892",
+      "texti": "William Heffelfinger fékk greiddar 500 dali af Allegheny Athletic Association og varð þar með fyrsti atvinnumaðurinn í amerískum fótbolta."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1906",
-      "texti": "Ritstjórar sex helstu dagblaða Íslands settu fram Blaðamannaávarpið.",
+      "texti": "Blaðamannaávarpið var sett fram af ritstjórum sex helstu dagblaða á Íslandi.",
       "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1965",
-      "texti": "Hvassaleitisskóli í Reykjavík var settur í fyrsta sinn.",
-      "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1967",
-      "texti": "Flatey á Skjálfanda fór í eyði þegar síðustu tíu íbúarnir fluttu burt. Aðeins fáum árum fyrr höfðu um hundrað manns búið í eynni.",
+      "texti": "Flatey á Skjálfanda fór í eyði þegar síðustu 10 íbúarnir fluttust þaðan.",
       "landshluti": "Norðurland"
     },
     {
-      "ar": "1994",
-      "texti": "Guðmundur Árni Stefánsson baðst lausnar sem félagsmálaráðherra og Rannveig Guðmundsdóttir tók við embættinu.",
-      "landshluti": "Landið allt"
+      "ar": "1991",
+      "texti": "Íslenska stálfélagið hf var tekið til gjaldþrotaskipta.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "2019",
+      "texti": "WikiLeaks birti Samherjaskjölin sem fjölluðu um meintar mútugreiðslur sjávarútvegsfyrirtækisins Samherja til namibískra stjórnvalda í skiptum fyrir veiðileyfi.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
       "nafn": "Anne Hathaway",
-      "starfsgrein": "leikkona",
+      "starfsgrein": "bandarísk leikkona",
       "ar": "1982"
     },
     {
-      "nafn": "Auguste Rodin",
-      "starfsgrein": "myndhöggvari",
-      "ar": "1840"
+      "nafn": "Ryan Gosling",
+      "starfsgrein": "kanadískur leikari, framleiðandi og söngvari",
+      "ar": "1980"
     },
     {
-      "nafn": "Bahá'u'lláh",
-      "starfsgrein": "trúarleiðtogi og stofnandi bahá'í-trúarinnar",
-      "ar": "1817"
+      "nafn": "Neil Young",
+      "starfsgrein": "kanadískur söngvari og lagahöfundur",
+      "ar": "1945"
     },
     {
-      "nafn": "Booker T. Jones",
-      "starfsgrein": "tónlistarmaður, lagahöfundur og upptökustjóri",
-      "ar": "1944"
+      "nafn": "Grace Kelly",
+      "starfsgrein": "bandarísk leikkona og furstafrú af Mónakó",
+      "ar": "1929"
     },
     {
-      "nafn": "Benni McCarthy",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1977"
+      "nafn": "Nadia Comăneci",
+      "starfsgrein": "rúmenskur fimleikakappi",
+      "ar": "1961"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Andri Rúnar Bjarnason",
-      "starfsgrein": "knattspyrnumaður",
+      "starfsgrein": "íslenskur knattspyrnumaður",
       "ar": "1990"
     },
     {
       "nafn": "Elínborg Lárusdóttir",
-      "starfsgrein": "rithöfundur",
+      "starfsgrein": "íslenskur rithöfundur",
       "ar": "1891"
     },
     {
       "nafn": "Úlfur Gunnarsson",
-      "starfsgrein": "læknir",
+      "starfsgrein": "íslenskur læknir",
       "ar": "1919"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Á hvers konar himintungli lenti Philae árið 2014?",
+      "spurning": "Hvaða geimfar var það fyrsta til að lenda á halastjörnu þann 12. nóvember 2014?",
       "svor": [
-        "Halastjörnu",
-        "Tungli",
-        "Smástirni",
-        "Mars"
+        "Philae",
+        "Rosetta",
+        "Voyager 1",
+        "Apollo 11"
       ],
       "rett": 0,
-      "skyring": "Philae lenti á halastjörnunni 67P og skráði sig um leið í geimferðasöguna."
+      "skyring": "Philae lenti á halastjörnunni 67P/Churyumov–Gerasimenko."
     },
     {
-      "spurning": "Hvaða óvenjulegi andstæðingur mætti ástralska hernum í stríði sem hófst að nýju árið 1932?",
+      "spurning": "Hvaða leikkona, fædd 12. nóvember, er þekkt fyrir hlutverk sín í kvikmyndum eins og 'Les Misérables' og 'The Princess Diaries'?",
       "svor": [
-        "Kengúrur",
-        "Emúar",
-        "Krókódílar",
-        "Vombatar"
+        "Grace Kelly",
+        "Anne Hathaway",
+        "Megan Mullally",
+        "Kim Hunter"
       ],
       "rett": 1,
-      "skyring": "Emúarnir reyndust furðu snúnir andstæðingar og létu engan stjórna gönguhraðanum."
+      "skyring": "Anne Hathaway fagnar afmæli sínu í dag!"
     },
     {
-      "spurning": "Hvaða íslenska eyja fór í eyði árið 1967?",
+      "spurning": "Hvaða íslenska eyja fór í eyði þann 12. nóvember 1967?",
       "svor": [
+        "Viðey",
         "Hrísey",
-        "Grímsey",
         "Flatey á Skjálfanda",
-        "Viðey"
+        "Heimaey"
       ],
       "rett": 2,
-      "skyring": "Síðustu tíu íbúar Flateyjar á Skjálfanda fluttu þaðan árið 1967."
+      "skyring": "Flatey á Skjálfanda missti sína síðustu íbúa þetta ár."
     }
   ],
-  "tonlistUSA": "All Night Long (All Night) – Lionel Richie (1983)",
-  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "Freedom – George Michael (1990)",
+  "bio": "The Lion King (1994)",
   "ord_dagsins": {
-    "ord": "gluggaveður",
-    "skyring": "Veður sem virðist fallegt séð inn um glugga en reynist mun ónotalegra þegar út er komið."
+    "ord": "hrakhóll",
+    "skyring": "Hrakhóll er lítill hóll eða hæð sem er illa gróinn eða hrjóstrugur."
   },
-  "vissir_thu": "Auguste Rodin skapaði Hugsuðinn, eina þekktustu höggmynd heims, en verkið var upphaflega hugsað sem hluti af stærra verki sem nefnt er Hlið helvítis.",
-  "stjornuspa": "Sporðdreki, segulmagn þitt er í dag svo sterkt að jafnvel áttaviti gæti farið hjá sér. Haltu leyndardómsfulla svipnum, en mundu að segja fólki hvað þú vilt í stað þess að ætlast til að það ráði rúnirnar.",
+  "vissir_thu": "Fyrsti atvinnumaðurinn í amerískum fótbolta, William Heffelfinger, fékk 500 dali fyrir að spila einn leik árið 1892.",
+  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðpunkti óvæntra atburða – taktu því með ró og húmor. Mundu að jafnvel halastjörnur geta lent örugglega, svo þú getur það líka!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Pudge_heffelfinger.jpg",
-    "ar": "1892",
-    "texti": "William Heffelfinger fékk 500 dali fyrir að leika með Allegheny Athletic Association og varð þar með fyrsti atvinnumaðurinn í amerískum fótbolta. Um leið varð umslag með peningum óopinber hluti af leikskipulaginu.",
-    "heimild": "https://en.wikipedia.org/wiki/Pudge_Heffelfinger",
-    "breidd": 233,
-    "haed": 318
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/ESA_Patch_2026.svg/330px-ESA_Patch_2026.svg.png",
+    "ar": "2014",
+    "texti": "Lendingarfarið Philae frá Geimferðastofnun Evrópu lenti á halastjörnunni 67P/Churyumov–Gerasimenko og varð þar með fyrsta geimfarið til að lenda á halastjörnu.",
+    "heimild": "https://en.wikipedia.org/wiki/European_Space_Agency",
+    "breidd": 330,
+    "haed": 330
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-12"
 }
