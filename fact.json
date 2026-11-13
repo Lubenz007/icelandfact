@@ -1,157 +1,152 @@
 {
-  "date": "2026-11-12",
-  "dagur": 12,
+  "date": "2026-11-13",
+  "dagur": 13,
   "manudur": "nóvember",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 316,
-  "sunrise": "09:46",
-  "sunset": "16:36",
-  "mmdd": "11-12",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 317,
+  "sunrise": "09:49",
+  "sunset": "16:33",
+  "mmdd": "11-13",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 12. nóvember og sagan sýnir okkur að þetta er dagur mikilla atburða, allt frá geimferðum til stórra stjórnmálahneyksla. Vonandi er ykkar dagur aðeins rólegri en sumir þeirra atburða sem við rifjum upp í dag!",
-  "nafnadagur": "Benedikt",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinum! Þrettándi nóvember er mættur og með honum fylgir ýmislegt forvitnilegt úr sögunni. Dagurinn í dag minnir okkur á að jafnvel þótt heimurinn sé stundum dimmur, þá er alltaf hægt að finna ljós í fróðleiknum. Vonandi hafið þið það gott og njótið sagnanna sem ég hef grafið upp fyrir ykkur!",
+  "nafnadagur": "Ingibjörg",
   "atburdir": [
     {
-      "ar": "2014",
-      "texti": "Lendingarfarið Philae frá Geimferðastofnun Evrópu lenti á halastjörnunni 67P/Churyumov–Gerasimenko og varð þar með fyrsta geimfarið til að lenda á halastjörnu."
+      "ar": "2015",
+      "texti": "Samræmdar hryðjuverkaárásir Íslamska ríkisins í París drápu 130 manns og særðu 413."
     },
     {
-      "ar": "1996",
-      "texti": "Boeing 747 vél Saudi Arabian Airlines og Ilyushin Il-76 vél Kazakhstan Airlines rákust á í lofti nálægt Nýju Delí, sem varð 349 manns að bana og er mannskæðasta slíka árekstur sögunnar."
+      "ar": "1985",
+      "texti": "Eldgosið í Nevado del Ruiz í Kólumbíu olli gríðarlegu aurflóði sem gróf bæinn Armero og kostaði um 23.000 manns lífið."
     },
     {
-      "ar": "1973",
-      "texti": "Fyrsti þátturinn af 'Last of the Summer Wine', lengstu sjónvarpsþáttaröð sögunnar, var frumsýndur á BBC."
+      "ar": "1982",
+      "texti": "Suður-kóreski hnefaleikamaðurinn Kim Duk-koo hlaut banvæna höfuðáverka í bardaga við Ray Mancini í Las Vegas, sem leiddi til mikilla reglubreytinga í íþróttinni."
     },
     {
-      "ar": "1970",
-      "texti": "Mannskæðasti fellibylur sögunnar gekk á land við strendur Austur-Pakistan (nú Bangladess) og olli dauða að minnsta kosti 250.000 manns."
+      "ar": "1940",
+      "texti": "Teiknimyndin Fantasía eftir Walt Disney, fyrsta kvikmyndin sem sýnd var með stafrænu hljóði, var frumsýnd í New York."
     },
     {
-      "ar": "1892",
-      "texti": "William Heffelfinger fékk greiddar 500 dali af Allegheny Athletic Association og varð þar með fyrsti atvinnumaðurinn í amerískum fótbolta."
+      "ar": "1002",
+      "texti": "Aðalráður II Englandskonungur fyrirskipaði fjöldamorð á öllum Dönum í Englandi."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1906",
-      "texti": "Blaðamannaávarpið var sett fram af ritstjórum sex helstu dagblaða á Íslandi.",
+      "ar": "1939",
+      "texti": "Þýska flutningaskipinu Parana var sökkt út af Patreksfirði og áhöfnin tekin til fanga af breska herskipinu Newcastle, fyrsta þýska skipið sem sökkt var við Ísland í seinni heimsstyrjöldinni.",
+      "landshluti": "Vestfirðir"
+    },
+    {
+      "ar": "1946",
+      "texti": "Vestmannaeyjaflugvöllur var formlega tekinn í notkun, sem var mikilvægur áfangi fyrir samgöngur á Suðurlandi.",
+      "landshluti": "Suðurland"
+    },
+    {
+      "ar": "1973",
+      "texti": "Alþingi samþykkti samning við Bretland um lausn landhelgisdeilunnar vegna útfærslu landhelginnar í 50 sjómílur, sem var stór sigur fyrir Ísland.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1967",
-      "texti": "Flatey á Skjálfanda fór í eyði þegar síðustu 10 íbúarnir fluttust þaðan.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1991",
-      "texti": "Íslenska stálfélagið hf var tekið til gjaldþrotaskipta.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "2019",
-      "texti": "WikiLeaks birti Samherjaskjölin sem fjölluðu um meintar mútugreiðslur sjávarútvegsfyrirtækisins Samherja til namibískra stjórnvalda í skiptum fyrir veiðileyfi.",
-      "landshluti": "Erlendis"
+      "ar": "2004",
+      "texti": "Lög voru sett á verkfall grunnskólakennara sem hafði staðið yfir í tvo mánuði, en það hafði mikil áhrif á menntakerfið.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Anne Hathaway",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1982"
+      "nafn": "Whoopi Goldberg",
+      "starfsgrein": "bandarísk leikkona, grínisti og spjallþáttastjórnandi",
+      "ar": "1955"
     },
     {
-      "nafn": "Ryan Gosling",
-      "starfsgrein": "kanadískur leikari, framleiðandi og söngvari",
-      "ar": "1980"
+      "nafn": "Gerard Butler",
+      "starfsgrein": "skoskur leikari",
+      "ar": "1969"
     },
     {
-      "nafn": "Neil Young",
-      "starfsgrein": "kanadískur söngvari og lagahöfundur",
-      "ar": "1945"
+      "nafn": "Jimmy Kimmel",
+      "starfsgrein": "bandarískur grínisti, leikari og spjallþáttastjórnandi",
+      "ar": "1967"
     },
     {
-      "nafn": "Grace Kelly",
-      "starfsgrein": "bandarísk leikkona og furstafrú af Mónakó",
-      "ar": "1929"
-    },
-    {
-      "nafn": "Nadia Comăneci",
-      "starfsgrein": "rúmenskur fimleikakappi",
-      "ar": "1961"
+      "nafn": "Robert Louis Stevenson",
+      "starfsgrein": "skoskur rithöfundur og ljóðskáld",
+      "ar": "1850"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Andri Rúnar Bjarnason",
-      "starfsgrein": "íslenskur knattspyrnumaður",
-      "ar": "1990"
+      "nafn": "Árni Magnússon",
+      "starfsgrein": "íslenskur handritasafnari",
+      "ar": "1663"
     },
     {
-      "nafn": "Elínborg Lárusdóttir",
-      "starfsgrein": "íslenskur rithöfundur",
-      "ar": "1891"
+      "nafn": "Eysteinn Jónsson",
+      "starfsgrein": "íslenskur stjórnmálamaður og ráðherra",
+      "ar": "1906"
     },
     {
-      "nafn": "Úlfur Gunnarsson",
-      "starfsgrein": "íslenskur læknir",
-      "ar": "1919"
+      "nafn": "Páll Melsteð",
+      "starfsgrein": "íslenskur sagnfræðingur",
+      "ar": "1812"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða geimfar var það fyrsta til að lenda á halastjörnu þann 12. nóvember 2014?",
+      "spurning": "Hvaða kvikmynd var frumsýnd á þessum degi árið 1940 og var fyrsta kvikmyndin sem sýnd var með stafrænu hljóði?",
       "svor": [
-        "Philae",
-        "Rosetta",
-        "Voyager 1",
-        "Apollo 11"
+        "Fantasía",
+        "Gullhamra",
+        "Dumbo",
+        "Pinocchio"
       ],
       "rett": 0,
-      "skyring": "Philae lenti á halastjörnunni 67P/Churyumov–Gerasimenko."
+      "skyring": "Fantasía Walt Disney var sannarlega brautryðjandi í hljóðtækni."
     },
     {
-      "spurning": "Hvaða leikkona, fædd 12. nóvember, er þekkt fyrir hlutverk sín í kvikmyndum eins og 'Les Misérables' og 'The Princess Diaries'?",
+      "spurning": "Hvaða íslenski handritasafnari fæddist þennan dag árið 1663?",
       "svor": [
-        "Grace Kelly",
-        "Anne Hathaway",
-        "Megan Mullally",
-        "Kim Hunter"
+        "Jón Sigurðsson",
+        "Árni Magnússon",
+        "Eggert Ólafsson",
+        "Grímur Thomsen"
       ],
       "rett": 1,
-      "skyring": "Anne Hathaway fagnar afmæli sínu í dag!"
+      "skyring": "Árni Magnússon er þekktastur fyrir ómetanlegt framlag sitt til varðveislu íslenskra handrita."
     },
     {
-      "spurning": "Hvaða íslenska eyja fór í eyði þann 12. nóvember 1967?",
+      "spurning": "Hvaða náttúruhamfarir urðu í Kólumbíu þennan dag árið 1985, sem kostuðu um 23.000 manns lífið?",
       "svor": [
-        "Viðey",
-        "Hrísey",
-        "Flatey á Skjálfanda",
-        "Heimaey"
+        "Jarðskjálfti",
+        "Flóðbylgja",
+        "Aurflóð eftir eldgos",
+        "Skógareldar"
       ],
       "rett": 2,
-      "skyring": "Flatey á Skjálfanda missti sína síðustu íbúa þetta ár."
+      "skyring": "Eldgosið í Nevado del Ruiz olli skelfilegu aurflóði sem gróf bæinn Armero."
     }
   ],
   "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "Freedom – George Michael (1990)",
-  "bio": "The Lion King (1994)",
+  "tonlistUK": "I Feel For You – Chaka Khan (1984)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "hrakhóll",
-    "skyring": "Hrakhóll er lítill hóll eða hæð sem er illa gróinn eða hrjóstrugur."
+    "ord": "þrákelkni",
+    "skyring": "Sterk og óbilandi staðfesta, oft í neikvæðri merkingu sem þrjóska."
   },
-  "vissir_thu": "Fyrsti atvinnumaðurinn í amerískum fótbolta, William Heffelfinger, fékk 500 dali fyrir að spila einn leik árið 1892.",
-  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðpunkti óvæntra atburða – taktu því með ró og húmor. Mundu að jafnvel halastjörnur geta lent örugglega, svo þú getur það líka!",
+  "vissir_thu": "Árni Magnússon ferðaðist um Ísland í áraraðir til að safna og bjarga fornum handritum, sem mörg hver voru í mikilli hættu á að glatast.",
+  "stjornuspa": "Sporðdreki, í dag gæti verið góður dagur til að grafa upp gamla leyndardóma – kannski finnurðu týnda fjársjóði í sófanum! Mundu bara að deila gleðinni, því jafnvel sporðdrekar þurfa stundum knús.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/ESA_Patch_2026.svg/330px-ESA_Patch_2026.svg.png",
-    "ar": "2014",
-    "texti": "Lendingarfarið Philae frá Geimferðastofnun Evrópu lenti á halastjörnunni 67P/Churyumov–Gerasimenko og varð þar með fyrsta geimfarið til að lenda á halastjörnu.",
-    "heimild": "https://en.wikipedia.org/wiki/European_Space_Agency",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/500px-13_November_2015_Paris_attacks_-_montage.jpg",
+    "ar": "2015",
+    "texti": "Samræmdar hryðjuverkaárásir Íslamska ríkisins í París drápu 130 manns og særðu 413.",
+    "heimild": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
     "breidd": 330,
-    "haed": 330
+    "haed": 498
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-12",
-  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-13",
+  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

@@ -6,148 +6,143 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:48",
   "sunset": "16:33",
-  "kvedja": "Komdu sæll, kæri lesandi, og velkominn í 13. nóvember þar sem konungar, jarðgöng og knattspyrnuvellir troða sér öll inn á sömu dagbókarsíðuna. Sagan minnir okkur líka á að framfarir og harmleikir ganga stundum hlið við hlið — svo við skulum lesa af hlýju, forvitni og hæfilega skökku brosi.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinum! Þrettándi nóvember er mættur og með honum fylgir ýmislegt forvitnilegt úr sögunni. Dagurinn í dag minnir okkur á að jafnvel þótt heimurinn sé stundum dimmur, þá er alltaf hægt að finna ljós í fróðleiknum. Vonandi hafið þið það gott og njótið sagnanna sem ég hef grafið upp fyrir ykkur!",
+  "nafnadagur": "Ingibjörg",
   "atburdir": [
     {
-      "ar": "1002",
-      "texti": "Aðalráður 2. Englandskonungur fyrirskipaði fjöldamorð á Dönum í Englandi. Dagurinn varð einn sá myrkasti í langri og stormasamri sögu samskipta Englendinga og norrænna manna."
-    },
-    {
-      "ar": "1642",
-      "texti": "Konungssinnar mættu mun fjölmennari þingher í orrustunni við Turnham Green skammt frá London. Þeir hörfuðu og tilraun þeirra til að ná höfuðborginni rann út í sandinn."
-    },
-    {
-      "ar": "1775",
-      "texti": "Í bandaríska frelsisstríðinu tóku bandarískar hersveitir Montreal nær mótspyrnulaust. Innrásin í Quebec átti þó ekki eftir að ganga öll jafn hnökralaust."
-    },
-    {
-      "ar": "1927",
-      "texti": "Holland-göngin voru opnuð undir Hudsonfljóti og tengdu Manhattan við Jersey City. Þar með gátu ökumenn farið undir fljótið í stað þess að bíða eftir ferju — stórsigur fyrir bæði verkfræði og óþolinmæði."
-    },
-    {
       "ar": "2015",
-      "texti": "Samhæfðar hryðjuverkaárásir Íslamska ríkisins í París kostuðu 130 manns lífið og særðu 413. Harmleikurinn markaði djúp spor í Frakklandi og langt út fyrir landamæri þess."
+      "texti": "Samræmdar hryðjuverkaárásir Íslamska ríkisins í París drápu 130 manns og særðu 413."
+    },
+    {
+      "ar": "1985",
+      "texti": "Eldgosið í Nevado del Ruiz í Kólumbíu olli gríðarlegu aurflóði sem gróf bæinn Armero og kostaði um 23.000 manns lífið."
+    },
+    {
+      "ar": "1982",
+      "texti": "Suður-kóreski hnefaleikamaðurinn Kim Duk-koo hlaut banvæna höfuðáverka í bardaga við Ray Mancini í Las Vegas, sem leiddi til mikilla reglubreytinga í íþróttinni."
+    },
+    {
+      "ar": "1940",
+      "texti": "Teiknimyndin Fantasía eftir Walt Disney, fyrsta kvikmyndin sem sýnd var með stafrænu hljóði, var frumsýnd í New York."
+    },
+    {
+      "ar": "1002",
+      "texti": "Aðalráður II Englandskonungur fyrirskipaði fjöldamorð á öllum Dönum í Englandi."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1939",
-      "texti": "Þýska flutningaskipinu Parana var sökkt úti fyrir Patreksfirði og áhöfnin tekin til fanga af breska herskipinu Newcastle. Þetta var fyrsta þýska skipið sem sökkt var við Ísland í síðari heimsstyrjöldinni.",
+      "texti": "Þýska flutningaskipinu Parana var sökkt út af Patreksfirði og áhöfnin tekin til fanga af breska herskipinu Newcastle, fyrsta þýska skipið sem sökkt var við Ísland í seinni heimsstyrjöldinni.",
       "landshluti": "Vestfirðir"
     },
     {
       "ar": "1946",
-      "texti": "Vestmannaeyjaflugvöllur var formlega tekinn í notkun og samgöngur Eyjamanna fengu þar með vængi í bókstaflegri merkingu.",
+      "texti": "Vestmannaeyjaflugvöllur var formlega tekinn í notkun, sem var mikilvægur áfangi fyrir samgöngur á Suðurlandi.",
       "landshluti": "Suðurland"
     },
     {
       "ar": "1973",
-      "texti": "Alþingi samþykkti formlega samning við Bretland um lausn landhelgisdeilunnar sem fylgdi útfærslu íslensku fiskveiðilögsögunnar í 50 sjómílur.",
+      "texti": "Alþingi samþykkti samning við Bretland um lausn landhelgisdeilunnar vegna útfærslu landhelginnar í 50 sjómílur, sem var stór sigur fyrir Ísland.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "2004",
-      "texti": "Lög voru sett á verkfall grunnskólakennara sem hafði þá staðið í tvo mánuði. Skólabjallan fékk þar með liðsauka frá löggjafarvaldinu.",
+      "texti": "Lög voru sett á verkfall grunnskólakennara sem hafði staðið yfir í tvo mánuði, en það hafði mikil áhrif á menntakerfið.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Ágústínus frá Hippó",
-      "starfsgrein": "biskup, heimspekingur og guðfræðingur",
-      "ar": "354"
+      "nafn": "Whoopi Goldberg",
+      "starfsgrein": "bandarísk leikkona, grínisti og spjallþáttastjórnandi",
+      "ar": "1955"
     },
     {
-      "nafn": "Játvarður 3.",
-      "starfsgrein": "Englandskonungur",
-      "ar": "1312"
-    },
-    {
-      "nafn": "Ayaan Hirsi Ali",
-      "starfsgrein": "rithöfundur og baráttukona",
+      "nafn": "Gerard Butler",
+      "starfsgrein": "skoskur leikari",
       "ar": "1969"
     },
     {
-      "nafn": "Andrés Manuel López Obrador",
-      "starfsgrein": "stjórnmálamaður og fyrrverandi forseti Mexíkó",
-      "ar": "1953"
+      "nafn": "Jimmy Kimmel",
+      "starfsgrein": "bandarískur grínisti, leikari og spjallþáttastjórnandi",
+      "ar": "1967"
     },
     {
-      "nafn": "Emma Raducanu",
-      "starfsgrein": "tenniskona",
-      "ar": "2002"
+      "nafn": "Robert Louis Stevenson",
+      "starfsgrein": "skoskur rithöfundur og ljóðskáld",
+      "ar": "1850"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Eysteinn Jónsson",
-      "starfsgrein": "stjórnmálamaður og ráðherra",
-      "ar": "1906"
-    },
-    {
       "nafn": "Árni Magnússon",
-      "starfsgrein": "fræðimaður og handritasafnari",
+      "starfsgrein": "íslenskur handritasafnari",
       "ar": "1663"
     },
     {
-      "nafn": "Benedikt Gröndal eldri",
-      "starfsgrein": "lögmaður og landsyfirréttardómari",
-      "ar": "1762"
+      "nafn": "Eysteinn Jónsson",
+      "starfsgrein": "íslenskur stjórnmálamaður og ráðherra",
+      "ar": "1906"
+    },
+    {
+      "nafn": "Páll Melsteð",
+      "starfsgrein": "íslenskur sagnfræðingur",
+      "ar": "1812"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða mannvirki var opnað undir Hudsonfljóti árið 1927?",
+      "spurning": "Hvaða kvikmynd var frumsýnd á þessum degi árið 1940 og var fyrsta kvikmyndin sem sýnd var með stafrænu hljóði?",
       "svor": [
-        "Holland-göngin",
-        "Ermarsundsgöngin",
-        "Brooklyn-brúin",
-        "Panamaskurðurinn"
+        "Fantasía",
+        "Gullhamra",
+        "Dumbo",
+        "Pinocchio"
       ],
       "rett": 0,
-      "skyring": "Holland-göngin tengdu Manhattan og Jersey City án þess að nokkur þyrfti að blotna í Hudsonfljóti."
+      "skyring": "Fantasía Walt Disney var sannarlega brautryðjandi í hljóðtækni."
     },
     {
-      "spurning": "Hvar var íslenskur flugvöllur formlega tekinn í notkun 13. nóvember 1946?",
+      "spurning": "Hvaða íslenski handritasafnari fæddist þennan dag árið 1663?",
       "svor": [
-        "Á Akureyri",
-        "Í Vestmannaeyjum",
-        "Á Ísafirði",
-        "Á Egilsstöðum"
+        "Jón Sigurðsson",
+        "Árni Magnússon",
+        "Eggert Ólafsson",
+        "Grímur Thomsen"
       ],
       "rett": 1,
-      "skyring": "Vestmannaeyjaflugvöllur var tekinn formlega í notkun árið 1946."
+      "skyring": "Árni Magnússon er þekktastur fyrir ómetanlegt framlag sitt til varðveislu íslenskra handrita."
     },
     {
-      "spurning": "Hver þessara afmælisbarna var frægur íslenskur handritasafnari?",
+      "spurning": "Hvaða náttúruhamfarir urðu í Kólumbíu þennan dag árið 1985, sem kostuðu um 23.000 manns lífið?",
       "svor": [
-        "Eysteinn Jónsson",
-        "Játvarður 3.",
-        "Árni Magnússon",
-        "Benedikt Gröndal eldri"
+        "Jarðskjálfti",
+        "Flóðbylgja",
+        "Aurflóð eftir eldgos",
+        "Skógareldar"
       ],
       "rett": 2,
-      "skyring": "Árni Magnússon varðveitti handritaarf sem er okkur dýrmætari en vel merktur háaloftskassi."
+      "skyring": "Eldgosið í Nevado del Ruiz olli skelfilegu aurflóði sem gróf bæinn Armero."
     }
   ],
-  "tonlistUSA": "Up Where We Belong – Joe Cocker og Jennifer Warnes (1982)",
-  "tonlistUK": "I Don't Wanna Dance – Eddy Grant (1982)",
-  "bio": "Black Panther: Wakanda Forever (2022)",
+  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
+  "tonlistUK": "I Feel For You – Chaka Khan (1984)",
+  "bio": "Back to the Future (1985)",
   "ord_dagsins": {
-    "ord": "þrasgjarn",
-    "skyring": "Sá sem er þrasgjarn er sífellt reiðubúinn að deila eða karpa um málin."
+    "ord": "þrákelkni",
+    "skyring": "Sterk og óbilandi staðfesta, oft í neikvæðri merkingu sem þrjóska."
   },
-  "vissir_thu": "Fantasía frá Walt Disney, sem var frumsýnd 13. nóvember 1940, var fyrsta kvikmyndin sem sýnd var í atvinnuskyni með víðómi.",
-  "stjornuspa": "Sporðdreki, gömul ráðgáta stingur aftur upp kollinum, en nú hefurðu bæði innsæi og ímyndaðan leðurjakka rannsóknarlögreglumannsins með þér. Forðastu konunglegt þras eftir hádegi og láttu frekar góða lagalistann ráða ferðinni.",
+  "vissir_thu": "Árni Magnússon ferðaðist um Ísland í áraraðir til að safna og bjarga fornum handritum, sem mörg hver voru í mikilli hættu á að glatast.",
+  "stjornuspa": "Sporðdreki, í dag gæti verið góður dagur til að grafa upp gamla leyndardóma – kannski finnurðu týnda fjársjóði í sófanum! Mundu bara að deila gleðinni, því jafnvel sporðdrekar þurfa stundum knús.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Ethelred_the_Unready.jpg/500px-Ethelred_the_Unready.jpg",
-    "ar": "1002",
-    "texti": "Aðalráður 2. Englandskonungur fyrirskipaði fjöldamorð á Dönum í Englandi. Dagurinn varð einn sá myrkasti í langri og stormasamri sögu samskipta Englendinga og norrænna manna.",
-    "heimild": "https://en.wikipedia.org/wiki/Æthelred_the_Unready",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/500px-13_November_2015_Paris_attacks_-_montage.jpg",
+    "ar": "2015",
+    "texti": "Samræmdar hryðjuverkaárásir Íslamska ríkisins í París drápu 130 manns og særðu 413.",
+    "heimild": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
     "breidd": 330,
-    "haed": 557
+    "haed": 498
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-13"
 }
