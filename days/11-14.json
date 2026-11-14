@@ -6,77 +6,77 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:51",
   "sunset": "16:30",
-  "kvedja": "Góðan og gleðilegan 14. nóvember! Í dag skjótumst við frá halastjörnu 17. aldar yfir á tunglið, með viðkomu hjá Surtsey, Astrid Lindgren og sjálfum hvíta hvalnum — enda kann sagan vel við langar krókaleiðir.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinum! Í dag er 14. nóvember og sagan er svo sannarlega ekki af verri endanum. Við skoðum allt frá brautryðjendum í lofti og rúmi, til tónlistarblekkinga og konunglegra afmælisbarna. Hvað ætli Sporðdrekarnir séu að bralla í dag?",
+  "nafnadagur": "Einar",
   "atburdir": [
     {
-      "ar": "1680",
-      "texti": "Þýski stjörnufræðingurinn Gottfried Kirch uppgötvaði Halastjörnuna miklu árið 1680, fyrstu halastjörnuna sem fannst með sjónauka. Himinninn var þar með kominn í návígi við nýjustu tækni samtímans."
+      "ar": "2010",
+      "texti": "Sebastian Vettel hjá Red Bull Racing varð yngsti Formúlu 1 meistarinn eftir að hafa unnið lokakeppni tímabilsins."
     },
     {
-      "ar": "1851",
-      "texti": "Bandaríska útgáfan af Moby-Dick eftir Herman Melville kom fyrst út. Hvalurinn var gríðarstór, bókin sömuleiðis og Akab skipstjóri ekki beinlínis þekktur fyrir að kunna að sleppa takinu."
-    },
-    {
-      "ar": "1960",
-      "texti": "Ruby Bridges og stúlkurnar þrjár sem kallaðar voru McDonogh Three urðu fyrstu svörtu börnin til að ganga í áður alhvíta grunnskóla í Louisiana. Þær tóku þar hugrökk skref í afnámi kynþáttaaðskilnaðar í skólum New Orleans."
+      "ar": "1990",
+      "texti": "Tónlistarframleiðandinn Frank Farian viðurkenndi að þýska R&B dúóið Milli Vanilli hefði ekki sungið á plötu sinni, Girl You Know It's True, og vakti það mikla athygli."
     },
     {
       "ar": "1969",
-      "texti": "Apollo 12 var skotið á loft frá Kennedy-geimstöðinni. Leiðangurinn varð síðar önnur mannaða geimferðin sem lenti á tunglinu — framhaldsmynd sem tókst býsna vel."
+      "texti": "Apollo 12 var skotið á loft frá Kennedy geimferðamiðstöðinni og varð síðar önnur mannaða geimferðin til að lenda á tunglinu."
     },
     {
-      "ar": "2003",
-      "texti": "Stjörnufræðingarnir Michael E. Brown, Chad Trujillo og David L. Rabinowitz uppgötvuðu útstirnið Sednu handan Neptúnusar. Nafnið hæfir köldum og fjarlægum heimi einkar vel."
+      "ar": "1960",
+      "texti": "Ruby Bridges varð fyrsta svarta barnið til að sækja hvítan barnaskóla í Louisiana, sem hluti af kynþáttaaðskilnaðarkreppunni í New Orleans."
+    },
+    {
+      "ar": "1910",
+      "texti": "Flugmaðurinn Eugene Burton Ely framkvæmdi fyrstu flugtak frá skipi, þegar hann flaug af bráðabirgðadekk á USS Birmingham."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1894",
-      "texti": "Sjómannafélagið Báran var stofnað í Reykjavík.",
+      "texti": "Sjómannafélagið Báran var stofnað í Reykjavík, sem markar mikilvægan áfanga í sögu verkalýðshreyfingarinnar á Íslandi.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1930",
-      "texti": "Fyrsta hitaveita Íslands var tekin í notkun í Reykjavík með 2.800 metra lögn frá þvottalaugunum í Laugardal. Um 70–80 hús tengdust, þar á meðal Sundhöllin og Landspítalinn.",
+      "texti": "Hitaveita Reykjavíkur var tekin í notkun með 2800 metra langri heitavatnslögn frá þvottalaugunum í Laugardal, fyrsta slíka veita á Íslandi.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1963",
-      "texti": "Surtseyjargossins varð vart um klukkan sjö að morgni. Ný eyja hóf þar með að rísa úr sjó suður af Íslandi, án þess svo mikið sem að sækja um byggingarleyfi.",
-      "landshluti": "Suðurland"
+      "ar": "1956",
+      "texti": "Togarinn Fylkir sigldi á tundurdufl norður af Straumnesi og sökk, en öll áhöfnin bjargaðist um borð í togarann Hafliða.",
+      "landshluti": "Vestfirðir"
     },
     {
-      "ar": "1985",
-      "texti": "Hólmfríður Karlsdóttir var kjörin Ungfrú heimur, 22 ára að aldri.",
-      "landshluti": "Erlendis"
+      "ar": "1963",
+      "texti": "Surtseyjargossins varð vart um klukkan sjö að morgni, sem markaði upphaf einnar frægustu eyjamyndunar í heimi.",
+      "landshluti": "Suðurland"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Astrid Lindgren",
-      "starfsgrein": "rithöfundur og handritshöfundur",
-      "ar": "1907"
+      "nafn": "Karl III",
+      "starfsgrein": "konungur Bretlands",
+      "ar": "1948"
     },
     {
-      "nafn": "Aaron Copland",
-      "starfsgrein": "tónskáld, hljómsveitarstjóri og kennari",
-      "ar": "1900"
+      "nafn": "Travis Barker",
+      "starfsgrein": "trommari og tónlistarframleiðandi",
+      "ar": "1975"
     },
     {
-      "nafn": "Charles Lyell",
-      "starfsgrein": "jarðfræðingur",
-      "ar": "1797"
+      "nafn": "Olga Kurylenko",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1979"
     },
     {
-      "nafn": "Andrew Strong",
-      "starfsgrein": "söngvari og leikari",
-      "ar": "1973"
+      "nafn": "Claude Monet",
+      "starfsgrein": "listmálari",
+      "ar": "1840"
     },
     {
-      "nafn": "Borna Ćorić",
-      "starfsgrein": "tennisleikari",
-      "ar": "1996"
+      "nafn": "Condoleezza Rice",
+      "starfsgrein": "stjórnmálafræðingur og fyrrverandi utanríkisráðherra Bandaríkjanna",
+      "ar": "1954"
     }
   ],
   "afmaeli_island": [
@@ -86,11 +86,6 @@
       "ar": "1944"
     },
     {
-      "nafn": "Andri Ísaksson",
-      "starfsgrein": "prófessor í uppeldisfræði",
-      "ar": "1939"
-    },
-    {
       "nafn": "Þórður J. Thoroddsen",
       "starfsgrein": "læknir",
       "ar": "1856"
@@ -98,56 +93,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða bók kom fyrst út í Bandaríkjunum 14. nóvember 1851?",
+      "spurning": "Hvaða tónlistardúó varð uppvíst að því að hafa ekki sungið á eigin plötu þennan dag árið 1990?",
       "svor": [
-        "Moby-Dick",
-        "Drakúla",
-        "Litlar konur",
-        "Oliver Twist"
+        "Milli Vanilli",
+        "Modern Talking",
+        "Wham!",
+        "Roxette"
       ],
       "rett": 0,
-      "skyring": "Moby-Dick sigldi á bandarískan bókamarkað þennan dag árið 1851."
+      "skyring": "Milli Vanilli varð frægt fyrir að syngja ekki á eigin plötum."
     },
     {
-      "spurning": "Hvaða íslenska náttúrufyrirbæris varð fyrst vart að morgni 14. nóvember 1963?",
+      "spurning": "Hvaða ár var Hitaveita Reykjavíkur tekin í notkun?",
       "svor": [
-        "Heklugossins",
-        "Surtseyjargossins",
-        "Kötlugossins",
-        "Eldfellsgossins"
+        "1920",
+        "1930",
+        "1940",
+        "1950"
       ],
       "rett": 1,
-      "skyring": "Surtseyjargosið hófst neðansjávar og ný eyja reis smám saman úr Atlantshafinu."
+      "skyring": "Hitaveita Reykjavíkur hóf starfsemi árið 1930."
     },
     {
-      "spurning": "Hver afmælisbarna dagsins skapaði meðal annars Línu langsokk?",
+      "spurning": "Hvaða frægi listmálari á afmæli í dag?",
       "svor": [
-        "Aaron Copland",
-        "Charles Lyell",
-        "Astrid Lindgren",
-        "Andrew Strong"
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Leonardo da Vinci"
       ],
       "rett": 2,
-      "skyring": "Astrid Lindgren gaf heimsbyggðinni Línu langsokk og fjölmargar aðrar ógleymanlegar persónur."
+      "skyring": "Hinn franski impressjónisti Claude Monet fæddist þennan dag."
     }
   ],
-  "tonlistUSA": "Macarena – Los del Río (1996)",
-  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
-  "bio": "The Incredibles (2004)",
+  "tonlistUSA": "I'll Make Love to You – Boyz II Men (1994)",
+  "tonlistUK": "Love Is All Around – Wet Wet Wet (1994)",
+  "bio": "Dumb and Dumber (1994)",
   "ord_dagsins": {
-    "ord": "blikur",
-    "skyring": "Blikur eru veðurmerki eða vísbendingar um það sem er í vændum, einkum þegar eitthvað óhagstætt nálgast."
+    "ord": "fjárræði",
+    "skyring": "Lögræði sem veitir einstaklingi rétt til að ráðstafa eigin fjármunum og skuldbinda sig fjárhagslega."
   },
-  "vissir_thu": "Apollo 12 var önnur mannaða geimferðin sem lenti á tunglinu, aðeins nokkrum mánuðum eftir sögulega lendingu Apollo 11.",
-  "stjornuspa": "Sporðdreki, í dag er leyndardómsfull útgeislun þín svo sterk að jafnvel Sedna handan Neptúnusar tekur eftir henni. Dragðu fram flauelsjakkann, treystu innsæinu og forðastu aðeins að eltast við hvíta hvali af fullmikilli ákefð.",
+  "vissir_thu": "Fyrsta laserkerfi heimsins, rúbínlaserinn, fékk einkaleyfi þennan dag árið 1967.",
+  "stjornuspa": "Sporðdrekar, í dag gætuð þið fundið ykkur í miðpunkti athygli, rétt eins og nýuppgötvað halastjarna. Mundu bara að halda fætur á jörðinni – eða allavega á skipi eins og Eugene Burton Ely!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gottfried_Kirch.jpg/500px-Gottfried_Kirch.jpg",
-    "ar": "1680",
-    "texti": "Þýski stjörnufræðingurinn Gottfried Kirch uppgötvaði Halastjörnuna miklu árið 1680, fyrstu halastjörnuna sem fannst með sjónauka. Himinninn var þar með kominn í návígi við nýjustu tækni samtímans.",
-    "heimild": "https://en.wikipedia.org/wiki/Gottfried_Kirch",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Red_Bull_Racing_Logo_2026.svg/330px-Red_Bull_Racing_Logo_2026.svg.png",
+    "ar": "2010",
+    "texti": "Sebastian Vettel hjá Red Bull Racing varð yngsti Formúlu 1 meistarinn eftir að hafa unnið lokakeppni tímabilsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
     "breidd": 330,
-    "haed": 515
+    "haed": 155
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-14"
 }

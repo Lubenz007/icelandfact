@@ -1,152 +1,152 @@
 {
-  "date": "2026-11-13",
-  "dagur": 13,
+  "date": "2026-11-14",
+  "dagur": 14,
   "manudur": "nóvember",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 317,
-  "sunrise": "09:49",
-  "sunset": "16:33",
-  "mmdd": "11-13",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 318,
+  "sunrise": "09:53",
+  "sunset": "16:30",
+  "mmdd": "11-14",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinum! Þrettándi nóvember er mættur og með honum fylgir ýmislegt forvitnilegt úr sögunni. Dagurinn í dag minnir okkur á að jafnvel þótt heimurinn sé stundum dimmur, þá er alltaf hægt að finna ljós í fróðleiknum. Vonandi hafið þið það gott og njótið sagnanna sem ég hef grafið upp fyrir ykkur!",
-  "nafnadagur": "Ingibjörg",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinum! Í dag er 14. nóvember og sagan er svo sannarlega ekki af verri endanum. Við skoðum allt frá brautryðjendum í lofti og rúmi, til tónlistarblekkinga og konunglegra afmælisbarna. Hvað ætli Sporðdrekarnir séu að bralla í dag?",
+  "nafnadagur": "Einar",
   "atburdir": [
     {
-      "ar": "2015",
-      "texti": "Samræmdar hryðjuverkaárásir Íslamska ríkisins í París drápu 130 manns og særðu 413."
+      "ar": "2010",
+      "texti": "Sebastian Vettel hjá Red Bull Racing varð yngsti Formúlu 1 meistarinn eftir að hafa unnið lokakeppni tímabilsins."
     },
     {
-      "ar": "1985",
-      "texti": "Eldgosið í Nevado del Ruiz í Kólumbíu olli gríðarlegu aurflóði sem gróf bæinn Armero og kostaði um 23.000 manns lífið."
+      "ar": "1990",
+      "texti": "Tónlistarframleiðandinn Frank Farian viðurkenndi að þýska R&B dúóið Milli Vanilli hefði ekki sungið á plötu sinni, Girl You Know It's True, og vakti það mikla athygli."
     },
     {
-      "ar": "1982",
-      "texti": "Suður-kóreski hnefaleikamaðurinn Kim Duk-koo hlaut banvæna höfuðáverka í bardaga við Ray Mancini í Las Vegas, sem leiddi til mikilla reglubreytinga í íþróttinni."
+      "ar": "1969",
+      "texti": "Apollo 12 var skotið á loft frá Kennedy geimferðamiðstöðinni og varð síðar önnur mannaða geimferðin til að lenda á tunglinu."
     },
     {
-      "ar": "1940",
-      "texti": "Teiknimyndin Fantasía eftir Walt Disney, fyrsta kvikmyndin sem sýnd var með stafrænu hljóði, var frumsýnd í New York."
+      "ar": "1960",
+      "texti": "Ruby Bridges varð fyrsta svarta barnið til að sækja hvítan barnaskóla í Louisiana, sem hluti af kynþáttaaðskilnaðarkreppunni í New Orleans."
     },
     {
-      "ar": "1002",
-      "texti": "Aðalráður II Englandskonungur fyrirskipaði fjöldamorð á öllum Dönum í Englandi."
+      "ar": "1910",
+      "texti": "Flugmaðurinn Eugene Burton Ely framkvæmdi fyrstu flugtak frá skipi, þegar hann flaug af bráðabirgðadekk á USS Birmingham."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1939",
-      "texti": "Þýska flutningaskipinu Parana var sökkt út af Patreksfirði og áhöfnin tekin til fanga af breska herskipinu Newcastle, fyrsta þýska skipið sem sökkt var við Ísland í seinni heimsstyrjöldinni.",
+      "ar": "1894",
+      "texti": "Sjómannafélagið Báran var stofnað í Reykjavík, sem markar mikilvægan áfanga í sögu verkalýðshreyfingarinnar á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1930",
+      "texti": "Hitaveita Reykjavíkur var tekin í notkun með 2800 metra langri heitavatnslögn frá þvottalaugunum í Laugardal, fyrsta slíka veita á Íslandi.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1956",
+      "texti": "Togarinn Fylkir sigldi á tundurdufl norður af Straumnesi og sökk, en öll áhöfnin bjargaðist um borð í togarann Hafliða.",
       "landshluti": "Vestfirðir"
     },
     {
-      "ar": "1946",
-      "texti": "Vestmannaeyjaflugvöllur var formlega tekinn í notkun, sem var mikilvægur áfangi fyrir samgöngur á Suðurlandi.",
+      "ar": "1963",
+      "texti": "Surtseyjargossins varð vart um klukkan sjö að morgni, sem markaði upphaf einnar frægustu eyjamyndunar í heimi.",
       "landshluti": "Suðurland"
-    },
-    {
-      "ar": "1973",
-      "texti": "Alþingi samþykkti samning við Bretland um lausn landhelgisdeilunnar vegna útfærslu landhelginnar í 50 sjómílur, sem var stór sigur fyrir Ísland.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "2004",
-      "texti": "Lög voru sett á verkfall grunnskólakennara sem hafði staðið yfir í tvo mánuði, en það hafði mikil áhrif á menntakerfið.",
-      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Whoopi Goldberg",
-      "starfsgrein": "bandarísk leikkona, grínisti og spjallþáttastjórnandi",
-      "ar": "1955"
+      "nafn": "Karl III",
+      "starfsgrein": "konungur Bretlands",
+      "ar": "1948"
     },
     {
-      "nafn": "Gerard Butler",
-      "starfsgrein": "skoskur leikari",
-      "ar": "1969"
+      "nafn": "Travis Barker",
+      "starfsgrein": "trommari og tónlistarframleiðandi",
+      "ar": "1975"
     },
     {
-      "nafn": "Jimmy Kimmel",
-      "starfsgrein": "bandarískur grínisti, leikari og spjallþáttastjórnandi",
-      "ar": "1967"
+      "nafn": "Olga Kurylenko",
+      "starfsgrein": "leikkona og fyrirsæta",
+      "ar": "1979"
     },
     {
-      "nafn": "Robert Louis Stevenson",
-      "starfsgrein": "skoskur rithöfundur og ljóðskáld",
-      "ar": "1850"
+      "nafn": "Claude Monet",
+      "starfsgrein": "listmálari",
+      "ar": "1840"
+    },
+    {
+      "nafn": "Condoleezza Rice",
+      "starfsgrein": "stjórnmálafræðingur og fyrrverandi utanríkisráðherra Bandaríkjanna",
+      "ar": "1954"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Árni Magnússon",
-      "starfsgrein": "íslenskur handritasafnari",
-      "ar": "1663"
+      "nafn": "Björn Bjarnason",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1944"
     },
     {
-      "nafn": "Eysteinn Jónsson",
-      "starfsgrein": "íslenskur stjórnmálamaður og ráðherra",
-      "ar": "1906"
-    },
-    {
-      "nafn": "Páll Melsteð",
-      "starfsgrein": "íslenskur sagnfræðingur",
-      "ar": "1812"
+      "nafn": "Þórður J. Thoroddsen",
+      "starfsgrein": "læknir",
+      "ar": "1856"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða kvikmynd var frumsýnd á þessum degi árið 1940 og var fyrsta kvikmyndin sem sýnd var með stafrænu hljóði?",
+      "spurning": "Hvaða tónlistardúó varð uppvíst að því að hafa ekki sungið á eigin plötu þennan dag árið 1990?",
       "svor": [
-        "Fantasía",
-        "Gullhamra",
-        "Dumbo",
-        "Pinocchio"
+        "Milli Vanilli",
+        "Modern Talking",
+        "Wham!",
+        "Roxette"
       ],
       "rett": 0,
-      "skyring": "Fantasía Walt Disney var sannarlega brautryðjandi í hljóðtækni."
+      "skyring": "Milli Vanilli varð frægt fyrir að syngja ekki á eigin plötum."
     },
     {
-      "spurning": "Hvaða íslenski handritasafnari fæddist þennan dag árið 1663?",
+      "spurning": "Hvaða ár var Hitaveita Reykjavíkur tekin í notkun?",
       "svor": [
-        "Jón Sigurðsson",
-        "Árni Magnússon",
-        "Eggert Ólafsson",
-        "Grímur Thomsen"
+        "1920",
+        "1930",
+        "1940",
+        "1950"
       ],
       "rett": 1,
-      "skyring": "Árni Magnússon er þekktastur fyrir ómetanlegt framlag sitt til varðveislu íslenskra handrita."
+      "skyring": "Hitaveita Reykjavíkur hóf starfsemi árið 1930."
     },
     {
-      "spurning": "Hvaða náttúruhamfarir urðu í Kólumbíu þennan dag árið 1985, sem kostuðu um 23.000 manns lífið?",
+      "spurning": "Hvaða frægi listmálari á afmæli í dag?",
       "svor": [
-        "Jarðskjálfti",
-        "Flóðbylgja",
-        "Aurflóð eftir eldgos",
-        "Skógareldar"
+        "Vincent van Gogh",
+        "Pablo Picasso",
+        "Claude Monet",
+        "Leonardo da Vinci"
       ],
       "rett": 2,
-      "skyring": "Eldgosið í Nevado del Ruiz olli skelfilegu aurflóði sem gróf bæinn Armero."
+      "skyring": "Hinn franski impressjónisti Claude Monet fæddist þennan dag."
     }
   ],
-  "tonlistUSA": "I Just Called to Say I Love You – Stevie Wonder (1984)",
-  "tonlistUK": "I Feel For You – Chaka Khan (1984)",
-  "bio": "Back to the Future (1985)",
+  "tonlistUSA": "I'll Make Love to You – Boyz II Men (1994)",
+  "tonlistUK": "Love Is All Around – Wet Wet Wet (1994)",
+  "bio": "Dumb and Dumber (1994)",
   "ord_dagsins": {
-    "ord": "þrákelkni",
-    "skyring": "Sterk og óbilandi staðfesta, oft í neikvæðri merkingu sem þrjóska."
+    "ord": "fjárræði",
+    "skyring": "Lögræði sem veitir einstaklingi rétt til að ráðstafa eigin fjármunum og skuldbinda sig fjárhagslega."
   },
-  "vissir_thu": "Árni Magnússon ferðaðist um Ísland í áraraðir til að safna og bjarga fornum handritum, sem mörg hver voru í mikilli hættu á að glatast.",
-  "stjornuspa": "Sporðdreki, í dag gæti verið góður dagur til að grafa upp gamla leyndardóma – kannski finnurðu týnda fjársjóði í sófanum! Mundu bara að deila gleðinni, því jafnvel sporðdrekar þurfa stundum knús.",
+  "vissir_thu": "Fyrsta laserkerfi heimsins, rúbínlaserinn, fékk einkaleyfi þennan dag árið 1967.",
+  "stjornuspa": "Sporðdrekar, í dag gætuð þið fundið ykkur í miðpunkti athygli, rétt eins og nýuppgötvað halastjarna. Mundu bara að halda fætur á jörðinni – eða allavega á skipi eins og Eugene Burton Ely!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/13_November_2015_Paris_attacks_-_montage.jpg/500px-13_November_2015_Paris_attacks_-_montage.jpg",
-    "ar": "2015",
-    "texti": "Samræmdar hryðjuverkaárásir Íslamska ríkisins í París drápu 130 manns og særðu 413.",
-    "heimild": "https://en.wikipedia.org/wiki/November_2015_Paris_attacks",
+    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Red_Bull_Racing_Logo_2026.svg/330px-Red_Bull_Racing_Logo_2026.svg.png",
+    "ar": "2010",
+    "texti": "Sebastian Vettel hjá Red Bull Racing varð yngsti Formúlu 1 meistarinn eftir að hafa unnið lokakeppni tímabilsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
     "breidd": 330,
-    "haed": 498
+    "haed": 155
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-13",
-  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-14",
+  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
