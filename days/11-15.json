@@ -6,36 +6,31 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:54",
   "sunset": "16:27",
-  "kvedja": "Komdu sæll, kæri lesandi! Þessi 15. nóvember teygir sig frá leðjukenndum vígvelli á Englandi til sjálfvirkrar geimferju Sovétmanna — og ABBA-stjarna fær að sjálfsögðu að slá rétta tóninn. Sagan kann nefnilega bæði að marséra, fljúga og taka dansspor.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag, 15. nóvember, er dagurinn fullur af sögulegum atburðum, allt frá keisaraveldi til geimferða. Vonandi hafið þið það gott og njótið þess að kafa með mér ofan í söguna!",
+  "nafnadagur": "Albert",
   "atburdir": [
     {
-      "ar": "655",
-      "texti": "Oswiu af Norðymbralandi sigraði Penda af Mersíu og Æthelhere af Austur-Anglíu í orrustunni við Winwaed í Yorkshire. Engilsaxnesk konungsnöfn voru ekki beinlínis hönnuð með hraðlestur í huga."
-    },
-    {
-      "ar": "1859",
-      "texti": "Fyrsta nútímaendurvakning Ólympíuleikanna fór fram í Aþenu fyrir tilstilli gríska athafnamannsins Evangelos Zappas. Þar var kveikt á gömlum íþróttaanda áður en nútíma Ólympíuleikarnir tóku á sig kunnuglega mynd."
-    },
-    {
-      "ar": "1889",
-      "texti": "Pedro II Brasilíukeisara var steypt af stóli í valdaráni undir forystu Deodoro da Fonseca og Brasilía lýst lýðveldi. Krúnan vék, lýðveldið mætti til leiks og stjórnskipanin skipti um búning."
-    },
-    {
-      "ar": "1959",
-      "texti": "Tveir menn myrtu fjölskyldu í Holcomb í Kansas. Morðin urðu síðar efniviður bókar Truman Capote, In Cold Blood, sem telst brautryðjandaverk í frásögnum af sönnum sakamálum."
+      "ar": "2012",
+      "texti": "Xi Jinping tók við af Hu Jintao sem aðalritari Kommúnistaflokks Kína og varð æðsti leiðtogi landsins."
     },
     {
       "ar": "1988",
-      "texti": "Sovéska geimfarið Buran, endurnýtanlegt far smíðað sem svar við geimferjuáætlun NASA, fór í loftið mannlaust. Þetta varð eina geimferð þess — glæsileg frumraun sem reyndist jafnframt lokasýningin."
+      "texti": "Sovéska geimfarið Buran, endurnýtanlegt farartæki smíðað til að svara geimskutluáætlun NASA, fór í sína einu ferð ómannað."
+    },
+    {
+      "ar": "1959",
+      "texti": "Tveir menn myrtu fjölskyldu í Holcomb, Kansas; atburðirnir urðu efni í sannsögulega skáldsögu Trumans Capote, In Cold Blood, sem var brautryðjendaverk í glæpasagnaflokknum."
+    },
+    {
+      "ar": "1943",
+      "texti": "Í helförinni gegn Rómafólki skipaði Heinrich Himmler, embættismaður nasista, að Rómafólk skyldi sett „á sama plan og gyðingar og í útrýmingarbúðir“."
+    },
+    {
+      "ar": "1889",
+      "texti": "Pedro II, keisara Brasilíu, var steypt af stóli í valdaráni undir forystu Deodoro da Fonseca, og landið var lýst lýðveldi."
     }
   ],
   "atburdir_island": [
-    {
-      "ar": "1888",
-      "texti": "Í Reykjavík var 25 ára valdatíð Kristjáns IX fagnað með því að kveikja á kerti í nánast hverjum glugga. Höfuðstaðurinn hefur trúlega sjaldan verið jafn bókstaflega upplýstur.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
     {
       "ar": "1919",
       "texti": "Alþingiskosningar voru haldnar á Íslandi.",
@@ -43,95 +38,95 @@
     },
     {
       "ar": "1948",
-      "texti": "Tilraunastöðin að Keldum hóf formlega starfsemi og varð mikilvæg miðstöð rannsókna á dýrasjúkdómum.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Tilraunastöðin að Keldum hóf formlega starfsemi.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1978",
-      "texti": "Farþegaþotan Leifur Eiríksson, flug Loftleiða LL 001, fórst í aðflugi að Colombo á Sri Lanka. Alls létust 197 manns í þessu mikla flugslysi.",
-      "landshluti": "Erlendis"
+      "ar": "1956",
+      "texti": "Löndunarsamningur milli Breta og Íslendinga batt enda á fyrsta þorskastríðið.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2008",
+      "texti": "Að minnsta kosti sjö þúsund manns mótmæltu við Austurvöll vegna efnahagskreppunnar í Búsáhaldabyltingunni.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Shailene Woodley",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1991"
+    },
+    {
+      "nafn": "Jonny Lee Miller",
+      "starfsgrein": "ensk-bandarískur leikari",
+      "ar": "1972"
+    },
+    {
+      "nafn": "Erwin Rommel",
+      "starfsgrein": "þýskur hermarskálkur",
+      "ar": "1891"
+    },
+    {
       "nafn": "Anni-Frid Lyngstad",
-      "starfsgrein": "söngkona",
+      "starfsgrein": "norsk-sænsk söngkona",
       "ar": "1945"
-    },
-    {
-      "nafn": "B.o.B",
-      "starfsgrein": "rappari, lagahöfundur og upptökustjóri",
-      "ar": "1988"
-    },
-    {
-      "nafn": "Asia Kate Dillon",
-      "starfsgrein": "leikari og framleiðandi",
-      "ar": "1984"
-    },
-    {
-      "nafn": "Aneurin Bevan",
-      "starfsgrein": "blaðamaður og stjórnmálamaður",
-      "ar": "1897"
-    },
-    {
-      "nafn": "Bill Melendez",
-      "starfsgrein": "teiknari, raddleikari og leikstjóri",
-      "ar": "1916"
     }
   ],
   "afmaeli_island": [],
   "spurningar": [
     {
-      "spurning": "Hvaða sovéska geimfar fór í sína einu geimferð 15. nóvember 1988?",
+      "spurning": "Hvaða bók var skrifuð um morðin í Holcomb, Kansas, árið 1959?",
       "svor": [
-        "Buran",
-        "Vostok 1",
-        "Sputnik 1",
-        "Soyuz 11"
+        "In Cold Blood",
+        "The Silence of the Lambs",
+        "Helter Skelter",
+        "Zodiac"
       ],
       "rett": 0,
-      "skyring": "Buran flaug mannlaust og lét þessa einu ferð duga — stutt en geimlega glæsileg ferilskrá."
+      "skyring": "Truman Capote skrifaði þessa frægu bók um atburðina."
     },
     {
-      "spurning": "Hvaða ABBA-söngkona á afmæli í dag?",
+      "spurning": "Hvaða atburður batt enda á fyrsta þorskastríðið árið 1956?",
       "svor": [
-        "Agnetha Fältskog",
-        "Anni-Frid Lyngstad",
-        "Céline Dion",
-        "Olivia Newton-John"
+        "Friðarsamningur",
+        "Löndunarsamningur",
+        "Viðskiptabann",
+        "Herinn greip inn í"
       ],
       "rett": 1,
-      "skyring": "Anni-Frid Lyngstad fæddist 15. nóvember 1945 og varð síðar önnur tveggja söngkvenna ABBA."
+      "skyring": "Löndunarsamningur milli Breta og Íslendinga leysti deiluna."
     },
     {
-      "spurning": "Hvað gerðu Reykvíkingar til að fagna 25 ára valdatíð Kristjáns IX árið 1888?",
+      "spurning": "Hvaða þekkti leiðtogi tók við völdum í Kína árið 2012?",
       "svor": [
-        "Skutu upp flugeldum frá Öskjuhlíð",
-        "Reistu konungsstyttu á Austurvelli",
-        "Kveiktu á kerti í nánast hverjum glugga",
-        "Héldu kappróður á Tjörninni"
+        "Mao Zedong",
+        "Deng Xiaoping",
+        "Xi Jinping",
+        "Jiang Zemin"
       ],
       "rett": 2,
-      "skyring": "Kertaljós lýstu upp nær hvern glugga og Reykjavík varð að sannkölluðum ljósabæ."
+      "skyring": "Xi Jinping tók við sem aðalritari Kommúnistaflokks Kína."
     }
   ],
-  "tonlistUSA": "Lady – Kenny Rogers (1980)",
-  "tonlistUK": "Space Oddity – David Bowie (1975)",
-  "bio": "Casino Royale (2006)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
   "ord_dagsins": {
-    "ord": "krapplægð",
-    "skyring": "Krapplægð er djúp og kröpp loftþrýstilægð sem getur haft í för með sér snarpan vind og illviðri."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Sovéska geimfarið Buran fór sína einu ferð án áhafnar og lenti sjálfvirkt að henni lokinni.",
-  "stjornuspa": "Sporðdreki, segulmagn þitt er sterkt í dag, svo sterkt að gamalt útvarp gæti farið að spila ABBA þegar þú gengur hjá. Haltu leyndardómsfulla svipnum, en mundu að jafnvel dularfullar sálir þurfa kaffi og kleinubita.",
+  "vissir_thu": "Fyrsta geimfar Sovétríkjanna, Buran, fór aðeins í eina ferð árið 1988 og var ómannað.",
+  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðri dramatískri atburðarás, en mundu að halda ró þinni. Kannski er kominn tími til að kafa djúpt í gamlar gátur, rétt eins og sagnfræðingurinn sjálfur!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Penda_of_Mercia.jpg/500px-Penda_of_Mercia.jpg",
-    "ar": "655",
-    "texti": "Oswiu af Norðymbralandi sigraði Penda af Mersíu og Æthelhere af Austur-Anglíu í orrustunni við Winwaed í Yorkshire. Engilsaxnesk konungsnöfn voru ekki beinlínis hönnuð með hraðlestur í huga.",
-    "heimild": "https://en.wikipedia.org/wiki/Penda_of_Mercia",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
+    "ar": "2012",
+    "texti": "Xi Jinping tók við af Hu Jintao sem aðalritari Kommúnistaflokks Kína og varð æðsti leiðtogi landsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Xi_Jinping",
     "breidd": 330,
-    "haed": 599
+    "haed": 440
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-15"
 }

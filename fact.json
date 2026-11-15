@@ -1,152 +1,136 @@
 {
-  "date": "2026-11-14",
-  "dagur": 14,
+  "date": "2026-11-15",
+  "dagur": 15,
   "manudur": "nóvember",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 318,
-  "sunrise": "09:53",
-  "sunset": "16:30",
-  "mmdd": "11-14",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 319,
+  "sunrise": "09:56",
+  "sunset": "16:27",
+  "mmdd": "11-15",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinum! Í dag er 14. nóvember og sagan er svo sannarlega ekki af verri endanum. Við skoðum allt frá brautryðjendum í lofti og rúmi, til tónlistarblekkinga og konunglegra afmælisbarna. Hvað ætli Sporðdrekarnir séu að bralla í dag?",
-  "nafnadagur": "Einar",
+  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag, 15. nóvember, er dagurinn fullur af sögulegum atburðum, allt frá keisaraveldi til geimferða. Vonandi hafið þið það gott og njótið þess að kafa með mér ofan í söguna!",
+  "nafnadagur": "Albert",
   "atburdir": [
     {
-      "ar": "2010",
-      "texti": "Sebastian Vettel hjá Red Bull Racing varð yngsti Formúlu 1 meistarinn eftir að hafa unnið lokakeppni tímabilsins."
+      "ar": "2012",
+      "texti": "Xi Jinping tók við af Hu Jintao sem aðalritari Kommúnistaflokks Kína og varð æðsti leiðtogi landsins."
     },
     {
-      "ar": "1990",
-      "texti": "Tónlistarframleiðandinn Frank Farian viðurkenndi að þýska R&B dúóið Milli Vanilli hefði ekki sungið á plötu sinni, Girl You Know It's True, og vakti það mikla athygli."
+      "ar": "1988",
+      "texti": "Sovéska geimfarið Buran, endurnýtanlegt farartæki smíðað til að svara geimskutluáætlun NASA, fór í sína einu ferð ómannað."
     },
     {
-      "ar": "1969",
-      "texti": "Apollo 12 var skotið á loft frá Kennedy geimferðamiðstöðinni og varð síðar önnur mannaða geimferðin til að lenda á tunglinu."
+      "ar": "1959",
+      "texti": "Tveir menn myrtu fjölskyldu í Holcomb, Kansas; atburðirnir urðu efni í sannsögulega skáldsögu Trumans Capote, In Cold Blood, sem var brautryðjendaverk í glæpasagnaflokknum."
     },
     {
-      "ar": "1960",
-      "texti": "Ruby Bridges varð fyrsta svarta barnið til að sækja hvítan barnaskóla í Louisiana, sem hluti af kynþáttaaðskilnaðarkreppunni í New Orleans."
+      "ar": "1943",
+      "texti": "Í helförinni gegn Rómafólki skipaði Heinrich Himmler, embættismaður nasista, að Rómafólk skyldi sett „á sama plan og gyðingar og í útrýmingarbúðir“."
     },
     {
-      "ar": "1910",
-      "texti": "Flugmaðurinn Eugene Burton Ely framkvæmdi fyrstu flugtak frá skipi, þegar hann flaug af bráðabirgðadekk á USS Birmingham."
+      "ar": "1889",
+      "texti": "Pedro II, keisara Brasilíu, var steypt af stóli í valdaráni undir forystu Deodoro da Fonseca, og landið var lýst lýðveldi."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1894",
-      "texti": "Sjómannafélagið Báran var stofnað í Reykjavík, sem markar mikilvægan áfanga í sögu verkalýðshreyfingarinnar á Íslandi.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1919",
+      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1930",
-      "texti": "Hitaveita Reykjavíkur var tekin í notkun með 2800 metra langri heitavatnslögn frá þvottalaugunum í Laugardal, fyrsta slíka veita á Íslandi.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1948",
+      "texti": "Tilraunastöðin að Keldum hóf formlega starfsemi.",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "1956",
-      "texti": "Togarinn Fylkir sigldi á tundurdufl norður af Straumnesi og sökk, en öll áhöfnin bjargaðist um borð í togarann Hafliða.",
-      "landshluti": "Vestfirðir"
+      "texti": "Löndunarsamningur milli Breta og Íslendinga batt enda á fyrsta þorskastríðið.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1963",
-      "texti": "Surtseyjargossins varð vart um klukkan sjö að morgni, sem markaði upphaf einnar frægustu eyjamyndunar í heimi.",
-      "landshluti": "Suðurland"
+      "ar": "2008",
+      "texti": "Að minnsta kosti sjö þúsund manns mótmæltu við Austurvöll vegna efnahagskreppunnar í Búsáhaldabyltingunni.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Karl III",
-      "starfsgrein": "konungur Bretlands",
-      "ar": "1948"
+      "nafn": "Shailene Woodley",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1991"
     },
     {
-      "nafn": "Travis Barker",
-      "starfsgrein": "trommari og tónlistarframleiðandi",
-      "ar": "1975"
+      "nafn": "Jonny Lee Miller",
+      "starfsgrein": "ensk-bandarískur leikari",
+      "ar": "1972"
     },
     {
-      "nafn": "Olga Kurylenko",
-      "starfsgrein": "leikkona og fyrirsæta",
-      "ar": "1979"
+      "nafn": "Erwin Rommel",
+      "starfsgrein": "þýskur hermarskálkur",
+      "ar": "1891"
     },
     {
-      "nafn": "Claude Monet",
-      "starfsgrein": "listmálari",
-      "ar": "1840"
-    },
-    {
-      "nafn": "Condoleezza Rice",
-      "starfsgrein": "stjórnmálafræðingur og fyrrverandi utanríkisráðherra Bandaríkjanna",
-      "ar": "1954"
+      "nafn": "Anni-Frid Lyngstad",
+      "starfsgrein": "norsk-sænsk söngkona",
+      "ar": "1945"
     }
   ],
-  "afmaeli_island": [
-    {
-      "nafn": "Björn Bjarnason",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1944"
-    },
-    {
-      "nafn": "Þórður J. Thoroddsen",
-      "starfsgrein": "læknir",
-      "ar": "1856"
-    }
-  ],
+  "afmaeli_island": [],
   "spurningar": [
     {
-      "spurning": "Hvaða tónlistardúó varð uppvíst að því að hafa ekki sungið á eigin plötu þennan dag árið 1990?",
+      "spurning": "Hvaða bók var skrifuð um morðin í Holcomb, Kansas, árið 1959?",
       "svor": [
-        "Milli Vanilli",
-        "Modern Talking",
-        "Wham!",
-        "Roxette"
+        "In Cold Blood",
+        "The Silence of the Lambs",
+        "Helter Skelter",
+        "Zodiac"
       ],
       "rett": 0,
-      "skyring": "Milli Vanilli varð frægt fyrir að syngja ekki á eigin plötum."
+      "skyring": "Truman Capote skrifaði þessa frægu bók um atburðina."
     },
     {
-      "spurning": "Hvaða ár var Hitaveita Reykjavíkur tekin í notkun?",
+      "spurning": "Hvaða atburður batt enda á fyrsta þorskastríðið árið 1956?",
       "svor": [
-        "1920",
-        "1930",
-        "1940",
-        "1950"
+        "Friðarsamningur",
+        "Löndunarsamningur",
+        "Viðskiptabann",
+        "Herinn greip inn í"
       ],
       "rett": 1,
-      "skyring": "Hitaveita Reykjavíkur hóf starfsemi árið 1930."
+      "skyring": "Löndunarsamningur milli Breta og Íslendinga leysti deiluna."
     },
     {
-      "spurning": "Hvaða frægi listmálari á afmæli í dag?",
+      "spurning": "Hvaða þekkti leiðtogi tók við völdum í Kína árið 2012?",
       "svor": [
-        "Vincent van Gogh",
-        "Pablo Picasso",
-        "Claude Monet",
-        "Leonardo da Vinci"
+        "Mao Zedong",
+        "Deng Xiaoping",
+        "Xi Jinping",
+        "Jiang Zemin"
       ],
       "rett": 2,
-      "skyring": "Hinn franski impressjónisti Claude Monet fæddist þennan dag."
+      "skyring": "Xi Jinping tók við sem aðalritari Kommúnistaflokks Kína."
     }
   ],
-  "tonlistUSA": "I'll Make Love to You – Boyz II Men (1994)",
-  "tonlistUK": "Love Is All Around – Wet Wet Wet (1994)",
-  "bio": "Dumb and Dumber (1994)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
   "ord_dagsins": {
-    "ord": "fjárræði",
-    "skyring": "Lögræði sem veitir einstaklingi rétt til að ráðstafa eigin fjármunum og skuldbinda sig fjárhagslega."
+    "ord": "þrándur",
+    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
   },
-  "vissir_thu": "Fyrsta laserkerfi heimsins, rúbínlaserinn, fékk einkaleyfi þennan dag árið 1967.",
-  "stjornuspa": "Sporðdrekar, í dag gætuð þið fundið ykkur í miðpunkti athygli, rétt eins og nýuppgötvað halastjarna. Mundu bara að halda fætur á jörðinni – eða allavega á skipi eins og Eugene Burton Ely!",
+  "vissir_thu": "Fyrsta geimfar Sovétríkjanna, Buran, fór aðeins í eina ferð árið 1988 og var ómannað.",
+  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðri dramatískri atburðarás, en mundu að halda ró þinni. Kannski er kominn tími til að kafa djúpt í gamlar gátur, rétt eins og sagnfræðingurinn sjálfur!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Red_Bull_Racing_Logo_2026.svg/330px-Red_Bull_Racing_Logo_2026.svg.png",
-    "ar": "2010",
-    "texti": "Sebastian Vettel hjá Red Bull Racing varð yngsti Formúlu 1 meistarinn eftir að hafa unnið lokakeppni tímabilsins.",
-    "heimild": "https://en.wikipedia.org/wiki/Red_Bull_Racing",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
+    "ar": "2012",
+    "texti": "Xi Jinping tók við af Hu Jintao sem aðalritari Kommúnistaflokks Kína og varð æðsti leiðtogi landsins.",
+    "heimild": "https://en.wikipedia.org/wiki/Xi_Jinping",
     "breidd": 330,
-    "haed": 155
+    "haed": 440
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-14",
-  "verdlag": "Árið 1973 kostaði eintak af Morgunblaðinu um 18 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 989-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-15",
+  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
