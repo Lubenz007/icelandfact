@@ -1,136 +1,152 @@
 {
-  "date": "2026-11-15",
-  "dagur": 15,
+  "date": "2026-11-16",
+  "dagur": 16,
   "manudur": "nóvember",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 319,
-  "sunrise": "09:56",
-  "sunset": "16:27",
-  "mmdd": "11-15",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 320,
+  "sunrise": "09:59",
+  "sunset": "16:24",
+  "mmdd": "11-16",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag, 15. nóvember, er dagurinn fullur af sögulegum atburðum, allt frá keisaraveldi til geimferða. Vonandi hafið þið það gott og njótið þess að kafa með mér ofan í söguna!",
-  "nafnadagur": "Albert",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 16. nóvember, er dagurinn fullur af ótrúlegum atburðum, allt frá gullfundum til konungadauða og sápuóperubrúðkaupa. Kíkjum á hvað sagan hefur upp á að bjóða!",
+  "nafnadagur": "Edgar",
   "atburdir": [
     {
-      "ar": "2012",
-      "texti": "Xi Jinping tók við af Hu Jintao sem aðalritari Kommúnistaflokks Kína og varð æðsti leiðtogi landsins."
+      "ar": "1532",
+      "texti": "Spænski landvinningamaðurinn Francisco Pizarro gerði óvænta árás í Cajamarca og tók Atahualpa, keisara Inka, höndum."
     },
     {
-      "ar": "1988",
-      "texti": "Sovéska geimfarið Buran, endurnýtanlegt farartæki smíðað til að svara geimskutluáætlun NASA, fór í sína einu ferð ómannað."
+      "ar": "1632",
+      "texti": "Gústaf II Adolf, konungur Svíþjóðar, féll í orrustunni við Lützen í Þrjátíu ára stríðinu."
     },
     {
-      "ar": "1959",
-      "texti": "Tveir menn myrtu fjölskyldu í Holcomb, Kansas; atburðirnir urðu efni í sannsögulega skáldsögu Trumans Capote, In Cold Blood, sem var brautryðjendaverk í glæpasagnaflokknum."
+      "ar": "1938",
+      "texti": "Svissneski efnafræðingurinn Albert Hofmann bjó fyrst til ofskynjunarlyfið LSD í Basel í Sviss."
     },
     {
-      "ar": "1943",
-      "texti": "Í helförinni gegn Rómafólki skipaði Heinrich Himmler, embættismaður nasista, að Rómafólk skyldi sett „á sama plan og gyðingar og í útrýmingarbúðir“."
+      "ar": "1981",
+      "texti": "Um 30 milljónir manna fylgdust með brúðkaupi Luke Spencer og Lauru Webber í sjónvarpsþættinum General Hospital, sem var mest áhorfna klukkustundin í sögu bandarískra sápuópera."
     },
     {
-      "ar": "1889",
-      "texti": "Pedro II, keisara Brasilíu, var steypt af stóli í valdaráni undir forystu Deodoro da Fonseca, og landið var lýst lýðveldi."
+      "ar": "1992",
+      "texti": "Stærsti sjóður rómversks silfurs og gulls í Bretlandi fannst í þorpinu Hoxne í Suffolk."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1919",
-      "texti": "Alþingiskosningar voru haldnar á Íslandi.",
-      "landshluti": "Landið allt"
+      "ar": "1624",
+      "texti": "Dómkirkjan á Hólum í Hjaltadal, 230 ára gömul bygging, fauk af grunni og gjöreyðilagðist í aftaka norðanveðri.",
+      "landshluti": "Norðurland"
     },
     {
-      "ar": "1948",
-      "texti": "Tilraunastöðin að Keldum hóf formlega starfsemi.",
-      "landshluti": "Landið allt"
+      "ar": "1907",
+      "texti": "Stytta af Jónasi Hallgrímssyni eftir Einar Jónsson var afhjúpuð við Amtmannsstíg í Reykjavík, sú fyrsta eftir annan Íslending en Thorvaldsen.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1956",
-      "texti": "Löndunarsamningur milli Breta og Íslendinga batt enda á fyrsta þorskastríðið.",
-      "landshluti": "Landið allt"
+      "ar": "1917",
+      "texti": "Reykjavíkurhöfn var formlega tekin í notkun og afhent bæjaryfirvöldum í Reykjavík af dönskum verktökum.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2008",
-      "texti": "Að minnsta kosti sjö þúsund manns mótmæltu við Austurvöll vegna efnahagskreppunnar í Búsáhaldabyltingunni.",
+      "ar": "1996",
+      "texti": "Dagur íslenskrar tungu var haldinn hátíðlegur í fyrsta skipti á fæðingardegi Jónasar Hallgrímssonar.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Shailene Woodley",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1991"
+      "nafn": "Tiberius",
+      "starfsgrein": "Rómverskur keisari",
+      "ar": "42 f.Kr."
     },
     {
-      "nafn": "Jonny Lee Miller",
-      "starfsgrein": "ensk-bandarískur leikari",
-      "ar": "1972"
+      "nafn": "Burgess Meredith",
+      "starfsgrein": "Bandarískur leikari og leikstjóri",
+      "ar": "1907"
     },
     {
-      "nafn": "Erwin Rommel",
-      "starfsgrein": "þýskur hermarskálkur",
-      "ar": "1891"
+      "nafn": "Paul Scholes",
+      "starfsgrein": "Enskur knattspyrnumaður",
+      "ar": "1974"
     },
     {
-      "nafn": "Anni-Frid Lyngstad",
-      "starfsgrein": "norsk-sænsk söngkona",
-      "ar": "1945"
+      "nafn": "Sanna Marin",
+      "starfsgrein": "Fyrrverandi forsætisráðherra Finnlands",
+      "ar": "1985"
     }
   ],
-  "afmaeli_island": [],
+  "afmaeli_island": [
+    {
+      "nafn": "Jónas Hallgrímsson",
+      "starfsgrein": "Íslenskt skáld og náttúrufræðingur",
+      "ar": "1807"
+    },
+    {
+      "nafn": "Jón Sveinsson (Nonni)",
+      "starfsgrein": "Íslenskur rithöfundur",
+      "ar": "1857"
+    },
+    {
+      "nafn": "Einar Sveinsson",
+      "starfsgrein": "Íslenskur arkitekt",
+      "ar": "1906"
+    }
+  ],
   "spurningar": [
     {
-      "spurning": "Hvaða bók var skrifuð um morðin í Holcomb, Kansas, árið 1959?",
+      "spurning": "Hvaða merkilega atburður átti sér stað í Reykjavík árið 1917?",
       "svor": [
-        "In Cold Blood",
-        "The Silence of the Lambs",
-        "Helter Skelter",
-        "Zodiac"
-      ],
-      "rett": 0,
-      "skyring": "Truman Capote skrifaði þessa frægu bók um atburðina."
-    },
-    {
-      "spurning": "Hvaða atburður batt enda á fyrsta þorskastríðið árið 1956?",
-      "svor": [
-        "Friðarsamningur",
-        "Löndunarsamningur",
-        "Viðskiptabann",
-        "Herinn greip inn í"
+        "Austurbæjarskóli tók til starfa",
+        "Reykjavíkurhöfn var formlega tekin í notkun",
+        "Lúðrasveitin Svanur var stofnuð",
+        "Styttan af Jónasi Hallgrímssyni var afhjúpuð"
       ],
       "rett": 1,
-      "skyring": "Löndunarsamningur milli Breta og Íslendinga leysti deiluna."
+      "skyring": "Reykjavíkurhöfn var formlega tekin í notkun og afhent bæjaryfirvöldum þennan dag."
     },
     {
-      "spurning": "Hvaða þekkti leiðtogi tók við völdum í Kína árið 2012?",
+      "spurning": "Hvaða rómverski keisari fæddist þennan dag árið 42 f.Kr.?",
       "svor": [
-        "Mao Zedong",
-        "Deng Xiaoping",
-        "Xi Jinping",
-        "Jiang Zemin"
+        "Ágústus",
+        "Nero",
+        "Tiberius",
+        "Júlíus Caesar"
       ],
       "rett": 2,
-      "skyring": "Xi Jinping tók við sem aðalritari Kommúnistaflokks Kína."
+      "skyring": "Tiberius keisari fæddist þennan dag, löngu áður en hann tók við stjórnartaumunum."
+    },
+    {
+      "spurning": "Hvaða þekkti íslenskur rithöfundur fæddist þennan dag árið 1857?",
+      "svor": [
+        "Halldór Laxness",
+        "Gunnar Gunnarsson",
+        "Jón Sveinsson (Nonni)",
+        "Þórbergur Þórðarson"
+      ],
+      "rett": 2,
+      "skyring": "Jón Sveinsson, betur þekktur sem Nonni, átti afmæli í dag."
     }
   ],
-  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
-  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
+  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
+  "tonlistUK": "Every Breath You Take – The Police (1983)",
+  "bio": "Aleinn heima (1990)",
   "ord_dagsins": {
-    "ord": "þrándur",
-    "skyring": "Þrándur er gamalt orð yfir naut eða uxa."
+    "ord": "hlunka",
+    "skyring": "Að hrunka eða falla harkalega niður, oft með dynk."
   },
-  "vissir_thu": "Fyrsta geimfar Sovétríkjanna, Buran, fór aðeins í eina ferð árið 1988 og var ómannað.",
-  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðri dramatískri atburðarás, en mundu að halda ró þinni. Kannski er kominn tími til að kafa djúpt í gamlar gátur, rétt eins og sagnfræðingurinn sjálfur!",
+  "vissir_thu": "Íslenska orðið „jökull“ er eitt fárra orða sem hefur verið tekið upp í ensku, sem „jökulhlaup“.",
+  "stjornuspa": "Sporðdreki, í dag gætirðu fundið óvæntan fjársjóð, eða að minnsta kosti gleymda súkkulaðimola. Mundu að jafnvel minnstu uppgötvanir geta glatt hjartað!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg/500px-Prime_Minister_Keir_Starmer_visits_China_%2855066713683%29_%28cropped%2Bangle%29.jpg",
-    "ar": "2012",
-    "texti": "Xi Jinping tók við af Hu Jintao sem aðalritari Kommúnistaflokks Kína og varð æðsti leiðtogi landsins.",
-    "heimild": "https://en.wikipedia.org/wiki/Xi_Jinping",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png/500px-La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png",
+    "ar": "1532",
+    "texti": "Spænski landvinningamaðurinn Francisco Pizarro gerði óvænta árás í Cajamarca og tók Atahualpa, keisara Inka, höndum.",
+    "heimild": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
     "breidd": 330,
-    "haed": 440
+    "haed": 235
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-15",
-  "verdlag": "Árið 1991 kostaði eintak af Morgunblaðinu um 100 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 4.2-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-16",
+  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

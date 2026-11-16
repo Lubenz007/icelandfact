@@ -6,148 +6,143 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "09:58",
   "sunset": "16:25",
-  "kvedja": "Góðan dag, kæri lesandi! Sextándi nóvember hefur borið okkur allt frá lögbók Justinianusar til LSD, fjársjóða og íslenskrar tungu — sem sannar að sagan kann bæði latínu og dálítið furðulegri tungumál. Haltu fast í hattinn, rétt eins og Hóladómkirkja hefði þurft að gera árið 1624.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 16. nóvember, er dagurinn fullur af ótrúlegum atburðum, allt frá gullfundum til konungadauða og sápuóperubrúðkaupa. Kíkjum á hvað sagan hefur upp á að bjóða!",
+  "nafnadagur": "Edgar",
   "atburdir": [
     {
-      "ar": "534",
-      "texti": "Önnur útgáfa lögbókar Justinianusar keisara kom út í Austrómverska ríkinu. Þar var rómverskum rétti safnað saman og komið í skipulegt horf — lagaleg tiltekt sem átti eftir að endast betur en flest heimilisbókhald."
-    },
-    {
       "ar": "1532",
-      "texti": "Francisco Pizarro stýrði óvæntri árás Spánverja í Cajamarca og tók Atahualpa, keisara Inka, til fanga. Atburðurinn varð örlagaríkur þáttur í landvinningum Spánverja í Perú."
+      "texti": "Spænski landvinningamaðurinn Francisco Pizarro gerði óvænta árás í Cajamarca og tók Atahualpa, keisara Inka, höndum."
     },
     {
       "ar": "1632",
-      "texti": "Gústaf Adolf Svíakonungur féll í orrustunni við Lützen í Þrjátíu ára stríðinu. Svíar unnu orrustuna, en sigurinn var sannarlega dýrkeyptur."
+      "texti": "Gústaf II Adolf, konungur Svíþjóðar, féll í orrustunni við Lützen í Þrjátíu ára stríðinu."
     },
     {
       "ar": "1938",
-      "texti": "Svissneski efnafræðingurinn Albert Hofmann framleiddi LSD í fyrsta sinn í Basel. Áhrif efnisins komu þó ekki að fullu í ljós fyrr en síðar — efnafræðin á það til að geyma óvænt framhald."
+      "texti": "Svissneski efnafræðingurinn Albert Hofmann bjó fyrst til ofskynjunarlyfið LSD í Basel í Sviss."
     },
     {
-      "ar": "2002",
-      "texti": "Fyrsta skráða tilfelli SARS kom fram í Guangdong í Kína. Sjúkdómurinn er öndunarfærasjúkdómur af völdum kórónuveiru sem berst milli dýra og manna."
+      "ar": "1981",
+      "texti": "Um 30 milljónir manna fylgdust með brúðkaupi Luke Spencer og Lauru Webber í sjónvarpsþættinum General Hospital, sem var mest áhorfna klukkustundin í sögu bandarískra sápuópera."
+    },
+    {
+      "ar": "1992",
+      "texti": "Stærsti sjóður rómversks silfurs og gulls í Bretlandi fannst í þorpinu Hoxne í Suffolk."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1624",
-      "texti": "Dómkirkjan á Hólum í Hjaltadal, þá um 230 ára gömul, fauk af grunni og gjöreyðilagðist í aftaka norðanveðri.",
+      "texti": "Dómkirkjan á Hólum í Hjaltadal, 230 ára gömul bygging, fauk af grunni og gjöreyðilagðist í aftaka norðanveðri.",
       "landshluti": "Norðurland"
     },
     {
       "ar": "1907",
-      "texti": "Stytta Einars Jónssonar af Jónasi Hallgrímssyni var afhjúpuð við Amtmannsstíg í Reykjavík á aldarafmæli skáldsins. Hún var síðar flutt í Hljómskálagarðinn.",
+      "texti": "Stytta af Jónasi Hallgrímssyni eftir Einar Jónsson var afhjúpuð við Amtmannsstíg í Reykjavík, sú fyrsta eftir annan Íslending en Thorvaldsen.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1917",
-      "texti": "Reykjavíkurhöfn var formlega tekin í notkun þegar danskir verktakar afhentu bæjaryfirvöldum höfnina.",
+      "texti": "Reykjavíkurhöfn var formlega tekin í notkun og afhent bæjaryfirvöldum í Reykjavík af dönskum verktökum.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1996",
-      "texti": "Dagur íslenskrar tungu var haldinn hátíðlegur í fyrsta sinn á fæðingardegi Jónasar Hallgrímssonar.",
+      "texti": "Dagur íslenskrar tungu var haldinn hátíðlegur í fyrsta skipti á fæðingardegi Jónasar Hallgrímssonar.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Tiberius",
+      "starfsgrein": "Rómverskur keisari",
+      "ar": "42 f.Kr."
+    },
+    {
       "nafn": "Burgess Meredith",
-      "starfsgrein": "leikari og leikstjóri",
+      "starfsgrein": "Bandarískur leikari og leikstjóri",
       "ar": "1907"
     },
     {
-      "nafn": "Aditya Roy Kapur",
-      "starfsgrein": "leikari",
+      "nafn": "Paul Scholes",
+      "starfsgrein": "Enskur knattspyrnumaður",
+      "ar": "1974"
+    },
+    {
+      "nafn": "Sanna Marin",
+      "starfsgrein": "Fyrrverandi forsætisráðherra Finnlands",
       "ar": "1985"
-    },
-    {
-      "nafn": "Amar'e Stoudemire",
-      "starfsgrein": "körfuknattleiksmaður",
-      "ar": "1982"
-    },
-    {
-      "nafn": "Bol Bol",
-      "starfsgrein": "körfuknattleiksmaður",
-      "ar": "1999"
-    },
-    {
-      "nafn": "Alexander Popov",
-      "starfsgrein": "sundmaður og þjálfari",
-      "ar": "1971"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Jónas Hallgrímsson",
-      "starfsgrein": "skáld og náttúrufræðingur",
+      "starfsgrein": "Íslenskt skáld og náttúrufræðingur",
       "ar": "1807"
     },
     {
-      "nafn": "Jón Sveinsson",
-      "starfsgrein": "rithöfundur og kaþólskur prestur",
+      "nafn": "Jón Sveinsson (Nonni)",
+      "starfsgrein": "Íslenskur rithöfundur",
       "ar": "1857"
     },
     {
-      "nafn": "Oddgeir Kristjánsson",
-      "starfsgrein": "lagahöfundur",
-      "ar": "1911"
+      "nafn": "Einar Sveinsson",
+      "starfsgrein": "Íslenskur arkitekt",
+      "ar": "1906"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða íslenska skáld á afmæli 16. nóvember, degi íslenskrar tungu?",
+      "spurning": "Hvaða merkilega atburður átti sér stað í Reykjavík árið 1917?",
       "svor": [
-        "Jónas Hallgrímsson",
-        "Jón Sveinsson",
-        "Oddgeir Kristjánsson",
-        "Halldór Laxness"
-      ],
-      "rett": 0,
-      "skyring": "Jónas Hallgrímsson fæddist árið 1807 og íslenskan fær því sérstakan hátíðisdag á afmæli hans."
-    },
-    {
-      "spurning": "Hvað kom fyrir dómkirkjuna á Hólum árið 1624?",
-      "svor": [
-        "Hún sökk í jarðskjálfta",
-        "Hún fauk af grunni",
-        "Hún var flutt til Reykjavíkur",
-        "Hún varð að konungshöll"
+        "Austurbæjarskóli tók til starfa",
+        "Reykjavíkurhöfn var formlega tekin í notkun",
+        "Lúðrasveitin Svanur var stofnuð",
+        "Styttan af Jónasi Hallgrímssyni var afhjúpuð"
       ],
       "rett": 1,
-      "skyring": "Aftaka norðanveður feykti kirkjunni af grunni — heldur harkaleg húsaskoðun náttúrunnar."
+      "skyring": "Reykjavíkurhöfn var formlega tekin í notkun og afhent bæjaryfirvöldum þennan dag."
     },
     {
-      "spurning": "Hvaða efni framleiddi Albert Hofmann í fyrsta sinn árið 1938?",
+      "spurning": "Hvaða rómverski keisari fæddist þennan dag árið 42 f.Kr.?",
       "svor": [
-        "Pensilín",
-        "LSD",
-        "Insúlín",
-        "Radíum"
+        "Ágústus",
+        "Nero",
+        "Tiberius",
+        "Júlíus Caesar"
       ],
-      "rett": 1,
-      "skyring": "Hofmann framleiddi LSD í Basel, þótt eiginleikar þess ættu eftir að koma betur í ljós síðar."
+      "rett": 2,
+      "skyring": "Tiberius keisari fæddist þennan dag, löngu áður en hann tók við stjórnartaumunum."
+    },
+    {
+      "spurning": "Hvaða þekkti íslenskur rithöfundur fæddist þennan dag árið 1857?",
+      "svor": [
+        "Halldór Laxness",
+        "Gunnar Gunnarsson",
+        "Jón Sveinsson (Nonni)",
+        "Þórbergur Þórðarson"
+      ],
+      "rett": 2,
+      "skyring": "Jón Sveinsson, betur þekktur sem Nonni, átti afmæli í dag."
     }
   ],
-  "tonlistUSA": "We Built This City – Starship (1985)",
-  "tonlistUK": "A Good Heart – Feargal Sharkey (1985)",
+  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
+  "tonlistUK": "Every Breath You Take – The Police (1983)",
   "bio": "Aleinn heima (1990)",
   "ord_dagsins": {
-    "ord": "aftakaveður",
-    "skyring": "Aftakaveður er óvenjulega ofsalegt og hættulegt óveður."
+    "ord": "hlunka",
+    "skyring": "Að hrunka eða falla harkalega niður, oft með dynk."
   },
-  "vissir_thu": "Hoxne-sjóðurinn, sem fannst í Suffolk árið 1992, er stærsti fundur rómversks silfurs og gulls sem fundist hefur í Bretlandi.",
-  "stjornuspa": "Sporðdrekinn finnur í dag gamalt leyndarmál, eða að minnsta kosti lykilinn sem hefur verið týndur síðan á þriðjudag. Forðastu dramatík fyrir hádegi, en eftir kaffi máttu sveifla þér inn í daginn eins og sápuóperustjarna árið 1981.",
+  "vissir_thu": "Íslenska orðið „jökull“ er eitt fárra orða sem hefur verið tekið upp í ensku, sem „jökulhlaup“.",
+  "stjornuspa": "Sporðdreki, í dag gætirðu fundið óvæntan fjársjóð, eða að minnsta kosti gleymda súkkulaðimola. Mundu að jafnvel minnstu uppgötvanir geta glatt hjartað!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ghent%2C_Ghent_University_Library_MS_Bibliotheek_Letteren_en_Wijsbegeerte-Handschriften_0021_fol._24v-25r_Code_of_Justinian.jpg/500px-Ghent%2C_Ghent_University_Library_MS_Bibliotheek_Letteren_en_Wijsbegeerte-Handschriften_0021_fol._24v-25r_Code_of_Justinian.jpg",
-    "ar": "534",
-    "texti": "Önnur útgáfa lögbókar Justinianusar keisara kom út í Austrómverska ríkinu. Þar var rómverskum rétti safnað saman og komið í skipulegt horf — lagaleg tiltekt sem átti eftir að endast betur en flest heimilisbókhald.",
-    "heimild": "https://en.wikipedia.org/wiki/Code_of_Justinian",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png/500px-La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png",
+    "ar": "1532",
+    "texti": "Spænski landvinningamaðurinn Francisco Pizarro gerði óvænta árás í Cajamarca og tók Atahualpa, keisara Inka, höndum.",
+    "heimild": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
     "breidd": 330,
-    "haed": 243
+    "haed": 235
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-16"
 }
