@@ -1,152 +1,142 @@
 {
-  "date": "2026-11-16",
-  "dagur": 16,
+  "date": "2026-11-17",
+  "dagur": 17,
   "manudur": "nóvember",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 320,
-  "sunrise": "09:59",
-  "sunset": "16:24",
-  "mmdd": "11-16",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 321,
+  "sunrise": "10:02",
+  "sunset": "16:21",
+  "mmdd": "11-17",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 16. nóvember, er dagurinn fullur af ótrúlegum atburðum, allt frá gullfundum til konungadauða og sápuóperubrúðkaupa. Kíkjum á hvað sagan hefur upp á að bjóða!",
-  "nafnadagur": "Edgar",
+  "kvedja": "Góðan daginn, kæru sagnfræðingar og áhugafólk um allt sem er gamalt og gott! Dagurinn í dag, 17. nóvember, er sannkallaður stórdagur í sögunni, fullur af krýningum, byltingum og jafnvel smá teiknimyndagaldri. Vonandi eigið þið jafn viðburðaríkan dag og sagan sjálf!",
+  "nafnadagur": "Hildur",
   "atburdir": [
     {
-      "ar": "1532",
-      "texti": "Spænski landvinningamaðurinn Francisco Pizarro gerði óvænta árás í Cajamarca og tók Atahualpa, keisara Inka, höndum."
+      "ar": "2013",
+      "texti": "Tatarstan Airlines flug 363 brotlenti við misheppnaða lendingu á Kazan alþjóðaflugvellinum í Rússlandi, með þeim sorglegu afleiðingum að allir 50 um borð létust."
     },
     {
-      "ar": "1632",
-      "texti": "Gústaf II Adolf, konungur Svíþjóðar, féll í orrustunni við Lützen í Þrjátíu ára stríðinu."
+      "ar": "1989",
+      "texti": "Walt Disney Pictures sendi frá sér kvikmyndina Litlu Hafmeyjuna í kvikmyndahús, sem markaði upphaf endurreisnar Disney-myndanna."
     },
     {
-      "ar": "1938",
-      "texti": "Svissneski efnafræðingurinn Albert Hofmann bjó fyrst til ofskynjunarlyfið LSD í Basel í Sviss."
+      "ar": "1968",
+      "texti": "NBC sjónvarpsstöðin klippti umdeilt úr amerískum fótboltaleik til að sýna myndina Heidi, sem olli því að áhorfendur á austurhluta Bandaríkjanna misstu af dramatískum endi leiksins."
     },
     {
-      "ar": "1981",
-      "texti": "Um 30 milljónir manna fylgdust með brúðkaupi Luke Spencer og Lauru Webber í sjónvarpsþættinum General Hospital, sem var mest áhorfna klukkustundin í sögu bandarískra sápuópera."
+      "ar": "1950",
+      "texti": "14. Dalai Lama tók við fullum veraldlegum völdum sem stjórnandi Tíbet, aðeins 15 ára gamall."
     },
     {
-      "ar": "1992",
-      "texti": "Stærsti sjóður rómversks silfurs og gulls í Bretlandi fannst í þorpinu Hoxne í Suffolk."
+      "ar": "1558",
+      "texti": "Elísabet I varð drottning Englands og Írlands, sem markaði upphaf Elísabetartímabilsins."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1624",
-      "texti": "Dómkirkjan á Hólum í Hjaltadal, 230 ára gömul bygging, fauk af grunni og gjöreyðilagðist í aftaka norðanveðri.",
+      "ar": "1786",
+      "texti": "Sex staðir fengu kaupstaðarréttindi á Íslandi; allir misstu þau aftur nema Reykjavík, en sumir hafa síðan orðið kaupstaðir á ný. Þessir staðir voru Reykjavík, Grundarfjörður, Ísafjörður, Akureyri, Eskifjörður og Vestmannaeyjar.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1906",
+      "texti": "Útgerðarfyrirtækið Haraldur Böðvarsson hf. var stofnað á Akranesi.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1940",
+      "texti": "Akureyrarkirkja var vígð og var hún þá stærsta guðshús íslensku þjóðkirkjunnar.",
       "landshluti": "Norðurland"
     },
     {
-      "ar": "1907",
-      "texti": "Stytta af Jónasi Hallgrímssyni eftir Einar Jónsson var afhjúpuð við Amtmannsstíg í Reykjavík, sú fyrsta eftir annan Íslending en Thorvaldsen.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1917",
-      "texti": "Reykjavíkurhöfn var formlega tekin í notkun og afhent bæjaryfirvöldum í Reykjavík af dönskum verktökum.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1996",
-      "texti": "Dagur íslenskrar tungu var haldinn hátíðlegur í fyrsta skipti á fæðingardegi Jónasar Hallgrímssonar.",
-      "landshluti": "Landið allt"
+      "ar": "1988",
+      "texti": "Linda Pétursdóttir var kjörin Ungfrú heimur, átján ára gömul, og fór á kostum í keppninni.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Tiberius",
-      "starfsgrein": "Rómverskur keisari",
-      "ar": "42 f.Kr."
+      "nafn": "Rachel McAdams",
+      "starfsgrein": "kanadísk leikkona",
+      "ar": "1978"
     },
     {
-      "nafn": "Burgess Meredith",
-      "starfsgrein": "Bandarískur leikari og leikstjóri",
-      "ar": "1907"
+      "nafn": "Danny DeVito",
+      "starfsgrein": "bandarískur leikari, leikstjóri og framleiðandi",
+      "ar": "1944"
     },
     {
-      "nafn": "Paul Scholes",
-      "starfsgrein": "Enskur knattspyrnumaður",
-      "ar": "1974"
+      "nafn": "Martin Scorsese",
+      "starfsgrein": "bandarískur leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1942"
     },
     {
-      "nafn": "Sanna Marin",
-      "starfsgrein": "Fyrrverandi forsætisráðherra Finnlands",
-      "ar": "1985"
+      "nafn": "RuPaul",
+      "starfsgrein": "bandarískur dragdrottning, leikari og söngvari",
+      "ar": "1960"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Jónas Hallgrímsson",
-      "starfsgrein": "Íslenskt skáld og náttúrufræðingur",
-      "ar": "1807"
-    },
-    {
-      "nafn": "Jón Sveinsson (Nonni)",
-      "starfsgrein": "Íslenskur rithöfundur",
-      "ar": "1857"
-    },
-    {
-      "nafn": "Einar Sveinsson",
-      "starfsgrein": "Íslenskur arkitekt",
-      "ar": "1906"
+      "nafn": "Marta María Stephensen",
+      "starfsgrein": "íslenskur matreiðslubókarhöfundur",
+      "ar": "1770"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða merkilega atburður átti sér stað í Reykjavík árið 1917?",
+      "spurning": "Hvaða ár varð Elísabet I drottning Englands og Írlands?",
       "svor": [
-        "Austurbæjarskóli tók til starfa",
-        "Reykjavíkurhöfn var formlega tekin í notkun",
-        "Lúðrasveitin Svanur var stofnuð",
-        "Styttan af Jónasi Hallgrímssyni var afhjúpuð"
+        "1558",
+        "1603",
+        "1786",
+        "1494"
       ],
-      "rett": 1,
-      "skyring": "Reykjavíkurhöfn var formlega tekin í notkun og afhent bæjaryfirvöldum þennan dag."
+      "rett": 0,
+      "skyring": "Elísabet I tók við krúnunni árið 1558 og markaði það upphaf Elísabetartímabilsins."
     },
     {
-      "spurning": "Hvaða rómverski keisari fæddist þennan dag árið 42 f.Kr.?",
+      "spurning": "Hvaða kvikmynd var sýnd í stað amerísks fótboltaleiks á NBC árið 1968, sem olli mikilli reiði?",
       "svor": [
-        "Ágústus",
-        "Nero",
-        "Tiberius",
-        "Júlíus Caesar"
+        "Heidi",
+        "Litla Hafmeyjan",
+        "Mary Poppins",
+        "Sound of Music"
       ],
-      "rett": 2,
-      "skyring": "Tiberius keisari fæddist þennan dag, löngu áður en hann tók við stjórnartaumunum."
+      "rett": 0,
+      "skyring": "Heidi var sýnd í stað fótboltaleiksins, sem varð til þess að áhorfendur misstu af spennandi endi."
     },
     {
-      "spurning": "Hvaða þekkti íslenskur rithöfundur fæddist þennan dag árið 1857?",
+      "spurning": "Hvaða ári var Akureyrarkirkja vígð?",
       "svor": [
-        "Halldór Laxness",
-        "Gunnar Gunnarsson",
-        "Jón Sveinsson (Nonni)",
-        "Þórbergur Þórðarson"
+        "1940",
+        "1906",
+        "1912",
+        "1938"
       ],
-      "rett": 2,
-      "skyring": "Jón Sveinsson, betur þekktur sem Nonni, átti afmæli í dag."
+      "rett": 0,
+      "skyring": "Akureyrarkirkja var vígð árið 1940 og var þá stærsta guðshús Íslands."
     }
   ],
-  "tonlistUSA": "Physical – Olivia Newton-John (1981)",
-  "tonlistUK": "Every Breath You Take – The Police (1983)",
-  "bio": "Aleinn heima (1990)",
+  "tonlistUSA": "I Heard It Through the Grapevine – Marvin Gaye (1968)",
+  "tonlistUK": "With a Little Help from My Friends – Joe Cocker (1968)",
+  "bio": "The Little Mermaid (1989)",
   "ord_dagsins": {
-    "ord": "hlunka",
-    "skyring": "Að hrunka eða falla harkalega niður, oft með dynk."
+    "ord": "skrapatungur",
+    "skyring": "Sá sem er mjög mælskur og talar hratt, oft með miklum orðaflaumi."
   },
-  "vissir_thu": "Íslenska orðið „jökull“ er eitt fárra orða sem hefur verið tekið upp í ensku, sem „jökulhlaup“.",
-  "stjornuspa": "Sporðdreki, í dag gætirðu fundið óvæntan fjársjóð, eða að minnsta kosti gleymda súkkulaðimola. Mundu að jafnvel minnstu uppgötvanir geta glatt hjartað!",
+  "vissir_thu": "Árið 1786 fengu sex staðir kaupstaðarréttindi á Íslandi, en aðeins Reykjavík hélt sínum réttindum óslitið.",
+  "stjornuspa": "Sporðdreki, í dag gætirðu fundið óvænta tengingu við fortíðina. Mundu að jafnvel minnstu atburðir geta haft stórkostlegar afleiðingar – eins og að klippa úr fótboltaleik fyrir teiknimynd!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png/500px-La_Captura_de_Atahualpa_-_Juan_Lepiani_1920s.png",
-    "ar": "1532",
-    "texti": "Spænski landvinningamaðurinn Francisco Pizarro gerði óvænta árás í Cajamarca og tók Atahualpa, keisara Inka, höndum.",
-    "heimild": "https://en.wikipedia.org/wiki/Spanish_conquest_of_the_Inca_Empire",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tatarstan_Airlines_363_crash_site.jpg/500px-Tatarstan_Airlines_363_crash_site.jpg",
+    "ar": "2013",
+    "texti": "Tatarstan Airlines flug 363 brotlenti við misheppnaða lendingu á Kazan alþjóðaflugvellinum í Rússlandi, með þeim sorglegu afleiðingum að allir 50 um borð létust.",
+    "heimild": "https://en.wikipedia.org/wiki/Tatarstan_Airlines_Flight_363",
     "breidd": 330,
-    "haed": 235
+    "haed": 230
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-16",
-  "verdlag": "Árið 1979 kostaði eintak af Morgunblaðinu um 180 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 128-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-17",
+  "verdlag": "Árið 1970 kostaði eintak af Morgunblaðinu um 10 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 1418-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

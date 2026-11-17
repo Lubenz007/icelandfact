@@ -6,148 +6,133 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "10:01",
   "sunset": "16:22",
-  "kvedja": "Góðan dag, kæri lesandi! Á þessum 17. nóvember tökum við krókaleið frá skoskum konungskjörum yfir í kaupstaðardrauma og endum með Disney-hafmeyju — því sagan ferðast sjaldan beina leið. Haltu fast í kaffibollann; fortíðin kann að skvetta úr sporðinum.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðingar og áhugafólk um allt sem er gamalt og gott! Dagurinn í dag, 17. nóvember, er sannkallaður stórdagur í sögunni, fullur af krýningum, byltingum og jafnvel smá teiknimyndagaldri. Vonandi eigið þið jafn viðburðaríkan dag og sagan sjálf!",
+  "nafnadagur": "Hildur",
   "atburdir": [
     {
-      "ar": "1292",
-      "texti": "John Balliol var valinn konungur Skota fram yfir Robert de Brus. Konungskjör á miðöldum voru greinilega öllu dramatískari en hefðbundinn fundur í húsfélagi."
-    },
-    {
-      "ar": "1558",
-      "texti": "Elísabet 1. tók við krúnu Englands og Írlands og þar með hófst Elísabetartímabilið, eitt kunnasta skeið enskrar menningar- og stjórnmálasögu."
-    },
-    {
-      "ar": "1796",
-      "texti": "Frakkar unnu sigur í orrustunni við Arcole í frönsku byltingarstríðunum með herbragði sem miðaði að því að skera á undanhaldsleið Austurríkismanna."
-    },
-    {
-      "ar": "1950",
-      "texti": "Fjórtándi Dalai Lama tók við fullum veraldlegum völdum sem leiðtogi Tíbets, aðeins fimmtán ára gamall. Flest ungmenni á þeim aldri þurfa sem betur fer aðeins að hafa áhyggjur af heimavinnu."
+      "ar": "2013",
+      "texti": "Tatarstan Airlines flug 363 brotlenti við misheppnaða lendingu á Kazan alþjóðaflugvellinum í Rússlandi, með þeim sorglegu afleiðingum að allir 50 um borð létust."
     },
     {
       "ar": "1989",
-      "texti": "Walt Disney Pictures frumsýndi Litlu hafmeyjuna og markaði þar með upphaf Disney-endurreisnarinnar. Ariel synti sem sagt ekki aðeins upp á yfirborðið heldur dró heilt kvikmyndaver með sér."
+      "texti": "Walt Disney Pictures sendi frá sér kvikmyndina Litlu Hafmeyjuna í kvikmyndahús, sem markaði upphaf endurreisnar Disney-myndanna."
+    },
+    {
+      "ar": "1968",
+      "texti": "NBC sjónvarpsstöðin klippti umdeilt úr amerískum fótboltaleik til að sýna myndina Heidi, sem olli því að áhorfendur á austurhluta Bandaríkjanna misstu af dramatískum endi leiksins."
+    },
+    {
+      "ar": "1950",
+      "texti": "14. Dalai Lama tók við fullum veraldlegum völdum sem stjórnandi Tíbet, aðeins 15 ára gamall."
+    },
+    {
+      "ar": "1558",
+      "texti": "Elísabet I varð drottning Englands og Írlands, sem markaði upphaf Elísabetartímabilsins."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1390",
-      "texti": "Skriða féll á Lönguhlíð ytri í Hörgárdal. Hrafn Bótólfsson lögmaður, kona hans og fleiri fórust í hamförunum.",
-      "landshluti": "Norðurland"
-    },
-    {
       "ar": "1786",
-      "texti": "Reykjavík, Grundarfjörður, Ísafjörður, Akureyri, Eskifjörður og Vestmannaeyjar fengu kaupstaðarréttindi. Allir staðirnir misstu þau síðar aftur nema Reykjavík, þótt sumir endurheimtu kaupstaðarstöðu síðar.",
+      "texti": "Sex staðir fengu kaupstaðarréttindi á Íslandi; allir misstu þau aftur nema Reykjavík, en sumir hafa síðan orðið kaupstaðir á ný. Þessir staðir voru Reykjavík, Grundarfjörður, Ísafjörður, Akureyri, Eskifjörður og Vestmannaeyjar.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1913",
-      "texti": "Morgunblaðið birti fyrstu íslensku fréttamyndirnar, dúkristur sem gerðar voru vegna morðmáls í Dúkskoti í Reykjavík.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1906",
+      "texti": "Útgerðarfyrirtækið Haraldur Böðvarsson hf. var stofnað á Akranesi.",
+      "landshluti": "Vesturland"
+    },
+    {
+      "ar": "1940",
+      "texti": "Akureyrarkirkja var vígð og var hún þá stærsta guðshús íslensku þjóðkirkjunnar.",
+      "landshluti": "Norðurland"
     },
     {
       "ar": "1988",
-      "texti": "Linda Pétursdóttir var kjörin Ungfrú heimur, aðeins átján ára gömul.",
+      "texti": "Linda Pétursdóttir var kjörin Ungfrú heimur, átján ára gömul, og fór á kostum í keppninni.",
       "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Rachel McAdams",
+      "starfsgrein": "kanadísk leikkona",
+      "ar": "1978"
+    },
+    {
       "nafn": "Danny DeVito",
-      "starfsgrein": "leikari, leikstjóri og framleiðandi",
+      "starfsgrein": "bandarískur leikari, leikstjóri og framleiðandi",
       "ar": "1944"
     },
     {
-      "nafn": "Cyril Ramaphosa",
-      "starfsgrein": "stjórnmálamaður og forseti Suður-Afríku",
-      "ar": "1952"
+      "nafn": "Martin Scorsese",
+      "starfsgrein": "bandarískur leikstjóri, framleiðandi og handritshöfundur",
+      "ar": "1942"
     },
     {
-      "nafn": "Christopher Paolini",
-      "starfsgrein": "rithöfundur",
-      "ar": "1983"
-    },
-    {
-      "nafn": "Vespasian",
-      "starfsgrein": "Rómarkeisari",
-      "ar": "9"
-    },
-    {
-      "nafn": "Arman",
-      "starfsgrein": "myndlistarmaður og myndhöggvari",
-      "ar": "1928"
+      "nafn": "RuPaul",
+      "starfsgrein": "bandarískur dragdrottning, leikari og söngvari",
+      "ar": "1960"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Bolli Gústavsson",
-      "starfsgrein": "prestur",
-      "ar": "1935"
-    },
-    {
       "nafn": "Marta María Stephensen",
-      "starfsgrein": "matreiðslubókarhöfundur",
+      "starfsgrein": "íslenskur matreiðslubókarhöfundur",
       "ar": "1770"
-    },
-    {
-      "nafn": "Ebenezer Henderson",
-      "starfsgrein": "skoskur prestur og Íslandsvinur",
-      "ar": "1784"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða kvikmynd hóf svonefnda Disney-endurreisn árið 1989?",
+      "spurning": "Hvaða ár varð Elísabet I drottning Englands og Írlands?",
       "svor": [
-        "Litla hafmeyjan",
-        "Aladdín",
-        "Konungur ljónanna",
-        "Fríða og dýrið"
+        "1558",
+        "1603",
+        "1786",
+        "1494"
       ],
       "rett": 0,
-      "skyring": "Litla hafmeyjan synti í bíó og varð upphafið að nýju blómaskeiði Disney."
+      "skyring": "Elísabet I tók við krúnunni árið 1558 og markaði það upphaf Elísabetartímabilsins."
     },
     {
-      "spurning": "Hversu gamall var fjórtándi Dalai Lama þegar hann tók við fullum veraldlegum völdum í Tíbet?",
+      "spurning": "Hvaða kvikmynd var sýnd í stað amerísks fótboltaleiks á NBC árið 1968, sem olli mikilli reiði?",
       "svor": [
-        "12 ára",
-        "15 ára",
-        "18 ára",
-        "21 árs"
+        "Heidi",
+        "Litla Hafmeyjan",
+        "Mary Poppins",
+        "Sound of Music"
       ],
-      "rett": 1,
-      "skyring": "Hann var aðeins fimmtán ára, sem telst óvenju ungur aldur til að bera heila þjóð á herðunum."
+      "rett": 0,
+      "skyring": "Heidi var sýnd í stað fótboltaleiksins, sem varð til þess að áhorfendur misstu af spennandi endi."
     },
     {
-      "spurning": "Hver var kjörin Ungfrú heimur 17. nóvember 1988?",
+      "spurning": "Hvaða ári var Akureyrarkirkja vígð?",
       "svor": [
-        "Marta María Stephensen",
-        "Linda Pétursdóttir",
-        "Vigdís Finnbogadóttir",
-        "Björk Guðmundsdóttir"
+        "1940",
+        "1906",
+        "1912",
+        "1938"
       ],
-      "rett": 1,
-      "skyring": "Linda Pétursdóttir hreppti titilinn átján ára gömul."
+      "rett": 0,
+      "skyring": "Akureyrarkirkja var vígð árið 1940 og var þá stærsta guðshús Íslands."
     }
   ],
-  "tonlistUSA": "When I See You Smile – Bad English (1989)",
-  "tonlistUK": "All Around the World – Lisa Stansfield (1989)",
-  "bio": "Litla hafmeyjan (1989)",
+  "tonlistUSA": "I Heard It Through the Grapevine – Marvin Gaye (1968)",
+  "tonlistUK": "With a Little Help from My Friends – Joe Cocker (1968)",
+  "bio": "The Little Mermaid (1989)",
   "ord_dagsins": {
-    "ord": "dúkrista",
-    "skyring": "Dúkrista er grafíkmynd unnin með því að skera mynd í dúk og þrykkja hana síðan á pappír."
+    "ord": "skrapatungur",
+    "skyring": "Sá sem er mjög mælskur og talar hratt, oft með miklum orðaflaumi."
   },
-  "vissir_thu": "Danny DeVito, Cyril Ramaphosa og rithöfundurinn Christopher Paolini eiga allir afmæli 17. nóvember.",
-  "stjornuspa": "Sporðdrekinn finnur í dag gamla hugmynd sem glóir enn undir yfirborðinu, rétt eins og gleymd fyrirsögn í gulnuðu dagblaði. Dustaðu af henni, en stingdu ekki samstarfsfólkið nema brýna nauðsyn beri til.",
+  "vissir_thu": "Árið 1786 fengu sex staðir kaupstaðarréttindi á Íslandi, en aðeins Reykjavík hélt sínum réttindum óslitið.",
+  "stjornuspa": "Sporðdreki, í dag gætirðu fundið óvænta tengingu við fortíðina. Mundu að jafnvel minnstu atburðir geta haft stórkostlegar afleiðingar – eins og að klippa úr fótboltaleik fyrir teiknimynd!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/John%2C_King_of_Scotland_%28seal%29.png/500px-John%2C_King_of_Scotland_%28seal%29.png",
-    "ar": "1292",
-    "texti": "John Balliol var valinn konungur Skota fram yfir Robert de Brus. Konungskjör á miðöldum voru greinilega öllu dramatískari en hefðbundinn fundur í húsfélagi.",
-    "heimild": "https://en.wikipedia.org/wiki/John_Balliol",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tatarstan_Airlines_363_crash_site.jpg/500px-Tatarstan_Airlines_363_crash_site.jpg",
+    "ar": "2013",
+    "texti": "Tatarstan Airlines flug 363 brotlenti við misheppnaða lendingu á Kazan alþjóðaflugvellinum í Rússlandi, með þeim sorglegu afleiðingum að allir 50 um borð létust.",
+    "heimild": "https://en.wikipedia.org/wiki/Tatarstan_Airlines_Flight_363",
     "breidd": 330,
-    "haed": 336
+    "haed": 230
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-17"
 }
