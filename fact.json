@@ -1,142 +1,147 @@
 {
-  "date": "2026-11-17",
-  "dagur": 17,
+  "date": "2026-11-18",
+  "dagur": 18,
   "manudur": "nóvember",
-  "vikudagur": "Þriðjudagur",
-  "dagurArsins": 321,
-  "sunrise": "10:02",
-  "sunset": "16:21",
-  "mmdd": "11-17",
+  "vikudagur": "Miðvikudagur",
+  "dagurArsins": 322,
+  "sunrise": "10:04",
+  "sunset": "16:19",
+  "mmdd": "11-18",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðingar og áhugafólk um allt sem er gamalt og gott! Dagurinn í dag, 17. nóvember, er sannkallaður stórdagur í sögunni, fullur af krýningum, byltingum og jafnvel smá teiknimyndagaldri. Vonandi eigið þið jafn viðburðaríkan dag og sagan sjálf!",
+  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag, 18. nóvember, er sannarlega margt um að vera í sögunni, bæði stórt og smátt. Við sjáum atburði sem minna okkur á mikilvægi mannréttinda og frelsis, og svo auðvitað eitthvað sem fær okkur til að brosa. Kíkjum á daginn!",
   "nafnadagur": "Hildur",
   "atburdir": [
     {
-      "ar": "2013",
-      "texti": "Tatarstan Airlines flug 363 brotlenti við misheppnaða lendingu á Kazan alþjóðaflugvellinum í Rússlandi, með þeim sorglegu afleiðingum að allir 50 um borð létust."
+      "ar": "2003",
+      "texti": "Hæstiréttur Massachusetts-ríkis í Bandaríkjunum gerði ríkið að því fyrsta í Bandaríkjunum til að lögleiða hjónaband samkynhneigðra."
     },
     {
-      "ar": "1989",
-      "texti": "Walt Disney Pictures sendi frá sér kvikmyndina Litlu Hafmeyjuna í kvikmyndahús, sem markaði upphaf endurreisnar Disney-myndanna."
+      "ar": "1978",
+      "texti": "Jim Jones leiddi yfir 900 meðlimi Peoples Temple til fjöldamorða og sjálfsmorða í Jonestown í Gvæjana, aðeins nokkrum klukkustundum eftir að þingmaðurinn Leo Ryan var myrtur."
     },
     {
-      "ar": "1968",
-      "texti": "NBC sjónvarpsstöðin klippti umdeilt úr amerískum fótboltaleik til að sýna myndina Heidi, sem olli því að áhorfendur á austurhluta Bandaríkjanna misstu af dramatískum endi leiksins."
+      "ar": "1956",
+      "texti": "Nikita Krústsjov, leiðtogi Sovétríkjanna, lét þau orð falla í ávarpi sínu í pólsku sendiráðinu í Moskvu, sem voru þýdd sem „Við munum grafa ykkur“, og fengu vestræna sendimenn til að yfirgefa salinn."
     },
     {
-      "ar": "1950",
-      "texti": "14. Dalai Lama tók við fullum veraldlegum völdum sem stjórnandi Tíbet, aðeins 15 ára gamall."
+      "ar": "1872",
+      "texti": "Bandaríska kvenréttindakonan Susan B. Anthony var handtekin og síðar sektuð um 100 dollara fyrir að hafa kosið í forsetakosningunum tveimur vikum áður."
     },
     {
-      "ar": "1558",
-      "texti": "Elísabet I varð drottning Englands og Írlands, sem markaði upphaf Elísabetartímabilsins."
+      "ar": "1865",
+      "texti": "Sagan „The Celebrated Jumping Frog of Calaveras County“ var gefin út og varð hún fyrsta stóra velgengni bandaríska rithöfundarins Mark Twain."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1786",
-      "texti": "Sex staðir fengu kaupstaðarréttindi á Íslandi; allir misstu þau aftur nema Reykjavík, en sumir hafa síðan orðið kaupstaðir á ný. Þessir staðir voru Reykjavík, Grundarfjörður, Ísafjörður, Akureyri, Eskifjörður og Vestmannaeyjar.",
+      "ar": "1709",
+      "texti": "Biskupsstofan á Hólum í Hjaltadal brann og fórst barn í eldinum, auk þess sem mikið glataðist af verðmætum hlutum.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1897",
+      "texti": "Blaðamannafélag Íslands var stofnað, sem markaði mikilvægan áfanga í sögu íslenskrar blaðamennsku.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1906",
-      "texti": "Útgerðarfyrirtækið Haraldur Böðvarsson hf. var stofnað á Akranesi.",
-      "landshluti": "Vesturland"
+      "texti": "Stórbruni varð á Akureyri þar sem sjö hús brunnu og um 80 manns misstu heimili sín.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1940",
-      "texti": "Akureyrarkirkja var vígð og var hún þá stærsta guðshús íslensku þjóðkirkjunnar.",
-      "landshluti": "Norðurland"
-    },
-    {
-      "ar": "1988",
-      "texti": "Linda Pétursdóttir var kjörin Ungfrú heimur, átján ára gömul, og fór á kostum í keppninni.",
-      "landshluti": "Erlendis"
+      "ar": "1982",
+      "texti": "Fyrsta kvöld Músíktilrauna var haldið í Tónabæ í Reykjavík, sem hefur síðan verið mikilvægur vettvangur fyrir nýja tónlistarhæfileika.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Rachel McAdams",
-      "starfsgrein": "kanadísk leikkona",
-      "ar": "1978"
+      "nafn": "Owen Wilson",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1968"
     },
     {
-      "nafn": "Danny DeVito",
-      "starfsgrein": "bandarískur leikari, leikstjóri og framleiðandi",
-      "ar": "1944"
+      "nafn": "Margaret Atwood",
+      "starfsgrein": "kanadískur rithöfundur",
+      "ar": "1939"
     },
     {
-      "nafn": "Martin Scorsese",
-      "starfsgrein": "bandarískur leikstjóri, framleiðandi og handritshöfundur",
-      "ar": "1942"
+      "nafn": "Kirk Hammett",
+      "starfsgrein": "bandarískur gítarleikari í Metallica",
+      "ar": "1962"
     },
     {
-      "nafn": "RuPaul",
-      "starfsgrein": "bandarískur dragdrottning, leikari og söngvari",
+      "nafn": "Peter Schmeichel",
+      "starfsgrein": "danskur knattspyrnumaður",
+      "ar": "1963"
+    },
+    {
+      "nafn": "Kim Wilde",
+      "starfsgrein": "ensk söngkona",
       "ar": "1960"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Marta María Stephensen",
-      "starfsgrein": "íslenskur matreiðslubókarhöfundur",
-      "ar": "1770"
+      "nafn": "Svavar Guðnason",
+      "starfsgrein": "íslenskur listmálari",
+      "ar": "1909"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða ár varð Elísabet I drottning Englands og Írlands?",
+      "spurning": "Hvaða ríki í Bandaríkjunum var það fyrsta til að lögleiða hjónaband samkynhneigðra þann 18. nóvember?",
       "svor": [
-        "1558",
-        "1603",
-        "1786",
-        "1494"
+        "Kalifornía",
+        "New York",
+        "Massachusetts",
+        "Vermont"
       ],
-      "rett": 0,
-      "skyring": "Elísabet I tók við krúnunni árið 1558 og markaði það upphaf Elísabetartímabilsins."
+      "rett": 2,
+      "skyring": "Massachusetts var brautryðjandi í þessum mikilvæga réttindamálum."
     },
     {
-      "spurning": "Hvaða kvikmynd var sýnd í stað amerísks fótboltaleiks á NBC árið 1968, sem olli mikilli reiði?",
+      "spurning": "Hvaða merkilega atburður átti sér stað á Akureyri þann 18. nóvember 1906?",
       "svor": [
-        "Heidi",
-        "Litla Hafmeyjan",
-        "Mary Poppins",
-        "Sound of Music"
+        "Fyrsta bílskúrnum var opnað",
+        "Stórbruni varð",
+        "Nýtt leikhús var vígt",
+        "Fyrsta útvarpsstöðin hóf útsendingar"
       ],
-      "rett": 0,
-      "skyring": "Heidi var sýnd í stað fótboltaleiksins, sem varð til þess að áhorfendur misstu af spennandi endi."
+      "rett": 1,
+      "skyring": "Mikill eldur geisaði á Akureyri þetta ár og olli miklu tjóni."
     },
     {
-      "spurning": "Hvaða ári var Akureyrarkirkja vígð?",
+      "spurning": "Hvaða frægi bandaríski rithöfundur gaf út sína fyrstu stóru velgengnissögu þennan dag árið 1865?",
       "svor": [
-        "1940",
-        "1906",
-        "1912",
-        "1938"
+        "Ernest Hemingway",
+        "Mark Twain",
+        "F. Scott Fitzgerald",
+        "Herman Melville"
       ],
-      "rett": 0,
-      "skyring": "Akureyrarkirkja var vígð árið 1940 og var þá stærsta guðshús Íslands."
+      "rett": 1,
+      "skyring": "Mark Twain sló í gegn með sögu sinni um froskinn fræga."
     }
   ],
-  "tonlistUSA": "I Heard It Through the Grapevine – Marvin Gaye (1968)",
-  "tonlistUK": "With a Little Help from My Friends – Joe Cocker (1968)",
-  "bio": "The Little Mermaid (1989)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
   "ord_dagsins": {
-    "ord": "skrapatungur",
-    "skyring": "Sá sem er mjög mælskur og talar hratt, oft með miklum orðaflaumi."
+    "ord": "víðsjárverður",
+    "skyring": "Sem er varhugaverður, hættulegur eða ótryggur."
   },
-  "vissir_thu": "Árið 1786 fengu sex staðir kaupstaðarréttindi á Íslandi, en aðeins Reykjavík hélt sínum réttindum óslitið.",
-  "stjornuspa": "Sporðdreki, í dag gætirðu fundið óvænta tengingu við fortíðina. Mundu að jafnvel minnstu atburðir geta haft stórkostlegar afleiðingar – eins og að klippa úr fótboltaleik fyrir teiknimynd!",
+  "vissir_thu": "Blaðamannafélag Íslands var stofnað þennan dag árið 1897 og er því eitt elsta starfsgreinafélag landsins.",
+  "stjornuspa": "Sporðdreki, í dag er dagur til að kafa djúpt í gamlar gátur, kannski finnurðu týndan sokk eða fjársjóð. Mundu bara að vera ekki of ráðríkur, jafnvel þótt þú hafir rétt fyrir þér!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tatarstan_Airlines_363_crash_site.jpg/500px-Tatarstan_Airlines_363_crash_site.jpg",
-    "ar": "2013",
-    "texti": "Tatarstan Airlines flug 363 brotlenti við misheppnaða lendingu á Kazan alþjóðaflugvellinum í Rússlandi, með þeim sorglegu afleiðingum að allir 50 um borð létust.",
-    "heimild": "https://en.wikipedia.org/wiki/Tatarstan_Airlines_Flight_363",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Seal_of_Massachusetts.svg/330px-Seal_of_Massachusetts.svg.png",
+    "ar": "2003",
+    "texti": "Hæstiréttur Massachusetts-ríkis í Bandaríkjunum gerði ríkið að því fyrsta í Bandaríkjunum til að lögleiða hjónaband samkynhneigðra.",
+    "heimild": "https://en.wikipedia.org/wiki/Goodridge_v._Department_of_Public_Health",
     "breidd": 330,
-    "haed": 230
+    "haed": 330
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-17",
-  "verdlag": "Árið 1970 kostaði eintak af Morgunblaðinu um 10 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 1418-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-18",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
