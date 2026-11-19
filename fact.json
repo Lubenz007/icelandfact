@@ -1,147 +1,147 @@
 {
-  "date": "2026-11-18",
-  "dagur": 18,
+  "date": "2026-11-19",
+  "dagur": 19,
   "manudur": "nóvember",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 322,
-  "sunrise": "10:04",
-  "sunset": "16:19",
-  "mmdd": "11-18",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 323,
+  "sunrise": "10:07",
+  "sunset": "16:16",
+  "mmdd": "11-19",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru lesendur og sagnfræðivinir! Í dag, 18. nóvember, er sannarlega margt um að vera í sögunni, bæði stórt og smátt. Við sjáum atburði sem minna okkur á mikilvægi mannréttinda og frelsis, og svo auðvitað eitthvað sem fær okkur til að brosa. Kíkjum á daginn!",
-  "nafnadagur": "Hildur",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 19. nóvember, og eins og alltaf, er sagan full af óvæntum vendingum. Hvort sem þú ert að fagna afmæli eða bara að njóta dagsins, þá er alltaf eitthvað nýtt að læra úr fortíðinni. Njótum dagsins saman!",
+  "nafnadagur": "Hallveig",
   "atburdir": [
     {
-      "ar": "2003",
-      "texti": "Hæstiréttur Massachusetts-ríkis í Bandaríkjunum gerði ríkið að því fyrsta í Bandaríkjunum til að lögleiða hjónaband samkynhneigðra."
+      "ar": "1794",
+      "texti": "Bandaríkin og Bretland undirrituðu Jay-sáttmálann, sem lagði grunninn að tíu ára friðsamlegum viðskiptum milli þjóðanna tveggja."
     },
     {
-      "ar": "1978",
-      "texti": "Jim Jones leiddi yfir 900 meðlimi Peoples Temple til fjöldamorða og sjálfsmorða í Jonestown í Gvæjana, aðeins nokkrum klukkustundum eftir að þingmaðurinn Leo Ryan var myrtur."
+      "ar": "1863",
+      "texti": "Abraham Lincoln, forseti Bandaríkjanna, flutti hið sögulega Gettysburgarávarp við vígslu hermannagrafreits í Gettysburg, Pennsylvaníu."
     },
     {
-      "ar": "1956",
-      "texti": "Nikita Krústsjov, leiðtogi Sovétríkjanna, lét þau orð falla í ávarpi sínu í pólsku sendiráðinu í Moskvu, sem voru þýdd sem „Við munum grafa ykkur“, og fengu vestræna sendimenn til að yfirgefa salinn."
+      "ar": "1942",
+      "texti": "Í síðari heimsstyrjöldinni hófu sovéskar hersveitir Úranusar-aðgerðina í orrustunni um Stalingrad, með það markmið að umkringja heri Öxulveldanna og snúa stríðsgenginu sér í hag."
     },
     {
-      "ar": "1872",
-      "texti": "Bandaríska kvenréttindakonan Susan B. Anthony var handtekin og síðar sektuð um 100 dollara fyrir að hafa kosið í forsetakosningunum tveimur vikum áður."
+      "ar": "1969",
+      "texti": "Brasilíski knattspyrnumaðurinn Pelé skoraði sitt þúsundasta mark fyrir Santos gegn Vasco da Gama á Maracanã-leikvanginum í Rio de Janeiro."
     },
     {
-      "ar": "1865",
-      "texti": "Sagan „The Celebrated Jumping Frog of Calaveras County“ var gefin út og varð hún fyrsta stóra velgengni bandaríska rithöfundarins Mark Twain."
+      "ar": "1985",
+      "texti": "Fyrsti af fimm fundum Míkhaíls Gorbatsjovs, aðalritara Sovétríkjanna, og Ronalds Reagans, forseta Bandaríkjanna, hófst í Genf."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1709",
-      "texti": "Biskupsstofan á Hólum í Hjaltadal brann og fórst barn í eldinum, auk þess sem mikið glataðist af verðmætum hlutum.",
+      "ar": "1875",
+      "texti": "Stytta af Bertel Thorvaldsen eftir hann sjálfan var afhjúpuð á Austurvelli á 105 ára afmæli Thorvaldsens. Styttan var síðar flutt í Hljómskálagarðinn árið 1931.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1875",
+      "texti": "Thorvaldsensfélagið var stofnað í Reykjavík af 24 konum, sem gerir það að elsta kvenfélagi í Reykjavík.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1946",
+      "texti": "Ísland gerðist aðili að Sameinuðu þjóðunum, mikilvægur áfangi í utanríkisstefnu landsins.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1897",
-      "texti": "Blaðamannafélag Íslands var stofnað, sem markaði mikilvægan áfanga í sögu íslenskrar blaðamennsku.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1906",
-      "texti": "Stórbruni varð á Akureyri þar sem sjö hús brunnu og um 80 manns misstu heimili sín.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1982",
-      "texti": "Fyrsta kvöld Músíktilrauna var haldið í Tónabæ í Reykjavík, sem hefur síðan verið mikilvægur vettvangur fyrir nýja tónlistarhæfileika.",
-      "landshluti": "Landið allt"
+      "ar": "1959",
+      "texti": "Auður Auðuns var kjörin borgarstjóri í Reykjavík ásamt Geir Hallgrímssyni og var hún fyrst kvenna til að gegna þessu embætti.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Owen Wilson",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1968"
-    },
-    {
-      "nafn": "Margaret Atwood",
-      "starfsgrein": "kanadískur rithöfundur",
-      "ar": "1939"
-    },
-    {
-      "nafn": "Kirk Hammett",
-      "starfsgrein": "bandarískur gítarleikari í Metallica",
+      "nafn": "Jodie Foster",
+      "starfsgrein": "bandarísk leikkona, leikstjóri og framleiðandi",
       "ar": "1962"
     },
     {
-      "nafn": "Peter Schmeichel",
-      "starfsgrein": "danskur knattspyrnumaður",
-      "ar": "1963"
+      "nafn": "Adam Driver",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1983"
     },
     {
-      "nafn": "Kim Wilde",
-      "starfsgrein": "ensk söngkona",
-      "ar": "1960"
+      "nafn": "Indira Gandhi",
+      "starfsgrein": "indverskur stjórnmálamaður, 3. forsætisráðherra Indlands",
+      "ar": "1917"
+    },
+    {
+      "nafn": "Meg Ryan",
+      "starfsgrein": "bandarísk leikkona og framleiðandi",
+      "ar": "1961"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Svavar Guðnason",
-      "starfsgrein": "íslenskur listmálari",
-      "ar": "1909"
+      "nafn": "Bertel Thorvaldsen",
+      "starfsgrein": "myndhöggvari",
+      "ar": "1770"
+    },
+    {
+      "nafn": "Pétur Eggerz",
+      "starfsgrein": "leikari",
+      "ar": "1960"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða ríki í Bandaríkjunum var það fyrsta til að lögleiða hjónaband samkynhneigðra þann 18. nóvember?",
+      "spurning": "Hvaða brasilíski knattspyrnumaður skoraði sitt þúsundasta mark þennan dag árið 1969?",
       "svor": [
-        "Kalifornía",
-        "New York",
-        "Massachusetts",
-        "Vermont"
+        "Pelé",
+        "Ronaldo",
+        "Romário",
+        "Neymar"
       ],
-      "rett": 2,
-      "skyring": "Massachusetts var brautryðjandi í þessum mikilvæga réttindamálum."
+      "rett": 0,
+      "skyring": "Pelé var sannkölluð goðsögn á vellinum!"
     },
     {
-      "spurning": "Hvaða merkilega atburður átti sér stað á Akureyri þann 18. nóvember 1906?",
+      "spurning": "Hvaða sögulega ávarp flutti Abraham Lincoln þennan dag árið 1863?",
       "svor": [
-        "Fyrsta bílskúrnum var opnað",
-        "Stórbruni varð",
-        "Nýtt leikhús var vígt",
-        "Fyrsta útvarpsstöðin hóf útsendingar"
+        "Gettysburgarávarpið",
+        "Frelsisávarpið",
+        "Fyrsta embættisráðarávarpið",
+        "Ávarpið um sambandið"
       ],
-      "rett": 1,
-      "skyring": "Mikill eldur geisaði á Akureyri þetta ár og olli miklu tjóni."
+      "rett": 0,
+      "skyring": "Gettysburgarávarpið er eitt frægasta ávarp í sögu Bandaríkjanna."
     },
     {
-      "spurning": "Hvaða frægi bandaríski rithöfundur gaf út sína fyrstu stóru velgengnissögu þennan dag árið 1865?",
+      "spurning": "Hvaða merkilega áfanga náði Auður Auðuns þennan dag árið 1959?",
       "svor": [
-        "Ernest Hemingway",
-        "Mark Twain",
-        "F. Scott Fitzgerald",
-        "Herman Melville"
+        "Hún varð fyrst kvenna til að gegna embætti borgarstjóra í Reykjavík",
+        "Hún stofnaði Thorvaldsensfélagið",
+        "Hún varð fyrst kvenna til að sitja á Alþingi",
+        "Hún varð fyrst kvenna til að verða ráðherra"
       ],
-      "rett": 1,
-      "skyring": "Mark Twain sló í gegn með sögu sinni um froskinn fræga."
+      "rett": 0,
+      "skyring": "Auður Auðuns markaði söguleg spor í íslenskri stjórnmálasögu."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Harry Potter and the Sorcerer's Stone (2001)",
+  "bio": "Rocky (1976)",
   "ord_dagsins": {
-    "ord": "víðsjárverður",
-    "skyring": "Sem er varhugaverður, hættulegur eða ótryggur."
+    "ord": "þjóðráð",
+    "skyring": "Góð ráð eða ráð sem eru til heilla fyrir þjóðina."
   },
-  "vissir_thu": "Blaðamannafélag Íslands var stofnað þennan dag árið 1897 og er því eitt elsta starfsgreinafélag landsins.",
-  "stjornuspa": "Sporðdreki, í dag er dagur til að kafa djúpt í gamlar gátur, kannski finnurðu týndan sokk eða fjársjóð. Mundu bara að vera ekki of ráðríkur, jafnvel þótt þú hafir rétt fyrir þér!",
+  "vissir_thu": "Thorvaldsensfélagið, sem stofnað var í Reykjavík þennan dag árið 1875, er elsta kvenfélag borgarinnar.",
+  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðpunkti athyglinnar – vertu tilbúinn að skína! En mundu, jafnvel bjartasta stjarnan þarf stundum að hvíla sig.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Seal_of_Massachusetts.svg/330px-Seal_of_Massachusetts.svg.png",
-    "ar": "2003",
-    "texti": "Hæstiréttur Massachusetts-ríkis í Bandaríkjunum gerði ríkið að því fyrsta í Bandaríkjunum til að lögleiða hjónaband samkynhneigðra.",
-    "heimild": "https://en.wikipedia.org/wiki/Goodridge_v._Department_of_Public_Health",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jay%27s-treaty.jpg/330px-Jay%27s-treaty.jpg",
+    "ar": "1794",
+    "texti": "Bandaríkin og Bretland undirrituðu Jay-sáttmálann, sem lagði grunninn að tíu ára friðsamlegum viðskiptum milli þjóðanna tveggja.",
+    "heimild": "https://en.wikipedia.org/wiki/Jay_Treaty",
     "breidd": 330,
-    "haed": 330
+    "haed": 539
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-18",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-19",
+  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
