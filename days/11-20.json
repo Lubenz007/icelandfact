@@ -6,77 +6,72 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "10:11",
   "sunset": "16:13",
-  "kvedja": "Góðan dag, kæri lesandi, og velkominn í 20. nóvember þar sem hvalur sökkti skipi, Windows birtist á skjánum og Íslendingar reyndu að fækka sveitarfélögum með heldur hóflegum árangri. Sagan minnir okkur á að bæði hvalir og kjósendur geta verið óútreiknanlegir — og það er einmitt hluti af töfrunum.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 20. nóvember, er dagur sem sannarlega hefur markað spor í sögunni, allt frá konunglegum brúðkaupum til tæknibyltinga. Vonandi er veðrið gott hjá ykkur, og munum að njóta hvers dags – hann er jú sagan í dag!",
+  "nafnadagur": "Hildur",
   "atburdir": [
     {
-      "ar": "1739",
-      "texti": "Í stríðinu sem kennt er við eyra Jenkins kom breskur floti að Portobello í spænsku nýlendunum í Ameríku og hertók byggðina daginn eftir. Nafn stríðsins hljómar næstum eins og kráarsaga, en átökin voru bláköld heimsvaldastefna."
-    },
-    {
-      "ar": "1820",
-      "texti": "Bandaríska hvalveiðiskipið Essex sökk um 3.700 kílómetra vestur af Suður-Ameríku eftir árás búrhvals. Atburðurinn varð síðar einn innblástursgjafa Hermans Melville að Moby-Dick."
-    },
-    {
-      "ar": "1945",
-      "texti": "Nürnberg-réttarhöldin yfir 24 háttsettum nasistum hófust í Þýskalandi. Þar voru leiðtogar nasistastjórnarinnar sóttir til saka vegna helfararinnar og annarra stríðsglæpa síðari heimsstyrjaldar."
-    },
-    {
-      "ar": "1969",
-      "texti": "Hópur bandarískra frumbyggja hóf hernám Alcatraz-eyju í San Francisco-flóa. Aðgerðin stóð í 19 mánuði og vakti mikla athygli á réttindabaráttu frumbyggja."
+      "ar": "2003",
+      "texti": "Sjálfsmorðsárásarmenn sprengdu bresku ræðismannsskrifstofuna og höfuðstöðvar HSBC bankans í Istanbúl, sem kostaði 31 líf."
     },
     {
       "ar": "1985",
-      "texti": "Microsoft gaf Windows 1.0 út fyrir almenning. Gluggarnir voru enn fremur frumstæðir, en tölvuheimurinn var þar með farinn að opna þá upp á gátt."
+      "texti": "Windows 1.0, fyrsta útgáfa Microsoft Windows sem almenningur fékk aðgang að, kom út og breytti tölvuheiminum."
+    },
+    {
+      "ar": "1979",
+      "texti": "Vopnaðir uppreisnarmenn réðust inn í og hertóku Masjid al-Haram í Mekka og lýstu einum leiðtoga sínum sem Mahdi."
+    },
+    {
+      "ar": "1947",
+      "texti": "Elísabet prinsessa, dóttir Georgs VI konungs, giftist Philip Mountbatten liðsforingja, sem fékk titilinn hertogi af Edinborg."
+    },
+    {
+      "ar": "1945",
+      "texti": "Nürnberg-réttarhöldin hófust yfir 24 helstu nasistum sem tóku þátt í Helförinni og ýmsum stríðsglæpum í síðari heimsstyrjöldinni."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1763",
-      "texti": "Dómkirkjan á Hólum í Hjaltadal, sú sem enn stendur, var vígð. Byggingin var fjármögnuð með norsku og dönsku gjafafé.",
+      "texti": "Dómkirkja var vígð á Hólum í Hjaltadal, sú sem enn stendur þar, byggð fyrir norskt og danskt gjafafé.",
       "landshluti": "Norðurland"
     },
     {
       "ar": "1772",
-      "texti": "Snjóflóð féll á tvo bæi á Látraströnd; fjórir menn fórust en einum var bjargað úr flóðinu eftir tíu daga.",
+      "texti": "Tveir bæir á Látraströnd urðu fyrir snjóflóði, fjórir menn fórust en einum var bjargað eftir tíu daga.",
       "landshluti": "Norðurland"
     },
     {
       "ar": "1959",
-      "texti": "Viðreisnarstjórnin tók við völdum undir forystu Ólafs Thors. Þrátt fyrir nokkrar breytingar sat hún í tæp tólf ár, lengur en nokkur önnur ríkisstjórn Íslands.",
+      "texti": "Viðreisnarstjórnin tók við völdum undir forystu Ólafs Thors og sat lengur en nokkur önnur stjórn á Íslandi.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1993",
-      "texti": "Kosið var um tillögur að sameiningu sveitarfélaga sem hefðu fækkað þeim úr 196 í 43. Af 32 tillögum fékk aðeins ein samþykki kjósenda — sameiningarvélin fór því ekki beinlínis á yfirsnúning.",
+      "ar": "2013",
+      "texti": "Lekamálið kom upp á Íslandi þegar Morgunblaðið og Fréttablaðið birtu upplýsingar úr minnisblaði frá Innanríkisráðuneytinu.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Andrea Riseborough",
-      "starfsgrein": "leikkona",
-      "ar": "1981"
-    },
-    {
-      "nafn": "Bob Einstein",
-      "starfsgrein": "leikari og handritshöfundur",
+      "nafn": "Joe Biden",
+      "starfsgrein": "forseti Bandaríkjanna",
       "ar": "1942"
     },
     {
-      "nafn": "Benoit Mandelbrot",
-      "starfsgrein": "stærðfræðingur og hagfræðingur",
-      "ar": "1924"
+      "nafn": "Robert F. Kennedy",
+      "starfsgrein": "bandarískur stjórnmálamaður og lögfræðingur",
+      "ar": "1925"
     },
     {
-      "nafn": "Alistair Cooke",
-      "starfsgrein": "blaðamaður og rithöfundur",
-      "ar": "1908"
+      "nafn": "Joe Walsh",
+      "starfsgrein": "söngvari og gítarleikari",
+      "ar": "1947"
     },
     {
-      "nafn": "Barbara Hendricks",
-      "starfsgrein": "sópransöngkona og leikkona",
-      "ar": "1948"
+      "nafn": "Bo Derek",
+      "starfsgrein": "leikkona",
+      "ar": "1956"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +93,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða dýr réðst á hvalveiðiskipið Essex árið 1820?",
+      "spurning": "Hvaða tæknibylting átti sér stað þennan dag árið 1985?",
       "svor": [
-        "Háhyrningur",
-        "Búrhvalur",
-        "Steypireyður",
-        "Risasmokkfiskur"
+        "Fyrsti iPhone kom út",
+        "Windows 1.0 var gefið út",
+        "Netið var opnað almenningi",
+        "Fyrsti tölvuleikurinn var gefinn út"
       ],
       "rett": 1,
-      "skyring": "Það var búrhvalur sem sökkti Essex og lagði þar með óvart grunn að mikilli bókmenntasögu."
+      "skyring": "Windows 1.0 markaði upphaf nýrrar tölvuöldar."
     },
     {
-      "spurning": "Hvaða stýrikerfi kom fyrst út fyrir almenning 20. nóvember 1985?",
+      "spurning": "Hvaða mikilvægu réttarhöld hófust þennan dag árið 1945?",
       "svor": [
-        "Windows 1.0",
-        "Mac OS X",
-        "Windows 95",
-        "Android"
+        "Réttarhöldin yfir Al Capone",
+        "Nürnberg-réttarhöldin",
+        "Réttarhöldin yfir O.J. Simpson",
+        "Réttarhöldin yfir Charles Manson"
       ],
-      "rett": 0,
-      "skyring": "Windows 1.0 opnaði fyrstu gluggana, þótt þeir væru öllu látlausari en nú tíðkast."
+      "rett": 1,
+      "skyring": "Nürnberg-réttarhöldin voru mikilvægur áfangi í uppgjöri við stríðsglæpi."
     },
     {
-      "spurning": "Hversu margar af 32 sameiningartillögum sveitarfélaga voru samþykktar árið 1993?",
+      "spurning": "Hvaða bandaríski forseti fæddist þennan dag?",
       "svor": [
-        "Ein",
-        "Átta",
-        "Sextán",
-        "Allar"
+        "Donald Trump",
+        "Barack Obama",
+        "Joe Biden",
+        "George W. Bush"
       ],
-      "rett": 0,
-      "skyring": "Aðeins ein tillaga var samþykkt; sveitarfélögin héldu fast í sitt eins og köttur í gluggakistu."
+      "rett": 2,
+      "skyring": "Joe Biden, 46. forseti Bandaríkjanna, fagnar afmæli sínu í dag."
     }
   ],
-  "tonlistUSA": "No Diggity – Blackstreet featuring Dr. Dre (1996)",
-  "tonlistUK": "Uptown Girl – Billy Joel (1983)",
-  "bio": "Toy Story (1995)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Rocky IV (1985)",
   "ord_dagsins": {
-    "ord": "gluggaveður",
-    "skyring": "Gluggaveður er veður sem virðist fallegt og notalegt séð inn um glugga en reynist mun verra þegar út er komið."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfum."
   },
-  "vissir_thu": "Benoit Mandelbrot bjó til orðið „fractal“ árið 1975 um mynstur sem sýna svipaða gerð á mismunandi stærðarkvörðum.",
-  "stjornuspa": "Sporðdreki, gamall leyndardómur gæti skriðið fram úr skúffu í dag, líklega við hliðina á týndum lykli eða reikningi frá 1985. Haltu ró þinni, beittu innsæinu og mundu að dramatísk þögn getur verið áhrifaríkari en heilt erindi.",
+  "vissir_thu": "Hinn 20. nóvember 1820 sökkti stór hvalur bandaríska hvalveiðiskipinu Essex, atburður sem veitti innblástur að skáldsögunni Moby-Dick.",
+  "stjornuspa": "Sporðdreki, í dag gætir þú fundið fyrir óvæntum straumum í samskiptum. Vertu opinn fyrir nýjum hugmyndum – en ekki gleyma að halda í þína eigin sannfæringu!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/A_new_and_correct_map_of_the_trading_part_of_the_West_Indies.png/500px-A_new_and_correct_map_of_the_trading_part_of_the_West_Indies.png",
-    "ar": "1739",
-    "texti": "Í stríðinu sem kennt er við eyra Jenkins kom breskur floti að Portobello í spænsku nýlendunum í Ameríku og hertók byggðina daginn eftir. Nafn stríðsins hljómar næstum eins og kráarsaga, en átökin voru bláköld heimsvaldastefna.",
-    "heimild": "https://en.wikipedia.org/wiki/War_of_Jenkins'_Ear",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Location_map_Beyoglu-Besiktas-15-and-20-November-2003-bombings-Sisli.svg/500px-Location_map_Beyoglu-Besiktas-15-and-20-November-2003-bombings-Sisli.svg.png",
+    "ar": "2003",
+    "texti": "Sjálfsmorðsárásarmenn sprengdu bresku ræðismannsskrifstofuna og höfuðstöðvar HSBC bankans í Istanbúl, sem kostaði 31 líf.",
+    "heimild": "https://en.wikipedia.org/wiki/2003_Istanbul_bombings",
     "breidd": 330,
-    "haed": 186
+    "haed": 289
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-20"
 }

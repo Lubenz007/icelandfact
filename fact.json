@@ -1,147 +1,152 @@
 {
-  "date": "2026-11-19",
-  "dagur": 19,
+  "date": "2026-11-20",
+  "dagur": 20,
   "manudur": "nóvember",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 323,
-  "sunrise": "10:07",
-  "sunset": "16:16",
-  "mmdd": "11-19",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 324,
+  "sunrise": "10:12",
+  "sunset": "16:13",
+  "mmdd": "11-20",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 19. nóvember, og eins og alltaf, er sagan full af óvæntum vendingum. Hvort sem þú ert að fagna afmæli eða bara að njóta dagsins, þá er alltaf eitthvað nýtt að læra úr fortíðinni. Njótum dagsins saman!",
-  "nafnadagur": "Hallveig",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 20. nóvember, er dagur sem sannarlega hefur markað spor í sögunni, allt frá konunglegum brúðkaupum til tæknibyltinga. Vonandi er veðrið gott hjá ykkur, og munum að njóta hvers dags – hann er jú sagan í dag!",
+  "nafnadagur": "Hildur",
   "atburdir": [
     {
-      "ar": "1794",
-      "texti": "Bandaríkin og Bretland undirrituðu Jay-sáttmálann, sem lagði grunninn að tíu ára friðsamlegum viðskiptum milli þjóðanna tveggja."
-    },
-    {
-      "ar": "1863",
-      "texti": "Abraham Lincoln, forseti Bandaríkjanna, flutti hið sögulega Gettysburgarávarp við vígslu hermannagrafreits í Gettysburg, Pennsylvaníu."
-    },
-    {
-      "ar": "1942",
-      "texti": "Í síðari heimsstyrjöldinni hófu sovéskar hersveitir Úranusar-aðgerðina í orrustunni um Stalingrad, með það markmið að umkringja heri Öxulveldanna og snúa stríðsgenginu sér í hag."
-    },
-    {
-      "ar": "1969",
-      "texti": "Brasilíski knattspyrnumaðurinn Pelé skoraði sitt þúsundasta mark fyrir Santos gegn Vasco da Gama á Maracanã-leikvanginum í Rio de Janeiro."
+      "ar": "2003",
+      "texti": "Sjálfsmorðsárásarmenn sprengdu bresku ræðismannsskrifstofuna og höfuðstöðvar HSBC bankans í Istanbúl, sem kostaði 31 líf."
     },
     {
       "ar": "1985",
-      "texti": "Fyrsti af fimm fundum Míkhaíls Gorbatsjovs, aðalritara Sovétríkjanna, og Ronalds Reagans, forseta Bandaríkjanna, hófst í Genf."
+      "texti": "Windows 1.0, fyrsta útgáfa Microsoft Windows sem almenningur fékk aðgang að, kom út og breytti tölvuheiminum."
+    },
+    {
+      "ar": "1979",
+      "texti": "Vopnaðir uppreisnarmenn réðust inn í og hertóku Masjid al-Haram í Mekka og lýstu einum leiðtoga sínum sem Mahdi."
+    },
+    {
+      "ar": "1947",
+      "texti": "Elísabet prinsessa, dóttir Georgs VI konungs, giftist Philip Mountbatten liðsforingja, sem fékk titilinn hertogi af Edinborg."
+    },
+    {
+      "ar": "1945",
+      "texti": "Nürnberg-réttarhöldin hófust yfir 24 helstu nasistum sem tóku þátt í Helförinni og ýmsum stríðsglæpum í síðari heimsstyrjöldinni."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1875",
-      "texti": "Stytta af Bertel Thorvaldsen eftir hann sjálfan var afhjúpuð á Austurvelli á 105 ára afmæli Thorvaldsens. Styttan var síðar flutt í Hljómskálagarðinn árið 1931.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1763",
+      "texti": "Dómkirkja var vígð á Hólum í Hjaltadal, sú sem enn stendur þar, byggð fyrir norskt og danskt gjafafé.",
+      "landshluti": "Norðurland"
     },
     {
-      "ar": "1875",
-      "texti": "Thorvaldsensfélagið var stofnað í Reykjavík af 24 konum, sem gerir það að elsta kvenfélagi í Reykjavík.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1946",
-      "texti": "Ísland gerðist aðili að Sameinuðu þjóðunum, mikilvægur áfangi í utanríkisstefnu landsins.",
-      "landshluti": "Landið allt"
+      "ar": "1772",
+      "texti": "Tveir bæir á Látraströnd urðu fyrir snjóflóði, fjórir menn fórust en einum var bjargað eftir tíu daga.",
+      "landshluti": "Norðurland"
     },
     {
       "ar": "1959",
-      "texti": "Auður Auðuns var kjörin borgarstjóri í Reykjavík ásamt Geir Hallgrímssyni og var hún fyrst kvenna til að gegna þessu embætti.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Viðreisnarstjórnin tók við völdum undir forystu Ólafs Thors og sat lengur en nokkur önnur stjórn á Íslandi.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "2013",
+      "texti": "Lekamálið kom upp á Íslandi þegar Morgunblaðið og Fréttablaðið birtu upplýsingar úr minnisblaði frá Innanríkisráðuneytinu.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Jodie Foster",
-      "starfsgrein": "bandarísk leikkona, leikstjóri og framleiðandi",
-      "ar": "1962"
+      "nafn": "Joe Biden",
+      "starfsgrein": "forseti Bandaríkjanna",
+      "ar": "1942"
     },
     {
-      "nafn": "Adam Driver",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1983"
+      "nafn": "Robert F. Kennedy",
+      "starfsgrein": "bandarískur stjórnmálamaður og lögfræðingur",
+      "ar": "1925"
     },
     {
-      "nafn": "Indira Gandhi",
-      "starfsgrein": "indverskur stjórnmálamaður, 3. forsætisráðherra Indlands",
-      "ar": "1917"
+      "nafn": "Joe Walsh",
+      "starfsgrein": "söngvari og gítarleikari",
+      "ar": "1947"
     },
     {
-      "nafn": "Meg Ryan",
-      "starfsgrein": "bandarísk leikkona og framleiðandi",
-      "ar": "1961"
+      "nafn": "Bo Derek",
+      "starfsgrein": "leikkona",
+      "ar": "1956"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Bertel Thorvaldsen",
-      "starfsgrein": "myndhöggvari",
-      "ar": "1770"
+      "nafn": "Ásthildur Lóa Þórsdóttir",
+      "starfsgrein": "stjórnmálakona",
+      "ar": "1966"
     },
     {
-      "nafn": "Pétur Eggerz",
-      "starfsgrein": "leikari",
-      "ar": "1960"
+      "nafn": "Sigríður Víðis Jónsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1979"
+    },
+    {
+      "nafn": "Kristín Svava Tómasdóttir",
+      "starfsgrein": "skáld",
+      "ar": "1985"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða brasilíski knattspyrnumaður skoraði sitt þúsundasta mark þennan dag árið 1969?",
+      "spurning": "Hvaða tæknibylting átti sér stað þennan dag árið 1985?",
       "svor": [
-        "Pelé",
-        "Ronaldo",
-        "Romário",
-        "Neymar"
+        "Fyrsti iPhone kom út",
+        "Windows 1.0 var gefið út",
+        "Netið var opnað almenningi",
+        "Fyrsti tölvuleikurinn var gefinn út"
       ],
-      "rett": 0,
-      "skyring": "Pelé var sannkölluð goðsögn á vellinum!"
+      "rett": 1,
+      "skyring": "Windows 1.0 markaði upphaf nýrrar tölvuöldar."
     },
     {
-      "spurning": "Hvaða sögulega ávarp flutti Abraham Lincoln þennan dag árið 1863?",
+      "spurning": "Hvaða mikilvægu réttarhöld hófust þennan dag árið 1945?",
       "svor": [
-        "Gettysburgarávarpið",
-        "Frelsisávarpið",
-        "Fyrsta embættisráðarávarpið",
-        "Ávarpið um sambandið"
+        "Réttarhöldin yfir Al Capone",
+        "Nürnberg-réttarhöldin",
+        "Réttarhöldin yfir O.J. Simpson",
+        "Réttarhöldin yfir Charles Manson"
       ],
-      "rett": 0,
-      "skyring": "Gettysburgarávarpið er eitt frægasta ávarp í sögu Bandaríkjanna."
+      "rett": 1,
+      "skyring": "Nürnberg-réttarhöldin voru mikilvægur áfangi í uppgjöri við stríðsglæpi."
     },
     {
-      "spurning": "Hvaða merkilega áfanga náði Auður Auðuns þennan dag árið 1959?",
+      "spurning": "Hvaða bandaríski forseti fæddist þennan dag?",
       "svor": [
-        "Hún varð fyrst kvenna til að gegna embætti borgarstjóra í Reykjavík",
-        "Hún stofnaði Thorvaldsensfélagið",
-        "Hún varð fyrst kvenna til að sitja á Alþingi",
-        "Hún varð fyrst kvenna til að verða ráðherra"
+        "Donald Trump",
+        "Barack Obama",
+        "Joe Biden",
+        "George W. Bush"
       ],
-      "rett": 0,
-      "skyring": "Auður Auðuns markaði söguleg spor í íslenskri stjórnmálasögu."
+      "rett": 2,
+      "skyring": "Joe Biden, 46. forseti Bandaríkjanna, fagnar afmæli sínu í dag."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Rocky (1976)",
+  "bio": "Rocky IV (1985)",
   "ord_dagsins": {
-    "ord": "þjóðráð",
-    "skyring": "Góð ráð eða ráð sem eru til heilla fyrir þjóðina."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfum."
   },
-  "vissir_thu": "Thorvaldsensfélagið, sem stofnað var í Reykjavík þennan dag árið 1875, er elsta kvenfélag borgarinnar.",
-  "stjornuspa": "Sporðdreki, í dag gætir þú fundið þig í miðpunkti athyglinnar – vertu tilbúinn að skína! En mundu, jafnvel bjartasta stjarnan þarf stundum að hvíla sig.",
+  "vissir_thu": "Hinn 20. nóvember 1820 sökkti stór hvalur bandaríska hvalveiðiskipinu Essex, atburður sem veitti innblástur að skáldsögunni Moby-Dick.",
+  "stjornuspa": "Sporðdreki, í dag gætir þú fundið fyrir óvæntum straumum í samskiptum. Vertu opinn fyrir nýjum hugmyndum – en ekki gleyma að halda í þína eigin sannfæringu!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Jay%27s-treaty.jpg/330px-Jay%27s-treaty.jpg",
-    "ar": "1794",
-    "texti": "Bandaríkin og Bretland undirrituðu Jay-sáttmálann, sem lagði grunninn að tíu ára friðsamlegum viðskiptum milli þjóðanna tveggja.",
-    "heimild": "https://en.wikipedia.org/wiki/Jay_Treaty",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Location_map_Beyoglu-Besiktas-15-and-20-November-2003-bombings-Sisli.svg/500px-Location_map_Beyoglu-Besiktas-15-and-20-November-2003-bombings-Sisli.svg.png",
+    "ar": "2003",
+    "texti": "Sjálfsmorðsárásarmenn sprengdu bresku ræðismannsskrifstofuna og höfuðstöðvar HSBC bankans í Istanbúl, sem kostaði 31 líf.",
+    "heimild": "https://en.wikipedia.org/wiki/2003_Istanbul_bombings",
     "breidd": 330,
-    "haed": 539
+    "haed": 289
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-19",
-  "verdlag": "Árið 1997 kostaði eintak af Morgunblaðinu um 125 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.6-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-20",
+  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
