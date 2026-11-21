@@ -6,88 +6,83 @@
   "stjornumerki": "Sporðdreki",
   "sunrise": "10:14",
   "sunset": "16:11",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 21. nóvember ætlum við að hlusta á hljóðrita Edisons, aka yfir Verrazzano-Narrows-brúna og halda svo upp á afmæli Bjarkar — en sleppum helst eldsvoðum og blóðugum sunnudögum. Sagan er nefnilega fjölbreytt ferðalag og sjaldnast með beinu flugi.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 21. nóvember, er dagurinn fullur af sögulegum atburðum, allt frá undirritun Mayflower Compact til uppfinninga Edisons. Það er ljóst að þessi dagur hefur oft verið kveikjan að stórum breytingum, bæði góðum og slæmum. Vonandi verður ykkar dagur í dag í flokki þeirra góðu!",
+  "nafnadagur": "María",
   "atburdir": [
     {
       "ar": "1620",
-      "texti": "Fjörutíu og einn farþegi Mayflower undirritaði Mayflower-sáttmálann meðan skipið lá við akkeri þar sem nú er Provincetown Harbor. Sáttmálinn varð fyrsta stjórnskjal Plymouth-nýlendunnar."
+      "texti": "Mayflower Compact, fyrsta stjórnarskrá Plymouth-nýlendunnar, var undirrituð af 41 farþega Mayflower á meðan skipið lá við akkeri í því sem nú er Provincetown Harbor."
     },
     {
       "ar": "1877",
-      "texti": "Thomas Edison tilkynnti uppfinningu hljóðritans, tækis sem gat bæði tekið upp og spilað hljóð. Mannsröddin var þar með komin með endurspilunarhnapp."
-    },
-    {
-      "ar": "1922",
-      "texti": "Rebecca Latimer Felton varð fyrst kvenna til að taka sæti í öldungadeild Bandaríkjaþings. Setan var aðeins einn dagur, en áfanginn engu að síður sögulegur."
+      "texti": "Thomas Edison tilkynnti uppfinningu sína á hljóðrita (phonograph), tæki sem gat tekið upp og spilað hljóð."
     },
     {
       "ar": "1964",
-      "texti": "Verrazzano-Narrows-brúin milli Staten Island og Brooklyn var opnuð fyrir umferð. Hún var þá lengsta hengibrú heims."
+      "texti": "Verrazzano–Narrows brúin, sem tengir Staten Island og Brooklyn í New York borg, opnaði fyrir umferð og var þá lengsta hengibrú heims."
+    },
+    {
+      "ar": "1977",
+      "texti": "„God Defend New Zealand“ varð annaður þjóðsöngur Nýja-Sjálands, jafn rétthár „God Save the King“, sem hafði verið hefðbundinn þjóðsöngur síðan 1840."
     },
     {
       "ar": "1980",
-      "texti": "Eldur kom upp á MGM Grand-hótelinu við Las Vegas Strip og varð 85 manns að bana; 650 til viðbótar særðust. Atburðurinn varð einn mannskæðasti hótelbruni í sögu Bandaríkjanna."
+      "texti": "Eldur braust út á MGM Grand Hotel á Las Vegas Strip í Paradise, Nevada, þar sem 85 manns létu lífið og 650 særðust."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1393",
-      "texti": "Barist var á Núpi í Dýrafirði milli manna Björns Einarssonar í Vatnsfirði og Þórðar Sigmundssonar á Núpi. Tveir féllu, margir særðust og Björn flúði í kirkju eftir að menn Þórðar höfðu betur.",
+      "texti": "Bardagi varð á Núpi í Dýrafirði á milli Björns Einarssonar í Vatnsfirði og Þórðar Sigmundssonar á Núpi þar sem tveir menn féllu og margir særðust. Menn Þórðar höfðu betur og flúði Björn í kirkju.",
       "landshluti": "Vestfirðir"
     },
     {
       "ar": "1869",
-      "texti": "Skotfélag Keflavíkur var stofnað og telst það eitt allra fyrsta íþróttafélag landsins.",
+      "texti": "Skotfélag Keflavíkur, eitt allra fyrsta íþróttafélag landsins, var stofnað.",
       "landshluti": "Reykjanes"
     },
     {
       "ar": "1931",
-      "texti": "Fyrsta leikritið var flutt í Ríkisútvarpinu þegar leiknir voru kaflar úr Bóndanum á Hrauni eftir Jóhann Sigurjónsson.",
+      "texti": "Fyrsta leikritið var flutt í Ríkisútvarpinu, en þar voru leiknir kaflar úr Bóndanum á Hrauni eftir Jóhann Sigurjónsson.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1981",
-      "texti": "Landssamband framsóknarkvenna var stofnað á Íslandi.",
+      "ar": "1984",
+      "texti": "Samkvæmt könnun Hagvangs á gildismati og mannlegum viðhorfum reyndust Íslendingar vera hamingjusamasta þjóð í heimi.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Carly Rae Jepsen",
-      "starfsgrein": "söngkona, lagahöfundur og leikkona",
-      "ar": "1985"
+      "nafn": "Goldie Hawn",
+      "starfsgrein": "bandarísk leikkona og söngkona",
+      "ar": "1945"
     },
     {
-      "nafn": "Cherry Jones",
-      "starfsgrein": "leikkona",
-      "ar": "1956"
+      "nafn": "Harold Ramis",
+      "starfsgrein": "bandarískur leikari og leikstjóri",
+      "ar": "1944"
     },
     {
-      "nafn": "Christopher Tolkien",
-      "starfsgrein": "rithöfundur og fræðimaður",
-      "ar": "1924"
+      "nafn": "Voltaire",
+      "starfsgrein": "franskur rithöfundur og heimspekingur",
+      "ar": "1694"
     },
     {
-      "nafn": "Alex James",
-      "starfsgrein": "tónlistarmaður og bassaleikari",
-      "ar": "1968"
-    },
-    {
-      "nafn": "Alan Smith",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1962"
+      "nafn": "René Magritte",
+      "starfsgrein": "belgískur málari",
+      "ar": "1898"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Björk Guðmundsdóttir",
-      "starfsgrein": "tónlistarkona",
+      "starfsgrein": "íslenskur tónlistarmaður",
       "ar": "1965"
     },
     {
       "nafn": "Helgi Hóseasson",
-      "starfsgrein": "mótmælandi",
+      "starfsgrein": "íslenskur mótmælandi",
       "ar": "1919"
     },
     {
@@ -98,56 +93,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða uppfinningu kynnti Thomas Edison árið 1877?",
+      "spurning": "Hvaða ár varð \"God Defend New Zealand\" annar þjóðsöngur Nýja-Sjálands?",
       "svor": [
-        "Hljóðritann",
-        "Ritvélina",
-        "Símtækið",
-        "Kvikmyndavélina"
+        "1977",
+        "1964",
+        "1980",
+        "1877"
       ],
       "rett": 0,
-      "skyring": "Hljóðritinn gat bæði varðveitt og endurspilað hljóð — sannkölluð töfrakrukka síns tíma."
+      "skyring": "Árið 1977 fékk Nýja-Sjáland sinn annan þjóðsöng."
     },
     {
-      "spurning": "Hver varð fyrst kvenna til að sitja í öldungadeild Bandaríkjaþings?",
+      "spurning": "Hvaða frægi Íslendingur fæddist 21. nóvember?",
       "svor": [
-        "Cherry Jones",
-        "Rebecca Latimer Felton",
-        "Carly Rae Jepsen",
-        "Björk Guðmundsdóttir"
-      ],
-      "rett": 1,
-      "skyring": "Rebecca Latimer Felton sat aðeins einn dag, en skrifaði sig samt rækilega í sögubækurnar."
-    },
-    {
-      "spurning": "Hvaða íslenska tónlistarkona á afmæli 21. nóvember?",
-      "svor": [
-        "Emilíana Torrini",
         "Björk Guðmundsdóttir",
-        "Sigríður Thorlacius",
-        "Bríet"
+        "Jónas Hallgrímsson",
+        "Halldór Laxness",
+        "Vigdís Finnbogadóttir"
       ],
-      "rett": 1,
-      "skyring": "Björk fæddist árið 1965 og hefur síðan gert íslenska sérvisku að heimslist."
+      "rett": 0,
+      "skyring": "Tónlistarkonan Björk á afmæli í dag!"
+    },
+    {
+      "spurning": "Hvaða uppfinningu tilkynnti Thomas Edison þennan dag árið 1877?",
+      "svor": [
+        "Hljóðritann (Phonograph)",
+        "Rafmagnsperuna",
+        "Kvikmyndavélina",
+        "Símtækið"
+      ],
+      "rett": 0,
+      "skyring": "Edison kynnti hljóðritann fyrir heiminum þennan dag."
     }
   ],
-  "tonlistUSA": "Lady – Kenny Rogers (1980)",
-  "tonlistUK": "Would I Lie to You? – Charles & Eddie (1992)",
-  "bio": "Ástin grípur alla (2003)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Love Actually (2003)",
   "ord_dagsins": {
-    "ord": "dægur",
-    "skyring": "Dægur merkir dagur eða tiltekið tímabil og birtist meðal annars í orðinu dægurlag."
+    "ord": "Flumbra",
+    "skyring": "Klaufaleg eða ófim kona, eða stór og ólaglegur hlutur."
   },
-  "vissir_thu": "Verrazzano-Narrows-brúin var lengsta hengibrú heims þegar hún var opnuð árið 1964.",
-  "stjornuspa": "Sporðdreki, gömul ráðgáta bankar upp á og þú leysir hana með innsæi, kaffibolla og hæfilega dramatísku augnaráði. Varastu þó að stinga alla sem eru ósammála þér — stundum nægir einfaldlega hnyttin athugasemd.",
+  "vissir_thu": "Fyrsta símaskráin í heiminum mun hafa verið gefin út þennan dag árið 1878 í New Haven í Connecticut og innihélt nöfn 50 símnotenda.",
+  "stjornuspa": "Sporðdreki, í dag gætirðu fundið fyrir óvæntri orku til að taka til í skúffunum. Nýttu hana vel, því það er aldrei að vita hvaða fjársjóði þú finnur!",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Mayflower_Compact_1620_cph.3g07155.jpg/500px-The_Mayflower_Compact_1620_cph.3g07155.jpg",
     "ar": "1620",
-    "texti": "Fjörutíu og einn farþegi Mayflower undirritaði Mayflower-sáttmálann meðan skipið lá við akkeri þar sem nú er Provincetown Harbor. Sáttmálinn varð fyrsta stjórnskjal Plymouth-nýlendunnar.",
+    "texti": "Mayflower Compact, fyrsta stjórnarskrá Plymouth-nýlendunnar, var undirrituð af 41 farþega Mayflower á meðan skipið lá við akkeri í því sem nú er Provincetown Harbor.",
     "heimild": "https://en.wikipedia.org/wiki/Mayflower_Compact",
     "breidd": 330,
     "haed": 232
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-21"
 }

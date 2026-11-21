@@ -1,152 +1,152 @@
 {
-  "date": "2026-11-20",
-  "dagur": 20,
+  "date": "2026-11-21",
+  "dagur": 21,
   "manudur": "nóvember",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 324,
-  "sunrise": "10:12",
-  "sunset": "16:13",
-  "mmdd": "11-20",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 325,
+  "sunrise": "10:15",
+  "sunset": "16:10",
+  "mmdd": "11-21",
   "manudurNr": 11,
   "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 20. nóvember, er dagur sem sannarlega hefur markað spor í sögunni, allt frá konunglegum brúðkaupum til tæknibyltinga. Vonandi er veðrið gott hjá ykkur, og munum að njóta hvers dags – hann er jú sagan í dag!",
-  "nafnadagur": "Hildur",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 21. nóvember, er dagurinn fullur af sögulegum atburðum, allt frá undirritun Mayflower Compact til uppfinninga Edisons. Það er ljóst að þessi dagur hefur oft verið kveikjan að stórum breytingum, bæði góðum og slæmum. Vonandi verður ykkar dagur í dag í flokki þeirra góðu!",
+  "nafnadagur": "María",
   "atburdir": [
     {
-      "ar": "2003",
-      "texti": "Sjálfsmorðsárásarmenn sprengdu bresku ræðismannsskrifstofuna og höfuðstöðvar HSBC bankans í Istanbúl, sem kostaði 31 líf."
+      "ar": "1620",
+      "texti": "Mayflower Compact, fyrsta stjórnarskrá Plymouth-nýlendunnar, var undirrituð af 41 farþega Mayflower á meðan skipið lá við akkeri í því sem nú er Provincetown Harbor."
     },
     {
-      "ar": "1985",
-      "texti": "Windows 1.0, fyrsta útgáfa Microsoft Windows sem almenningur fékk aðgang að, kom út og breytti tölvuheiminum."
+      "ar": "1877",
+      "texti": "Thomas Edison tilkynnti uppfinningu sína á hljóðrita (phonograph), tæki sem gat tekið upp og spilað hljóð."
     },
     {
-      "ar": "1979",
-      "texti": "Vopnaðir uppreisnarmenn réðust inn í og hertóku Masjid al-Haram í Mekka og lýstu einum leiðtoga sínum sem Mahdi."
+      "ar": "1964",
+      "texti": "Verrazzano–Narrows brúin, sem tengir Staten Island og Brooklyn í New York borg, opnaði fyrir umferð og var þá lengsta hengibrú heims."
     },
     {
-      "ar": "1947",
-      "texti": "Elísabet prinsessa, dóttir Georgs VI konungs, giftist Philip Mountbatten liðsforingja, sem fékk titilinn hertogi af Edinborg."
+      "ar": "1977",
+      "texti": "„God Defend New Zealand“ varð annaður þjóðsöngur Nýja-Sjálands, jafn rétthár „God Save the King“, sem hafði verið hefðbundinn þjóðsöngur síðan 1840."
     },
     {
-      "ar": "1945",
-      "texti": "Nürnberg-réttarhöldin hófust yfir 24 helstu nasistum sem tóku þátt í Helförinni og ýmsum stríðsglæpum í síðari heimsstyrjöldinni."
+      "ar": "1980",
+      "texti": "Eldur braust út á MGM Grand Hotel á Las Vegas Strip í Paradise, Nevada, þar sem 85 manns létu lífið og 650 særðust."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1763",
-      "texti": "Dómkirkja var vígð á Hólum í Hjaltadal, sú sem enn stendur þar, byggð fyrir norskt og danskt gjafafé.",
-      "landshluti": "Norðurland"
+      "ar": "1393",
+      "texti": "Bardagi varð á Núpi í Dýrafirði á milli Björns Einarssonar í Vatnsfirði og Þórðar Sigmundssonar á Núpi þar sem tveir menn féllu og margir særðust. Menn Þórðar höfðu betur og flúði Björn í kirkju.",
+      "landshluti": "Vestfirðir"
     },
     {
-      "ar": "1772",
-      "texti": "Tveir bæir á Látraströnd urðu fyrir snjóflóði, fjórir menn fórust en einum var bjargað eftir tíu daga.",
-      "landshluti": "Norðurland"
+      "ar": "1869",
+      "texti": "Skotfélag Keflavíkur, eitt allra fyrsta íþróttafélag landsins, var stofnað.",
+      "landshluti": "Reykjanes"
     },
     {
-      "ar": "1959",
-      "texti": "Viðreisnarstjórnin tók við völdum undir forystu Ólafs Thors og sat lengur en nokkur önnur stjórn á Íslandi.",
-      "landshluti": "Landið allt"
+      "ar": "1931",
+      "texti": "Fyrsta leikritið var flutt í Ríkisútvarpinu, en þar voru leiknir kaflar úr Bóndanum á Hrauni eftir Jóhann Sigurjónsson.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2013",
-      "texti": "Lekamálið kom upp á Íslandi þegar Morgunblaðið og Fréttablaðið birtu upplýsingar úr minnisblaði frá Innanríkisráðuneytinu.",
+      "ar": "1984",
+      "texti": "Samkvæmt könnun Hagvangs á gildismati og mannlegum viðhorfum reyndust Íslendingar vera hamingjusamasta þjóð í heimi.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Joe Biden",
-      "starfsgrein": "forseti Bandaríkjanna",
-      "ar": "1942"
+      "nafn": "Goldie Hawn",
+      "starfsgrein": "bandarísk leikkona og söngkona",
+      "ar": "1945"
     },
     {
-      "nafn": "Robert F. Kennedy",
-      "starfsgrein": "bandarískur stjórnmálamaður og lögfræðingur",
-      "ar": "1925"
+      "nafn": "Harold Ramis",
+      "starfsgrein": "bandarískur leikari og leikstjóri",
+      "ar": "1944"
     },
     {
-      "nafn": "Joe Walsh",
-      "starfsgrein": "söngvari og gítarleikari",
-      "ar": "1947"
+      "nafn": "Voltaire",
+      "starfsgrein": "franskur rithöfundur og heimspekingur",
+      "ar": "1694"
     },
     {
-      "nafn": "Bo Derek",
-      "starfsgrein": "leikkona",
-      "ar": "1956"
+      "nafn": "René Magritte",
+      "starfsgrein": "belgískur málari",
+      "ar": "1898"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Ásthildur Lóa Þórsdóttir",
-      "starfsgrein": "stjórnmálakona",
-      "ar": "1966"
+      "nafn": "Björk Guðmundsdóttir",
+      "starfsgrein": "íslenskur tónlistarmaður",
+      "ar": "1965"
     },
     {
-      "nafn": "Sigríður Víðis Jónsdóttir",
-      "starfsgrein": "rithöfundur",
-      "ar": "1979"
+      "nafn": "Helgi Hóseasson",
+      "starfsgrein": "íslenskur mótmælandi",
+      "ar": "1919"
     },
     {
-      "nafn": "Kristín Svava Tómasdóttir",
-      "starfsgrein": "skáld",
-      "ar": "1985"
+      "nafn": "Arnljótur Ólafsson",
+      "starfsgrein": "hagfræðingur og stjórnmálamaður",
+      "ar": "1823"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða tæknibylting átti sér stað þennan dag árið 1985?",
+      "spurning": "Hvaða ár varð \"God Defend New Zealand\" annar þjóðsöngur Nýja-Sjálands?",
       "svor": [
-        "Fyrsti iPhone kom út",
-        "Windows 1.0 var gefið út",
-        "Netið var opnað almenningi",
-        "Fyrsti tölvuleikurinn var gefinn út"
+        "1977",
+        "1964",
+        "1980",
+        "1877"
       ],
-      "rett": 1,
-      "skyring": "Windows 1.0 markaði upphaf nýrrar tölvuöldar."
+      "rett": 0,
+      "skyring": "Árið 1977 fékk Nýja-Sjáland sinn annan þjóðsöng."
     },
     {
-      "spurning": "Hvaða mikilvægu réttarhöld hófust þennan dag árið 1945?",
+      "spurning": "Hvaða frægi Íslendingur fæddist 21. nóvember?",
       "svor": [
-        "Réttarhöldin yfir Al Capone",
-        "Nürnberg-réttarhöldin",
-        "Réttarhöldin yfir O.J. Simpson",
-        "Réttarhöldin yfir Charles Manson"
+        "Björk Guðmundsdóttir",
+        "Jónas Hallgrímsson",
+        "Halldór Laxness",
+        "Vigdís Finnbogadóttir"
       ],
-      "rett": 1,
-      "skyring": "Nürnberg-réttarhöldin voru mikilvægur áfangi í uppgjöri við stríðsglæpi."
+      "rett": 0,
+      "skyring": "Tónlistarkonan Björk á afmæli í dag!"
     },
     {
-      "spurning": "Hvaða bandaríski forseti fæddist þennan dag?",
+      "spurning": "Hvaða uppfinningu tilkynnti Thomas Edison þennan dag árið 1877?",
       "svor": [
-        "Donald Trump",
-        "Barack Obama",
-        "Joe Biden",
-        "George W. Bush"
+        "Hljóðritann (Phonograph)",
+        "Rafmagnsperuna",
+        "Kvikmyndavélina",
+        "Símtækið"
       ],
-      "rett": 2,
-      "skyring": "Joe Biden, 46. forseti Bandaríkjanna, fagnar afmæli sínu í dag."
+      "rett": 0,
+      "skyring": "Edison kynnti hljóðritann fyrir heiminum þennan dag."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Rocky IV (1985)",
+  "bio": "Love Actually (2003)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfum."
+    "ord": "Flumbra",
+    "skyring": "Klaufaleg eða ófim kona, eða stór og ólaglegur hlutur."
   },
-  "vissir_thu": "Hinn 20. nóvember 1820 sökkti stór hvalur bandaríska hvalveiðiskipinu Essex, atburður sem veitti innblástur að skáldsögunni Moby-Dick.",
-  "stjornuspa": "Sporðdreki, í dag gætir þú fundið fyrir óvæntum straumum í samskiptum. Vertu opinn fyrir nýjum hugmyndum – en ekki gleyma að halda í þína eigin sannfæringu!",
+  "vissir_thu": "Fyrsta símaskráin í heiminum mun hafa verið gefin út þennan dag árið 1878 í New Haven í Connecticut og innihélt nöfn 50 símnotenda.",
+  "stjornuspa": "Sporðdreki, í dag gætirðu fundið fyrir óvæntri orku til að taka til í skúffunum. Nýttu hana vel, því það er aldrei að vita hvaða fjársjóði þú finnur!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Location_map_Beyoglu-Besiktas-15-and-20-November-2003-bombings-Sisli.svg/500px-Location_map_Beyoglu-Besiktas-15-and-20-November-2003-bombings-Sisli.svg.png",
-    "ar": "2003",
-    "texti": "Sjálfsmorðsárásarmenn sprengdu bresku ræðismannsskrifstofuna og höfuðstöðvar HSBC bankans í Istanbúl, sem kostaði 31 líf.",
-    "heimild": "https://en.wikipedia.org/wiki/2003_Istanbul_bombings",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Mayflower_Compact_1620_cph.3g07155.jpg/500px-The_Mayflower_Compact_1620_cph.3g07155.jpg",
+    "ar": "1620",
+    "texti": "Mayflower Compact, fyrsta stjórnarskrá Plymouth-nýlendunnar, var undirrituð af 41 farþega Mayflower á meðan skipið lá við akkeri í því sem nú er Provincetown Harbor.",
+    "heimild": "https://en.wikipedia.org/wiki/Mayflower_Compact",
     "breidd": 330,
-    "haed": 289
+    "haed": 232
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-20",
-  "verdlag": "Árið 2000 kostaði eintak af Morgunblaðinu um 150 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 3.3-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-21",
+  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
