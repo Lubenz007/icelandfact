@@ -6,148 +6,148 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:17",
   "sunset": "16:08",
-  "kvedja": "Komdu sæll, kæri lesandi! Þennan dag finnum við sjóræningja í síðasta bardaganum, fyrsta tölvuteiknaða stórmyndin siglir á hvíta tjaldið og ungur Norðmaður mátar skákheiminn. Sagan kann svo sannarlega að blanda saman púðureyk, poppkorni og peðum.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 22. nóvember, og eins og sjá má á atburðum dagsins, þá er þetta dagur stórra ákvarðana og óvæntra atvika. Hvort sem það er að verða heimsmeistari í skák eða að lenda í sjóræningjum, þá er ljóst að það er aldrei lognmolla á þessum degi. Vonandi verður ykkar dagur rólegri, en ekki síður eftirminnilegur!",
+  "nafnadagur": "Cecilia",
   "atburdir": [
     {
-      "ar": "1574",
-      "texti": "Spænski landkönnuðurinn Juan Fernández fann eyjaklasa undan strönd Chile sem síðar var nefndur eftir honum. Það er býsna myndarleg landfræðileg nafngjöf."
+      "ar": "2013",
+      "texti": "Norski skákmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák."
     },
     {
-      "ar": "1718",
-      "texti": "Sjóræninginn Svartskeggur féll í bardaga við breska sjóliða undan strönd Norður-Karólínu. Þar lauk ævintýralegum ferli eins frægasta sjóræningja sögunnar."
-    },
-    {
-      "ar": "1873",
-      "texti": "Franska gufuskipið Ville du Havre rakst á skoskt járnseglskip á Norður-Atlantshafi og sökk. Alls létust 226 manns í slysinu."
+      "ar": "2005",
+      "texti": "Angela Merkel var kjörin kanslari Þýskalands af nýju sambandsþingi og varð fyrsta konan til að gegna því embætti."
     },
     {
       "ar": "1995",
-      "texti": "Toy Story var frumsýnd í bandarískum kvikmyndahúsum, fyrst allra kvikmynda í fullri lengd til að vera gerð eingöngu með tölvugerðu myndefni. Leikföngin höfðu greinilega beðið eftir því að tölvurnar næðu þeim."
+      "texti": "Kvikmyndin Toy Story, fyrsta kvikmyndin sem eingöngu var gerð með tölvuteikningum, var frumsýnd í Bandaríkjunum."
     },
     {
-      "ar": "2013",
-      "texti": "Norski stórmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák. Carlsen var aðeins 22 ára þegar hann settist í hásæti skákheimsins."
+      "ar": "1963",
+      "texti": "John F. Kennedy var myrtur í Dallas; nokkrum tímum síðar var varaforsetinn Lyndon B. Johnson svarinn í embætti sem 36. forseti Bandaríkjanna um borð í Air Force One."
+    },
+    {
+      "ar": "1718",
+      "texti": "Sjóræninginn Blackbeard var drepinn í bardaga af breskum sjóliðum undan strönd Norður-Karólínu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1228",
-      "texti": "Skip fórst við Vestmannaeyjar, en átján menn komust lífs af.",
-      "landshluti": "Suðurland"
+      "ar": "1907",
+      "texti": "Í Reykjavík fengu giftar konur kosningarétt og kjörgengi til sveitarstjórnar og nýttu sér það nokkrum mánuðum síðar.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1907",
-      "texti": "Giftar konur í Reykjavík fengu kosningarétt og kjörgengi til sveitarstjórnar og nýttu sér réttinn nokkrum mánuðum síðar.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Vegalög voru staðfest og kváðu þau á um að vinstri umferð væri í gildi á Íslandi, ákvörðun tekin með tilliti til kvenna sem riðu í söðli.",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1909",
+      "texti": "Björn Jónsson, ráðherra Íslands, vék bankastjórn Landsbankans úr starfi vegna „magvíslegrar, megnrar og óafsakanlegrar óreglu í starfsemi yðar í stjórn bankans og frámunarlega lélegs eftirlits með honum.“",
+      "landshluti": "Landið allt"
     },
     {
       "ar": "1986",
-      "texti": "Steingrímur Hermannsson, þáverandi forsætisráðherra, keypti fyrsta lottómiðann í Reykjavík. Þjóðin fékk þar með opinbert leyfi til að láta sig dreyma um sex réttar tölur.",
+      "texti": "Fyrsti lottómiðinn var keyptur í Reykjavík af Steingrími Hermannssyni, þáverandi forsætisráðherra.",
       "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1991",
-      "texti": "Línuskipið Eldhamar GK 13 strandaði á Hópsnesi við Grindavík og fimm af sex skipverjum fórust.",
-      "landshluti": "Reykjanes"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Billie Jean King",
-      "starfsgrein": "tennisleikari",
-      "ar": "1943"
+      "nafn": "Scarlett Johansson",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1984"
     },
     {
-      "nafn": "Auliʻi Cravalho",
-      "starfsgrein": "leikkona og söngkona",
-      "ar": "2000"
+      "nafn": "Jamie Lee Curtis",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1958"
     },
     {
-      "nafn": "Alden Ehrenreich",
-      "starfsgrein": "leikari",
-      "ar": "1989"
+      "nafn": "Mads Mikkelsen",
+      "starfsgrein": "danskur leikari",
+      "ar": "1965"
     },
     {
-      "nafn": "Abigail Adams",
-      "starfsgrein": "forsetafrú Bandaríkjanna",
-      "ar": "1744"
+      "nafn": "Mark Ruffalo",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1967"
     },
     {
-      "nafn": "Benjamin Britten",
-      "starfsgrein": "tónskáld, píanóleikari og hljómsveitarstjóri",
-      "ar": "1913"
+      "nafn": "Charles de Gaulle",
+      "starfsgrein": "forseti Frakklands",
+      "ar": "1890"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Axel Andrésson",
-      "starfsgrein": "knattspyrnumaður",
+      "starfsgrein": "íslenskur knattspyrnumaður",
       "ar": "1895"
     },
     {
       "nafn": "Ásgeir Elíasson",
-      "starfsgrein": "knattspyrnumaður og knattspyrnuþjálfari",
+      "starfsgrein": "íslenskur íþróttamaður og knattspyrnuþjálfari",
       "ar": "1949"
     },
     {
-      "nafn": "Kjartan Bjargmundsson",
-      "starfsgrein": "leikari",
-      "ar": "1956"
+      "nafn": "Halldór Jónsson",
+      "starfsgrein": "íslenskur stjórnmálamaður",
+      "ar": "1950"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða kvikmynd ruddi tölvugerðu leikföngunum leið á hvíta tjaldið árið 1995?",
+      "spurning": "Hvaða kvikmynd var frumsýnd á þessum degi árið 1995 og var fyrsta kvikmyndin sem eingöngu var gerð með tölvuteikningum?",
       "svor": [
-        "Toy Story",
         "Shrek",
+        "Toy Story",
         "Finding Nemo",
-        "The Lion King"
-      ],
-      "rett": 0,
-      "skyring": "Toy Story var fyrsta kvikmyndin í fullri lengd sem var gerð eingöngu með tölvugerðu myndefni."
-    },
-    {
-      "spurning": "Hver keypti fyrsta lottómiðann í Reykjavík árið 1986?",
-      "svor": [
-        "Vigdís Finnbogadóttir",
-        "Steingrímur Hermannsson",
-        "Davíð Oddsson",
-        "Ásgeir Elíasson"
+        "Monsters, Inc."
       ],
       "rett": 1,
-      "skyring": "Steingrímur Hermannsson forsætisráðherra fékk þann sögulega miða í hendur."
+      "skyring": "Toy Story ruddi brautina fyrir tölvuteiknaðar kvikmyndir."
     },
     {
-      "spurning": "Hvern sigraði Magnus Carlsen í heimsmeistaraeinvíginu í skák árið 2013?",
+      "spurning": "Hvaða mikilvæga réttindi fengu giftar konur í Reykjavík árið 1907?",
       "svor": [
-        "Garry Kasparov",
-        "Bobby Fischer",
-        "Viswanathan Anand",
-        "Vladimir Kramnik"
+        "Rétt til að keyra bíl",
+        "Kosningarétt og kjörgengi til sveitarstjórnar",
+        "Rétt til að eiga land",
+        "Rétt til að stunda háskólanám"
       ],
-      "rett": 2,
-      "skyring": "Carlsen lagði Viswanathan Anand að velli og varð heimsmeistari aðeins 22 ára."
+      "rett": 1,
+      "skyring": "Þetta var mikilvægur áfangi í baráttu kvenna fyrir jafnrétti á Íslandi."
+    },
+    {
+      "spurning": "Hver var drepinn í Dallas á þessum degi árið 1963?",
+      "svor": [
+        "Martin Luther King Jr.",
+        "John F. Kennedy",
+        "Elvis Presley",
+        "Marilyn Monroe"
+      ],
+      "rett": 1,
+      "skyring": "Morðið á John F. Kennedy forseta er einn af myrkustu köflum í sögu Bandaríkjanna."
     }
   ],
-  "tonlistUSA": "Lady – Kenny Rogers (1980)",
-  "tonlistUK": "Super Trouper – ABBA (1980)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
   "bio": "Toy Story (1995)",
   "ord_dagsins": {
-    "ord": "víking",
-    "skyring": "Orðið getur merkt sjóhernað eða ránsferð, eins og í orðasambandinu að fara í víking."
+    "ord": "yfirþyrmandi",
+    "skyring": "Sem er svo mikið eða sterkt að það tekur yfir allt annað, yfirgnæfandi."
   },
-  "vissir_thu": "Billie Jean King vann 39 risamótstitla á ferlinum, þar af 12 í einliðaleik.",
-  "stjornuspa": "Bogmaður, í dag ertu eins og landkönnuður með áttavita í annarri hendi og skákpeð í hinni. Stefndu óhræddur fram á við, en athugaðu fyrst hvort einhver hafi skipt kortinu út fyrir lottómiða.",
+  "vissir_thu": "Vinstri umferð var í gildi á Íslandi fram til ársins 1968, og ákvörðunin um hana árið 1907 var tekin með tilliti til kvenna sem riðu í söðli!",
+  "stjornuspa": "Bogmaður, í dag gætirðu fundið þig í óvæntum ævintýrum, kannski ekki með sjóræningjum, en jafnvel í spennandi skákpartíi. Leyfðu forvitninni að leiða þig en mundu að halda báðum fótum á jörðinni – eða í söðlinum, ef því er að skipta!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29_%28cropped%29.jpg/500px-Edward_Teach_Commonly_Call%27d_Black_Beard_%28bw%29_%28cropped%29.jpg",
-    "ar": "1718",
-    "texti": "Sjóræninginn Svartskeggur féll í bardaga við breska sjóliða undan strönd Norður-Karólínu. Þar lauk ævintýralegum ferli eins frægasta sjóræningja sögunnar.",
-    "heimild": "https://en.wikipedia.org/wiki/Blackbeard",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg/500px-Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg",
+    "ar": "2013",
+    "texti": "Norski skákmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák.",
+    "heimild": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
     "breidd": 330,
-    "haed": 474
+    "haed": 440
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-22"
 }

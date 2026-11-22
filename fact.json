@@ -1,152 +1,157 @@
 {
-  "date": "2026-11-21",
-  "dagur": 21,
+  "date": "2026-11-22",
+  "dagur": 22,
   "manudur": "nóvember",
-  "vikudagur": "Laugardagur",
-  "dagurArsins": 325,
-  "sunrise": "10:15",
-  "sunset": "16:10",
-  "mmdd": "11-21",
+  "vikudagur": "Sunnudagur",
+  "dagurArsins": 326,
+  "sunrise": "10:18",
+  "sunset": "16:08",
+  "mmdd": "11-22",
   "manudurNr": 11,
-  "stjornumerki": "Sporðdreki",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 21. nóvember, er dagurinn fullur af sögulegum atburðum, allt frá undirritun Mayflower Compact til uppfinninga Edisons. Það er ljóst að þessi dagur hefur oft verið kveikjan að stórum breytingum, bæði góðum og slæmum. Vonandi verður ykkar dagur í dag í flokki þeirra góðu!",
-  "nafnadagur": "María",
+  "stjornumerki": "Bogmaður",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 22. nóvember, og eins og sjá má á atburðum dagsins, þá er þetta dagur stórra ákvarðana og óvæntra atvika. Hvort sem það er að verða heimsmeistari í skák eða að lenda í sjóræningjum, þá er ljóst að það er aldrei lognmolla á þessum degi. Vonandi verður ykkar dagur rólegri, en ekki síður eftirminnilegur!",
+  "nafnadagur": "Cecilia",
   "atburdir": [
     {
-      "ar": "1620",
-      "texti": "Mayflower Compact, fyrsta stjórnarskrá Plymouth-nýlendunnar, var undirrituð af 41 farþega Mayflower á meðan skipið lá við akkeri í því sem nú er Provincetown Harbor."
+      "ar": "2013",
+      "texti": "Norski skákmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák."
     },
     {
-      "ar": "1877",
-      "texti": "Thomas Edison tilkynnti uppfinningu sína á hljóðrita (phonograph), tæki sem gat tekið upp og spilað hljóð."
+      "ar": "2005",
+      "texti": "Angela Merkel var kjörin kanslari Þýskalands af nýju sambandsþingi og varð fyrsta konan til að gegna því embætti."
     },
     {
-      "ar": "1964",
-      "texti": "Verrazzano–Narrows brúin, sem tengir Staten Island og Brooklyn í New York borg, opnaði fyrir umferð og var þá lengsta hengibrú heims."
+      "ar": "1995",
+      "texti": "Kvikmyndin Toy Story, fyrsta kvikmyndin sem eingöngu var gerð með tölvuteikningum, var frumsýnd í Bandaríkjunum."
     },
     {
-      "ar": "1977",
-      "texti": "„God Defend New Zealand“ varð annaður þjóðsöngur Nýja-Sjálands, jafn rétthár „God Save the King“, sem hafði verið hefðbundinn þjóðsöngur síðan 1840."
+      "ar": "1963",
+      "texti": "John F. Kennedy var myrtur í Dallas; nokkrum tímum síðar var varaforsetinn Lyndon B. Johnson svarinn í embætti sem 36. forseti Bandaríkjanna um borð í Air Force One."
     },
     {
-      "ar": "1980",
-      "texti": "Eldur braust út á MGM Grand Hotel á Las Vegas Strip í Paradise, Nevada, þar sem 85 manns létu lífið og 650 særðust."
+      "ar": "1718",
+      "texti": "Sjóræninginn Blackbeard var drepinn í bardaga af breskum sjóliðum undan strönd Norður-Karólínu."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1393",
-      "texti": "Bardagi varð á Núpi í Dýrafirði á milli Björns Einarssonar í Vatnsfirði og Þórðar Sigmundssonar á Núpi þar sem tveir menn féllu og margir særðust. Menn Þórðar höfðu betur og flúði Björn í kirkju.",
-      "landshluti": "Vestfirðir"
-    },
-    {
-      "ar": "1869",
-      "texti": "Skotfélag Keflavíkur, eitt allra fyrsta íþróttafélag landsins, var stofnað.",
-      "landshluti": "Reykjanes"
-    },
-    {
-      "ar": "1931",
-      "texti": "Fyrsta leikritið var flutt í Ríkisútvarpinu, en þar voru leiknir kaflar úr Bóndanum á Hrauni eftir Jóhann Sigurjónsson.",
+      "ar": "1907",
+      "texti": "Í Reykjavík fengu giftar konur kosningarétt og kjörgengi til sveitarstjórnar og nýttu sér það nokkrum mánuðum síðar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1984",
-      "texti": "Samkvæmt könnun Hagvangs á gildismati og mannlegum viðhorfum reyndust Íslendingar vera hamingjusamasta þjóð í heimi.",
+      "ar": "1907",
+      "texti": "Vegalög voru staðfest og kváðu þau á um að vinstri umferð væri í gildi á Íslandi, ákvörðun tekin með tilliti til kvenna sem riðu í söðli.",
       "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1909",
+      "texti": "Björn Jónsson, ráðherra Íslands, vék bankastjórn Landsbankans úr starfi vegna „magvíslegrar, megnrar og óafsakanlegrar óreglu í starfsemi yðar í stjórn bankans og frámunarlega lélegs eftirlits með honum.“",
+      "landshluti": "Landið allt"
+    },
+    {
+      "ar": "1986",
+      "texti": "Fyrsti lottómiðinn var keyptur í Reykjavík af Steingrími Hermannssyni, þáverandi forsætisráðherra.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Goldie Hawn",
-      "starfsgrein": "bandarísk leikkona og söngkona",
-      "ar": "1945"
+      "nafn": "Scarlett Johansson",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1984"
     },
     {
-      "nafn": "Harold Ramis",
-      "starfsgrein": "bandarískur leikari og leikstjóri",
-      "ar": "1944"
+      "nafn": "Jamie Lee Curtis",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1958"
     },
     {
-      "nafn": "Voltaire",
-      "starfsgrein": "franskur rithöfundur og heimspekingur",
-      "ar": "1694"
+      "nafn": "Mads Mikkelsen",
+      "starfsgrein": "danskur leikari",
+      "ar": "1965"
     },
     {
-      "nafn": "René Magritte",
-      "starfsgrein": "belgískur málari",
-      "ar": "1898"
+      "nafn": "Mark Ruffalo",
+      "starfsgrein": "bandarískur leikari",
+      "ar": "1967"
+    },
+    {
+      "nafn": "Charles de Gaulle",
+      "starfsgrein": "forseti Frakklands",
+      "ar": "1890"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Björk Guðmundsdóttir",
-      "starfsgrein": "íslenskur tónlistarmaður",
-      "ar": "1965"
+      "nafn": "Axel Andrésson",
+      "starfsgrein": "íslenskur knattspyrnumaður",
+      "ar": "1895"
     },
     {
-      "nafn": "Helgi Hóseasson",
-      "starfsgrein": "íslenskur mótmælandi",
-      "ar": "1919"
+      "nafn": "Ásgeir Elíasson",
+      "starfsgrein": "íslenskur íþróttamaður og knattspyrnuþjálfari",
+      "ar": "1949"
     },
     {
-      "nafn": "Arnljótur Ólafsson",
-      "starfsgrein": "hagfræðingur og stjórnmálamaður",
-      "ar": "1823"
+      "nafn": "Halldór Jónsson",
+      "starfsgrein": "íslenskur stjórnmálamaður",
+      "ar": "1950"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða ár varð \"God Defend New Zealand\" annar þjóðsöngur Nýja-Sjálands?",
+      "spurning": "Hvaða kvikmynd var frumsýnd á þessum degi árið 1995 og var fyrsta kvikmyndin sem eingöngu var gerð með tölvuteikningum?",
       "svor": [
-        "1977",
-        "1964",
-        "1980",
-        "1877"
+        "Shrek",
+        "Toy Story",
+        "Finding Nemo",
+        "Monsters, Inc."
       ],
-      "rett": 0,
-      "skyring": "Árið 1977 fékk Nýja-Sjáland sinn annan þjóðsöng."
+      "rett": 1,
+      "skyring": "Toy Story ruddi brautina fyrir tölvuteiknaðar kvikmyndir."
     },
     {
-      "spurning": "Hvaða frægi Íslendingur fæddist 21. nóvember?",
+      "spurning": "Hvaða mikilvæga réttindi fengu giftar konur í Reykjavík árið 1907?",
       "svor": [
-        "Björk Guðmundsdóttir",
-        "Jónas Hallgrímsson",
-        "Halldór Laxness",
-        "Vigdís Finnbogadóttir"
+        "Rétt til að keyra bíl",
+        "Kosningarétt og kjörgengi til sveitarstjórnar",
+        "Rétt til að eiga land",
+        "Rétt til að stunda háskólanám"
       ],
-      "rett": 0,
-      "skyring": "Tónlistarkonan Björk á afmæli í dag!"
+      "rett": 1,
+      "skyring": "Þetta var mikilvægur áfangi í baráttu kvenna fyrir jafnrétti á Íslandi."
     },
     {
-      "spurning": "Hvaða uppfinningu tilkynnti Thomas Edison þennan dag árið 1877?",
+      "spurning": "Hver var drepinn í Dallas á þessum degi árið 1963?",
       "svor": [
-        "Hljóðritann (Phonograph)",
-        "Rafmagnsperuna",
-        "Kvikmyndavélina",
-        "Símtækið"
+        "Martin Luther King Jr.",
+        "John F. Kennedy",
+        "Elvis Presley",
+        "Marilyn Monroe"
       ],
-      "rett": 0,
-      "skyring": "Edison kynnti hljóðritann fyrir heiminum þennan dag."
+      "rett": 1,
+      "skyring": "Morðið á John F. Kennedy forseta er einn af myrkustu köflum í sögu Bandaríkjanna."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Love Actually (2003)",
+  "bio": "Toy Story (1995)",
   "ord_dagsins": {
-    "ord": "Flumbra",
-    "skyring": "Klaufaleg eða ófim kona, eða stór og ólaglegur hlutur."
+    "ord": "yfirþyrmandi",
+    "skyring": "Sem er svo mikið eða sterkt að það tekur yfir allt annað, yfirgnæfandi."
   },
-  "vissir_thu": "Fyrsta símaskráin í heiminum mun hafa verið gefin út þennan dag árið 1878 í New Haven í Connecticut og innihélt nöfn 50 símnotenda.",
-  "stjornuspa": "Sporðdreki, í dag gætirðu fundið fyrir óvæntri orku til að taka til í skúffunum. Nýttu hana vel, því það er aldrei að vita hvaða fjársjóði þú finnur!",
+  "vissir_thu": "Vinstri umferð var í gildi á Íslandi fram til ársins 1968, og ákvörðunin um hana árið 1907 var tekin með tilliti til kvenna sem riðu í söðli!",
+  "stjornuspa": "Bogmaður, í dag gætirðu fundið þig í óvæntum ævintýrum, kannski ekki með sjóræningjum, en jafnvel í spennandi skákpartíi. Leyfðu forvitninni að leiða þig en mundu að halda báðum fótum á jörðinni – eða í söðlinum, ef því er að skipta!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/The_Mayflower_Compact_1620_cph.3g07155.jpg/500px-The_Mayflower_Compact_1620_cph.3g07155.jpg",
-    "ar": "1620",
-    "texti": "Mayflower Compact, fyrsta stjórnarskrá Plymouth-nýlendunnar, var undirrituð af 41 farþega Mayflower á meðan skipið lá við akkeri í því sem nú er Provincetown Harbor.",
-    "heimild": "https://en.wikipedia.org/wiki/Mayflower_Compact",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg/500px-Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg",
+    "ar": "2013",
+    "texti": "Norski skákmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák.",
+    "heimild": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
     "breidd": 330,
-    "haed": 232
+    "haed": 440
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-21",
-  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-22",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
