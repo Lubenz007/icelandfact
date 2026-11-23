@@ -1,157 +1,152 @@
 {
-  "date": "2026-11-22",
-  "dagur": 22,
+  "date": "2026-11-23",
+  "dagur": 23,
   "manudur": "nóvember",
-  "vikudagur": "Sunnudagur",
-  "dagurArsins": 326,
-  "sunrise": "10:18",
-  "sunset": "16:08",
-  "mmdd": "11-22",
+  "vikudagur": "Mánudagur",
+  "dagurArsins": 327,
+  "sunrise": "10:21",
+  "sunset": "16:05",
+  "mmdd": "11-23",
   "manudurNr": 11,
   "stjornumerki": "Bogmaður",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 22. nóvember, og eins og sjá má á atburðum dagsins, þá er þetta dagur stórra ákvarðana og óvæntra atvika. Hvort sem það er að verða heimsmeistari í skák eða að lenda í sjóræningjum, þá er ljóst að það er aldrei lognmolla á þessum degi. Vonandi verður ykkar dagur rólegri, en ekki síður eftirminnilegur!",
-  "nafnadagur": "Cecilia",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 23. nóvember, og eins og sjá má á atburðum dagsins, þá er þetta dagur mikilla breytinga og stórra uppgötvana. Hvort sem það er að kafa djúpt eða horfa langt út í geiminn, þá er alltaf eitthvað nýtt að læra. Njótið dagsins!",
+  "nafnadagur": "Klemens",
   "atburdir": [
     {
-      "ar": "2013",
-      "texti": "Norski skákmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák."
+      "ar": "2011",
+      "texti": "Eftir mánaðalöng mótmæli í Jemen samþykkti Ali Abdullah Saleh forseti að segja af sér, en hann lét síðar af völdum í febrúar 2012."
     },
     {
-      "ar": "2005",
-      "texti": "Angela Merkel var kjörin kanslari Þýskalands af nýju sambandsþingi og varð fyrsta konan til að gegna því embætti."
+      "ar": "2003",
+      "texti": "Rósabyltingin: Eduard Shevardnadze sagði af sér sem forseti Georgíu eftir vikna löng fjöldamótmæli vegna umdeildra kosningaúrslita."
     },
     {
-      "ar": "1995",
-      "texti": "Kvikmyndin Toy Story, fyrsta kvikmyndin sem eingöngu var gerð með tölvuteikningum, var frumsýnd í Bandaríkjunum."
+      "ar": "1996",
+      "texti": "Ethiopian Airlines flug 961 var rænt, en vélin varð síðan uppiskroppa með eldsneyti og hrapaði í Indlandshaf, þar sem 125 af 175 um borð létust."
     },
     {
       "ar": "1963",
-      "texti": "John F. Kennedy var myrtur í Dallas; nokkrum tímum síðar var varaforsetinn Lyndon B. Johnson svarinn í embætti sem 36. forseti Bandaríkjanna um borð í Air Force One."
+      "texti": "Fyrsti þáttur Doctor Who, lengstu vísindaskáldsöguþátta í heimi, var sýndur á BBC sjónvarpinu, með William Hartnell í aðalhlutverki sem fyrsta útfærsla titilpersónunnar."
     },
     {
-      "ar": "1718",
-      "texti": "Sjóræninginn Blackbeard var drepinn í bardaga af breskum sjóliðum undan strönd Norður-Karólínu."
+      "ar": "1924",
+      "texti": "New York Times birti sannanir frá Edwin Hubble sem sýndu fram á að Andrómeduþokan, sem áður var talin hluti af Vetrarbrautinni, er í raun önnur vetrarbraut."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1907",
-      "texti": "Í Reykjavík fengu giftar konur kosningarétt og kjörgengi til sveitarstjórnar og nýttu sér það nokkrum mánuðum síðar.",
+      "ar": "1838",
+      "texti": "Nýr kirkjugarður var vígður í Reykjavík, Hólavallagarður við Suðurgötu, sem er enn í fullu gildi í dag.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1907",
-      "texti": "Vegalög voru staðfest og kváðu þau á um að vinstri umferð væri í gildi á Íslandi, ákvörðun tekin með tilliti til kvenna sem riðu í söðli.",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1909",
-      "texti": "Björn Jónsson, ráðherra Íslands, vék bankastjórn Landsbankans úr starfi vegna „magvíslegrar, megnrar og óafsakanlegrar óreglu í starfsemi yðar í stjórn bankans og frámunarlega lélegs eftirlits með honum.“",
-      "landshluti": "Landið allt"
-    },
-    {
-      "ar": "1986",
-      "texti": "Fyrsti lottómiðinn var keyptur í Reykjavík af Steingrími Hermannssyni, þáverandi forsætisráðherra.",
+      "ar": "1916",
+      "texti": "Karlakór KFUM var stofnaður, en nafni hans var síðar breytt í Karlakórinn Fóstbræður, sem hefur glatt landsmenn með söng sínum í áratugi.",
       "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1939",
+      "texti": "Suðaustur af Íslandi var háð fyrsta sjóorrusta í seinni heimsstyrjöldinni, þar sem þýsk herskip sökktu breska skipinu HMS Rawalpindi og um 270 menn fórust.",
+      "landshluti": "Erlendis"
+    },
+    {
+      "ar": "1953",
+      "texti": "Félag íslenskra teiknara var stofnað, og hefur það síðan þá staðið vörð um hagsmuni og réttindi teiknara á Íslandi.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Scarlett Johansson",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1984"
+      "nafn": "Miley Cyrus",
+      "starfsgrein": "bandarísk söngkona og leikkona",
+      "ar": "1992"
     },
     {
-      "nafn": "Jamie Lee Curtis",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1958"
+      "nafn": "Vincent Cassel",
+      "starfsgrein": "franskur leikari",
+      "ar": "1966"
     },
     {
-      "nafn": "Mads Mikkelsen",
-      "starfsgrein": "danskur leikari",
-      "ar": "1965"
+      "nafn": "Boris Karloff",
+      "starfsgrein": "enskur leikari",
+      "ar": "1887"
     },
     {
-      "nafn": "Mark Ruffalo",
-      "starfsgrein": "bandarískur leikari",
-      "ar": "1967"
-    },
-    {
-      "nafn": "Charles de Gaulle",
-      "starfsgrein": "forseti Frakklands",
-      "ar": "1890"
+      "nafn": "Franklin Pierce",
+      "starfsgrein": "14. forseti Bandaríkjanna",
+      "ar": "1804"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Axel Andrésson",
-      "starfsgrein": "íslenskur knattspyrnumaður",
-      "ar": "1895"
+      "nafn": "Sturla Böðvarsson",
+      "starfsgrein": "íslenskur stjórnmálamaður",
+      "ar": "1945"
     },
     {
-      "nafn": "Ásgeir Elíasson",
-      "starfsgrein": "íslenskur íþróttamaður og knattspyrnuþjálfari",
+      "nafn": "Örn Bárður Jónsson",
+      "starfsgrein": "íslenskur prestur",
       "ar": "1949"
     },
     {
-      "nafn": "Halldór Jónsson",
+      "nafn": "Þórunn Egilsdóttir",
       "starfsgrein": "íslenskur stjórnmálamaður",
-      "ar": "1950"
+      "ar": "1964"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða kvikmynd var frumsýnd á þessum degi árið 1995 og var fyrsta kvikmyndin sem eingöngu var gerð með tölvuteikningum?",
+      "spurning": "Hvaða fræga vísindaskáldsöguþáttur hóf göngu sína þennan dag árið 1963?",
       "svor": [
-        "Shrek",
-        "Toy Story",
-        "Finding Nemo",
-        "Monsters, Inc."
+        "Star Trek",
+        "Doctor Who",
+        "The Twilight Zone",
+        "Battlestar Galactica"
       ],
       "rett": 1,
-      "skyring": "Toy Story ruddi brautina fyrir tölvuteiknaðar kvikmyndir."
+      "skyring": "Doctor Who hefur haldið áhorfendum spenntum í áratugi!"
     },
     {
-      "spurning": "Hvaða mikilvæga réttindi fengu giftar konur í Reykjavík árið 1907?",
+      "spurning": "Hvaða mikilvæga uppgötvun var birt í New York Times árið 1924?",
       "svor": [
-        "Rétt til að keyra bíl",
-        "Kosningarétt og kjörgengi til sveitarstjórnar",
-        "Rétt til að eiga land",
-        "Rétt til að stunda háskólanám"
+        "Að jörðin væri flöt",
+        "Að Andrómeduþokan væri önnur vetrarbraut",
+        "Að tunglið væri úr osti",
+        "Að sólkerfið væri ekki miðja alheimsins"
       ],
       "rett": 1,
-      "skyring": "Þetta var mikilvægur áfangi í baráttu kvenna fyrir jafnrétti á Íslandi."
+      "skyring": "Edwin Hubble breytti sýn okkar á alheiminn með þessari uppgötvun."
     },
     {
-      "spurning": "Hver var drepinn í Dallas á þessum degi árið 1963?",
+      "spurning": "Hvaða íslenski kirkjugarður var vígður í Reykjavík árið 1838?",
       "svor": [
-        "Martin Luther King Jr.",
-        "John F. Kennedy",
-        "Elvis Presley",
-        "Marilyn Monroe"
+        "Gufuneskirkjugarður",
+        "Fossvogskirkjugarður",
+        "Hólavallagarður",
+        "Víkurgarður"
       ],
-      "rett": 1,
-      "skyring": "Morðið á John F. Kennedy forseta er einn af myrkustu köflum í sögu Bandaríkjanna."
+      "rett": 2,
+      "skyring": "Hólavallagarður er einn af elstu og fallegustu kirkjugörðum landsins."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Toy Story (1995)",
+  "bio": "The Hunger Games: Catching Fire (2013)",
   "ord_dagsins": {
-    "ord": "yfirþyrmandi",
-    "skyring": "Sem er svo mikið eða sterkt að það tekur yfir allt annað, yfirgnæfandi."
+    "ord": "þrákelkni",
+    "skyring": "Þrákelkni lýsir því þegar einhver er óeðlilega þrjóskur eða fastur á sínu, jafnvel þegar rök mæla gegn því."
   },
-  "vissir_thu": "Vinstri umferð var í gildi á Íslandi fram til ársins 1968, og ákvörðunin um hana árið 1907 var tekin með tilliti til kvenna sem riðu í söðli!",
-  "stjornuspa": "Bogmaður, í dag gætirðu fundið þig í óvæntum ævintýrum, kannski ekki með sjóræningjum, en jafnvel í spennandi skákpartíi. Leyfðu forvitninni að leiða þig en mundu að halda báðum fótum á jörðinni – eða í söðlinum, ef því er að skipta!",
+  "vissir_thu": "Jacques Mayol, sem kafaði 100 metra djúpt árið 1976, var innblásturinn að kvikmyndinni The Big Blue.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig knúinn til að kafa djúpt í nýja þekkingu eða kanna nýjar vetrarbrautir – eða bara góða bók. Mundu að jafnvel stærstu uppgötvanir byrja oft með einni spurningu!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg/500px-Magnus_Carlsen_Tata_2023_-_71_%28cropped_v4%29.jpg",
-    "ar": "2013",
-    "texti": "Norski skákmeistarinn Magnus Carlsen sigraði Indverjann Viswanathan Anand og varð heimsmeistari í skák.",
-    "heimild": "https://en.wikipedia.org/wiki/Magnus_Carlsen",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/500px-Tunisian_Revolution_Protest.jpg",
+    "ar": "2011",
+    "texti": "Eftir mánaðalöng mótmæli í Jemen samþykkti Ali Abdullah Saleh forseti að segja af sér, en hann lét síðar af völdum í febrúar 2012.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab_Spring",
     "breidd": 330,
-    "haed": 440
+    "haed": 233
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-22",
-  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-23",
+  "verdlag": "Árið 1970 kostaði eintak af Morgunblaðinu um 10 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 1418-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }

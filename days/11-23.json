@@ -6,148 +6,143 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:20",
   "sunset": "16:06",
-  "kvedja": "Góðan og gleðilegan 23. nóvember! Í dag teygjum við okkur frá prentfrelsi Miltons alla leið út fyrir Vetrarbrautina með Hubble, með stuttu stoppi hjá Doctor Who — enda kann sagan vel að ferðast án þess að spyrja um fargjald.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 23. nóvember, og eins og sjá má á atburðum dagsins, þá er þetta dagur mikilla breytinga og stórra uppgötvana. Hvort sem það er að kafa djúpt eða horfa langt út í geiminn, þá er alltaf eitthvað nýtt að læra. Njótið dagsins!",
+  "nafnadagur": "Klemens",
   "atburdir": [
     {
-      "ar": "1644",
-      "texti": "John Milton gaf út Areopagitica, kraftmikla málsvörn gegn leyfisþvingunum og ritskoðun. Ritið varð síðar eitt kunnasta innlegg sögunnar í umræðuna um tjáningarfrelsi."
-    },
-    {
-      "ar": "1733",
-      "texti": "Þrælaðir Afríkumenn í dönsku Vestur-Indíum hófu uppreisn sem varð ein elsta og langlífasta þrælauppreisn í Ameríku."
-    },
-    {
-      "ar": "1924",
-      "texti": "The New York Times birti gögn Edwins Hubble sem sýndu að Andrómeduþokan væri í raun sjálfstæð vetrarbraut en ekki hluti af Vetrarbrautinni. Alheimurinn stækkaði þar með snarlega í hugum fólks, án þess þó að færa til einn einasta stól."
-    },
-    {
-      "ar": "1963",
-      "texti": "Fyrsti þáttur Doctor Who var sýndur á BBC, með William Hartnell í hlutverki fyrsta Doktorsins. Þættirnir urðu langlífasta vísindaskáldsagnasjónvarpssería heims."
+      "ar": "2011",
+      "texti": "Eftir mánaðalöng mótmæli í Jemen samþykkti Ali Abdullah Saleh forseti að segja af sér, en hann lét síðar af völdum í febrúar 2012."
     },
     {
       "ar": "2003",
-      "texti": "Eduard Shevardnadze sagði af sér sem forseti Georgíu eftir vikur af fjöldamótmælum vegna umdeildra kosninga. Atburðirnir urðu hápunktur Rósabyltingarinnar."
+      "texti": "Rósabyltingin: Eduard Shevardnadze sagði af sér sem forseti Georgíu eftir vikna löng fjöldamótmæli vegna umdeildra kosningaúrslita."
+    },
+    {
+      "ar": "1996",
+      "texti": "Ethiopian Airlines flug 961 var rænt, en vélin varð síðan uppiskroppa með eldsneyti og hrapaði í Indlandshaf, þar sem 125 af 175 um borð létust."
+    },
+    {
+      "ar": "1963",
+      "texti": "Fyrsti þáttur Doctor Who, lengstu vísindaskáldsöguþátta í heimi, var sýndur á BBC sjónvarpinu, með William Hartnell í aðalhlutverki sem fyrsta útfærsla titilpersónunnar."
+    },
+    {
+      "ar": "1924",
+      "texti": "New York Times birti sannanir frá Edwin Hubble sem sýndu fram á að Andrómeduþokan, sem áður var talin hluti af Vetrarbrautinni, er í raun önnur vetrarbraut."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1838",
-      "texti": "Nýr kirkjugarður Reykjavíkur, Hólavallagarður við Suðurgötu, var vígður.",
+      "texti": "Nýr kirkjugarður var vígður í Reykjavík, Hólavallagarður við Suðurgötu, sem er enn í fullu gildi í dag.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1916",
-      "texti": "Karlakór KFUM var stofnaður, en síðar fékk hann nafnið Karlakórinn Fóstbræður.",
+      "texti": "Karlakór KFUM var stofnaður, en nafni hans var síðar breytt í Karlakórinn Fóstbræður, sem hefur glatt landsmenn með söng sínum í áratugi.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1939",
-      "texti": "Suðaustur af Íslandi háðu þýsku herskipin Gneisenau og Scharnhorst fyrstu sjóorrustu heimsstyrjaldarinnar síðari og sökktu HMS Rawalpindi. Um 270 fórust en 23 var bjargað.",
+      "texti": "Suðaustur af Íslandi var háð fyrsta sjóorrusta í seinni heimsstyrjöldinni, þar sem þýsk herskip sökktu breska skipinu HMS Rawalpindi og um 270 menn fórust.",
       "landshluti": "Erlendis"
     },
     {
-      "ar": "2021",
-      "texti": "Blóðtaka úr blóðmerum var stöðvuð á fimm stöðum á Íslandi eftir að dýraverndunarsamtök birtu myndbönd af illri meðferð mera.",
+      "ar": "1953",
+      "texti": "Félag íslenskra teiknara var stofnað, og hefur það síðan þá staðið vörð um hagsmuni og réttindi teiknara á Íslandi.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
+      "nafn": "Miley Cyrus",
+      "starfsgrein": "bandarísk söngkona og leikkona",
+      "ar": "1992"
+    },
+    {
+      "nafn": "Vincent Cassel",
+      "starfsgrein": "franskur leikari",
+      "ar": "1966"
+    },
+    {
       "nafn": "Boris Karloff",
-      "starfsgrein": "leikari",
+      "starfsgrein": "enskur leikari",
       "ar": "1887"
     },
     {
-      "nafn": "Alf-Inge Haaland",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1972"
-    },
-    {
-      "nafn": "Alexis Ren",
-      "starfsgrein": "fyrirsæta, leikkona og samfélagsmiðlastjarna",
-      "ar": "1996"
-    },
-    {
-      "nafn": "Andrew Goodman",
-      "starfsgrein": "mannréttindasinni",
-      "ar": "1943"
-    },
-    {
-      "nafn": "Alfons 10. af Kastilíu",
-      "starfsgrein": "konungur",
-      "ar": "1221"
+      "nafn": "Franklin Pierce",
+      "starfsgrein": "14. forseti Bandaríkjanna",
+      "ar": "1804"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Sturla Böðvarsson",
-      "starfsgrein": "stjórnmálamaður",
+      "starfsgrein": "íslenskur stjórnmálamaður",
       "ar": "1945"
     },
     {
-      "nafn": "Þórunn Egilsdóttir",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1964"
+      "nafn": "Örn Bárður Jónsson",
+      "starfsgrein": "íslenskur prestur",
+      "ar": "1949"
     },
     {
-      "nafn": "Örn Bárður Jónsson",
-      "starfsgrein": "prestur",
-      "ar": "1949"
+      "nafn": "Þórunn Egilsdóttir",
+      "starfsgrein": "íslenskur stjórnmálamaður",
+      "ar": "1964"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða sjónvarpshetja steig fyrst inn í tímavél BBC árið 1963?",
+      "spurning": "Hvaða fræga vísindaskáldsöguþáttur hóf göngu sína þennan dag árið 1963?",
       "svor": [
+        "Star Trek",
         "Doctor Who",
-        "Sherlock Holmes",
-        "James Bond",
-        "Herkúles Poirot"
-      ],
-      "rett": 0,
-      "skyring": "Fyrsti þáttur Doctor Who var sýndur 23. nóvember 1963."
-    },
-    {
-      "spurning": "Hvað sýndu gögn Edwins Hubble um Andrómeduþokuna?",
-      "svor": [
-        "Að hún væri halastjarna",
-        "Að hún væri önnur vetrarbraut",
-        "Að hún væri tungl Júpíters",
-        "Að hún væri svarthol"
+        "The Twilight Zone",
+        "Battlestar Galactica"
       ],
       "rett": 1,
-      "skyring": "Hubble sýndi að Andrómeda væri sjálfstæð vetrarbraut utan Vetrarbrautarinnar."
+      "skyring": "Doctor Who hefur haldið áhorfendum spenntum í áratugi!"
     },
     {
-      "spurning": "Hvaða kór var upphaflega stofnaður sem Karlakór KFUM?",
+      "spurning": "Hvaða mikilvæga uppgötvun var birt í New York Times árið 1924?",
       "svor": [
-        "Karlakór Reykjavíkur",
-        "Karlakórinn Heimir",
-        "Karlakórinn Fóstbræður",
-        "Mótettukór Hallgrímskirkju"
+        "Að jörðin væri flöt",
+        "Að Andrómeduþokan væri önnur vetrarbraut",
+        "Að tunglið væri úr osti",
+        "Að sólkerfið væri ekki miðja alheimsins"
+      ],
+      "rett": 1,
+      "skyring": "Edwin Hubble breytti sýn okkar á alheiminn með þessari uppgötvun."
+    },
+    {
+      "spurning": "Hvaða íslenski kirkjugarður var vígður í Reykjavík árið 1838?",
+      "svor": [
+        "Gufuneskirkjugarður",
+        "Fossvogskirkjugarður",
+        "Hólavallagarður",
+        "Víkurgarður"
       ],
       "rett": 2,
-      "skyring": "Karlakór KFUM fékk síðar hið þjóðkunna nafn Karlakórinn Fóstbræður."
+      "skyring": "Hólavallagarður er einn af elstu og fallegustu kirkjugörðum landsins."
     }
   ],
-  "tonlistUSA": "When a Man Loves a Woman – Michael Bolton (1991)",
-  "tonlistUK": "Black or White – Michael Jackson (1991)",
-  "bio": "Harry Potter and the Philosopher's Stone (2001)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "The Hunger Games: Catching Fire (2013)",
   "ord_dagsins": {
-    "ord": "húm",
-    "skyring": "Húm er hálfrökkur eða dauf birta, einkum þegar dagur rennur saman við nótt."
+    "ord": "þrákelkni",
+    "skyring": "Þrákelkni lýsir því þegar einhver er óeðlilega þrjóskur eða fastur á sínu, jafnvel þegar rök mæla gegn því."
   },
-  "vissir_thu": "Doctor Who hóf göngu sína daginn eftir morðið á John F. Kennedy, og BBC endursýndi fyrsta þáttinn viku síðar þar sem fréttaflutningur hafði skyggt á frumsýninguna.",
-  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, víðan sjóndeildarhring og örlitla varúð áður en þú lofar að leysa öll vandamál heimsins fyrir hádegi. Tímavélin er í viðgerð, svo reyndu að mæta stundvíslega.",
+  "vissir_thu": "Jacques Mayol, sem kafaði 100 metra djúpt árið 1976, var innblásturinn að kvikmyndinni The Big Blue.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig knúinn til að kafa djúpt í nýja þekkingu eða kanna nýjar vetrarbrautir – eða bara góða bók. Mundu að jafnvel stærstu uppgötvanir byrja oft með einni spurningu!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg/500px-Battle_of_Naseby%2C_hand-coloured_copper_engraving.jpg",
-    "ar": "1644",
-    "texti": "John Milton gaf út Areopagitica, kraftmikla málsvörn gegn leyfisþvingunum og ritskoðun. Ritið varð síðar eitt kunnasta innlegg sögunnar í umræðuna um tjáningarfrelsi.",
-    "heimild": "https://en.wikipedia.org/wiki/English_Civil_War",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/500px-Tunisian_Revolution_Protest.jpg",
+    "ar": "2011",
+    "texti": "Eftir mánaðalöng mótmæli í Jemen samþykkti Ali Abdullah Saleh forseti að segja af sér, en hann lét síðar af völdum í febrúar 2012.",
+    "heimild": "https://en.wikipedia.org/wiki/Arab_Spring",
     "breidd": 330,
-    "haed": 186
+    "haed": 233
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-23"
 }
