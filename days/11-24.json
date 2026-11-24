@@ -6,77 +6,72 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:23",
   "sunset": "16:03",
-  "kvedja": "Góðan 24. nóvember! Í dag fylgjum við Darwin út úr prentsmiðjunni, D. B. Cooper út úr flugvél og íslenskum rjúpnaveiðimanni heim úr óveðri — sagan kann svo sannarlega að velja ólíkar útgönguleiðir. Haltu fast í kaffibollann og njóttu dagsins með glotti.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðiunnendur! Dagurinn í dag, 24. nóvember, er sannarlega fullur af óvæntum vendingum og sögulegum augnablikum. Frá jarðskjálftum til flugráns, og jafnvel til fæðingar kenninga sem breyttu heimsmynd okkar. Vonandi verður ykkar dagur aðeins rólegri en sumir þessara atburða, en jafnvel þótt hann sé það ekki, þá er alltaf gott að eiga góða bók til að kúra sig með. Njótið dagsins!",
+  "nafnadagur": "Flóra",
   "atburdir": [
     {
-      "ar": "1221",
-      "texti": "Genghis Khan sigraði uppreisnarprinsinn Jalal al-Din í orrustunni við Indus þegar Mongólar réðust inn í Khwarazm-veldið. Þetta var engin kurteisleg landamæraheimsókn."
-    },
-    {
       "ar": "1859",
-      "texti": "Rit Charles Darwin, Uppruni tegundanna, kom fyrst út og allt fyrsta upplagið seldist samdægurs. Þróunarkenningin þurfti greinilega engan langan aðlögunartíma á bókamarkaði."
+      "texti": "Bókin „On the Origin of Species“ eftir breska náttúrufræðinginn Charles Darwin kom út og seldist upp á fyrsta degi."
     },
     {
-      "ar": "1941",
-      "texti": "Nasistar stofnuðu Theresienstadt-gettóið, sem varð viðkomustaður á leið til útrýmingarbúða og var jafnframt notað í blekkingaráróðri um örlög gyðinga. Þar voru aldraðir og þekktir gyðingar meðal þeirra sem vistaðir voru við skelfilegar aðstæður."
+      "ar": "1963",
+      "texti": "Jack Ruby skaut og særði Lee Harvey Oswald til bana í beinni sjónvarpsútsendingu, en Oswald hafði myrt John F. Kennedy Bandaríkjaforseta, sem ýtti undir fjölda samsæriskenninga."
     },
     {
       "ar": "1971",
-      "texti": "Flugræninginn D. B. Cooper fékk 200.000 dollara í lausnargjald, stökk í fallhlíf úr afturenda farþegaflugvélar yfir norðvesturhluta Bandaríkjanna og hvarf. Málið er enn ein dularfyllsta ráðgáta bandarískrar glæpasögu."
+      "texti": "D.B. Cooper stökk með fallhlíf úr flugvél sem hann hafði rænt yfir Norðvestur-Kyrrahafi eftir að hafa fengið 200.000 dollara í lausnargjald, og hvarf sporlaust."
     },
     {
-      "ar": "2023",
-      "texti": "Höggmyndin Hibiscus Rising var afhjúpuð í Leeds til minningar um David Oluwale. Verkið reis sem litrík áminning um líf hans og arfleifð."
+      "ar": "1976",
+      "texti": "Jarðskjálfti upp á 7,3 á Richter skók austurhluta Tyrklands, eyðilagði flestar byggingar á svæðinu og olli að minnsta kosti 4.000 dauðsföllum."
+    },
+    {
+      "ar": "1941",
+      "texti": "Theresienstadt gettóið var stofnað sem millistöð á leið til útrýmingarbúða nasista og sem „eftirlaunabústaður“ fyrir aldraða og frammámenn í gyðingasamfélaginu til að blekkja þá varðandi lokalausnina."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1507",
-      "texti": "Með Möðruvallaréttarbót staðfesti konungur að allar réttarbætur Hákonar háleggs skyldu gilda á Íslandi.",
+      "texti": "Möðruvallaréttarbótin var staðfest, þar sem konungur kvað á um að allar réttarbætur Hákonar háleggs skyldu gilda á Íslandi.",
       "landshluti": "Landið allt"
     },
     {
+      "ar": "1848",
+      "texti": "Sérstök stjórnardeild um málefni Íslands var stofnuð í fyrsta sinn innan Kansellísins í Danmörku.",
+      "landshluti": "Erlendis"
+    },
+    {
       "ar": "1951",
-      "texti": "Útvarpsþátturinn Óskalög sjúklinga, í umsjá Björns R. Einarssonar, hóf göngu sína í Ríkisútvarpinu og varð síðar rótgróinn hluti íslenskrar útvarpsmenningar.",
+      "texti": "Þátturinn „Óskalög sjúklinga“ hóf göngu sína í Ríkisútvarpinu undir stjórn Björns R. Einarssonar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1972",
-      "texti": "Suðurlandsvegur frá Reykjavík til Selfoss var formlega tekinn í notkun eftir sex ára endurgerð — kærkomin tíðindi fyrir alla sem vildu komast austur án óþarflega mikils hristings.",
+      "texti": "Suðurlandsvegur frá Reykjavík til Selfoss var formlega tekinn í notkun eftir sex ára endurgerð.",
       "landshluti": "Suðurland"
-    },
-    {
-      "ar": "2012",
-      "texti": "Stjórnmálaflokkurinn Píratar var stofnaður á Íslandi og sigldi þar með inn á íslenskt stjórnmálasvið.",
-      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Billy Connolly",
-      "starfsgrein": "skoskur grínisti og leikari",
-      "ar": "1942"
+      "nafn": "Katherine Heigl",
+      "starfsgrein": "amerísk leikkona og framleiðandi",
+      "ar": "1978"
     },
     {
-      "nafn": "Baruch Spinoza",
-      "starfsgrein": "hollenskur heimspekingur og fræðimaður",
-      "ar": "1632"
+      "nafn": "Colin Hanks",
+      "starfsgrein": "amerískur leikari",
+      "ar": "1977"
     },
     {
-      "nafn": "Arundhati Roy",
-      "starfsgrein": "indverskur rithöfundur og aðgerðasinni",
-      "ar": "1961"
+      "nafn": "Lucky Luciano",
+      "starfsgrein": "ítalsk-amerískur mafíuforingi",
+      "ar": "1897"
     },
     {
-      "nafn": "Carlo Collodi",
-      "starfsgrein": "ítalskur rithöfundur og blaðamaður",
-      "ar": "1826"
-    },
-    {
-      "nafn": "Alfred Schnittke",
-      "starfsgrein": "þýsk-rússneskt tónskáld",
-      "ar": "1934"
+      "nafn": "Sarah Hyland",
+      "starfsgrein": "amerísk leikkona",
+      "ar": "1990"
     }
   ],
   "afmaeli_island": [
@@ -98,56 +93,56 @@
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða bók kom fyrst út 24. nóvember 1859 og seldist upp samdægurs?",
+      "spurning": "Hvaða bók Charles Darwins kom út þennan dag árið 1859?",
       "svor": [
-        "Uppruni tegundanna",
-        "Furðustrandir",
-        "Leyndardómar frumskógarins",
-        "Ferðin að miðju jarðar"
+        "On the Origin of Species",
+        "The Descent of Man",
+        "The Voyage of the Beagle",
+        "Expression of the Emotions in Man and Animals"
       ],
       "rett": 0,
-      "skyring": "Uppruni tegundanna eftir Charles Darwin hvarf úr hillunum strax á fyrsta degi."
+      "skyring": "Þessi fræga bók breytti heimsmyndinni!"
     },
     {
-      "spurning": "Hvað gerði D. B. Cooper eftir að hafa fengið 200.000 dollara í lausnargjald?",
+      "spurning": "Hvaða þáttur hóf göngu sína í Ríkisútvarpinu þennan dag árið 1951?",
       "svor": [
-        "Sigldi til Kanada",
-        "Stökk úr flugvélinni í fallhlíf",
-        "Faldi sig í farangursrýminu",
-        "Gaf sig fram við lögreglu"
+        "Óskalög sjúklinga",
+        "Rauða fjöðrin",
+        "Útvarpsleikhúsið",
+        "Víðsjá"
       ],
-      "rett": 1,
-      "skyring": "Cooper stökk úr afturenda flugvélarinnar og hvarf með eftirminnilega dularfullum hætti."
+      "rett": 0,
+      "skyring": "Óskalögin glöddu marga sjúklinga."
     },
     {
-      "spurning": "Hvaða íslenski stjórnmálaflokkur var stofnaður 24. nóvember 2012?",
+      "spurning": "Hver var skotinn til bana í beinni sjónvarpsútsendingu þennan dag árið 1963?",
       "svor": [
-        "Viðreisn",
-        "Alþýðuflokkurinn",
-        "Píratar",
-        "Framsóknarflokkurinn"
+        "Lee Harvey Oswald",
+        "John F. Kennedy",
+        "Jack Ruby",
+        "D.B. Cooper"
       ],
-      "rett": 2,
-      "skyring": "Píratar voru stofnaðir þennan dag árið 2012 og tóku fljótlega stefnuna á Alþingi."
+      "rett": 0,
+      "skyring": "Morðinginn var myrtur sjálfur, sem ýtti undir margar kenningar."
     }
   ],
-  "tonlistUSA": "When a Man Loves a Woman – Michael Bolton (1991)",
-  "tonlistUK": "Black or White – Michael Jackson (1991)",
-  "bio": "The Hunger Games: Catching Fire (2013)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "The Bodyguard (1992)",
   "ord_dagsins": {
-    "ord": "aftakaveður",
-    "skyring": "Aftakaveður er ákaflega slæmt og hættulegt veður, svo vont að jafnvel þrjóskasti göngumaður ætti að snúa við."
+    "ord": "skemill",
+    "skyring": "Lítill stóll eða kollur, oftast án baks og arma."
   },
-  "vissir_thu": "Fyrsta upplagið af Uppruna tegundanna eftir Charles Darwin seldist upp sama dag og bókin kom út, 24. nóvember 1859.",
-  "stjornuspa": "Bogmaður, í dag skaltu beina örinni hátt en kanna fyrst hvort D. B. Cooper sé að svífa yfir skotmarkinu. Gamalt útvarpslag eða góð bók gæti fært þér meiri lukku en stórfengleg áætlun krotað á servíettu.",
+  "vissir_thu": "D.B. Cooper, flugræninginn sem hvarf sporlaust þennan dag árið 1971, hefur aldrei fundist og málið er enn óleyst.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig í miðri óvæntri uppgötvun – kannski finnurðu týnda sokkinn sem þú hefur leitað að í marga mánuði! Vertu opin/n fyrir nýjum hugmyndum, þær gætu komið úr ólíklegustu áttum.",
   "mynd": {
     "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
     "ar": "1859",
-    "texti": "Rit Charles Darwin, Uppruni tegundanna, kom fyrst út og allt fyrsta upplagið seldist samdægurs. Þróunarkenningin þurfti greinilega engan langan aðlögunartíma á bókamarkaði.",
+    "texti": "Bókin „On the Origin of Species“ eftir breska náttúrufræðinginn Charles Darwin kom út og seldist upp á fyrsta degi.",
     "heimild": "https://en.wikipedia.org/wiki/Charles_Darwin",
     "breidd": 330,
     "haed": 434
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-24"
 }

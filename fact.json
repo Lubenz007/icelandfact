@@ -1,152 +1,152 @@
 {
-  "date": "2026-11-23",
-  "dagur": 23,
+  "date": "2026-11-24",
+  "dagur": 24,
   "manudur": "nóvember",
-  "vikudagur": "Mánudagur",
-  "dagurArsins": 327,
-  "sunrise": "10:21",
-  "sunset": "16:05",
-  "mmdd": "11-23",
+  "vikudagur": "Þriðjudagur",
+  "dagurArsins": 328,
+  "sunrise": "10:24",
+  "sunset": "16:03",
+  "mmdd": "11-24",
   "manudurNr": 11,
   "stjornumerki": "Bogmaður",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 23. nóvember, og eins og sjá má á atburðum dagsins, þá er þetta dagur mikilla breytinga og stórra uppgötvana. Hvort sem það er að kafa djúpt eða horfa langt út í geiminn, þá er alltaf eitthvað nýtt að læra. Njótið dagsins!",
-  "nafnadagur": "Klemens",
+  "kvedja": "Góðan daginn, kæru sagnfræðiunnendur! Dagurinn í dag, 24. nóvember, er sannarlega fullur af óvæntum vendingum og sögulegum augnablikum. Frá jarðskjálftum til flugráns, og jafnvel til fæðingar kenninga sem breyttu heimsmynd okkar. Vonandi verður ykkar dagur aðeins rólegri en sumir þessara atburða, en jafnvel þótt hann sé það ekki, þá er alltaf gott að eiga góða bók til að kúra sig með. Njótið dagsins!",
+  "nafnadagur": "Flóra",
   "atburdir": [
     {
-      "ar": "2011",
-      "texti": "Eftir mánaðalöng mótmæli í Jemen samþykkti Ali Abdullah Saleh forseti að segja af sér, en hann lét síðar af völdum í febrúar 2012."
-    },
-    {
-      "ar": "2003",
-      "texti": "Rósabyltingin: Eduard Shevardnadze sagði af sér sem forseti Georgíu eftir vikna löng fjöldamótmæli vegna umdeildra kosningaúrslita."
-    },
-    {
-      "ar": "1996",
-      "texti": "Ethiopian Airlines flug 961 var rænt, en vélin varð síðan uppiskroppa með eldsneyti og hrapaði í Indlandshaf, þar sem 125 af 175 um borð létust."
+      "ar": "1859",
+      "texti": "Bókin „On the Origin of Species“ eftir breska náttúrufræðinginn Charles Darwin kom út og seldist upp á fyrsta degi."
     },
     {
       "ar": "1963",
-      "texti": "Fyrsti þáttur Doctor Who, lengstu vísindaskáldsöguþátta í heimi, var sýndur á BBC sjónvarpinu, með William Hartnell í aðalhlutverki sem fyrsta útfærsla titilpersónunnar."
+      "texti": "Jack Ruby skaut og særði Lee Harvey Oswald til bana í beinni sjónvarpsútsendingu, en Oswald hafði myrt John F. Kennedy Bandaríkjaforseta, sem ýtti undir fjölda samsæriskenninga."
     },
     {
-      "ar": "1924",
-      "texti": "New York Times birti sannanir frá Edwin Hubble sem sýndu fram á að Andrómeduþokan, sem áður var talin hluti af Vetrarbrautinni, er í raun önnur vetrarbraut."
+      "ar": "1971",
+      "texti": "D.B. Cooper stökk með fallhlíf úr flugvél sem hann hafði rænt yfir Norðvestur-Kyrrahafi eftir að hafa fengið 200.000 dollara í lausnargjald, og hvarf sporlaust."
+    },
+    {
+      "ar": "1976",
+      "texti": "Jarðskjálfti upp á 7,3 á Richter skók austurhluta Tyrklands, eyðilagði flestar byggingar á svæðinu og olli að minnsta kosti 4.000 dauðsföllum."
+    },
+    {
+      "ar": "1941",
+      "texti": "Theresienstadt gettóið var stofnað sem millistöð á leið til útrýmingarbúða nasista og sem „eftirlaunabústaður“ fyrir aldraða og frammámenn í gyðingasamfélaginu til að blekkja þá varðandi lokalausnina."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1838",
-      "texti": "Nýr kirkjugarður var vígður í Reykjavík, Hólavallagarður við Suðurgötu, sem er enn í fullu gildi í dag.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1507",
+      "texti": "Möðruvallaréttarbótin var staðfest, þar sem konungur kvað á um að allar réttarbætur Hákonar háleggs skyldu gilda á Íslandi.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1916",
-      "texti": "Karlakór KFUM var stofnaður, en nafni hans var síðar breytt í Karlakórinn Fóstbræður, sem hefur glatt landsmenn með söng sínum í áratugi.",
-      "landshluti": "Höfuðborgarsvæðið"
-    },
-    {
-      "ar": "1939",
-      "texti": "Suðaustur af Íslandi var háð fyrsta sjóorrusta í seinni heimsstyrjöldinni, þar sem þýsk herskip sökktu breska skipinu HMS Rawalpindi og um 270 menn fórust.",
+      "ar": "1848",
+      "texti": "Sérstök stjórnardeild um málefni Íslands var stofnuð í fyrsta sinn innan Kansellísins í Danmörku.",
       "landshluti": "Erlendis"
     },
     {
-      "ar": "1953",
-      "texti": "Félag íslenskra teiknara var stofnað, og hefur það síðan þá staðið vörð um hagsmuni og réttindi teiknara á Íslandi.",
-      "landshluti": "Landið allt"
+      "ar": "1951",
+      "texti": "Þátturinn „Óskalög sjúklinga“ hóf göngu sína í Ríkisútvarpinu undir stjórn Björns R. Einarssonar.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1972",
+      "texti": "Suðurlandsvegur frá Reykjavík til Selfoss var formlega tekinn í notkun eftir sex ára endurgerð.",
+      "landshluti": "Suðurland"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Miley Cyrus",
-      "starfsgrein": "bandarísk söngkona og leikkona",
-      "ar": "1992"
+      "nafn": "Katherine Heigl",
+      "starfsgrein": "amerísk leikkona og framleiðandi",
+      "ar": "1978"
     },
     {
-      "nafn": "Vincent Cassel",
-      "starfsgrein": "franskur leikari",
-      "ar": "1966"
+      "nafn": "Colin Hanks",
+      "starfsgrein": "amerískur leikari",
+      "ar": "1977"
     },
     {
-      "nafn": "Boris Karloff",
-      "starfsgrein": "enskur leikari",
-      "ar": "1887"
+      "nafn": "Lucky Luciano",
+      "starfsgrein": "ítalsk-amerískur mafíuforingi",
+      "ar": "1897"
     },
     {
-      "nafn": "Franklin Pierce",
-      "starfsgrein": "14. forseti Bandaríkjanna",
-      "ar": "1804"
+      "nafn": "Sarah Hyland",
+      "starfsgrein": "amerísk leikkona",
+      "ar": "1990"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Sturla Böðvarsson",
-      "starfsgrein": "íslenskur stjórnmálamaður",
-      "ar": "1945"
+      "nafn": "Einar Kárason",
+      "starfsgrein": "rithöfundur og ljóðskáld",
+      "ar": "1955"
     },
     {
-      "nafn": "Örn Bárður Jónsson",
-      "starfsgrein": "íslenskur prestur",
-      "ar": "1949"
+      "nafn": "Kristín Helga Gunnarsdóttir",
+      "starfsgrein": "rithöfundur",
+      "ar": "1963"
     },
     {
-      "nafn": "Þórunn Egilsdóttir",
-      "starfsgrein": "íslenskur stjórnmálamaður",
-      "ar": "1964"
+      "nafn": "Halldóra Eldjárn",
+      "starfsgrein": "forsetafrú",
+      "ar": "1923"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða fræga vísindaskáldsöguþáttur hóf göngu sína þennan dag árið 1963?",
+      "spurning": "Hvaða bók Charles Darwins kom út þennan dag árið 1859?",
       "svor": [
-        "Star Trek",
-        "Doctor Who",
-        "The Twilight Zone",
-        "Battlestar Galactica"
+        "On the Origin of Species",
+        "The Descent of Man",
+        "The Voyage of the Beagle",
+        "Expression of the Emotions in Man and Animals"
       ],
-      "rett": 1,
-      "skyring": "Doctor Who hefur haldið áhorfendum spenntum í áratugi!"
+      "rett": 0,
+      "skyring": "Þessi fræga bók breytti heimsmyndinni!"
     },
     {
-      "spurning": "Hvaða mikilvæga uppgötvun var birt í New York Times árið 1924?",
+      "spurning": "Hvaða þáttur hóf göngu sína í Ríkisútvarpinu þennan dag árið 1951?",
       "svor": [
-        "Að jörðin væri flöt",
-        "Að Andrómeduþokan væri önnur vetrarbraut",
-        "Að tunglið væri úr osti",
-        "Að sólkerfið væri ekki miðja alheimsins"
+        "Óskalög sjúklinga",
+        "Rauða fjöðrin",
+        "Útvarpsleikhúsið",
+        "Víðsjá"
       ],
-      "rett": 1,
-      "skyring": "Edwin Hubble breytti sýn okkar á alheiminn með þessari uppgötvun."
+      "rett": 0,
+      "skyring": "Óskalögin glöddu marga sjúklinga."
     },
     {
-      "spurning": "Hvaða íslenski kirkjugarður var vígður í Reykjavík árið 1838?",
+      "spurning": "Hver var skotinn til bana í beinni sjónvarpsútsendingu þennan dag árið 1963?",
       "svor": [
-        "Gufuneskirkjugarður",
-        "Fossvogskirkjugarður",
-        "Hólavallagarður",
-        "Víkurgarður"
+        "Lee Harvey Oswald",
+        "John F. Kennedy",
+        "Jack Ruby",
+        "D.B. Cooper"
       ],
-      "rett": 2,
-      "skyring": "Hólavallagarður er einn af elstu og fallegustu kirkjugörðum landsins."
+      "rett": 0,
+      "skyring": "Morðinginn var myrtur sjálfur, sem ýtti undir margar kenningar."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "The Hunger Games: Catching Fire (2013)",
+  "bio": "The Bodyguard (1992)",
   "ord_dagsins": {
-    "ord": "þrákelkni",
-    "skyring": "Þrákelkni lýsir því þegar einhver er óeðlilega þrjóskur eða fastur á sínu, jafnvel þegar rök mæla gegn því."
+    "ord": "skemill",
+    "skyring": "Lítill stóll eða kollur, oftast án baks og arma."
   },
-  "vissir_thu": "Jacques Mayol, sem kafaði 100 metra djúpt árið 1976, var innblásturinn að kvikmyndinni The Big Blue.",
-  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig knúinn til að kafa djúpt í nýja þekkingu eða kanna nýjar vetrarbrautir – eða bara góða bók. Mundu að jafnvel stærstu uppgötvanir byrja oft með einni spurningu!",
+  "vissir_thu": "D.B. Cooper, flugræninginn sem hvarf sporlaust þennan dag árið 1971, hefur aldrei fundist og málið er enn óleyst.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig í miðri óvæntri uppgötvun – kannski finnurðu týnda sokkinn sem þú hefur leitað að í marga mánuði! Vertu opin/n fyrir nýjum hugmyndum, þær gætu komið úr ólíklegustu áttum.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tunisian_Revolution_Protest.jpg/500px-Tunisian_Revolution_Protest.jpg",
-    "ar": "2011",
-    "texti": "Eftir mánaðalöng mótmæli í Jemen samþykkti Ali Abdullah Saleh forseti að segja af sér, en hann lét síðar af völdum í febrúar 2012.",
-    "heimild": "https://en.wikipedia.org/wiki/Arab_Spring",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Charles_Darwin_seated_crop.jpg/500px-Charles_Darwin_seated_crop.jpg",
+    "ar": "1859",
+    "texti": "Bókin „On the Origin of Species“ eftir breska náttúrufræðinginn Charles Darwin kom út og seldist upp á fyrsta degi.",
+    "heimild": "https://en.wikipedia.org/wiki/Charles_Darwin",
     "breidd": 330,
-    "haed": 233
+    "haed": 434
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-23",
-  "verdlag": "Árið 1970 kostaði eintak af Morgunblaðinu um 10 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 1418-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-24",
+  "verdlag": "Árið 2006 kostaði eintak af Morgunblaðinu um 220 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 2.5-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
