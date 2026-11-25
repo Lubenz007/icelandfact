@@ -6,148 +6,143 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:26",
   "sunset": "16:01",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 25. nóvember mætast bílsmiðurinn Karl Benz, poppsveitin Band Aid og síðasti konungur Póllands í sérkennilegu sögulegu kaffiboði. Helltu upp á og komdu með — sagan er komin í gang.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Vonandi eruð þið ekki með hausverk eftir gærkvöldið, því í dag er 25. nóvember og sagan bíður ekki. Það er ýmislegt sem hefur gerst á þessum degi í gegnum tíðina, allt frá stórsigrum til sorglegra atburða. Fylgjumst með!",
+  "nafnadagur": "Katrín",
   "atburdir": [
     {
       "ar": "1491",
-      "texti": "Granadasamningurinn var undirritaður milli Kastilíu-Aragóníu og furstadæmisins Granada og batt í reynd enda á Granada-stríðið. Þar með var lokakafli endurheimtar kristinna ríkja á Íberíuskaga senn á enda."
-    },
-    {
-      "ar": "1795",
-      "texti": "Stanisław II Augustus, síðasti konungur Póllands, var neyddur til að segja af sér eftir þriðju skiptingu pólsk-litháíska samveldisins. Kórónan fór af höfðinu og ríkið hvarf af kortinu um skeið."
+      "texti": "Með undirritun Granada-sáttmálans lauk formlega Granada-stríðinu milli Kastilíu-Aragon og Granada-furstadæmisins, sem markaði endalok yfirráða Mára á Íberíuskaganum."
     },
     {
       "ar": "1885",
-      "texti": "Banff, elsti þjóðgarður Kanada, var stofnaður sem Banff Hot Springs Reserve. Heitar laugar og hrikaleg fjöll reyndust býsna traust uppskrift að þjóðargersemi."
+      "texti": "Banff þjóðgarðurinn, elsti þjóðgarður Kanada, var stofnaður sem Banff Hot Springs Reserve, og varð síðar einn frægasti þjóðgarður heims."
     },
     {
-      "ar": "1960",
-      "texti": "Þrjár Mirabal-systur, sem höfðu barist gegn einræði Rafaels Trujillo í Dóminíska lýðveldinu, voru barðar og kyrktar til bana. Minning þeirra varð síðar alþjóðlegt tákn baráttunnar gegn kynbundnu ofbeldi."
+      "ar": "1947",
+      "texti": "Í upphafi McCarthyismans samþykktu kvikmyndaver í Hollywood að setja tíu handritshöfunda og leikstjóra á svartan lista eftir að þeir neituðu að bera vitni fyrir nefnd um óameríska starfsemi."
+    },
+    {
+      "ar": "1970",
+      "texti": "Eftir að hafa mistekist að framkvæma herforingjauppreisn til að endurheimta völd keisarans í Japan, framdi rithöfundurinn Yukio Mishima og meðlimur úr herdeild hans helgisiðasjálfsmorð."
     },
     {
       "ar": "1984",
-      "texti": "Rúmlega þrjátíu þekktir breskir og írskir popptónlistarmenn komu saman sem Band Aid og tóku upp „Do They Know It's Christmas?“ Söfnunin átti að styðja fórnarlömb hungursneyðarinnar í Eþíópíu."
+      "texti": "Ofurhópurinn Band Aid, skipaður yfir 30 leiðandi breskum og írskum popptónlistarmönnum, tók upp lagið „Do They Know It's Christmas?“ til að safna fé fyrir hungursneyð í Eþíópíu."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1902",
-      "texti": "Stanley, fyrsti vélbáturinn á Íslandi, var sjósettur. Þar tók vélaraflið að ýta árinni kurteislega til hliðar.",
+      "texti": "Fyrsti vélbáturinn á Íslandi, Stanley, var sjósettur, sem markaði mikilvægan áfanga í íslenskri sjávarútvegssögu.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1940",
-      "texti": "Breska herstjórnin á Íslandi lýsti hafsvæðið milli Grænlands og Íslands hættusvæði og lokaði þar með fiskimiðum fyrir sjómönnum til 21. janúar 1941.",
+      "ar": "1937",
+      "texti": "Sjómannadagsráð var stofnað á Íslandi, en það hefur síðan þá staðið vörð um hagsmuni sjómanna og fjölskyldna þeirra.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1961",
-      "texti": "Sundlaug Vesturbæjar í Reykjavík var vígð og Vesturbæingar fengu nýjan stað til sundtaka, skrafs og heimspekilegra vangaveltna í heitu vatni.",
+      "texti": "Sundlaug Vesturbæjar í Reykjavík var vígð, og hefur síðan verið vinsæll samkomustaður og útivistarsvæði fyrir íbúa borgarinnar.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1989",
-      "texti": "Hellarannsóknafélag Íslands var stofnað í Reykjavík. Félagið beindi athyglinni niður á við, þar sem íslensk jarðsaga geymir ýmis leyndarmál.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1988",
+      "texti": "Í kjölfar áfengiskaupamálsins sagði forseti Hæstaréttar, Magnús Thoroddsen, af sér, atburður sem vakti mikla athygli á sínum tíma.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Christina Applegate",
-      "starfsgrein": "leikkona",
-      "ar": "1971"
-    },
-    {
-      "nafn": "Andrew Carnegie",
-      "starfsgrein": "iðnjöfur og mannvinur",
-      "ar": "1835"
-    },
-    {
-      "nafn": "Amy Grant",
-      "starfsgrein": "söngkona og lagahöfundur",
+      "nafn": "John F. Kennedy Jr.",
+      "starfsgrein": "bandarískur lögfræðingur og útgefandi",
       "ar": "1960"
     },
     {
-      "nafn": "Karl Benz",
-      "starfsgrein": "verkfræðingur og frumkvöðull",
-      "ar": "1844"
+      "nafn": "Christina Applegate",
+      "starfsgrein": "bandarísk leikkona",
+      "ar": "1971"
     },
     {
-      "nafn": "Pedri",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "2002"
+      "nafn": "Xabi Alonso",
+      "starfsgrein": "spænskur knattspyrnumaður og þjálfari",
+      "ar": "1981"
+    },
+    {
+      "nafn": "Joe DiMaggio",
+      "starfsgrein": "bandarískur hafnaboltamaður",
+      "ar": "1914"
     }
   ],
   "afmaeli_island": [
     {
       "nafn": "Annalísa Hermannsdóttir",
-      "starfsgrein": "leikkona",
+      "starfsgrein": "íslensk leikkona",
       "ar": "1997"
     },
     {
-      "nafn": "Jón Skaftason",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1926"
+      "nafn": "Jóhanna Egilsdóttir",
+      "starfsgrein": "íslenskur verkalýðsforingi",
+      "ar": "1881"
     },
     {
-      "nafn": "Jóhanna Egilsdóttir",
-      "starfsgrein": "verkalýðsforingi",
-      "ar": "1881"
+      "nafn": "Jón Sveinsson",
+      "starfsgrein": "fyrsti bæjarstjóri Akureyrar",
+      "ar": "1889"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða sveit stórstjarna tók upp góðgerðarlagið „Do They Know It's Christmas?“ árið 1984?",
+      "spurning": "Hvaða þjóðgarður var stofnaður í Kanada þennan dag árið 1885?",
       "svor": [
-        "Band Aid",
-        "One Direction",
-        "ABBA",
-        "Bee Gees"
-      ],
-      "rett": 0,
-      "skyring": "Band Aid safnaði saman rúmlega þrjátíu breskum og írskum poppstjörnum í hljóðverið."
-    },
-    {
-      "spurning": "Hvað hét fyrsti vélbáturinn sem sjósettur var á Íslandi?",
-      "svor": [
-        "Stanley",
-        "Banff",
-        "Carnegie",
-        "Granada"
-      ],
-      "rett": 0,
-      "skyring": "Stanley komst á flot árið 1902 og markaði tímamót í íslenskri útgerð."
-    },
-    {
-      "spurning": "Hver af afmælisbörnum dagsins var þýskur verkfræðingur og frumkvöðull í bílasmíði?",
-      "svor": [
-        "Andrew Carnegie",
-        "Karl Benz",
-        "Pedri",
-        "Ben Stein"
+        "Jasper þjóðgarðurinn",
+        "Banff þjóðgarðurinn",
+        "Yoho þjóðgarðurinn",
+        "Kootenay þjóðgarðurinn"
       ],
       "rett": 1,
-      "skyring": "Karl Benz fæddist árið 1844 og nafn hans ekur enn um götur heimsins."
+      "skyring": "Banff þjóðgarðurinn er elsti þjóðgarður Kanada og var stofnaður sem Banff Hot Springs Reserve."
+    },
+    {
+      "spurning": "Hvaða íslenska ráð var stofnað þennan dag árið 1937?",
+      "svor": [
+        "Bændasamtök Íslands",
+        "Sjómannadagsráð",
+        "Verkalýðsfélag Íslands",
+        "Íþróttasamband Íslands"
+      ],
+      "rett": 1,
+      "skyring": "Sjómannadagsráð hefur haldið uppi merkjum sjómanna í áratugi."
+    },
+    {
+      "spurning": "Hvaða bandaríski íþróttamaður, fæddur þennan dag, var frægur hafnaboltamaður?",
+      "svor": [
+        "Michael Jordan",
+        "Joe DiMaggio",
+        "Babe Ruth",
+        "Jackie Robinson"
+      ],
+      "rett": 1,
+      "skyring": "Joe DiMaggio var goðsögn í hafnaboltanum."
     }
   ],
-  "tonlistUSA": "Out of Touch – Daryl Hall & John Oates (1984)",
-  "tonlistUK": "I Should Have Known Better – Jim Diamond (1984)",
+  "tonlistUSA": "Like a Virgin – Madonna (1984)",
+  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
   "bio": "Pöddulíf (1998)",
   "ord_dagsins": {
-    "ord": "árbítur",
-    "skyring": "Árbítur er gamalt íslenskt orð yfir morgunverð eða máltíð sem snædd er árla dags."
+    "ord": "hrakfallabálkur",
+    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
   },
-  "vissir_thu": "Þrjár Mirabal-systur voru myrtar 25. nóvember 1960 og Sameinuðu þjóðirnar völdu síðar þennan dag sem alþjóðlegan baráttudag gegn kynbundnu ofbeldi.",
-  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, en ekki kaupa gufuknúinn framtíðarbíl af fyrsta manni sem bankar upp á. Gamalt bréf eða gleymd hljómplata gæti vakið ævintýraþrána — og nú máttu alveg fylgja henni.",
+  "vissir_thu": "Band Aid lagið „Do They Know It's Christmas?“ var samið á aðeins nokkrum dögum til að bregðast við hungursneyðinni í Eþíópíu.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið fyrir óvæntri löngun til að breyta heiminum – eða að minnsta kosti eldhúsinu þínu. Fylgdu innsæi þínu, en mundu að jafnvel bestu ætlunir þurfa stundum smá skipulag!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg/500px-20110729194309%21Battle_of_Las_Navas_de_Tolosa.jpg",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cantigas_battle.jpg/330px-Cantigas_battle.jpg",
     "ar": "1491",
-    "texti": "Granadasamningurinn var undirritaður milli Kastilíu-Aragóníu og furstadæmisins Granada og batt í reynd enda á Granada-stríðið. Þar með var lokakafli endurheimtar kristinna ríkja á Íberíuskaga senn á enda.",
+    "texti": "Með undirritun Granada-sáttmálans lauk formlega Granada-stríðinu milli Kastilíu-Aragon og Granada-furstadæmisins, sem markaði endalok yfirráða Mára á Íberíuskaganum.",
     "heimild": "https://en.wikipedia.org/wiki/Reconquista",
     "breidd": 330,
-    "haed": 246
+    "haed": 320
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-25"
 }
