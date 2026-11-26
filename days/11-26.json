@@ -6,148 +6,143 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:29",
   "sunset": "15:58",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 26. nóvember hittast gullræningjar, Marsbíll og Lína langsokkur í annálunum — samkvæmi sem jafnvel Bogmaðurinn hefði átt erfitt með að skipuleggja. Fáðu þér sopa, stilltu sögugleraugun og njóttu ferðarinnar.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 26. nóvember, er dagurinn fullur af óvæntum atburðum og merkilegum afmælisbörnum. Frá geimferðum til gullráns, og jafnvel smá rifrildi um íshokkí – það er ljóst að þessi dagur hefur aldrei verið leiðinlegur. Hver veit hvaða óvæntu uppákomur bíða okkar í dag?",
+  "nafnadagur": "Konráð",
   "atburdir": [
     {
-      "ar": "1852",
-      "texti": "Gífurlegur jarðskjálfti reið yfir Hollensku Austur-Indíur og framkallaði flóðbylgju sem sópaði burt þorpum, skipum og íbúum. Náttúran minnti þar harkalega á hver héldi í raun um stjórnartaumana."
-    },
-    {
-      "ar": "1917",
-      "texti": "Kanadísk íshokkífélög slitu sig frá National Hockey Association eftir þrálátar deilur við Eddie Livingstone og stofnuðu National Hockey League. NHL varð því til úr ágreiningi — býsna viðeigandi fyrir íþrótt þar sem menn mega stundum takast á með hnefunum."
-    },
-    {
-      "ar": "1942",
-      "texti": "Kvikmyndin Casablanca, með Humphrey Bogart og Ingrid Bergman, var frumsýnd í New York. Tímasetningin tengdist innrás bandamanna í Frönsku Norður-Afríku og töku borgarinnar Casablanca."
+      "ar": "2011",
+      "texti": "Mars Science Laboratory, geimferð NASA sem bar marsbílinn Curiosity, var skotið á loft frá Cape Canaveral."
     },
     {
       "ar": "1983",
-      "texti": "Sex ræningjar brutust inn í Brink's-Mat-vöruhúsið við Heathrow og stálu gulli, demöntum og reiðufé að verðmæti 26 milljónir punda. Þetta var enginn smá vasapeningur í fríhöfninni."
+      "texti": "Sex ræningjar brutust inn í Brink's-Mat vöruhús á Heathrow flugvelli í London og stálu 26 milljónum punda í gulli, demöntum og reiðufé."
     },
     {
-      "ar": "2011",
-      "texti": "NASA skaut Mars Science Laboratory-geimfarinu á loft frá Cape Canaveral með Marsbílinn Curiosity innanborðs. Forvitnin drap sem sagt ekki köttinn í þetta sinn — hún fór til Mars."
+      "ar": "1977",
+      "texti": "Ræðumaður sem sagðist vera fulltrúi „Stjörnuhópafélagsins“ truflaði útsendingu Southern Television í Suðaustur-Englandi."
+    },
+    {
+      "ar": "1965",
+      "texti": "Astérix, fyrsti franski gervihnötturinn, var skotið á braut með Diamant eldflaug frá Hammaguir í Alsír."
+    },
+    {
+      "ar": "1942",
+      "texti": "Kvikmyndin Casablanca, með Humphrey Bogart og Ingrid Bergman í aðalhlutverkum, var frumsýnd í Hollywood Theatre í New York til að falla saman við innrás Bandamanna í Frönsku Norður-Afríku og hernámi Casablanca."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1594",
-      "texti": "Gefin var út tilskipun um að Grallarinn, messusöngsbók Guðbrands Þorlákssonar Hólabiskups, skyldi notaður í báðum biskupsdæmum landsins.",
+      "texti": "Gefin var út tilskipun um að Grallarinn, messusöngsbók Guðbrands Þorlákssonar biskups á Hólum, skyldi notuð í báðum biskupsdæmunum.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1980",
-      "texti": "Geislavirkir, fyrsta breiðskífa Utangarðsmanna, kom út og íslenskt rokk fékk vænan rafstraum.",
+      "texti": "Fyrsta breiðskífa Utangarðsmanna, Geislavirkir, kom út.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1981",
-      "texti": "Dagblaðið og Vísir sameinuðust og útgáfa DV hófst. Tvö blöð urðu að einu, en fyrirsagnirnar urðu ekkert endilega hógværari.",
+      "texti": "Dagblaðið og Vísir sameinuðust og hófst þar með útgáfa DV.",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1993",
-      "texti": "Skilaboðaskjóðan eftir Þorvald Þorsteinsson var frumsýnd í Þjóðleikhúsinu og síðar kölluð „fullkomið listaverk“ í gagnrýni Morgunblaðsins.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "texti": "Skilaboðaskjóðan, leikrit eftir Þorvald Þorsteinsson, var frumsýnd í Þjóðleikhúsinu og var í gagnrýni Morgunblaðsins nefnd „fullkomið listaverk“.",
+      "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Aaron Wan-Bissaka",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1997"
+      "nafn": "Tina Turner",
+      "starfsgrein": "bandarísk-svíssnesk söngkona og leikkona",
+      "ar": "1939"
     },
     {
-      "nafn": "Anuel AA",
-      "starfsgrein": "rappari og söngvari",
-      "ar": "1992"
+      "nafn": "Rita Ora",
+      "starfsgrein": "kosóvósk-ensk söngkona og leikkona",
+      "ar": "1990"
     },
     {
-      "nafn": "Antonio Puerta",
-      "starfsgrein": "knattspyrnumaður",
-      "ar": "1984"
+      "nafn": "Charles M. Schulz",
+      "starfsgrein": "bandarískur skopmyndateiknari, skapaði Peanuts",
+      "ar": "1922"
     },
     {
-      "nafn": "Bruce Paltrow",
-      "starfsgrein": "leikstjóri og framleiðandi",
-      "ar": "1943"
-    },
-    {
-      "nafn": "Adolfo Pérez Esquivel",
-      "starfsgrein": "listamaður, mannréttindafrömuður og nóbelsverðlaunahafi",
-      "ar": "1931"
+      "nafn": "DJ Khaled",
+      "starfsgrein": "bandarískur rappari og upptökustjóri",
+      "ar": "1975"
     }
   ],
   "afmaeli_island": [
     {
+      "nafn": "Einar Eyjólfsson",
+      "starfsgrein": "íslenskur prestur",
+      "ar": "1958"
+    },
+    {
       "nafn": "Thor Thors",
-      "starfsgrein": "sendiherra",
+      "starfsgrein": "íslenskur sendiherra",
       "ar": "1903"
     },
     {
       "nafn": "Ingólfur Björn Sigurðsson",
-      "starfsgrein": "leikari",
+      "starfsgrein": "íslenskur leikari",
       "ar": "1950"
-    },
-    {
-      "nafn": "Einar Eyjólfsson",
-      "starfsgrein": "prestur",
-      "ar": "1958"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða geimfarþegi lagði af stað til Mars 26. nóvember 2011?",
+      "spurning": "Hvaða fræga kvikmynd var frumsýnd þennan dag árið 1942, til að falla saman við innrás Bandamanna í Norður-Afríku?",
       "svor": [
-        "Curiosity",
-        "InSight",
-        "Voyager 1",
-        "Apollo 11"
+        "Casablanca",
+        "Gone with the Wind",
+        "Citizen Kane",
+        "The Maltese Falcon"
       ],
       "rett": 0,
-      "skyring": "Curiosity var innanborðs í Mars Science Laboratory þegar því var skotið á loft."
+      "skyring": "Casablanca, með Humphrey Bogart og Ingrid Bergman, var frumsýnd þennan dag."
     },
     {
-      "spurning": "Hvaða íþróttadeild var stofnuð eftir deilur kanadískra félaga árið 1917?",
+      "spurning": "Hvaða íslenska hljómsveit gaf út sína fyrstu breiðskífu, Geislavirkir, þennan dag árið 1980?",
       "svor": [
-        "NBA",
-        "NHL",
-        "NFL",
-        "Formúla 1"
-      ],
-      "rett": 1,
-      "skyring": "NHL fæddist úr íshokkídeilum, enda getur núningur stundum skapað góðan hraða."
-    },
-    {
-      "spurning": "Hvaða íslenska hljómsveit gaf út breiðskífuna Geislavirkir árið 1980?",
-      "svor": [
-        "Stuðmenn",
-        "Þursaflokkurinn",
         "Utangarðsmenn",
-        "Sykurmolarnir"
+        "Fræbbblarnir",
+        "Egó",
+        "Patti Smith Group"
       ],
-      "rett": 2,
-      "skyring": "Geislavirkir var fyrsta breiðskífa Utangarðsmanna."
+      "rett": 0,
+      "skyring": "Utangarðsmenn gáfu út sína fyrstu breiðskífu, Geislavirkir, þennan dag."
+    },
+    {
+      "spurning": "Hvaða söngkona, fædd þennan dag árið 1939, var þekkt fyrir kraftmikla sviðsframkomu og smellinn „Proud Mary“?",
+      "svor": [
+        "Tina Turner",
+        "Aretha Franklin",
+        "Diana Ross",
+        "Whitney Houston"
+      ],
+      "rett": 0,
+      "skyring": "Tina Turner, rokkdrottningin, fagnaði afmæli sínu þennan dag."
     }
   ],
-  "tonlistUSA": "Anti-Hero – Taylor Swift (2022)",
-  "tonlistUK": "Anti-Hero – Taylor Swift (2022)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
   "bio": "Casablanca (1942)",
   "ord_dagsins": {
-    "ord": "grallari",
-    "skyring": "Grallari er gömul messusöngsbók með söngvum og tónum fyrir kirkjulegar athafnir."
+    "ord": "glotta",
+    "skyring": "Að brosa í laumi eða glettnislega, oft með smá háði."
   },
-  "vissir_thu": "Casablanca var frumsýnd í New York sama ár og hún gerist að mestu leyti, 1942, og frumsýningin var tímasett með hliðsjón af hernaðaraðgerðum bandamanna í Norður-Afríku.",
-  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, ferðalög og dálítið óþarfa sjálfstraust — helst í flauelsjakka. Ef einhver reynir að draga úr þér kjark skaltu minna viðkomandi á að Curiosity komst alla leið til Mars.",
+  "vissir_thu": "Fyrsta bókin í bókaflokknum Lína langsokkur eftir sænska rithöfundinn Astrid Lindgren kom út í Svíþjóð þennan dag árið 1945.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig í miðri óvæntri uppákomu, rétt eins og geimflaug á leið til Mars. Mundu að halda ró sinni og njóta ferðarinnar, jafnvel þótt hún sé full af óvæntum beygjum!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Eddie_Livingstone.jpg/500px-Eddie_Livingstone.jpg",
-    "ar": "1917",
-    "texti": "Kanadísk íshokkífélög slitu sig frá National Hockey Association eftir þrálátar deilur við Eddie Livingstone og stofnuðu National Hockey League. NHL varð því til úr ágreiningi — býsna viðeigandi fyrir íþrótt þar sem menn mega stundum takast á með hnefunum.",
-    "heimild": "https://en.wikipedia.org/wiki/Eddie_Livingstone",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/United_States_bombing_raid_over_a_German_city_-_NARA_-_197269.jpg/500px-United_States_bombing_raid_over_a_German_city_-_NARA_-_197269.jpg",
+    "ar": "2011",
+    "texti": "Mars Science Laboratory, geimferð NASA sem bar marsbílinn Curiosity, var skotið á loft frá Cape Canaveral.",
+    "heimild": "https://en.wikipedia.org/wiki/Friendly_fire",
     "breidd": 330,
-    "haed": 499
+    "haed": 268
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-26"
 }

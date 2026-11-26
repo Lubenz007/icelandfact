@@ -1,152 +1,152 @@
 {
-  "date": "2026-11-25",
-  "dagur": 25,
+  "date": "2026-11-26",
+  "dagur": 26,
   "manudur": "nóvember",
-  "vikudagur": "Miðvikudagur",
-  "dagurArsins": 329,
-  "sunrise": "10:27",
-  "sunset": "16:00",
-  "mmdd": "11-25",
+  "vikudagur": "Fimmtudagur",
+  "dagurArsins": 330,
+  "sunrise": "10:30",
+  "sunset": "15:58",
+  "mmdd": "11-26",
   "manudurNr": 11,
   "stjornumerki": "Bogmaður",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Vonandi eruð þið ekki með hausverk eftir gærkvöldið, því í dag er 25. nóvember og sagan bíður ekki. Það er ýmislegt sem hefur gerst á þessum degi í gegnum tíðina, allt frá stórsigrum til sorglegra atburða. Fylgjumst með!",
-  "nafnadagur": "Katrín",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 26. nóvember, er dagurinn fullur af óvæntum atburðum og merkilegum afmælisbörnum. Frá geimferðum til gullráns, og jafnvel smá rifrildi um íshokkí – það er ljóst að þessi dagur hefur aldrei verið leiðinlegur. Hver veit hvaða óvæntu uppákomur bíða okkar í dag?",
+  "nafnadagur": "Konráð",
   "atburdir": [
     {
-      "ar": "1491",
-      "texti": "Með undirritun Granada-sáttmálans lauk formlega Granada-stríðinu milli Kastilíu-Aragon og Granada-furstadæmisins, sem markaði endalok yfirráða Mára á Íberíuskaganum."
+      "ar": "2011",
+      "texti": "Mars Science Laboratory, geimferð NASA sem bar marsbílinn Curiosity, var skotið á loft frá Cape Canaveral."
     },
     {
-      "ar": "1885",
-      "texti": "Banff þjóðgarðurinn, elsti þjóðgarður Kanada, var stofnaður sem Banff Hot Springs Reserve, og varð síðar einn frægasti þjóðgarður heims."
+      "ar": "1983",
+      "texti": "Sex ræningjar brutust inn í Brink's-Mat vöruhús á Heathrow flugvelli í London og stálu 26 milljónum punda í gulli, demöntum og reiðufé."
     },
     {
-      "ar": "1947",
-      "texti": "Í upphafi McCarthyismans samþykktu kvikmyndaver í Hollywood að setja tíu handritshöfunda og leikstjóra á svartan lista eftir að þeir neituðu að bera vitni fyrir nefnd um óameríska starfsemi."
+      "ar": "1977",
+      "texti": "Ræðumaður sem sagðist vera fulltrúi „Stjörnuhópafélagsins“ truflaði útsendingu Southern Television í Suðaustur-Englandi."
     },
     {
-      "ar": "1970",
-      "texti": "Eftir að hafa mistekist að framkvæma herforingjauppreisn til að endurheimta völd keisarans í Japan, framdi rithöfundurinn Yukio Mishima og meðlimur úr herdeild hans helgisiðasjálfsmorð."
+      "ar": "1965",
+      "texti": "Astérix, fyrsti franski gervihnötturinn, var skotið á braut með Diamant eldflaug frá Hammaguir í Alsír."
     },
     {
-      "ar": "1984",
-      "texti": "Ofurhópurinn Band Aid, skipaður yfir 30 leiðandi breskum og írskum popptónlistarmönnum, tók upp lagið „Do They Know It's Christmas?“ til að safna fé fyrir hungursneyð í Eþíópíu."
+      "ar": "1942",
+      "texti": "Kvikmyndin Casablanca, með Humphrey Bogart og Ingrid Bergman í aðalhlutverkum, var frumsýnd í Hollywood Theatre í New York til að falla saman við innrás Bandamanna í Frönsku Norður-Afríku og hernámi Casablanca."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1902",
-      "texti": "Fyrsti vélbáturinn á Íslandi, Stanley, var sjósettur, sem markaði mikilvægan áfanga í íslenskri sjávarútvegssögu.",
+      "ar": "1594",
+      "texti": "Gefin var út tilskipun um að Grallarinn, messusöngsbók Guðbrands Þorlákssonar biskups á Hólum, skyldi notuð í báðum biskupsdæmunum.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1937",
-      "texti": "Sjómannadagsráð var stofnað á Íslandi, en það hefur síðan þá staðið vörð um hagsmuni sjómanna og fjölskyldna þeirra.",
+      "ar": "1980",
+      "texti": "Fyrsta breiðskífa Utangarðsmanna, Geislavirkir, kom út.",
       "landshluti": "Landið allt"
     },
     {
-      "ar": "1961",
-      "texti": "Sundlaug Vesturbæjar í Reykjavík var vígð, og hefur síðan verið vinsæll samkomustaður og útivistarsvæði fyrir íbúa borgarinnar.",
-      "landshluti": "Höfuðborgarsvæðið"
+      "ar": "1981",
+      "texti": "Dagblaðið og Vísir sameinuðust og hófst þar með útgáfa DV.",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1988",
-      "texti": "Í kjölfar áfengiskaupamálsins sagði forseti Hæstaréttar, Magnús Thoroddsen, af sér, atburður sem vakti mikla athygli á sínum tíma.",
+      "ar": "1993",
+      "texti": "Skilaboðaskjóðan, leikrit eftir Þorvald Þorsteinsson, var frumsýnd í Þjóðleikhúsinu og var í gagnrýni Morgunblaðsins nefnd „fullkomið listaverk“.",
       "landshluti": "Landið allt"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "John F. Kennedy Jr.",
-      "starfsgrein": "bandarískur lögfræðingur og útgefandi",
-      "ar": "1960"
+      "nafn": "Tina Turner",
+      "starfsgrein": "bandarísk-svíssnesk söngkona og leikkona",
+      "ar": "1939"
     },
     {
-      "nafn": "Christina Applegate",
-      "starfsgrein": "bandarísk leikkona",
-      "ar": "1971"
+      "nafn": "Rita Ora",
+      "starfsgrein": "kosóvósk-ensk söngkona og leikkona",
+      "ar": "1990"
     },
     {
-      "nafn": "Xabi Alonso",
-      "starfsgrein": "spænskur knattspyrnumaður og þjálfari",
-      "ar": "1981"
+      "nafn": "Charles M. Schulz",
+      "starfsgrein": "bandarískur skopmyndateiknari, skapaði Peanuts",
+      "ar": "1922"
     },
     {
-      "nafn": "Joe DiMaggio",
-      "starfsgrein": "bandarískur hafnaboltamaður",
-      "ar": "1914"
+      "nafn": "DJ Khaled",
+      "starfsgrein": "bandarískur rappari og upptökustjóri",
+      "ar": "1975"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Annalísa Hermannsdóttir",
-      "starfsgrein": "íslensk leikkona",
-      "ar": "1997"
+      "nafn": "Einar Eyjólfsson",
+      "starfsgrein": "íslenskur prestur",
+      "ar": "1958"
     },
     {
-      "nafn": "Jóhanna Egilsdóttir",
-      "starfsgrein": "íslenskur verkalýðsforingi",
-      "ar": "1881"
+      "nafn": "Thor Thors",
+      "starfsgrein": "íslenskur sendiherra",
+      "ar": "1903"
     },
     {
-      "nafn": "Jón Sveinsson",
-      "starfsgrein": "fyrsti bæjarstjóri Akureyrar",
-      "ar": "1889"
+      "nafn": "Ingólfur Björn Sigurðsson",
+      "starfsgrein": "íslenskur leikari",
+      "ar": "1950"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða þjóðgarður var stofnaður í Kanada þennan dag árið 1885?",
+      "spurning": "Hvaða fræga kvikmynd var frumsýnd þennan dag árið 1942, til að falla saman við innrás Bandamanna í Norður-Afríku?",
       "svor": [
-        "Jasper þjóðgarðurinn",
-        "Banff þjóðgarðurinn",
-        "Yoho þjóðgarðurinn",
-        "Kootenay þjóðgarðurinn"
+        "Casablanca",
+        "Gone with the Wind",
+        "Citizen Kane",
+        "The Maltese Falcon"
       ],
-      "rett": 1,
-      "skyring": "Banff þjóðgarðurinn er elsti þjóðgarður Kanada og var stofnaður sem Banff Hot Springs Reserve."
+      "rett": 0,
+      "skyring": "Casablanca, með Humphrey Bogart og Ingrid Bergman, var frumsýnd þennan dag."
     },
     {
-      "spurning": "Hvaða íslenska ráð var stofnað þennan dag árið 1937?",
+      "spurning": "Hvaða íslenska hljómsveit gaf út sína fyrstu breiðskífu, Geislavirkir, þennan dag árið 1980?",
       "svor": [
-        "Bændasamtök Íslands",
-        "Sjómannadagsráð",
-        "Verkalýðsfélag Íslands",
-        "Íþróttasamband Íslands"
+        "Utangarðsmenn",
+        "Fræbbblarnir",
+        "Egó",
+        "Patti Smith Group"
       ],
-      "rett": 1,
-      "skyring": "Sjómannadagsráð hefur haldið uppi merkjum sjómanna í áratugi."
+      "rett": 0,
+      "skyring": "Utangarðsmenn gáfu út sína fyrstu breiðskífu, Geislavirkir, þennan dag."
     },
     {
-      "spurning": "Hvaða bandaríski íþróttamaður, fæddur þennan dag, var frægur hafnaboltamaður?",
+      "spurning": "Hvaða söngkona, fædd þennan dag árið 1939, var þekkt fyrir kraftmikla sviðsframkomu og smellinn „Proud Mary“?",
       "svor": [
-        "Michael Jordan",
-        "Joe DiMaggio",
-        "Babe Ruth",
-        "Jackie Robinson"
+        "Tina Turner",
+        "Aretha Franklin",
+        "Diana Ross",
+        "Whitney Houston"
       ],
-      "rett": 1,
-      "skyring": "Joe DiMaggio var goðsögn í hafnaboltanum."
+      "rett": 0,
+      "skyring": "Tina Turner, rokkdrottningin, fagnaði afmæli sínu þennan dag."
     }
   ],
-  "tonlistUSA": "Like a Virgin – Madonna (1984)",
-  "tonlistUK": "Do They Know It's Christmas? – Band Aid (1984)",
-  "bio": "Pöddulíf (1998)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Casablanca (1942)",
   "ord_dagsins": {
-    "ord": "hrakfallabálkur",
-    "skyring": "Röð af óheppilegum atburðum eða ógæfu."
+    "ord": "glotta",
+    "skyring": "Að brosa í laumi eða glettnislega, oft með smá háði."
   },
-  "vissir_thu": "Band Aid lagið „Do They Know It's Christmas?“ var samið á aðeins nokkrum dögum til að bregðast við hungursneyðinni í Eþíópíu.",
-  "stjornuspa": "Bogmaður, í dag gætir þú fundið fyrir óvæntri löngun til að breyta heiminum – eða að minnsta kosti eldhúsinu þínu. Fylgdu innsæi þínu, en mundu að jafnvel bestu ætlunir þurfa stundum smá skipulag!",
+  "vissir_thu": "Fyrsta bókin í bókaflokknum Lína langsokkur eftir sænska rithöfundinn Astrid Lindgren kom út í Svíþjóð þennan dag árið 1945.",
+  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig í miðri óvæntri uppákomu, rétt eins og geimflaug á leið til Mars. Mundu að halda ró sinni og njóta ferðarinnar, jafnvel þótt hún sé full af óvæntum beygjum!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Cantigas_battle.jpg/330px-Cantigas_battle.jpg",
-    "ar": "1491",
-    "texti": "Með undirritun Granada-sáttmálans lauk formlega Granada-stríðinu milli Kastilíu-Aragon og Granada-furstadæmisins, sem markaði endalok yfirráða Mára á Íberíuskaganum.",
-    "heimild": "https://en.wikipedia.org/wiki/Reconquista",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/United_States_bombing_raid_over_a_German_city_-_NARA_-_197269.jpg/500px-United_States_bombing_raid_over_a_German_city_-_NARA_-_197269.jpg",
+    "ar": "2011",
+    "texti": "Mars Science Laboratory, geimferð NASA sem bar marsbílinn Curiosity, var skotið á loft frá Cape Canaveral.",
+    "heimild": "https://en.wikipedia.org/wiki/Friendly_fire",
     "breidd": 330,
-    "haed": 320
+    "haed": 268
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-25",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-26",
+  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
