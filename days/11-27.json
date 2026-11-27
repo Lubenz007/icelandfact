@@ -6,77 +6,72 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:32",
   "sunset": "15:56",
-  "kvedja": "Góðan 27. nóvember! Í dag siglum við frá sjóorrustu á Jangtse yfir í erfðaskrá Nobels og endum á silfurstökki Vilhjálms Einarssonar — sagan kann sannarlega að taka langstökk. Bogmenn mega því spenna bogann, en helst ekki skjóta kaffibollanum niður.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 27. nóvember og sagan er, eins og alltaf, full af óvæntum vendingum. Hvort sem þú ert að skipuleggja stórt verkefni eins og Alfred Nobel eða bara að njóta góðrar tónlistar, þá er þessi dagur fullur af innblæstri. Mundu að jafnvel minnstu atburðir geta haft stór áhrif!",
+  "nafnadagur": "Ólafur",
   "atburdir": [
     {
-      "ar": "1161",
-      "texti": "Floti Song-veldisins sigraði skip Jin-veldisins í sjóorrustu á Jangtsefljóti í Jin–Song-stríðunum. Fljótið var þar með bæði vígvöllur og samgönguæð, sem er heldur meira fjör en í venjulegri sunnudagssiglingu."
-    },
-    {
-      "ar": "1703",
-      "texti": "Ofsaveðrið mikla reið yfir sunnanvert Bretland og eyðilagði fyrsta Eddystone-vitann undan Plymouth. Veðrið var eitt hið versta sem vitað er til að hafi gengið yfir svæðið."
-    },
-    {
       "ar": "1895",
-      "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði erfðaskrá sína og ráðstafaði mestum hluta auðæfa sinna til stofnunar Nóbelsverðlaunanna. Fáar undirskriftir hafa síðar glatt jafn marga vísindamenn, rithöfunda og friðarsinna."
+      "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði sína síðustu erfðaskrá, þar sem hann setti mestan hluta eigna sinna til hliðar til að stofna Nóbelsverðlaunin eftir dauða sinn."
+    },
+    {
+      "ar": "1945",
+      "texti": "Samtök tuttugu og tveggja bandarískra góðgerðarsamtaka stofnuðu CARE með það verkefni að veita mataraðstoð til Evrópu í kjölfar síðari heimsstyrjaldarinnar."
     },
     {
       "ar": "1963",
-      "texti": "Lyndon B. Johnson Bandaríkjaforseti flutti ræðuna „Let Us Continue“ á sameiginlegum fundi Bandaríkjaþings, fimm dögum eftir morðið á John F. Kennedy. Þar hvatti hann til þjóðareiningar og framgangs borgararéttindalöggjafar."
+      "texti": "Fimm dögum eftir morðið á John F. Kennedy, flutti Lyndon B. Johnson forseti ræðuna „Let Us Continue“ þar sem hann talaði fyrir borgararéttindalöggjöf og þjóðareiningu á sameiginlegum fundi Bandaríkjaþings."
     },
     {
       "ar": "2001",
-      "texti": "Stjörnufræðingar tilkynntu að natríum hefði greinst í lofthjúpi fjarreikistjörnunnar HD 209458 b. Þetta var í fyrsta sinn sem lofthjúpur fjarreikistjörnu var mældur — afar fjarlægur ilmur af salti, ef svo má segja."
+      "texti": "Stjörnufræðingar tilkynntu um uppgötvun á natríum í lofthjúpi fjarreikistjörnunnar HD 209458 b, sem var fyrsti lofthjúpur fjarreikistjörnu til að vera mældur."
+    },
+    {
+      "ar": "2009",
+      "texti": "Lady Gaga hélt fyrstu tónleika sína á The Monster Ball tónleikaferðalaginu, sem varð tekjuhæsta tónleikaferðalag í sögu fyrir frumraun aðalnúmers."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1450",
-      "texti": "Kristján 1. gaf út Langaréttarbót í Kaupmannahöfn til að koma á friði og lögum á Íslandi. Þar var meðal annars bannaður ribbaldaskapur, gripdeildir og fjölmennar yfirreiðir valdsmanna.",
+      "texti": "Langaréttarbót var gerð í Kaupmannahöfn af Kristjáni konungi 1. í þeim tilgangi að koma á friði og lögum á Íslandi og bannaði hún ribbaldaskap og ránsferðir.",
       "landshluti": "Erlendis"
     },
     {
       "ar": "1857",
-      "texti": "Póstskipið Sölöven fórst undan Svörtuloftum og Drei Annas undan Mýrum, bæði með allri áhöfn og farþegum. Meðal þeirra sem fórust voru þekktir borgarar úr Reykjavík.",
+      "texti": "Tvö skip fórust með allri áhöfn og farþegum, póstskipið Sölöven undan Svörtuloftum og Drei Annas undan Mýrum, en meðal farþega voru þekktir borgarar í Reykjavík.",
       "landshluti": "Vesturland"
     },
     {
-      "ar": "1956",
-      "texti": "Vilhjálmur Einarsson, aðeins 22 ára, stökk 16,25 metra í þrístökki á Ólympíuleikunum í Melbourne. Stökkið var Íslands- og Norðurlandamet, Ólympíumet um stund og skilaði honum silfurverðlaunum.",
-      "landshluti": "Erlendis"
+      "ar": "1927",
+      "texti": "Ferðafélag Íslands var stofnað, sem hefur síðan þá verið mikilvægur drifkraftur í útivist og ferðalögum um landið.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2010",
-      "texti": "Kosningar til stjórnlagaþings fóru fram á Íslandi. Kjósendur fengu þar óvenju langan lista frambjóðenda til að glíma við í kjörklefanum.",
-      "landshluti": "Landið allt"
+      "ar": "1956",
+      "texti": "Vilhjálmur Einarsson setti Íslands- og Norðurlandamet í þrístökki á Ólympíuleikunum í Melbourne og vann silfurverðlaun, sem var stórkostlegur árangur.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Alison Pill",
-      "starfsgrein": "kanadísk leikkona",
-      "ar": "1985"
+      "nafn": "Bruce Lee",
+      "starfsgrein": "leikari og bardagalistamaður",
+      "ar": "1940"
     },
     {
-      "nafn": "Charlie Burchill",
-      "starfsgrein": "skoskur gítarleikari og lagahöfundur",
-      "ar": "1959"
+      "nafn": "Jimi Hendrix",
+      "starfsgrein": "söngvari, gítarleikari og upptökustjóri",
+      "ar": "1942"
     },
     {
-      "nafn": "Chaim Weizmann",
-      "starfsgrein": "efnafræðingur og fyrsti forseti Ísraels",
-      "ar": "1874"
+      "nafn": "Caroline Kennedy",
+      "starfsgrein": "lögfræðingur og sendiherra",
+      "ar": "1957"
     },
     {
-      "nafn": "Alexander Dubček",
-      "starfsgrein": "slóvakískur stjórnmálamaður",
-      "ar": "1921"
-    },
-    {
-      "nafn": "Anders Celsius",
-      "starfsgrein": "sænskur stjörnufræðingur, eðlisfræðingur og stærðfræðingur",
-      "ar": "1701"
+      "nafn": "Bill Nye",
+      "starfsgrein": "verkfræðingur, kennari og sjónvarpsmaður",
+      "ar": "1955"
     }
   ],
   "afmaeli_island": [
@@ -91,63 +86,63 @@
       "ar": "1932"
     },
     {
-      "nafn": "María Reyndal",
-      "starfsgrein": "leikkona og leikstjóri",
-      "ar": "1970"
+      "nafn": "Guðrún Björnsdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1853"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvað gerði Alfred Nobel hinn 27. nóvember 1895?",
+      "spurning": "Hver undirritaði erfðaskrá sína þann 27. nóvember 1895 og setti þar með grunninn að Nóbelsverðlaununum?",
       "svor": [
-        "Undirritaði erfðaskrána sem lagði grunn að Nóbelsverðlaununum",
-        "Fann upp hitamælinn",
-        "Varð forseti Svíþjóðar",
-        "Sigldi fyrstur yfir Atlantshafið"
+        "Alfred Nobel",
+        "George Armstrong Custer",
+        "William III",
+        "Lyndon B. Johnson"
       ],
       "rett": 0,
-      "skyring": "Erfðaskrá Nobels varð að einni kunnustu verðlaunasjóðshugmynd sögunnar."
+      "skyring": "Alfred Nobel, sænski uppfinningamaðurinn, átti hugmyndina að þessum virtustu verðlaunum."
     },
     {
-      "spurning": "Hversu langt stökk Vilhjálmur Einarsson í þrístökki á Ólympíuleikunum 1956?",
+      "spurning": "Hvaða íslenska félag var stofnað þann 27. nóvember 1927?",
       "svor": [
-        "15,75 metra",
-        "16,25 metra",
-        "16,95 metra",
-        "17,25 metra"
+        "Ferðafélag Íslands",
+        "Slysavarnarfélag Íslands",
+        "Björgunarsveitirnar",
+        "Náttúruverndarsamtök Íslands"
       ],
-      "rett": 1,
-      "skyring": "Stökkið upp á 16,25 metra færði Vilhjálmi silfur og Íslandi ógleymanlega íþróttastund."
+      "rett": 0,
+      "skyring": "Ferðafélag Íslands hefur glatt marga ferðalanga í áratugi."
     },
     {
-      "spurning": "Hvaða frumefni greindist í lofthjúpi fjarreikistjörnunnar HD 209458 b?",
+      "spurning": "Hver af eftirfarandi listamönnum fæddist þann 27. nóvember?",
       "svor": [
-        "Helín",
-        "Járn",
-        "Natríum",
-        "Kvikasilfur"
+        "Jimi Hendrix",
+        "Elvis Presley",
+        "Bob Dylan",
+        "Freddie Mercury"
       ],
-      "rett": 2,
-      "skyring": "Natríumið markaði fyrstu mælinguna á lofthjúpi fjarreikistjörnu."
+      "rett": 0,
+      "skyring": "Jimi Hendrix, goðsögnin á gítarnum, átti afmæli í dag."
     }
   ],
-  "tonlistUSA": "Truly – Lionel Richie (1982)",
-  "tonlistUK": "I Don't Wanna Dance – Eddy Grant (1982)",
-  "bio": "Frozen (2013)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "ribbaldaskapur",
-    "skyring": "Ribbaldaskapur merkir ósvífna óreglu, óspektir eða ofbeldisfullan yfirgang."
+    "ord": "skraufþurr",
+    "skyring": "Algjörlega þurr, svo þurr að það skraufar í."
   },
-  "vissir_thu": "Ólympíustökk Vilhjálms Einarssonar, 16,25 metrar, var nýtt Ólympíumet í nokkrar mínútur áður en Brasilíumaðurinn Adhemar da Silva stökk lengra.",
-  "stjornuspa": "Bogmaðurinn finnur gamalt snælduhulstur, gleymda símanúmerabók eða aðra retro-gersemi og túlkar það sem skilaboð frá örlögunum. Stjörnurnar mæla með djörfu skrefi, en minna á að jafnvel Vilhjálmur Einarsson þurfti almennilegt atrennuskeið.",
+  "vissir_thu": "Nóbelsverðlaunin eru veitt í fimm flokkum: eðlisfræði, efnafræði, lífeðlisfræði eða læknisfræði, bókmenntum og friði.",
+  "stjornuspa": "Bogmaður, í dag er dagur til að skjóta örvum þínum hátt! Vertu óhræddur við að kanna nýjar slóðir, en mundu að hafa báða fætur á jörðinni – eða allavega einn.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/500px-China_-_Song_Dynasty-en.svg.png",
-    "ar": "1161",
-    "texti": "Floti Song-veldisins sigraði skip Jin-veldisins í sjóorrustu á Jangtsefljóti í Jin–Song-stríðunum. Fljótið var þar með bæði vígvöllur og samgönguæð, sem er heldur meira fjör en í venjulegri sunnudagssiglingu.",
-    "heimild": "https://en.wikipedia.org/wiki/Song_dynasty",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/500px-Alfred_Nobel3.jpg",
+    "ar": "1895",
+    "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði sína síðustu erfðaskrá, þar sem hann setti mestan hluta eigna sinna til hliðar til að stofna Nóbelsverðlaunin eftir dauða sinn.",
+    "heimild": "https://en.wikipedia.org/wiki/Alfred_Nobel",
     "breidd": 330,
-    "haed": 324
+    "haed": 436
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-27"
 }

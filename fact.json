@@ -1,152 +1,152 @@
 {
-  "date": "2026-11-26",
-  "dagur": 26,
+  "date": "2026-11-27",
+  "dagur": 27,
   "manudur": "nóvember",
-  "vikudagur": "Fimmtudagur",
-  "dagurArsins": 330,
-  "sunrise": "10:30",
-  "sunset": "15:58",
-  "mmdd": "11-26",
+  "vikudagur": "Föstudagur",
+  "dagurArsins": 331,
+  "sunrise": "10:33",
+  "sunset": "15:56",
+  "mmdd": "11-27",
   "manudurNr": 11,
   "stjornumerki": "Bogmaður",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag, 26. nóvember, er dagurinn fullur af óvæntum atburðum og merkilegum afmælisbörnum. Frá geimferðum til gullráns, og jafnvel smá rifrildi um íshokkí – það er ljóst að þessi dagur hefur aldrei verið leiðinlegur. Hver veit hvaða óvæntu uppákomur bíða okkar í dag?",
-  "nafnadagur": "Konráð",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 27. nóvember og sagan er, eins og alltaf, full af óvæntum vendingum. Hvort sem þú ert að skipuleggja stórt verkefni eins og Alfred Nobel eða bara að njóta góðrar tónlistar, þá er þessi dagur fullur af innblæstri. Mundu að jafnvel minnstu atburðir geta haft stór áhrif!",
+  "nafnadagur": "Ólafur",
   "atburdir": [
     {
-      "ar": "2011",
-      "texti": "Mars Science Laboratory, geimferð NASA sem bar marsbílinn Curiosity, var skotið á loft frá Cape Canaveral."
+      "ar": "1895",
+      "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði sína síðustu erfðaskrá, þar sem hann setti mestan hluta eigna sinna til hliðar til að stofna Nóbelsverðlaunin eftir dauða sinn."
     },
     {
-      "ar": "1983",
-      "texti": "Sex ræningjar brutust inn í Brink's-Mat vöruhús á Heathrow flugvelli í London og stálu 26 milljónum punda í gulli, demöntum og reiðufé."
+      "ar": "1945",
+      "texti": "Samtök tuttugu og tveggja bandarískra góðgerðarsamtaka stofnuðu CARE með það verkefni að veita mataraðstoð til Evrópu í kjölfar síðari heimsstyrjaldarinnar."
     },
     {
-      "ar": "1977",
-      "texti": "Ræðumaður sem sagðist vera fulltrúi „Stjörnuhópafélagsins“ truflaði útsendingu Southern Television í Suðaustur-Englandi."
+      "ar": "1963",
+      "texti": "Fimm dögum eftir morðið á John F. Kennedy, flutti Lyndon B. Johnson forseti ræðuna „Let Us Continue“ þar sem hann talaði fyrir borgararéttindalöggjöf og þjóðareiningu á sameiginlegum fundi Bandaríkjaþings."
     },
     {
-      "ar": "1965",
-      "texti": "Astérix, fyrsti franski gervihnötturinn, var skotið á braut með Diamant eldflaug frá Hammaguir í Alsír."
+      "ar": "2001",
+      "texti": "Stjörnufræðingar tilkynntu um uppgötvun á natríum í lofthjúpi fjarreikistjörnunnar HD 209458 b, sem var fyrsti lofthjúpur fjarreikistjörnu til að vera mældur."
     },
     {
-      "ar": "1942",
-      "texti": "Kvikmyndin Casablanca, með Humphrey Bogart og Ingrid Bergman í aðalhlutverkum, var frumsýnd í Hollywood Theatre í New York til að falla saman við innrás Bandamanna í Frönsku Norður-Afríku og hernámi Casablanca."
+      "ar": "2009",
+      "texti": "Lady Gaga hélt fyrstu tónleika sína á The Monster Ball tónleikaferðalaginu, sem varð tekjuhæsta tónleikaferðalag í sögu fyrir frumraun aðalnúmers."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1594",
-      "texti": "Gefin var út tilskipun um að Grallarinn, messusöngsbók Guðbrands Þorlákssonar biskups á Hólum, skyldi notuð í báðum biskupsdæmunum.",
-      "landshluti": "Landið allt"
+      "ar": "1450",
+      "texti": "Langaréttarbót var gerð í Kaupmannahöfn af Kristjáni konungi 1. í þeim tilgangi að koma á friði og lögum á Íslandi og bannaði hún ribbaldaskap og ránsferðir.",
+      "landshluti": "Erlendis"
     },
     {
-      "ar": "1980",
-      "texti": "Fyrsta breiðskífa Utangarðsmanna, Geislavirkir, kom út.",
-      "landshluti": "Landið allt"
+      "ar": "1857",
+      "texti": "Tvö skip fórust með allri áhöfn og farþegum, póstskipið Sölöven undan Svörtuloftum og Drei Annas undan Mýrum, en meðal farþega voru þekktir borgarar í Reykjavík.",
+      "landshluti": "Vesturland"
     },
     {
-      "ar": "1981",
-      "texti": "Dagblaðið og Vísir sameinuðust og hófst þar með útgáfa DV.",
-      "landshluti": "Landið allt"
+      "ar": "1927",
+      "texti": "Ferðafélag Íslands var stofnað, sem hefur síðan þá verið mikilvægur drifkraftur í útivist og ferðalögum um landið.",
+      "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1993",
-      "texti": "Skilaboðaskjóðan, leikrit eftir Þorvald Þorsteinsson, var frumsýnd í Þjóðleikhúsinu og var í gagnrýni Morgunblaðsins nefnd „fullkomið listaverk“.",
-      "landshluti": "Landið allt"
+      "ar": "1956",
+      "texti": "Vilhjálmur Einarsson setti Íslands- og Norðurlandamet í þrístökki á Ólympíuleikunum í Melbourne og vann silfurverðlaun, sem var stórkostlegur árangur.",
+      "landshluti": "Erlendis"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Tina Turner",
-      "starfsgrein": "bandarísk-svíssnesk söngkona og leikkona",
-      "ar": "1939"
+      "nafn": "Bruce Lee",
+      "starfsgrein": "leikari og bardagalistamaður",
+      "ar": "1940"
     },
     {
-      "nafn": "Rita Ora",
-      "starfsgrein": "kosóvósk-ensk söngkona og leikkona",
-      "ar": "1990"
+      "nafn": "Jimi Hendrix",
+      "starfsgrein": "söngvari, gítarleikari og upptökustjóri",
+      "ar": "1942"
     },
     {
-      "nafn": "Charles M. Schulz",
-      "starfsgrein": "bandarískur skopmyndateiknari, skapaði Peanuts",
-      "ar": "1922"
+      "nafn": "Caroline Kennedy",
+      "starfsgrein": "lögfræðingur og sendiherra",
+      "ar": "1957"
     },
     {
-      "nafn": "DJ Khaled",
-      "starfsgrein": "bandarískur rappari og upptökustjóri",
-      "ar": "1975"
+      "nafn": "Bill Nye",
+      "starfsgrein": "verkfræðingur, kennari og sjónvarpsmaður",
+      "ar": "1955"
     }
   ],
   "afmaeli_island": [
     {
-      "nafn": "Einar Eyjólfsson",
-      "starfsgrein": "íslenskur prestur",
-      "ar": "1958"
+      "nafn": "Edda Heiðrún Backman",
+      "starfsgrein": "leikkona",
+      "ar": "1957"
     },
     {
-      "nafn": "Thor Thors",
-      "starfsgrein": "íslenskur sendiherra",
-      "ar": "1903"
+      "nafn": "Elsa G. Vilmundardóttir",
+      "starfsgrein": "jarðfræðingur",
+      "ar": "1932"
     },
     {
-      "nafn": "Ingólfur Björn Sigurðsson",
-      "starfsgrein": "íslenskur leikari",
-      "ar": "1950"
+      "nafn": "Guðrún Björnsdóttir",
+      "starfsgrein": "stjórnmálamaður",
+      "ar": "1853"
     }
   ],
   "spurningar": [
     {
-      "spurning": "Hvaða fræga kvikmynd var frumsýnd þennan dag árið 1942, til að falla saman við innrás Bandamanna í Norður-Afríku?",
+      "spurning": "Hver undirritaði erfðaskrá sína þann 27. nóvember 1895 og setti þar með grunninn að Nóbelsverðlaununum?",
       "svor": [
-        "Casablanca",
-        "Gone with the Wind",
-        "Citizen Kane",
-        "The Maltese Falcon"
+        "Alfred Nobel",
+        "George Armstrong Custer",
+        "William III",
+        "Lyndon B. Johnson"
       ],
       "rett": 0,
-      "skyring": "Casablanca, með Humphrey Bogart og Ingrid Bergman, var frumsýnd þennan dag."
+      "skyring": "Alfred Nobel, sænski uppfinningamaðurinn, átti hugmyndina að þessum virtustu verðlaunum."
     },
     {
-      "spurning": "Hvaða íslenska hljómsveit gaf út sína fyrstu breiðskífu, Geislavirkir, þennan dag árið 1980?",
+      "spurning": "Hvaða íslenska félag var stofnað þann 27. nóvember 1927?",
       "svor": [
-        "Utangarðsmenn",
-        "Fræbbblarnir",
-        "Egó",
-        "Patti Smith Group"
+        "Ferðafélag Íslands",
+        "Slysavarnarfélag Íslands",
+        "Björgunarsveitirnar",
+        "Náttúruverndarsamtök Íslands"
       ],
       "rett": 0,
-      "skyring": "Utangarðsmenn gáfu út sína fyrstu breiðskífu, Geislavirkir, þennan dag."
+      "skyring": "Ferðafélag Íslands hefur glatt marga ferðalanga í áratugi."
     },
     {
-      "spurning": "Hvaða söngkona, fædd þennan dag árið 1939, var þekkt fyrir kraftmikla sviðsframkomu og smellinn „Proud Mary“?",
+      "spurning": "Hver af eftirfarandi listamönnum fæddist þann 27. nóvember?",
       "svor": [
-        "Tina Turner",
-        "Aretha Franklin",
-        "Diana Ross",
-        "Whitney Houston"
+        "Jimi Hendrix",
+        "Elvis Presley",
+        "Bob Dylan",
+        "Freddie Mercury"
       ],
       "rett": 0,
-      "skyring": "Tina Turner, rokkdrottningin, fagnaði afmæli sínu þennan dag."
+      "skyring": "Jimi Hendrix, goðsögnin á gítarnum, átti afmæli í dag."
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "Casablanca (1942)",
+  "bio": "The Shawshank Redemption (1994)",
   "ord_dagsins": {
-    "ord": "glotta",
-    "skyring": "Að brosa í laumi eða glettnislega, oft með smá háði."
+    "ord": "skraufþurr",
+    "skyring": "Algjörlega þurr, svo þurr að það skraufar í."
   },
-  "vissir_thu": "Fyrsta bókin í bókaflokknum Lína langsokkur eftir sænska rithöfundinn Astrid Lindgren kom út í Svíþjóð þennan dag árið 1945.",
-  "stjornuspa": "Bogmaður, í dag gætir þú fundið þig í miðri óvæntri uppákomu, rétt eins og geimflaug á leið til Mars. Mundu að halda ró sinni og njóta ferðarinnar, jafnvel þótt hún sé full af óvæntum beygjum!",
+  "vissir_thu": "Nóbelsverðlaunin eru veitt í fimm flokkum: eðlisfræði, efnafræði, lífeðlisfræði eða læknisfræði, bókmenntum og friði.",
+  "stjornuspa": "Bogmaður, í dag er dagur til að skjóta örvum þínum hátt! Vertu óhræddur við að kanna nýjar slóðir, en mundu að hafa báða fætur á jörðinni – eða allavega einn.",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/United_States_bombing_raid_over_a_German_city_-_NARA_-_197269.jpg/500px-United_States_bombing_raid_over_a_German_city_-_NARA_-_197269.jpg",
-    "ar": "2011",
-    "texti": "Mars Science Laboratory, geimferð NASA sem bar marsbílinn Curiosity, var skotið á loft frá Cape Canaveral.",
-    "heimild": "https://en.wikipedia.org/wiki/Friendly_fire",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/500px-Alfred_Nobel3.jpg",
+    "ar": "1895",
+    "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði sína síðustu erfðaskrá, þar sem hann setti mestan hluta eigna sinna til hliðar til að stofna Nóbelsverðlaunin eftir dauða sinn.",
+    "heimild": "https://en.wikipedia.org/wiki/Alfred_Nobel",
     "breidd": 330,
-    "haed": 268
+    "haed": 436
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-26",
-  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-27",
+  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
