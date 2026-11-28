@@ -6,132 +6,127 @@
   "stjornumerki": "Bogmaður",
   "sunrise": "10:35",
   "sunset": "15:53",
-  "kvedja": "Góðan dag, kæri lesandi! Þennan 28. nóvember hittast konungleg vísindi, íslenskt gosdrykkjafjör og fyrsti tifandi púlsarinn í einum sögulegum hrærigraut. Helltu í bollann og gakktu hægt um gleðinnar dyr — sagan hefur stundum bæði gos og glundroða í farteskinu.",
-  "nafnadagur": "",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Vonandi hafið þið það gott í nóvemberrigningunni. Í dag er dagurinn sem minnir okkur á að jafnvel í miðri mestu tækniþróun geta óvæntir hlutir gerst – hvort sem það er uppgötvun á nýjum stjörnum eða einfaldlega það að bíll keppir í fyrsta skipti. Allt er hægt!",
+  "nafnadagur": "Auðunn",
   "atburdir": [
     {
-      "ar": "1660",
-      "texti": "Robert Boyle, John Wilkins, Christopher Wren og fleiri vísindamenn komu saman í Gresham College í London og lögðu grunninn að því félagi sem nú nefnist Royal Society. Vísindin voru þar með komin með sitt eigið virðulega félagsheimili."
+      "ar": "2016",
+      "texti": "LaMia flug 2933 brotlenti nálægt Medellín í Kólumbíu, þar sem 71 lést, margir þeirra leikmenn Chapecoense knattspyrnuliðsins."
     },
     {
-      "ar": "1811",
-      "texti": "Fimmti píanókonsert Beethovens var frumfluttur í Gewandhaus í Leipzig. Verkið er oft kallað Keisarakonsertinn, enda ekkert hálfkák á ferðinni þegar Beethoven settist við tónsmíðaborðið."
-    },
-    {
-      "ar": "1925",
-      "texti": "Grand Ole Opry fór fyrst í loftið á útvarpsstöðinni WSM í Nashville. Þátturinn varð langlífasta útvarpsútsending Bandaríkjanna og sveitatónlistin fékk þar heimilisfang til frambúðar."
+      "ar": "1979",
+      "texti": "Flugvél Air New Zealand, flug 901, flaug á Erebusfjall á Suðurskautslandinu með þeim afleiðingum að allir 257 um borð létust."
     },
     {
       "ar": "1967",
-      "texti": "Jocelyn Bell Burnell tók eftir dálitlu „krafskenndu“ merki í gögnum útvarpssjónauka. Merkið reyndist koma frá PSR B1919+21, fyrsta púlsaranum sem fannst."
+      "texti": "Jocelyn Bell Burnell tók eftir „rusli“ í gögnum frá útvarpssjónauka, sem reyndist vera frá PSR B1919+21, fyrsta púlsinum sem uppgötvaðist."
     },
     {
-      "ar": "2016",
-      "texti": "LaMia-flug 2933 fórst nærri Medellín í Kólumbíu og 71 lést, þar á meðal margir leikmenn brasilíska knattspyrnufélagsins Chapecoense. Harmleikurinn vakti djúpa sorg langt út fyrir heim knattspyrnunnar."
+      "ar": "1925",
+      "texti": "Grand Ole Opry, lengsta samfellda útvarpsútsendingin í Bandaríkjunum, fór fyrst í loftið á WSM í Nashville, Tennessee."
+    },
+    {
+      "ar": "1660",
+      "texti": "Robert Boyle, John Wilkins, Christopher Wren og aðrir leiðandi vísindamenn hittust í Gresham College í London til að stofna lærdómsfélag, nú þekkt sem Royal Society."
     }
   ],
   "atburdir_island": [
     {
       "ar": "1700",
-      "texti": "Gregoríska tímatalið, svonefndur nýi stíll, gekk í gildi á Íslandi. Landsmenn skiptu þannig um tímatal, þótt klukkur og dagatöl hafi tæplega hætt að valda heilabrotum.",
+      "texti": "Nýi stíllinn, gregoríska tímatalið, gekk í gildi á Íslandi, og þar með hoppuðum við yfir nokkra daga í einu vetfangi!",
       "landshluti": "Landið allt"
     },
     {
       "ar": "1905",
-      "texti": "Gosdrykkjagerðin Sanitas var stofnuð í Reykjavík. Þar hófst kafli í íslenskri drykkjarsögu sem var öllu freyðandi en flest fundargerðarbókin.",
+      "texti": "Gosdrykkjagerðin Sanitas var stofnuð í Reykjavík, sem gladdi eflaust marga þyrsta Reykvíkinga.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
       "ar": "1971",
-      "texti": "Bústaðakirkja var vígð í Reykjavík og varð áberandi kennileiti í Bústaðahverfi.",
+      "texti": "Bústaðakirkja var vígð, og hefur síðan þjónað samfélaginu í Bústaðahverfinu.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "2021",
-      "texti": "Önnur ríkisstjórn Katrínar Jakobsdóttur tók við völdum, skipuð Vinstri grænum, Sjálfstæðisflokki og Framsóknarflokki. Flokkarnir þrír höfðu þá setið saman í ríkisstjórn frá 2017.",
-      "landshluti": "Landið allt"
+      "ar": "1998",
+      "texti": "Stofnfundur Frjálslynda flokksins var haldinn í Rúgbrauðsgerðinni, sem markaði nýtt kafla í íslenskum stjórnmálum.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
       "nafn": "Alan Ritchson",
-      "starfsgrein": "leikari, fyrirsæta og söngvari",
+      "starfsgrein": "amerískur leikari",
       "ar": "1982"
     },
     {
-      "nafn": "Anna Nicole Smith",
-      "starfsgrein": "fyrirsæta, leikkona og sjónvarpsstjarna",
-      "ar": "1967"
+      "nafn": "Karen Gillan",
+      "starfsgrein": "skosk leikkona",
+      "ar": "1987"
     },
     {
-      "nafn": "Alfonso Cuarón",
-      "starfsgrein": "kvikmyndaleikstjóri, framleiðandi og handritshöfundur",
-      "ar": "1961"
+      "nafn": "Jon Stewart",
+      "starfsgrein": "amerískur grínisti og sjónvarpsmaður",
+      "ar": "1962"
     },
     {
-      "nafn": "Aimee Garcia",
-      "starfsgrein": "leikkona og höfundur",
-      "ar": "1978"
-    },
-    {
-      "nafn": "Alberto Moravia",
-      "starfsgrein": "rithöfundur og blaðamaður",
-      "ar": "1907"
+      "nafn": "William Blake",
+      "starfsgrein": "enskt skáld og listmálari",
+      "ar": "1757"
     }
   ],
   "afmaeli_island": [],
   "spurningar": [
     {
-      "spurning": "Hvað leyndist á bak við „krafskennda“ merkið sem Jocelyn Bell Burnell tók eftir árið 1967?",
+      "spurning": "Hvaða útvarpsútsending, sem fór fyrst í loftið þennan dag, er lengsta samfellda útvarpsútsendingin í Bandaríkjunum?",
       "svor": [
-        "Fyrsti fundni púlsarinn",
-        "Ný reikistjarna",
-        "Sólgos",
-        "Bilun í kaffivélinni"
+        "Grand Ole Opry",
+        "The Lone Ranger",
+        "Amos 'n' Andy",
+        "War of the Worlds"
       ],
       "rett": 0,
-      "skyring": "Merkið kom frá PSR B1919+21, fyrsta púlsaranum sem fannst."
+      "skyring": "Grand Ole Opry hefur skemmt hlustendum í áratugi!"
     },
     {
-      "spurning": "Hvaða íslenska fyrirtæki var stofnað í Reykjavík árið 1905?",
+      "spurning": "Hvaða kirkja var vígð á Íslandi þennan dag árið 1971?",
       "svor": [
-        "Kísiliðjan",
-        "Sanitas",
-        "Time Inc.",
-        "Grand Ole Opry"
+        "Hallgrímskirkja",
+        "Bústaðakirkja",
+        "Akureyrarkirkja",
+        "Hafnarfjarðarkirkja"
       ],
       "rett": 1,
-      "skyring": "Sanitas hóf þar sína freyðandi vegferð í íslenskri gosdrykkjasögu."
+      "skyring": "Bústaðakirkja hefur verið miðpunktur í sínu hverfi síðan."
     },
     {
-      "spurning": "Hvaða afmælisbarn er mexíkóskur kvikmyndaleikstjóri?",
+      "spurning": "Hvaða frægi vísindafélag var stofnað í London þennan dag árið 1660?",
       "svor": [
-        "Alan Ritchson",
-        "Alberto Moravia",
-        "Alfonso Cuarón",
-        "Alexander Godunov"
+        "Royal Astronomical Society",
+        "Royal Society",
+        "Linnean Society of London",
+        "Geological Society of London"
       ],
-      "rett": 2,
-      "skyring": "Alfonso Cuarón fæddist 28. nóvember 1961 og varð einn þekktasti kvikmyndaleikstjóri Mexíkó."
+      "rett": 1,
+      "skyring": "Royal Society er elsta starfandi lærdómsfélag heims!"
     }
   ],
-  "tonlistUSA": "You Light Up My Life – Debby Boone (1977)",
-  "tonlistUK": "Under Pressure – Queen og David Bowie (1981)",
-  "bio": "Rocky (1976)",
+  "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
+  "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
+  "bio": "Home Alone (1990)",
   "ord_dagsins": {
-    "ord": "árdegis",
-    "skyring": "Að árdegis merkir að morgni eða fyrir hádegi."
+    "ord": "Glotti",
+    "skyring": "Létt og glettin brosaðferð sem gefur til kynna ánægju eða sprell."
   },
-  "vissir_thu": "Grand Ole Opry, sem fór fyrst í loftið 28. nóvember 1925, er langlífasta útvarpsútsending Bandaríkjanna.",
-  "stjornuspa": "Bogmaður, dagurinn kallar á stórar hugmyndir, en reyndu að stofna ekki vísindafélag fyrr en eftir hádegiskaffið. Gamalt verkefni gæti skotið upp kollinum eins og púlsari í útvarpsgögnum — reglulega, dularfullt og ómögulegt að hunsa.",
+  "vissir_thu": "Gregoríska tímatalið var tekið upp á Íslandi þennan dag árið 1700, sem þýddi að 11 dögum var sleppt úr almanakinu til að samræma sig við meginland Evrópu!",
+  "stjornuspa": "Bogmaður, í dag gætirðu fundið nýja leið til að sigra hindrun, eða jafnvel uppgötvað nýjan \"púls\" í lífi þínu. Mundu að hlátur lengir lífið, svo glottu aðeins meira en venjulega!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg/500px-The_Shannon_Portrait_of_the_Hon_Robert_Boyle.jpg",
-    "ar": "1660",
-    "texti": "Robert Boyle, John Wilkins, Christopher Wren og fleiri vísindamenn komu saman í Gresham College í London og lögðu grunninn að því félagi sem nú nefnist Royal Society. Vísindin voru þar með komin með sitt eigið virðulega félagsheimili.",
-    "heimild": "https://en.wikipedia.org/wiki/Robert_Boyle",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg/500px-Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg",
+    "ar": "2016",
+    "texti": "LaMia flug 2933 brotlenti nálægt Medellín í Kólumbíu, þar sem 71 lést, margir þeirra leikmenn Chapecoense knattspyrnuliðsins.",
+    "heimild": "https://en.wikipedia.org/wiki/LaMia_Flight_2933",
     "breidd": 330,
-    "haed": 417
+    "haed": 346
   },
-  "veitandi": "Azure OpenAI",
-  "uppfaert": "2026-09-26"
+  "veitandi": "Gemini",
+  "uppfaert": "2026-11-28"
 }

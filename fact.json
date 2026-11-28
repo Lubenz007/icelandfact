@@ -1,152 +1,136 @@
 {
-  "date": "2026-11-27",
-  "dagur": 27,
+  "date": "2026-11-28",
+  "dagur": 28,
   "manudur": "nóvember",
-  "vikudagur": "Föstudagur",
-  "dagurArsins": 331,
-  "sunrise": "10:33",
-  "sunset": "15:56",
-  "mmdd": "11-27",
+  "vikudagur": "Laugardagur",
+  "dagurArsins": 332,
+  "sunrise": "10:35",
+  "sunset": "15:53",
+  "mmdd": "11-28",
   "manudurNr": 11,
   "stjornumerki": "Bogmaður",
-  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Í dag er 27. nóvember og sagan er, eins og alltaf, full af óvæntum vendingum. Hvort sem þú ert að skipuleggja stórt verkefni eins og Alfred Nobel eða bara að njóta góðrar tónlistar, þá er þessi dagur fullur af innblæstri. Mundu að jafnvel minnstu atburðir geta haft stór áhrif!",
-  "nafnadagur": "Ólafur",
+  "kvedja": "Góðan daginn, kæru sagnfræðivinir! Vonandi hafið þið það gott í nóvemberrigningunni. Í dag er dagurinn sem minnir okkur á að jafnvel í miðri mestu tækniþróun geta óvæntir hlutir gerst – hvort sem það er uppgötvun á nýjum stjörnum eða einfaldlega það að bíll keppir í fyrsta skipti. Allt er hægt!",
+  "nafnadagur": "Auðunn",
   "atburdir": [
     {
-      "ar": "1895",
-      "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði sína síðustu erfðaskrá, þar sem hann setti mestan hluta eigna sinna til hliðar til að stofna Nóbelsverðlaunin eftir dauða sinn."
+      "ar": "2016",
+      "texti": "LaMia flug 2933 brotlenti nálægt Medellín í Kólumbíu, þar sem 71 lést, margir þeirra leikmenn Chapecoense knattspyrnuliðsins."
     },
     {
-      "ar": "1945",
-      "texti": "Samtök tuttugu og tveggja bandarískra góðgerðarsamtaka stofnuðu CARE með það verkefni að veita mataraðstoð til Evrópu í kjölfar síðari heimsstyrjaldarinnar."
+      "ar": "1979",
+      "texti": "Flugvél Air New Zealand, flug 901, flaug á Erebusfjall á Suðurskautslandinu með þeim afleiðingum að allir 257 um borð létust."
     },
     {
-      "ar": "1963",
-      "texti": "Fimm dögum eftir morðið á John F. Kennedy, flutti Lyndon B. Johnson forseti ræðuna „Let Us Continue“ þar sem hann talaði fyrir borgararéttindalöggjöf og þjóðareiningu á sameiginlegum fundi Bandaríkjaþings."
+      "ar": "1967",
+      "texti": "Jocelyn Bell Burnell tók eftir „rusli“ í gögnum frá útvarpssjónauka, sem reyndist vera frá PSR B1919+21, fyrsta púlsinum sem uppgötvaðist."
     },
     {
-      "ar": "2001",
-      "texti": "Stjörnufræðingar tilkynntu um uppgötvun á natríum í lofthjúpi fjarreikistjörnunnar HD 209458 b, sem var fyrsti lofthjúpur fjarreikistjörnu til að vera mældur."
+      "ar": "1925",
+      "texti": "Grand Ole Opry, lengsta samfellda útvarpsútsendingin í Bandaríkjunum, fór fyrst í loftið á WSM í Nashville, Tennessee."
     },
     {
-      "ar": "2009",
-      "texti": "Lady Gaga hélt fyrstu tónleika sína á The Monster Ball tónleikaferðalaginu, sem varð tekjuhæsta tónleikaferðalag í sögu fyrir frumraun aðalnúmers."
+      "ar": "1660",
+      "texti": "Robert Boyle, John Wilkins, Christopher Wren og aðrir leiðandi vísindamenn hittust í Gresham College í London til að stofna lærdómsfélag, nú þekkt sem Royal Society."
     }
   ],
   "atburdir_island": [
     {
-      "ar": "1450",
-      "texti": "Langaréttarbót var gerð í Kaupmannahöfn af Kristjáni konungi 1. í þeim tilgangi að koma á friði og lögum á Íslandi og bannaði hún ribbaldaskap og ránsferðir.",
-      "landshluti": "Erlendis"
+      "ar": "1700",
+      "texti": "Nýi stíllinn, gregoríska tímatalið, gekk í gildi á Íslandi, og þar með hoppuðum við yfir nokkra daga í einu vetfangi!",
+      "landshluti": "Landið allt"
     },
     {
-      "ar": "1857",
-      "texti": "Tvö skip fórust með allri áhöfn og farþegum, póstskipið Sölöven undan Svörtuloftum og Drei Annas undan Mýrum, en meðal farþega voru þekktir borgarar í Reykjavík.",
-      "landshluti": "Vesturland"
-    },
-    {
-      "ar": "1927",
-      "texti": "Ferðafélag Íslands var stofnað, sem hefur síðan þá verið mikilvægur drifkraftur í útivist og ferðalögum um landið.",
+      "ar": "1905",
+      "texti": "Gosdrykkjagerðin Sanitas var stofnuð í Reykjavík, sem gladdi eflaust marga þyrsta Reykvíkinga.",
       "landshluti": "Höfuðborgarsvæðið"
     },
     {
-      "ar": "1956",
-      "texti": "Vilhjálmur Einarsson setti Íslands- og Norðurlandamet í þrístökki á Ólympíuleikunum í Melbourne og vann silfurverðlaun, sem var stórkostlegur árangur.",
-      "landshluti": "Erlendis"
+      "ar": "1971",
+      "texti": "Bústaðakirkja var vígð, og hefur síðan þjónað samfélaginu í Bústaðahverfinu.",
+      "landshluti": "Höfuðborgarsvæðið"
+    },
+    {
+      "ar": "1998",
+      "texti": "Stofnfundur Frjálslynda flokksins var haldinn í Rúgbrauðsgerðinni, sem markaði nýtt kafla í íslenskum stjórnmálum.",
+      "landshluti": "Höfuðborgarsvæðið"
     }
   ],
   "afmaeli": [
     {
-      "nafn": "Bruce Lee",
-      "starfsgrein": "leikari og bardagalistamaður",
-      "ar": "1940"
+      "nafn": "Alan Ritchson",
+      "starfsgrein": "amerískur leikari",
+      "ar": "1982"
     },
     {
-      "nafn": "Jimi Hendrix",
-      "starfsgrein": "söngvari, gítarleikari og upptökustjóri",
-      "ar": "1942"
+      "nafn": "Karen Gillan",
+      "starfsgrein": "skosk leikkona",
+      "ar": "1987"
     },
     {
-      "nafn": "Caroline Kennedy",
-      "starfsgrein": "lögfræðingur og sendiherra",
-      "ar": "1957"
+      "nafn": "Jon Stewart",
+      "starfsgrein": "amerískur grínisti og sjónvarpsmaður",
+      "ar": "1962"
     },
     {
-      "nafn": "Bill Nye",
-      "starfsgrein": "verkfræðingur, kennari og sjónvarpsmaður",
-      "ar": "1955"
+      "nafn": "William Blake",
+      "starfsgrein": "enskt skáld og listmálari",
+      "ar": "1757"
     }
   ],
-  "afmaeli_island": [
-    {
-      "nafn": "Edda Heiðrún Backman",
-      "starfsgrein": "leikkona",
-      "ar": "1957"
-    },
-    {
-      "nafn": "Elsa G. Vilmundardóttir",
-      "starfsgrein": "jarðfræðingur",
-      "ar": "1932"
-    },
-    {
-      "nafn": "Guðrún Björnsdóttir",
-      "starfsgrein": "stjórnmálamaður",
-      "ar": "1853"
-    }
-  ],
+  "afmaeli_island": [],
   "spurningar": [
     {
-      "spurning": "Hver undirritaði erfðaskrá sína þann 27. nóvember 1895 og setti þar með grunninn að Nóbelsverðlaununum?",
+      "spurning": "Hvaða útvarpsútsending, sem fór fyrst í loftið þennan dag, er lengsta samfellda útvarpsútsendingin í Bandaríkjunum?",
       "svor": [
-        "Alfred Nobel",
-        "George Armstrong Custer",
-        "William III",
-        "Lyndon B. Johnson"
+        "Grand Ole Opry",
+        "The Lone Ranger",
+        "Amos 'n' Andy",
+        "War of the Worlds"
       ],
       "rett": 0,
-      "skyring": "Alfred Nobel, sænski uppfinningamaðurinn, átti hugmyndina að þessum virtustu verðlaunum."
+      "skyring": "Grand Ole Opry hefur skemmt hlustendum í áratugi!"
     },
     {
-      "spurning": "Hvaða íslenska félag var stofnað þann 27. nóvember 1927?",
+      "spurning": "Hvaða kirkja var vígð á Íslandi þennan dag árið 1971?",
       "svor": [
-        "Ferðafélag Íslands",
-        "Slysavarnarfélag Íslands",
-        "Björgunarsveitirnar",
-        "Náttúruverndarsamtök Íslands"
+        "Hallgrímskirkja",
+        "Bústaðakirkja",
+        "Akureyrarkirkja",
+        "Hafnarfjarðarkirkja"
       ],
-      "rett": 0,
-      "skyring": "Ferðafélag Íslands hefur glatt marga ferðalanga í áratugi."
+      "rett": 1,
+      "skyring": "Bústaðakirkja hefur verið miðpunktur í sínu hverfi síðan."
     },
     {
-      "spurning": "Hver af eftirfarandi listamönnum fæddist þann 27. nóvember?",
+      "spurning": "Hvaða frægi vísindafélag var stofnað í London þennan dag árið 1660?",
       "svor": [
-        "Jimi Hendrix",
-        "Elvis Presley",
-        "Bob Dylan",
-        "Freddie Mercury"
+        "Royal Astronomical Society",
+        "Royal Society",
+        "Linnean Society of London",
+        "Geological Society of London"
       ],
-      "rett": 0,
-      "skyring": "Jimi Hendrix, goðsögnin á gítarnum, átti afmæli í dag."
+      "rett": 1,
+      "skyring": "Royal Society er elsta starfandi lærdómsfélag heims!"
     }
   ],
   "tonlistUSA": "I Will Always Love You – Whitney Houston (1992)",
   "tonlistUK": "I Will Always Love You – Whitney Houston (1992)",
-  "bio": "The Shawshank Redemption (1994)",
+  "bio": "Home Alone (1990)",
   "ord_dagsins": {
-    "ord": "skraufþurr",
-    "skyring": "Algjörlega þurr, svo þurr að það skraufar í."
+    "ord": "Glotti",
+    "skyring": "Létt og glettin brosaðferð sem gefur til kynna ánægju eða sprell."
   },
-  "vissir_thu": "Nóbelsverðlaunin eru veitt í fimm flokkum: eðlisfræði, efnafræði, lífeðlisfræði eða læknisfræði, bókmenntum og friði.",
-  "stjornuspa": "Bogmaður, í dag er dagur til að skjóta örvum þínum hátt! Vertu óhræddur við að kanna nýjar slóðir, en mundu að hafa báða fætur á jörðinni – eða allavega einn.",
+  "vissir_thu": "Gregoríska tímatalið var tekið upp á Íslandi þennan dag árið 1700, sem þýddi að 11 dögum var sleppt úr almanakinu til að samræma sig við meginland Evrópu!",
+  "stjornuspa": "Bogmaður, í dag gætirðu fundið nýja leið til að sigra hindrun, eða jafnvel uppgötvað nýjan \"púls\" í lífi þínu. Mundu að hlátur lengir lífið, svo glottu aðeins meira en venjulega!",
   "mynd": {
-    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/500px-Alfred_Nobel3.jpg",
-    "ar": "1895",
-    "texti": "Sænski efnafræðingurinn og iðnjöfurinn Alfred Nobel undirritaði sína síðustu erfðaskrá, þar sem hann setti mestan hluta eigna sinna til hliðar til að stofna Nóbelsverðlaunin eftir dauða sinn.",
-    "heimild": "https://en.wikipedia.org/wiki/Alfred_Nobel",
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg/500px-Rescate_de_Polic%C3%ADa_al_vuelo_2933_-_05_%28cropped%29.jpg",
+    "ar": "2016",
+    "texti": "LaMia flug 2933 brotlenti nálægt Medellín í Kólumbíu, þar sem 71 lést, margir þeirra leikmenn Chapecoense knattspyrnuliðsins.",
+    "heimild": "https://en.wikipedia.org/wiki/LaMia_Flight_2933",
     "breidd": 330,
-    "haed": 436
+    "haed": 346
   },
   "veitandi": "Gemini",
-  "uppfaert": "2026-11-27",
-  "verdlag": "Árið 1985 kostaði eintak af Morgunblaðinu um 35 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 11-falt síðan þá, samkvæmt vísitölu neysluverðs."
+  "uppfaert": "2026-11-28",
+  "verdlag": "Árið 1982 kostaði eintak af Morgunblaðinu um 8 kr. á Íslandi. Almennt verðlag á Íslandi hefur hækkað um u.þ.b. 36-falt síðan þá, samkvæmt vísitölu neysluverðs."
 }
